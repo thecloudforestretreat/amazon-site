@@ -1,243 +1,362 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<title>Experience The Amazon | Amazon Rainforest Travel, Wildlife and Jungle Experiences</title>
-
-<meta name="description" content="Explore the Amazon rainforest through wildlife encounters, jungle lodges, river journeys and eco tourism experiences across South America. Start with the Ecuador Amazon including Yasuni and Cuyabeno.">
-
+<title>Experience The Amazon | Amazon Rainforest Travel, Wildlife, Rivers and Jungle Destinations</title>
+<meta name="description" content="Experience the Amazon through rainforest travel, wildlife encounters, river journeys and jungle destinations across Brazil, Peru, Ecuador, Colombia and Bolivia.">
+<meta name="keywords" content="Amazon rainforest travel, Amazon jungle tours, Amazon wildlife, Amazon river journeys, Brazil Amazon, Peru Amazon, Ecuador Amazon, Colombia Amazon, Bolivia Amazon">
+<meta name="author" content="Experience The Amazon">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
 <link rel="canonical" href="https://experiencetheamazon.com/">
+<meta name="theme-color" content="#000000">
 
-<meta property="og:title" content="Experience The Amazon | Amazon Rainforest Travel">
-<meta property="og:description" content="Discover Amazon wildlife, rainforest lodges, river journeys and nature travel across the Amazon basin.">
+<meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
+<meta property="og:site_name" content="Experience The Amazon">
+<meta property="og:title" content="Experience The Amazon | Amazon Rainforest Travel, Wildlife, Rivers and Jungle Destinations">
+<meta property="og:description" content="Explore the Amazon through cinematic rainforest travel inspiration, wildlife encounters, river journeys and jungle destinations across South America.">
 <meta property="og:url" content="https://experiencetheamazon.com/">
-<meta property="og:image" content="https://experiencetheamazon.com/assets/logo/experience_the_amazon_og_01.jpg">
+<meta property="og:image" content="https://experiencetheamazon.com/assets/eta_park_page_03.jpg">
+<meta property="og:image:alt" content="A wide aerial view of the Amazon rainforest with a winding river at sunset">
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Experience The Amazon">
-<meta name="twitter:description" content="Amazon rainforest travel inspiration, wildlife encounters, jungle lodges and river journeys.">
-<meta name="twitter:image" content="https://experiencetheamazon.com/assets/logo/experience_the_amazon_og_01.jpg">
+<meta name="twitter:title" content="Experience The Amazon | Amazon Rainforest Travel">
+<meta name="twitter:description" content="Discover rainforest travel, wildlife encounters and river journeys across the Amazon basin.">
+<meta name="twitter:image" content="https://experiencetheamazon.com/assets/eta_park_page_03.jpg">
+<meta name="twitter:image:alt" content="A wide aerial view of the Amazon rainforest with a winding river at sunset">
 
-<link rel="icon" href="/favicon-16x16.png">
-<link rel="stylesheet" href="/assets/css/site.css">
-<link rel="stylesheet" href="/assets/css/header.css">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=2">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=2">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=2">
+<link rel="manifest" href="/site.webmanifest">
 
-<script src="/assets/js/head.js" defer></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="image" href="/assets/eta_park_page_03.jpg">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+
+<meta name="format-detection" content="telephone=no">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Experience The Amazon",
+  "url": "https://experiencetheamazon.com/",
+  "description": "Experience the Amazon through rainforest travel, wildlife encounters, river journeys and jungle destinations across South America.",
+  "inLanguage": "en"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Experience The Amazon",
+  "url": "https://experiencetheamazon.com/",
+  "logo": "https://experiencetheamazon.com/apple-touch-icon.png",
+  "sameAs": []
+}
+</script>
+
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+
+:root{
+  --bg:#000000;
+  --text:#f4efe5;
+  --muted:rgba(244,239,229,.84);
+  --line:rgba(255,255,255,.18);
+  --font-body:"Open Sans",system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+  --font-head:"Playfair Display",Georgia,"Times New Roman",serif;
+}
+
+html,body{
+  min-height:100%;
+  background:var(--bg);
+}
+
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--text);
+  font-family:var(--font-body);
+  line-height:1.6;
+  overflow-x:hidden;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+}
+
+a{
+  color:inherit;
+  text-decoration:none;
+}
+
+.hero{
+  position:relative;
+  min-height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+  overflow:hidden;
+  isolation:isolate;
+  background:#000;
+}
+
+.hero::before{
+  content:"";
+  position:absolute;
+  inset:-6%;
+  background:url("/assets/eta_park_page_03.jpg") center center/cover no-repeat;
+  transform:scale(1.08) translate3d(0,0,0);
+  animation:heroDrift 28s ease-in-out infinite alternate;
+  will-change:transform;
+  z-index:-3;
+}
+
+.hero::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:
+    radial-gradient(circle at center, rgba(0,0,0,.05) 0%, rgba(0,0,0,.24) 48%, rgba(0,0,0,.58) 100%),
+    linear-gradient(to bottom, rgba(0,0,0,.50) 0%, rgba(0,0,0,.16) 20%, rgba(0,0,0,.16) 44%, rgba(0,0,0,.34) 68%, rgba(0,0,0,.92) 100%);
+  z-index:-2;
+}
+
+.hero-topfade{
+  position:absolute;
+  left:0;
+  right:0;
+  top:0;
+  height:18vh;
+  background:linear-gradient(to bottom, rgba(0,0,0,.82), rgba(0,0,0,0));
+  z-index:-1;
+}
+
+.hero-bottomfade{
+  position:absolute;
+  left:0;
+  right:0;
+  bottom:0;
+  height:30vh;
+  background:linear-gradient(to top, rgba(0,0,0,1), rgba(0,0,0,0));
+  z-index:-1;
+}
+
+.hero-content{
+  width:min(100%, 1200px);
+  padding:40px 24px 110px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  gap:20px;
+}
+
+.hero-kicker{
+  font-size:12px;
+  font-weight:600;
+  letter-spacing:.34em;
+  text-transform:uppercase;
+  color:rgba(255,255,255,.82);
+  text-shadow:0 2px 14px rgba(0,0,0,.35);
+  opacity:0;
+  transform:translateY(10px);
+  animation:kickerFade 1.2s ease-out .15s forwards;
+}
+
+.hero h1{
+  margin:0;
+  font-family:var(--font-head);
+  color:var(--text);
+  font-size:clamp(3.2rem, 8vw, 6.6rem);
+  line-height:.90;
+  font-weight:700;
+  letter-spacing:.04em;
+  text-transform:uppercase;
+  text-shadow:
+    0 4px 18px rgba(0,0,0,.28),
+    0 18px 46px rgba(0,0,0,.40),
+    0 0 1px rgba(0,0,0,.25);
+  opacity:0;
+  transform:translateY(18px) scale(.985);
+  animation:titleFade 1.6s cubic-bezier(.2,.8,.2,1) .35s forwards;
+}
+
+.hero h1 span{
+  display:block;
+}
+
+.hero h1 span:first-child{
+  margin-bottom:6px;
+}
+
+.countries{
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  justify-content:center;
+  gap:14px;
+  margin-top:8px;
+  padding-top:18px;
+  border-top:1px solid var(--line);
+  color:var(--muted);
+  text-transform:uppercase;
+  letter-spacing:.22em;
+  font-size:clamp(.78rem, 1.3vw, 1rem);
+  font-weight:600;
+  text-shadow:0 2px 12px rgba(0,0,0,.32);
+  opacity:0;
+  transform:translateY(12px);
+  animation:countriesFade 1.2s ease-out .8s forwards;
+}
+
+.countries span{
+  white-space:nowrap;
+}
+
+.sep{
+  opacity:.55;
+}
+
+.coming{
+  position:absolute;
+  left:50%;
+  bottom:22px;
+  transform:translateX(-50%);
+  width:calc(100% - 40px);
+  text-align:center;
+  font-size:.72rem;
+  letter-spacing:.30em;
+  text-transform:uppercase;
+  color:rgba(255,255,255,.52);
+  text-shadow:0 2px 10px rgba(0,0,0,.30);
+  opacity:0;
+  animation:comingFade 1.1s ease-out 1.2s forwards;
+}
+
+@keyframes heroDrift{
+  0%{
+    transform:scale(1.08) translate3d(0,0,0);
+  }
+  50%{
+    transform:scale(1.12) translate3d(-1.2%, -0.8%, 0);
+  }
+  100%{
+    transform:scale(1.10) translate3d(1.2%, 0.7%, 0);
+  }
+}
+
+@keyframes kickerFade{
+  to{
+    opacity:1;
+    transform:translateY(0);
+  }
+}
+
+@keyframes titleFade{
+  0%{
+    opacity:0;
+    transform:translateY(18px) scale(.985);
+    filter:blur(4px);
+  }
+  100%{
+    opacity:1;
+    transform:translateY(0) scale(1);
+    filter:blur(0);
+  }
+}
+
+@keyframes countriesFade{
+  to{
+    opacity:1;
+    transform:translateY(0);
+  }
+}
+
+@keyframes comingFade{
+  to{
+    opacity:1;
+  }
+}
+
+@media (max-width:700px){
+  .hero{
+    min-height:100svh;
+  }
+
+  .hero-content{
+    padding:28px 20px 90px;
+    gap:16px;
+  }
+
+  .hero-kicker{
+    font-size:11px;
+    letter-spacing:.28em;
+  }
+
+  .hero h1{
+    font-size:clamp(2.7rem, 13vw, 4.6rem);
+    letter-spacing:.03em;
+  }
+
+  .countries{
+    gap:10px;
+    letter-spacing:.16em;
+    padding-top:16px;
+  }
+
+  .coming{
+    font-size:.66rem;
+    letter-spacing:.22em;
+    bottom:18px;
+  }
+}
+
+@media (prefers-reduced-motion:reduce){
+  .hero::before{
+    animation:none;
+    transform:scale(1.08);
+  }
+
+  .hero-kicker,
+  .hero h1,
+  .countries,
+  .coming{
+    opacity:1;
+    transform:none;
+    animation:none;
+    filter:none;
+  }
+}
+</style>
 </head>
-
 <body>
+<section class="hero" aria-label="Experience The Amazon cinematic landing section">
+  <div class="hero-topfade" aria-hidden="true"></div>
+  <div class="hero-bottomfade" aria-hidden="true"></div>
 
-<div class="container">
+  <div class="hero-content">
+    <p class="hero-kicker">Rainforest travel across South America</p>
+    <h1><span>Experience</span><span>The Amazon</span></h1>
 
-<div id="siteHeader"></div>
+    <div class="countries" aria-label="Featured Amazon countries">
+      <span>Brazil</span>
+      <span class="sep">|</span>
+      <span>Peru</span>
+      <span class="sep">|</span>
+      <span>Ecuador</span>
+      <span class="sep">|</span>
+      <span>Colombia</span>
+      <span class="sep">|</span>
+      <span>Bolivia</span>
+    </div>
+  </div>
 
-<main class="page card">
-
-<section class="hero">
-
-<div class="heroMain">
-
-<h1>Explore the Amazon rainforest through wildlife, rivers, and jungle travel</h1>
-
-<p>
-The Amazon rainforest spans nine countries and contains the largest tropical forest on Earth.
-Experience the Amazon connects travelers with wildlife, jungle lodges, river expeditions,
-and rainforest destinations across the Amazon basin, with a strong focus on the Ecuador Amazon.
-</p>
-
-<div class="heroCtas">
-
-<a class="btn primary" href="/ecuador-amazon/">Explore Ecuador Amazon</a>
-
-<a class="btn secondary" href="/tours/">View Tours</a>
-
-<a class="btn ghost" href="/about/">About The Amazon</a>
-
-</div>
-
-</div>
-
-<aside class="heroVisual">
-
-<figure class="heroImageCard">
-
-<img src="/assets/images/pages/placeholders/placeholder-hero.jpg" alt="Amazon rainforest landscape">
-
-</figure>
-
-</aside>
-
+  <div class="coming">Coming soon</div>
 </section>
-
-<section class="section">
-
-<div class="sectionHead">
-
-<h2>The Amazon Basin</h2>
-
-</div>
-
-<div class="tiles">
-
-<div class="tile">
-<h3>6.7 Million km²</h3>
-<p>The Amazon basin is the largest rainforest ecosystem on Earth.</p>
-</div>
-
-<div class="tile">
-<h3>9 Countries</h3>
-<p>The Amazon stretches across Ecuador, Peru, Brazil, Colombia, Bolivia and more.</p>
-</div>
-
-<div class="tile">
-<h3>10% of Earth's Species</h3>
-<p>The Amazon rainforest contains one of the highest concentrations of biodiversity in the world.</p>
-</div>
-
-</div>
-
-</section>
-
-<section class="section">
-
-<div class="sectionHead">
-
-<h2>Explore the Amazon by Country</h2>
-
-</div>
-
-<div class="mediaGrid mediaGridFour">
-
-<article class="mediaCard">
-<div class="mediaFrame">
-<img src="/assets/images/pages/placeholders/placeholder-gallery.jpg" alt="Ecuador Amazon rainforest">
-</div>
-<div class="mediaBar">
-<p class="mediaTitle">Ecuadorian Amazon</p>
-<a class="badge" href="/ecuador-amazon/">Explore</a>
-</div>
-</article>
-
-<article class="mediaCard">
-<div class="mediaFrame">
-<img src="/assets/images/pages/placeholders/placeholder-tour.jpg" alt="Peru Amazon rainforest">
-</div>
-<div class="mediaBar">
-<p class="mediaTitle">Peruvian Amazon</p>
-<span class="badge">Coming Soon</span>
-</div>
-</article>
-
-<article class="mediaCard">
-<div class="mediaFrame">
-<img src="/assets/images/pages/placeholders/placeholder-clouds.jpg" alt="Brazil Amazon rainforest">
-</div>
-<div class="mediaBar">
-<p class="mediaTitle">Brazilian Amazon</p>
-<span class="badge">Coming Soon</span>
-</div>
-</article>
-
-<article class="mediaCard">
-<div class="mediaFrame">
-<img src="/assets/images/pages/placeholders/placeholder-hero.jpg" alt="Colombia Amazon rainforest">
-</div>
-<div class="mediaBar">
-<p class="mediaTitle">Colombian Amazon</p>
-<span class="badge">Coming Soon</span>
-</div>
-</article>
-
-<article class="mediaCard">
-<div class="mediaFrame">
-<img src="/assets/images/pages/placeholders/placeholder-gallery.jpg" alt="Bolivia Amazon rainforest">
-</div>
-<div class="mediaBar">
-<p class="mediaTitle">Bolivian Amazon</p>
-<span class="badge">Coming Soon</span>
-</div>
-</article>
-
-<article class="mediaCard">
-<div class="mediaFrame">
-<img src="/assets/images/pages/placeholders/placeholder-gallery.jpg" alt="Bolivia Amazon rainforest">
-</div>
-<div class="mediaBar">
-<p class="mediaTitle">Other Countries</p>
-<span class="badge">Coming Soon</span>
-</div>
-</article>
-
-</div>
-
-</section>
-
-<section class="section">
-
-<div class="sectionHead">
-
-<h2>Popular Amazon Experiences</h2>
-
-</div>
-
-<div class="mediaGrid mediaGridFour">
-
-<article class="mediaCard">
-<div class="mediaFrame">
-<img src="/assets/images/pages/placeholders/placeholder-clouds.jpg" alt="Amazon river journeys">
-</div>
-<div class="mediaBar">
-<p class="mediaTitle">River Journeys</p>
-<span class="badge">Nature</span>
-</div>
-</article>
-
-<article class="mediaCard">
-<div class="mediaFrame">
-<img src="/assets/images/pages/placeholders/placeholder-tour.jpg" alt="Amazon wildlife encounters">
-</div>
-<div class="mediaBar">
-<p class="mediaTitle">Wildlife Encounters</p>
-<span class="badge">Wildlife</span>
-</div>
-</article>
-
-<article class="mediaCard">
-<div class="mediaFrame">
-<img src="/assets/images/pages/placeholders/placeholder-gallery.jpg" alt="Amazon jungle lodges">
-</div>
-<div class="mediaBar">
-<p class="mediaTitle">Jungle Lodges</p>
-<span class="badge">Stay</span>
-</div>
-</article>
-
-<article class="mediaCard">
-<div class="mediaFrame">
-<img src="/assets/images/pages/placeholders/placeholder-hero.jpg" alt="Guided rainforest tours">
-</div>
-<div class="mediaBar">
-<p class="mediaTitle">Rainforest Tours</p>
-<span class="badge">Explore</span>
-</div>
-</article>
-
-</div>
-
-</section>
-
-</main>
-
-<div id="siteFooter"></div>
-
-</div>
-
-<script src="/assets/js/includes.js" defer></script>
-<script src="/assets/js/site.js" defer></script>
-
 </body>
 </html>
