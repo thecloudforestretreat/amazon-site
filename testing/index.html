@@ -71,9 +71,8 @@
 :root{
   --bg:#000000;
   --surface:#070707;
-  --surface-2:#101010;
   --text:#f4efe5;
-  --muted:rgba(244,239,229,.82);
+  --muted:rgba(244,239,229,.84);
   --soft:rgba(244,239,229,.68);
   --line:rgba(255,255,255,.14);
   --max:1200px;
@@ -133,13 +132,13 @@ a{
 .hero-media::before{
   content:"";
   position:absolute;
-  inset:-3%;
+  inset:-6%;
   background-image:url("/assets/eta_park_page_03.jpg");
   background-size:cover;
   background-position:center center;
   background-repeat:no-repeat;
-  transform:scale(1.02);
-  animation:heroZoom 22s ease-in-out infinite alternate;
+  transform:scale(1.08) translate3d(0,0,0);
+  animation:heroDrift 28s ease-in-out infinite alternate;
   will-change:transform;
 }
 
@@ -148,8 +147,8 @@ a{
   position:absolute;
   inset:0;
   background:
-    radial-gradient(circle at center, rgba(0,0,0,.02) 0%, rgba(0,0,0,.24) 56%, rgba(0,0,0,.5) 100%),
-    linear-gradient(to bottom, rgba(0,0,0,.18) 0%, rgba(0,0,0,.1) 24%, rgba(0,0,0,.12) 44%, rgba(0,0,0,.32) 68%, rgba(0,0,0,.9) 100%);
+    radial-gradient(circle at center, rgba(0,0,0,.04) 0%, rgba(0,0,0,.22) 48%, rgba(0,0,0,.56) 100%),
+    linear-gradient(to bottom, rgba(0,0,0,.52) 0%, rgba(0,0,0,.18) 20%, rgba(0,0,0,.16) 44%, rgba(0,0,0,.34) 68%, rgba(0,0,0,.92) 100%);
 }
 
 .hero-topfade{
@@ -157,8 +156,8 @@ a{
   left:0;
   right:0;
   top:0;
-  height:16vh;
-  background:linear-gradient(to bottom, rgba(0,0,0,.82), rgba(0,0,0,0));
+  height:18vh;
+  background:linear-gradient(to bottom, rgba(0,0,0,.86), rgba(0,0,0,0));
   z-index:-1;
 }
 
@@ -167,20 +166,20 @@ a{
   left:0;
   right:0;
   bottom:0;
-  height:28vh;
+  height:30vh;
   background:linear-gradient(to top, rgba(0,0,0,1), rgba(0,0,0,0));
   z-index:-1;
 }
 
 .hero-content{
   width:min(100%, var(--max));
-  padding:40px 24px 90px;
+  padding:40px 24px 72px;
   text-align:center;
   display:flex;
   flex-direction:column;
   align-items:center;
   justify-content:center;
-  gap:18px;
+  gap:20px;
 }
 
 .hero-kicker{
@@ -188,24 +187,18 @@ a{
   font-weight:600;
   letter-spacing:.34em;
   text-transform:uppercase;
-  color:rgba(255,255,255,.76);
+  color:rgba(255,255,255,.8);
 }
 
 .hero h1{
   font-family:"Playfair Display", Georgia, serif;
-  font-size:clamp(2.4rem, 7vw, 5.4rem);
-  line-height:.94;
+  font-size:clamp(2.6rem, 7vw, 5.8rem);
+  line-height:.92;
   font-weight:700;
-  letter-spacing:.08em;
+  letter-spacing:.06em;
   text-transform:uppercase;
   text-wrap:balance;
   text-shadow:0 10px 40px rgba(0,0,0,.34);
-}
-
-.hero-subtitle{
-  max-width:860px;
-  font-size:clamp(.98rem, 1.5vw, 1.12rem);
-  color:var(--muted);
 }
 
 .countries{
@@ -214,9 +207,9 @@ a{
   align-items:center;
   justify-content:center;
   gap:14px;
-  margin-top:6px;
+  margin-top:8px;
   padding-top:18px;
-  border-top:1px solid rgba(255,255,255,.2);
+  border-top:1px solid rgba(255,255,255,.18);
   color:var(--muted);
   text-transform:uppercase;
   letter-spacing:.22em;
@@ -230,19 +223,6 @@ a{
 
 .sep{
   opacity:.55;
-}
-
-.scroll-note{
-  position:absolute;
-  left:50%;
-  bottom:18px;
-  transform:translateX(-50%);
-  width:calc(100% - 40px);
-  text-align:center;
-  font-size:.74rem;
-  letter-spacing:.22em;
-  text-transform:uppercase;
-  color:rgba(255,255,255,.58);
 }
 
 .content{
@@ -319,12 +299,15 @@ a{
   font-size:.98rem;
 }
 
-@keyframes heroZoom{
+@keyframes heroDrift{
   0%{
-    transform:scale(1.02);
+    transform:scale(1.08) translate3d(0,0,0);
+  }
+  50%{
+    transform:scale(1.12) translate3d(-1.2%, -0.8%, 0);
   }
   100%{
-    transform:scale(1.08);
+    transform:scale(1.1) translate3d(1.2%, 0.7%, 0);
   }
 }
 
@@ -340,8 +323,8 @@ a{
   }
 
   .hero-content{
-    padding:28px 20px 96px;
-    gap:14px;
+    padding:28px 20px 88px;
+    gap:16px;
   }
 
   .hero-kicker{
@@ -350,11 +333,7 @@ a{
   }
 
   .hero h1{
-    letter-spacing:.05em;
-  }
-
-  .hero-subtitle{
-    font-size:.96rem;
+    letter-spacing:.04em;
   }
 
   .countries{
@@ -376,7 +355,7 @@ a{
 
   .hero-media::before{
     animation:none;
-    transform:scale(1.04);
+    transform:scale(1.08);
   }
 }
 </style>
@@ -391,9 +370,6 @@ a{
     <div class="hero-content">
       <p class="hero-kicker">Rainforest travel across South America</p>
       <h1>Experience The Amazon</h1>
-      <p class="hero-subtitle">
-        Discover the Amazon through wildlife, rivers, jungle lodges and unforgettable rainforest destinations across Brazil, Peru, Ecuador, Colombia and Bolivia.
-      </p>
 
       <div class="countries" aria-label="Featured Amazon countries">
         <span>Brazil</span>
@@ -407,8 +383,6 @@ a{
         <span>Bolivia</span>
       </div>
     </div>
-
-    <div class="scroll-note">A cinematic preview of what is coming</div>
   </section>
 
   <section class="content" aria-label="Introduction to Experience The Amazon">
