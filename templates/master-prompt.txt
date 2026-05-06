@@ -1,0 +1,102 @@
+SPANISH LOCALIZATION STANDARD
+Write all Spanish copy in neutral South American Spanish with correct accents and natural travel wording.
+Use proper written Spanish in all public-facing text, including titles, headings, descriptions, CTAs, and body copy.
+Do not omit accents for convenience.
+Do not mix accented and unaccented versions of the same word across the page.
+
+ACCENT AND SPELLING RULES
+Always use:
+- Amazonía
+- país / países
+- planificación
+- próximamente
+- qué
+- cómo
+- por qué
+- está
+- según
+- días
+- guía / guías
+- práctico / práctica
+- información
+- ubicación
+- conexión
+- misión
+- región
+- también
+- aún
+- quién / quiénes
+- vendrá / vendrán
+- básico
+- rápido
+- húmeda
+
+NEVER use these unaccented public-facing forms:
+- Amazonia
+- pais / paises
+- planificacion
+- proximamente
+- que
+- como
+- esta
+- segun
+- dias
+- guia / guias
+- practico / practica
+- informacion
+- ubicacion
+- conexion
+- mision
+- region
+- tambien
+- aun
+- quien / quienes
+- vendra / vendran
+- basico
+- rapido
+- humeda
+
+TRAVEL WORDING STANDARD
+Prefer natural Latin American tourism wording.
+Use terms like:
+- tour
+- viaje
+- excursión
+- alojamiento
+- lodge
+- selva
+- fauna
+- naturaleza
+- avistamiento
+- planificación del viaje
+
+Keep wording clear and useful, not overly formal or Spain-specific.
+
+CAPITALIZATION RULES
+Use normal Spanish capitalization, not English title case.
+Capitalize only:
+- first word of titles/headings
+- proper nouns
+- place names
+- brand names
+
+Examples:
+- Amazonía del Ecuador
+- Tours a la Amazonía desde Quito
+- Qué llevar a la Amazonía
+- Mejores destinos de la Amazonía del Ecuador
+
+Do not write:
+- Tours A La Amazonía Desde Quito
+- Qué Llevar A La Amazonía
+
+CONSISTENCY RULE
+If a preferred Spanish term is chosen for a concept, use it consistently across the page and across paired pages.
+Examples:
+- always use Amazonía, not sometimes Amazonia
+- always use planificación, not sometimes planificacion
+- always use por qué in headings/questions when grammatically correct
+
+FINAL QA RULE
+Before finalizing Spanish copy, check all titles, headings, meta descriptions, and CTA text for missing accents and unnatural phrasing.
+Human-facing Spanish text must read as polished native-level South American Spanish.
