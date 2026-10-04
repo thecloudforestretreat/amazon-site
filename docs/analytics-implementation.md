@@ -102,11 +102,16 @@ landing-page analysis in GA4. Daily BigQuery export preserves event-level data
 for page-pair comparisons, assisted journeys, content cohorts, QA, and future
 Looker Studio reporting.
 
-Create event-scoped GA4 custom dimensions for: `page_id`, `pair_id`, `language`,
-`page_type`, `country`, `destination`, `topic_cluster`, `funnel_stage`, `cta_id`,
-`cta_position`, `module_id`, `form_id`, `partner_id`, and `target_language`.
-Mark `generate_lead` as a key event; mark `purchase` when booking checkout is
-implemented.
+The following event-scoped GA4 custom dimensions were created on October 4,
+2026: `page_id`, `pair_id`, `language`, `page_type`, `country`, `destination`,
+`topic_cluster`, `funnel_stage`, `cta_id`, `cta_position`, `module_id`,
+`form_id`, `partner_id`, and `target_language`.
+
+Mark `generate_lead` as a key event after the first verified form-success event
+is received. It must not be created from the current `form_submit` diagnostic
+event because that event represents an attempt, not confirmed delivery. Mark
+`purchase` when booking checkout is implemented and a confirmed-transaction
+event is available.
 
 ## Release QA
 
@@ -118,4 +123,3 @@ implemented.
    delivery failures do not.
 6. Check GA4 and BigQuery on the following day; daily export is not immediate.
 7. Re-crawl the deployed site and reconcile indexable URLs with the sitemap.
-
