@@ -4,6 +4,7 @@
   "use strict";
 
   const GA_ID = "G-TTSHGZCZZW";
+  const GTM_ID = "GTM-NT8BL3HL";
   const CONSENT_KEY = "eta_analytics_consent_v1";
   const ATTRIBUTION_KEY = "eta_first_touch_v1";
   const PROD_HOSTS = new Set(["experiencetheamazon.com", "www.experiencetheamazon.com"]);
@@ -24,6 +25,17 @@
   });
   window.gtag("set", "ads_data_redaction", true);
   window.gtag("set", "url_passthrough", true);
+
+  let tagManagerLoaded = false;
+  function loadTagManager() {
+    if (tagManagerLoaded || !isTrackablePage) return;
+    tagManagerLoaded = true;
+    window.dataLayer.push({ "gtm.start": Date.now(), event: "gtm.js" });
+    const script = document.createElement("script");
+    script.async = true;
+    script.src = "https://www.googletagmanager.com/gtm.js?id=" + encodeURIComponent(GTM_ID);
+    document.head.appendChild(script);
+  }
 
   function safeStorageGet(key) {
     try { return window.localStorage.getItem(key); } catch (_) { return null; }
@@ -80,23 +92,12 @@
     }
   }
 
-  let tagLoaded = false;
+  let pageViewSent = false;
   function loadGoogleTag() {
-    if (tagLoaded || !isTrackablePage) return;
-    tagLoaded = true;
-
-    const script = document.createElement("script");
-    script.async = true;
-    script.src = "https://www.googletagmanager.com/gtag/js?id=" + encodeURIComponent(GA_ID);
-    document.head.appendChild(script);
+    if (pageViewSent || !isTrackablePage) return;
+    pageViewSent = true;
 
     const context = pageContext();
-    window.gtag("js", new Date());
-    window.gtag("config", GA_ID, Object.assign({}, context, {
-      send_page_view: false,
-      allow_google_signals: false,
-      allow_ad_personalization_signals: false
-    }));
     window.gtag("event", "page_view", Object.assign({}, context, {
       page_title: document.title,
       page_location: sanitizeUrl(window.location.href),
@@ -211,6 +212,7 @@
     }
   };
 
+  loadTagManager();
   captureFirstTouch();
   const storedConsent = safeStorageGet(CONSENT_KEY);
   if (storedConsent === "granted") {

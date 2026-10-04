@@ -5,21 +5,28 @@
 - GA4 property: `Experience The Amazon` (`557349745`)
 - Web stream: `ExperienceTheAmazon.com Production` (`16042105636`)
 - Measurement ID: `G-TTSHGZCZZW`
+- Google Tag Manager account: `Experience The Amazon` (`6380554462`)
+- GTM web container: `experiencetheamazon.com` (`GTM-NT8BL3HL`)
 - Search Console property: `sc-domain:experiencetheamazon.com`
 - BigQuery project: `mindo-bird-watching` (`1038556015352`)
 - BigQuery export: daily events, US data location
 - GA4 event retention: 14 months
 
-The implementation lives in `/assets/js/head.js`. It runs only on
+The browser data layer and consent implementation live in `/assets/js/head.js`.
+GA4 is configured through the published GTM container. Collection runs only on
 `experiencetheamazon.com` and `www.experiencetheamazon.com`; preview and local
 hosts are excluded. `/testing`, `/testing2`, and `/testing3` are also excluded
 from collection.
 
 ## Consent and privacy
 
-Analytics storage defaults to denied. The Google tag is not downloaded until a
-visitor chooses **Allow analytics**. Advertising storage, ad user data, ad
-personalization, Google Signals, and personalized-ad signals remain disabled.
+Analytics storage defaults to denied before GTM loads. GTM and the Google tag
+load to enforce that consent state, but no analytics cookies are set and no site
+interaction events are emitted until a visitor chooses **Allow analytics**.
+Google may receive a cookieless consent-state ping. Advertising storage, ad user
+data, ad personalization, Google Signals, and personalized-ad signals remain
+disabled. GTM's Google tag has `send_page_view` set to `false`; the shared script
+sends exactly one consented page view with the required page metadata.
 
 Never send names, email addresses, phone numbers, message text, booking notes,
 or other user-entered content to GA4. The shared script strips common PII query
