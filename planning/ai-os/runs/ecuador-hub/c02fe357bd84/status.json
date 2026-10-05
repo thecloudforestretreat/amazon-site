@@ -1,0 +1,16 @@
+{
+  "job": "ecuador-hub",
+  "model": "qwen3.5:9b",
+  "status": "editorially_reviewed_and_deployed_to_staging",
+  "seconds": 71.02,
+  "prompt_eval_count": 261,
+  "eval_count": 1591,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false,
+  "raw_draft_sha256": "fa26bf0f35c0827874a6d0b1eb837addc22cbfeee45a685ad4c2ed6b83f4a0b2",
+  "reviewed_draft_sha256": "5f07409d5f9259dd2e1850570463da57cea7608f57c1c5311a30e3edae657bc6",
+  "promotion": "Reviewed cards only; substantial supervisor rewrite, no automatic publication",
+  "deployment": "25124070",
+  "owner_review": "pending",
+  "launch_readiness": "Full accessibility, performance and contact delivery pending"
+}

@@ -1,0 +1,114 @@
+{
+  "en": [
+    {
+      "heading": "Pick Your Route",
+      "intro": "Choose wisely between river canoe journeys in Cuyabeno or road-access bases like Tena and Puyo. Verify if your specific lodge sits inside the national park boundaries before booking.",
+      "points": [
+        "Is a quiet river canoe trip better than a busy road transfer to your lodge?",
+        "Does your chosen property offer direct access to deep rainforest zones without extra fees?",
+        "Will you visit botanical gardens in Puyo or focus solely on wild river expeditions?"
+      ]
+    },
+    {
+      "heading": "Count Full Days",
+      "intro": "Don't rush. A single day often feels too short for deep jungle immersion. Plan at least two full days to truly appreciate the rhythm of life along the Amazon rivers.",
+      "points": [
+        "Do you need one full day or two to feel the true jungle heartbeat?",
+        "Is your schedule flexible enough to handle unexpected weather delays without losing key moments?",
+        "Will rushing reduce your chances of spotting shy animals that hide during busy hours?"
+      ]
+    },
+    {
+      "heading": "Pace for a Mixed Group",
+      "intro": "Travel with friends or family? Adjust speeds. Some love long hikes while others prefer resting by the river. Find a middle ground that keeps everyone happy and safe.",
+      "points": [
+        "Can slower members keep up without feeling left behind during steep jungle paths?",
+        "Does your group need frequent breaks to enjoy views rather than just rushing forward?",
+        "Will you split into smaller teams or stick together for shared safety and fun?"
+      ]
+    },
+    {
+      "heading": "Respect Hosts",
+      "intro": "Local communities welcome guests with open hearts, but always ask first. Never visit a family home without an official invitation. Their traditions are precious gifts to honor carefully.",
+      "points": [
+        "Have you asked permission before entering any local village or private community space?",
+        "Do you understand that some rituals require quiet observation rather than loud questions?",
+        "Will you bring small, thoughtful gifts instead of demanding photos inside sacred homes?"
+      ]
+    },
+    {
+      "heading": "Check Changing Conditions",
+      "intro": "Rainforests shift fast. Rivers rise or fall; roads get muddy quickly. Always confirm current transport options and weather updates before leaving home. Flexibility saves your adventure from sudden stops.",
+      "points": [
+        "Did you check recent river levels that might block your planned canoe route today?",
+        "Are road conditions clear enough for buses or will you need a boat transfer?",
+        "Does your guide have a backup plan if heavy rain blocks the main path?"
+      ]
+    },
+    {
+      "heading": "Prepare a Focused Inquiry",
+      "intro": "Ask smart questions. Don't just want photos; learn about local ecology and culture. Prepare specific queries about wildlife habits, plant uses, and community stories to make your trip meaningful.",
+      "points": [
+        "Do you know which animals are active at night versus those seen during day?",
+        "Will you ask guides about medicinal plants used by elders in the nearby villages?",
+        "Have you thought of questions that show genuine interest beyond simple tourist curiosity?"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "heading": "Elige tu ruta",
+      "intro": "Elige con cuidado: viajes en canoa por el río en Cuyabeno o bases accesibles por carretera como Tena y Puyo. Verifica si tu lodge está dentro del parque nacional antes de reservar.",
+      "points": [
+        "¿Prefieres la calma de una canoa o un traslado rápido por la carretera?",
+        "¿Tu propiedad ofrece acceso directo a zonas profundas sin costos extraños?",
+        "¿Visitarás jardines botánicos en Puyo o te enfocarás solo en expediciones fluviales?"
+      ]
+    },
+    {
+      "heading": "Cuenta días completos",
+      "intro": "No apures. Un día suele ser muy corto para sumergirse en la selva. Planea al menos dos días enteros para apreciar el ritmo de vida junto a los ríos amazónicos.",
+      "points": [
+        "¿Necesitas un o dos días completos para sentir el verdadero latido de la selva?",
+        "¿Tu horario es flexible para imprevistos sin perder momentos clave del viaje?",
+        "¿Correrá reducir tus chances de ver animales tímidos que se esconden en horas ocupadas?"
+      ]
+    },
+    {
+      "heading": "Paso para grupo mixto",
+      "intro": "Viajas con amigos o familia? Ajusta el ritmo. Algunos aman largas caminatas mientras otros prefieren descansar junto al río. Encuentra un punto medio que mantenga a todos felices y seguros.",
+      "points": [
+        "¿Pueden los más lentos seguir sin sentirse abandonados en senderos empinados?",
+        "¿Tu grupo necesita pausas frecuentes para disfrutar vistas en vez de solo correr?",
+        "¿Se dividirán en equipos pequeños o irán juntos por seguridad y diversión compartida?"
+      ]
+    },
+    {
+      "heading": "Respeta a los anfitriones",
+      "intro": "Las comunidades locales reciben con el corazón abierto, pero pregunta siempre. Nunca visites un hogar sin invitación oficial. Sus tradiciones son regalos preciosos que hay que honrar con cuidado.",
+      "points": [
+        "¿Has pedido permiso antes de entrar a cualquier aldea o espacio comunitario privado?",
+        "¿Entiendes que algunos rituales requieren observación silenciosa en vez de preguntas ruidosas?",
+        "¿Traerás pequeños regalos pensados en vez de exigir fotos dentro de hogares sagrados?"
+      ]
+    },
+    {
+      "heading": "Revisa condiciones cambiantes",
+      "intro": "La selva cambia rápido. Los ríos suben o bajan; las carreteras se ensucian pronto. Confirma siempre opciones actuales de transporte y clima antes de salir. La flexibilidad salva tu aventura.",
+      "points": [
+        "¿Revisaste niveles recientes del río que podrían bloquear tu ruta planificada hoy?",
+        "¿Las condiciones viales permiten buses o necesitarás un traslado en bote?",
+        "¿Tu guía tiene un plan de respaldo si la lluvia fuerte bloquea el sendero principal?"
+      ]
+    },
+    {
+      "heading": "Prepara una pregunta enfocada",
+      "intro": "Haz preguntas inteligentes. No solo quieras fotos; aprende sobre ecología y cultura local. Prepara consultas específicas sobre hábitos de fauna, usos de plantas y historias comunitarias para hacer tu viaje significativo.",
+      "points": [
+        "¿Sabes qué animales están activos de noche versus los vistos durante el día?",
+        "¿Preguntarás a guías sobre plantas medicinales usadas por ancianos en aldeas cercanas?",
+        "¿Has pensado preguntas que muestren interés genuino más allá de la curiosidad turística simple?"
+      ]
+    }
+  ]
+}

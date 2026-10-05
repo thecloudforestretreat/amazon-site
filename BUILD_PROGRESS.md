@@ -1,123 +1,23 @@
 # Experience The Amazon build progress
 
-Last updated: 2026-10-05
+Updated October 5, 2026. Current checkpoint supersedes the early pilot notes in Git history.
 
-## Overall
+| Measure | Current status |
+| --- | --- |
+| Ecuador pairs polished in this workflow | 7 of 34 planned pairs — 20.6% |
+| Site pairs polished in this workflow | 7 of the current 40-pair baseline — 17.5% |
+| Existing source routes, including scaffolds | 12 pairs / 24 HTML pages — 30% of current baseline |
+| Current batch | Ecuador overview + lodge guide, EN/ES, staging review |
+| Other country clusters | No polished clusters yet for Peru, Brazil, Colombia, Bolivia, Guyana, Suriname or Venezuela |
+| Final eight-country completion | Not calculable until missing country architectures are added |
+| Launch gates | Full accessibility, measured performance and contact delivery remain pending |
 
-| Workstream | Status | Progress |
-| --- | --- | ---: |
-| Competitor crawl source library | Complete | 8 of 8 countries |
-| Global bilingual foundation | Complete | 5 of 5 page pairs |
-| Current compiled staging build | Validated | 24 HTML pages / 12 bilingual pairs |
-| Current 40-pair CSV build | In progress | 12 of 40 pairs (30%) |
-| Final eight-country sitemap | In progress | Baseline pending 3 missing country architectures |
-| Analytics foundation | Configured | GTM and GA4 IDs installed; production validation pending launch |
-| Lead capture | In progress | UI built; Brevo endpoint and email routing pending |
-| Rights-cleared image library | In progress | 3 documented assets published across 6 bilingual page URLs; remaining placements use placeholders |
+The polished pairs are Ecuador overview, Yasuní, Cuyabeno, Tena, Misahuallí, Puyo and the lodge guide. Counts describe staging content/design progress, not launch readiness. The five global foundation pairs remain built but are outside this polishing count.
 
-The 30% figure applies only to the current 40-pair CSV. It is not the final full-site percentage because Guyana, Suriname and Venezuela still need complete page architectures added to the sitemap.
+This batch replaces hub image placeholders with three distinct, geographically credited photos per page; adds reviewed bilingual planning cards; replaces the lodge comparison table with regional cards; balances the overview destination grid; aligns fact labels; respects sticky-header anchor space; and matches six visible FAQs with structured data. Mobile hamburger navigation remains sticky; desktop retains the sticky secondary Ecuador bar.
 
-## Country status
+Local Qwen drafting ran two calls: 524 prompt tokens, 3,139 output tokens, 135.40 seconds; no inference retries or cache hits. All initial draft calls were local. The cloud supervisor substantially edited the drafts, wrote code and supervised verification. Its token usage is not exposed, so an overall cloud/local token percentage or net saving cannot be reported. Saved local records total 50,754 measured tokens across ten inference calls, including the earlier pilot aggregate.
 
-| Country | Competitor crawls | Sitemap architecture | Bilingual build | Current focus |
-| --- | --- | --- | --- | --- |
-| Ecuador | 5 of 5 complete | 34 pairs defined | 7 of 34 pairs built (21%) | Tours from Quito, duration and traveler-type pages |
-| Peru | 5 of 5 complete | Country pair only | 0 country pairs built | Define complete cluster after Ecuador |
-| Brazil | 5 of 5 complete | Country pair only | 0 country pairs built | Define complete cluster; evaluate Portuguese layer |
-| Colombia | 5 of 5 complete | Country pair only | 0 country pairs built | Define complete cluster |
-| Bolivia | 5 of 5 complete | Country pair only | 0 country pairs built | Define complete cluster |
-| Guyana | 5 of 5 complete | Missing from current CSV | 0 pairs built | Add complete cluster to sitemap |
-| Suriname | 5 of 5 complete | Missing from current CSV | 0 pairs built | Add complete cluster to sitemap |
-| Venezuela | 5 of 5 complete | Missing from current CSV | 0 pairs built | Add complete cluster to sitemap |
+Raw drafts, reviewed hashes, QA and rollback evidence are retained under planning/ai-os/. Small-model community assumptions and literal Spanish required correction; future hub prompts now explicitly prohibit those additions. Homepage styles were preserved, and a separate Ecuador hub stylesheet prevents the observed style collision. Current source checks validate all 24 pages and all four hub pages.
 
-## Image policy
-
-Every published image must have an entry in an image-rights ledger recording the original asset URL, creator, source platform, license or written permission, download date, required attribution, geographic subject, page placements and local optimized filenames. Images without adequate location evidence or reuse rights remain placeholders.
-
-## Local AI-OS pilot — October 5
-
-Cuyabeno EN/ES is editorially reviewed and prepared locally: 2,292 English and 2,345 Spanish main-content words, ten planning sections and six FAQs in each language. The existing Cuyabeno photograph has reverified commercial reuse evidence, localized alt text and a linked credit. All 24 pages build and validate; the AI-OS pilot audit passes. Ten worker/promotion tests, four model-routing tests and nine core checks pass.
-
-Installed a narrow AI-OS Amazon CLI adapter and activated an hourly thread supervisor. Local drafts have checkpoints, usage records, integrity checks, an exclusive worker lock and bounded attempts. Exact reviewed hashes protect atomic bilingual promotion. Small-model factual and language failures required supervisor corrections and a larger local translation model. Local inference does not eliminate cloud supervision costs; no net token-saving claim is made.
-
-Completed/deployed pairs in this pass: zero. Prepared pairs: one. Desktop/mobile review is blocked by browser policy verification; Cloudflare authentication is absent on this Mac. The new content has not been deployed. Existing review routes: https://staging.experiencetheamazon.com/ecuador/cuyabeno/ and https://staging.experiencetheamazon.com/es/ecuador/cuyabeno/. These still show the prior deployment.
-
-Batch size remains one until the pilot passes all gates. Next intended batch: Yasuní and Tena. Detailed progress, opportunities, improvements and local usage are retained in planning/ai-os/progress-report.json.
-
-Git milestone is committed locally. Automatic approval review rejected the GitHub push because destination trust or explicit payload authorization was not established; owner approval was requested. Nothing was pushed or deployed.
-
-## Alignment and content-density review — October 5
-
-Owner requested Cuyabeno layout review before further batches. Shared fact strips now use aligned value/label rows across each responsive row, with a flex fallback. Linked-card CTAs and country route-step rows also align across neighboring cards. Global section spacing is centralized and reduced; destination hero padding is smaller.
-
-The reviewed Cuyabeno pair now uses a compact reading column, a desktop section index and short two-column navigation on mobile. Ten separately padded full-width content bands were removed. Main editorial content remains 2,292 EN / 2,345 ES words with the cleared photograph and six FAQs per language.
-
-Build, 24-page route validation and the AI-OS content audit pass. Browser visual QA and publication remain pending; the live staging URL still contains the old short scaffold. Further batches are on hold until the updated pair can be reviewed.
-
-### Staging update — 2026-10-05
-
-Cuyabeno EN/ES deployed to the Cloudflare staging project, deployment `b3fc70de`. Includes aligned fact rows, compact guide layout, expanded bilingual content and Ecuadorian Amazon wording. Build, 24-page validation and AI-OS content audit pass. Staging domain still redirects unauthenticated visitors to Cloudflare Access. Desktop/mobile and owner review remain pending; further batches stay paused. GitHub push remains pending approval.
-
-### Responsive design revision
-
-Deployed `936e17a9`: numbered guide cards with short previews and expandable details, simplified overview, responsive navigation, and fact-label alignment using flex value areas and equal label space. Full bilingual planning text remains available. Build, 24-page validation and content audit pass. Browser visual inspection remains blocked by the admin-policy check; owner review and desktop/mobile verification remain pending.
-
-### Open-card design preview
-
-Deployed `dc7e1aec` to staging. Replaced guide and overview expanders with visible curated content. Added the licensed Cuyabeno landscape photo section, wildlife panel, three trip-duration cards and destination comparison links. Only FAQs use accordions. Responsive layouts use stacked cards below 700px. EN 1,651 / ES 1,778 main words; build, 24-page validation and content audit pass. Visual verification and owner review remain pending. No new worker inference needed: reused reviewed source content.
-
-### Destination CSS isolation
-
-Staging deployment `e467bf93`: moved destination guide styling to `clusters/destination.css`, removed conflicting country rules and unused editorial stylesheet from generated destinations. Removed the narrow sidebar; established full-width card grids, responsive navigation, consistent typography/spacing and explicit wildlife styling. Build, 24-page validation and content audit pass. Browser access again denied by admin-policy check; no visual sign-off.
-
-### Photography refinement
-
-Deployed `33f2fcaf`: added licensed Cuyabeno photo by Constanza S. Mora for the landscape section. Both photos occur once per language page. Hero now uses deliberate 4:3 desktop / 3:2 mobile proportions, focal positioning, restrained corners, no heavy shadow, and credit below the image. Build, validation and content audit pass; rendered browser review remains pending.
-
-### Rounded hero frame
-
-Deployed `5b63c994`: hero image now sits in an ivory frame with 30px outer / 20px inner corners, subtle border and shadow. Mobile uses 24px / 16px corners and narrower inset. Build and validation pass; visual review pending.
-
-### Stylesheet cache invalidation
-
-Deployed `34aa8cf5`. All compiled local CSS links now include SHA-256 content versions so changed styles request new URLs. Addresses a possible stale stylesheet cause of owner seeing no hero update; root cause not visually confirmed. Build, validation and content audit pass.
-
-### Frameless hero refinement
-
-Deployed `967b1d49`: removed white frame, border and inset padding; rounded the photograph itself (24px desktop / 20px mobile), with subtle shadow and separate credit. CSS content versions updated automatically. Build, 24-page validation and content audit pass; visual review remains pending.
-
-### Editorial and interaction polish
-
-Deployed `c04c7e71`: curated bilingual display copy replaces sentence extraction. Stronger hero narrative, one primary action per CTA area, quieter secondary links, improved FAQ spacing and mobile buttons. Original long paragraphs retained in source. EN 1,176 / ES 1,265 main words. Editorial word-count minimum adjusted from 1,500 to 1,000 to reflect owner-requested concision; section/schema/image/link checks retained. Build, 24-page validation and audit pass. No new inference used; visual and owner sign-off pending.
-
-### Design QA — static checks and safe contact simulation
-
-Deployed `ac7af02b`. Fixed hero credit contrast (4.06:1 to 5.79:1) and added explicit photo dimensions. Six selected solid-color contrast pairs pass normal-text thresholds; this is not a full rendered accessibility audit. Unique IDs, H1s, image alt presence and contact labels checked. Node VM simulation verifies both localized missing-endpoint fallbacks and WhatsApp/mailto URL construction with zero network requests. Form delivery endpoint remains absent. Photos total 1,169,158 bytes per language page; below-fold image is lazy. No measured Lighthouse/LCP/CLS/INP results, browser visual or real keyboard testing: admin-policy check denied access again. Evidence: `planning/ai-os/design-qa.json`, `contact-qa.json`.
-
-### Browser access restored
-
-Initial rendered checks now pass: EN at 1440/390px and ES at 1117/390px have no document horizontal overflow. Desktop fact-label positions match exactly; rounded hero styling and loaded images confirmed. English mobile menu opens/closes with Enter. Spanish wildlife anchor settles below the sticky navigation. Viewport override cleared; original English preview restored. Full keyboard/accessibility audit, measured performance and contact delivery remain pending. Owner quality hold retained.
-
-### Yasuní and Tena bilingual batch — owner preview
-
-Deployed `943c4348` to protected staging after owner approved the Cuyabeno template and the next two-pair batch. Four reviewed pages: Yasuní EN/ES (1,129/1,163 main words), Tena EN/ES (1,339/1,234). Added geographically verified licensed Yasuní photography and confirmed the existing Tena Unsplash asset; each hero appears once per page. Generalized destination headings, itinerary cards, source panels and audits.
-
-Two sequential local qwen3.5:9b calls: 1,775 prompt tokens and 10,521 generated tokens, 463.05 seconds; no retry or cache hit on these initial calls. Local worker cloud tokens: zero; supervision still uses cloud resources. Substantial editorial correction removed unsupported claims and improved Spanish; raw and reviewed drafts are preserved with hashes. The batch runner isolates drafts, bounds attempts and caches output; its structural validator remains limited and does not replace editorial review.
-
-Build/24-page validation and both audits pass. Authenticated desktop/mobile checks at 1117/390 px across both languages show no horizontal overflow, aligned desktop fact labels and loaded rounded hero images. Spanish hero/content-card screenshots reviewed. Unauthenticated staging requests return 302 to Access. Full accessibility, measured performance and contact delivery remain pending before launch. Remote push remains blocked by prior automatic approval review; local staging work preserved. Owner review pending before further batches.
-
-### Full three-photo destination template — 2026-10-05
-
-Owner requested the complete visual template for Yasuní and Tena EN/ES. Deployed `ca21a962`: three unique destination photos per page, landscape introduction with photo left, experience panel with photo right, consistent image-first mobile stack. Four licensed supporting assets acquired, resized and rights-recorded with localized alt text and on-page creator/license/change notices. Shared compiler and cluster CSS now support section-indexed photo metadata and alternating placement.
-
-Observed intrinsic grid-image height expansion in initial deployment `8dab5ae3`; fixed image sizing so desktop copy drives panel height. Final desktop/mobile checks across four pages show no horizontal overflow and correct three-photo placement. Subsequent Tena section readbacks verify lazy-loaded assets. Screenshots and raw checks saved in evidence. All 24 compiled pages validate; Cuyabeno, Yasuní and Tena audits pass. Added photo uniqueness/asset/credit checks and verified rejection using a duplicate-photo mutation, then restored the compiled file and reran successfully. Protected domain still returns 302 unauthenticated. Previous approved deployment `943c4348` retained as rollback reference. No additional local drafting calls needed. Full launch QA/contact-delivery limitations and GitHub push blocker remain.
-
-### Distinct Cuyabeno frog and concise credits
-
-Owner requested unique photos per page and a different frog for Cuyabeno. Deployed `b297690f`: new geographically verified Javier Ábalos Alvarez Cuyabeno frog photo (CC BY-SA 2.0) in EN/ES wildlife feature. All three destination pairs now use three distinct photos per page. Replaced long change notices with Edited/Adaptada while retaining required creator/license/change notices. Global 24-page validator rejects repeated main-content images (query strings normalized); negative mutation verified and compiled file restored. All destination audits and validation pass. EN desktop and ES mobile visual readback: loaded frog, no overflow, concise credits; screenshot retained. No local inference required. Previous deployment `ca21a962` is rollback reference.
-
-### Yasuní repeated-scene correction
-
-Owner caught similar views of the same scene under distinct filenames. Replaced the supporting reflections photo in EN/ES with Lauren Whitehurst’s verified Yasuní tributary sunset (CC BY-SA 4.0). Future uniqueness review must compare actual scenes/crops; filename checks alone are insufficient. Build, 24-page validation and Yasuní audit pass; deployed `01baf569`. Previous `b297690f` retained as rollback reference.
-
-EN desktop and ES mobile live readback verified replacement sunset loaded with no horizontal overflow. Screenshot saved.
+Await owner review before another batch. Suggested next pair batch: tours from Quito and the 3-day Amazon guide, subject to review. Staging only; main and production are untouched. GitHub push authorization remains unresolved.

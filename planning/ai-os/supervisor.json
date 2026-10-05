@@ -14,11 +14,13 @@
   "next_batch_size_after_verified_pilot": 2,
   "completed_pairs": [],
   "prepared_pairs": [
-    "pair_005",
+    "pair_003",
     "pair_004",
+    "pair_005",
     "pair_006",
     "pair_007",
-    "pair_008"
+    "pair_008",
+    "pair_009"
   ],
   "completion_requires": [
     "Editorial and bilingual review",
@@ -44,34 +46,32 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review of Misahualli and Puyo EN/ES preview",
-    "Measured performance, full accessibility and contact delivery checks before launch",
+    "Owner review of Ecuador overview and lodge-guide EN/ES",
+    "Launch accessibility, performance and contact delivery",
     "Retain pending GitHub push authorization"
   ],
   "future_batches": [
-    "Yasuni + Tena",
-    "Misahualli + Puyo",
-    "Ecuador hub + lodge hub"
+    "Tours from Quito + 3-day Amazon guide, after owner review"
   ],
   "notification_policy": "Meaningful change, verified completion, failure or required user action only",
   "pilot_status": "deployed_initial_browser_checks_pass_full_qa_pending",
   "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
   "next_batch_candidates": [
-    "ecuador hub",
-    "lodge hub"
+    "amazon-tours-from-quito",
+    "3-day-amazon-tour"
   ],
   "local_worker_run_complete": true,
   "git_status": "Committed locally; remote push blocked by automatic approval review",
   "quality_hold": {
     "released_by_owner": true,
     "date": "2026-10-05",
-    "scope": "Owner approved Yasuni/Tena and authorized next Misahualli/Puyo batch"
+    "scope": "Owner authorized Ecuador overview and lodge-guide batch after Misahualli/Puyo review"
   },
   "deployment": {
-    "id": "056051a4",
+    "id": "25124070",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://056051a4.amazon-site-staging.pages.dev",
+    "url": "https://25124070.amazon-site-staging.pages.dev",
     "protected_domain_check": "302 Cloudflare Access login",
     "date": "2026-10-05"
   },
@@ -95,16 +95,16 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "misahualli",
-    "puyo"
+    "ecuador-hub",
+    "lodge-hub"
   ],
-  "batch_status": "deployed_reviewed_initial_visual_and_technical_checks_pass_owner_review_pending",
+  "batch_status": "deployed_reviewed_technical_and_initial_visual_checks_pass_owner_review_pending",
   "batch_browser_checks": {
     "date": "2026-10-05",
-    "deployment": "056051a4",
-    "slugs": [
-      "misahualli",
-      "puyo"
+    "deployment": "25124070",
+    "pairs": [
+      "pair_003",
+      "pair_009"
     ],
     "languages": [
       "en",
@@ -116,17 +116,17 @@
     ],
     "horizontal_overflow": false,
     "hero_and_supporting_images_loaded": true,
-    "photos_per_page": 3,
     "desktop_fact_labels_aligned": true,
-    "visual_review": "Bilingual heroes and alternating landscape/experience cards reviewed at desktop and mobile widths",
-    "shared_navigation": "Mobile hamburger with Ecuador accordion; primary header sticky on all widths, secondary bar desktop only",
-    "menu_keyboard": "Escape closes and restores focus; forward/backward Tab wraps within open menu; resize to desktop closes and unlocks body",
-    "technical_validation": "24 pages validated; both destination audits and three schema regression tests pass",
+    "hero_corners": "24px desktop, 20px mobile",
+    "anchor_offsets": "148px desktop, 98px mobile",
+    "shared_navigation": "Sticky hamburger on mobile; sticky primary and secondary bars on desktop",
+    "faq_interaction": "passed",
+    "technical_validation": "24 pages plus four hub audits pass",
     "protected_domain_unauthenticated_status": 302,
+    "owner_review": "pending",
     "full_accessibility": "pending",
     "measured_performance": "pending",
-    "contact_delivery": "endpoint absent",
-    "owner_review": "pending"
+    "contact_delivery": "endpoint absent"
   },
   "template": {
     "photos_per_page": 3,
@@ -147,5 +147,14 @@
     ],
     "no_repeated_content_images": true,
     "visual_uniqueness_review": "Required: compare actual scenes and alternate crops, not just filenames"
-  }
+  },
+  "staging_polished_pairs": [
+    "pair_003",
+    "pair_004",
+    "pair_005",
+    "pair_006",
+    "pair_007",
+    "pair_008",
+    "pair_009"
+  ]
 }

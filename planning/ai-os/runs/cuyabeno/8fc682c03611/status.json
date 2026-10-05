@@ -4,7 +4,7 @@
   "model": "qwen3.5:9b",
   "provider": "ollama",
   "cloud_worker_tokens": 0,
-  "status": "awaiting_editorial_review",
+  "status": "editorially_reviewed_and_deployed_to_staging",
   "languages": {
     "en": {
       "prompt_eval_count": 969,
@@ -28,5 +28,8 @@
       "cache_hit": true,
       "words": 1779
     }
-  }
+  },
+  "deployment": "25124070",
+  "owner_review": "Next batch authorized by owner",
+  "launch_readiness": "Full accessibility, performance and contact delivery pending"
 }

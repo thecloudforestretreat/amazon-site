@@ -1,0 +1,16 @@
+{
+  "job": "lodge-hub",
+  "model": "qwen3.5:9b",
+  "status": "editorially_reviewed_and_deployed_to_staging",
+  "seconds": 64.38,
+  "prompt_eval_count": 263,
+  "eval_count": 1548,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false,
+  "raw_draft_sha256": "913f62b4fe7e77a38bc64bb16ade0e3e60d0cde1381c1e82e366ddd681e67256",
+  "reviewed_draft_sha256": "826db91f5d5762077a9986a9530872c31bc7a0c64e6f062d09aca8a35a7346e1",
+  "promotion": "Reviewed cards only; substantial supervisor rewrite, no automatic publication",
+  "deployment": "25124070",
+  "owner_review": "pending",
+  "launch_readiness": "Full accessibility, performance and contact delivery pending"
+}

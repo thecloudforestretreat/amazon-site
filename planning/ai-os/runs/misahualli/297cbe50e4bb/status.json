@@ -1,9 +1,12 @@
 {
   "job": "misahualli",
-  "status": "awaiting_editorial_review",
+  "status": "editorially_reviewed_and_deployed_to_staging",
   "model": "qwen3.5:9b",
   "seconds": 252.98,
   "prompt_eval_count": 866,
   "eval_count": 6048,
-  "cloud_worker_tokens": 0
+  "cloud_worker_tokens": 0,
+  "deployment": "25124070",
+  "owner_review": "Next batch authorized by owner",
+  "launch_readiness": "Full accessibility, performance and contact delivery pending"
 }

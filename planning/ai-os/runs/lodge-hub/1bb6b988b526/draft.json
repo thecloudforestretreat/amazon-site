@@ -1,0 +1,114 @@
+{
+  "en": [
+    {
+      "heading": "Where to Start: Location First",
+      "intro": "Before viewing room photos, understand the base location. Cuyabeno offers river canoe access within a reserve. Tena and Misahualli provide road access near Napo bases. Puyo serves as a gateway city with road links toward Banos.",
+      "points": [
+        "Is your preferred lodge inside the national park or just nearby?",
+        "Does the location offer direct river access or require a road transfer?",
+        "Can you reach botanical gardens and hosted visits from this base?"
+      ]
+    },
+    {
+      "heading": "Comparing Written Quotes",
+      "intro": "Read quotes carefully. Prices vary by season and group size. Some lodges include transfers; others charge extra. Check if the quote covers all meals, guides, and equipment for your specific trip duration.",
+      "points": [
+        "Does this price include all meals, guides, and boat transfers?",
+        "Are there hidden fees for park entry or special permits needed?",
+        "Is the quoted rate per person or per room for your group?"
+      ]
+    },
+    {
+      "heading": "Aligning Guide and Group",
+      "intro": "Match guide skills to your group needs. Ask about experience with families or specific wildlife interests. Ensure communication styles fit well before booking any multi-day expedition into the deep jungle.",
+      "points": [
+        "Does the guide have proven experience leading groups with children?",
+        "Can the guide explain species clearly in your preferred language?",
+        "Is the guide flexible enough to adjust plans for mobility needs?"
+      ]
+    },
+    {
+      "heading": "Family and Mobility Questions",
+      "intro": "Ask specific questions about accessibility. Can boats handle strollers or wheelchairs? Are paths suitable for walkers with limited stamina? Confirm medical support availability if health issues arise during your river journey.",
+      "points": [
+        "Can the boat safely transport strollers, wheelchairs, or mobility aids?",
+        "Are walking paths wide enough and stable for those with limited stamina?",
+        "Is there a doctor available near the lodge in case of illness?"
+      ]
+    },
+    {
+      "heading": "Daily Activity Rhythm",
+      "intro": "Plan your daily rhythm wisely. Early mornings are best for wildlife viewing. Afternoons often involve rest or light activities. Ensure schedules allow enough sleep and recovery time between intense jungle excursions.",
+      "points": [
+        "Does the schedule allow enough rest after early morning boat trips?",
+        "Are afternoon activities optional or mandatory for your specific group size?",
+        "Is there flexibility to skip an activity if someone feels tired?"
+      ]
+    },
+    {
+      "heading": "Booking Changes and Contingency",
+      "intro": "Understand cancellation policies clearly. Weather can disrupt river trips unexpectedly. Ask how the lodge handles delays or missed connections. Ensure you have a backup plan for lost luggage or flight cancellations before paying.",
+      "points": [
+        "What is the penalty if weather cancels your scheduled boat trip?",
+        "How does the lodge handle delays caused by river conditions?",
+        "Is there a refund policy if flights are cancelled by the airline?"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "heading": "Dónde empezar: Ubicación primero",
+      "intro": "Antes de ver fotos, entiende la ubicación base. Cuyabeno ofrece acceso por canoa en reserva. Tena y Misahualli dan acceso por carretera cerca de bases del Napo. Puyo es ciudad puerta con rutas hacia Banos.",
+      "points": [
+        "¿Tu lodge está dentro del parque nacional o solo cerca?",
+        "¿El lugar ofrece acceso directo al río o requiere transferencia terrestre?",
+        "¿Puedes llegar a jardines botánicos y visitas guiadas desde aquí?"
+      ]
+    },
+    {
+      "heading": "Comparando Cotizaciones Escritas",
+      "intro": "Lee las cotizaciones con cuidado. Los precios varían por temporada y grupo. Algunos incluyen traslados; otros cobran extra. Verifica si la oferta cubre comidas, guías y equipo para tu duración específica.",
+      "points": [
+        "¿Este precio incluye todas las comidas, guías y traslados en bote?",
+        "¿Hay costos ocultos por entrada al parque o permisos especiales?",
+        "¿Es el precio por persona o por habitación para tu grupo?"
+      ]
+    },
+    {
+      "heading": "Alineando Guía y Grupo",
+      "intro": "Combina habilidades del guía con necesidades del grupo. Pregunta sobre experiencia con familias o interés en fauna específica. Asegura que estilos de comunicación funcionen bien antes de reservar expedición multi-día.",
+      "points": [
+        "¿El guía tiene experiencia probada liderando grupos con niños?",
+        "¿Puede el guía explicar especies claramente en tu idioma preferido?",
+        "¿Es el guía flexible para ajustar planes según necesidades de movilidad?"
+      ]
+    },
+    {
+      "heading": "Preguntas Familia y Movilidad",
+      "intro": "Haz preguntas específicas sobre accesibilidad. ¿Los botes manejan sillas o cochecitos? ¿Los senderos son aptos para caminantes con poca resistencia? Confirma soporte médico si surgen problemas de salud en el viaje.",
+      "points": [
+        "¿El bote transporta seguro cochecitos, sillas o ayudas de movilidad?",
+        "¿Los senderos son anchos y estables para quienes tienen poca resistencia?",
+        "¿Hay un doctor disponible cerca del lodge si alguien se enferma?"
+      ]
+    },
+    {
+      "heading": "Ritmo Diario de Actividades",
+      "intro": "Planifica tu ritmo diario sabiamente. Mañanas tempranas son mejores para ver fauna. Tardes suelen ser descanso o actividades ligeras. Asegura que horarios permitan suficiente sueño y recuperación entre excursiones intensas.",
+      "points": [
+        "¿El horario permite descanso suficiente después de viajes en bote?",
+        "¿Las actividades de tarde son opcionales o obligatorias para tu grupo?",
+        "¿Hay flexibilidad para saltar una actividad si alguien se siente cansado?"
+      ]
+    },
+    {
+      "heading": "Cambios y Planes Contingencia",
+      "intro": "Entiende políticas de cancelación claramente. El clima puede interrumpir viajes fluviales inesperadamente. Pregunta cómo maneja el lodge retrasos o conexiones perdidas. Asegura tener plan backup por equipaje perdido antes de pagar.",
+      "points": [
+        "¿Cuál es la penalidad si el clima cancela tu viaje en bote?",
+        "¿Cómo maneja el lodge retrasos causados por condiciones del río?",
+        "¿Hay política de reembolso si la aerolínea cancela los vuelos?"
+      ]
+    }
+  ]
+}

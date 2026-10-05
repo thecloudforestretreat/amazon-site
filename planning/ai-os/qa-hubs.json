@@ -1,0 +1,58 @@
+{
+  "ecuador": {
+    "pair_id": "pair_003",
+    "language": "en",
+    "main_words": 1538,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
+      "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
+      "/assets/images/ecuador/tena-forest-jay.jpg"
+    ],
+    "sha256": "36905518390a921dcb3f65410538ffdeaa0aae364290495566e0c5e21df56c8c",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador": {
+    "pair_id": "pair_003",
+    "language": "es",
+    "main_words": 1531,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
+      "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
+      "/assets/images/ecuador/tena-forest-jay.jpg"
+    ],
+    "sha256": "959dc91d9625facfb546fa10eea550be9ab9f234a6ab58c6f66320e0a2e6a152",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/amazon-lodges": {
+    "pair_id": "pair_009",
+    "language": "en",
+    "main_words": 1422,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
+      "/assets/images/ecuador/tena-forest-jay.jpg",
+      "/assets/images/ecuador/puyo-palms.jpg"
+    ],
+    "sha256": "7df12e02768b262386dfc6f840e21ae69b5f8cf0ed664caedb87df4abd3d066d",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/lodges-en-la-amazonia": {
+    "pair_id": "pair_009",
+    "language": "es",
+    "main_words": 1363,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
+      "/assets/images/ecuador/tena-forest-jay.jpg",
+      "/assets/images/ecuador/puyo-palms.jpg"
+    ],
+    "sha256": "a09a82838140e702949e29412355f506c544cc2ed75f223392951fe56e4f1b37",
+    "errors": [],
+    "passed": true
+  }
+}

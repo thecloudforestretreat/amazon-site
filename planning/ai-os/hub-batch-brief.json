@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-05",
+  "owner_authorization": "Proceed to next batch",
+  "pairs": [
+    "pair_003",
+    "pair_009"
+  ],
+  "scope": "Ecuador overview and lodge comparison guide EN/ES design/content upgrade",
+  "constraints": [
+    "Preserve existing routes, pair IDs and section anchors",
+    "No property rankings without current provider evidence",
+    "Three distinct rights-cleared photos per page, geographic captions",
+    "No new unbuilt routes",
+    "Sticky shared hamburger navigation retained"
+  ],
+  "target": "Useful concise cards, regional comparisons, practical decision guidance; staging review, not launch certification",
+  "usage_reporting": "Measured local inference tokens; cloud supervision not exposed, do not infer overall percent from drafting calls"
+}
