@@ -61,16 +61,15 @@
         "licenseUrl": ""
       },
       {
-        "src": "/assets/images/ecuador/yasuni-leaf-frog-gallice.jpg",
+        "src": "/assets/images/ecuador/cuyabeno-monkey-pamsai.jpg",
         "width": 1400,
-        "height": 933,
-        "altEn": "White-lined leaf frog photographed in Yasuní National Park",
-        "altEs": "Rana de hoja fotografiada en el Parque Nacional Yasuní",
-        "source": "https://commons.wikimedia.org/wiki/File:Phyllomedusa_vaillantii_(Yasuni).jpg",
-        "credit": "Geoff Gallice",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-        "section": 4
+        "height": 1050,
+        "credit": "pamsai",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Flying_monkey_%286236430332%29.jpg",
+        "altEn": "Monkey leaping between branches in Cuyabeno, Ecuador",
+        "altEs": "Mono saltando entre ramas en Cuyabeno, Ecuador"
       }
     ]
   }

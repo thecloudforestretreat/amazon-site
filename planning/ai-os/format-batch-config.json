@@ -1,0 +1,45 @@
+[
+  {
+    "job": "three-day-format",
+    "pair": "pair_011",
+    "en": "3-day-amazon-tour",
+    "es": "tour-de-3-dias-en-la-amazonia",
+    "photos": [
+      {
+        "src": "/assets/images/ecuador/tena-forest-jay.jpg",
+        "width": 1400,
+        "height": 933,
+        "altEn": "Sunlight through rainforest trees in Tena, Ecuador",
+        "altEs": "Luz entre los árboles del bosque amazónico en Tena, Ecuador",
+        "source": "https://commons.wikimedia.org/wiki/File:Amazon_Rainforest_in_Tena,_Ecuador.jpg",
+        "credit": "Jay",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "section": 4
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
+        "width": 1400,
+        "height": 788,
+        "altEn": "Palm silhouettes at sunset on a tributary of the Yasuní River",
+        "altEs": "Siluetas de palmeras al atardecer en un afluente del río Yasuní",
+        "source": "https://commons.wikimedia.org/wiki/File:Bactris_Palm_Sunset.jpg",
+        "credit": "Lauren Whitehurst",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "section": 0
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-river-turtle.jpg",
+        "width": 1280,
+        "height": 853,
+        "credit": "Geoff Gallice",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Yellow-spotted_river_turtle_(1).jpg",
+        "altEn": "Turtle on a branch above the Tiputini River, with a butterfly on its head",
+        "altEs": "Tortuga sobre una rama junto al río Tiputini, con una mariposa sobre la cabeza"
+      }
+    ]
+  }
+]

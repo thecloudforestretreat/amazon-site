@@ -26,16 +26,15 @@
         "section": 4
       },
       {
-        "src": "/assets/images/ecuador/yasuni-leaf-frog-gallice.jpg",
-        "width": 1400,
-        "height": 933,
-        "altEn": "White-lined leaf frog photographed in Yasuní National Park",
-        "altEs": "Rana de hoja fotografiada en el Parque Nacional Yasuní",
-        "source": "https://commons.wikimedia.org/wiki/File:Phyllomedusa_vaillantii_(Yasuni).jpg",
+        "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg",
+        "width": 1280,
+        "height": 853,
         "credit": "Geoff Gallice",
         "license": "CC BY 2.0",
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-        "section": 4
+        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Rhetus_periander_(1).jpg",
+        "altEn": "Blue-and-black butterfly on a leaf in Yasuní National Park, Ecuador",
+        "altEs": "Mariposa azul y negra sobre una hoja en el Parque Nacional Yasuní, Ecuador"
       }
     ],
     "five-day-format": [
@@ -63,16 +62,15 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
       },
       {
-        "section": 4,
-        "src": "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
-        "width": 1399,
-        "height": 1400,
-        "altEn": "Green tree frog photographed in Cuyabeno, Ecuador",
-        "altEs": "Rana arborícola verde fotografiada en Cuyabeno, Ecuador",
-        "source": "https://commons.wikimedia.org/wiki/File:Hypsiboas_cinerascens_in_Cuyabeno,_Ecuador.jpg",
-        "credit": "Javier Ábalos Alvarez",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+        "src": "/assets/images/ecuador/yasuni-swallows.jpg",
+        "width": 1280,
+        "height": 853,
+        "credit": "Geoff Gallice",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Atticora_fasciata_-Rio_Tiputini,_Yasuni_National_Park,_Ecuador-8.jpg",
+        "altEn": "White-banded swallows beside the Tiputini River in Yasuní, Ecuador",
+        "altEs": "Golondrinas junto al río Tiputini en Yasuní, Ecuador"
       }
     ]
   }

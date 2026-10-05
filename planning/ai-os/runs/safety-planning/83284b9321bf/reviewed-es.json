@@ -1,0 +1,56 @@
+[
+  {
+    "heading": "Identifica al responsable",
+    "intro": "Pide el nombre del operador y cómo se organiza la guía de tu reserva. Distingue quien vende el viaje de quien lo realiza. Confirma preparación para las actividades y responsabilidades de transporte. El personal puede cambiar: pregunta cómo se comunica una sustitución en lugar de exigir que nunca cambie el equipo.",
+    "points": [
+      "Confirma quién realiza cada parte del viaje.",
+      "Pregunta por la preparación del guía para las actividades.",
+      "Aclara cómo se comunican cambios de personal."
+    ]
+  },
+  {
+    "heading": "Revisa toda la ruta",
+    "intro": "Guarda una ruta con ciudades de llegada, encuentros, carretera, traslados fluviales y base. Compárala con avisos oficiales antes de confirmar. Pregunta qué haría cambiar o cancelar una salida. Un itinerario útil identifica lugares y responsabilidades; un horario muy detallado no determina las condiciones que encontrarás.",
+    "points": [
+      "Pide el acceso y la ruta real de traslados.",
+      "Pregunta qué condiciones harían cambiar el programa.",
+      "Confirma cómo se comunican cambios de ruta."
+    ]
+  },
+  {
+    "heading": "Aclara el transporte",
+    "intro": "Revisa cada tramo, también los que reservas por separado. Identifica proveedor, encuentro y equipaje. Pregunta por equipo e instrucciones de la actividad antes de embarcar. Aclara qué ocurre ante retrasos o un encuentro perdido. La descripción de un paquete no confirma que un operador gestione todas las conexiones.",
+    "points": [
+      "Identifica quién gestiona cada traslado y conexión.",
+      "Pregunta cómo viajan las bolsas al cambiar de vehículo o embarcación.",
+      "Aclara qué ocurre ante retrasos o encuentros perdidos."
+    ]
+  },
+  {
+    "heading": "Entiende el plan de respuesta",
+    "intro": "Pide cómo llega un mensaje urgente desde la base y las salidas. Aclara contacto y alternativas cuando falla la comunicación habitual. Pregunta cómo se organiza ayuda posterior y qué límites existen. Busca un plan comprensible: el nombre de un dispositivo, una especificación técnica o un tiempo preciso no demuestran que llegue ayuda a todos los lugares.",
+    "points": [
+      "Pregunta quién recibe mensajes urgentes de cada salida.",
+      "Pregunta qué ocurre si falla la comunicación habitual.",
+      "Aclara ayuda posterior y límites del plan."
+    ]
+  },
+  {
+    "heading": "Compara requisitos y necesidades",
+    "intro": "Pregunta qué exige la actividad al caminar, embarcar, mantener el equilibrio o estar fuera de la base. Describe tus necesidades prácticas en privado. Confirma equipo, tallas, instrucciones y alternativas. Reserva las decisiones personales de salud a un profesional sanitario. Una lista genérica o la foto de otro grupo no confirma que el programa responda a tus necesidades.",
+    "points": [
+      "Separa artículos personales del equipo suministrado.",
+      "Pregunta por requisitos de cada actividad.",
+      "Confirma alternativas antes de aceptar el programa."
+    ]
+  },
+  {
+    "heading": "Guarda las condiciones",
+    "intro": "Revisa condiciones de cancelación y cambios junto al itinerario. Identifica plazos, cargos y qué ocurre si el proveedor cancela o modifica una ruta. Pregunta cómo afecta una llegada tardía y a quién contactar. Usa las condiciones de tu reserva, no un plazo o devolución universal. Guarda esos documentos con los contactos confirmados.",
+    "points": [
+      "Pide plazos y cargos de cancelación de tu reserva.",
+      "Pregunta qué ocurre si las condiciones cambian el itinerario.",
+      "Confirma contacto y procedimiento ante una llegada tardía."
+    ]
+  }
+]

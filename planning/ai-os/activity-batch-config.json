@@ -74,16 +74,15 @@
         "section": 4
       },
       {
-        "section": 4,
-        "src": "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
-        "width": 1399,
-        "height": 1400,
-        "altEn": "Green tree frog photographed in Cuyabeno, Ecuador",
-        "altEs": "Rana arborícola verde fotografiada en Cuyabeno, Ecuador",
-        "source": "https://commons.wikimedia.org/wiki/File:Hypsiboas_cinerascens_in_Cuyabeno,_Ecuador.jpg",
-        "credit": "Javier Ábalos Alvarez",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+        "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg",
+        "width": 1280,
+        "height": 853,
+        "credit": "Geoff Gallice",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Roosting_bird.jpg",
+        "altEn": "Bird perched among branches in Yasuní National Park, Ecuador",
+        "altEs": "Ave posada entre ramas en el Parque Nacional Yasuní, Ecuador"
       }
     ]
   }

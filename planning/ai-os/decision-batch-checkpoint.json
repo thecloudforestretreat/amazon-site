@@ -1,0 +1,39 @@
+{
+  "pairs": [
+    "pair_022",
+    "pair_023"
+  ],
+  "status": "Safety and Amazon/Galápagos EN/ES deployed; reviewed sources, licensed imagery, technical and initial live desktop/mobile checks pass; launch QA pending",
+  "deployment": "eb6321ee",
+  "initial_deployment": "8c608539",
+  "refinement": "Observed portrait card density fixed before final report",
+  "links": {
+    "safety_en": "https://staging.experiencetheamazon.com/ecuador/is-the-ecuador-amazon-safe/?review=eb6321ee",
+    "safety_es": "https://staging.experiencetheamazon.com/es/ecuador/es-segura-la-amazonia-ecuatoriana/?review=eb6321ee",
+    "comparison_en": "https://staging.experiencetheamazon.com/ecuador/amazon-vs-galapagos/?review=eb6321ee",
+    "comparison_es": "https://staging.experiencetheamazon.com/es/ecuador/amazonia-vs-galapagos/?review=eb6321ee",
+    "packing_en": "https://staging.experiencetheamazon.com/ecuador/what-to-pack-for-the-amazon/?review=eb6321ee",
+    "packing_es": "https://staging.experiencetheamazon.com/es/ecuador/que-llevar-a-la-amazonia/?review=eb6321ee"
+  },
+  "local_usage": {
+    "requests": 2,
+    "measured_requests": 2,
+    "prompt_tokens": 351,
+    "output_tokens": 1914,
+    "measured_tokens": 2265,
+    "seconds_measured": 86.75,
+    "cache_hits": 0,
+    "inference_retries": 0,
+    "blocked_before_inference_attempts": 1,
+    "cloud_worker_tokens": 0,
+    "scope": "Two bounded initial question-draft calls; supervisor substantially rewrote questions and authored bilingual body/FAQ"
+  },
+  "rollback": {
+    "previous_deployment": "7c17d480",
+    "previous_commit": "b30fe42",
+    "branch": "staging",
+    "production_modified": false
+  },
+  "browser_evidence": "planning/ai-os/evidence/decision-browser-qa.json",
+  "rotation": "planning/ai-os/evidence/site-image-usage.json"
+}

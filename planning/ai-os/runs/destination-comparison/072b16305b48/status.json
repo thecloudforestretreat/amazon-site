@@ -1,0 +1,23 @@
+{
+  "job": "destination-comparison",
+  "model": "qwen3.5:9b",
+  "status": "editorially_reviewed_deployed_initial_browser_checks_pass_full_qa_pending",
+  "review_flags": [],
+  "seconds": 37.45,
+  "prompt_eval_count": 175,
+  "eval_count": 882,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false,
+  "raw_review_flags": [
+    "literal_spanish_failure"
+  ],
+  "reviewed_flags": [],
+  "raw_sha256": "026b8145e8526048b577fd79fd9ad3b88141f84a94a36c06318b023c9ea5960b",
+  "reviewed_sha256": "4b1edbbcd13c1c5340a774c1394d2c3f605223b83f203355bfefd5c1e4a5478c",
+  "promotion": "Supervisor-reviewed only: substantial question correction and all bilingual body/FAQ prose by supervisor. Raw draft not published.",
+  "deployment": "eb6321ee",
+  "inference_requests": 1,
+  "inference_retries": 0,
+  "blocked_before_inference_attempts": 0,
+  "visual_review": "initial_desktop_mobile_visual_and_interaction_checks_pass"
+}

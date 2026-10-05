@@ -26,16 +26,16 @@
         "section": 4
       },
       {
-        "section": 4,
-        "src": "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
-        "width": 1399,
-        "height": 1400,
-        "altEn": "Green tree frog photographed in Cuyabeno, Ecuador",
-        "altEs": "Rana arborícola verde fotografiada en Cuyabeno, Ecuador",
-        "source": "https://commons.wikimedia.org/wiki/File:Hypsiboas_cinerascens_in_Cuyabeno,_Ecuador.jpg",
-        "credit": "Javier Ábalos Alvarez",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+        "section": 0,
+        "src": "/assets/images/ecuador/misahualli-boat.jpg",
+        "width": 1400,
+        "height": 1005,
+        "altEn": "A riverside building photographed during a Napo River boat trip near Misahuallí",
+        "altEs": "Edificio ribereño fotografiado durante un paseo en bote por el Napo cerca de Misahuallí",
+        "source": "https://commons.wikimedia.org/wiki/File:Misahuall%C3%AD_Ecuador_1435.jpg",
+        "credit": "Arabsalam",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       }
     ],
     "lodge-hub": [

@@ -1,0 +1,86 @@
+[
+  {
+    "job": "safety-planning",
+    "pair": "pair_022",
+    "en": "is-the-ecuador-amazon-safe",
+    "es": "es-segura-la-amazonia-ecuatoriana",
+    "pageType": "guide_page",
+    "photos": [
+      {
+        "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg",
+        "width": 1400,
+        "height": 1246,
+        "credit": "Fährtenleser",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Tropische_Bl%C3%A4ttervielfalt.jpg",
+        "altEn": "Rainforest foliage and a tree trunk in Cuyabeno, Ecuador",
+        "altEs": "Hojas de selva y un tronco en Cuyabeno, Ecuador"
+      },
+      {
+        "src": "/assets/images/ecuador/puyo-river.jpg",
+        "width": 1400,
+        "height": 1050,
+        "credit": "David C. S.",
+        "source": "https://commons.wikimedia.org/wiki/File:R%C3%ADo_Puyo.JPG",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "altEn": "The Puyo River at its confluence with the Pambay River",
+        "altEs": "Río Puyo en su confluencia con el río Pambay"
+      },
+      {
+        "src": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg",
+        "width": 933,
+        "height": 1400,
+        "credit": "Fährtenleser",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Kapokbaum%2C_San_Victoriano_Siona_Village%2C_Cuyabeno-Reservat.jpg",
+        "altEn": "Looking up a kapok tree at San Victoriano in Cuyabeno, Ecuador",
+        "altEs": "Vista hacia la copa de una ceiba en San Victoriano, Cuyabeno, Ecuador"
+      }
+    ]
+  },
+  {
+    "job": "destination-comparison",
+    "pair": "pair_023",
+    "en": "amazon-vs-galapagos",
+    "es": "amazonia-vs-galapagos",
+    "pageType": "comparison_page",
+    "photos": [
+      {
+        "src": "/assets/images/ecuador/galapagos-bartolome-pete.jpg",
+        "width": 1400,
+        "height": 1050,
+        "credit": "Pete / Peter Gene",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Bartoleme_Island.jpg",
+        "altEn": "Bartolomé Island, Pinnacle Rock and surrounding sea in Galápagos, Ecuador",
+        "altEs": "Isla Bartolomé, roca Pináculo y mar en Galápagos, Ecuador"
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-manakin.jpg",
+        "width": 1279,
+        "height": 1600,
+        "credit": "Geoff Gallice",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Lepidothrix_coronata_2.jpg",
+        "altEn": "Blue-crowned bird perched among leaves in Yasuní National Park, Ecuador",
+        "altEs": "Ave de corona azul entre hojas en el Parque Nacional Yasuní, Ecuador"
+      },
+      {
+        "src": "/assets/images/ecuador/galapagos-sealion-gagnon.jpg",
+        "width": 1400,
+        "height": 933,
+        "credit": "Bernard Gagnon",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Gal%C3%A1pagos_sea_lion%2C_Santa_Fe_Island_02.jpg",
+        "altEn": "Young Galápagos sea lion resting among rocks on Santa Fe Island, Ecuador",
+        "altEs": "Lobo marino joven descansando entre rocas en la isla Santa Fe, Galápagos, Ecuador"
+      }
+    ]
+  }
+]

@@ -52,3 +52,7 @@ Two initial question-drafting calls ran on local qwen3.5:9b (100% of initial cal
 ## Access and packing — October 5, 2026
 
 Deployed `7c17d480`: 19/34 Ecuador content pairs (55.9%), 48 compiled pages. All four new EN/ES routes read back on protected staging; initial desktop/mobile layouts reviewed. Full-page image-loading/interaction audit, accessibility, measured performance and contact delivery remain pending. Two local qwen3.5:9b question drafts: 2,227 measured tokens, 81.74 seconds, zero retries/cache hits. Overall cloud/local share unavailable. Previous deployment `721b3770`, rollback commit `dac8ff3`. Browser access restored; no security settings changed.
+
+## Safety and Amazon/Galápagos — October 5, 2026
+
+Final protected staging deployment `eb6321ee`: 21/34 Ecuador content pairs (61.8%), 52 compiled pages; new two pairs pass initial desktop/mobile visuals, all images load, aligned facts, sticky header, hamburger and keyboard FAQ checks. Full accessibility, measured performance and contact delivery remain pending. Twelve earlier pairs await full visual catch-up. Repeated frogs replaced across seven earlier pairs; each frog now only on its destination pair. Local qwen3.5:9b: two bounded question drafts, 2,265 tokens, 86.75s, zero inference retries/cache hits; one connection blocked before inference. Raw questions substantially corrected, bilingual body authored by supervisor. Overall cloud/local share unavailable. Rollback: `7c17d480` / `b30fe42`; main/production untouched.

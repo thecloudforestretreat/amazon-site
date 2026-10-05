@@ -1,0 +1,237 @@
+{
+  "date": "2026-10-05",
+  "deployment": "eb6321ee",
+  "status": "initial_desktop_mobile_visual_and_interaction_checks_pass",
+  "widths": [
+    1440,
+    390
+  ],
+  "measurements": [
+    {
+      "factYs": [
+        -1985.8203125,
+        -1985.8203125,
+        -1985.8203125,
+        -1985.8203125
+      ],
+      "headerTop": 0,
+      "heroRadius": "24px",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/galapagos-bartolome-pete.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/galapagos-sealion-gagnon.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/amazon-vs-galapagos/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "overflow": false,
+      "route": "/ecuador/amazon-vs-galapagos/",
+      "width": 390
+    },
+    {
+      "factYs": [
+        -2061.4609375,
+        -2061.4609375,
+        -2061.4609375,
+        -2061.4609375
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/galapagos-bartolome-pete.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/galapagos-sealion-gagnon.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/amazonia-vs-galapagos/",
+      "width": 1440
+    },
+    {
+      "deployment": "eb6321ee",
+      "factYs": [
+        -2061.4609375,
+        -2061.4609375,
+        -2061.4609375,
+        -2061.4609375
+      ],
+      "featureHeights": [
+        450,
+        450
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-river.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/is-the-ecuador-amazon-safe/",
+      "width": 1440
+    },
+    {
+      "advicePresent": true,
+      "headerTop": 0,
+      "overflow": false,
+      "route": "/ecuador/is-the-ecuador-amazon-safe/",
+      "width": 390
+    },
+    {
+      "advicePresent": true,
+      "headerTop": 0,
+      "overflow": false,
+      "route": "/es/ecuador/es-segura-la-amazonia-ecuatoriana/",
+      "width": 390
+    },
+    {
+      "deployment": "eb6321ee",
+      "factYs": [
+        -2061.4609375,
+        -2061.4609375,
+        -2061.4609375,
+        -2061.4609375
+      ],
+      "featureHeights": [
+        422,
+        422
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-river.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/es-segura-la-amazonia-ecuatoriana/",
+      "width": 1440
+    },
+    {
+      "deployment": "eb6321ee",
+      "factYs": [
+        -1985.8203125,
+        -1985.8203125,
+        -1985.8203125,
+        -1985.8203125
+      ],
+      "featureHeights": [
+        422,
+        450
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/galapagos-bartolome-pete.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/galapagos-sealion-gagnon.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/amazon-vs-galapagos/",
+      "width": 1440
+    },
+    {
+      "deployment": "eb6321ee",
+      "overflow": false,
+      "route": "/es/ecuador/amazonia-vs-galapagos/",
+      "width": 390
+    },
+    {
+      "deployment": "eb6321ee",
+      "featureHeights": [
+        422,
+        422
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/galapagos-bartolome-pete.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/galapagos-sealion-gagnon.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/amazonia-vs-galapagos/",
+      "width": 1440
+    }
+  ],
+  "screenshots": [
+    "planning/ai-os/evidence/decision-comparison-en-cards-final.png",
+    "planning/ai-os/evidence/decision-safety-es-mobile.png",
+    "planning/ai-os/evidence/decision-comparison-en-desktop.png",
+    "planning/ai-os/evidence/decision-comparison-es-mobile.png",
+    "planning/ai-os/evidence/decision-safety-es-desktop.png",
+    "planning/ai-os/evidence/decision-safety-en-cards-final.png",
+    "planning/ai-os/evidence/decision-comparison-en-desktop-final.png",
+    "planning/ai-os/evidence/decision-safety-en-desktop.png",
+    "planning/ai-os/evidence/decision-packing-frog-replacement.png",
+    "planning/ai-os/evidence/decision-comparison-en-mobile.png",
+    "planning/ai-os/evidence/decision-comparison-es-desktop.png",
+    "planning/ai-os/evidence/decision-safety-en-mobile.png"
+  ],
+  "checks": [
+    "All four EN/ES routes read back and visually reviewed",
+    "All three images load on each new route; geographically accurate licensed scenes inspected",
+    "Desktop fact descriptions align and feature cards remain 422–450px tall",
+    "No horizontal overflow at reviewed widths; header sticky at top 0",
+    "English hamburger opens by click; Spanish opens by Enter; both dismiss with Escape",
+    "English comparison and Spanish safety FAQ opens/closes with Enter",
+    "Current official advice callout readable on mobile EN/ES",
+    "Packing replacement verified loaded on live EN page; no frog image remains on packing pair"
+  ],
+  "limits": [
+    "Initial visual and interaction review, not full accessibility certification",
+    "Measured performance and contact delivery pending",
+    "Earlier twelve pairs still need full visual catch-up; modified earlier pages have static image/structure checks, packing additionally live-reviewed"
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "passed": true,
+  "errors": [],
+  "scope": "EN Ecuador compiled main images; bilingual mirrors counted once",
+  "usage": [
+    {
+      "src": "/assets/images/ecuador/tena-forest-jay.jpg",
+      "count": 6,
+      "routes": [
+        "/ecuador/",
+        "/ecuador/4-day-amazon-tour/",
+        "/ecuador/3-day-amazon-tour/",
+        "/ecuador/best-time-to-visit-the-ecuador-amazon/",
+        "/ecuador/tena/",
+        "/ecuador/amazon-lodges/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
+      "count": 4,
+      "routes": [
+        "/ecuador/",
+        "/ecuador/5-day-amazon-tour/",
+        "/ecuador/yasuni/",
+        "/ecuador/amazon-canoe-tour/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg",
+      "count": 4,
+      "routes": [
+        "/ecuador/4-day-amazon-tour/",
+        "/ecuador/what-to-pack-for-the-amazon/",
+        "/ecuador/cuyabeno/",
+        "/ecuador/amazon-tours-from-quito/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
+      "count": 4,
+      "routes": [
+        "/ecuador/3-day-amazon-tour/",
+        "/ecuador/best-time-to-visit-the-ecuador-amazon/",
+        "/ecuador/yasuni/",
+        "/ecuador/amazon-lodges/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/puyo-palms.jpg",
+      "count": 4,
+      "routes": [
+        "/ecuador/5-day-amazon-tour/",
+        "/ecuador/puyo/",
+        "/ecuador/amazon-lodges/",
+        "/ecuador/amazon-canoe-tour/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg",
+      "count": 3,
+      "routes": [
+        "/ecuador/amazon-wildlife-tour/",
+        "/ecuador/tena/",
+        "/ecuador/amazon-tours-from-quito/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/puyo-river.jpg",
+      "count": 3,
+      "routes": [
+        "/ecuador/private-amazon-tour/",
+        "/ecuador/puyo/",
+        "/ecuador/is-the-ecuador-amazon-safe/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/tena-river-faessler.jpg",
+      "count": 3,
+      "routes": [
+        "/ecuador/family-amazon-tour/",
+        "/ecuador/tena/",
+        "/ecuador/how-to-get-to-the-ecuador-amazon/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/puyo-city.jpg",
+      "count": 3,
+      "routes": [
+        "/ecuador/family-amazon-tour/",
+        "/ecuador/puyo/",
+        "/ecuador/amazon-tours-from-quito/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/misahualli-boat.jpg",
+      "count": 2,
+      "routes": [
+        "/ecuador/",
+        "/ecuador/misahualli/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg",
+      "count": 2,
+      "routes": [
+        "/ecuador/amazon-wildlife-tour/",
+        "/ecuador/4-day-amazon-tour/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/yasuni-river-turtle.jpg",
+      "count": 2,
+      "routes": [
+        "/ecuador/amazon-wildlife-tour/",
+        "/ecuador/3-day-amazon-tour/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg",
+      "count": 2,
+      "routes": [
+        "/ecuador/best-time-to-visit-the-ecuador-amazon/",
+        "/ecuador/amazon-birdwatching-tour/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/napo-forest-grzywa.jpg",
+      "count": 2,
+      "routes": [
+        "/ecuador/private-amazon-tour/",
+        "/ecuador/what-to-pack-for-the-amazon/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg",
+      "count": 2,
+      "routes": [
+        "/ecuador/family-amazon-tour/",
+        "/ecuador/how-to-get-to-the-ecuador-amazon/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/yasuni-swallows.jpg",
+      "count": 2,
+      "routes": [
+        "/ecuador/5-day-amazon-tour/",
+        "/ecuador/amazon-birdwatching-tour/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/yasuni-manakin.jpg",
+      "count": 2,
+      "routes": [
+        "/ecuador/amazon-birdwatching-tour/",
+        "/ecuador/amazon-vs-galapagos/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/private-amazon-tour/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/misahualli-confluence.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/misahualli/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/misahualli-monkey.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/misahualli/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/cuyabeno-monkey-pamsai.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/what-to-pack-for-the-amazon/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/cuyabeno/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/cuyabeno/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/yasuni-leaf-frog-gallice.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/yasuni/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/how-to-get-to-the-ecuador-amazon/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/amazon-canoe-tour/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/is-the-ecuador-amazon-safe/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/is-the-ecuador-amazon-safe/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/galapagos-bartolome-pete.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/amazon-vs-galapagos/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/galapagos-sealion-gagnon.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/amazon-vs-galapagos/"
+      ]
+    }
+  ],
+  "policy": "No duplicates within page; frog scene only on its destination EN page; flag counts for editorial image selection",
+  "regressions": "Duplicate within page and three-page frog reuse rejected"
+}

@@ -1,9 +1,9 @@
 {
   "date": "2026-10-05",
-  "status": "Access and packing EN/ES deployed; editorial, technical, image-asset and initial responsive checks pass; full QA pending",
+  "status": "Safety and Amazon/Galápagos EN/ES deployed; reviewed sources, licensed imagery, technical and initial live desktop/mobile checks pass; launch QA pending",
   "active_batch": [
-    "pair_020",
-    "pair_021"
+    "pair_022",
+    "pair_023"
   ],
   "staging_polished_pairs": [
     "pair_003",
@@ -12,38 +12,41 @@
     "pair_006",
     "pair_007",
     "pair_008",
-    "pair_009"
+    "pair_009",
+    "pair_022",
+    "pair_023"
   ],
   "progress": {
-    "ecuador_polished_pairs": 7,
+    "ecuador_polished_pairs": 9,
     "ecuador_current_planned_pairs": 34,
-    "ecuador_polished_percent": 20.6,
-    "site_polished_in_this_workflow": 7,
+    "ecuador_polished_percent": 26.5,
+    "site_polished_in_this_workflow": 9,
     "site_baseline_pairs": 40,
-    "site_polished_workflow_percent": 17.5,
-    "site_built_including_scaffolds": 24,
-    "site_built_including_scaffolds_percent": 60,
+    "site_polished_workflow_percent": 22.5,
+    "site_built_including_scaffolds": 26,
+    "site_built_including_scaffolds_percent": 65,
     "final_eight_country_completion_percent": null,
     "reason": "Current 40-pair baseline lacks complete Guyana/Suriname/Venezuela architectures; scaffold count is not launch completion",
-    "ecuador_content_prepared_pairs": 19,
-    "ecuador_content_prepared_percent": 55.9,
+    "ecuador_content_prepared_pairs": 21,
+    "ecuador_content_prepared_percent": 61.8,
     "ecuador_visual_review_pending_pairs": 12,
-    "ecuador_content_deployed_pairs": 19,
-    "ecuador_content_deployed_percent": 55.9,
-    "site_built_locally_including_scaffolds": 24,
-    "site_built_locally_including_scaffolds_percent": 60
+    "ecuador_content_deployed_pairs": 21,
+    "ecuador_content_deployed_percent": 61.8,
+    "site_built_locally_including_scaffolds": 26,
+    "site_built_locally_including_scaffolds_percent": 65
   },
   "local_usage_this_batch": {
     "requests": 2,
     "measured_requests": 2,
-    "prompt_tokens": 344,
-    "output_tokens": 1883,
-    "measured_tokens": 2227,
-    "seconds_measured": 81.74,
+    "prompt_tokens": 351,
+    "output_tokens": 1914,
+    "measured_tokens": 2265,
+    "seconds_measured": 86.75,
     "cache_hits": 0,
     "inference_retries": 0,
-    "schema_failures": 0,
-    "cloud_worker_tokens": 0
+    "blocked_before_inference_attempts": 1,
+    "cloud_worker_tokens": 0,
+    "scope": "Two bounded initial question-draft calls; supervisor substantially rewrote questions and authored bilingual body/FAQ"
   },
   "llm_share": {
     "unit": "Initial bounded question-drafting requests in this batch only",
@@ -52,30 +55,30 @@
     "overall_local_token_percent": null,
     "overall_cloud_token_percent": null,
     "cloud_supervision_tokens": "Not exposed by this session",
-    "editorial_note": "Both bounded initial question-draft requests ran locally. Supervisor wrote substantial bilingual body/intro/FAQ, reviewed local questions, sourced photos/facts, built, deployed and tested. Overall cloud/local token and work shares are unavailable."
+    "editorial_note": "100% of two bounded initial question-draft calls ran locally. Supervisor substantially rewrote questions and wrote bilingual body/FAQ, reviewed sources and photos, built/deployed and performed QA. Overall cloud/local tokens and work percentages are unavailable."
   },
   "measured_local_cumulative": {
-    "requests": 22,
-    "prompt_tokens": 15144,
-    "output_tokens": 56050,
-    "total_tokens": 71194,
-    "basis": "Prior measured aggregate plus two logistics calls; historic canoe call remains unmeasured",
+    "requests": 24,
+    "prompt_tokens": 15495,
+    "output_tokens": 57964,
+    "total_tokens": 73459,
+    "basis": "Prior aggregate plus two decision calls; historic canoe response metrics remain unavailable",
     "cloud_supervision_excluded": true,
-    "measured_requests": 21,
+    "measured_requests": 23,
     "unmeasured_requests": 1,
     "token_total_is_lower_bound": true
   },
   "opportunities_and_improvements": [
-    "Strict schema and metrics-before-validation worked on both calls without retry",
-    "Observed Spanish usted/plural voice: corrected to tú and added regression-tested editorial warning",
-    "Added scoped responsive packing checklist with aligned desktop descriptions",
-    "Excluded dated Coca photo with operator branding; approved new Misahuallí scene; six unique scenes with no overlap with prior two batches",
-    "Browser access restored; initial live responsive review now possible; full-page catch-up remains queued"
+    "Owner-reported frog repetition: replaced scenes on seven EN/ES pairs; each frog retained only on its destination pair",
+    "Added compiled site-wide image counts and a gate against repeated frogs and duplicates within a page; byte/source rotation checks preserved",
+    "Added observed local mistranslation and unrealistic-specificity warnings with regression test; raw preserved and corrected before publication",
+    "Portrait photos forced tall cards: scoped desktop CSS now lets text determine row height; final live heights 422–450px; mobile photo-before-text retained",
+    "Five new licensed photographs added with creator, source, license, location evidence and derivative records; new batch has six scenes and zero overlap with preceding two batches"
   ],
   "verification": {
-    "static": "48 compiled HTML pages, 28 hub/format audits, 5 editorial gate tests, 3 schema tests, 1 worker failure regression and image rotation checks pass",
-    "visual": "initial_responsive_review_passed_full_page_audit_pending",
-    "photos": "Six distinct geographically reviewed scenes, no duplicate within page/batch; new CC BY-SA 4.0 Misahuallí scene",
+    "static": "52 compiled HTML pages and 32 hub/format audits pass; 6 observed-editorial-failure tests; site image-usage and batch identity/rotation regression checks pass",
+    "visual": "initial_desktop_mobile_visual_and_interaction_checks_pass",
+    "photos": "New batch: four new licensed scenes plus two cleared existing scenes; packing gains a fifth new photo. Frog repetition removed across seven earlier pairs.",
     "protected_domain_unauthenticated_status": 302,
     "launch_checks_pending": [
       "Full accessibility",
@@ -84,19 +87,21 @@
     ]
   },
   "rollback": {
-    "previous_deployment": "721b3770",
-    "previous_commit": "dac8ff3",
+    "previous_deployment": "7c17d480",
+    "previous_commit": "b30fe42",
     "branch": "staging",
     "production_modified": false
   },
-  "next": "Owner preview review; next candidates: safety and Amazon versus Galapagos",
+  "next": "Owner review of safety/comparison and image rotation; next candidates animals and birds",
   "other_countries": "Peru, Brazil, Colombia, Bolivia, Guyana, Suriname and Venezuela: no polished country clusters in this workflow",
-  "deployment": "7c17d480",
+  "deployment": "eb6321ee",
   "preview_links": {
-    "access_en": "https://staging.experiencetheamazon.com/ecuador/how-to-get-to-the-ecuador-amazon/?review=7c17d480",
-    "access_es": "https://staging.experiencetheamazon.com/es/ecuador/como-llegar-a-la-amazonia-ecuatoriana/?review=7c17d480",
-    "packing_en": "https://staging.experiencetheamazon.com/ecuador/what-to-pack-for-the-amazon/?review=7c17d480",
-    "packing_es": "https://staging.experiencetheamazon.com/es/ecuador/que-llevar-a-la-amazonia/?review=7c17d480"
+    "safety_en": "https://staging.experiencetheamazon.com/ecuador/is-the-ecuador-amazon-safe/?review=eb6321ee",
+    "safety_es": "https://staging.experiencetheamazon.com/es/ecuador/es-segura-la-amazonia-ecuatoriana/?review=eb6321ee",
+    "comparison_en": "https://staging.experiencetheamazon.com/ecuador/amazon-vs-galapagos/?review=eb6321ee",
+    "comparison_es": "https://staging.experiencetheamazon.com/es/ecuador/amazonia-vs-galapagos/?review=eb6321ee",
+    "packing_en": "https://staging.experiencetheamazon.com/ecuador/what-to-pack-for-the-amazon/?review=eb6321ee",
+    "packing_es": "https://staging.experiencetheamazon.com/es/ecuador/que-llevar-a-la-amazonia/?review=eb6321ee"
   },
   "prepared_not_deployed_pairs": []
 }

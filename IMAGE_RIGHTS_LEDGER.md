@@ -94,3 +94,15 @@ Rejected `Canoe on a still lake (37634281976).jpg`: source places it at Laguna Y
 ## Logistics batch — October 5, 2026
 
 `misahualli-napo-bridge.jpg`: Arabsalam, CC BY-SA 4.0, source https://commons.wikimedia.org/wiki/File:Misahuall%C3%AD_Ecuador_1061.jpg . Ecuador Napo/Misahuallí location and visual reviewed; resized derivative retains license, creator/source attribution and Edited/Adaptada caption. Source evidence saved. Five earlier approved scenes reused with no overlap with prior two batches and no repetition within each page. Coca town photo excluded due to dated operator branding; retained only as review evidence, not deployed.
+
+## Decision batch and frog rotation — October 5, 2026
+
+Five new photos, source HTML and geography/license evidence retained in `planning/ai-os/evidence/decision-image-acquisition.json`. Resized renditions keep the selected license and creator/source/license/change captions:
+
+- galapagos-bartolome-pete: CC BY-SA 2.0; https://commons.wikimedia.org/wiki/File:Bartoleme_Island.jpg
+- galapagos-sealion-gagnon: CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Gal%C3%A1pagos_sea_lion%2C_Santa_Fe_Island_02.jpg
+- cuyabeno-monkey-pamsai: CC BY-SA 2.0; https://commons.wikimedia.org/wiki/File:Flying_monkey_%286236430332%29.jpg
+- cuyabeno-leaves-bellers: CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Tropische_Bl%C3%A4ttervielfalt.jpg
+- cuyabeno-kapok-bellers: CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Kapokbaum%2C_San_Victoriano_Siona_Village%2C_Cuyabeno-Reservat.jpg
+
+Bartolomé: Pete/Peter Gene; Santa Fe sea lion: Bernard Gagnon; Cuyabeno monkey: pamsai; leaves and kapok: Fährtenleser. Four scenes used in new pair batch, monkey used for packing replacement; two existing cleared scenes reused in batch. Six batch scenes have no overlap with preceding two batches and no repeated scene per page. Retained frogs appear only on Cuyabeno/Yasuní destination pages. New compiled global usage report exposes all repetition for future selection.

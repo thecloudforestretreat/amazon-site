@@ -1,0 +1,102 @@
+{
+  "en": [
+    {
+      "heading": "Named Provider and Guide",
+      "points": [
+        "Please confirm the full legal name of the operator managing this booking.",
+        "Ask for the specific guide's name, license number, and years of local experience.",
+        "Request written confirmation that this exact team will be present on the day."
+      ]
+    },
+    {
+      "heading": "Exact Itinerary and Current Advice",
+      "points": [
+        "Provide a minute-by-minute schedule for the entire day including rest stops.",
+        "Ask what current local conditions suggest changing or skipping any planned stop.",
+        "Confirm if the route will follow the marked path or require off-trail navigation."
+      ]
+    },
+    {
+      "heading": "Transport Responsibilities",
+      "points": [
+        "Clarify who is responsible for loading and unloading gear at each transfer point.",
+        "Ask how luggage will be moved between locations if the vehicle changes.",
+        "Confirm whether waiting time during transport delays is included in the price."
+      ]
+    },
+    {
+      "heading": "Emergency Communication and Response",
+      "points": [
+        "Request the specific radio frequency or satellite device used for contact.",
+        "Ask what the protocol is if a guide becomes ill or injured during the trip.",
+        "Confirm the estimated time to reach the nearest medical facility in case of need."
+      ]
+    },
+    {
+      "heading": "Activity Equipment and Personal Requirements",
+      "points": [
+        "List every piece of gear you must bring versus what is provided by the team.",
+        "Ask for specific clothing requirements based on current weather conditions.",
+        "Confirm if specialized footwear or protective headgear is mandatory for entry."
+      ]
+    },
+    {
+      "heading": "Written Cancellation and Change Terms",
+      "points": [
+        "Provide a document detailing fees for cancelling less than 48 hours before departure.",
+        "Ask how price adjustments are handled if the itinerary changes due to weather.",
+        "Confirm the process for rescheduling if you must leave early or arrive late."
+      ]
+    }
+  ],
+  "es": [
+    {
+      "heading": "Proveedor y Guía Designados",
+      "points": [
+        "Por favor, confirme el nombre legal completo de la empresa que gestiona esta reserva.",
+        "Pida el nombre del guía específico, su número de licencia y años de experiencia local.",
+        "Solicite confirmación por escrito de que este equipo exacto estará presente el día."
+      ]
+    },
+    {
+      "heading": "Itinerario Exacto y Consejos Actuales",
+      "points": [
+        "Proporciona un horario minuto a minuto para todo el día incluyendo pausas.",
+        "Pregunta qué condiciones locales actuales sugieren cambiar o omitir alguna parada.",
+        "Confirma si la ruta seguirá el sendero marcado o requiere navegación fuera de pista."
+      ]
+    },
+    {
+      "heading": "Responsabilidades de Transporte",
+      "points": [
+        "Aclara quién es responsable de cargar y descargar equipo en cada punto de transferencia.",
+        "Pregunta cómo se moverá el equipaje entre lugares si cambia el vehículo.",
+        "Confirma si el tiempo de espera durante retrasos de transporte está incluido en el precio."
+      ]
+    },
+    {
+      "heading": "Comunicación y Respuesta de Emergencia",
+      "points": [
+        "Solicita la frecuencia de radio específica o dispositivo satelital usado para contacto.",
+        "Pregunta cuál es el protocolo si un guía se enferma o lesiona durante el viaje.",
+        "Confirma el tiempo estimado para llegar a la instalación médica más cercana en caso de necesidad."
+      ]
+    },
+    {
+      "heading": "Equipo de Actividad y Requisitos Personales",
+      "points": [
+        "Lista cada pieza de equipo que debes llevar versus lo que proporciona el equipo.",
+        "Pide requisitos específicos de ropa basados en las condiciones climáticas actuales.",
+        "Confirma si calzado especializado o protección para la cabeza es obligatorio para entrar."
+      ]
+    },
+    {
+      "heading": "Términos Escritos de Cancelación y Cambio",
+      "points": [
+        "Proporciona un documento que detalle las tarifas por cancelar menos de 48 horas antes.",
+        "Pregunta cómo se manejan los ajustes de precio si el itinerario cambia por clima.",
+        "Confirma el proceso para reprogramar si debes ir temprano o llegar tarde."
+      ]
+    }
+  ]
+}

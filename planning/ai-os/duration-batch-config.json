@@ -1,0 +1,86 @@
+[
+  {
+    "job": "four-day-format",
+    "pair": "pair_012",
+    "en": "4-day-amazon-tour",
+    "es": "tour-de-4-dias-en-la-amazonia",
+    "photos": [
+      {
+        "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg",
+        "width": 1800,
+        "height": 1497,
+        "altEn": "Flooded forest reflected in a lagoon in Cuyabeno, Ecuador",
+        "altEs": "Bosque inundado reflejado en una laguna de Cuyabeno, Ecuador",
+        "credit": "Masha Buschujewa / Unsplash",
+        "source": "https://unsplash.com/photos/green-trees-on-lake-during-daytime-_9UQKWOY0No",
+        "license": "",
+        "licenseUrl": ""
+      },
+      {
+        "src": "/assets/images/ecuador/tena-forest-jay.jpg",
+        "width": 1400,
+        "height": 933,
+        "altEn": "Sunlight through rainforest trees in Tena, Ecuador",
+        "altEs": "Luz entre los árboles del bosque amazónico en Tena, Ecuador",
+        "source": "https://commons.wikimedia.org/wiki/File:Amazon_Rainforest_in_Tena,_Ecuador.jpg",
+        "credit": "Jay",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "section": 4
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg",
+        "width": 1280,
+        "height": 853,
+        "credit": "Geoff Gallice",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Rhetus_periander_(1).jpg",
+        "altEn": "Blue-and-black butterfly on a leaf in Yasuní National Park, Ecuador",
+        "altEs": "Mariposa azul y negra sobre una hoja en el Parque Nacional Yasuní, Ecuador"
+      }
+    ]
+  },
+  {
+    "job": "five-day-format",
+    "pair": "pair_013",
+    "en": "5-day-amazon-tour",
+    "es": "tour-de-5-dias-en-la-amazonia",
+    "photos": [
+      {
+        "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
+        "width": 1600,
+        "height": 1071,
+        "altEn": "Forest surrounding an oxbow lake in Yasuní, Ecuador",
+        "altEs": "Bosque alrededor de una laguna en Yasuní, Ecuador",
+        "credit": "Geoff Gallice",
+        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Oxbow_lake,_Yasuni.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      {
+        "section": 4,
+        "src": "/assets/images/ecuador/puyo-palms.jpg",
+        "width": 1400,
+        "height": 933,
+        "altEn": "Palms with exposed supporting roots beside a path at Omaere Park, Puyo",
+        "altEs": "Palmas con raíces de soporte expuestas junto a un sendero del Parque Omaere, Puyo",
+        "source": "https://commons.wikimedia.org/wiki/File:Iriartea_deltoidea_and_Socratea_exorrhiza_%28Arecaceae%29_%E2%80%94_two_%22walking_palms%22_%2830053641211%29.jpg",
+        "credit": "yakovlev.alexey",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-swallows.jpg",
+        "width": 1280,
+        "height": 853,
+        "credit": "Geoff Gallice",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Atticora_fasciata_-Rio_Tiputini,_Yasuni_National_Park,_Ecuador-8.jpg",
+        "altEn": "White-banded swallows beside the Tiputini River in Yasuní, Ecuador",
+        "altEs": "Golondrinas junto al río Tiputini en Yasuní, Ecuador"
+      }
+    ]
+  }
+]

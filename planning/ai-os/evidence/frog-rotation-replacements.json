@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-05",
+  "changes": [
+    "src/pages/en/ecuador/what-to-pack-for-the-amazon/index.html",
+    "src/pages/es/ecuador/que-llevar-a-la-amazonia/index.html",
+    "src/pages/en/ecuador/best-time-to-visit-the-ecuador-amazon/index.html",
+    "src/pages/es/ecuador/mejor-epoca-para-visitar-la-amazonia-ecuatoriana/index.html",
+    "src/pages/en/ecuador/3-day-amazon-tour/index.html",
+    "src/pages/es/ecuador/tour-de-3-dias-en-la-amazonia/index.html",
+    "src/pages/en/ecuador/4-day-amazon-tour/index.html",
+    "src/pages/es/ecuador/tour-de-4-dias-en-la-amazonia/index.html",
+    "src/pages/en/ecuador/5-day-amazon-tour/index.html",
+    "src/pages/es/ecuador/tour-de-5-dias-en-la-amazonia/index.html",
+    "src/pages/en/ecuador/index.html",
+    "src/pages/es/ecuador/index.html",
+    "src/pages/en/ecuador/amazon-tours-from-quito/index.html",
+    "src/pages/es/ecuador/tours-a-la-amazonia-desde-quito/index.html"
+  ],
+  "reason": "Owner observed repeated frog scenes; each frog now appears only on its destination EN page, mirrored in ES",
+  "packing_replacement": {
+    "src": "/assets/images/ecuador/cuyabeno-monkey-pamsai.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "pamsai",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Flying_monkey_%286236430332%29.jpg",
+    "altEn": "Monkey leaping between branches in Cuyabeno, Ecuador",
+    "altEs": "Mono saltando entre ramas en Cuyabeno, Ecuador"
+  }
+}

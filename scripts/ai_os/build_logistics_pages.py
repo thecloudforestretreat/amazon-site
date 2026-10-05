@@ -27,6 +27,7 @@ for cfg in configs:
   s+=f'<section class="eta-section" id="compare"><div class="eta-shell"><div class="eta-answer"><span class="eta-answer__label">{"Respuesta breve" if lang=="es" else "Quick answer"}</span><h2>{esc(c["intro"])}</h2><p>{esc(c["quick"])}</p></div>'
   if c.get('starterItems'):
    s+=f'<div class="eta-pack-starter"><h3>{esc(c["starterHeading"])}</h3><dl class="eta-pack-list">'+''.join(f'<div><dt>{esc(h)}</dt><dd>{esc(p)}</dd></div>' for h,p in c['starterItems'])+'</dl></div>'
+  if job=='access-planning':s+='<p class="eta-reading"><a href="'+hub+('is-the-ecuador-amazon-safe' if lang=='en' else 'es-segura-la-amazonia-ecuatoriana')+'/">'+('Review current travel advice before choosing gateways and transfers →' if lang=='en' else 'Revisa avisos actuales antes de elegir accesos y traslados →')+'</a></p>'
   s+='<div class="eta-decision-grid" style="margin-top:32px">'
   for h,p,slug in c['cards']:s+=f'<article class="eta-decision-card"><h3>{esc(h)}</h3><p>{esc(p)}</p><a href="{hub+slug}/">{"Explora la guía" if lang=="es" else "Read the regional guide"} →</a></article>'
   s+='</div></div></section>'

@@ -1,0 +1,102 @@
+{
+  "en": [
+    {
+      "heading": "Preferred Wildlife Experience",
+      "points": [
+        "What specific animal encounters are included in the itinerary?",
+        "Are guided walks or boat trips arranged for viewing wildlife?",
+        "How long is the time allocated for observing animals?"
+      ]
+    },
+    {
+      "heading": "Mainland versus Island Program",
+      "points": [
+        "Which locations are visited on the mainland and which on the island?",
+        "Is transportation between these areas provided by the operator?",
+        "What is the schedule for moving between different sites?"
+      ]
+    },
+    {
+      "heading": "Activity Pace and Constraints",
+      "points": [
+        "How much free time is available each day?",
+        "Are there restrictions on movement due to terrain or weather?",
+        "What are the limits on physical exertion during activities?"
+      ]
+    },
+    {
+      "heading": "Total Itinerary and Transfer Time",
+      "points": [
+        "How many days does the complete journey last?",
+        "What is the estimated time for transfers between stops?",
+        "Are waiting times at each location included in the plan?"
+      ]
+    },
+    {
+      "heading": "Complete Cost and Exclusions",
+      "points": [
+        "What fees are not covered by the quoted price?",
+        "Are entrance tickets to reserves or parks extra charges?",
+        "Do meals and drinks incur additional costs during the trip?"
+      ]
+    },
+    {
+      "heading": "Combining Two Destinations",
+      "points": [
+        "Is it possible to visit both places in one booking?",
+        "How does adding a second location affect the total price?",
+        "What changes occur to the schedule when combining trips?"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "heading": "Experiencia Preferida con la Vida Silvestre",
+      "points": [
+        "¿Qué encuentros específicos con animales están incluidos en el itinerario?",
+        "¿Se organizan camadas guiadas o viajes en bote para observar fauna?",
+        "¿Cuánto tiempo se asigna para observar a los animales?"
+      ]
+    },
+    {
+      "heading": "Programa Continental versus Isla",
+      "points": [
+        "¿Qué lugares se visitan en el continente y cuáles en la isla?",
+        "¿El operador proporciona transporte entre estas áreas?",
+        "¿Cuál es el horario para moverse entre diferentes sitios?"
+      ]
+    },
+    {
+      "heading": "Ritmo de Actividad y Restricciones",
+      "points": [
+        "¿Cuánto tiempo libre hay disponible cada día?",
+        "¿Existen restricciones al movimiento debido al terreno o clima?",
+        "¿Cuáles son los límites del esfuerzo físico durante las actividades?"
+      ]
+    },
+    {
+      "heading": "Itinerario Total y Tiempo de Traslado",
+      "points": [
+        "¿Cuántos días dura el viaje completo?",
+        "¿Cuál es el tiempo estimado para los traslados entre paradas?",
+        "¿Se incluyen los tiempos de espera en cada lugar en el plan?"
+      ]
+    },
+    {
+      "heading": "Costo Completo y Exclusiones",
+      "points": [
+        "¿Qué gastos no están cubiertos por el precio citado?",
+        "¿Son cargos adicionales las entradas a reservas o parques?",
+        "¿Las comidas y bebidas generan costos extra durante el viaje?"
+      ]
+    },
+    {
+      "heading": "Combinar Dos Destinos",
+      "points": [
+        "¿Es posible visitar ambos lugares en una sola reserva?",
+        "¿Cómo afecta agregar un segundo lugar al precio total?",
+        "¿Qué cambios ocurren en el horario al combinar viajes?"
+      ]
+    }
+  ]
+}

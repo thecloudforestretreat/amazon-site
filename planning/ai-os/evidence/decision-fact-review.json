@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-05",
+  "sources": [
+    {
+      "url": "https://www.gov.uk/foreign-travel-advice/ecuador/regional-risks",
+      "used": "Northern-border restrictions; Lago Agrio identified within advised-against zone; current region-specific advice link; no full advisory list copied"
+    },
+    {
+      "url": "https://www.gov.uk/foreign-travel-advice/ecuador/safety-and-security",
+      "used": "Responsible activity provider, insurance and emergency planning context; no health prescriptions or guarantee"
+    },
+    {
+      "url": "https://www.unesco.org/en/mab/yasuni",
+      "used": "Humid tropical rainforest in upper Amazon; not duplicated species counts or outdated province boundaries"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/1/",
+      "used": "Pacific volcanic archipelago and marine reserve; no wildlife promises"
+    },
+    {
+      "url": "https://galapagos.gob.ec/",
+      "used": "Official destination/visitor information link; no invented entry requirements or fees"
+    }
+  ],
+  "editorial": "Questions and comparison framework are original planning guidance; no operator or medical certification. Local drafts corrected for guaranteed animal encounters, impossible schedules, radio frequencies, invented universal deadlines and Spanish mistranslation."
+}

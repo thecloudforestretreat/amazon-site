@@ -1,0 +1,26 @@
+{
+  "job": "safety-planning",
+  "model": "qwen3.5:9b",
+  "status": "editorially_reviewed_deployed_initial_browser_checks_pass_full_qa_pending",
+  "review_flags": [
+    "spanish_voice_mismatch"
+  ],
+  "seconds": 49.3,
+  "prompt_eval_count": 176,
+  "eval_count": 1032,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false,
+  "raw_review_flags": [
+    "spanish_voice_mismatch",
+    "unrealistic_specificity"
+  ],
+  "reviewed_flags": [],
+  "raw_sha256": "c107441b1967c40910de9e08ff69d3f9282cb65f09eb9435174333af2f64bebd",
+  "reviewed_sha256": "e3b305596641195d7a10829aedca58f2956d31cf3c097a98112e6f6e764e4cd0",
+  "promotion": "Supervisor-reviewed only: substantial question correction and all bilingual body/FAQ prose by supervisor. Raw draft not published.",
+  "deployment": "eb6321ee",
+  "inference_requests": 1,
+  "inference_retries": 0,
+  "blocked_before_inference_attempts": 1,
+  "visual_review": "initial_desktop_mobile_visual_and_interaction_checks_pass"
+}

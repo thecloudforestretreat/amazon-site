@@ -5,7 +5,7 @@ root=Path(__file__).resolve().parents[2]; esc=html.escape
 data={d['slug']:d for d in json.loads((root/'src/data/ecuador-destinations.json').read_text())}
 def hero(d):
  return dict(src=d['image'],width=d['imageWidth'],height=d['imageHeight'],altEn=d['imageAltEn'],altEs=d['imageAltEs'],credit=d['imageCredit'].removeprefix('Photo: '),source=d['imageSource'],license=d.get('imageLicenseLabel','CC BY 2.0' if d.get('imageLicense') else ''),licenseUrl=d.get('imageLicense',''))
-configs=[dict(job='four-day-format',pair='pair_012',en='4-day-amazon-tour',es='tour-de-4-dias-en-la-amazonia',photos=[hero(data['cuyabeno']),data['tena']['sectionImages'][1],data['yasuni']['sectionImages'][1]]),dict(job='five-day-format',pair='pair_013',en='5-day-amazon-tour',es='tour-de-5-dias-en-la-amazonia',photos=[hero(data['yasuni']),data['puyo']['sectionImages'][1],data['cuyabeno']['sectionImages'][1]])]
+configs=json.loads((root/'planning/ai-os/duration-batch-config.json').read_text())
 copy=json.loads((root/'planning/ai-os/duration-batch-content.json').read_text())
 for cfg in configs:
  job=cfg['job'];runs=list((root/f'planning/ai-os/runs/{job}').glob('*/draft.json'));assert len(runs)==1,runs
