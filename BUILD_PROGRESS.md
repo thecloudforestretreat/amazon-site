@@ -81,3 +81,7 @@ Deployed `5b63c994`: hero image now sits in an ivory frame with 30px outer / 20p
 ### Stylesheet cache invalidation
 
 Deployed `34aa8cf5`. All compiled local CSS links now include SHA-256 content versions so changed styles request new URLs. Addresses a possible stale stylesheet cause of owner seeing no hero update; root cause not visually confirmed. Build, validation and content audit pass.
+
+### Frameless hero refinement
+
+Deployed `967b1d49`: removed white frame, border and inset padding; rounded the photograph itself (24px desktop / 20px mobile), with subtle shadow and separate credit. CSS content versions updated automatically. Build, 24-page validation and content audit pass; visual review remains pending.
