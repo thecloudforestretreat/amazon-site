@@ -1,0 +1,18 @@
+{
+  "job": "season-planning",
+  "model": "qwen3.5:9b",
+  "status": "editorially_reviewed_deployed_visual_review_blocked",
+  "review_flags": [],
+  "seconds": 34.98,
+  "prompt_eval_count": 136,
+  "eval_count": 872,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false,
+  "raw_review_flags": [],
+  "reviewed_flags": [],
+  "raw_draft_sha256": "e0788a8097b8e16734fedcee32f8191bb462ce9d8f9a021c1ef39873def9cad7",
+  "reviewed_sha256": "ca93d59a8b87149102d98eaa2131c40484505f8230f642a43ec7ed783c3023ee",
+  "deployment": "721b3770",
+  "visual_review": "Pending: browser admin-enforced policy could not be verified",
+  "promotion": "Local booking questions reviewed and targeted questions corrected; supervisor wrote bilingual intros/body/FAQ and climate sourcing. Raw local output never published directly"
+}

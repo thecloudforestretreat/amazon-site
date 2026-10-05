@@ -84,3 +84,9 @@ Five source pages verified for Yasuní geography, Geoff Gallice attribution and 
 - `yasuni-rhetus-butterfly.jpg`: https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Rhetus_periander_(1).jpg; Geoff Gallice; CC BY 2.0; 1280×853; reviewed 2026-10-05.
 - `yasuni-river-turtle.jpg`: https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Yellow-spotted_river_turtle_(1).jpg; Geoff Gallice; CC BY 2.0; 1280×853; reviewed 2026-10-05.
 Existing Tena canopy photo by Patricio Gaibor / Unsplash reused in wildlife EN/ES with its existing geographic/rights approval. Six unique scenes across the two pairs; no scene occurs twice on a page or overlaps the preceding two batches.
+
+## October 5 — canoe and date-planning batch
+
+`cuyabeno-canoe-river.jpg`: Hanspeter Bellers; source https://commons.wikimedia.org/wiki/File:Kanutourismus_R%C3%ADo_Cuyabeno,_Ecuador.jpg identifies canoe tourism on Río Cuyabeno, Ecuador. CC BY-SA 4.0, maintained for resized rendition; source/creator/license links and Edited/Adaptada disclosure on EN/ES canoe pages. Anonymous visitors from behind; scene visually inspected. Source HTML, dimensions and hash retained in activity-image-acquisition.json.
+
+Rejected `Canoe on a still lake (37634281976).jpg`: source places it at Laguna Yahuarcocha in Imbabura, outside the Amazon. Retained rejection evidence under planning; excluded from deployed assets. Other five cleared scenes: Yasuní oxbow, Puyo palms, Yasuní sunset, Tena forest and Cuyabeno frog. Six unique scenes, no repeated image within a page, no overlap with preceding two batches.

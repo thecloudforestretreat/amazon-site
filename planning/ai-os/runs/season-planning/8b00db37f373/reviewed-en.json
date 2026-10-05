@@ -1,0 +1,56 @@
+[
+  {
+    "heading": "Exact Destination",
+    "points": [
+      "What is the exact base and which locations does the program visit?",
+      "How far is the trip from our starting point?",
+      "What is the precise location of our final stop?"
+    ],
+    "intro": "Start with the exact base and your possible dates. A country-wide seasonal description is too broad to settle a particular forest journey. Identify what matters most to you, such as observation, walking or time on the water. Ask how the provider’s actual program addresses those interests at that location and during the stay you are considering."
+  },
+  {
+    "heading": "Recent Local Conditions",
+    "points": [
+      "Are there any current restrictions on access to the area?",
+      "Have recent rains affected the water levels significantly?",
+      "Is there any local news we should know about before leaving?"
+    ],
+    "intro": "Use current local information alongside the broad climate background. Ask when the provider last checked the proposed route and what recent conditions mean for its outings. Distinguish an update about a specific place from a general statement about the Amazon. Record the date of the information and plan how you will receive further updates before departure."
+  },
+  {
+    "heading": "Weather Flexibility",
+    "points": [
+      "Can we change our departure time if the forecast worsens?",
+      "How are changes to planned outings decided and communicated?",
+      "How much extra time do you need for weather delays?"
+    ],
+    "intro": "Ask how the program responds when conditions change, rather than assuming activities always run as advertised. Confirm which alternatives are available, whether they cost extra and who makes the decision. Flexibility should be described in the proposal. It does not guarantee a replacement with the same duration, a preferred route or a particular wildlife experience."
+  },
+  {
+    "heading": "Arrival and Onward Connections",
+    "points": [
+      "What meeting and transfer arrangements are confirmed for our arrival?",
+      "Is there a direct way to reach our next destination?",
+      "How long is the wait if the connection is delayed?"
+    ],
+    "intro": "Compare the complete journey from your arrival point to your onward plans. Ask which road or water segments the package includes and where separately booked services begin. Review meeting arrangements and how a delay is communicated. Avoid assuming a provider controls every connection, or that a scheduled departure means you can make a tight onward booking."
+  },
+  {
+    "heading": "Activity Availability",
+    "points": [
+      "Are all planned activities possible on our chosen dates?",
+      "Can we skip certain parts if conditions are not right?",
+      "What happens if a specific guide or boat is unavailable?"
+    ],
+    "intro": "Confirm the activities and guiding available for the actual dates, property and group. A regional highlight or a general program description does not establish what is included in your stay. Ask which outings are confirmed and which depend on conditions or availability. Keep optional activities separate from the core itinerary when comparing different proposals."
+  },
+  {
+    "heading": "Written Change Terms",
+    "points": [
+      "Where are the booking and itinerary change terms recorded?",
+      "How much notice is needed to modify our booking?",
+      "Are there fees if we must cancel or reschedule?"
+    ],
+    "intro": "Keep the itinerary and change terms together when you decide on dates. Ask what notice is needed, what costs may apply and how adjustments are agreed. Check separately booked transport and accommodation as well as the package. A clear written proposal helps you understand the arrangements; it does not remove the uncertainty of weather or wildlife."
+  }
+]

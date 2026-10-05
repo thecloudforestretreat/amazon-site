@@ -1,0 +1,322 @@
+{
+  "canoe-format": {
+    "en": {
+      "title": "Ecuador Amazon Canoe Tour | Routes, Boats and Guiding",
+      "h1": "A different view of the forest, from the water",
+      "lede": "Compare the route, the boat and the pace before choosing a canoe experience. Find out what is an outing, what is a transfer and what your group will actually do.",
+      "quick": "Start with the kind of time on the water you want: active paddling, guided observation or transport to a forest base. The word canoe does not confirm propulsion, passenger effort or a particular route. Ask the provider to describe the boat, boarding, seating, guiding and included outings for your dates. Compare those details with your group’s needs before choosing.",
+      "facts": [
+        [
+          "Boat and propulsion",
+          "Ask who paddles"
+        ],
+        [
+          "Purpose of the outing",
+          "Observation or transfer"
+        ],
+        [
+          "Boarding and seating",
+          "Confirm the actual setup"
+        ],
+        [
+          "Route and conditions",
+          "Check before departure"
+        ]
+      ],
+      "intro": "Choose the experience, then the destination",
+      "guide": "Six decisions before taking to the water",
+      "guidelede": "Use the actual proposal to understand how the outing works, without assuming that every canoe trip is the same.",
+      "extra": "A transfer is not the whole experience",
+      "extrap": "A boat transfer and an observation outing can appear in the same package but serve different purposes. Ask how long each segment is expected to take, whether it includes guided stops and what happens on the arrival and departure days. Compare the written plan as a whole. A photograph of a quiet stretch of water does not describe every part of a route or the conditions you will encounter.",
+      "extra2": "Describe your group before you choose",
+      "extra2p": "Share your group size, preferred language, interest in paddling or photography and any requirements for boarding or sitting. Ask the provider to explain the actual arrangements rather than judge suitability from a tour label. Confirm what assistance and equipment are offered for the proposed outing. If the description does not answer your needs, request details before committing; this guide does not certify an activity’s suitability.",
+      "faqs": [
+        [
+          "Will I need to paddle?",
+          "Ask who propels the boat and whether guests are expected to paddle. The word canoe alone does not answer that question. Confirm the proposed activity, effort and instruction for your group. A motorized transfer, a paddled outing and a mixed program should be described separately in the quote."
+        ],
+        [
+          "Is a canoe tour the same as river transport?",
+          "Not necessarily. Ask which segments move you between places and which are intended for observation or exploration. Check the route, stops, guiding and time planned for each. Compare arrival and departure arrangements with the dedicated outings instead of counting every boat journey as the same experience."
+        ],
+        [
+          "How do I compare boats and boarding?",
+          "Request the actual boat description, passenger arrangement, boarding point and equipment provided. Explain any requirements for getting aboard or sitting during the journey. Photos are regional examples, not proof of the vessel you will use. Ask for current details or a relevant image from the provider."
+        ],
+        [
+          "Can I choose the exact route?",
+          "Ask which route is proposed and what determines changes. Do not assume a private booking gives unrestricted access or control of the itinerary. Confirm the alternatives, how changes are communicated and which decisions are made by the provider for the specific outing and conditions."
+        ],
+        [
+          "Will there be wildlife stops?",
+          "Ask whether guided observation stops are included and how the group is briefed on distance and behavior around wildlife. River travel does not guarantee sightings, and the guide should not promise the animals shown in regional photos. Compare observation time and guiding rather than a species checklist."
+        ],
+        [
+          "What should the written quote include?",
+          "Request the boat and propulsion arrangements, starting and finishing points, transfers, outings, guide, group size, equipment, meals where applicable and exclusions. Clarify what is shared and what is private. Keep the complete price, change terms and any alternatives in writing before comparing proposals for the same dates."
+        ]
+      ],
+      "cards": [
+        [
+          "Cuyabeno",
+          "Use the reserve guide to understand the river and lagoon setting. Then ask for the exact base, water route and outings in your package. Confirm which boat trips are transfers, who propels the boat and what your group is expected to do. Regional images are examples, not the vessel or itinerary you are buying.",
+          "cuyabeno"
+        ],
+        [
+          "Yasuní and the Napo corridor",
+          "Ask where the property is located and which rivers or observation routes its program uses. A lodge in the wider corridor is not automatically inside the national park. Compare guiding, group and transport arrangements for the actual base, without assuming all Yasuní-labelled trips follow the same water route.",
+          "yasuni"
+        ],
+        [
+          "Tena and Misahuallí",
+          "Start with the actual departure point and how you reach it from your accommodation. Ask the provider to distinguish a canoe outing from any other river activity in the program. Compare the boat, propulsion, boarding arrangements and return transport with your interests and group requirements.",
+          "tena"
+        ],
+        [
+          "Puyo and Pastaza",
+          "A town-based visit and a journey farther from town can have different access arrangements. Locate the proposed activity and ask how road and water segments connect. The regional name alone does not confirm canoe availability, a specific river route or the effort required on your outing.",
+          "puyo"
+        ]
+      ]
+    },
+    "es": {
+      "title": "Tour en Canoa por la Amazonía de Ecuador | Rutas y Guías",
+      "h1": "Otra mirada al bosque, desde el agua",
+      "lede": "Compara la ruta, la embarcación y el ritmo antes de elegir. Distingue una salida de observación de un traslado y aclara qué hará tu grupo.",
+      "quick": "Empieza por el tipo de experiencia que buscas: remar, observar con un guía o llegar por agua a una base en el bosque. La palabra canoa no confirma cómo se mueve la embarcación, el esfuerzo de los pasajeros ni una ruta concreta. Pide al proveedor los detalles de embarque, asientos, guía y salidas incluidas para tus fechas, y compáralos con las necesidades de tu grupo.",
+      "facts": [
+        [
+          "Embarcación y propulsión",
+          "Pregunta quién rema"
+        ],
+        [
+          "Objetivo de la salida",
+          "Observación o traslado"
+        ],
+        [
+          "Embarque y asientos",
+          "Confirma la disposición"
+        ],
+        [
+          "Ruta y condiciones",
+          "Revisa antes de salir"
+        ]
+      ],
+      "intro": "Elige la experiencia y después el destino",
+      "guide": "Seis decisiones antes de salir al agua",
+      "guidelede": "Revisa la propuesta concreta para entender la salida, sin asumir que todos los viajes en canoa funcionan igual.",
+      "extra": "Un traslado no es toda la experiencia",
+      "extrap": "Un traslado en embarcación y una salida de observación pueden formar parte del mismo paquete, pero tienen objetivos diferentes. Pregunta cuánto se prevé que dure cada tramo, si incluye paradas guiadas y cómo se organizan la llegada y la salida. Compara el plan completo. Una foto de agua tranquila no describe todos los tramos de una ruta ni las condiciones que encontrarás.",
+      "extra2": "Describe tu grupo antes de elegir",
+      "extra2p": "Comparte el tamaño del grupo, el idioma, tu interés en remar o fotografiar y cualquier necesidad para embarcar o sentarte. Pide los detalles reales en lugar de valorar una actividad solo por su nombre. Confirma la asistencia y el equipo que ofrece el proveedor para esa salida. Si la descripción no responde a tus necesidades, solicita más información antes de reservar; esta guía no certifica la idoneidad de una actividad.",
+      "faqs": [
+        [
+          "¿Tendré que remar?",
+          "Pregunta quién impulsa la embarcación y si se espera que los pasajeros remen. La palabra canoa no lo aclara por sí sola. Confirma la actividad, el esfuerzo y las instrucciones para tu grupo. Un traslado con motor, una salida a remo y un programa mixto deben describirse por separado."
+        ],
+        [
+          "¿Un tour en canoa es lo mismo que un traslado fluvial?",
+          "No necesariamente. Pregunta qué tramos sirven para desplazarte y cuáles se dedican a observar o explorar. Revisa la ruta, las paradas, el guía y el tiempo previsto. Compara los días de llegada y salida con las excursiones específicas, sin contar todos los viajes en embarcación como una misma experiencia."
+        ],
+        [
+          "¿Cómo comparo las embarcaciones y el embarque?",
+          "Pide la descripción de la embarcación, los asientos, el punto de embarque y el equipo que se proporciona. Explica cualquier necesidad para subir o permanecer sentado. Las fotos son ejemplos regionales, no una confirmación del bote que utilizarás. Solicita al proveedor información actual o una imagen relevante."
+        ],
+        [
+          "¿Puedo elegir la ruta exacta?",
+          "Pregunta qué ruta se propone y qué puede hacer que cambie. Una reserva privada no implica acceso sin restricciones ni control del itinerario. Confirma las alternativas, cómo se comunican los cambios y qué decisiones toma el proveedor según la salida y las condiciones concretas."
+        ],
+        [
+          "¿Habrá paradas para observar fauna?",
+          "Pregunta si se incluyen paradas guiadas y qué instrucciones recibe el grupo sobre distancia y comportamiento. Un recorrido fluvial no garantiza avistamientos ni los animales de las fotos regionales. Compara el tiempo de observación y el guía, en vez de elegir por una lista de especies."
+        ],
+        [
+          "¿Qué debe incluir la cotización?",
+          "Pide tipo de embarcación y propulsión, puntos de salida y llegada, traslados, excursiones, guía, grupo, equipo, comidas cuando corresponda y exclusiones. Aclara qué servicios son compartidos o privados. Conserva el precio completo, las condiciones de cambio y las alternativas por escrito antes de comparar propuestas para las mismas fechas."
+        ]
+      ],
+      "cards": [
+        [
+          "Cuyabeno",
+          "Consulta la guía de la reserva para entender el entorno de ríos y lagunas. Después pregunta por la base, la ruta y las salidas del paquete. Confirma qué recorridos son traslados, quién impulsa la embarcación y qué hará tu grupo. Las fotos son ejemplos, no el bote o itinerario que contratas.",
+          "cuyabeno"
+        ],
+        [
+          "Yasuní y el corredor del Napo",
+          "Pregunta dónde está el alojamiento y qué ríos o rutas utiliza su programa. Un lodge del corredor no está necesariamente dentro del parque nacional. Compara guía, grupo y transporte para la base concreta, sin asumir que todos los viajes anunciados como Yasuní siguen la misma ruta fluvial.",
+          "yasuni"
+        ],
+        [
+          "Tena y Misahuallí",
+          "Localiza el punto de salida y cómo llegarás desde tu alojamiento. Pide que se distinga una excursión en canoa de cualquier otra actividad fluvial del programa. Compara embarcación, propulsión, embarque y regreso con los intereses y necesidades de tu grupo.",
+          "tena"
+        ],
+        [
+          "Puyo y Pastaza",
+          "Una visita desde la ciudad y un viaje más alejado pueden tener accesos distintos. Localiza la actividad y pregunta cómo se conectan los tramos por carretera y agua. El nombre regional no confirma una canoa disponible, una ruta concreta ni el esfuerzo necesario en la salida.",
+          "puyo"
+        ]
+      ]
+    }
+  },
+  "season-planning": {
+    "en": {
+      "title": "Best Time to Visit the Ecuador Amazon | Weather and Trip Planning",
+      "h1": "Choose dates for the journey you want",
+      "lede": "Start with your destination and priorities. Compare local conditions, outing flexibility and travel connections without expecting a rain-free month.",
+      "quick": "There is no single best month for every Ecuadorian Amazon trip. Ecuador’s national climate assessment describes rainfall throughout the year in the Amazon region, while climate patterns vary across the country. Treat that as broad background, not a forecast for your stay. Choose your destination and interests, then check recent local conditions, activity arrangements and change terms with the provider.",
+      "facts": [
+        [
+          "Destination first",
+          "Name the actual base"
+        ],
+        [
+          "Rain throughout the year",
+          "Allow for changing weather"
+        ],
+        [
+          "Activity priorities",
+          "Check the proposed program"
+        ],
+        [
+          "Current conditions",
+          "Confirm near departure"
+        ]
+      ],
+      "intro": "A useful date choice starts with the place",
+      "guide": "Six checks for choosing your travel dates",
+      "guidelede": "Combine climate context with the actual route, available program and recent local information.",
+      "extra": "Use climate context without turning it into a promise",
+      "extrap": "Ecuador’s First National Communication to the UNFCCC describes Amazon rainfall throughout the year and regional climate differences. INAMHI publishes climate products and information on weather and hydrology. These are different kinds of evidence: historical climate context does not confirm tomorrow’s weather, a river level or an operator’s departure. Read the relevant dates and locations, and ask how current conditions affect the specific program you are considering.",
+      "extra2": "Build flexibility into the whole journey",
+      "extra2p": "Look beyond the forest stay when choosing dates. Compare the arrival point, road or river legs, check-in arrangements and onward travel. Ask what happens if an outing or transfer changes and whether any proposed alternative is included. Keep those terms in writing. Flexibility is an arrangement to confirm, not a promise that weather will improve or that every missed activity can be replaced.",
+      "faqs": [
+        [
+          "Is there one best month for the Ecuador Amazon?",
+          "A single month cannot answer every destination, activity and travel preference. Use the regional climate context alongside the exact location and recent information. Ask the provider how the proposed dates affect the actual program. This guide does not offer a monthly forecast, a rain-free period or guaranteed wildlife."
+        ],
+        [
+          "Does a drier period mean no rain?",
+          "Do not read a relative seasonal description as a rain-free promise. Ecuador’s national climate assessment describes rainfall throughout the year in the Amazon region. For your actual dates, check current information and ask about outing flexibility. A historic pattern or a regional label does not predict the weather during one stay."
+        ],
+        [
+          "Can I judge river access from the month alone?",
+          "Ask for current information about the exact route and departure point. A calendar label does not confirm water conditions, a particular landing or the itinerary a provider can operate. Request the proposed route, possible changes and how the provider will communicate them before and during your journey."
+        ],
+        [
+          "Which dates are best for wildlife?",
+          "Start with your observation interests and the actual destination. Ask the guide or provider for realistic, location-specific expectations and how outings are organized for your dates. A seasonal label, a photograph or extra nights does not establish that a particular animal will appear. Avoid sighting guarantees."
+        ],
+        [
+          "How close to departure should I check conditions?",
+          "Ask the provider when it will reconfirm the route, meeting point and activities, and which current information it uses. Consult dated official weather information for the relevant area rather than relying on an old screenshot. Keep a way to receive updates; the appropriate timing depends on the actual arrangements."
+        ],
+        [
+          "What should I confirm before booking fixed connections?",
+          "Compare arrival and onward travel with the complete written itinerary. Ask what happens if a transfer or activity changes, which alternatives are offered and what the change terms cover. Confirm separately booked services as well as the package; do not assume one provider controls the whole journey."
+        ]
+      ],
+      "cards": [
+        [
+          "Cuyabeno",
+          "Start with the exact base and water route rather than a regional season label. Ask the provider what recent conditions mean for the proposed outings, arrival and departure. Keep the route and any alternative arrangements in writing; a lagoon photograph does not establish the water conditions for your dates.",
+          "cuyabeno"
+        ],
+        [
+          "Yasuní and the Napo corridor",
+          "Locate the property and distinguish a national-park stay from the wider corridor. Check the actual combination of road, river and forest activities. Ask what can change for your dates and which alternatives are included, without treating all properties under the same destination name as one itinerary.",
+          "yasuni"
+        ],
+        [
+          "Tena and Misahuallí",
+          "Use the exact activity location when comparing dates. A town-based stay, a forest property and a river outing can have different arrangements. Ask about recent local information, confirmed departures and transport from your accommodation. Do not apply a coast or Quito seasonal description to the proposed Amazon activity.",
+          "tena"
+        ],
+        [
+          "Puyo and Pastaza",
+          "Specify whether you are planning town-based outings or a journey farther into Pastaza. Ask how the route and activities are reconfirmed, and how changes affect your onward plans. The conditions at one regional base are not a confirmation of access or activity availability at another.",
+          "puyo"
+        ]
+      ]
+    },
+    "es": {
+      "title": "Mejor Época para Visitar la Amazonía Ecuatoriana | Clima y Planificación",
+      "h1": "Elige las fechas para el viaje que buscas",
+      "lede": "Empieza por el destino y tus prioridades. Compara condiciones locales, flexibilidad y conexiones sin esperar un mes libre de lluvia.",
+      "quick": "No hay un único mes ideal para todos los viajes por la Amazonía ecuatoriana. La evaluación climática nacional describe lluvias durante todo el año en la región amazónica y diferencias entre regiones del país. Es un contexto general, no un pronóstico para tu estancia. Elige destino e intereses y consulta condiciones recientes, actividades y condiciones de cambio con el proveedor.",
+      "facts": [
+        [
+          "Destino primero",
+          "Identifica la base"
+        ],
+        [
+          "Lluvia todo el año",
+          "Cuenta con cambios"
+        ],
+        [
+          "Tus actividades",
+          "Revisa el programa"
+        ],
+        [
+          "Condiciones recientes",
+          "Confirma antes de salir"
+        ]
+      ],
+      "intro": "Elige las fechas a partir del lugar",
+      "guide": "Seis comprobaciones para elegir tus fechas",
+      "guidelede": "Combina el contexto climático con la ruta, el programa disponible y la información local reciente.",
+      "extra": "Usa el contexto climático sin convertirlo en una promesa",
+      "extrap": "La Primera Comunicación Nacional de Ecuador ante la UNFCCC describe lluvias durante todo el año en la Amazonía y diferencias climáticas regionales. INAMHI publica productos climáticos e información meteorológica e hidrológica. Son fuentes distintas: el contexto histórico no confirma el tiempo de mañana, el nivel de un río ni una salida del operador. Revisa fechas y lugares, y pregunta cómo afectan las condiciones actuales al programa concreto.",
+      "extra2": "Deja margen en el viaje completo",
+      "extra2p": "Al elegir fechas, mira más allá de la estancia en el bosque. Compara punto de llegada, tramos por carretera o río, ingreso al alojamiento y conexiones posteriores. Pregunta qué ocurre si cambia una salida o un traslado y si la alternativa está incluida. Conserva las condiciones por escrito. La flexibilidad debe confirmarse; no promete que mejore el tiempo ni que toda actividad perdida pueda sustituirse.",
+      "faqs": [
+        [
+          "¿Hay un mes ideal para toda la Amazonía ecuatoriana?",
+          "Un solo mes no responde a todos los destinos, actividades y preferencias. Combina el contexto climático regional con la ubicación exacta y la información reciente. Pregunta cómo afectan tus fechas al programa concreto. Esta guía no ofrece un pronóstico mensual, un periodo sin lluvia ni fauna garantizada."
+        ],
+        [
+          "¿Una época menos lluviosa significa que no llueve?",
+          "No interpretes una comparación estacional como una promesa de días sin lluvia. La evaluación climática nacional describe lluvias durante todo el año en la Amazonía. Para tus fechas, revisa información actual y pregunta por la flexibilidad de las salidas. Un patrón histórico no predice el tiempo durante una estancia concreta."
+        ],
+        [
+          "¿El mes basta para conocer el acceso por río?",
+          "Pide información actual sobre la ruta y el punto de salida exactos. Una etiqueta del calendario no confirma las condiciones del agua, un desembarcadero ni el itinerario que puede operar un proveedor. Solicita la ruta propuesta, los posibles cambios y cómo se comunicarán antes y durante el viaje."
+        ],
+        [
+          "¿Qué fechas son mejores para ver fauna?",
+          "Empieza por tus intereses y el destino concreto. Pregunta al guía o proveedor por expectativas realistas en ese lugar y por la organización de las salidas para tus fechas. Una etiqueta estacional, una foto o más noches no aseguran que aparezca un animal determinado. Evita las promesas de avistamiento."
+        ],
+        [
+          "¿Cuándo debo revisar las condiciones antes de salir?",
+          "Pregunta cuándo se reconfirmarán ruta, punto de encuentro y actividades, y qué información actual utiliza el proveedor. Consulta información meteorológica oficial, fechada y de la zona correspondiente, en vez de una captura antigua. Conserva un medio para recibir novedades; el momento adecuado depende de los acuerdos concretos."
+        ],
+        [
+          "¿Qué confirmo antes de reservar conexiones fijas?",
+          "Compara llegada y viaje posterior con el itinerario completo por escrito. Pregunta qué ocurre si cambia un traslado o una actividad, qué alternativas hay y qué cubren las condiciones de cambio. Confirma también los servicios reservados por separado: no asumas que un proveedor controla todo el viaje."
+        ]
+      ],
+      "cards": [
+        [
+          "Cuyabeno",
+          "Empieza por la base y la ruta fluvial exactas, no por una etiqueta estacional. Pregunta qué implican las condiciones recientes para las salidas y los días de llegada y regreso. Conserva ruta y alternativas por escrito; una foto de laguna no confirma el estado del agua para tus fechas.",
+          "cuyabeno"
+        ],
+        [
+          "Yasuní y el corredor del Napo",
+          "Localiza el alojamiento y distingue una estancia en el parque nacional de otra en el corredor. Revisa la combinación de carretera, río y bosque. Pregunta qué puede cambiar para tus fechas y qué alternativas se incluyen, sin tratar todos los alojamientos del destino como un mismo itinerario.",
+          "yasuni"
+        ],
+        [
+          "Tena y Misahuallí",
+          "Compara fechas a partir del lugar exacto de la actividad. Una estancia urbana, un alojamiento de bosque y una salida fluvial pueden tener acuerdos diferentes. Pregunta por información local reciente, salidas confirmadas y transporte. No apliques una descripción estacional de la costa o Quito a esa actividad amazónica.",
+          "tena"
+        ],
+        [
+          "Puyo y Pastaza",
+          "Aclara si buscas salidas desde la ciudad o un viaje más alejado en Pastaza. Pregunta cómo se reconfirman ruta y actividades, y cómo afectan los cambios a tus conexiones posteriores. Las condiciones de una base regional no confirman acceso ni actividades disponibles en otra.",
+          "puyo"
+        ]
+      ]
+    }
+  }
+}

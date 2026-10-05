@@ -1,0 +1,102 @@
+{
+  "es": [
+    {
+      "titulo": "Tipo de embarcación y propulsión",
+      "puntos": [
+        "¿Qué tipo de bote se utilizará para el recorrido?",
+        "¿La embarcación será impulsada exclusivamente por motor o también incluirá remos?",
+        "¿Cómo se realizará la maniobra de abordaje al agua?"
+      ]
+    },
+    {
+      "titulo": "Abordaje y acomodo",
+      "puntos": [
+        "¿Cuál es el procedimiento exacto para subir a la lancha?",
+        "¿Dónde se ubicarán los pasajeros una vez a bordo?",
+        "¿Cuántas personas caben cómodamente en cada asiento o banco?"
+      ]
+    },
+    {
+      "titulo": "Ruta real sobre el agua",
+      "puntos": [
+        "¿Cuál es la trayectoria exacta que seguirá la embarcación?",
+        "¿Por dónde pasaremos y qué ríos o canales transitaremos?",
+        "¿Existen paradas programadas en la ruta?"
+      ]
+    },
+    {
+      "titulo": "Guía y grupo",
+      "puntos": [
+        "¿Quién será el guía que acompañará al grupo?",
+        "¿Cuál es el tamaño máximo permitido para la expedición?",
+        "¿Cómo se gestionará la interacción con el grupo durante el viaje?"
+      ]
+    },
+    {
+      "titulo": "Esfuerzo y alternativas",
+      "puntos": [
+        "¿Qué nivel de esfuerzo físico se requiere en el trayecto?",
+        "¿Existen opciones para descansar si el ritmo es intenso?",
+        "¿Se permite detenerse libremente en la orilla durante el viaje?"
+      ]
+    },
+    {
+      "titulo": "Incluidos por escrito",
+      "puntos": [
+        "¿Qué elementos están explícitamente incluidos en el precio final?",
+        "¿Están contempladas las entradas a sitios específicos?",
+        "¿Se incluye el transporte terrestre hasta la salida del agua?"
+      ]
+    }
+  ],
+  "en": [
+    {
+      "heading": "Boat type and propulsion",
+      "points": [
+        "What type of boat will be used for the trip?",
+        "Will the vessel be powered solely by motor or also include paddles?",
+        "How will boarding onto the water be executed?"
+      ]
+    },
+    {
+      "heading": "Boarding and seating",
+      "points": [
+        "What is the exact procedure for getting aboard the boat?",
+        "Where will passengers be located once on board?",
+        "How many people fit comfortably in each seat or bench?"
+      ]
+    },
+    {
+      "heading": "Actual water route",
+      "points": [
+        "What is the exact trajectory the vessel will follow?",
+        "Where will we pass and which rivers or channels will we transit?",
+        "Are there scheduled stops along the route?"
+      ]
+    },
+    {
+      "heading": "Guiding and group",
+      "points": [
+        "Who will be the guide accompanying the group?",
+        "What is the maximum size allowed for the expedition?",
+        "How will interaction with the group be managed during the trip?"
+      ]
+    },
+    {
+      "heading": "Effort and alternatives",
+      "points": [
+        "What level of physical effort is required on the journey?",
+        "Are there options to rest if the pace is intense?",
+        "Is it allowed to stop freely on the shore during the trip?"
+      ]
+    },
+    {
+      "heading": "Written inclusions",
+      "points": [
+        "What elements are explicitly included in the final price?",
+        "Are entries to specific sites contemplated?",
+        "Is land transport to the water exit included?"
+      ]
+    }
+  ]
+}

@@ -2,28 +2,28 @@
   "ecuador": {
     "pair_id": "pair_003",
     "language": "en",
-    "main_words": 1662,
+    "main_words": 1699,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
       "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "f0e957fd239da09c595422269920e9781273a309e30309ba036c2c6ff35953cf",
+    "sha256": "5a8f0530030dd7c69b8ed008ab965e6a99d3481f14fb19f6c65e3b5fd0139629",
     "errors": [],
     "passed": true
   },
   "es/ecuador": {
     "pair_id": "pair_003",
     "language": "es",
-    "main_words": 1667,
+    "main_words": 1703,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
       "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "af0d5d57701830b2da9cd2686348080bb0302bba2f05d0593970e35f98bc15f4",
+    "sha256": "9c357a615a69ffdae0eb5767a357f8a0d4fed46b93955bdcb7823fc4352d5404",
     "errors": [],
     "passed": true
   },
@@ -276,6 +276,62 @@
       "/assets/images/ecuador/yasuni-river-turtle.jpg"
     ],
     "sha256": "3b48949cdb6ac277ea2d8957f41ea67f29fdb768ece35ebc628c1c4ac23e227f",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/amazon-canoe-tour": {
+    "pair_id": "pair_018",
+    "language": "en",
+    "main_words": 1522,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/cuyabeno-canoe-river.jpg",
+      "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
+      "/assets/images/ecuador/puyo-palms.jpg"
+    ],
+    "sha256": "dd232603b86ebdada39dbe6b0ac3b34fa559442df6b6e86ca5540736146a7d37",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/tour-en-canoa-por-la-amazonia": {
+    "pair_id": "pair_018",
+    "language": "es",
+    "main_words": 1525,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/cuyabeno-canoe-river.jpg",
+      "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
+      "/assets/images/ecuador/puyo-palms.jpg"
+    ],
+    "sha256": "f75672abefc40031df6e35cce027c422e3e4562b9b89e8a7f1cca93b5c6d4b67",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/best-time-to-visit-the-ecuador-amazon": {
+    "pair_id": "pair_019",
+    "language": "en",
+    "main_words": 1477,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
+      "/assets/images/ecuador/tena-forest-jay.jpg",
+      "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg"
+    ],
+    "sha256": "9abb94a577ac7cd2bdd73a9d13b7b06c9af45a6948f9d48d34792134ba9032a9",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/mejor-epoca-para-visitar-la-amazonia-ecuatoriana": {
+    "pair_id": "pair_019",
+    "language": "es",
+    "main_words": 1462,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
+      "/assets/images/ecuador/tena-forest-jay.jpg",
+      "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg"
+    ],
+    "sha256": "6c52a9c87d06e8930021108703fc83a90538dc96fda96fadf00cad122c047846",
     "errors": [],
     "passed": true
   }

@@ -1,0 +1,56 @@
+[
+  {
+    "heading": "Tipo de embarcación y propulsión",
+    "points": [
+      "¿Qué tipo de bote se utilizará para el recorrido?",
+      "¿La embarcación será impulsada exclusivamente por motor o también incluirá remos?",
+      "¿Qué se espera de los pasajeros en los traslados y en las salidas específicas?"
+    ],
+    "intro": "Un mismo nombre de tour puede describir embarcaciones distintas y diferentes tareas para los pasajeros. Pregunta si el tramo se hace a remo, con motor o combinando ambos, y quién realiza el esfuerzo. Confirma tanto los traslados como las salidas específicas. Elige según tus intereses, sin asumir que viajar en canoa siempre significa remar."
+  },
+  {
+    "heading": "Abordaje y acomodo",
+    "points": [
+      "¿Cuál es el procedimiento exacto para subir a la lancha?",
+      "¿Dónde se ubicarán los pasajeros una vez a bordo?",
+      "¿Cuántos pasajeros comparten la embarcación y qué asientos hay?"
+    ],
+    "intro": "El embarque y el tiempo sentado forman parte de la experiencia: pregunta por ellos antes de elegir. Pide la disposición de pasajeros, el tipo de asiento y el punto de salida reales. Explica cualquier necesidad de tu grupo para subir o sentarse. Una foto regional no confirma esos detalles ni demuestra la idoneidad de la actividad."
+  },
+  {
+    "heading": "Ruta real sobre el agua",
+    "points": [
+      "¿Cuál es la trayectoria exacta que seguirá la embarcación?",
+      "¿Por dónde pasaremos y qué ríos o canales transitaremos?",
+      "¿Existen paradas programadas en la ruta?"
+    ],
+    "intro": "Pide al proveedor que identifique la ruta y distinga punto de salida, zonas de observación y lugar de llegada. Revisa las paradas incluidas y el regreso a la base. Confirma quién comunica un cambio de plan y qué alternativas cubre tu reserva, sin asumir que puedes acceder libremente a cualquier lugar del recorrido."
+  },
+  {
+    "heading": "Guía y grupo",
+    "points": [
+      "¿Quién será el guía que acompañará al grupo?",
+      "¿Cuántos visitantes comparten la embarcación y el guía?",
+      "¿Cómo se gestionará la interacción con el grupo durante el viaje?"
+    ],
+    "intro": "Averigua quién dirige la salida y cuántas personas comparten embarcación y guía. El idioma, las explicaciones y el tiempo en las paradas pueden importar tanto como el paisaje. Si buscas fotografía u observación específica, explícalo antes. Confirma los servicios privados: una habitación privada no hace que el guía o la embarcación también lo sean."
+  },
+  {
+    "heading": "Esfuerzo y alternativas",
+    "points": [
+      "¿Qué nivel de esfuerzo físico se requiere en el trayecto?",
+      "¿Existen opciones para descansar si el ritmo es intenso?",
+      "¿Qué actividades alternativas se pueden confirmar para esta reserva?"
+    ],
+    "intro": "Describe el ritmo y esfuerzo que busca tu grupo y pregunta cómo encajan con la salida concreta. Confirma cuánto se rema, si hay caminatas entre tramos y el tiempo sentado. Pregunta por alternativas sin asumir que existen o están incluidas. Si una actividad no responde a tus necesidades, pide una respuesta específica antes de aceptarla."
+  },
+  {
+    "heading": "Incluidos por escrito",
+    "points": [
+      "¿Qué elementos están explícitamente incluidos en el precio final?",
+      "¿Están contempladas las entradas a sitios específicos?",
+      "¿Se incluye el transporte terrestre hasta la salida del agua?"
+    ],
+    "intro": "Lee la salida por agua como parte del paquete completo. Relaciona salida y llegada con traslados terrestres, alojamiento y viaje posterior. Revisa qué equipo y guía se incluyen y qué tiene un coste adicional. Conserva las condiciones de cambio junto al itinerario para entender los acuerdos si cambia la ruta o se cancela una actividad."
+  }
+]

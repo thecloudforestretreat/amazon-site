@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-05",
+  "photos": {
+    "canoe-format": [
+      {
+        "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg",
+        "width": 1280,
+        "height": 960,
+        "credit": "Hanspeter Bellers",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Kanutourismus_R%C3%ADo_Cuyabeno,_Ecuador.jpg",
+        "altEn": "Canoe passengers seen from behind on the Cuyabeno River, Ecuador",
+        "altEs": "Pasajeros vistos de espaldas en una canoa por el río Cuyabeno, Ecuador"
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
+        "width": 1600,
+        "height": 1071,
+        "altEn": "Forest surrounding an oxbow lake in Yasuní, Ecuador",
+        "altEs": "Bosque alrededor de una laguna en Yasuní, Ecuador",
+        "credit": "Geoff Gallice",
+        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Oxbow_lake,_Yasuni.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      {
+        "section": 4,
+        "src": "/assets/images/ecuador/puyo-palms.jpg",
+        "width": 1400,
+        "height": 933,
+        "altEn": "Palms with exposed supporting roots beside a path at Omaere Park, Puyo",
+        "altEs": "Palmas con raíces de soporte expuestas junto a un sendero del Parque Omaere, Puyo",
+        "source": "https://commons.wikimedia.org/wiki/File:Iriartea_deltoidea_and_Socratea_exorrhiza_%28Arecaceae%29_%E2%80%94_two_%22walking_palms%22_%2830053641211%29.jpg",
+        "credit": "yakovlev.alexey",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+      }
+    ],
+    "season-planning": [
+      {
+        "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
+        "width": 1400,
+        "height": 788,
+        "altEn": "Palm silhouettes at sunset on a tributary of the Yasuní River",
+        "altEs": "Siluetas de palmeras al atardecer en un afluente del río Yasuní",
+        "source": "https://commons.wikimedia.org/wiki/File:Bactris_Palm_Sunset.jpg",
+        "credit": "Lauren Whitehurst",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "section": 0
+      },
+      {
+        "src": "/assets/images/ecuador/tena-forest-jay.jpg",
+        "width": 1400,
+        "height": 933,
+        "altEn": "Sunlight through rainforest trees in Tena, Ecuador",
+        "altEs": "Luz entre los árboles del bosque amazónico en Tena, Ecuador",
+        "source": "https://commons.wikimedia.org/wiki/File:Amazon_Rainforest_in_Tena,_Ecuador.jpg",
+        "credit": "Jay",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "section": 4
+      },
+      {
+        "section": 4,
+        "src": "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
+        "width": 1399,
+        "height": 1400,
+        "altEn": "Green tree frog photographed in Cuyabeno, Ecuador",
+        "altEs": "Rana arborícola verde fotografiada en Cuyabeno, Ecuador",
+        "source": "https://commons.wikimedia.org/wiki/File:Hypsiboas_cinerascens_in_Cuyabeno,_Ecuador.jpg",
+        "credit": "Javier Ábalos Alvarez",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "heading": "Destino Exacto",
+    "points": [
+      "¿Cuál es la base exacta y qué lugares visita el programa?",
+      "¿A qué distancia está el viaje desde nuestro punto de partida?",
+      "¿Cuál es la ubicación exacta de nuestra parada final?"
+    ],
+    "intro": "Empieza por la base exacta y las fechas posibles. Una descripción estacional de todo el país es demasiado amplia para decidir un viaje concreto al bosque. Identifica tus prioridades, como observar, caminar o pasar tiempo en el agua. Pregunta cómo las atiende el programa real del proveedor en ese lugar y durante la estancia que consideras."
+  },
+  {
+    "heading": "Condiciones Locales Recientes",
+    "points": [
+      "¿Hay alguna restricción actual para acceder a la zona?",
+      "¿Han afectado las lluvias recientes los niveles del agua?",
+      "¿Hay alguna noticia local que debamos saber antes de salir?"
+    ],
+    "intro": "Combina información local actual con el contexto climático general. Pregunta cuándo se comprobó por última vez la ruta propuesta y qué implican las condiciones recientes para las salidas. Distingue una actualización de un lugar concreto de una afirmación sobre toda la Amazonía. Anota la fecha de la información y cómo recibirás novedades antes de partir."
+  },
+  {
+    "heading": "Flexibilidad con el Tiempo",
+    "points": [
+      "¿Podemos cambiar la hora de salida si empeora el pronóstico?",
+      "¿Cómo se deciden y comunican los cambios de las salidas previstas?",
+      "¿Cuánto tiempo extra necesitan para los retrasos por clima?"
+    ],
+    "intro": "Pregunta cómo responde el programa a los cambios, sin asumir que todas las actividades funcionan siempre como se anuncian. Confirma alternativas, posibles costes y quién decide. La flexibilidad debe describirse en la propuesta; no garantiza una sustitución de igual duración, una ruta preferida ni una experiencia concreta de fauna."
+  },
+  {
+    "heading": "Llegada y Conexiones",
+    "points": [
+      "¿Qué encuentro y traslados están confirmados para nuestra llegada?",
+      "¿Hay una forma directa de llegar a nuestro siguiente destino?",
+      "¿Cuánto tiempo dura la espera si la conexión se retrasa?"
+    ],
+    "intro": "Compara el viaje completo desde la llegada hasta tus planes posteriores. Pregunta qué tramos por carretera o agua incluye el paquete y dónde empiezan los servicios reservados por separado. Revisa el punto de encuentro y cómo se comunica un retraso. No asumas que un proveedor controla todas las conexiones ni que una salida programada permite una conexión ajustada."
+  },
+  {
+    "heading": "Disponibilidad de Actividades",
+    "points": [
+      "¿Son posibles todas las actividades en nuestras fechas elegidas?",
+      "¿Podemos saltar algunas partes si las condiciones no son adecuadas?",
+      "¿Qué pasa si un guía o bote específico no está disponible?"
+    ],
+    "intro": "Confirma las actividades y los guías disponibles para esas fechas, alojamiento y grupo. Un atractivo regional o una descripción general no establece qué incluye tu estancia. Pregunta qué salidas están confirmadas y cuáles dependen de condiciones o disponibilidad. Distingue las actividades opcionales del itinerario principal al comparar propuestas."
+  },
+  {
+    "heading": "Términos Escritos de Cambio",
+    "points": [
+      "¿Dónde constan las condiciones de cambio de reserva e itinerario?",
+      "¿Cuánto aviso se necesita para modificar nuestra reserva?",
+      "¿Hay tarifas si debemos cancelar o reprogramar?"
+    ],
+    "intro": "Conserva itinerario y condiciones de cambio juntos al decidir las fechas. Pregunta cuánto aviso se necesita, qué costes pueden aplicarse y cómo se acuerdan los ajustes. Revisa también transporte y alojamiento reservados aparte. Una propuesta clara ayuda a entender los acuerdos; no elimina la incertidumbre del tiempo ni de los avistamientos."
+  }
+]

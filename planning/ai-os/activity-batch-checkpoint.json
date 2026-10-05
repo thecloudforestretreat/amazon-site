@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-05",
+  "pairs": [
+    "pair_018",
+    "pair_019"
+  ],
+  "deployment": "721b3770",
+  "links": {
+    "canoe_en": "https://staging.experiencetheamazon.com/ecuador/amazon-canoe-tour/?review=721b3770",
+    "canoe_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-en-canoa-por-la-amazonia/?review=721b3770",
+    "best_time_en": "https://staging.experiencetheamazon.com/ecuador/best-time-to-visit-the-ecuador-amazon/?review=721b3770",
+    "best_time_es": "https://staging.experiencetheamazon.com/es/ecuador/mejor-epoca-para-visitar-la-amazonia-ecuatoriana/?review=721b3770"
+  },
+  "status": "Canoe and best-time EN/ES deployed; editorial, technical and photo-asset checks pass; live visual pending",
+  "usage": {
+    "requests": 2,
+    "measured_requests": 1,
+    "prompt_tokens": 136,
+    "output_tokens": 872,
+    "measured_tokens": 1008,
+    "seconds_measured": 34.98,
+    "cache_hits": 1,
+    "inference_retries": 0,
+    "blocked_before_inference_attempts": 1,
+    "schema_failures": 1,
+    "unmeasured_requests": 1,
+    "cloud_worker_tokens": 0,
+    "limitation": "Canoe response metrics were lost when field-name validation failed; preserved raw draft, normalized fields without re-inference. Worker now saves metrics before validation and strict schema is regression-tested."
+  },
+  "media": "evidence/activity-images.json; evidence/activity-image-rotation-qa.json; evidence/activity-image-acquisition.json",
+  "facts": "evidence/activity-climate-fact-review.json",
+  "rollback": {
+    "previous_deployment": "cbd80db7",
+    "previous_commit": "56f1247",
+    "branch": "staging",
+    "production_modified": false
+  },
+  "next": "Owner preview review; next candidates are how-to-get-there and packing guides",
+  "content_sha256": "6f8dd64f5bee11629ca340745bc5012b9b79812056894beef02706a8b61dc71a",
+  "config_sha256": "25ae4c393de4b12589ddb19774ea93f354f012d36165583de85aa0a455bbf0a6",
+  "technical_page_audits": 24,
+  "compiled_html_pages": 44,
+  "protected_domain_unauthenticated_status": 302
+}

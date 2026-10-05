@@ -1,0 +1,102 @@
+{
+  "en": [
+    {
+      "heading": "Exact Destination",
+      "points": [
+        "Which specific river stretch or community will we visit?",
+        "How far is the trip from our starting point?",
+        "What is the precise location of our final stop?"
+      ]
+    },
+    {
+      "heading": "Recent Local Conditions",
+      "points": [
+        "Are there any current restrictions on access to the area?",
+        "Have recent rains affected the water levels significantly?",
+        "Is there any local news we should know about before leaving?"
+      ]
+    },
+    {
+      "heading": "Weather Flexibility",
+      "points": [
+        "Can we change our departure time if the forecast worsens?",
+        "What is your policy if strong winds make travel unsafe?",
+        "How much extra time do you need for weather delays?"
+      ]
+    },
+    {
+      "heading": "Arrival and Onward Connections",
+      "points": [
+        "Will a boat be waiting exactly when we arrive?",
+        "Is there a direct way to reach our next destination?",
+        "How long is the wait if the connection is delayed?"
+      ]
+    },
+    {
+      "heading": "Activity Availability",
+      "points": [
+        "Are all planned activities possible on our chosen dates?",
+        "Can we skip certain parts if conditions are not right?",
+        "What happens if a specific guide or boat is unavailable?"
+      ]
+    },
+    {
+      "heading": "Written Change Terms",
+      "points": [
+        "Where can I find the official rules for changing plans?",
+        "How much notice is needed to modify our booking?",
+        "Are there fees if we must cancel or reschedule?"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "heading": "Destino Exacto",
+      "points": [
+        "¿Qué tramo específico del río o comunidad visitaremos?",
+        "¿A qué distancia está el viaje desde nuestro punto de partida?",
+        "¿Cuál es la ubicación exacta de nuestra parada final?"
+      ]
+    },
+    {
+      "heading": "Condiciones Locales Recientes",
+      "points": [
+        "¿Hay alguna restricción actual para acceder a la zona?",
+        "¿Han afectado las lluvias recientes los niveles del agua?",
+        "¿Hay alguna noticia local que debamos saber antes de salir?"
+      ]
+    },
+    {
+      "heading": "Flexibilidad con el Tiempo",
+      "points": [
+        "¿Podemos cambiar la hora de salida si empeora el pronóstico?",
+        "¿Cuál es su política si vientos fuertes hacen inseguro el viaje?",
+        "¿Cuánto tiempo extra necesitan para los retrasos por clima?"
+      ]
+    },
+    {
+      "heading": "Llegada y Conexiones",
+      "points": [
+        "¿Estará esperando un bote exactamente cuando lleguemos?",
+        "¿Hay una forma directa de llegar a nuestro siguiente destino?",
+        "¿Cuánto tiempo dura la espera si la conexión se retrasa?"
+      ]
+    },
+    {
+      "heading": "Disponibilidad de Actividades",
+      "points": [
+        "¿Son posibles todas las actividades en nuestras fechas elegidas?",
+        "¿Podemos saltar algunas partes si las condiciones no son adecuadas?",
+        "¿Qué pasa si un guía o bote específico no está disponible?"
+      ]
+    },
+    {
+      "heading": "Términos Escritos de Cambio",
+      "points": [
+        "¿Dónde puedo encontrar las reglas oficiales para cambiar planes?",
+        "¿Cuánto aviso se necesita para modificar nuestra reserva?",
+        "¿Hay tarifas si debemos cancelar o reprogramar?"
+      ]
+    }
+  ]
+}

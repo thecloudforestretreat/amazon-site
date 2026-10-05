@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-05",
+  "claim": "Amazon-region rainfall occurs throughout the year; country has regional climate variation",
+  "source": "https://unfccc.int/resource/docs/natc/ecunc1.pdf",
+  "location": "PDF page 27 (zero-indexed); climate chapter",
+  "evidence": "Amazon region/eastern region has permanent rainfall throughout the year; regional variations described on preceding page",
+  "limits": "Historical national climate communication, not a current forecast, monthly itinerary advice or river-level guarantee",
+  "current_information_source": "https://www.inamhi.gob.ec/catalogo-de-productos/",
+  "editorial_decision": "Do not invent a universally best month, seasonal water levels or sightings; compare exact base and recent conditions"
+}
