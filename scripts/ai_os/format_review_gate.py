@@ -1,6 +1,8 @@
 """Flag observed local-draft failures; passing never grants editorial approval."""
 import json,re
 PATTERNS={
+ 'unguided_observation_assumption':r'observation without a guide present|observación sin guía presente',
+ 'sighting_guarantee_request':r'provide any guarantees regarding wildlife sightings|garantía sobre los avistamientos',
  'spanish_voice_mismatch':r'\b(?:confirme|pregunte|solicite|consulte|confirmen|consulten|soliciten|pregúntenle)\b',
  'unsupported_wildlife_timing':r'wildlife can be found at any time|vida silvestre puede encontrarse a cualquier hora',
  'literal_spanish_failure':r'\bDura del Viaje\b|\blas avistamientos\b|\bcamadas guiadas\b|\benforce\b|\blos salidas\b|\bla avistamiento\b',

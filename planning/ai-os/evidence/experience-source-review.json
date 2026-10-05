@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-05",
+  "reviewed": true,
+  "sources": [
+    {
+      "url": "https://napowildlifecenter.com/weather-and-temperature-at-yasuni-national-park/",
+      "use": "Yasuni warm/humid year-round, general rainfall variation and river context",
+      "limit": "Regional averages; not a forecast or sighting ranking"
+    },
+    {
+      "url": "https://www.sachalodge.com/es/weather-climate-at-sacha-lodge/",
+      "use": "Year-round rainfall and trail context",
+      "limit": "2018 article; not current operational information"
+    },
+    {
+      "url": "https://www.sachalodge.com/programs/sacha-lodge-programs/4-days-3-nights-program/",
+      "use": "Attributed example of arrival, morning/afternoon outings, rest, optional night outings and departure",
+      "limit": "Not universal schedule, booked availability or inclusions"
+    },
+    {
+      "url": "https://napowildlifecenter.com/facilities/",
+      "use": "Attributed cabin/dining/platform/lounge facilities context",
+      "limit": "Specific property; confirm current arrangements"
+    }
+  ],
+  "image_context": "Regional photographs; do not depict named lodges",
+  "fetch_note": "Guessed weather URL failed; corrected through visible source-page link. Failed URL not marked reviewed."
+}

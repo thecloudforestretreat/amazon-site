@@ -1,0 +1,18 @@
+{
+  "job": "wildlife-timing-article",
+  "model": "qwen3.5:9b",
+  "status": "editorial_reviewed_deployed_initial_visual_pass_full_qa_pending",
+  "review_flags": [],
+  "seconds": 43.32,
+  "prompt_eval_count": 209,
+  "eval_count": 957,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false,
+  "deployment": "04e4580d",
+  "raw_review_flags": [
+    "sighting_guarantee_request"
+  ],
+  "reviewed_flags": [],
+  "promotion": "Substantial supervisor rewrite; raw preserved; bounded local questions only",
+  "reviewed_sha256": "29193d41a89ba32dd04bff8783973ede4fe7eb5b67f80a97bdce4936f1ad1c9a"
+}

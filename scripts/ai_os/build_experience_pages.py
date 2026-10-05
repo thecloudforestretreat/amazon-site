@@ -1,0 +1,59 @@
+"""Build reviewed wildlife-timing and lodge-experience articles; no model calls or deploy."""
+from pathlib import Path
+import json,html,re,hashlib
+root=Path(__file__).resolve().parents[2]; esc=html.escape
+data={d['slug']:d for d in json.loads((root/'src/data/ecuador-destinations.json').read_text())}
+def hero(d):
+ return dict(src=d['image'],width=d['imageWidth'],height=d['imageHeight'],altEn=d['imageAltEn'],altEs=d['imageAltEs'],credit=d['imageCredit'].removeprefix('Photo: '),source=d['imageSource'],license=d.get('imageLicenseLabel','CC BY 2.0' if d.get('imageLicense') else ''),licenseUrl=d.get('imageLicense',''))
+configs=json.loads((root/'planning/ai-os/experience-batch-config.json').read_text())
+copy=json.loads((root/'planning/ai-os/experience-batch-content.json').read_text())
+for cfg in configs:
+ job=cfg['job'];runs=list((root/f'planning/ai-os/runs/{job}').glob('*/draft.json'));assert len(runs)==1,runs
+ draft=json.loads((runs[0].parent/'reviewed.json').read_text())
+ for lang in ['en','es']:
+  c=copy[job][lang];route=('/es' if lang=='es' else '')+'/ecuador/'+cfg[lang]+'/';en='/ecuador/'+cfg['en']+'/';es='/es/ecuador/'+cfg['es']+'/';contact='/es/contacto/' if lang=='es' else '/contact/';hub='/es/ecuador/' if lang=='es' else '/ecuador/';faqid='preguntas' if lang=='es' else 'faqs'
+  def photo(p,hero=False):
+   credit=('Foto: ' if lang=='es' else 'Photo: ')+f'<a href="{esc(p["source"])}">{esc(p["credit"])}</a>'
+   if p.get('licenseUrl'):credit+=f' · <a href="{p["licenseUrl"]}">{p["license"]}</a>'
+   credit+=' · '+('Adaptada' if lang=='es' else 'Edited')
+   attrs='fetchpriority="high"' if hero else 'loading="lazy"'
+   return f'<figure class="{"eta-country-art eta-country-art--licensed" if hero else "eta-hub-photo"}"><img src="{p["src"]}" width="{p["width"]}" height="{p["height"]}" alt="{esc(p["altEs" if lang=="es" else "altEn"])}" decoding="async" {attrs}><figcaption class="eta-photo-credit">{credit}</figcaption></figure>'
+  schema={'@context':'https://schema.org','@graph':[{'@type':'WebPage','name':c['title'],'url':'https://experiencetheamazon.com'+route,'inLanguage':lang},{'@type':'FAQPage','mainEntity':[{'@type':'Question','name':q,'acceptedAnswer':{'@type':'Answer','text':a}} for q,a in c['faqs']]}]}
+  schema['@graph'].append({'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'Ecuador','item':'https://experiencetheamazon.com'+hub},{'@type':'ListItem','position':2,'name':('Diario' if lang=='es' else 'Journal'),'item':'https://experiencetheamazon.com'+hub+'blog/'}]+([{'@type':'ListItem','position':3,'name':c['title'].split(' | ')[0],'item':'https://experiencetheamazon.com'+route}] if cfg['pageType']=='blog_article' else [])})
+  if cfg['pageType']=='blog_article':
+   schema['@graph'].append({'@type':'Article','headline':c['h1'],'inLanguage':lang,'datePublished':'2026-10-05','dateModified':'2026-10-05','mainEntityOfPage':'https://experiencetheamazon.com'+route,'image':'https://experiencetheamazon.com'+cfg['photos'][0]['src'],'author':{'@type':'Organization','name':'Experience The Amazon'}})
+  else:
+   schema['@graph'][0]['@type']='CollectionPage'
+   schema['@graph'].append({'@type':'ItemList','itemListElement':[{'@type':'ListItem','position':i+1,'name':h,'url':'https://experiencetheamazon.com'+hub+slug+'/'} for i,(h,p,slug) in enumerate(c['cards'])]})
+  s=f'<!doctype html><html lang="{lang}" data-language-pair="{es if lang=="en" else en}" data-page-id="ecuador_{cfg["en"].replace("-","_")}" data-pair-id="{cfg["pair"]}" data-page-type="{cfg["pageType"]}" data-country="ecuador" data-topic-cluster="ecuador-long-tail-authority" data-funnel-stage="consideration"><head><meta charset="utf-8"><title>{esc(c["title"])}</title><meta name="description" content="{esc(c["lede"])}"><meta name="robots" content="index,follow"><link rel="canonical" href="https://experiencetheamazon.com{route}">'
+  for l,r in [('en',en),('es',es),('x-default',en)]:s+=f'<link rel="alternate" hreflang="{l}" href="https://experiencetheamazon.com{r}">'
+  s+='{{ETA_HEAD}}'+''.join(f'<link rel="stylesheet" href="/assets/css/clusters/{x}.css">' for x in ['ecuador-hubs','ecuador-decision','ecuador-blog','country','planning','trust'])+'<script type="application/ld+json">'+json.dumps(schema,ensure_ascii=False)+'</script></head><body class="eta-planning-page eta-hub-page eta-decision-page">{{ETA_HEADER}}{{ETA_ECUADOR_NAV}}<main id="main-content">'
+  s+=f'<div class="eta-shell eta-breadcrumbs"><a href="{hub}">Ecuador</a><span>›</span><span>{esc(c["title"].split(" | ")[0])}</span></div><section class="eta-country-hero"><div class="eta-shell eta-country-hero__grid"><div><p class="eta-kicker">{"Guía de viaje" if lang=="es" else "Ecuador trip guide"}</p><h1>{esc(c["h1"])}</h1><p class="eta-lede">{esc(c["lede"])}</p><div class="eta-actions"><a class="eta-button eta-button--gold" href="{contact}">{"Planifica tu viaje" if lang=="es" else "Plan this journey"}</a><a class="eta-button eta-button--outline" href="#compare">{"Explora la guía" if lang=="es" else "Explore your options"}</a></div></div>{photo(cfg["photos"][0],True)}</div></section>'
+  s+='<section class="eta-section--tight"><div class="eta-shell"><div class="eta-facts">'+''.join(f'<div class="eta-fact"><strong>{esc(a)}</strong><span>{esc(b)}</span></div>' for a,b in c['facts'])+'</div></div></section>'
+  s+=f'<section class="eta-section" id="compare"><div class="eta-shell"><div class="eta-answer"><span class="eta-answer__label">{"Respuesta breve" if lang=="es" else "Quick answer"}</span><h2>{esc(c["intro"])}</h2><p>{esc(c["quick"])}</p></div>'
+  if job=='safety-planning':
+   s+='<aside class="eta-current-advice"><strong>'+('Check current regional advice before booking' if lang=='en' else 'Revisa los avisos regionales antes de reservar')+'</strong><p>'+('UK FCDO advice includes northern border restrictions and specifically discusses Cuyabeno and the Napo River. Review every gateway and transfer, not only the reserve.' if lang=='en' else 'El FCDO británico incluye restricciones en la frontera norte y menciona Cuyabeno y el río Napo. Revisa cada acceso y traslado, no solo la reserva.')+'</p><a href="https://www.gov.uk/foreign-travel-advice/ecuador/regional-risks/">'+('Read current regional advice →' if lang=='en' else 'Lee los avisos regionales actuales →')+'</a></aside>'
+  if c.get('starterItems'):
+   s+=f'<div class="eta-pack-starter"><h3>{esc(c["starterHeading"])}</h3><dl class="eta-pack-list">'+''.join(f'<div><dt>{esc(h)}</dt><dd>{esc(p)}</dd></div>' for h,p in c['starterItems'])+'</dl></div>'
+  if c.get('comparisonRows'):
+   s+=f'<div class="eta-blog-comparison"><h2>{esc(c["comparisonHeading"])}</h2><div class="eta-blog-comparison__grid">'+''.join(f'<article class="eta-decision-card"><h3>{esc(h)}</h3><p><strong>Yasuní / Napo</strong><br>{esc(a)}</p><p><strong>Cuyabeno</strong><br>{esc(b)}</p></article>' for h,a,b in c['comparisonRows'])+'</div></div>'
+  s+='<div class="eta-decision-grid" style="margin-top:32px">'
+
+  for h,p,slug in c['cards']:s+=f'<article class="eta-decision-card"><h3>{esc(h)}</h3><p>{esc(p)}</p><a href="{slug if slug.startswith('https://') else hub+slug+'/'}">{("Parque Nacional Galápagos" if lang=="es" else "Galápagos National Park") if slug.startswith("https://") else ("Explora la guía" if lang=="es" else "Read the guide")} →</a></article>'
+  s+='</div></div></section>'
+  s+=f'<section class="eta-section eta-section--mist" id="practical-guide"><div class="eta-shell"><div class="eta-section-heading"><div><p class="eta-kicker">{"Decisiones prácticas" if lang=="es" else "Practical decisions"}</p><h2>{esc(c["guide"])}</h2></div><p>{esc(c["guidelede"])}</p></div><div class="eta-hub-guide">'
+  for i,card in enumerate(draft[lang]):
+   item=f'<article class="eta-hub-guide-card"><span class="eta-hub-number">{i+1:02}</span><h3>{esc(card["heading"])}</h3><p>{esc(card["intro"])}</p><ul>'+''.join(f'<li>{esc(p)}</li>' for p in card['points'])+'</ul></article>'
+   if card.get('link'):item=item.replace('</article>',f'<a href="{hub+card["link"]+"/"}">{"Explora la guía" if lang=="es" else "Read the guide"} →</a></article>')
+   if i in [0,3]:s+=f'<div class="eta-hub-guide-feature'+(' eta-hub-guide-feature--reverse' if i==3 else '')+'">'+photo(cfg['photos'][1 if i==0 else 2])+item+'</div>'
+   else:s+=item
+  s+='</div></div></section><section class="eta-section"><div class="eta-shell eta-decision-grid">'+''.join(f'<article class="eta-decision-card"><h2>{esc(c[h])}</h2><p>{esc(c[p])}</p></article>' for h,p in [('extra','extrap'),('extra2','extra2p')])+'</div></section>'
+  s+=f'<section class="eta-section eta-section--mist" id="{faqid}"><div class="eta-shell eta-reading"><p class="eta-kicker">{"Preguntas frecuentes" if lang=="es" else "Your questions"}</p><h2>{"Antes de elegir" if lang=="es" else "Before you choose"}</h2><div class="eta-stack">'+''.join(f'<details><summary>{esc(q)}</summary><p>{esc(a)}</p></details>' for q,a in c['faqs'])+'</div></div></section>'
+  otherroute=hub+'blog/'
+  s+=f'<section class="eta-section"><div class="eta-shell eta-trust-strip"><p class="eta-kicker">{"El siguiente paso" if lang=="es" else "Your next step"}</p><h2>{"Cuéntanos cómo quieres viajar" if lang=="es" else "Tell us what your journey needs"}</h2><p>{"Comparte fechas, grupo, punto de partida, intereses y planes posteriores para preparar una consulta clara." if lang=="es" else "Share your dates, group, starting point, interests and onward plans to prepare a focused inquiry."}</p><div class="eta-actions"><a class="eta-button eta-button--gold" href="{contact}">{"Consulta tu viaje" if lang=="es" else "Ask about your journey"}</a><a class="eta-button eta-button--outline" href="{otherroute}">{"Explora el diario amazónico" if lang=="es" else "Explore the Amazon journal"}</a></div></div></section>'
+  source_links=c.get('sources', [('UNESCO: Yasuní regional context','https://www.unesco.org/en/mab/yasuni'),('IUCN: Cuyabeno waterways and lagoons (2017 context)','https://iucn.org/es/news/south-america/201709/las-lagunas-de-cuyabeno-mantos-de-la-biodiversidad'),('FCDO: current regional advice','https://www.gov.uk/foreign-travel-advice/ecuador/regional-risks')])
+  sources='<section class="eta-section--tight"><div class="eta-shell eta-reading"><h2>'+('Sources and review' if lang=='en' else 'Fuentes y revisión')+'</h2><p>'+('Reviewed October 5, 2026. Planning guidance and questions to confirm with the actual provider; operator descriptions are attributed to their own published information; no availability or prices are confirmed. Regional photographs do not depict the named properties. Check current official information and the actual provider before booking.' if lang=='en' else 'Revisión del 5 de octubre de 2026. Guía de planificación y preguntas para confirmar con el proveedor concreto; las descripciones de operadores se atribuyen a sus publicaciones; no se confirma disponibilidad ni precios. Las fotos regionales no representan las propiedades mencionadas. Consulta información oficial vigente y al proveedor antes de reservar.')+'</p><ul>'+''.join(f'<li><a href="{u}">{esc(t)}</a></li>' for t,u in source_links)+'</ul></div></section>'
+  s+=sources+'</main>{{ETA_FOOTER}}</body></html>\n'
+  dest=root/f'src/pages/{lang}/ecuador/{cfg[lang]}/index.html';dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(s)
+  (runs[0].parent/f'reviewed-{lang}.json').write_text(json.dumps(draft[lang],ensure_ascii=False,indent=2)+'\n')
+(root/'planning/ai-os/evidence/experience-images.json').write_text(json.dumps({'date':'2026-10-05','photos':{c['job']:c['photos'] for c in configs}},ensure_ascii=False,indent=2)+'\n')

@@ -1,0 +1,102 @@
+{
+  "en": [
+    {
+      "heading": "Arrival at the Base",
+      "points": [
+        "What exact time and location will you confirm for our arrival at the base?",
+        "Which specific transport method do you provide to reach the base from the airport or port?",
+        "How long does the transfer take according to your current schedule?"
+      ]
+    },
+    {
+      "heading": "Room Routines",
+      "points": [
+        "What are the standard check-in and check-out times you enforce for guests?",
+        "Which specific amenities are included in every room without extra cost?",
+        "How do you handle requests for early arrival or late departure?"
+      ]
+    },
+    {
+      "heading": "Guiding and Activity Rhythms",
+      "points": [
+        "What is the typical daily schedule for guided walks or boat trips?",
+        "How much free time do you allow between different activities each day?",
+        "Which specific guides accompany us on the field during excursions?"
+      ]
+    },
+    {
+      "heading": "Observation Time",
+      "points": [
+        "Do you schedule quiet periods for observation without a guide present?",
+        "How long do you recommend staying at one spot to observe wildlife?",
+        "What is the policy if we wish to extend our observation time beyond the plan?"
+      ]
+    },
+    {
+      "heading": "Host-Led Community Activities",
+      "points": [
+        "Which community events are open to guests and how are they organized?",
+        "Do you include local hosts in the itinerary for cultural exchanges?",
+        "What specific rules must we follow when visiting community spaces?"
+      ]
+    },
+    {
+      "heading": "Departure and Onward Travel",
+      "points": [
+        "At what time will you arrange our transport to the next destination or airport?",
+        "Which specific vehicle will take us to the departure point?",
+        "How do you confirm our arrival at the final transfer location?"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "heading": "Llegada a la base",
+      "points": [
+        "¿Qué hora y lugar exacto confirman ustedes para nuestra llegada a la base?",
+        "¿Qué medio de transporte específico proporcionan ustedes para llegar a la base desde el aeropuerto o puerto?",
+        "¿Cuánto tiempo dura el traslado según su horario actual?"
+      ]
+    },
+    {
+      "heading": "Rutinas de habitación",
+      "points": [
+        "¿Cuáles son las horas estándar de entrada y salida que ustedes imponen para los huéspedes?",
+        "¿Qué comodidades específicas incluyen en cada habitación sin costo adicional?",
+        "¿Cómo manejan ustedes las solicitudes de llegada temprana o salida tardía?"
+      ]
+    },
+    {
+      "heading": "Ritmos de guía y actividades",
+      "points": [
+        "¿Cuál es el horario típico diario para caminatas guiadas o viajes en bote?",
+        "¿Cuánto tiempo libre permiten ustedes entre diferentes actividades cada día?",
+        "¿Qué guías específicos acompañan a los viajeros durante las excursiones?"
+      ]
+    },
+    {
+      "heading": "Tiempo de observación",
+      "points": [
+        "¿Programan ustedes periodos tranquilos para la observación sin guía presente?",
+        "¿Cuánto tiempo recomiendan ustedes permanecer en un solo lugar para observar vida silvestre?",
+        "¿Cuál es la política si deseamos extender nuestro tiempo de observación más allá del plan?"
+      ]
+    },
+    {
+      "heading": "Actividades comunitarias lideradas por anfitriones",
+      "points": [
+        "¿Qué eventos comunitarios están abiertos a los huéspedes y cómo los organizan?",
+        "¿Incluyen ustedes a anfitriones locales en el itinerario para intercambios culturales?",
+        "¿Qué reglas específicas debemos seguir cuando visitamos espacios comunitarios?"
+      ]
+    },
+    {
+      "heading": "Salida y viajes posteriores",
+      "points": [
+        "¿A qué hora organizan ustedes nuestro transporte hacia el siguiente destino o aeropuerto?",
+        "¿Qué vehículo específico nos llevará al punto de salida?",
+        "¿Cómo confirman ustedes nuestra llegada al lugar final del traslado?"
+      ]
+    }
+  ]
+}

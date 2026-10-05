@@ -1,0 +1,21 @@
+{
+  "job": "lodge-experience-article",
+  "model": "qwen3.5:9b",
+  "status": "editorial_reviewed_deployed_initial_visual_pass_full_qa_pending",
+  "review_flags": [
+    "literal_spanish_failure"
+  ],
+  "seconds": 39.53,
+  "prompt_eval_count": 211,
+  "eval_count": 993,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false,
+  "deployment": "04e4580d",
+  "raw_review_flags": [
+    "unguided_observation_assumption",
+    "literal_spanish_failure"
+  ],
+  "reviewed_flags": [],
+  "promotion": "Substantial supervisor rewrite; raw preserved; bounded local questions only",
+  "reviewed_sha256": "4f47771b2e921abca399c87f7ff460cf1ea5c7991e4c01a3f8b1d45771acd29a"
+}

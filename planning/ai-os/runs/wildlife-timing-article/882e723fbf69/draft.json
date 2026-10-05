@@ -1,0 +1,102 @@
+{
+  "en": [
+    {
+      "heading": "Date Selection and Sightings",
+      "points": [
+        "What specific dates can you confirm for our trip?",
+        "Do you provide any guarantees regarding wildlife sightings on those dates?",
+        "How do you handle the schedule if conditions prevent a sighting?"
+      ]
+    },
+    {
+      "heading": "Current Conditions",
+      "points": [
+        "What are the current weather and water conditions at the site?",
+        "Are there any active restrictions or advisories we need to know about?",
+        "How do you adjust the itinerary based on real-time environmental changes?"
+      ]
+    },
+    {
+      "heading": "Habitat Matching",
+      "points": [
+        "Which habitats will we visit that align with our specific interests?",
+        "Can you confirm the types of species typically found in those areas?",
+        "What is the best way to observe wildlife within these specific environments?"
+      ]
+    },
+    {
+      "heading": "Morning and Evening Outings",
+      "points": [
+        "How do you compare the activity levels between morning and evening outings?",
+        "Which time of day offers better visibility for our preferred targets?",
+        "Are there specific protocols for safety during different times of the day?"
+      ]
+    },
+    {
+      "heading": "Observation Time",
+      "points": [
+        "How much time do you allocate for observation at each stop?",
+        "Can you confirm the duration we will spend in the field versus transit?",
+        "What measures are taken to ensure adequate rest periods during long outings?"
+      ]
+    },
+    {
+      "heading": "Confirmed Program",
+      "points": [
+        "Please review the confirmed program for our specific booking.",
+        "Are all planned activities included in the final itinerary?",
+        "How will you communicate any last-minute changes to the schedule?"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "heading": "Selección de fechas y avistamientos",
+      "points": [
+        "¿Qué fechas específicas pueden confirmar para nuestro viaje?",
+        "¿Proporcionan alguna garantía sobre los avistamientos de vida silvestre en esas fechas?",
+        "¿Cómo manejan el horario si las condiciones impiden un avistamiento?"
+      ]
+    },
+    {
+      "heading": "Condiciones actuales",
+      "points": [
+        "¿Cuáles son las condiciones actuales de clima y agua en el sitio?",
+        "¿Hay alguna restricción o aviso activo que debamos conocer?",
+        "¿Cómo ajustan el itinerario según los cambios ambientales en tiempo real?"
+      ]
+    },
+    {
+      "heading": "Ajuste del hábitat",
+      "points": [
+        "¿Qué hábitats visitaremos que se alineen con nuestros intereses específicos?",
+        "¿Pueden confirmar los tipos de especies que suelen encontrarse en esas áreas?",
+        "¿Cuál es la mejor manera de observar la vida silvestre dentro de estos entornos específicos?"
+      ]
+    },
+    {
+      "heading": "Salidas matutinas y vespertinas",
+      "points": [
+        "¿Cómo comparan los niveles de actividad entre las salidas matutinas y vespertinas?",
+        "¿Qué hora del día ofrece mejor visibilidad para nuestros objetivos preferidos?",
+        "¿Existen protocolos específicos para la seguridad durante diferentes horas del día?"
+      ]
+    },
+    {
+      "heading": "Tiempo de observación",
+      "points": [
+        "¿Cuánto tiempo asignan para la observación en cada parada?",
+        "¿Pueden confirmar la duración que pasaremos en el campo versus en tránsito?",
+        "¿Qué medidas se toman para asegurar periodos de descanso adecuados durante las salidas largas?"
+      ]
+    },
+    {
+      "heading": "Programa confirmado",
+      "points": [
+        "Por favor, revisen el programa confirmado para nuestra reserva específica.",
+        "¿Están incluidas todas las actividades planificadas en el itinerario final?",
+        "¿Cómo comunicarán cualquier cambio de última hora al horario?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "deployment": "04e4580d",
+  "date": "2026-10-05",
+  "status": "initial_desktop_mobile_visual_and_interaction_checks_pass",
+  "widths": [
+    1440,
+    390
+  ],
+  "measurements": [
+    {
+      "factYs": [
+        -2120,
+        -2120,
+        -2120,
+        -2120
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-hoatzin-gallagher.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/blog/best-time-to-see-wildlife-in-the-ecuador-amazon/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-hoatzin-gallagher.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/blog/best-time-to-see-wildlife-in-the-ecuador-amazon/",
+      "width": 390
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-hoatzin-gallagher.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/blog/mejor-epoca-para-ver-fauna-en-la-amazonia-del-ecuador/",
+      "width": 390
+    },
+    {
+      "factYs": [
+        -2061.4609375,
+        -2061.4609375,
+        -2061.4609375,
+        -2061.4609375
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-hoatzin-gallagher.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/blog/mejor-epoca-para-ver-fauna-en-la-amazonia-del-ecuador/",
+      "width": 1440
+    },
+    {
+      "factYs": [
+        -2120,
+        -2120,
+        -2120,
+        -2120
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-confluence.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/blog/what-is-it-like-to-stay-in-an-amazon-lodge/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-confluence.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/blog/what-is-it-like-to-stay-in-an-amazon-lodge/",
+      "width": 390
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-confluence.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/blog/como-es-alojarse-en-un-lodge-amazonico/",
+      "width": 390
+    },
+    {
+      "factYs": [
+        -2061.4609375,
+        -2061.4609375,
+        -2061.4609375,
+        -2061.4609375
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-confluence.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/blog/como-es-alojarse-en-un-lodge-amazonico/",
+      "width": 1440
+    }
+  ],
+  "screenshots": [
+    "planning/ai-os/evidence/wildlife-en-desktop.png",
+    "planning/ai-os/evidence/wildlife-en-mobile.png",
+    "planning/ai-os/evidence/wildlife-es-desktop.png",
+    "planning/ai-os/evidence/wildlife-es-mobile.png",
+    "planning/ai-os/evidence/experience-en-desktop.png",
+    "planning/ai-os/evidence/experience-en-mobile.png",
+    "planning/ai-os/evidence/experience-es-desktop.png",
+    "planning/ai-os/evidence/experience-es-mobile.png"
+  ],
+  "checks": [
+    "Four EN/ES routes at both viewport widths",
+    "All photos loaded; no horizontal overflow; header sticky",
+    "Desktop fact label baselines aligned",
+    "Hamburger opens via Enter and closes via Escape",
+    "Main FAQ toggles via Enter",
+    "Six distinct scenes, none from preceding two batches, no frogs",
+    "Unauthenticated Access redirect 302; authenticated readback passed"
+  ],
+  "limits": [
+    "Full accessibility and measured performance pending",
+    "Contact endpoint absent",
+    "Twelve earlier visual catch-up reviews pending",
+    "Fast-scroll desktop turtle initially undecoded; subsequent screenshot visibly confirmed"
+  ]
+}

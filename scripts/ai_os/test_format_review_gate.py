@@ -22,6 +22,14 @@ class ObservedFailures(unittest.TestCase):
   self.assertEqual(flags({'en':'Does the price cover all three nights of accommodation?'}),['day_night_confusion'])
   self.assertEqual(flags({'es':'¿El precio cubre las tres noches de alojamiento?'}),['day_night_confusion'])
   self.assertEqual(flags({'en':'How many nights are included?'}),[])
+ def test_unguided_observation_assumption(self):
+  self.assertEqual(flags({'en':'quiet periods for observation without a guide present'}),['unguided_observation_assumption'])
+  self.assertEqual(flags({'es':'observación sin guía presente'}),['unguided_observation_assumption'])
+  self.assertEqual(flags({'en':'Follow the guide’s access instructions.'}),[])
+ def test_sighting_guarantee_request(self):
+  self.assertEqual(flags({'en':'Do you provide any guarantees regarding wildlife sightings?'}),['sighting_guarantee_request'])
+  self.assertEqual(flags({'es':'¿Proporcionan alguna garantía sobre los avistamientos?'}),['sighting_guarantee_request'])
+  self.assertEqual(flags({'en':'Sightings are not guaranteed.'}),[])
  def test_reviewed_question_is_not_flagged(self):
   self.assertEqual(flags({'intro':'Which transport segments are included in the written proposal?'}),[])
 if __name__=='__main__':unittest.main()

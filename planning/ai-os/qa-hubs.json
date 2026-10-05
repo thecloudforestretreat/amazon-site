@@ -2,56 +2,56 @@
   "ecuador": {
     "pair_id": "pair_003",
     "language": "en",
-    "main_words": 1853,
+    "main_words": 1868,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
       "/assets/images/ecuador/misahualli-boat.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "f9d254459011c1b9445e6c2df1c5a55819f11b863c9b24730d9542945b829b0c",
+    "sha256": "3f7e6f5ff82593370421d2f1ad80a2b8fcd9d741e22d964007b21fe0d90e2471",
     "errors": [],
     "passed": true
   },
   "es/ecuador": {
     "pair_id": "pair_003",
     "language": "es",
-    "main_words": 1857,
+    "main_words": 1872,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
       "/assets/images/ecuador/misahualli-boat.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "d4cf3b397c0bdc627456c6136a3af8d5a8af9da9c7c69221d8b1c2b7b2c279f0",
+    "sha256": "0e6dedefb5652551826a74564345c8455cc9d2821c42320830f77d3f40401070",
     "errors": [],
     "passed": true
   },
   "ecuador/amazon-lodges": {
     "pair_id": "pair_009",
     "language": "en",
-    "main_words": 1446,
+    "main_words": 1461,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg",
       "/assets/images/ecuador/puyo-palms.jpg"
     ],
-    "sha256": "86b90a222a2d2403c534e3d6149bef3776699ae8b287850d50ebbb4ecbe5d3b7",
+    "sha256": "6535f28eba7d30c82ca4dc821399d9ddd99a11e63f1e8a8a6cc90881dee1c1a8",
     "errors": [],
     "passed": true
   },
   "es/ecuador/lodges-en-la-amazonia": {
     "pair_id": "pair_009",
     "language": "es",
-    "main_words": 1385,
+    "main_words": 1400,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg",
       "/assets/images/ecuador/puyo-palms.jpg"
     ],
-    "sha256": "7307d5605f41eb08b88e3497b3a2f7e8c0e294c0ab2d26801b6d75326676a764",
+    "sha256": "a4a199c8d8129adda89cc989eb8fa51b2745b3351560ecb2b53dbd0ceeb2449a",
     "errors": [],
     "passed": true
   },
@@ -562,28 +562,28 @@
   "ecuador/blog": {
     "pair_id": "pair_030",
     "language": "en",
-    "main_words": 1301,
+    "main_words": 1344,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/napo-forest-grzywa.jpg",
       "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg",
       "/assets/images/ecuador/yasuni-manakin.jpg"
     ],
-    "sha256": "d7c51fb5aa135c3c81619ad6743e6e0f0008e48480d0ad4873d1e24cd06fb777",
+    "sha256": "cc6d182fe816d7f3bc61d272c65be2de4901e43a0860fb1fdea9655b3765d858",
     "errors": [],
     "passed": true
   },
   "es/ecuador/blog": {
     "pair_id": "pair_030",
     "language": "es",
-    "main_words": 1277,
+    "main_words": 1317,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/napo-forest-grzywa.jpg",
       "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg",
       "/assets/images/ecuador/yasuni-manakin.jpg"
     ],
-    "sha256": "2e862b323a5fecf24f2f1c45b5aa76cb9bac219fcaf107efad6eb55d55270d41",
+    "sha256": "25e9ca193c23977f4c750a00486d1fe43eb12d67934c8494c74743a1bf0ce38d",
     "errors": [],
     "passed": true
   },
@@ -668,6 +668,62 @@
       "/assets/images/ecuador/yasuni-roosting-bird.jpg"
     ],
     "sha256": "50a0246a0e8f2bac583207499dda79acb5527be5ac70d4cc92f82d255d30c683",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/blog/best-time-to-see-wildlife-in-the-ecuador-amazon": {
+    "pair_id": "pair_034",
+    "language": "en",
+    "main_words": 1699,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-woolly-monkey.jpg",
+      "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg",
+      "/assets/images/ecuador/cuyabeno-hoatzin-gallagher.jpg"
+    ],
+    "sha256": "a0c0ac74a6c3e512ee6d6b7e1302ea741e875710dcc1bc740fad452eb74474de",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/blog/mejor-epoca-para-ver-fauna-en-la-amazonia-del-ecuador": {
+    "pair_id": "pair_034",
+    "language": "es",
+    "main_words": 1669,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-woolly-monkey.jpg",
+      "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg",
+      "/assets/images/ecuador/cuyabeno-hoatzin-gallagher.jpg"
+    ],
+    "sha256": "bd34e819b4a3c9d24d6a236722d387f8d37659d3d824838c3f674dbd6e5bea3c",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/blog/what-is-it-like-to-stay-in-an-amazon-lodge": {
+    "pair_id": "pair_035",
+    "language": "en",
+    "main_words": 1689,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/misahualli-confluence.jpg",
+      "/assets/images/ecuador/cuyabeno-canoe-river.jpg",
+      "/assets/images/ecuador/yasuni-river-turtle.jpg"
+    ],
+    "sha256": "f640f9fec597cf7eeef1bb54157b546f6967173dedafeab9dc3facb48af94572",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/blog/como-es-alojarse-en-un-lodge-amazonico": {
+    "pair_id": "pair_035",
+    "language": "es",
+    "main_words": 1620,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/misahualli-confluence.jpg",
+      "/assets/images/ecuador/cuyabeno-canoe-river.jpg",
+      "/assets/images/ecuador/yasuni-river-turtle.jpg"
+    ],
+    "sha256": "29860b6f2b67b7142ea40e367901f205f9e3f97e6d5197e582453de09542dbf0",
     "errors": [],
     "passed": true
   }

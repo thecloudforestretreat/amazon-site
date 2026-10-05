@@ -1,0 +1,45 @@
+{
+  "status": "deployed_initial_visual_and_technical_checks_pass_full_launch_qa_pending",
+  "deployment": "04e4580d",
+  "pairs": [
+    "pair_034",
+    "pair_035"
+  ],
+  "progress": "31/34 Ecuador pairs prepared/staged (91.2%); not launch completion",
+  "local_usage": {
+    "model": "qwen3.5:9b",
+    "calls": 2,
+    "prompt_tokens": 420,
+    "output_tokens": 1950,
+    "total_tokens": 2370,
+    "seconds": 82.85,
+    "inference_retries": 0,
+    "cache_hits": 0,
+    "connection_retries": 0,
+    "bounded_initial_draft_calls_local_percent": 100,
+    "overall_local_cloud_percent": "Unmeasured; supervisor authored and reviewed substantial copy, sources, design and QA outside local metrics"
+  },
+  "rollback": {
+    "deployment": "62d0c102",
+    "local_commit": "92a0706"
+  },
+  "verification": {
+    "compiled_pages": 72,
+    "audited_routes": 52,
+    "format_regression_tests": 11,
+    "scene_rotation": "passed",
+    "protection": "302 unauthenticated; authenticated browser verified"
+  },
+  "opportunities": [
+    "Local drafts still require substantial supervisor rewriting",
+    "Full launch QA and earlier visual catch-up pending",
+    "Reviews require genuine customer material; contact requires functioning delivery"
+  ],
+  "improvements": [
+    "Short local drafting reduced measured initial draft tokens from 5806 to 2370, without claiming overall savings",
+    "Added regression flags/tests for observed guarantee requests and unguided-observation assumptions",
+    "Journal and country/accommodation hubs link both new articles"
+  ],
+  "browser_evidence": "planning/ai-os/evidence/experience-browser-qa.json",
+  "next": "pair_036 Tena versus Misahualli article, plus earlier visual catch-up. pair_027 reviews and pair_029 contact need real inputs."
+}

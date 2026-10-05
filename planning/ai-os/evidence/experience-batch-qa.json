@@ -1,0 +1,79 @@
+{
+  "passed": true,
+  "errors": [],
+  "unique_scenes": 6,
+  "recent_batches": [
+    "article",
+    "blog"
+  ],
+  "photos": [
+    {
+      "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg",
+      "width": 1400,
+      "height": 933,
+      "credit": "Geoff Gallice",
+      "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Common_woolly_monkey.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "altEn": "Woolly monkey among the forest canopy in Yasuní National Park, Ecuador",
+      "altEs": "Mono lanudo entre las copas de los árboles en el Parque Nacional Yasuní, Ecuador",
+      "animalGroup": "mammal"
+    },
+    {
+      "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg",
+      "width": 1800,
+      "height": 1497,
+      "altEn": "Flooded forest reflected in a lagoon in Cuyabeno, Ecuador",
+      "altEs": "Bosque inundado reflejado en una laguna de Cuyabeno, Ecuador",
+      "credit": "Masha Buschujewa / Unsplash",
+      "source": "https://unsplash.com/photos/green-trees-on-lake-during-daytime-_9UQKWOY0No",
+      "license": "",
+      "licenseUrl": ""
+    },
+    {
+      "src": "/assets/images/ecuador/cuyabeno-hoatzin-gallagher.jpg",
+      "width": 1400,
+      "height": 933,
+      "credit": "Judy Gallagher",
+      "source": "https://commons.wikimedia.org/wiki/File:Hoatzin_-_Ophisthocomus_hoazin,_Cuyabeno_Wildlife_Reserve,_Ecuador_(48703661312).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "altEn": "Hoatzins on a branch in Cuyabeno Wildlife Reserve, Ecuador",
+      "altEs": "Hoacines en una rama en la Reserva de Producción de Fauna Cuyabeno, Ecuador",
+      "animalGroup": "bird"
+    },
+    {
+      "src": "/assets/images/ecuador/misahualli-confluence.jpg",
+      "width": 1400,
+      "height": 787,
+      "credit": "Arabsalam",
+      "source": "https://commons.wikimedia.org/wiki/File:Misahuall%C3%AD_Ecuador_1054.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "altEn": "The Misahuallí and Napo river confluence, with people on the riverbank",
+      "altEs": "Confluencia de los ríos Misahuallí y Napo, con personas en la ribera"
+    },
+    {
+      "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg",
+      "width": 1280,
+      "height": 960,
+      "credit": "Hanspeter Bellers",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Kanutourismus_R%C3%ADo_Cuyabeno,_Ecuador.jpg",
+      "altEn": "Canoe passengers seen from behind on the Cuyabeno River, Ecuador",
+      "altEs": "Pasajeros vistos de espaldas en una canoa por el río Cuyabeno, Ecuador"
+    },
+    {
+      "src": "/assets/images/ecuador/yasuni-river-turtle.jpg",
+      "width": 1280,
+      "height": 853,
+      "credit": "Geoff Gallice",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Yellow-spotted_river_turtle_(1).jpg",
+      "altEn": "Turtle on a branch above the Tiputini River, with a butterfly on its head",
+      "altEs": "Tortuga sobre una rama junto al río Tiputini, con una mariposa sobre la cabeza"
+    }
+  ]
+}

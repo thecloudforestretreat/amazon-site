@@ -17,6 +17,17 @@
       ]
     },
     {
+      "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg",
+      "count": 5,
+      "routes": [
+        "/ecuador/4-day-amazon-tour/",
+        "/ecuador/what-to-pack-for-the-amazon/",
+        "/ecuador/cuyabeno/",
+        "/ecuador/amazon-tours-from-quito/",
+        "/ecuador/blog/best-time-to-see-wildlife-in-the-ecuador-amazon/"
+      ]
+    },
+    {
       "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
       "count": 5,
       "routes": [
@@ -49,16 +60,6 @@
       ]
     },
     {
-      "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg",
-      "count": 4,
-      "routes": [
-        "/ecuador/4-day-amazon-tour/",
-        "/ecuador/what-to-pack-for-the-amazon/",
-        "/ecuador/cuyabeno/",
-        "/ecuador/amazon-tours-from-quito/"
-      ]
-    },
-    {
       "src": "/assets/images/ecuador/tena-river-faessler.jpg",
       "count": 4,
       "routes": [
@@ -87,6 +88,15 @@
       ]
     },
     {
+      "src": "/assets/images/ecuador/yasuni-river-turtle.jpg",
+      "count": 3,
+      "routes": [
+        "/ecuador/amazon-wildlife-tour/",
+        "/ecuador/3-day-amazon-tour/",
+        "/ecuador/blog/what-is-it-like-to-stay-in-an-amazon-lodge/"
+      ]
+    },
+    {
       "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg",
       "count": 3,
       "routes": [
@@ -111,6 +121,15 @@
         "/ecuador/private-amazon-tour/",
         "/ecuador/puyo/",
         "/ecuador/is-the-ecuador-amazon-safe/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/misahualli-confluence.jpg",
+      "count": 3,
+      "routes": [
+        "/ecuador/misahualli/",
+        "/ecuador/plan-your-amazon-trip/",
+        "/ecuador/blog/what-is-it-like-to-stay-in-an-amazon-lodge/"
       ]
     },
     {
@@ -150,6 +169,15 @@
       ]
     },
     {
+      "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg",
+      "count": 3,
+      "routes": [
+        "/ecuador/plan-your-amazon-trip/",
+        "/ecuador/amazon-canoe-tour/",
+        "/ecuador/blog/what-is-it-like-to-stay-in-an-amazon-lodge/"
+      ]
+    },
+    {
       "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg",
       "count": 2,
       "routes": [
@@ -158,11 +186,19 @@
       ]
     },
     {
-      "src": "/assets/images/ecuador/yasuni-river-turtle.jpg",
+      "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg",
       "count": 2,
       "routes": [
-        "/ecuador/amazon-wildlife-tour/",
-        "/ecuador/3-day-amazon-tour/"
+        "/ecuador/animals-of-the-ecuador-amazon/",
+        "/ecuador/blog/best-time-to-see-wildlife-in-the-ecuador-amazon/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/cuyabeno-hoatzin-gallagher.jpg",
+      "count": 2,
+      "routes": [
+        "/ecuador/animals-of-the-ecuador-amazon/",
+        "/ecuador/blog/best-time-to-see-wildlife-in-the-ecuador-amazon/"
       ]
     },
     {
@@ -170,14 +206,6 @@
       "count": 2,
       "routes": [
         "/ecuador/private-amazon-tour/",
-        "/ecuador/plan-your-amazon-trip/"
-      ]
-    },
-    {
-      "src": "/assets/images/ecuador/misahualli-confluence.jpg",
-      "count": 2,
-      "routes": [
-        "/ecuador/misahualli/",
         "/ecuador/plan-your-amazon-trip/"
       ]
     },
@@ -198,14 +226,6 @@
       ]
     },
     {
-      "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg",
-      "count": 2,
-      "routes": [
-        "/ecuador/plan-your-amazon-trip/",
-        "/ecuador/amazon-canoe-tour/"
-      ]
-    },
-    {
       "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg",
       "count": 2,
       "routes": [
@@ -219,20 +239,6 @@
       "routes": [
         "/ecuador/is-the-ecuador-amazon-safe/",
         "/ecuador/blog/yasuni-vs-cuyabeno/"
-      ]
-    },
-    {
-      "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg",
-      "count": 1,
-      "routes": [
-        "/ecuador/animals-of-the-ecuador-amazon/"
-      ]
-    },
-    {
-      "src": "/assets/images/ecuador/cuyabeno-hoatzin-gallagher.jpg",
-      "count": 1,
-      "routes": [
-        "/ecuador/animals-of-the-ecuador-amazon/"
       ]
     },
     {
