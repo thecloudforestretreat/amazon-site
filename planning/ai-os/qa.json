@@ -5,7 +5,8 @@
     "en": {
       "route": "/ecuador/cuyabeno/",
       "main_words": 2292,
-      "html_sha256": "4464c49193265be35ccde4f0d8d6da01bd9c294f320c2541672a5a0e85f5bda8",
+      "word_count_scope": "Main content excluding guide navigation",
+      "html_sha256": "0deed517131e0c6a4a7143a6825921350e217d87c9a16784fabe67d454d48af4",
       "signals": {
         "title": "Cuyabeno Travel Guide | Wildlife, Lodges and Trip Planning",
         "meta_description": "Compare Cuyabeno lodges, canoe-based wildlife experiences, access from Quito, trip length and practical planning considerations.",
@@ -51,20 +52,21 @@
           "/privacy-policy/",
           "/terms/"
         ],
-        "word_count": 2481,
+        "word_count": 2507,
         "question_heading_count": 2,
         "cta_link_count": 5,
         "document_language": "en",
         "image_count": 3,
         "missing_alt_count": 0,
         "unlabelled_control_count": 0,
-        "visible_text_sha256": "fb2bab2913881b19410505d52b81a82f1b71743a7c1604f942b411b1f1f78a1d"
+        "visible_text_sha256": "a14c3a686b1216957be2f6a9284d57949d6643fc9738ea014dc551cb477325c6"
       }
     },
     "es": {
       "route": "/es/ecuador/cuyabeno/",
       "main_words": 2345,
-      "html_sha256": "a7535d8e25e8a5eb4c115cb25aa04ea88cbd814c06347d1cd57d4fad9bdb2f64",
+      "word_count_scope": "Main content excluding guide navigation",
+      "html_sha256": "ce5c4e0fc0fba027464ebb7b0dc0b3c87fd974498b29c24f779c2284f516d3ee",
       "signals": {
         "title": "Guía de Cuyabeno | Fauna, Lodges y Planificación",
         "meta_description": "Compara lodges de Cuyabeno, experiencias de fauna en canoa, acceso desde Quito, duración y factores prácticos.",
@@ -110,14 +112,14 @@
           "/es/politica-de-privacidad/",
           "/es/terminos/"
         ],
-        "word_count": 2533,
+        "word_count": 2559,
         "question_heading_count": 2,
         "cta_link_count": 5,
         "document_language": "es",
         "image_count": 3,
         "missing_alt_count": 0,
         "unlabelled_control_count": 0,
-        "visible_text_sha256": "4a32fc4cc1c27581e214381b20976508f95cbf0f6e48054a65e24fbb3c27813b"
+        "visible_text_sha256": "901956a362040705fb32f13990fa10a9b97b18202b19eea12a29bfeb8441696b"
       }
     }
   },

@@ -45,3 +45,11 @@ Completed/deployed pairs in this pass: zero. Prepared pairs: one. Desktop/mobile
 Batch size remains one until the pilot passes all gates. Next intended batch: Yasuní and Tena. Detailed progress, opportunities, improvements and local usage are retained in planning/ai-os/progress-report.json.
 
 Git milestone is committed locally. Automatic approval review rejected the GitHub push because destination trust or explicit payload authorization was not established; owner approval was requested. Nothing was pushed or deployed.
+
+## Alignment and content-density review — October 5
+
+Owner requested Cuyabeno layout review before further batches. Shared fact strips now use aligned value/label rows across each responsive row, with a flex fallback. Linked-card CTAs and country route-step rows also align across neighboring cards. Global section spacing is centralized and reduced; destination hero padding is smaller.
+
+The reviewed Cuyabeno pair now uses a compact reading column, a desktop section index and short two-column navigation on mobile. Ten separately padded full-width content bands were removed. Main editorial content remains 2,292 EN / 2,345 ES words with the cleared photograph and six FAQs per language.
+
+Build, 24-page route validation and the AI-OS content audit pass. Browser visual QA and publication remain pending; the live staging URL still contains the old short scaffold. Further batches are on hold until the updated pair can be reviewed.

@@ -25,6 +25,9 @@
   --eta-radius-lg:30px;
   --eta-content:1180px;
   --eta-reading:760px;
+  --eta-section-space:clamp(40px,6vw,72px);
+  --eta-section-tight-space:clamp(28px,4vw,48px);
+  --eta-content-gap:clamp(24px,3vw,40px);
   --eta-font-display:"Playfair Display",Georgia,"Times New Roman",serif;
   --eta-font-body:"Source Sans 3",system-ui,-apple-system,"Segoe UI",sans-serif;
 }

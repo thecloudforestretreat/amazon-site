@@ -26,7 +26,8 @@ def audit():
         if 'noindex' not in (signals.robots or ''): errors.append('Staging must be noindex')
         if 'data-pair-id="pair_005"' not in html or 'data-destination="cuyabeno"' not in html: errors.append('Missing analytics context')
         main=re.search(r'<main\b[^>]*>(.*?)</main>',html,re.S).group(1)
-        visible=unescape(re.sub(r'<[^>]+>',' ',main))
+        reading_content=re.sub(r'<aside\b[^>]*>.*?</aside>','',main,flags=re.S)
+        visible=unescape(re.sub(r'<[^>]+>',' ',reading_content))
         words=len(re.findall(r'\S+',visible))
         if words<1500 or words>2400: errors.append('Main content outside editorial range')
         schemas=[json.loads(x) for x in re.findall(r'<script type="application/ld\+json">(.*?)</script>',html,re.S)]
@@ -41,7 +42,7 @@ def audit():
         for href in re.findall(r'href="(#[^"]+)"',html):
             if f'id="{href[1:]}"' not in html: errors.append('Broken page fragment '+href)
         report['errors'] += [lang+': '+e for e in errors]
-        report['pages'][lang]={'route':route,'main_words':words,'html_sha256':hashlib.sha256(html.encode()).hexdigest(),'signals':asdict(signals)}
+        report['pages'][lang]={'route':route,'main_words':words,'word_count_scope':'Main content excluding guide navigation','html_sha256':hashlib.sha256(html.encode()).hexdigest(),'signals':asdict(signals)}
     if (ROOT/'dist/robots.txt').read_text().strip()!='User-agent: *\nDisallow: /': report['errors'].append('Staging robots file mismatch')
     report['passed']=not report['errors']
     out=ROOT/'planning/ai-os/qa.json'

@@ -48,10 +48,10 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Resolve browser policy verification for desktop/mobile review",
-    "Restore Cloudflare authentication",
-    "Deploy reviewed staging build and verify both pages",
-    "Then expand to the next two pairs"
+    "Review fact-strip alignment, compact guide layout and content density on desktop/mobile",
+    "Restore Cloudflare authentication and obtain pending GitHub push authorization",
+    "Deploy and verify the updated Cuyabeno pair",
+    "Obtain owner feedback before additional page batches"
   ],
   "future_batches": [
     "Yasuni + Tena",
@@ -66,5 +66,10 @@
     "tena"
   ],
   "local_worker_run_complete": true,
-  "git_status": "Committed locally; remote push blocked by automatic approval review"
+  "git_status": "Committed locally; remote push blocked by automatic approval review",
+  "quality_hold": {
+    "reason": "Owner requested alignment, spacing and content review before proceeding",
+    "scope": "Cuyabeno EN/ES and shared layout",
+    "release_requires": "Owner can inspect the updated pair after desktop/mobile visual review and staging deployment"
+  }
 }

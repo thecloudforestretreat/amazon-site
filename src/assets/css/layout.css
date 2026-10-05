@@ -1,7 +1,7 @@
 .eta-shell{width:min(var(--eta-content),calc(100% - 36px));margin-inline:auto}
 .eta-reading{width:min(var(--eta-reading),100%);margin-inline:auto}
-.eta-section{padding-block:clamp(58px,8vw,104px)}
-.eta-section--tight{padding-block:clamp(38px,5vw,68px)}
+.eta-section{padding-block:var(--eta-section-space)}
+.eta-section--tight{padding-block:var(--eta-section-tight-space)}
 .eta-section--forest{background:var(--eta-forest-950);color:#fff}
 .eta-section--mist{background:var(--eta-mist-100)}
 .eta-grid{display:grid;gap:clamp(18px,3vw,32px)}
