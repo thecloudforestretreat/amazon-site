@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-05",
+  "pairs": [
+    "pair_012",
+    "pair_013"
+  ],
+  "status": "Reviewed local source ready; not deployed",
+  "routes": [
+    "/ecuador/4-day-amazon-tour/",
+    "/es/ecuador/tour-de-4-dias-en-la-amazonia/",
+    "/ecuador/5-day-amazon-tour/",
+    "/es/ecuador/tour-de-5-dias-en-la-amazonia/"
+  ],
+  "content": "Illustrative duration frameworks, not live inventory or verified itinerary offers",
+  "technical": "32 pages and 12 hub/format audits pass",
+  "visual": "Blocked by browser security-policy verification; no bypass attempted",
+  "local_usage": {
+    "requests": 2,
+    "prompt_tokens": 907,
+    "output_tokens": 3360,
+    "seconds": 144.79,
+    "cache_hits": 0,
+    "inference_retries": 0,
+    "cloud_worker_tokens": 0
+  },
+  "rollback": "Live staging remains 2893a4d3; local prior source commit 1f49bc4",
+  "next": "Desktop/mobile review and staging release after browser policy works"
+}

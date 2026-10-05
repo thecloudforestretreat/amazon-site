@@ -1,9 +1,9 @@
 {
   "date": "2026-10-05",
-  "status": "Four new pages deployed; editorial and technical review passed; desktop/mobile review blocked by browser policy",
+  "status": "Next two pairs prepared and tested locally; release pending browser visual review",
   "active_batch": [
-    "pair_010",
-    "pair_011"
+    "pair_012",
+    "pair_013"
   ],
   "staging_polished_pairs": [
     "pair_003",
@@ -25,15 +25,19 @@
     "site_built_including_scaffolds_percent": 35,
     "final_eight_country_completion_percent": null,
     "reason": "Current 40-pair baseline lacks complete Guyana/Suriname/Venezuela architectures; scaffold count is not launch completion",
-    "ecuador_content_prepared_pairs": 9,
-    "ecuador_content_prepared_percent": 26.5,
-    "ecuador_visual_review_pending_pairs": 2
+    "ecuador_content_prepared_pairs": 11,
+    "ecuador_content_prepared_percent": 32.4,
+    "ecuador_visual_review_pending_pairs": 4,
+    "ecuador_content_deployed_pairs": 9,
+    "ecuador_content_deployed_percent": 26.5,
+    "site_built_locally_including_scaffolds": 16,
+    "site_built_locally_including_scaffolds_percent": 40
   },
   "local_usage_this_batch": {
     "requests": 2,
-    "prompt_tokens": 725,
-    "output_tokens": 3578,
-    "seconds": 149.07,
+    "prompt_tokens": 907,
+    "output_tokens": 3360,
+    "seconds": 144.79,
     "cache_hits": 0,
     "inference_retries": 0,
     "cloud_worker_tokens": 0
@@ -48,23 +52,22 @@
     "editorial_note": "100% local initial bounded draft calls only. Both drafts required substantial cloud-supervisor rewriting, implementation and QA. Overall token/work share unavailable."
   },
   "measured_local_cumulative": {
-    "requests": 12,
-    "prompt_tokens": 12224,
-    "output_tokens": 42833,
-    "total_tokens": 55057,
-    "basis": "Saved prior 10-request aggregate plus two format status records; cache resumes excluded",
+    "requests": 14,
+    "prompt_tokens": 13131,
+    "output_tokens": 46193,
+    "total_tokens": 59324,
+    "basis": "Saved prior 12-request aggregate plus two duration draft records; cache resumes excluded",
     "cloud_supervision_excluded": true
   },
   "opportunities_and_improvements": [
-    "Local model invented flight examples and timing and used colonial/unsafe framing: rewrote both language drafts; retained raw and reviewed hashes",
-    "Added regression-tested bilingual review flags for observed transport, timing, framing, river-advice and group-safety failures; flags do not replace editorial review",
-    "Tightened future format prompt; effectiveness of new prompt not yet measured",
-    "Extended existing metadata, media, FAQ and fragment gates to both new pairs",
-    "Added two balanced format-guide cards to the Ecuador hubs so new pages are discoverable"
+    "Current qwen3.5:9b duration drafts still require substantial bilingual rewrite; revised prompt has not solved editorial reliability",
+    "Four-day draft confused nights with days and five-day copy presumed flexibility: corrected reviewed source; raw drafts preserved",
+    "Reviewed JSON and deterministic duration builder now retained in repo for reproducible source generation, without model calls or deployment",
+    "Technical gates expanded to four new local pages; release waits for visual verification"
   ],
   "verification": {
-    "static": "28 compiled HTML pages, eight hub/format page audits and six workflow regression tests pass",
-    "visual": "New four pages pending; existing template retained; browser refused access because admin-enforced policy unavailable",
+    "static": "32 locally compiled HTML pages and 12 hub/format page audits pass; regression tests pass",
+    "visual": "Four locally prepared new pages and four prior deployed pages need current desktop/mobile review; browser admin-policy check unavailable",
     "photos": "Three distinct existing rights-documented regional photos per new page; placements saved in format-images.json",
     "protected_domain_unauthenticated_status": 302,
     "launch_checks_pending": [
@@ -79,7 +82,7 @@
     "branch": "staging",
     "production_modified": false
   },
-  "next": "Browser policy recovery, desktop/mobile review and owner review before another batch",
+  "next": "Restore browser policy verification, review and release current prepared batch",
   "other_countries": "Peru, Brazil, Colombia, Bolivia, Guyana, Suriname and Venezuela: no polished country clusters in this workflow",
   "deployment": "2893a4d3",
   "preview_links": {
@@ -87,5 +90,9 @@
     "quito_es": "https://staging.experiencetheamazon.com/es/ecuador/tours-a-la-amazonia-desde-quito/?review=2893a4d3",
     "three_day_en": "https://staging.experiencetheamazon.com/ecuador/3-day-amazon-tour/?review=2893a4d3",
     "three_day_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-de-3-dias-en-la-amazonia/?review=2893a4d3"
-  }
+  },
+  "prepared_not_deployed_pairs": [
+    "pair_012",
+    "pair_013"
+  ]
 }

@@ -22,7 +22,9 @@
     "pair_008",
     "pair_009",
     "pair_010",
-    "pair_011"
+    "pair_011",
+    "pair_012",
+    "pair_013"
   ],
   "completion_requires": [
     "Editorial and bilingual review",
@@ -52,9 +54,9 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Restore browser policy verification and review four new pages at desktop/mobile widths",
-    "Owner review of Quito and 3-day EN/ES pairs",
-    "Full accessibility, performance and contact delivery remain pending"
+    "Browser policy recovery and desktop/mobile review of Quito and 3-day pages",
+    "Visual review and staging release of 4-day and 5-day reviewed guides",
+    "Owner review before another batch"
   ],
   "future_batches": [],
   "notification_policy": "Meaningful change, verified completion, failure or required user action only",
@@ -66,7 +68,7 @@
   "quality_hold": {
     "released_by_owner": true,
     "date": "2026-10-05",
-    "scope": "Owner authorized Quito + 3-day batch after overview/lodge review; next batch awaits this batch visual review"
+    "scope": "Owner authorized continuing; technical preparation complete, visual verification remains required"
   },
   "deployment": {
     "id": "2893a4d3",
@@ -96,10 +98,10 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "quito-format",
-    "three-day-format"
+    "four-day-format",
+    "five-day-format"
   ],
-  "batch_status": "deployed_technical_pass_browser_policy_blocked",
+  "batch_status": "reviewed_local_build_pass_release_pending_browser_policy",
   "batch_browser_checks": {
     "date": "2026-10-05",
     "deployment": "2893a4d3",

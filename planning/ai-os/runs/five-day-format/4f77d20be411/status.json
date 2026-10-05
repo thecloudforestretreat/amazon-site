@@ -1,0 +1,15 @@
+{
+  "job": "five-day-format",
+  "model": "qwen3.5:9b",
+  "status": "editorially_reviewed_build_pass_release_pending_browser_policy",
+  "review_flags": [],
+  "seconds": 69.75,
+  "prompt_eval_count": 453,
+  "eval_count": 1694,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false,
+  "raw_draft_sha256": "1bf58c10ae956d7521d90ae5ec98fe52f7faa0503f48eddb923543ba5ea62131",
+  "reviewed_sha256": "efc04abbd9126200a963828e18575659d52ca7db5b2ffc607a4849383c85c339",
+  "reviewed_flags": [],
+  "promotion": "Reviewed source built locally; not deployed; browser visual review required"
+}
