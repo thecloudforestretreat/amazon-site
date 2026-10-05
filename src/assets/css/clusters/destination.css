@@ -1,0 +1,65 @@
+/* Destination page cluster. Country hubs retain their own layout contract. */
+.eta-destination-page {
+  --destination-gap: 24px;
+  --destination-padding: clamp(24px, 3vw, 36px);
+}
+.eta-destination-page .eta-country-hero { padding-block: clamp(32px, 5vw, 64px); }
+.eta-destination-page .eta-country-hero__grid { gap: 40px; }
+.eta-destination-page .eta-country-hero h1 { font-size: clamp(2.4rem, 4.5vw, 4rem); max-width: 19ch; line-height: 1.08; }
+.eta-destination-page .eta-country-art { min-height: 360px; }
+.eta-destination-page .eta-lede { max-width: 55ch; }
+.eta-destination-page .eta-fact { padding: 24px; }
+.eta-destination-page .eta-fact strong { font-size: 1.15rem; line-height: 1.4; }
+.eta-destination-page .eta-fact span { line-height: 1.4; min-height: 2.8em; }
+.eta-destination-summary { padding-top: 0; }
+.eta-destination-summary .eta-answer { padding: var(--destination-padding); }
+.eta-destination-summary h2 { font-size: clamp(1.65rem, 3vw, 2.5rem); margin-bottom: 16px; }
+.eta-destination-summary .eta-answer > p { max-width: 78ch; margin: 0; font-size: 1.05rem; line-height: 1.7; }
+.eta-destination-guide-section { padding-top: 0; }
+.eta-destination-guide { display: grid; gap: 28px; }
+.eta-destination-toc { min-width: 0; }
+.eta-destination-toc h2 { font-family: var(--eta-font-body); font-size: .8rem; letter-spacing: .1em; text-transform: uppercase; margin: 0 0 12px; }
+.eta-destination-toc nav { display: flex; flex-wrap: wrap; gap: 8px; }
+.eta-destination-toc a { display: flex; align-items: center; min-height: 44px; padding: 8px 14px; border: 1px solid var(--eta-line); border-radius: 999px; background: var(--eta-paper); color: var(--eta-forest-700); text-decoration: none; font-size: .9rem; line-height: 1.3; }
+.eta-destination-toc a:hover { background: var(--eta-mist-100); }
+.eta-destination-body { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--destination-gap); min-width: 0; }
+.eta-destination-section { min-width: 0; padding: var(--destination-padding); border: 1px solid var(--eta-line); border-radius: 16px; background: var(--eta-paper); scroll-margin-top: 150px; }
+.eta-guide-feature { grid-column: 1 / -1; }
+.eta-guide-copy { min-width: 0; }
+.eta-guide-number { display: block; margin-bottom: 12px; color: var(--eta-forest-700); font-size: .75rem; font-weight: 700; letter-spacing: .16em; }
+.eta-destination-section h2 { margin: 0 0 16px; font-size: clamp(1.65rem, 2.5vw, 2.35rem); line-height: 1.16; }
+.eta-guide-preview { max-width: 76ch; margin: 0; color: var(--eta-muted); font-size: 1.05rem; line-height: 1.65; }
+.eta-guide-points { display: grid; gap: 14px; margin: 22px 0 0; padding: 0; list-style: none; }
+.eta-guide-points li { position: relative; padding-left: 18px; font-size: 1rem; line-height: 1.6; }
+.eta-guide-points li::before { content: ''; position: absolute; left: 0; top: .65em; width: 5px; height: 5px; border-radius: 50%; background: var(--eta-canopy-600); }
+.eta-guide-landscape { display: grid; grid-template-columns: minmax(0, .8fr) minmax(0, 1fr); padding: 0; overflow: hidden; }
+.eta-guide-landscape .eta-guide-copy { padding: var(--destination-padding); }
+.eta-guide-photo { position: relative; min-height: 360px; margin: 0; background: var(--eta-forest-950); }
+.eta-guide-photo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.eta-guide-photo figcaption { position: absolute; bottom: 0; left: 0; right: 0; padding: 32px 18px 14px; background: linear-gradient(transparent, rgba(0,0,0,.75)); color: white; font-size: .75rem; }
+.eta-guide-photo a { color: inherit; }
+.eta-guide-wildlife { background: var(--eta-forest-950); color: #fff; }
+.eta-guide-wildlife h2, .eta-guide-wildlife .eta-guide-number { color: var(--eta-gold-200); }
+.eta-guide-wildlife .eta-guide-preview { color: #d9e4cf; }
+.eta-guide-wildlife .eta-guide-points { grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 36px; }
+.eta-trip-options { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; margin-top: 24px; }
+.eta-trip-option { display: grid; grid-template-rows: auto 1fr auto; gap: 14px; padding: 24px; border: 1px solid var(--eta-line); border-radius: 12px; background: var(--eta-mist-100); }
+.eta-trip-option .eta-trip-days { margin: 0; font-family: var(--eta-font-display); font-size: 2rem; line-height: 1.2; color: var(--eta-forest-700); }
+.eta-trip-option h3 { margin: 0; font-family: var(--eta-font-body); font-size: 1.15rem; line-height: 1.35; letter-spacing: 0; }
+.eta-trip-option p:last-child { margin: 0; font-size: 1rem; line-height: 1.6; }
+.eta-guide-feature .eta-link-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px 28px; margin-top: 24px; }
+.eta-destination-page .eta-section--mist h2 { font-size: clamp(1.8rem, 3vw, 2.7rem); margin: 8px 0 24px; }
+@media (max-width: 840px) {
+  .eta-guide-landscape { grid-template-columns: 1fr; }
+  .eta-guide-photo { min-height: 280px; }
+  .eta-destination-page .eta-country-art { min-height: 300px; }
+  .eta-destination-page .eta-country-hero__grid { gap: 28px; }
+}
+@media (max-width: 700px) {
+  .eta-destination-page { --destination-gap: 18px; --destination-padding: 24px; }
+  .eta-destination-body, .eta-trip-options, .eta-guide-wildlife .eta-guide-points, .eta-guide-feature .eta-link-list { grid-template-columns: 1fr; }
+  .eta-destination-toc nav { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 10px; }
+  .eta-destination-toc a { flex-shrink: 0; }
+  .eta-destination-section { scroll-margin-top: 135px; }
+  .eta-destination-page .eta-fact { padding: 20px; }
+}

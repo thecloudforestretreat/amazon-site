@@ -11,68 +11,8 @@
 
 .eta-country-art--licensed img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;border-radius:inherit}.eta-photo-credit{max-width:calc(100% - 28px)}
 
-/* Destination guides use one reading layout rather than ten padded full-width bands. */
-.eta-destination-guide{display:grid;grid-template-columns:220px minmax(0,1fr);align-items:start;gap:var(--eta-content-gap)}
-.eta-destination-toc{position:sticky;top:150px;max-height:calc(100svh - 166px);overflow:auto;padding:20px;border:1px solid var(--eta-line);border-radius:var(--eta-radius-sm);background:var(--eta-paper)}
-.eta-destination-toc h2{margin:0 0 12px;font-family:var(--eta-font-body);font-size:1rem}
-.eta-destination-toc a{display:block;padding:9px 0;border-bottom:1px solid var(--eta-line);font-size:.9rem;line-height:1.4;text-decoration:none}
-.eta-destination-toc a:last-child{border-bottom:0}
-.eta-destination-body{min-width:0;max-width:var(--eta-reading)}
-.eta-destination-section{padding-block:28px;border-bottom:1px solid var(--eta-line);scroll-margin-top:150px}
-.eta-destination-section:first-child{padding-top:0}
-.eta-destination-section:last-child{padding-bottom:0;border-bottom:0}
-.eta-destination-section h2{margin:0 0 16px}
-.eta-destination-section p{margin:0}
-.eta-destination-section p+p{margin-top:16px}
-.eta-destination-summary{padding-top:0}
-.eta-destination-guide-section{padding-top:0}
-.eta-destination-section .eta-actions{margin-top:20px}
-@media(max-width:900px){
-  .eta-destination-guide{grid-template-columns:1fr}
-  .eta-destination-toc{position:static;max-height:none;overflow:visible}
-  .eta-destination-toc nav{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:20px}
-  .eta-destination-body{max-width:none}
-}
-@media(max-width:520px){
-  .eta-destination-section{padding-block:24px}
-  .eta-country-hero__grid{gap:28px}
-}
-
 @supports (grid-template-rows:subgrid){
   .eta-route-step{display:grid;grid-template-rows:subgrid;grid-row:span 3;row-gap:8px}
   .eta-route-step h3,.eta-route-step p{margin:0}
 }
 
-/* Open destination cards: visible essentials and a varied editorial rhythm. */
-.eta-destination-guide{grid-template-columns:170px minmax(0,1fr);gap:32px}
-.eta-destination-body{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;max-width:none;align-items:stretch}
-.eta-destination-section,.eta-destination-section:first-child,.eta-destination-section:last-child{padding:30px;border:1px solid var(--eta-line);border-radius:18px;background:var(--eta-paper);box-shadow:0 8px 28px rgba(23,58,42,.04)}
-.eta-guide-feature{grid-column:1/-1}
-.eta-guide-number{display:block;margin-bottom:16px;color:var(--eta-river-600);font-size:.75rem;font-weight:700;letter-spacing:.16em}
-.eta-destination-section h2{font-size:clamp(1.5rem,2.4vw,2.15rem);line-height:1.15;margin-bottom:16px}
-.eta-guide-preview{font-size:1.02rem;line-height:1.7;color:var(--eta-muted);max-width:72ch}
-.eta-guide-points{padding:0;margin:22px 0 0;list-style:none;display:grid;gap:14px}
-.eta-guide-points li{position:relative;padding-left:18px;font-size:.95rem;line-height:1.65}
-.eta-guide-points li::before{content:'';position:absolute;left:0;top:.65em;width:5px;height:5px;border-radius:50%;background:var(--eta-river-600)}
-.eta-guide-landscape,.eta-destination-section.eta-guide-landscape:first-child{display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1fr);gap:30px;padding:0;overflow:hidden}
-.eta-guide-landscape .eta-guide-copy{padding:30px 30px 30px 0}
-.eta-guide-photo{position:relative;min-height:360px;margin:0;background:var(--eta-forest-950)}
-.eta-guide-photo img{display:block;width:100%;height:100%;position:absolute;inset:0;object-fit:cover}
-.eta-guide-photo figcaption{position:absolute;bottom:0;left:0;right:0;padding:32px 18px 12px;background:linear-gradient(transparent,rgba(0,0,0,.7));color:white;font-size:.7rem}
-.eta-guide-photo a{color:inherit}
-.eta-destination-section:nth-child(5){background:var(--eta-forest-950);color:white}
-.eta-destination-section:nth-child(5) h2,.eta-destination-section:nth-child(5) .eta-guide-number{color:var(--eta-gold-500)}
-.eta-destination-section:nth-child(5) .eta-guide-preview{color:rgba(255,255,255,.8)}
-.eta-destination-section:nth-child(5) .eta-guide-points{grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
-.eta-trip-options{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin-top:24px}
-.eta-trip-option{padding:22px;border-radius:12px;background:var(--eta-mist-100);display:flex;flex-direction:column}
-.eta-trip-option .eta-trip-days{font-family:var(--eta-font-display);font-size:2rem;color:var(--eta-river-600);line-height:1.2;margin-bottom:12px}
-.eta-trip-option h3{font-size:1.1rem;line-height:1.3;margin:0 0 12px}
-.eta-trip-option p:last-child{font-size:.92rem;line-height:1.6;margin-top:auto}
-.eta-guide-feature .eta-link-list{margin-top:24px}
-.eta-destination-summary .eta-answer{padding:clamp(24px,4vw,40px)}
-.eta-destination-summary .eta-answer>p{max-width:76ch;font-size:1.1rem;line-height:1.7}
-.eta-destination-toc{border:0;background:transparent;padding:8px 0;box-shadow:none}
-.eta-destination-toc a{font-size:.85rem;padding-block:11px}
-@media(max-width:1050px){.eta-destination-guide{grid-template-columns:1fr}.eta-destination-toc{position:static;max-height:none}.eta-destination-toc nav{display:flex;flex-wrap:wrap;gap:8px}.eta-destination-toc a{padding:9px 13px;border:1px solid var(--eta-line);border-radius:999px;background:var(--eta-paper)}}
-@media(max-width:700px){.eta-destination-body{grid-template-columns:1fr;gap:18px}.eta-destination-section,.eta-destination-section:first-child,.eta-destination-section:last-child{padding:24px}.eta-guide-landscape,.eta-destination-section.eta-guide-landscape:first-child{grid-template-columns:1fr;gap:0;padding:0}.eta-guide-landscape .eta-guide-copy{padding:24px}.eta-guide-photo{min-height:230px}.eta-trip-options,.eta-destination-section:nth-child(5) .eta-guide-points{grid-template-columns:1fr}.eta-destination-toc nav{flex-wrap:nowrap;overflow-x:auto;padding-bottom:10px}.eta-destination-toc a{white-space:nowrap;flex-shrink:0}.eta-guide-number{margin-bottom:12px}.eta-trip-option p:last-child{margin-top:0}}

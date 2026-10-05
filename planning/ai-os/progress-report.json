@@ -24,7 +24,7 @@
     "ai_os_model_routing_tests": 4,
     "ai_os_core_checks": "9/9",
     "visual_review": "blocked",
-    "deployment": "passed: dc7e1aec"
+    "deployment": "passed: e467bf93"
   },
   "opportunities": [
     {
@@ -91,5 +91,5 @@
   "next_batch": "Yasuni + Tena after the pilot passes all completion gates",
   "git_status": "Committed locally, not pushed",
   "deployed_pairs_pending_visual_review": 1,
-  "design_revision": "Open planning cards, licensed landscape photo section, wildlife panel, three trip-duration cards, FAQ-only accordions; visual verification pending."
+  "design_revision": "Dedicated destination CSS; removed conflicting country guide rules; full-width cards and horizontal navigation; explicit wildlife class; mobile layout and spacing contract. Visual verification blocked."
 }

@@ -65,3 +65,7 @@ Deployed `936e17a9`: numbered guide cards with short previews and expandable det
 ### Open-card design preview
 
 Deployed `dc7e1aec` to staging. Replaced guide and overview expanders with visible curated content. Added the licensed Cuyabeno landscape photo section, wildlife panel, three trip-duration cards and destination comparison links. Only FAQs use accordions. Responsive layouts use stacked cards below 700px. EN 1,651 / ES 1,778 main words; build, 24-page validation and content audit pass. Visual verification and owner review remain pending. No new worker inference needed: reused reviewed source content.
+
+### Destination CSS isolation
+
+Staging deployment `e467bf93`: moved destination guide styling to `clusters/destination.css`, removed conflicting country rules and unused editorial stylesheet from generated destinations. Removed the narrow sidebar; established full-width card grids, responsive navigation, consistent typography/spacing and explicit wildlife styling. Build, 24-page validation and content audit pass. Browser access again denied by admin-policy check; no visual sign-off.
