@@ -65,10 +65,12 @@
 }
 
 /* Photography uses a deliberate crop and a quiet credit outside the hero. */
-.eta-destination-page .eta-country-art--licensed{min-height:0;border-radius:0;background:none;box-shadow:none;overflow:visible}
-.eta-destination-page .eta-country-art--licensed img{position:static;inset:auto;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;object-position:50% 65%;border-radius:12px}
-.eta-destination-page .eta-photo-credit{position:static;max-width:none;margin-top:10px;padding:0;border-radius:0;background:none;color:var(--eta-muted);font-size:.75rem;line-height:1.5;text-align:right}
+.eta-destination-page .eta-country-art--licensed{min-height:0;padding:10px;border:1px solid rgba(31,62,50,.12);border-radius:30px;background:var(--eta-paper);box-shadow:0 16px 40px rgba(16,40,31,.12);overflow:hidden}
+.eta-destination-page .eta-country-art--licensed img{position:static;inset:auto;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;object-position:50% 65%;border-radius:20px}
+.eta-destination-page .eta-photo-credit{position:static;max-width:none;margin-top:10px;padding:0;border-radius:0;background:none;color:var(--eta-muted);font-size:.75rem;line-height:1.5;text-align:right;padding:0 8px 4px}
 .eta-guide-landscape .eta-guide-photo{order:0}
 .eta-guide-landscape .eta-guide-copy{order:1}
 .eta-guide-photo img{object-position:65% 50%}
 @media(max-width:840px){.eta-guide-landscape .eta-guide-photo{order:0}.eta-destination-page .eta-country-art--licensed img{aspect-ratio:3/2}}
+
+@media(max-width:600px){.eta-destination-page .eta-country-art--licensed{padding:8px;border-radius:24px}.eta-destination-page .eta-country-art--licensed img{border-radius:16px}}

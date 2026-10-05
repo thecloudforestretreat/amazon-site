@@ -73,3 +73,7 @@ Staging deployment `e467bf93`: moved destination guide styling to `clusters/dest
 ### Photography refinement
 
 Deployed `33f2fcaf`: added licensed Cuyabeno photo by Constanza S. Mora for the landscape section. Both photos occur once per language page. Hero now uses deliberate 4:3 desktop / 3:2 mobile proportions, focal positioning, restrained corners, no heavy shadow, and credit below the image. Build, validation and content audit pass; rendered browser review remains pending.
+
+### Rounded hero frame
+
+Deployed `5b63c994`: hero image now sits in an ivory frame with 30px outer / 20px inner corners, subtle border and shadow. Mobile uses 24px / 16px corners and narrower inset. Build and validation pass; visual review pending.
