@@ -1,0 +1,16 @@
+{
+  "name": "experience-the-amazon",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:staging": "ETA_ENV=staging node scripts/build.mjs",
+    "build:production": "ETA_ENV=production node scripts/build.mjs",
+    "validate": "node scripts/validate.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
+

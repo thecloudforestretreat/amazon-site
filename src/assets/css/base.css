@@ -1,0 +1,20 @@
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-behavior:smooth;background:var(--eta-ivory)}
+body{margin:0;background:var(--eta-ivory);color:var(--eta-ink);font-family:var(--eta-font-body);font-size:17px;line-height:1.65;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+body.menu-open{overflow:hidden}
+img,svg,video{display:block;max-width:100%}
+button,input,select,textarea{font:inherit}
+a{color:var(--eta-forest-700);text-underline-offset:.18em}
+a:hover{color:var(--eta-river-600)}
+h1,h2,h3,h4{margin:0;color:var(--eta-forest-950);font-family:var(--eta-font-display);font-weight:600;line-height:1.08;letter-spacing:-.025em;text-wrap:balance}
+h1{font-size:clamp(2.8rem,7vw,5.8rem)}
+h2{font-size:clamp(2rem,4.5vw,3.65rem)}
+h3{font-size:clamp(1.35rem,2.6vw,2rem)}
+p{margin:0 0 1em}
+:focus-visible{outline:3px solid var(--eta-gold-500);outline-offset:3px}
+::selection{background:var(--eta-gold-200);color:var(--eta-forest-950)}
+.skip-link{position:absolute;top:8px;left:8px;z-index:1000;padding:10px 14px;border-radius:8px;background:var(--eta-forest-950);color:#fff;transform:translateY(-150%)}
+.skip-link:focus{transform:none}
+[hidden]{display:none!important}
+html[data-environment="staging"] body::before{content:"STAGING";position:fixed;right:10px;bottom:10px;z-index:9998;padding:5px 9px;border-radius:999px;background:var(--eta-gold-500);color:var(--eta-forest-950);font-size:11px;font-weight:700;letter-spacing:.12em}
+

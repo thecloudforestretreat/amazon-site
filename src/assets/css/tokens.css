@@ -1,0 +1,31 @@
+:root{
+  --eta-forest-950:#10281f;
+  --eta-forest-900:#1f3e32;
+  --eta-forest-700:#315c47;
+  --eta-canopy-600:#6b8f63;
+  --eta-river-600:#4c8d8d;
+  --eta-river-400:#67a7a6;
+  --eta-mist-200:#d9e4cf;
+  --eta-mist-100:#edf2e6;
+  --eta-ivory:#fbf8ef;
+  --eta-paper:#fffdf7;
+  --eta-gold-600:#b98529;
+  --eta-gold-500:#d4a044;
+  --eta-gold-200:#f3e5bf;
+  --eta-macaw-600:#b92323;
+  --eta-macaw-500:#d62b2b;
+  --eta-ink:#17332a;
+  --eta-muted:#5d6f66;
+  --eta-line:rgba(31,62,50,.16);
+  --eta-shadow-sm:0 8px 24px rgba(16,40,31,.09);
+  --eta-shadow-md:0 18px 46px rgba(16,40,31,.13);
+  --eta-shadow-lg:0 28px 72px rgba(16,40,31,.18);
+  --eta-radius-sm:12px;
+  --eta-radius-md:20px;
+  --eta-radius-lg:30px;
+  --eta-content:1180px;
+  --eta-reading:760px;
+  --eta-font-display:"Playfair Display",Georgia,"Times New Roman",serif;
+  --eta-font-body:"Source Sans 3",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+

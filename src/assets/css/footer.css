@@ -1,0 +1,7 @@
+.eta-site-footer{padding-block:54px 26px;background:var(--eta-forest-950);color:#fff}
+.eta-footer-grid{display:grid;grid-template-columns:minmax(240px,1.2fr) repeat(2,minmax(160px,.5fr));gap:36px}.eta-footer-brand{display:flex;align-items:center;gap:14px;font-family:var(--eta-font-display);font-size:1.35rem}.eta-footer-brand img{width:66px;height:66px}.eta-footer-copy{max-width:52ch;margin:15px 0 0;color:rgba(255,255,255,.7)}
+.eta-footer-heading{margin:0 0 11px;color:var(--eta-gold-500);font-family:var(--eta-font-body);font-size:.76rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase}.eta-footer-links{display:grid;gap:8px}.eta-footer-links a,.eta-footer-links button{padding:0;border:0;background:none;color:rgba(255,255,255,.78);font:inherit;text-align:left;text-decoration:none}.eta-footer-links a:hover,.eta-footer-links button:hover{color:#fff}
+.eta-footer-bottom{display:flex;justify-content:space-between;gap:18px;margin-top:42px;padding-top:20px;border-top:1px solid rgba(255,255,255,.14);color:rgba(255,255,255,.58);font-size:.84rem}
+@media(max-width:760px){.eta-footer-grid{grid-template-columns:1fr 1fr}.eta-footer-grid>div:first-child{grid-column:1/-1}.eta-footer-bottom{align-items:flex-start;flex-direction:column}}
+@media(max-width:440px){.eta-footer-grid{grid-template-columns:1fr}.eta-footer-grid>div:first-child{grid-column:auto}}
+
