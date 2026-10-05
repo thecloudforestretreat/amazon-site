@@ -1,0 +1,22 @@
+# Image rights ledger
+
+This ledger is required for every published image. A search result or an image appearing on another travel website is not permission to reuse it.
+
+| Asset | Location shown | Creator | Source page | License | Downloaded | Attribution used | Site placements | Verification |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `tena-canopy-patricio-gaibor.jpg` | Tena, Ecuador | Patricio Gaibor | https://unsplash.com/photos/looking-up-at-trees-and-blue-sky-edqQ9GZBEWM | Unsplash License | 2026-10-04 | Photo: Patricio Gaibor / Unsplash | `/ecuador/tena/`, `/es/ecuador/tena/` | Source page identifies Tena and states free use under the Unsplash License |
+
+## Approved acquisition sources
+
+- Unsplash standard-library images covered by the Unsplash License. Exclude Unsplash+ and verify the individual asset page.
+- Pexels images covered by the Pexels License. Verify the individual asset page and geographic accuracy.
+- Wikimedia Commons files whose individual file pages show a suitable commercial-use license or public-domain status. Record and display all required attribution and license links.
+- Direct written permission from photographers, lodges, operators, communities or tourism organizations, archived with the asset record.
+- Original Experience The Amazon photography.
+
+## Exclusions
+
+- Competitor website images without written permission.
+- Search-engine thumbnails or social posts without a verified underlying license.
+- Generic rainforest or wildlife images presented as a specific destination when the location cannot be verified.
+- Images with recognizable people, private property, artwork, trademarks or sensitive cultural contexts unless the necessary releases and permissions are documented.
