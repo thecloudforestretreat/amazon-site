@@ -68,10 +68,10 @@
     "release_requires": "Owner can inspect the updated pair after desktop/mobile visual review and staging deployment"
   },
   "deployment": {
-    "id": "b3fc70de",
+    "id": "936e17a9",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://b3fc70de.amazon-site-staging.pages.dev",
+    "url": "https://936e17a9.amazon-site-staging.pages.dev",
     "protected_domain_check": "302 Cloudflare Access login",
     "date": "2026-10-05"
   }

@@ -57,3 +57,7 @@ Build, 24-page route validation and the AI-OS content audit pass. Browser visual
 ### Staging update — 2026-10-05
 
 Cuyabeno EN/ES deployed to the Cloudflare staging project, deployment `b3fc70de`. Includes aligned fact rows, compact guide layout, expanded bilingual content and Ecuadorian Amazon wording. Build, 24-page validation and AI-OS content audit pass. Staging domain still redirects unauthenticated visitors to Cloudflare Access. Desktop/mobile and owner review remain pending; further batches stay paused. GitHub push remains pending approval.
+
+### Responsive design revision
+
+Deployed `936e17a9`: numbered guide cards with short previews and expandable details, simplified overview, responsive navigation, and fact-label alignment using flex value areas and equal label space. Full bilingual planning text remains available. Build, 24-page validation and content audit pass. Browser visual inspection remains blocked by the admin-policy check; owner review and desktop/mobile verification remain pending.

@@ -42,3 +42,27 @@
   .eta-route-step{display:grid;grid-template-rows:subgrid;grid-row:span 3;row-gap:8px}
   .eta-route-step h3,.eta-route-step p{margin:0}
 }
+
+/* Destination guides: a short scan first, with deeper planning on demand. */
+.eta-destination-guide{grid-template-columns:190px minmax(0,1fr);gap:32px}
+.eta-destination-body{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;max-width:none;align-items:start}
+.eta-destination-section,.eta-destination-section:first-child,.eta-destination-section:last-child{position:relative;padding:28px;border:1px solid var(--eta-line);border-radius:18px;background:var(--eta-paper);box-shadow:0 8px 28px rgba(23,58,42,.04)}
+.eta-destination-section:nth-child(4n+1){background:var(--eta-mist-100)}
+.eta-guide-number{display:block;margin-bottom:18px;color:var(--eta-river-600);font-size:.75rem;font-weight:700;letter-spacing:.16em}
+.eta-destination-section h2{font-size:clamp(1.45rem,2vw,1.9rem);line-height:1.15;max-width:20ch;margin-bottom:14px}
+.eta-guide-preview{color:var(--eta-muted);font-size:1rem;line-height:1.65}
+.eta-guide-detail{margin-top:22px;border-top:1px solid var(--eta-line);padding-top:16px}
+.eta-guide-detail summary,.eta-summary-detail summary{cursor:pointer;font-size:.88rem;font-weight:700;color:var(--eta-river-600);min-height:44px;display:flex;align-items:center;justify-content:space-between;gap:14px;list-style:none}
+.eta-guide-detail summary::-webkit-details-marker,.eta-summary-detail summary::-webkit-details-marker{display:none}
+.eta-guide-detail summary::after,.eta-summary-detail summary::after{content:'+';font-size:1.35rem;font-weight:400}
+.eta-guide-detail[open] summary::after,.eta-summary-detail[open] summary::after{content:'−'}
+.eta-guide-detail[open] summary{margin-bottom:12px}
+.eta-guide-detail p{font-size:.96rem;line-height:1.75}
+.eta-summary-detail{margin-top:14px;border-top:1px solid rgba(31,62,50,.15);padding-top:8px}
+.eta-summary-detail p{max-width:76ch}
+.eta-destination-summary .eta-answer{max-width:none;padding:clamp(24px,4vw,40px)}
+.eta-destination-summary .eta-answer>p{max-width:76ch;font-size:1.1rem;line-height:1.7}
+.eta-destination-toc{border:0;background:transparent;padding:8px 0;box-shadow:none}
+.eta-destination-toc a{font-size:.85rem;padding-block:11px}
+@media(max-width:1050px){.eta-destination-guide{grid-template-columns:1fr}.eta-destination-toc{position:static;max-height:none}.eta-destination-toc nav{display:flex;flex-wrap:wrap;gap:8px}.eta-destination-toc a{padding:9px 13px;border:1px solid var(--eta-line);border-radius:999px;background:var(--eta-paper)}}
+@media(max-width:640px){.eta-destination-body{grid-template-columns:1fr;gap:14px}.eta-destination-section,.eta-destination-section:first-child,.eta-destination-section:last-child{padding:24px}.eta-destination-toc nav{flex-wrap:nowrap;overflow-x:auto;padding-bottom:10px}.eta-destination-toc a{white-space:nowrap;flex-shrink:0}.eta-guide-number{margin-bottom:12px}.eta-destination-section h2{max-width:none}.eta-guide-detail{margin-top:16px}}

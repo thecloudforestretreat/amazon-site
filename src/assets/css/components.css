@@ -18,7 +18,7 @@
 .eta-card--linked{color:inherit;text-decoration:none;transition:transform .18s ease,box-shadow .18s ease}.eta-card--linked:hover,.eta-card--linked:focus-visible{color:inherit;box-shadow:var(--eta-shadow-md);transform:translateY(-3px)}
 .eta-facts{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));overflow:hidden;border-radius:var(--eta-radius-md);background:var(--eta-forest-950);box-shadow:var(--eta-shadow-md)}
 .eta-fact{display:flex;flex-direction:column;gap:8px;padding:22px;border-right:1px solid rgba(255,255,255,.13);color:#fff}
-.eta-fact:last-child{border:0}.eta-fact strong,.eta-fact span{display:block}.eta-fact strong{color:var(--eta-gold-500);font-family:var(--eta-font-display);font-size:1.3rem}.eta-fact span{margin-top:auto;padding-top:0;color:rgba(255,255,255,.72);font-size:.88rem}
+.eta-fact:last-child{border:0}.eta-fact strong,.eta-fact span{display:block}.eta-fact strong{color:var(--eta-gold-500);font-family:var(--eta-font-display);font-size:1.3rem}.eta-fact span{margin-top:auto;min-height:2.8em;padding-top:0;color:rgba(255,255,255,.72);font-size:.88rem}
 .eta-answer{padding:clamp(22px,4vw,36px);border-left:5px solid var(--eta-gold-500);border-radius:0 var(--eta-radius-md) var(--eta-radius-md) 0;background:var(--eta-mist-100)}
 .eta-answer__label{display:block;margin-bottom:8px;color:var(--eta-river-600);font-size:.75rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase}
 .eta-answer p:last-child{margin-bottom:0}
@@ -34,11 +34,7 @@
 
 
 /* Share text rows across each fact strip so wrapped values never shift labels. */
-@supports (grid-template-rows:subgrid){
-  .eta-fact{display:grid;grid-template-rows:subgrid;grid-row:span 2;row-gap:8px}
-  .eta-fact span{margin-top:0;align-self:start}
-}
-.eta-fact strong{line-height:1.3;overflow-wrap:break-word}
+.eta-fact strong{flex:1;line-height:1.3;overflow-wrap:break-word}
 .eta-card--linked{display:flex;flex-direction:column}
 .eta-card--linked .eta-card__visual{flex-shrink:0}
 .eta-card--linked .eta-card__body{display:flex;flex:1;flex-direction:column}
