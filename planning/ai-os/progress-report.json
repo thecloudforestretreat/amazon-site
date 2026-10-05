@@ -24,7 +24,8 @@
     "ai_os_model_routing_tests": 4,
     "ai_os_core_checks": "9/9",
     "visual_review": "blocked",
-    "deployment": "passed: c04c7e71"
+    "deployment": "passed: ac7af02b",
+    "design_audit": "Static audit and mocked contact fallback pass after hero credit contrast and image dimension fixes; rendered audit blocked; contact delivery unconfigured."
   },
   "opportunities": [
     {

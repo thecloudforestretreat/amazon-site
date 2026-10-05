@@ -1,0 +1,18 @@
+[
+  {
+    "language": "en",
+    "whatsapp_url_constructed": true,
+    "email_url_constructed": true,
+    "missing_endpoint_fallback": true,
+    "network_requests": 0,
+    "delivery_verified": false
+  },
+  {
+    "language": "es",
+    "whatsapp_url_constructed": true,
+    "email_url_constructed": true,
+    "missing_endpoint_fallback": true,
+    "network_requests": 0,
+    "delivery_verified": false
+  }
+]

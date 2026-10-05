@@ -479,8 +479,12 @@
       "altEn": "Thatched shelter beside forest-lined water in Cuyabeno, Ecuador",
       "altEs": "Refugio con techo de paja junto al agua y al bosque en Cuyabeno, Ecuador",
       "credit": "Constanza S. Mora / Unsplash",
-      "source": "https://unsplash.com/photos/a-hut-in-the-middle-of-a-lake-surrounded-by-trees-llqblcGrnZE"
-    }
+      "source": "https://unsplash.com/photos/a-hut-in-the-middle-of-a-lake-surrounded-by-trees-llqblcGrnZE",
+      "width": 1600,
+      "height": 1063
+    },
+    "imageWidth": 1800,
+    "imageHeight": 1497
   },
   {
     "pairId": "pair_006",

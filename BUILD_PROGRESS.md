@@ -89,3 +89,7 @@ Deployed `967b1d49`: removed white frame, border and inset padding; rounded the 
 ### Editorial and interaction polish
 
 Deployed `c04c7e71`: curated bilingual display copy replaces sentence extraction. Stronger hero narrative, one primary action per CTA area, quieter secondary links, improved FAQ spacing and mobile buttons. Original long paragraphs retained in source. EN 1,176 / ES 1,265 main words. Editorial word-count minimum adjusted from 1,500 to 1,000 to reflect owner-requested concision; section/schema/image/link checks retained. Build, 24-page validation and audit pass. No new inference used; visual and owner sign-off pending.
+
+### Design QA — static checks and safe contact simulation
+
+Deployed `ac7af02b`. Fixed hero credit contrast (4.06:1 to 5.79:1) and added explicit photo dimensions. Six selected solid-color contrast pairs pass normal-text thresholds; this is not a full rendered accessibility audit. Unique IDs, H1s, image alt presence and contact labels checked. Node VM simulation verifies both localized missing-endpoint fallbacks and WhatsApp/mailto URL construction with zero network requests. Form delivery endpoint remains absent. Photos total 1,169,158 bytes per language page; below-fold image is lazy. No measured Lighthouse/LCP/CLS/INP results, browser visual or real keyboard testing: admin-policy check denied access again. Evidence: `planning/ai-os/design-qa.json`, `contact-qa.json`.

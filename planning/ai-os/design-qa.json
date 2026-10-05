@@ -1,0 +1,90 @@
+{
+  "scope": "Static source and compiled artifacts; not rendered browser audit",
+  "pages": {
+    "ecuador/cuyabeno": {
+      "one_h1": true,
+      "unique_ids": true,
+      "image_alt_present": true,
+      "photos": [
+        {
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg",
+          "bytes": 499738,
+          "lazy": false,
+          "dimensions_declared": true
+        },
+        {
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg",
+          "bytes": 669420,
+          "lazy": true,
+          "dimensions_declared": true
+        }
+      ],
+      "photo_total_bytes": 1169158
+    },
+    "es/ecuador/cuyabeno": {
+      "one_h1": true,
+      "unique_ids": true,
+      "image_alt_present": true,
+      "photos": [
+        {
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg",
+          "bytes": 499738,
+          "lazy": false,
+          "dimensions_declared": true
+        },
+        {
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg",
+          "bytes": 669420,
+          "lazy": true,
+          "dimensions_declared": true
+        }
+      ],
+      "photo_total_bytes": 1169158
+    }
+  },
+  "contact": {
+    "contact": {
+      "explicit_field_labels": true,
+      "delivery_endpoint": "Unconfigured"
+    },
+    "es/contacto": {
+      "explicit_field_labels": true,
+      "delivery_endpoint": "Unconfigured"
+    }
+  },
+  "contrast": [
+    {
+      "pair": "Body on ivory",
+      "ratio": 12.81,
+      "normal_text_AA": true
+    },
+    {
+      "pair": "Muted on paper",
+      "ratio": 5.25,
+      "normal_text_AA": true
+    },
+    {
+      "pair": "Hero credit on mist",
+      "ratio": 5.79,
+      "normal_text_AA": true,
+      "previous_ratio": 4.06
+    },
+    {
+      "pair": "Wildlife copy",
+      "ratio": 11.85,
+      "normal_text_AA": true
+    },
+    {
+      "pair": "Wildlife heading",
+      "ratio": 12.47,
+      "normal_text_AA": true
+    },
+    {
+      "pair": "Gold button text",
+      "ratio": 6.62,
+      "normal_text_AA": true
+    }
+  ],
+  "browser_tests": "Blocked by admin-policy check",
+  "performance_metrics": "Not measured: no Lighthouse, LCP, CLS or INP score"
+}
