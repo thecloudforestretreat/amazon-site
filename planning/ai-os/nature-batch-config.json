@@ -1,0 +1,84 @@
+[
+  {
+    "job": "birdwatching-format",
+    "pair": "pair_016",
+    "en": "amazon-birdwatching-tour",
+    "es": "tour-de-avistamiento-de-aves-en-la-amazonia",
+    "photos": [
+      {
+        "src": "/assets/images/ecuador/yasuni-manakin.jpg",
+        "width": 1279,
+        "height": 1600,
+        "credit": "Geoff Gallice",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Lepidothrix_coronata_2.jpg",
+        "altEn": "Blue-crowned bird perched among leaves in Yasuní National Park, Ecuador",
+        "altEs": "Ave de corona azul entre hojas en el Parque Nacional Yasuní, Ecuador"
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-swallows.jpg",
+        "width": 1280,
+        "height": 853,
+        "credit": "Geoff Gallice",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Atticora_fasciata_-Rio_Tiputini,_Yasuni_National_Park,_Ecuador-8.jpg",
+        "altEn": "White-banded swallows beside the Tiputini River in Yasuní, Ecuador",
+        "altEs": "Golondrinas junto al río Tiputini en Yasuní, Ecuador"
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg",
+        "width": 1280,
+        "height": 853,
+        "credit": "Geoff Gallice",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Roosting_bird.jpg",
+        "altEn": "Bird perched among branches in Yasuní National Park, Ecuador",
+        "altEs": "Ave posada entre ramas en el Parque Nacional Yasuní, Ecuador"
+      }
+    ]
+  },
+  {
+    "job": "wildlife-format",
+    "pair": "pair_017",
+    "en": "amazon-wildlife-tour",
+    "es": "tour-de-fauna-en-la-amazonia",
+    "photos": [
+      {
+        "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg",
+        "width": 1280,
+        "height": 853,
+        "credit": "Geoff Gallice",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Rhetus_periander_(1).jpg",
+        "altEn": "Blue-and-black butterfly on a leaf in Yasuní National Park, Ecuador",
+        "altEs": "Mariposa azul y negra sobre una hoja en el Parque Nacional Yasuní, Ecuador"
+      },
+      {
+        "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg",
+        "width": 1800,
+        "height": 2689,
+        "credit": "Patricio Gaibor / Unsplash",
+        "source": "https://unsplash.com/photos/looking-up-at-trees-and-blue-sky-edqQ9GZBEWM",
+        "license": "Unsplash license",
+        "licenseUrl": "https://unsplash.com/license",
+        "altEn": "Rainforest canopy viewed from below in Tena, Ecuador",
+        "altEs": "Dosel del bosque visto desde abajo en Tena, Ecuador"
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-river-turtle.jpg",
+        "width": 1280,
+        "height": 853,
+        "credit": "Geoff Gallice",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Yellow-spotted_river_turtle_(1).jpg",
+        "altEn": "Turtle on a branch above the Tiputini River, with a butterfly on its head",
+        "altEs": "Tortuga sobre una rama junto al río Tiputini, con una mariposa sobre la cabeza"
+      }
+    ]
+  }
+]

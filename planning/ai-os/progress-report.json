@@ -1,9 +1,9 @@
 {
   "date": "2026-10-05",
-  "status": "Private/family EN/ES deployed; technical and individual photo review passed; live visual pending",
+  "status": "Birdwatching/wildlife EN/ES deployed; editorial, technical and individual-photo checks pass; live visual pending",
   "active_batch": [
-    "pair_014",
-    "pair_015"
+    "pair_016",
+    "pair_017"
   ],
   "staging_polished_pairs": [
     "pair_003",
@@ -21,23 +21,23 @@
     "site_polished_in_this_workflow": 7,
     "site_baseline_pairs": 40,
     "site_polished_workflow_percent": 17.5,
-    "site_built_including_scaffolds": 18,
-    "site_built_including_scaffolds_percent": 45,
+    "site_built_including_scaffolds": 20,
+    "site_built_including_scaffolds_percent": 50,
     "final_eight_country_completion_percent": null,
     "reason": "Current 40-pair baseline lacks complete Guyana/Suriname/Venezuela architectures; scaffold count is not launch completion",
-    "ecuador_content_prepared_pairs": 13,
-    "ecuador_content_prepared_percent": 38.2,
-    "ecuador_visual_review_pending_pairs": 6,
-    "ecuador_content_deployed_pairs": 13,
-    "ecuador_content_deployed_percent": 38.2,
-    "site_built_locally_including_scaffolds": 18,
-    "site_built_locally_including_scaffolds_percent": 45
+    "ecuador_content_prepared_pairs": 15,
+    "ecuador_content_prepared_percent": 44.1,
+    "ecuador_visual_review_pending_pairs": 8,
+    "ecuador_content_deployed_pairs": 15,
+    "ecuador_content_deployed_percent": 44.1,
+    "site_built_locally_including_scaffolds": 20,
+    "site_built_locally_including_scaffolds_percent": 50
   },
   "local_usage_this_batch": {
     "requests": 2,
-    "prompt_tokens": 941,
-    "output_tokens": 3255,
-    "seconds": 136.87,
+    "prompt_tokens": 592,
+    "output_tokens": 3847,
+    "seconds": 159.23,
     "cache_hits": 0,
     "inference_retries": 0,
     "cloud_worker_tokens": 0
@@ -49,27 +49,26 @@
     "overall_local_token_percent": null,
     "overall_cloud_token_percent": null,
     "cloud_supervision_tokens": "Not exposed by this session",
-    "editorial_note": "100% of two initial bounded draft calls ran locally. Cloud supervisor substantially rewrote intros and corrected questions, built pages, acquired/reviewed photos, ran checks and deployed. Overall token/work share unavailable."
+    "editorial_note": "100% of two initial bounded draft calls ran locally. Cloud supervisor substantially rewrote both languages, built pages, reviewed rights and individual photos, ran checks and deployed. Overall token/work share unavailable."
   },
   "measured_local_cumulative": {
-    "requests": 16,
-    "prompt_tokens": 14072,
-    "output_tokens": 49448,
-    "total_tokens": 63520,
-    "basis": "Saved prior 14-request aggregate plus private/family two-call records",
+    "requests": 18,
+    "prompt_tokens": 14664,
+    "output_tokens": 53295,
+    "total_tokens": 67959,
+    "basis": "Saved prior 16-request aggregate plus birdwatching/wildlife two-call records",
     "cloud_supervision_excluded": true
   },
   "opportunities_and_improvements": [
-    "Owner reported repetitive imagery: acquired three new geographic CC photos, rotated three less-used images, added batch/recent-use and source/file-duplicate gates with negative regressions",
-    "Original Commons downloads rate-limited twice; acquired source-page web-sized variants with license/source proof retained; no permission or security bypass",
-    "Local model voice implied an operating team and unspecified facilities; revised both intros and targeted questions to provider-specific arrangements",
-    "Observed four-day comparison CTA linked to itself: corrected EN/ES and deterministic builder",
-    "Expanded Ecuador hub with six balanced format-guide links so the new guides can be found"
+    "Repetitive imagery: acquired five new Yasuní wildlife scenes with source/license proof, paired with a previously cleared Tena canopy; six unique scenes with zero overlap with the prior two batches",
+    "Narrowed nature prompt to omit unrelated regional/service facts; measured 592 prompt tokens. Total inference and editorial work remain material; no net saving claimed",
+    "Observed Spanish enforce/los salidas/la avistamiento and unsupported wildlife-at-any-time claim: corrected reviewed source and added regression flags with a failing-example test",
+    "Extended deterministic page builder, twenty page audits and existing image-rotation gate to nature guides; added hub discovery links"
   ],
   "verification": {
-    "static": "36 compiled pages, 16 hub/format audits, draft review regression tests and image rotation checks pass",
-    "visual": "New asset files inspected; live desktop/mobile check blocked by browser policy verification",
-    "photos": "Six different scenes; three new Commons acquisitions, three less-used existing regional photos; zero overlap with last two batches",
+    "static": "40 compiled HTML pages, 20 hub/format audits, 4 observed-failure tests, 3 draft-schema tests and image-rotation regressions pass",
+    "visual": "Five new image assets individually inspected; prior cleared canopy reused. Live desktop/mobile checks blocked by browser security-policy verification",
+    "photos": "Six distinct scenes; five fresh Commons acquisitions; zero overlap with last two batches",
     "protected_domain_unauthenticated_status": 302,
     "launch_checks_pending": [
       "Full accessibility",
@@ -78,19 +77,19 @@
     ]
   },
   "rollback": {
-    "previous_deployment": "2c945762",
-    "previous_commit": "d924e60",
+    "previous_deployment": "599b1557",
+    "previous_commit": "fcf7482",
     "branch": "staging",
     "production_modified": false
   },
-  "next": "Owner preview review; then amazon-birdwatching-tour, amazon-wildlife-tour",
+  "next": "Owner preview review; next candidates are canoe and best-time guides",
   "other_countries": "Peru, Brazil, Colombia, Bolivia, Guyana, Suriname and Venezuela: no polished country clusters in this workflow",
-  "deployment": "599b1557",
+  "deployment": "cbd80db7",
   "preview_links": {
-    "private_en": "https://staging.experiencetheamazon.com/ecuador/private-amazon-tour/?review=599b1557",
-    "private_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-privado-a-la-amazonia/?review=599b1557",
-    "family_en": "https://staging.experiencetheamazon.com/ecuador/family-amazon-tour/?review=599b1557",
-    "family_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-familiar-a-la-amazonia/?review=599b1557"
+    "birdwatching_en": "https://staging.experiencetheamazon.com/ecuador/amazon-birdwatching-tour/?review=cbd80db7",
+    "birdwatching_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-de-avistamiento-de-aves-en-la-amazonia/?review=cbd80db7",
+    "wildlife_en": "https://staging.experiencetheamazon.com/ecuador/amazon-wildlife-tour/?review=cbd80db7",
+    "wildlife_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-de-fauna-en-la-amazonia/?review=cbd80db7"
   },
   "prepared_not_deployed_pairs": []
 }

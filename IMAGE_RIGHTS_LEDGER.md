@@ -73,3 +73,14 @@ Three new documentary assets approved after source/license and visual asset revi
 - cuyabeno-sunset-new.jpg: Luisalbertoguerreromaldonado, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Atardecer_en_Cuyabeno.jpg . Cuyabeno waterscape and sunset.
 - cuyabeno-lagoon-new.jpg: Le mashk, CC BY-SA 3.0 selected from offered licenses, https://commons.wikimedia.org/wiki/File:Laguna,_parque_nacional_de_Cuyabeno,_Ecuador.jpg . Cuyabeno lagoon and empty canoe; caption does not repeat source's inaccurate national-park designation.
 Private pair uses Napo misty forest, existing Puyo river and new Cuyabeno sunset. Family pair uses new Cuyabeno lagoon, existing Tena river/town and Puyo city panorama. Six distinct scenes across the batch, none from the previous Quito/3-day or 4-day/5-day image selections. Existing Puyo/Tena rights evidence retained above. Visual inspection confirms these are regional context, not bookable lodge or family-suitability claims.
+
+## October 5 — birdwatching and wildlife imagery
+
+Five source pages verified for Yasuní geography, Geoff Gallice attribution and CC BY 2.0; retained HTML proof and asset hashes in nature-image-acquisition.json. Each photo was visually inspected. All page placements include source/creator and license links; image sizing is disclosed as Edited/Adaptada.
+
+- `yasuni-manakin.jpg`: https://commons.wikimedia.org/wiki/File:Lepidothrix_coronata_2.jpg; Geoff Gallice; CC BY 2.0; 1279×1600; reviewed 2026-10-05.
+- `yasuni-swallows.jpg`: https://commons.wikimedia.org/wiki/File:Atticora_fasciata_-Rio_Tiputini,_Yasuni_National_Park,_Ecuador-8.jpg; Geoff Gallice; CC BY 2.0; 1280×853; reviewed 2026-10-05.
+- `yasuni-roosting-bird.jpg`: https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Roosting_bird.jpg; Geoff Gallice; CC BY 2.0; 1280×853; reviewed 2026-10-05.
+- `yasuni-rhetus-butterfly.jpg`: https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Rhetus_periander_(1).jpg; Geoff Gallice; CC BY 2.0; 1280×853; reviewed 2026-10-05.
+- `yasuni-river-turtle.jpg`: https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Yellow-spotted_river_turtle_(1).jpg; Geoff Gallice; CC BY 2.0; 1280×853; reviewed 2026-10-05.
+Existing Tena canopy photo by Patricio Gaibor / Unsplash reused in wildlife EN/ES with its existing geographic/rights approval. Six unique scenes across the two pairs; no scene occurs twice on a page or overlaps the preceding two batches.

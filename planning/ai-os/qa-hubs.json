@@ -2,28 +2,28 @@
   "ecuador": {
     "pair_id": "pair_003",
     "language": "en",
-    "main_words": 1630,
+    "main_words": 1662,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
       "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "82e805b49a64a6be0937750d8137dab4dfa2f1c25df84c2ffd2f5c50cbfb2ed2",
+    "sha256": "f0e957fd239da09c595422269920e9781273a309e30309ba036c2c6ff35953cf",
     "errors": [],
     "passed": true
   },
   "es/ecuador": {
     "pair_id": "pair_003",
     "language": "es",
-    "main_words": 1629,
+    "main_words": 1667,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
       "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "34224a05665ea3ce9339c6aaef0731eee1df4dfc883cf2c8984de8d555f7a557",
+    "sha256": "af0d5d57701830b2da9cd2686348080bb0302bba2f05d0593970e35f98bc15f4",
     "errors": [],
     "passed": true
   },
@@ -220,6 +220,62 @@
       "/assets/images/ecuador/puyo-city.jpg"
     ],
     "sha256": "6f929087c2ab06eb745e2cd6bb4eb76f72fdb63f160f699959e4d33bb51e2672",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/amazon-birdwatching-tour": {
+    "pair_id": "pair_016",
+    "language": "en",
+    "main_words": 1541,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-manakin.jpg",
+      "/assets/images/ecuador/yasuni-swallows.jpg",
+      "/assets/images/ecuador/yasuni-roosting-bird.jpg"
+    ],
+    "sha256": "f179e1735cbb889fa98054ce61780e645fc8100dc1c83a15c5bd74fb57a97160",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/tour-de-avistamiento-de-aves-en-la-amazonia": {
+    "pair_id": "pair_016",
+    "language": "es",
+    "main_words": 1481,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-manakin.jpg",
+      "/assets/images/ecuador/yasuni-swallows.jpg",
+      "/assets/images/ecuador/yasuni-roosting-bird.jpg"
+    ],
+    "sha256": "71e13d478edadbc0de5dcffca193519765d07b42b5786d970fbdff26f7052003",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/amazon-wildlife-tour": {
+    "pair_id": "pair_017",
+    "language": "en",
+    "main_words": 1513,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg",
+      "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg",
+      "/assets/images/ecuador/yasuni-river-turtle.jpg"
+    ],
+    "sha256": "7447ae731103c9db9ddf5277491ddfe6f68afd92246533aec47d1fe9807573c2",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/tour-de-fauna-en-la-amazonia": {
+    "pair_id": "pair_017",
+    "language": "es",
+    "main_words": 1493,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg",
+      "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg",
+      "/assets/images/ecuador/yasuni-river-turtle.jpg"
+    ],
+    "sha256": "3b48949cdb6ac277ea2d8957f41ea67f29fdb768ece35ebc628c1c4ac23e227f",
     "errors": [],
     "passed": true
   }

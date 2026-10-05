@@ -26,7 +26,9 @@
     "pair_012",
     "pair_013",
     "pair_014",
-    "pair_015"
+    "pair_015",
+    "pair_016",
+    "pair_017"
   ],
   "completion_requires": [
     "Editorial and bilingual review",
@@ -56,19 +58,19 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review of private/family EN/ES previews",
+    "Owner review of birdwatching/wildlife EN/ES previews",
     "Live desktop/mobile checks after browser policy verification is restored",
     "Full accessibility, performance and contact delivery remain pending"
   ],
   "future_batches": [
-    "Next two sitemap pairs after owner review: amazon-birdwatching-tour, amazon-wildlife-tour"
+    "Next two sitemap pairs after owner review: amazon-canoe-tour, best-time-to-visit-the-ecuador-amazon"
   ],
   "notification_policy": "Meaningful change, verified completion, failure or required user action only",
   "pilot_status": "deployed_initial_browser_checks_pass_full_qa_pending",
   "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
   "next_batch_candidates": [
-    "amazon-birdwatching-tour",
-    "amazon-wildlife-tour"
+    "amazon-canoe-tour",
+    "best-time-to-visit-the-ecuador-amazon"
   ],
   "local_worker_run_complete": true,
   "git_status": "Committed locally; remote push blocked by automatic approval review",
@@ -78,10 +80,10 @@
     "scope": "Owner explicitly authorized staging release and proceeding on October 5; pending visual checks stay recorded"
   },
   "deployment": {
-    "id": "599b1557",
+    "id": "cbd80db7",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://599b1557.amazon-site-staging.pages.dev",
+    "url": "https://cbd80db7.amazon-site-staging.pages.dev",
     "protected_domain_check": "302 Cloudflare Access login",
     "date": "2026-10-05"
   },
@@ -105,21 +107,21 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "private-format",
-    "family-format"
+    "birdwatching-format",
+    "wildlife-format"
   ],
   "batch_status": "deployed_technical_and_asset_review_pass_live_visual_pending",
   "batch_browser_checks": {
     "date": "2026-10-05",
-    "deployment": "599b1557",
+    "deployment": "cbd80db7",
     "pairs": [
-      "pair_014",
-      "pair_015"
+      "pair_016",
+      "pair_017"
     ],
     "status": "pending",
     "reason": "Browser policy check unavailable",
-    "technical_validation": "36 HTML pages and 16 hub/format page audits pass",
-    "photo_asset_visual_review": "Six scenes inspected; three newly acquired rights-documented Commons photos",
+    "technical_validation": "40 HTML pages and 20 hub/format audits pass",
+    "photo_asset_visual_review": "Five new Yasuní scenes inspected; sixth scene is previously reviewed Tena canopy",
     "rotation_check": "No images from previous two batches; no duplicate scene/source/file within this batch",
     "protected_domain_unauthenticated_status": 302
   },

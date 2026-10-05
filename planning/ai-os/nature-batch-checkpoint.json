@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-05",
+  "pairs": [
+    "pair_016",
+    "pair_017"
+  ],
+  "deployment": "cbd80db7",
+  "links": {
+    "birdwatching_en": "https://staging.experiencetheamazon.com/ecuador/amazon-birdwatching-tour/?review=cbd80db7",
+    "birdwatching_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-de-avistamiento-de-aves-en-la-amazonia/?review=cbd80db7",
+    "wildlife_en": "https://staging.experiencetheamazon.com/ecuador/amazon-wildlife-tour/?review=cbd80db7",
+    "wildlife_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-de-fauna-en-la-amazonia/?review=cbd80db7"
+  },
+  "status": "Birdwatching/wildlife EN/ES deployed; editorial, technical and individual-photo checks pass; live visual pending",
+  "usage": {
+    "requests": 2,
+    "prompt_tokens": 592,
+    "output_tokens": 3847,
+    "seconds": 159.23,
+    "cache_hits": 0,
+    "inference_retries": 0,
+    "cloud_worker_tokens": 0
+  },
+  "media": "evidence/nature-images.json; evidence/nature-image-rotation-qa.json; evidence/nature-image-acquisition.json",
+  "rollback": {
+    "previous_deployment": "599b1557",
+    "previous_commit": "fcf7482",
+    "branch": "staging",
+    "production_modified": false
+  },
+  "next": "Owner preview review; next candidates are canoe and best-time guides",
+  "content_sha256": "ad8d8e2f1b33945efae9315d382b1a90e42552c48d513ceb9acb9e94b01bdd6b",
+  "config_sha256": "ad5f720dd2efff01d23ebdff395f62a09afc307385cb7fd86dd03c9a8685bee0",
+  "technical_page_audits": 20,
+  "compiled_html_pages": 40,
+  "protected_domain_unauthenticated_status": 302
+}

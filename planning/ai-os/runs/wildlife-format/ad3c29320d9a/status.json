@@ -1,0 +1,21 @@
+{
+  "job": "wildlife-format",
+  "model": "qwen3.5:9b",
+  "status": "editorially_reviewed_deployed_visual_review_blocked",
+  "review_flags": [],
+  "seconds": 80.07,
+  "prompt_eval_count": 297,
+  "eval_count": 1994,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false,
+  "raw_review_flags": [
+    "unsupported_wildlife_timing",
+    "literal_spanish_failure"
+  ],
+  "reviewed_flags": [],
+  "raw_draft_sha256": "080758666c89306cb0747696b9a3551f81ec0003e484bde3cc3b7c46f2f76521",
+  "reviewed_sha256": "27e804a50ab1cfdfcb4dd6df55fcdb708d16995eda7cc498be2d505d11f0ce41",
+  "deployment": "cbd80db7",
+  "visual_review": "Pending: browser admin-enforced policy could not be verified",
+  "promotion": "Substantial supervisor rewrite; raw local draft never published"
+}

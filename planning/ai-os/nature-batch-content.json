@@ -1,0 +1,322 @@
+{
+  "birdwatching-format": {
+    "en": {
+      "title": "Ecuador Amazon Birdwatching Tour | Guiding, Habitat and Pace",
+      "h1": "Birdwatching at your pace, with a clear plan",
+      "lede": "Choose a setting and a guide for the way you enjoy birds. Compare observation time, group size, equipment and the pace of each outing.",
+      "quick": "Start with your birding experience and interests, then compare the exact base and guiding program. A general wildlife outing and a bird-focused outing can have different priorities. Ask how the provider organizes observation, what equipment is included and how much time is available after transfers. No itinerary guarantees a species list.",
+      "facts": [
+        [
+          "Your birding level",
+          "Beginner or experienced"
+        ],
+        [
+          "Relevant guiding",
+          "Confirm skills and language"
+        ],
+        [
+          "Observation time",
+          "Separate it from transfers"
+        ],
+        [
+          "Responsible approach",
+          "Ask how outings are led"
+        ]
+      ],
+      "intro": "Compare the setting before the species list",
+      "guide": "Six decisions for a bird-focused journey",
+      "guidelede": "Use the provider’s actual program to compare guiding, pace and time in the field.",
+      "extra": "Describe the birding experience you want",
+      "extrap": "Tell the provider whether you are beginning, enjoy patient observation, keep a list or want time for photography. Explain your preferred language and walking pace. Ask what relevant guiding experience is available for the actual location and dates. The answers should show how the outing meets your interests, rather than repeat a broad promise that the region has many birds.",
+      "extra2": "Photography and observation may need different arrangements",
+      "extra2p": "Discuss whether your group wants to watch, identify, photograph or combine those interests. Ask how the guide handles time at an observation point and whether shared outings can accommodate your pace. Confirm any equipment, boat or walking arrangements that matter to your work. A private booking or longer stay does not guarantee better images or specific sightings; compare the services actually offered.",
+      "faqs": [
+        [
+          "Do I need previous birdwatching experience?",
+          "Describe your level and ask how the guide explains identification and observation during the offered outings. A beginner and an experienced birder may want different pacing or detail. Confirm the group and language arrangements so the program can be judged against your interests rather than a general birding label."
+        ],
+        [
+          "How do I compare birding guides?",
+          "Ask about relevant experience at the proposed location, the guiding language and how the outings are organized. Discuss the interests of your group and the time available for observation. If specialist or private guiding matters, confirm availability and inclusion for your dates; the page does not verify a particular provider."
+        ],
+        [
+          "Will I see the birds in the photos?",
+          "Not necessarily. These are geographically documented regional photographs, not an itinerary checklist. Ask the provider for realistic expectations at the actual location and avoid guaranteed sightings. A longer stay or specialist guide does not establish that a particular species will be observed."
+        ],
+        [
+          "Are binoculars or spotting scopes included?",
+          "Ask which equipment, if any, is provided, whether it is shared and what you should bring. Confirm the arrangements for the actual outing and your group. Do not infer equipment availability from the tour name, a photograph or the length of the program."
+        ],
+        [
+          "Should I choose walks or river observation?",
+          "Compare what the provider actually offers at the base. Ask about walking effort, boarding, observation time and guiding for each proposed outing. Choose the method that matches your interests and requirements rather than assuming one method always produces more birds or better views."
+        ],
+        [
+          "What should my birding quote include?",
+          "Request the exact property, nights, guide and activity-group arrangements, observation program, transfers, meals, equipment and exclusions. Keep the complete price and change terms in writing. Compare proposals for the same dates and group, and separate independently booked services from the package."
+        ]
+      ],
+      "cards": [
+        [
+          "Yasuní and the Napo corridor",
+          "Confirm the actual property and its guiding program. A lodge in the corridor is not automatically inside the national park. Ask which forest or river outings it offers and how the guiding and observation time match your interests. Do not treat a regional wildlife photograph as a promised sighting.",
+          "yasuni"
+        ],
+        [
+          "Cuyabeno",
+          "River and canoe travel, flooded forest and lagoon landscapes shape this reserve setting. Ask where the proposed base sits, which outings are offered and how much time is spent observing versus transferring. Compare the actual guide, group and requirements rather than relying on the reserve name alone.",
+          "cuyabeno"
+        ],
+        [
+          "Tena and Misahuallí",
+          "Compare a road-access town base with a property beyond it. The exact location and the departure points of outings matter to the time you can spend observing. Ask the provider to explain the offered habitat, guiding and activity requirements for the specific base and dates.",
+          "tena"
+        ],
+        [
+          "Puyo and the Pastaza gateway",
+          "A city base and a stay farther into the region create different practical arrangements. Locate each botanical or forest outing before comparing it. Ask about guiding detail, access and time at the activity rather than assuming every experience around Puyo has the same habitat or program.",
+          "puyo"
+        ]
+      ]
+    },
+    "es": {
+      "title": "Avistamiento de Aves en la Amazonía de Ecuador | Guías y Ritmo",
+      "h1": "Observa aves a tu ritmo, con un plan claro",
+      "lede": "Elige un entorno y un guía para tu forma de disfrutar las aves. Compara tiempo de observación, grupo, equipo y ritmo de cada salida.",
+      "quick": "Empieza por tu experiencia e intereses y compara la base exacta y los guías. Una salida general de fauna y una enfocada en aves pueden tener prioridades distintas. Pregunta cómo se organiza la observación, qué equipo se incluye y cuánto tiempo queda después de los traslados. Ningún itinerario garantiza una lista de especies.",
+      "facts": [
+        [
+          "Tu experiencia",
+          "Principiante o experimentado"
+        ],
+        [
+          "Guías adecuados",
+          "Confirma experiencia e idioma"
+        ],
+        [
+          "Tiempo de observación",
+          "Sepáralo de los traslados"
+        ],
+        [
+          "Un enfoque responsable",
+          "Pregunta cómo se realizan las salidas"
+        ]
+      ],
+      "intro": "Compara el entorno antes de la lista de especies",
+      "guide": "Seis decisiones para un viaje enfocado en aves",
+      "guidelede": "Compara guías, ritmo y tiempo de observación mediante el programa real del proveedor.",
+      "extra": "Describe la experiencia de observación que buscas",
+      "extrap": "Explica si estás empezando, prefieres observar con paciencia, llevas una lista o quieres fotografiar. Comparte idioma y ritmo de caminata. Pregunta qué experiencia de guías hay para el lugar y las fechas concretas. Las respuestas deben explicar cómo encaja la salida con tus intereses, además de repetir que la región tiene muchas aves.",
+      "extra2": "Fotografiar y observar pueden necesitar acuerdos distintos",
+      "extra2p": "Hablen de si quieren observar, identificar, fotografiar o combinar intereses. Pregunta cómo se organiza el tiempo en cada punto y si una salida compartida permite tu ritmo. Confirma equipo, botes y caminatas que importen para tus planes. Reservar en privado o más días no garantiza mejores fotos ni avistamientos concretos; compara los servicios ofrecidos.",
+      "faqs": [
+        [
+          "¿Necesito experiencia para observar aves?",
+          "Describe tu nivel y pregunta cómo explica el guía la identificación y la observación. Un principiante y un observador experimentado pueden buscar ritmos y detalles distintos. Confirma grupo e idioma para valorar el programa según tus intereses, además de la etiqueta de avistamiento."
+        ],
+        [
+          "¿Cómo comparo a los guías?",
+          "Pregunta por experiencia en el lugar propuesto, idioma y organización de las salidas. Habla de los intereses del grupo y del tiempo para observar. Si buscas guías especializados o privados, confirma disponibilidad e inclusión para tus fechas; esta página no verifica un proveedor concreto."
+        ],
+        [
+          "¿Veré las aves de las fotos?",
+          "No necesariamente. Son fotografías regionales con ubicación documentada, no una lista del itinerario. Pide expectativas realistas para el lugar y evita avistamientos garantizados. Más días o un guía especializado no confirman que observes una especie particular."
+        ],
+        [
+          "¿Incluye binoculares o telescopios?",
+          "Pregunta qué equipo se proporciona, si se comparte y qué debes llevar. Confirma los acuerdos para la salida y el grupo reales. El nombre del tour, una fotografía o la duración no confirman disponibilidad de equipo."
+        ],
+        [
+          "¿Elijo caminatas u observación desde el río?",
+          "Compara lo que ofrece el proveedor en la base concreta. Pregunta por esfuerzo, embarque, tiempo de observación y guías de cada salida. Elige según intereses y requisitos, sin suponer que un método siempre permite ver más aves o tener mejores vistas."
+        ],
+        [
+          "¿Qué debe incluir la cotización?",
+          "Pide alojamiento exacto, noches, guías, grupos, programa de observación, traslados, comidas, equipo y exclusiones. Conserva precio completo y condiciones de cambio por escrito. Compara propuestas para las mismas fechas y grupo y distingue reservas independientes del paquete."
+        ]
+      ],
+      "cards": [
+        [
+          "Yasuní y el corredor del Napo",
+          "Confirma alojamiento y guías reales. Un lodge del corredor no está necesariamente dentro del parque nacional. Pregunta qué salidas de bosque o río ofrece y cómo encajan guías y tiempo de observación con tus intereses. Una foto regional de fauna no promete un avistamiento.",
+          "yasuni"
+        ],
+        [
+          "Cuyabeno",
+          "Ríos, canoas, bosque inundado y lagunas forman parte del entorno de la reserva. Pregunta por base, salidas y tiempo para observar frente a traslados. Compara guía, grupo y requisitos concretos, además del nombre de la reserva.",
+          "cuyabeno"
+        ],
+        [
+          "Tena y Misahuallí",
+          "Compara una base urbana por carretera con un alojamiento fuera de ella. Ubicación y puntos de salida influyen en el tiempo de observación. Pide hábitat, guías y requisitos de actividades para la base y las fechas concretas.",
+          "tena"
+        ],
+        [
+          "Puyo y la entrada a Pastaza",
+          "Una base urbana y una estancia más alejada tienen acuerdos distintos. Localiza cada salida botánica o de bosque. Pregunta por guías, acceso y tiempo de actividad, sin suponer que todas las experiencias alrededor de Puyo comparten hábitat o programa.",
+          "puyo"
+        ]
+      ]
+    }
+  },
+  "wildlife-format": {
+    "en": {
+      "title": "Ecuador Amazon Wildlife Tour | Habitats, Guiding and Expectations",
+      "h1": "Choose how you want to observe the forest",
+      "lede": "Look beyond an animal checklist. Compare the habitat, guiding and time that shape a wildlife-focused stay, with room to notice the smaller details.",
+      "quick": "Choose the actual location and observation program before comparing promises about animals. Forest, river and lagoon outings can offer different ways to experience the setting, but the provider must confirm what it offers. Ask about effort, group size and time observing. Wildlife sightings vary and cannot be guaranteed.",
+      "facts": [
+        [
+          "Habitat first",
+          "Confirm the actual location"
+        ],
+        [
+          "Patient observation",
+          "Allow time for your interests"
+        ],
+        [
+          "Guiding and group",
+          "Ask about every outing"
+        ],
+        [
+          "Honest expectations",
+          "No guaranteed sightings"
+        ]
+      ],
+      "intro": "Choose a setting, not a promised animal",
+      "guide": "Six questions behind a wildlife-focused stay",
+      "guidelede": "Compare the experience the provider can confirm without turning the trip into a checklist.",
+      "extra": "Make room for the smaller details",
+      "extrap": "Explain whether your interest is birds, river observation, insects, photography or a broader introduction to the forest. Ask how the guide supports those interests within the actual outings. A program can be valuable without a long list of large animals. Compare the time to observe and the explanations offered, and keep regional photographs separate from promises about your own stay.",
+      "extra2": "Ask how observation is managed",
+      "extra2p": "Discuss how the provider keeps the outing respectful and how the group responds when wildlife is present. Avoid programs that rely on feeding, baiting or handling animals to deliver a photograph or sighting. Ask what happens if an outing changes or no target animal is seen. The written program should describe activities and guiding, with realistic expectations for the location.",
+      "faqs": [
+        [
+          "Can a wildlife tour guarantee sightings?",
+          "No. Choose using the actual location, habitat, guiding and observation time rather than promises of particular animals. The provider can describe its program and realistic expectations, but a package name, private guide or additional night cannot establish a guaranteed sighting."
+        ],
+        [
+          "Which region is best for wildlife?",
+          "There is no single answer for every interest. Compare the exact base and offered activities with what you want to observe. The regional guides describe different Ecuador settings; the provider must confirm the program, access and guiding at the proposed property for your dates."
+        ],
+        [
+          "Do wildlife tours only focus on large animals?",
+          "Ask how the offered program treats your interests, whether they include birds, insects, vegetation, river observation or photography. A broad wildlife label does not explain the guiding detail or outing focus. Discuss priorities before booking instead of assuming that every program covers the same subjects."
+        ],
+        [
+          "Are night outings included?",
+          "Only the provider can confirm availability, inclusion, requirements and how any outing fits the schedule. Ask about effort, equipment, group and guiding for the actual activity. Do not assume a night outing is included or that a particular time guarantees wildlife observation."
+        ],
+        [
+          "How should I judge the photographs?",
+          "Use them to understand a documented regional setting or animal, not to verify an itinerary. The pictures on this page are credited geographic examples. They do not establish what you will see, current services or the suitability of an activity for your group."
+        ],
+        [
+          "What should I confirm before booking?",
+          "Request the exact property, dates, nights, activity program, guiding, group size, transfers, meals, equipment and exclusions. Describe your interests and pace. Keep the complete quote and change terms, and compare the observation time after allowing for all travel segments."
+        ]
+      ],
+      "cards": [
+        [
+          "Yasuní and the Napo corridor",
+          "Confirm the actual property and its guiding program. A lodge in the corridor is not automatically inside the national park. Ask which forest or river outings it offers and how the guiding and observation time match your interests. Do not treat a regional wildlife photograph as a promised sighting.",
+          "yasuni"
+        ],
+        [
+          "Cuyabeno",
+          "River and canoe travel, flooded forest and lagoon landscapes shape this reserve setting. Ask where the proposed base sits, which outings are offered and how much time is spent observing versus transferring. Compare the actual guide, group and requirements rather than relying on the reserve name alone.",
+          "cuyabeno"
+        ],
+        [
+          "Tena and Misahuallí",
+          "Compare a road-access town base with a property beyond it. The exact location and the departure points of outings matter to the time you can spend observing. Ask the provider to explain the offered habitat, guiding and activity requirements for the specific base and dates.",
+          "tena"
+        ],
+        [
+          "Puyo and the Pastaza gateway",
+          "A city base and a stay farther into the region create different practical arrangements. Locate each botanical or forest outing before comparing it. Ask about guiding detail, access and time at the activity rather than assuming every experience around Puyo has the same habitat or program.",
+          "puyo"
+        ]
+      ]
+    },
+    "es": {
+      "title": "Tour de Fauna en la Amazonía de Ecuador | Hábitats y Expectativas",
+      "h1": "Elige cómo quieres observar el bosque",
+      "lede": "Mira más allá de una lista de animales. Compara hábitat, guías y tiempo de una estancia enfocada en fauna, con espacio para los detalles pequeños.",
+      "quick": "Elige ubicación y programa de observación antes de comparar promesas de animales. Bosques, ríos y lagunas permiten experiencias distintas, pero el proveedor debe confirmar lo que ofrece. Pregunta por esfuerzo, grupos y tiempo para observar. Los avistamientos varían y no pueden garantizarse.",
+      "facts": [
+        [
+          "Primero el hábitat",
+          "Confirma la ubicación real"
+        ],
+        [
+          "Observación con paciencia",
+          "Dedica tiempo a tus intereses"
+        ],
+        [
+          "Guías y grupos",
+          "Pregunta por cada salida"
+        ],
+        [
+          "Expectativas honestas",
+          "Sin avistamientos garantizados"
+        ]
+      ],
+      "intro": "Elige un entorno, no un animal prometido",
+      "guide": "Seis preguntas para una estancia enfocada en fauna",
+      "guidelede": "Compara la experiencia que confirma el proveedor sin convertir el viaje en una lista de animales.",
+      "extra": "Deja espacio para los detalles pequeños",
+      "extrap": "Explica si te interesan aves, observar desde el río, insectos, fotografía o una introducción general al bosque. Pregunta cómo responde el guía dentro de las salidas reales. Un programa puede aportar mucho sin una lista larga de grandes animales. Compara tiempo para observar y explicaciones, y distingue fotografías regionales de promesas sobre tu estancia.",
+      "extra2": "Pregunta cómo se organiza la observación",
+      "extra2p": "Habla de cómo mantiene el proveedor una observación respetuosa y cómo actúa el grupo al encontrar fauna. Evita programas que dependen de alimentar, atraer con cebo o manipular animales para conseguir una foto o avistamiento. Pregunta qué pasa si cambia una salida o no se ve el animal buscado. El programa escrito debe describir actividades y guías con expectativas realistas.",
+      "faqs": [
+        [
+          "¿Un tour de fauna puede garantizar avistamientos?",
+          "No. Elige por ubicación, hábitat, guías y tiempo de observación, no por promesas de animales concretos. El proveedor puede explicar su programa y expectativas realistas, pero el nombre del paquete, un guía privado o una noche adicional no establecen un avistamiento garantizado."
+        ],
+        [
+          "¿Qué región es mejor para observar fauna?",
+          "No hay una respuesta única para todos los intereses. Compara base exacta y actividades ofrecidas con lo que quieres observar. Las guías regionales describen entornos de Ecuador; el proveedor debe confirmar programa, acceso y guías del alojamiento propuesto para tus fechas."
+        ],
+        [
+          "¿Los tours solo se enfocan en animales grandes?",
+          "Pregunta cómo responde el programa a tus intereses: aves, insectos, vegetación, observación fluvial o fotografía. Una etiqueta general de fauna no explica el detalle del guía ni el enfoque de la salida. Habla de prioridades antes de reservar, sin suponer que todos cubren los mismos temas."
+        ],
+        [
+          "¿Incluye salidas nocturnas?",
+          "Solo el proveedor puede confirmar disponibilidad, inclusión, requisitos y horarios de una salida. Pregunta por esfuerzo, equipo, grupo y guías de la actividad real. No supongas que se incluye una salida nocturna ni que una hora concreta garantiza observar fauna."
+        ],
+        [
+          "¿Cómo debería valorar las fotografías?",
+          "Úsalas para entender un entorno o animal regional documentado, no para verificar el itinerario. Las imágenes de esta página son ejemplos geográficos con créditos. No confirman qué verás, servicios actuales ni si una actividad es adecuada para tu grupo."
+        ],
+        [
+          "¿Qué confirmo antes de reservar?",
+          "Pide alojamiento exacto, fechas, noches, actividades, guías, grupos, traslados, comidas, equipo y exclusiones. Describe intereses y ritmo. Conserva cotización completa y condiciones de cambio, y compara tiempo de observación después de contar todos los tramos del viaje."
+        ]
+      ],
+      "cards": [
+        [
+          "Yasuní y el corredor del Napo",
+          "Confirma alojamiento y guías reales. Un lodge del corredor no está necesariamente dentro del parque nacional. Pregunta qué salidas de bosque o río ofrece y cómo encajan guías y tiempo de observación con tus intereses. Una foto regional de fauna no promete un avistamiento.",
+          "yasuni"
+        ],
+        [
+          "Cuyabeno",
+          "Ríos, canoas, bosque inundado y lagunas forman parte del entorno de la reserva. Pregunta por base, salidas y tiempo para observar frente a traslados. Compara guía, grupo y requisitos concretos, además del nombre de la reserva.",
+          "cuyabeno"
+        ],
+        [
+          "Tena y Misahuallí",
+          "Compara una base urbana por carretera con un alojamiento fuera de ella. Ubicación y puntos de salida influyen en el tiempo de observación. Pide hábitat, guías y requisitos de actividades para la base y las fechas concretas.",
+          "tena"
+        ],
+        [
+          "Puyo y la entrada a Pastaza",
+          "Una base urbana y una estancia más alejada tienen acuerdos distintos. Localiza cada salida botánica o de bosque. Pregunta por guías, acceso y tiempo de actividad, sin suponer que todas las experiencias alrededor de Puyo comparten hábitat o programa.",
+          "puyo"
+        ]
+      ]
+    }
+  }
+}
