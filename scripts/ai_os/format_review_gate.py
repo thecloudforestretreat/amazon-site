@@ -6,6 +6,7 @@ PATTERNS={
  'literal_spanish_failure':r'\bDura del Viaje\b|\blas avistamientos\b|\bcamadas guiadas\b|\benforce\b|\blos salidas\b|\bla avistamiento\b',
  'invented_transport':r'flight to Tena|flight from Tena|flight from.*Puyo|vuelo a Tena|vuelo de regreso desde Tena|Sim[oó]n Bol[ií]var',
  'unrealistic_specificity':r'minute-by-minute|minuto a minuto|radio frequency|frecuencia de radio|48 hours|48 horas',
+ 'day_night_confusion':r'cover all three nights|cubre las tres noches',
  'unsupported_timing':r'6 to 8 hours|6 y 8 horas',
  'colonial_framing':r'back to civilization|volver a la civilizaci[oó]n',
  'unsafe_river_advice':r'test the water temperature|probar la temperatura del agua',

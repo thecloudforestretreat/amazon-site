@@ -1,0 +1,260 @@
+{
+  "deployment": "62d0c102",
+  "date": "2026-10-05",
+  "status": "initial_desktop_mobile_visual_and_interaction_checks_pass",
+  "widths": [
+    1440,
+    390
+  ],
+  "measurements": [
+    {
+      "factYs": [
+        -2120,
+        -2120,
+        -2120,
+        -2120
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-boat.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-swallows.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/blog/best-amazon-lodges-in-ecuador/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-boat.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-swallows.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/blog/best-amazon-lodges-in-ecuador/",
+      "width": 390
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-boat.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-swallows.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/blog/mejores-lodges-en-la-amazonia-del-ecuador/",
+      "width": 390
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-boat.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-swallows.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/blog/mejores-lodges-en-la-amazonia-del-ecuador/",
+      "width": 390
+    },
+    {
+      "factYs": [
+        -2061.4609375,
+        -2061.4609375,
+        -2061.4609375,
+        -2061.4609375
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-boat.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-swallows.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/blog/mejores-lodges-en-la-amazonia-del-ecuador/",
+      "width": 1440
+    },
+    {
+      "factYs": [
+        -2095.2421875,
+        -2095.2421875,
+        -2095.2421875,
+        -2095.2421875
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-palms.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/blog/how-many-days-do-you-need-in-the-ecuador-amazon/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-palms.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/blog/how-many-days-do-you-need-in-the-ecuador-amazon/",
+      "width": 390
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-palms.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/blog/cuantos-dias-necesitas-en-la-amazonia-del-ecuador/",
+      "width": 390
+    },
+    {
+      "factYs": [
+        -2095.2421875,
+        -2095.2421875,
+        -2095.2421875,
+        -2095.2421875
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-palms.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/blog/cuantos-dias-necesitas-en-la-amazonia-del-ecuador/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-boat.jpg"
+        },
+        {
+          "loaded": false,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-swallows.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/blog/best-amazon-lodges-in-ecuador/",
+      "width": 390
+    }
+  ],
+  "screenshots": [
+    "planning/ai-os/evidence/lodge-en-desktop.png",
+    "planning/ai-os/evidence/lodge-en-mobile.png",
+    "planning/ai-os/evidence/lodge-es-desktop.png",
+    "planning/ai-os/evidence/lodge-es-mobile.png",
+    "planning/ai-os/evidence/days-en-desktop.png",
+    "planning/ai-os/evidence/days-en-mobile.png",
+    "planning/ai-os/evidence/days-es-desktop.png",
+    "planning/ai-os/evidence/days-es-mobile.png"
+  ],
+  "checks": [
+    "All four routes reviewed at desktop/mobile widths",
+    "All eight route/viewport combinations have loaded-image measurements",
+    "No horizontal overflow; sticky header; desktop fact labels aligned",
+    "English hamburger opens via Enter and closes via Escape; FAQ toggles via Enter",
+    "Six rights-cleared distinct scenes inspected; none from preceding two batches; no frogs",
+    "Journal links point to the two new articles",
+    "Unauthenticated protected staging returns 302; authenticated browser readback passed"
+  ],
+  "limits": [
+    "Initial review; full accessibility and measured performance pending",
+    "Contact delivery endpoint absent",
+    "Twelve earlier visual catch-up reviews pending",
+    "One additional fast-scroll mobile readback has an undecoded image; earlier same-route/width view recorded all loaded"
+  ]
+}

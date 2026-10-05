@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-05",
+  "photos": {
+    "lodge-choice-article": [
+      {
+        "section": 0,
+        "src": "/assets/images/ecuador/misahualli-boat.jpg",
+        "width": 1400,
+        "height": 1005,
+        "altEn": "A riverside building photographed during a Napo River boat trip near Misahuallí",
+        "altEs": "Edificio ribereño fotografiado durante un paseo en bote por el Napo cerca de Misahuallí",
+        "source": "https://commons.wikimedia.org/wiki/File:Misahuall%C3%AD_Ecuador_1435.jpg",
+        "credit": "Arabsalam",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/assets/images/ecuador/tena-forest-jay.jpg",
+        "width": 1400,
+        "height": 933,
+        "altEn": "Sunlight through rainforest trees in Tena, Ecuador",
+        "altEs": "Luz entre los árboles del bosque amazónico en Tena, Ecuador",
+        "source": "https://commons.wikimedia.org/wiki/File:Amazon_Rainforest_in_Tena,_Ecuador.jpg",
+        "credit": "Jay",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "section": 4
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-swallows.jpg",
+        "width": 1280,
+        "height": 853,
+        "credit": "Geoff Gallice",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Atticora_fasciata_-Rio_Tiputini,_Yasuni_National_Park,_Ecuador-8.jpg",
+        "altEn": "White-banded swallows beside the Tiputini River in Yasuní, Ecuador",
+        "altEs": "Golondrinas junto al río Tiputini en Yasuní, Ecuador"
+      }
+    ],
+    "stay-length-article": [
+      {
+        "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
+        "width": 1400,
+        "height": 788,
+        "altEn": "Palm silhouettes at sunset on a tributary of the Yasuní River",
+        "altEs": "Siluetas de palmeras al atardecer en un afluente del río Yasuní",
+        "source": "https://commons.wikimedia.org/wiki/File:Bactris_Palm_Sunset.jpg",
+        "credit": "Lauren Whitehurst",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "section": 0
+      },
+      {
+        "section": 4,
+        "src": "/assets/images/ecuador/puyo-palms.jpg",
+        "width": 1400,
+        "height": 933,
+        "altEn": "Palms with exposed supporting roots beside a path at Omaere Park, Puyo",
+        "altEs": "Palmas con raíces de soporte expuestas junto a un sendero del Parque Omaere, Puyo",
+        "source": "https://commons.wikimedia.org/wiki/File:Iriartea_deltoidea_and_Socratea_exorrhiza_%28Arecaceae%29_%E2%80%94_two_%22walking_palms%22_%2830053641211%29.jpg",
+        "credit": "yakovlev.alexey",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg",
+        "width": 1280,
+        "height": 853,
+        "credit": "Geoff Gallice",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Roosting_bird.jpg",
+        "altEn": "Bird perched among branches in Yasuní National Park, Ecuador",
+        "altEs": "Ave posada entre ramas en el Parque Nacional Yasuní, Ecuador"
+      }
+    ]
+  }
+}

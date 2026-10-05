@@ -1,0 +1,11 @@
+{
+  "status": "supervisor_rewritten",
+  "findings": [
+    "Removed unsupported cloud-forest, airstrip, seasonal access and campsite assumptions",
+    "Removed prescriptive water-treatment and broad safety assertions",
+    "Replaced Spanish usted/lodge/transferencias with consistent natural language",
+    "Placed wildlife guiding section beside bird photo",
+    "Attributed community ownership only to operator source"
+  ],
+  "raw_preserved": true
+}

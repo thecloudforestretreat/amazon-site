@@ -1,0 +1,18 @@
+{
+  "job": "stay-length-article",
+  "model": "qwen3.5:9b",
+  "status": "editorial_reviewed_deployed_initial_visual_pass_full_qa_pending",
+  "review_flags": [],
+  "seconds": 115.26,
+  "prompt_eval_count": 233,
+  "eval_count": 2857,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false,
+  "deployment": "62d0c102",
+  "raw_review_flags": [
+    "spanish_voice_mismatch",
+    "day_night_confusion"
+  ],
+  "promotion": "Full supervisor rewrite; raw retained; operator examples attributed to reviewed primary sources",
+  "reviewed_sha256": "320689878b45ca993506f81521c7ef919eebe46651c3d942c6e088d3470cbdd7"
+}

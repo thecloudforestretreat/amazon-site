@@ -18,6 +18,10 @@ class ObservedFailures(unittest.TestCase):
  def test_blog_heading_regression(self):
   self.assertEqual(flags({'es':'Compare Dura del Viaje'}),['literal_spanish_failure'])
   self.assertEqual(flags({'es':'Compara la duración del viaje'}),[])
+ def test_observed_three_day_night_error(self):
+  self.assertEqual(flags({'en':'Does the price cover all three nights of accommodation?'}),['day_night_confusion'])
+  self.assertEqual(flags({'es':'¿El precio cubre las tres noches de alojamiento?'}),['day_night_confusion'])
+  self.assertEqual(flags({'en':'How many nights are included?'}),[])
  def test_reviewed_question_is_not_flagged(self):
   self.assertEqual(flags({'intro':'Which transport segments are included in the written proposal?'}),[])
 if __name__=='__main__':unittest.main()

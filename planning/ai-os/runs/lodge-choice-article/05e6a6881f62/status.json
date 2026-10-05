@@ -1,0 +1,17 @@
+{
+  "job": "lodge-choice-article",
+  "model": "qwen3.5:9b",
+  "status": "editorial_reviewed_deployed_initial_visual_pass_full_qa_pending",
+  "review_flags": [],
+  "seconds": 103.39,
+  "prompt_eval_count": 228,
+  "eval_count": 2488,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false,
+  "deployment": "62d0c102",
+  "raw_review_flags": [
+    "spanish_voice_mismatch"
+  ],
+  "promotion": "Full supervisor rewrite; raw retained; operator examples attributed to reviewed primary sources",
+  "reviewed_sha256": "f72f88f93bbdae69b7bf1ec77e8f5903646d6a8f8862f3204b7c6a9bb9fb01d4"
+}

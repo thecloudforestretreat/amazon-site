@@ -1,0 +1,45 @@
+{
+  "status": "deployed_initial_visual_and_technical_checks_pass_full_launch_qa_pending",
+  "deployment": "62d0c102",
+  "pairs": [
+    "pair_032",
+    "pair_033"
+  ],
+  "progress": "29/34 Ecuador pairs prepared/deployed (85.3%); not launch completion",
+  "local_usage": {
+    "model": "qwen3.5:9b",
+    "calls": 2,
+    "prompt_tokens": 461,
+    "output_tokens": 5345,
+    "total_tokens": 5806,
+    "seconds": 218.65,
+    "inference_retries": 0,
+    "cache_hits": 0,
+    "connection_retry": 1,
+    "connection_note": "Initial sandbox connection denied before inference; authorized escalation succeeded",
+    "bounded_initial_draft_calls_local_percent": 100,
+    "overall_local_cloud_percent": "unmeasured; supervisor substantial editorial rewrite, source checks, design and QA excluded"
+  },
+  "rollback": {
+    "deployment": "dbe07b86",
+    "local_commit": "94d12ae"
+  },
+  "verification": {
+    "compiled_pages": 68,
+    "audited_routes": 48,
+    "format_regression_tests": 9,
+    "scene_rotation": "passed",
+    "protection": "302; authenticated browser verified"
+  },
+  "opportunities": [
+    "Local long-form drafts still require substantial rewriting; larger raw output did not reduce editorial work",
+    "Full accessibility/performance/contact delivery and older visual checks remain pending"
+  ],
+  "improvements": [
+    "Reusable article batch builder with per-page sources and Article schema",
+    "Regression flag for observed three-day/three-night confusion",
+    "Journal and accommodation hubs link new articles; rotate six scene identities"
+  ],
+  "browser_evidence": "planning/ai-os/evidence/article-browser-qa.json",
+  "next": "Owner review then pair_034 wildlife timing and pair_035 lodge-stay experience"
+}

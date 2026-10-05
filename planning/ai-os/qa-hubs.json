@@ -2,56 +2,56 @@
   "ecuador": {
     "pair_id": "pair_003",
     "language": "en",
-    "main_words": 1838,
+    "main_words": 1853,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
       "/assets/images/ecuador/misahualli-boat.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "de7af8db92961d7680524ab3aa6be43e1f9d1995bbdbb6f4bea5bd7970479628",
+    "sha256": "f9d254459011c1b9445e6c2df1c5a55819f11b863c9b24730d9542945b829b0c",
     "errors": [],
     "passed": true
   },
   "es/ecuador": {
     "pair_id": "pair_003",
     "language": "es",
-    "main_words": 1843,
+    "main_words": 1857,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
       "/assets/images/ecuador/misahualli-boat.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "fccd32d40ff62be5b873182ec57588a674929df4afcd5808b3d4adec2dd58292",
+    "sha256": "d4cf3b397c0bdc627456c6136a3af8d5a8af9da9c7c69221d8b1c2b7b2c279f0",
     "errors": [],
     "passed": true
   },
   "ecuador/amazon-lodges": {
     "pair_id": "pair_009",
     "language": "en",
-    "main_words": 1431,
+    "main_words": 1446,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg",
       "/assets/images/ecuador/puyo-palms.jpg"
     ],
-    "sha256": "7e9d70c52ee6836ccded340f533b9c8f19c281a758955a0b2d385ceda90bd244",
+    "sha256": "86b90a222a2d2403c534e3d6149bef3776699ae8b287850d50ebbb4ecbe5d3b7",
     "errors": [],
     "passed": true
   },
   "es/ecuador/lodges-en-la-amazonia": {
     "pair_id": "pair_009",
     "language": "es",
-    "main_words": 1371,
+    "main_words": 1385,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg",
       "/assets/images/ecuador/puyo-palms.jpg"
     ],
-    "sha256": "e09f99acb357db955add6756613e5793431d21e1da4635a9ad4b7edc6db40040",
+    "sha256": "7307d5605f41eb08b88e3497b3a2f7e8c0e294c0ab2d26801b6d75326676a764",
     "errors": [],
     "passed": true
   },
@@ -562,28 +562,28 @@
   "ecuador/blog": {
     "pair_id": "pair_030",
     "language": "en",
-    "main_words": 1304,
+    "main_words": 1301,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/napo-forest-grzywa.jpg",
       "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg",
       "/assets/images/ecuador/yasuni-manakin.jpg"
     ],
-    "sha256": "cb5e8a2fbf50a0b26dac4a21dd2a8877b52c183cb23b7c06abd140f9a18e7c0d",
+    "sha256": "d7c51fb5aa135c3c81619ad6743e6e0f0008e48480d0ad4873d1e24cd06fb777",
     "errors": [],
     "passed": true
   },
   "es/ecuador/blog": {
     "pair_id": "pair_030",
     "language": "es",
-    "main_words": 1279,
+    "main_words": 1277,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/napo-forest-grzywa.jpg",
       "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg",
       "/assets/images/ecuador/yasuni-manakin.jpg"
     ],
-    "sha256": "69d116ed75c8a55f7fe7c89c04c9c39ec75f70ce2cd8b3d31c5daf4a70cb3f27",
+    "sha256": "2e862b323a5fecf24f2f1c45b5aa76cb9bac219fcaf107efad6eb55d55270d41",
     "errors": [],
     "passed": true
   },
@@ -612,6 +612,62 @@
       "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg"
     ],
     "sha256": "979c11d092b44034ea09482ea5aab57dd747ccf2a1a34f46713472e7546466fb",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/blog/best-amazon-lodges-in-ecuador": {
+    "pair_id": "pair_032",
+    "language": "en",
+    "main_words": 1781,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/misahualli-boat.jpg",
+      "/assets/images/ecuador/tena-forest-jay.jpg",
+      "/assets/images/ecuador/yasuni-swallows.jpg"
+    ],
+    "sha256": "ffbba2570f3c384f673a1986daf6cbe9f1001106e77f9862d578e16c6933f289",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/blog/mejores-lodges-en-la-amazonia-del-ecuador": {
+    "pair_id": "pair_032",
+    "language": "es",
+    "main_words": 1781,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/misahualli-boat.jpg",
+      "/assets/images/ecuador/tena-forest-jay.jpg",
+      "/assets/images/ecuador/yasuni-swallows.jpg"
+    ],
+    "sha256": "8cc03306389d4f7bdc7e632c53dc2457cd876d487b7f4c88ef0c24f2b10c87f5",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/blog/how-many-days-do-you-need-in-the-ecuador-amazon": {
+    "pair_id": "pair_033",
+    "language": "en",
+    "main_words": 1836,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
+      "/assets/images/ecuador/puyo-palms.jpg",
+      "/assets/images/ecuador/yasuni-roosting-bird.jpg"
+    ],
+    "sha256": "cd753caa3f87108c778a523d12fe70ed756ef015ff089c99810ffccd9fe2ac20",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/blog/cuantos-dias-necesitas-en-la-amazonia-del-ecuador": {
+    "pair_id": "pair_033",
+    "language": "es",
+    "main_words": 1810,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
+      "/assets/images/ecuador/puyo-palms.jpg",
+      "/assets/images/ecuador/yasuni-roosting-bird.jpg"
+    ],
+    "sha256": "50a0246a0e8f2bac583207499dda79acb5527be5ac70d4cc92f82d255d30c683",
     "errors": [],
     "passed": true
   }

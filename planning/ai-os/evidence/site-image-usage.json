@@ -5,14 +5,37 @@
   "usage": [
     {
       "src": "/assets/images/ecuador/tena-forest-jay.jpg",
-      "count": 6,
+      "count": 7,
       "routes": [
         "/ecuador/",
         "/ecuador/4-day-amazon-tour/",
         "/ecuador/3-day-amazon-tour/",
         "/ecuador/best-time-to-visit-the-ecuador-amazon/",
         "/ecuador/tena/",
-        "/ecuador/amazon-lodges/"
+        "/ecuador/amazon-lodges/",
+        "/ecuador/blog/best-amazon-lodges-in-ecuador/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
+      "count": 5,
+      "routes": [
+        "/ecuador/3-day-amazon-tour/",
+        "/ecuador/best-time-to-visit-the-ecuador-amazon/",
+        "/ecuador/yasuni/",
+        "/ecuador/amazon-lodges/",
+        "/ecuador/blog/how-many-days-do-you-need-in-the-ecuador-amazon/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/puyo-palms.jpg",
+      "count": 5,
+      "routes": [
+        "/ecuador/5-day-amazon-tour/",
+        "/ecuador/puyo/",
+        "/ecuador/amazon-lodges/",
+        "/ecuador/amazon-canoe-tour/",
+        "/ecuador/blog/how-many-days-do-you-need-in-the-ecuador-amazon/"
       ]
     },
     {
@@ -36,16 +59,6 @@
       ]
     },
     {
-      "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
-      "count": 4,
-      "routes": [
-        "/ecuador/3-day-amazon-tour/",
-        "/ecuador/best-time-to-visit-the-ecuador-amazon/",
-        "/ecuador/yasuni/",
-        "/ecuador/amazon-lodges/"
-      ]
-    },
-    {
       "src": "/assets/images/ecuador/tena-river-faessler.jpg",
       "count": 4,
       "routes": [
@@ -56,13 +69,12 @@
       ]
     },
     {
-      "src": "/assets/images/ecuador/puyo-palms.jpg",
-      "count": 4,
+      "src": "/assets/images/ecuador/misahualli-boat.jpg",
+      "count": 3,
       "routes": [
-        "/ecuador/5-day-amazon-tour/",
-        "/ecuador/puyo/",
-        "/ecuador/amazon-lodges/",
-        "/ecuador/amazon-canoe-tour/"
+        "/ecuador/",
+        "/ecuador/misahualli/",
+        "/ecuador/blog/best-amazon-lodges-in-ecuador/"
       ]
     },
     {
@@ -72,6 +84,15 @@
         "/ecuador/amazon-wildlife-tour/",
         "/ecuador/tena/",
         "/ecuador/amazon-tours-from-quito/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg",
+      "count": 3,
+      "routes": [
+        "/ecuador/best-time-to-visit-the-ecuador-amazon/",
+        "/ecuador/amazon-birdwatching-tour/",
+        "/ecuador/blog/how-many-days-do-you-need-in-the-ecuador-amazon/"
       ]
     },
     {
@@ -111,20 +132,21 @@
       ]
     },
     {
+      "src": "/assets/images/ecuador/yasuni-swallows.jpg",
+      "count": 3,
+      "routes": [
+        "/ecuador/5-day-amazon-tour/",
+        "/ecuador/amazon-birdwatching-tour/",
+        "/ecuador/blog/best-amazon-lodges-in-ecuador/"
+      ]
+    },
+    {
       "src": "/assets/images/ecuador/yasuni-manakin.jpg",
       "count": 3,
       "routes": [
         "/ecuador/blog/",
         "/ecuador/amazon-birdwatching-tour/",
         "/ecuador/amazon-vs-galapagos/"
-      ]
-    },
-    {
-      "src": "/assets/images/ecuador/misahualli-boat.jpg",
-      "count": 2,
-      "routes": [
-        "/ecuador/",
-        "/ecuador/misahualli/"
       ]
     },
     {
@@ -141,14 +163,6 @@
       "routes": [
         "/ecuador/amazon-wildlife-tour/",
         "/ecuador/3-day-amazon-tour/"
-      ]
-    },
-    {
-      "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg",
-      "count": 2,
-      "routes": [
-        "/ecuador/best-time-to-visit-the-ecuador-amazon/",
-        "/ecuador/amazon-birdwatching-tour/"
       ]
     },
     {
@@ -173,14 +187,6 @@
       "routes": [
         "/ecuador/cuyabeno/",
         "/ecuador/faqs/"
-      ]
-    },
-    {
-      "src": "/assets/images/ecuador/yasuni-swallows.jpg",
-      "count": 2,
-      "routes": [
-        "/ecuador/5-day-amazon-tour/",
-        "/ecuador/amazon-birdwatching-tour/"
       ]
     },
     {
