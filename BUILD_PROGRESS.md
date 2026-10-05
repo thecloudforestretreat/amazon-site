@@ -61,3 +61,7 @@ Cuyabeno EN/ES deployed to the Cloudflare staging project, deployment `b3fc70de`
 ### Responsive design revision
 
 Deployed `936e17a9`: numbered guide cards with short previews and expandable details, simplified overview, responsive navigation, and fact-label alignment using flex value areas and equal label space. Full bilingual planning text remains available. Build, 24-page validation and content audit pass. Browser visual inspection remains blocked by the admin-policy check; owner review and desktop/mobile verification remain pending.
+
+### Open-card design preview
+
+Deployed `dc7e1aec` to staging. Replaced guide and overview expanders with visible curated content. Added the licensed Cuyabeno landscape photo section, wildlife panel, three trip-duration cards and destination comparison links. Only FAQs use accordions. Responsive layouts use stacked cards below 700px. EN 1,651 / ES 1,778 main words; build, 24-page validation and content audit pass. Visual verification and owner review remain pending. No new worker inference needed: reused reviewed source content.

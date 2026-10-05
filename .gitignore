@@ -4,3 +4,5 @@ dist/
 __pycache__/
 planning/ai-os/installation/cli-before.py
 planning/ai-os/runs/worker.lock
+
+.wrangler/
