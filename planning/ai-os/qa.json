@@ -4,9 +4,9 @@
   "pages": {
     "en": {
       "route": "/ecuador/cuyabeno/",
-      "main_words": 1178,
+      "main_words": 1188,
       "word_count_scope": "Main content excluding guide navigation",
-      "html_sha256": "c25b60c18962037bdf2c49f5edd0bf442b071473c5c860e2bb65c6d5f10f7fb5",
+      "html_sha256": "06d844b214b162ea73f12b0a278a875da98b649895f6be96196991290b7f2946",
       "signals": {
         "title": "Cuyabeno Travel Guide | Wildlife, Lodges and Trip Planning",
         "meta_description": "Compare Cuyabeno lodges, canoe-based wildlife experiences, access from Quito, trip length and practical planning considerations.",
@@ -52,21 +52,21 @@
           "/privacy-policy/",
           "/terms/"
         ],
-        "word_count": 1402,
+        "word_count": 1411,
         "question_heading_count": 3,
         "cta_link_count": 5,
         "document_language": "en",
-        "image_count": 4,
+        "image_count": 5,
         "missing_alt_count": 0,
         "unlabelled_control_count": 0,
-        "visible_text_sha256": "bb4ee28ba09d615e39d0f610ab5cf34f996756a8f756501142b9f64bc9615f7f"
+        "visible_text_sha256": "790aa4a41fca49dd5205d0ad9ac8a9b8f70d5b412830a847448ac77a500288c7"
       }
     },
     "es": {
       "route": "/es/ecuador/cuyabeno/",
-      "main_words": 1266,
+      "main_words": 1276,
       "word_count_scope": "Main content excluding guide navigation",
-      "html_sha256": "1c15d1573f4e54cfa29a2026fde072ebe6357efb5a2b90692b3f37ea54f388f9",
+      "html_sha256": "cbc432f6d1fd4d9f53f41f717a61437780966f85e7cda958c9e708bf41329d41",
       "signals": {
         "title": "Guía de Cuyabeno | Fauna, Lodges y Planificación",
         "meta_description": "Compara lodges de Cuyabeno, experiencias de fauna en canoa, acceso desde Quito, duración y factores prácticos.",
@@ -112,14 +112,14 @@
           "/es/politica-de-privacidad/",
           "/es/terminos/"
         ],
-        "word_count": 1485,
+        "word_count": 1494,
         "question_heading_count": 3,
         "cta_link_count": 5,
         "document_language": "es",
-        "image_count": 4,
+        "image_count": 5,
         "missing_alt_count": 0,
         "unlabelled_control_count": 0,
-        "visible_text_sha256": "f29c2bc441eeb1759873f0899641ed7da1613aac6b6787ede54aced5e6b8c5e8"
+        "visible_text_sha256": "bc2c51fd2300e7ef700ea467bdf5ba5eac2316b2f39dd08278ea34c508dd9c12"
       }
     }
   },

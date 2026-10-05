@@ -25,6 +25,10 @@ const routes = new Set(htmlFiles.map((file) => {
 for (const file of htmlFiles) {
   const html = await readFile(file, "utf8");
   const relative = path.relative(outputDir, file);
+  const main = html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/)?.[1] || '';
+  const photos = Array.from(main.matchAll(/<img\b[^>]*src="([^"]+)"/g), match => match[1].split(/[?#]/)[0]);
+  if (new Set(photos).size !== photos.length) errors.push(`${relative}: repeated content image`);
+
   const required = ["<html lang=", "<title>", "rel=\"canonical\"", "hreflang=\"en\"", "hreflang=\"es\"", "<header", "<footer"];
   for (const token of required) if (!html.includes(token)) errors.push(`${relative}: missing ${token}`);
   if (/{{ETA_[A-Z_]+}}/.test(html)) errors.push(`${relative}: unresolved template token`);

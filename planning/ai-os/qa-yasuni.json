@@ -4,9 +4,9 @@
   "pages": {
     "en": {
       "route": "/ecuador/yasuni/",
-      "main_words": 1151,
+      "main_words": 1145,
       "word_count_scope": "Main content excluding guide navigation",
-      "html_sha256": "bc7374c9732a3a8da26d7aa94de769ca5655b573df298dbb154a089a0f0c911a",
+      "html_sha256": "993aec182464f77af6d489b9177469af0bb1e54e1df9313fc1d80b43e3381e4c",
       "signals": {
         "title": "Yasuní Ecuador Travel Guide | Lodges, Wildlife and Access",
         "meta_description": "Plan a Yasuní Amazon trip with practical guidance on Napo River access, lodge styles, wildlife expectations, trip length and who this remote region suits.",
@@ -52,21 +52,21 @@
           "/privacy-policy/",
           "/terms/"
         ],
-        "word_count": 1375,
+        "word_count": 1369,
         "question_heading_count": 3,
         "cta_link_count": 5,
         "document_language": "en",
         "image_count": 5,
         "missing_alt_count": 0,
         "unlabelled_control_count": 0,
-        "visible_text_sha256": "82394d0d24fb0a1892c9531aad04ad2616741a7f26d75888dcecbffb2a4e5db8"
+        "visible_text_sha256": "ab6f4a7c04a165cb77c4981dd70b0a1fb748e6dcd4b6bce3b8dc8a78eb64f605"
       }
     },
     "es": {
       "route": "/es/ecuador/yasuni/",
-      "main_words": 1185,
+      "main_words": 1179,
       "word_count_scope": "Main content excluding guide navigation",
-      "html_sha256": "55aef9c5386f4fbc0f83b69ee6b67436f61f5e66832da16cd0ecf2bf7c7ea610",
+      "html_sha256": "80c56b150f909a8194f15dea478b2f56c6058895a2524e7d2d45876aed550e67",
       "signals": {
         "title": "Guía de Yasuní Ecuador | Lodges, Fauna y Acceso",
         "meta_description": "Planifica un viaje a Yasuní con orientación sobre acceso por el Napo, tipos de lodge, fauna, duración y perfil de viajero.",
@@ -112,14 +112,14 @@
           "/es/politica-de-privacidad/",
           "/es/terminos/"
         ],
-        "word_count": 1408,
+        "word_count": 1402,
         "question_heading_count": 3,
         "cta_link_count": 5,
         "document_language": "es",
         "image_count": 5,
         "missing_alt_count": 0,
         "unlabelled_control_count": 0,
-        "visible_text_sha256": "62b320ff12fda8139e7963a7222dc44c596b0cc31857f3cc0e108ccdb4da662f"
+        "visible_text_sha256": "5a1d762973b356884eb1fc4b00d375ba52ff2427c4234e35154265a3c7358eea"
       }
     }
   },

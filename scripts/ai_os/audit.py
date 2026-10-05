@@ -46,7 +46,7 @@ def audit(slug='cuyabeno'):
                 if main.count('src="'+photo+'"')!=1: errors.append('Destination photo missing or repeated: '+photo)
                 if not (ROOT/'dist'/photo.lstrip('/')).is_file(): errors.append('Missing supporting photo asset')
             for scene in destination['sectionImages']:
-                if scene['source'] not in main or scene['licenseUrl'] not in main: errors.append('Supporting photo attribution incomplete')
+                if scene['source'] not in main or (scene.get('licenseUrl') and scene['licenseUrl'] not in main): errors.append('Supporting photo attribution incomplete')
 
         for href in re.findall(r'href="(#[^"]+)"',html):
             if f'id="{href[1:]}"' not in html: errors.append('Broken page fragment '+href)

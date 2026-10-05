@@ -4,9 +4,9 @@
   "pages": {
     "en": {
       "route": "/ecuador/tena/",
-      "main_words": 1360,
+      "main_words": 1356,
       "word_count_scope": "Main content excluding guide navigation",
-      "html_sha256": "28273a265151c1bbeeaaa6e3ccec0e676c0262426eea4762bb981263a87146e8",
+      "html_sha256": "4eca9d6a479a276014bf532a5bf3ea63087a4d6f15708b2598abdfdde91ee221",
       "signals": {
         "title": "Tena Amazon Travel Guide | Ecuador Jungle Trips",
         "meta_description": "Plan an Amazon trip from Tena with guidance on access, lodges, river activities, culture, wildlife expectations and ideal trip length.",
@@ -52,21 +52,21 @@
           "/privacy-policy/",
           "/terms/"
         ],
-        "word_count": 1602,
+        "word_count": 1598,
         "question_heading_count": 3,
         "cta_link_count": 5,
         "document_language": "en",
         "image_count": 5,
         "missing_alt_count": 0,
         "unlabelled_control_count": 0,
-        "visible_text_sha256": "b1687721ce6276989d4065e52f6ef65e8637f8fe627fc5eef583708b769df43d"
+        "visible_text_sha256": "280559090500e696f970a20a309d2a69c1abdcb04de2fb36d65e4d30f77a7e5d"
       }
     },
     "es": {
       "route": "/es/ecuador/tena/",
-      "main_words": 1255,
+      "main_words": 1251,
       "word_count_scope": "Main content excluding guide navigation",
-      "html_sha256": "ee65c2d04c85b622871038802f09cd3c72a1ef06edaa43cae04675912526af17",
+      "html_sha256": "a96ab9a67871d6a7999ad090d2712365572aed2be6d7680c7075c1574669b618",
       "signals": {
         "title": "Guía de Tena Amazonía | Selva y Aventura en Ecuador",
         "meta_description": "Planifica un viaje amazónico desde Tena con información de acceso, lodges, ríos, cultura, fauna y duración.",
@@ -112,14 +112,14 @@
           "/es/politica-de-privacidad/",
           "/es/terminos/"
         ],
-        "word_count": 1491,
+        "word_count": 1487,
         "question_heading_count": 3,
         "cta_link_count": 5,
         "document_language": "es",
         "image_count": 5,
         "missing_alt_count": 0,
         "unlabelled_control_count": 0,
-        "visible_text_sha256": "9a636ab38b636477fe7425f27a05007f47813664d1bf618ec3ecac7263ee2d7b"
+        "visible_text_sha256": "627711a3b0746e5aaf973da3efaa0b9803016694181b758ff9ffaa12d6e9ed13"
       }
     }
   },

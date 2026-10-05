@@ -947,7 +947,31 @@
       "height": 1063
     },
     "imageWidth": 1800,
-    "imageHeight": 1497
+    "imageHeight": 1497,
+    "sectionImages": [
+      {
+        "src": "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg",
+        "altEn": "Thatched shelter beside forest-lined water in Cuyabeno, Ecuador",
+        "altEs": "Refugio con techo de paja junto al agua y al bosque en Cuyabeno, Ecuador",
+        "credit": "Constanza S. Mora / Unsplash",
+        "source": "https://unsplash.com/photos/a-hut-in-the-middle-of-a-lake-surrounded-by-trees-llqblcGrnZE",
+        "width": 1600,
+        "height": 1063,
+        "section": 0
+      },
+      {
+        "section": 4,
+        "src": "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
+        "width": 1399,
+        "height": 1400,
+        "altEn": "Green tree frog photographed in Cuyabeno, Ecuador",
+        "altEs": "Rana arborícola verde fotografiada en Cuyabeno, Ecuador",
+        "source": "https://commons.wikimedia.org/wiki/File:Hypsiboas_cinerascens_in_Cuyabeno,_Ecuador.jpg",
+        "credit": "Javier Ábalos Alvarez",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+      }
+    ]
   },
   {
     "pairId": "pair_006",
