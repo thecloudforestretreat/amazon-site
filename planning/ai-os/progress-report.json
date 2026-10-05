@@ -4,8 +4,8 @@
   "prepared_pairs": 1,
   "completed_deployed_pairs": 0,
   "content": {
-    "en_main_words": 1652,
-    "es_main_words": 1779,
+    "en_main_words": 1176,
+    "es_main_words": 1265,
     "sections_per_language": 10,
     "faqs_per_language": 6,
     "editorial_review": "passed"
@@ -24,7 +24,7 @@
     "ai_os_model_routing_tests": 4,
     "ai_os_core_checks": "9/9",
     "visual_review": "blocked",
-    "deployment": "passed: 967b1d49"
+    "deployment": "passed: c04c7e71"
   },
   "opportunities": [
     {
@@ -91,5 +91,5 @@
   "next_batch": "Yasuni + Tena after the pilot passes all completion gates",
   "git_status": "Committed locally, not pushed",
   "deployed_pairs_pending_visual_review": 1,
-  "design_revision": "Frameless hero photo with 24px desktop / 20px mobile corners, subtle image shadow and separate credit; versioned CSS. Visual review pending."
+  "design_revision": "Curated concise bilingual display copy, stronger hero story, primary and secondary CTA hierarchy, readable FAQs and mobile actions. Original long source paragraphs retained. Editorial length floor adjusted from 1500 to 1000 for owner-requested concise design, with coverage checks retained. Visual verification pending."
 }

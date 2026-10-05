@@ -85,3 +85,7 @@ Deployed `34aa8cf5`. All compiled local CSS links now include SHA-256 content ve
 ### Frameless hero refinement
 
 Deployed `967b1d49`: removed white frame, border and inset padding; rounded the photograph itself (24px desktop / 20px mobile), with subtle shadow and separate credit. CSS content versions updated automatically. Build, 24-page validation and content audit pass; visual review remains pending.
+
+### Editorial and interaction polish
+
+Deployed `c04c7e71`: curated bilingual display copy replaces sentence extraction. Stronger hero narrative, one primary action per CTA area, quieter secondary links, improved FAQ spacing and mobile buttons. Original long paragraphs retained in source. EN 1,176 / ES 1,265 main words. Editorial word-count minimum adjusted from 1,500 to 1,000 to reflect owner-requested concision; section/schema/image/link checks retained. Build, 24-page validation and audit pass. No new inference used; visual and owner sign-off pending.

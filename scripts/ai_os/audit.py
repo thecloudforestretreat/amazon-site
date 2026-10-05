@@ -29,7 +29,7 @@ def audit():
         reading_content=re.sub(r'<aside\b[^>]*>.*?</aside>','',main,flags=re.S)
         visible=unescape(re.sub(r'<[^>]+>',' ',reading_content))
         words=len(re.findall(r'\S+',visible))
-        if words<1500 or words>2400: errors.append('Main content outside editorial range')
+        if words<1000 or words>2400: errors.append('Main content outside editorial range')
         schemas=[json.loads(x) for x in re.findall(r'<script type="application/ld\+json">(.*?)</script>',html,re.S)]
         faq=next(x for schema in schemas for x in schema.get('@graph',[]) if x['@type']=='FAQPage')
         schema_faqs=[[x['name'],x['acceptedAnswer']['text']] for x in faq['mainEntity']]

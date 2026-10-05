@@ -74,3 +74,14 @@
 @media(max-width:840px){.eta-guide-landscape .eta-guide-photo{order:0}.eta-destination-page .eta-country-art--licensed img{aspect-ratio:3/2}}
 
 @media(max-width:600px){.eta-destination-page .eta-country-art--licensed img{border-radius:20px}}
+
+/* Final polish: calmer secondary actions and readable FAQ rhythm. */
+.eta-destination-page .eta-quiet-link{display:inline-flex;align-items:center;gap:10px;min-height:44px;padding:8px 2px;font-weight:700;color:var(--eta-forest-700);text-decoration:underline;text-underline-offset:5px;font-size:1rem}
+.eta-destination-page .eta-quiet-link::after{content:'→';font-weight:400}
+.eta-destination-page .eta-guide-points{gap:16px}
+.eta-destination-page .eta-stack details{padding:20px 0;border-bottom:1px solid var(--eta-line)}
+.eta-destination-page .eta-stack details+details{margin-top:0}
+.eta-destination-page .eta-stack summary{cursor:pointer;min-height:44px;font-weight:700;line-height:1.5;padding-right:12px}
+.eta-destination-page .eta-stack details p{margin:16px 0 0;color:var(--eta-muted);line-height:1.7;max-width:70ch}
+.eta-destination-page .eta-trust-strip>p:not(.eta-kicker){max-width:62ch;margin-inline:auto}
+@media(max-width:700px){.eta-destination-page .eta-actions{gap:12px 20px}.eta-destination-page .eta-country-hero .eta-button{width:100%;justify-content:center}.eta-destination-page .eta-country-hero .eta-quiet-link{justify-content:center;width:100%}}
