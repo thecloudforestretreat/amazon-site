@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-05",
+  "deployment": "7c17d480",
+  "routes": {
+    "access_en": "https://staging.experiencetheamazon.com/ecuador/how-to-get-to-the-ecuador-amazon/?review=7c17d480",
+    "access_es": "https://staging.experiencetheamazon.com/es/ecuador/como-llegar-a-la-amazonia-ecuatoriana/?review=7c17d480",
+    "packing_en": "https://staging.experiencetheamazon.com/ecuador/what-to-pack-for-the-amazon/?review=7c17d480",
+    "packing_es": "https://staging.experiencetheamazon.com/es/ecuador/que-llevar-a-la-amazonia/?review=7c17d480"
+  },
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "width": 390,
+      "height": 844
+    }
+  ],
+  "status": "initial_responsive_review_passed_full_page_audit_pending",
+  "observed": [
+    "All four route titles and hero layouts verified",
+    "Packing EN/ES desktop starter grid inspected; EN mobile checklist inspected",
+    "EN packing hamburger opens/closes with no horizontal overflow",
+    "Sticky header top 0 observed on mobile and desktop scroll",
+    "Spanish packing FAQ opens and closes with Enter",
+    "Access desktop and Spanish mobile cards inspected"
+  ],
+  "screenshots": [
+    "planning/ai-os/evidence/logistics-amazon-access-mobile.png",
+    "planning/ai-os/evidence/logistics-amazon-packing-es-desktop.png",
+    "planning/ai-os/evidence/logistics-amazon-access-es-mobile.png",
+    "planning/ai-os/evidence/logistics-amazon-access-es-desktop.png",
+    "planning/ai-os/evidence/logistics-amazon-packing-desktop.png",
+    "planning/ai-os/evidence/logistics-amazon-packing-es-mobile.png",
+    "planning/ai-os/evidence/logistics-amazon-packing-mobile.png",
+    "planning/ai-os/evidence/logistics-amazon-access-desktop.png"
+  ],
+  "limitations": [
+    "Not a complete accessibility or performance audit",
+    "Lazy image load completion and full-page interaction audit still required",
+    "Ten earlier deployed pairs still await live visual catch-up"
+  ]
+}

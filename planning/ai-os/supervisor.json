@@ -30,7 +30,9 @@
     "pair_016",
     "pair_017",
     "pair_018",
-    "pair_019"
+    "pair_019",
+    "pair_020",
+    "pair_021"
   ],
   "completion_requires": [
     "Editorial and bilingual review",
@@ -43,10 +45,6 @@
     {
       "code": "git_push_approval",
       "detail": "Automatic approval review rejected GitHub data egress; explicit owner approval for the staged source and workflow records is pending."
-    },
-    {
-      "code": "browser_policy",
-      "detail": "Current browser access refused because admin-enforced policy could not be verified; desktop/mobile review pending"
     }
   ],
   "source_of_truth": {
@@ -60,19 +58,18 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review of canoe/best-time EN/ES previews",
-    "Live desktop/mobile checks after browser policy verification is restored",
-    "Full accessibility, performance and contact delivery remain pending"
+    "Owner review of access and packing previews",
+    "Complete full-page visual catch-up and launch checks"
   ],
   "future_batches": [
-    "Next two sitemap pairs after owner review: how-to-get-to-the-ecuador-amazon, what-to-pack-for-the-amazon"
+    "Safety and Amazon versus Galapagos after owner review"
   ],
   "notification_policy": "Meaningful change, verified completion, failure or required user action only",
   "pilot_status": "deployed_initial_browser_checks_pass_full_qa_pending",
   "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
   "next_batch_candidates": [
-    "how-to-get-to-the-ecuador-amazon",
-    "what-to-pack-for-the-amazon"
+    "is-the-ecuador-amazon-safe",
+    "amazon-vs-galapagos"
   ],
   "local_worker_run_complete": true,
   "git_status": "Committed locally; remote push blocked by automatic approval review",
@@ -82,10 +79,10 @@
     "scope": "Owner explicitly authorized staging release and proceeding on October 5; pending visual checks stay recorded"
   },
   "deployment": {
-    "id": "721b3770",
+    "id": "7c17d480",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://721b3770.amazon-site-staging.pages.dev",
+    "url": "https://7c17d480.amazon-site-staging.pages.dev",
     "protected_domain_check": "302 Cloudflare Access login",
     "date": "2026-10-05"
   },
@@ -109,23 +106,53 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "canoe-format",
-    "season-planning"
+    "access-planning",
+    "packing-planning"
   ],
-  "batch_status": "deployed_technical_and_asset_review_pass_live_visual_pending",
+  "batch_status": "Access and packing EN/ES deployed; editorial, technical, image-asset and initial responsive checks pass; full QA pending",
   "batch_browser_checks": {
     "date": "2026-10-05",
-    "deployment": "721b3770",
-    "pairs": [
-      "pair_018",
-      "pair_019"
+    "deployment": "7c17d480",
+    "routes": {
+      "access_en": "https://staging.experiencetheamazon.com/ecuador/how-to-get-to-the-ecuador-amazon/?review=7c17d480",
+      "access_es": "https://staging.experiencetheamazon.com/es/ecuador/como-llegar-a-la-amazonia-ecuatoriana/?review=7c17d480",
+      "packing_en": "https://staging.experiencetheamazon.com/ecuador/what-to-pack-for-the-amazon/?review=7c17d480",
+      "packing_es": "https://staging.experiencetheamazon.com/es/ecuador/que-llevar-a-la-amazonia/?review=7c17d480"
+    },
+    "viewports": [
+      {
+        "width": 1440,
+        "height": 1000
+      },
+      {
+        "width": 390,
+        "height": 844
+      }
     ],
-    "status": "pending",
-    "reason": "Browser policy check unavailable",
-    "technical_validation": "44 HTML pages and 24 hub/format audits pass",
-    "photo_asset_visual_review": "Six distinct regional scenes inspected, including new Cuyabeno canoe photograph",
-    "rotation_check": "No images from previous two batches; no duplicate scene/source/file within this batch",
-    "protected_domain_unauthenticated_status": 302
+    "status": "initial_responsive_review_passed_full_page_audit_pending",
+    "observed": [
+      "All four route titles and hero layouts verified",
+      "Packing EN/ES desktop starter grid inspected; EN mobile checklist inspected",
+      "EN packing hamburger opens/closes with no horizontal overflow",
+      "Sticky header top 0 observed on mobile and desktop scroll",
+      "Spanish packing FAQ opens and closes with Enter",
+      "Access desktop and Spanish mobile cards inspected"
+    ],
+    "screenshots": [
+      "planning/ai-os/evidence/logistics-amazon-access-mobile.png",
+      "planning/ai-os/evidence/logistics-amazon-packing-es-desktop.png",
+      "planning/ai-os/evidence/logistics-amazon-access-es-mobile.png",
+      "planning/ai-os/evidence/logistics-amazon-access-es-desktop.png",
+      "planning/ai-os/evidence/logistics-amazon-packing-desktop.png",
+      "planning/ai-os/evidence/logistics-amazon-packing-es-mobile.png",
+      "planning/ai-os/evidence/logistics-amazon-packing-mobile.png",
+      "planning/ai-os/evidence/logistics-amazon-access-desktop.png"
+    ],
+    "limitations": [
+      "Not a complete accessibility or performance audit",
+      "Lazy image load completion and full-page interaction audit still required",
+      "Ten earlier deployed pairs still await live visual catch-up"
+    ]
   },
   "template": {
     "photos_per_page": 3,

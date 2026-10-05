@@ -90,3 +90,7 @@ Existing Tena canopy photo by Patricio Gaibor / Unsplash reused in wildlife EN/E
 `cuyabeno-canoe-river.jpg`: Hanspeter Bellers; source https://commons.wikimedia.org/wiki/File:Kanutourismus_R%C3%ADo_Cuyabeno,_Ecuador.jpg identifies canoe tourism on Río Cuyabeno, Ecuador. CC BY-SA 4.0, maintained for resized rendition; source/creator/license links and Edited/Adaptada disclosure on EN/ES canoe pages. Anonymous visitors from behind; scene visually inspected. Source HTML, dimensions and hash retained in activity-image-acquisition.json.
 
 Rejected `Canoe on a still lake (37634281976).jpg`: source places it at Laguna Yahuarcocha in Imbabura, outside the Amazon. Retained rejection evidence under planning; excluded from deployed assets. Other five cleared scenes: Yasuní oxbow, Puyo palms, Yasuní sunset, Tena forest and Cuyabeno frog. Six unique scenes, no repeated image within a page, no overlap with preceding two batches.
+
+## Logistics batch — October 5, 2026
+
+`misahualli-napo-bridge.jpg`: Arabsalam, CC BY-SA 4.0, source https://commons.wikimedia.org/wiki/File:Misahuall%C3%AD_Ecuador_1061.jpg . Ecuador Napo/Misahuallí location and visual reviewed; resized derivative retains license, creator/source attribution and Edited/Adaptada caption. Source evidence saved. Five earlier approved scenes reused with no overlap with prior two batches and no repetition within each page. Coca town photo excluded due to dated operator branding; retained only as review evidence, not deployed.

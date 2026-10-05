@@ -1,0 +1,33 @@
+{
+  "status": "Access and packing EN/ES deployed; editorial, technical, image-asset and initial responsive checks pass; full QA pending",
+  "deployment": "7c17d480",
+  "pairs": [
+    "pair_020",
+    "pair_021"
+  ],
+  "preview_links": {
+    "access_en": "https://staging.experiencetheamazon.com/ecuador/how-to-get-to-the-ecuador-amazon/?review=7c17d480",
+    "access_es": "https://staging.experiencetheamazon.com/es/ecuador/como-llegar-a-la-amazonia-ecuatoriana/?review=7c17d480",
+    "packing_en": "https://staging.experiencetheamazon.com/ecuador/what-to-pack-for-the-amazon/?review=7c17d480",
+    "packing_es": "https://staging.experiencetheamazon.com/es/ecuador/que-llevar-a-la-amazonia/?review=7c17d480"
+  },
+  "usage": {
+    "requests": 2,
+    "measured_requests": 2,
+    "prompt_tokens": 344,
+    "output_tokens": 1883,
+    "measured_tokens": 2227,
+    "seconds_measured": 81.74,
+    "cache_hits": 0,
+    "inference_retries": 0,
+    "schema_failures": 0,
+    "cloud_worker_tokens": 0
+  },
+  "qa": "planning/ai-os/evidence/logistics-browser-qa.json",
+  "rollback": {
+    "previous_deployment": "721b3770",
+    "previous_commit": "dac8ff3",
+    "branch": "staging",
+    "production_modified": false
+  }
+}

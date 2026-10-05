@@ -1,9 +1,9 @@
 {
   "date": "2026-10-05",
-  "status": "Canoe and best-time EN/ES deployed; editorial, technical and photo-asset checks pass; live visual pending",
+  "status": "Access and packing EN/ES deployed; editorial, technical, image-asset and initial responsive checks pass; full QA pending",
   "active_batch": [
-    "pair_018",
-    "pair_019"
+    "pair_020",
+    "pair_021"
   ],
   "staging_polished_pairs": [
     "pair_003",
@@ -21,32 +21,29 @@
     "site_polished_in_this_workflow": 7,
     "site_baseline_pairs": 40,
     "site_polished_workflow_percent": 17.5,
-    "site_built_including_scaffolds": 22,
-    "site_built_including_scaffolds_percent": 55,
+    "site_built_including_scaffolds": 24,
+    "site_built_including_scaffolds_percent": 60,
     "final_eight_country_completion_percent": null,
     "reason": "Current 40-pair baseline lacks complete Guyana/Suriname/Venezuela architectures; scaffold count is not launch completion",
-    "ecuador_content_prepared_pairs": 17,
-    "ecuador_content_prepared_percent": 50,
-    "ecuador_visual_review_pending_pairs": 10,
-    "ecuador_content_deployed_pairs": 17,
-    "ecuador_content_deployed_percent": 50,
-    "site_built_locally_including_scaffolds": 22,
-    "site_built_locally_including_scaffolds_percent": 55
+    "ecuador_content_prepared_pairs": 19,
+    "ecuador_content_prepared_percent": 55.9,
+    "ecuador_visual_review_pending_pairs": 12,
+    "ecuador_content_deployed_pairs": 19,
+    "ecuador_content_deployed_percent": 55.9,
+    "site_built_locally_including_scaffolds": 24,
+    "site_built_locally_including_scaffolds_percent": 60
   },
   "local_usage_this_batch": {
     "requests": 2,
-    "measured_requests": 1,
-    "prompt_tokens": 136,
-    "output_tokens": 872,
-    "measured_tokens": 1008,
-    "seconds_measured": 34.98,
-    "cache_hits": 1,
+    "measured_requests": 2,
+    "prompt_tokens": 344,
+    "output_tokens": 1883,
+    "measured_tokens": 2227,
+    "seconds_measured": 81.74,
+    "cache_hits": 0,
     "inference_retries": 0,
-    "blocked_before_inference_attempts": 1,
-    "schema_failures": 1,
-    "unmeasured_requests": 1,
-    "cloud_worker_tokens": 0,
-    "limitation": "Canoe response metrics were lost when field-name validation failed; preserved raw draft, normalized fields without re-inference. Worker now saves metrics before validation and strict schema is regression-tested."
+    "schema_failures": 0,
+    "cloud_worker_tokens": 0
   },
   "llm_share": {
     "unit": "Initial bounded question-drafting requests in this batch only",
@@ -55,30 +52,30 @@
     "overall_local_token_percent": null,
     "overall_cloud_token_percent": null,
     "cloud_supervision_tokens": "Not exposed by this session",
-    "editorial_note": "100% of two initial question-draft calls ran locally. Supervisor corrected questions, wrote bilingual intros/body/FAQ, sourced climate context, built pages, reviewed photos, ran checks and deployed. Overall token/work share unavailable; one local response has missing usage metrics."
+    "editorial_note": "Both bounded initial question-draft requests ran locally. Supervisor wrote substantial bilingual body/intro/FAQ, reviewed local questions, sourced photos/facts, built, deployed and tested. Overall cloud/local token and work shares are unavailable."
   },
   "measured_local_cumulative": {
-    "requests": 20,
-    "prompt_tokens": 14800,
-    "output_tokens": 54167,
-    "total_tokens": 68967,
-    "basis": "Prior 18-call measured aggregate plus measured seasonal call; canoe response counts lost on schema failure",
+    "requests": 22,
+    "prompt_tokens": 15144,
+    "output_tokens": 56050,
+    "total_tokens": 71194,
+    "basis": "Prior measured aggregate plus two logistics calls; historic canoe call remains unmeasured",
     "cloud_supervision_excluded": true,
-    "measured_requests": 19,
+    "measured_requests": 21,
     "unmeasured_requests": 1,
     "token_total_is_lower_bound": true
   },
   "opportunities_and_improvements": [
-    "Reduced local role from bilingual prose to bounded booking questions after repeated editorial rewrites; supervisor still supplies substantial prose. No overall token-savings claim",
-    "Observed translated JSON keys: normalized saved canoe fields without another inference; subsequent call uses strict JSON schema",
-    "Observed usage lost during schema failure: worker now saves metrics before parsing/validation, tested with an intentionally malformed response; lock closes on failure",
-    "Rejected a licensed canoe photo because source places it in Imbabura outside the Amazon; new Cuyabeno canoe image and five cleared earlier scenes have zero overlap with last two batches",
-    "Seasonal guidance uses reviewed official climate context and current-information links; no invented monthly calendar, water levels or wildlife guarantees"
+    "Strict schema and metrics-before-validation worked on both calls without retry",
+    "Observed Spanish usted/plural voice: corrected to tú and added regression-tested editorial warning",
+    "Added scoped responsive packing checklist with aligned desktop descriptions",
+    "Excluded dated Coca photo with operator branding; approved new Misahuallí scene; six unique scenes with no overlap with prior two batches",
+    "Browser access restored; initial live responsive review now possible; full-page catch-up remains queued"
   ],
   "verification": {
-    "static": "44 compiled HTML pages, 24 hub/format audits, 4 observed-failure tests, 3 draft-schema tests, 1 worker failure/metrics regression and image-rotation regressions pass",
-    "visual": "Six individual image scenes reviewed; live desktop/mobile checks blocked by browser security-policy verification",
-    "photos": "Six distinct scenes: one new Cuyabeno canoe photo and five earlier cleared regional photos; no overlap with last two batches",
+    "static": "48 compiled HTML pages, 28 hub/format audits, 5 editorial gate tests, 3 schema tests, 1 worker failure regression and image rotation checks pass",
+    "visual": "initial_responsive_review_passed_full_page_audit_pending",
+    "photos": "Six distinct geographically reviewed scenes, no duplicate within page/batch; new CC BY-SA 4.0 Misahuallí scene",
     "protected_domain_unauthenticated_status": 302,
     "launch_checks_pending": [
       "Full accessibility",
@@ -87,19 +84,19 @@
     ]
   },
   "rollback": {
-    "previous_deployment": "cbd80db7",
-    "previous_commit": "56f1247",
+    "previous_deployment": "721b3770",
+    "previous_commit": "dac8ff3",
     "branch": "staging",
     "production_modified": false
   },
-  "next": "Owner preview review; next candidates are how-to-get-there and packing guides",
+  "next": "Owner preview review; next candidates: safety and Amazon versus Galapagos",
   "other_countries": "Peru, Brazil, Colombia, Bolivia, Guyana, Suriname and Venezuela: no polished country clusters in this workflow",
-  "deployment": "721b3770",
+  "deployment": "7c17d480",
   "preview_links": {
-    "canoe_en": "https://staging.experiencetheamazon.com/ecuador/amazon-canoe-tour/?review=721b3770",
-    "canoe_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-en-canoa-por-la-amazonia/?review=721b3770",
-    "best_time_en": "https://staging.experiencetheamazon.com/ecuador/best-time-to-visit-the-ecuador-amazon/?review=721b3770",
-    "best_time_es": "https://staging.experiencetheamazon.com/es/ecuador/mejor-epoca-para-visitar-la-amazonia-ecuatoriana/?review=721b3770"
+    "access_en": "https://staging.experiencetheamazon.com/ecuador/how-to-get-to-the-ecuador-amazon/?review=7c17d480",
+    "access_es": "https://staging.experiencetheamazon.com/es/ecuador/como-llegar-a-la-amazonia-ecuatoriana/?review=7c17d480",
+    "packing_en": "https://staging.experiencetheamazon.com/ecuador/what-to-pack-for-the-amazon/?review=7c17d480",
+    "packing_es": "https://staging.experiencetheamazon.com/es/ecuador/que-llevar-a-la-amazonia/?review=7c17d480"
   },
   "prepared_not_deployed_pairs": []
 }

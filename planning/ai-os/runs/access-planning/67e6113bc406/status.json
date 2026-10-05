@@ -1,0 +1,12 @@
+{
+  "job": "access-planning",
+  "model": "qwen3.5:9b",
+  "status": "editorial_reviewed_deployed_initial_visual_pass_full_qa_pending",
+  "review_flags": [],
+  "seconds": 44.05,
+  "prompt_eval_count": 175,
+  "eval_count": 955,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false,
+  "deployment": "7c17d480"
+}

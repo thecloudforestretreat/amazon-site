@@ -1,0 +1,88 @@
+[
+  {
+    "job": "access-planning",
+    "pair": "pair_020",
+    "en": "how-to-get-to-the-ecuador-amazon",
+    "es": "como-llegar-a-la-amazonia-ecuatoriana",
+    "pageType": "guide_page",
+    "photos": [
+      {
+        "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg",
+        "width": 1280,
+        "height": 720,
+        "credit": "Arabsalam",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Misahuall%C3%AD_Ecuador_1061.jpg",
+        "altEn": "Bridge and forested bank viewed from the Napo River at Puerto Misahuallí, Ecuador",
+        "altEs": "Puente y ribera arbolada vistos desde el río Napo en Puerto Misahuallí, Ecuador"
+      },
+      {
+        "src": "/assets/images/ecuador/tena-river-faessler.jpg",
+        "width": 900,
+        "height": 600,
+        "altEn": "Tena River, town buildings and wooded banks in Tena, Ecuador",
+        "altEs": "Río Tena, edificios y riberas arboladas en Tena, Ecuador",
+        "source": "https://commons.wikimedia.org/wiki/File:Tena1.jpg",
+        "credit": "Andreas Faessler",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "section": 0
+      },
+      {
+        "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg",
+        "width": 1280,
+        "height": 960,
+        "credit": "Le mashk",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Laguna,_parque_nacional_de_Cuyabeno,_Ecuador.jpg",
+        "altEn": "Forest reflected in a Cuyabeno lagoon, with an empty canoe at the bank",
+        "altEs": "Bosque reflejado en una laguna de Cuyabeno, con una canoa vacía en la orilla"
+      }
+    ]
+  },
+  {
+    "job": "packing-planning",
+    "pair": "pair_021",
+    "en": "what-to-pack-for-the-amazon",
+    "es": "que-llevar-a-la-amazonia",
+    "pageType": "guide_page",
+    "photos": [
+      {
+        "src": "/assets/images/ecuador/napo-forest-grzywa.jpg",
+        "width": 1280,
+        "height": 853,
+        "credit": "Marek_Grzywa",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Rainforest_near_Rio_Napo_-_panoramio.jpg",
+        "altEn": "Mist among rainforest trees near the Napo River, Ecuador",
+        "altEs": "Niebla entre los árboles del bosque cerca del río Napo, Ecuador"
+      },
+      {
+        "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg",
+        "width": 1800,
+        "height": 1497,
+        "altEn": "Flooded forest reflected in a lagoon in Cuyabeno, Ecuador",
+        "altEs": "Bosque inundado reflejado en una laguna de Cuyabeno, Ecuador",
+        "credit": "Masha Buschujewa / Unsplash",
+        "source": "https://unsplash.com/photos/green-trees-on-lake-during-daytime-_9UQKWOY0No",
+        "license": "",
+        "licenseUrl": ""
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-leaf-frog-gallice.jpg",
+        "width": 1400,
+        "height": 933,
+        "altEn": "White-lined leaf frog photographed in Yasuní National Park",
+        "altEs": "Rana de hoja fotografiada en el Parque Nacional Yasuní",
+        "source": "https://commons.wikimedia.org/wiki/File:Phyllomedusa_vaillantii_(Yasuni).jpg",
+        "credit": "Geoff Gallice",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "section": 4
+      }
+    ]
+  }
+]

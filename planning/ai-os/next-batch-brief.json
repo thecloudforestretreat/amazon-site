@@ -1,19 +1,13 @@
 {
   "date": "2026-10-05",
   "pairs": [
-    "pair_020",
-    "pair_021"
+    "pair_022",
+    "pair_023"
   ],
-  "authorization": "Current batch authorized; next batch awaits owner preview review",
-  "status": "awaiting_owner_review_of_canoe_best_time",
-  "routes": [
-    "/ecuador/how-to-get-to-the-ecuador-amazon/",
-    "/es/ecuador/como-llegar-a-la-amazonia-ecuatoriana/",
-    "/ecuador/what-to-pack-for-the-amazon/",
-    "/es/ecuador/que-llevar-a-la-amazonia/"
+  "status": "awaiting_owner_review_of_access_packing",
+  "candidates": [
+    "is-the-ecuador-amazon-safe",
+    "amazon-vs-galapagos"
   ],
-  "model_routing": "Bounded local drafting only; reviewed content before promotion; save usage and raw/reviewed hashes",
-  "design": "Approved scoped card layout, three distinct geographically accurate cleared photos, sticky/hamburger navigation",
-  "review_limit": "Browser visual verification unavailable; disclose pending review and retain owner release instruction",
-  "scope": "Access and packing guides: verified regional arrival points, provider-specific transfers, confirmed equipment and baggage requirements; avoid invented schedules, prices, universal suitability or medical advice; varied geographic imagery"
+  "scope": "Use current official sources for safety; no safety guarantees. Distinct cleared geographic images. Bounded local drafts, reviewed prose and saved usage."
 }

@@ -1,0 +1,102 @@
+{
+  "en": [
+    {
+      "heading": "Activity-Specific Clothing",
+      "points": [
+        "Please confirm if the provider supplies clothing suitable for the specific activity.",
+        "Ask what garments are required for the chosen excursion.",
+        "Request details on any special attire needed for the trip."
+      ]
+    },
+    {
+      "heading": "Footwear Arrangements",
+      "points": [
+        "Inquire if boots or specific shoes are provided by the operator.",
+        "Ask what footwear is mandatory for the activity.",
+        "Confirm whether personal shoes must be worn or if rentals exist."
+      ]
+    },
+    {
+      "heading": "Rain and Luggage Protection",
+      "points": [
+        "Request information on rain gear availability for passengers.",
+        "Ask how luggage will be protected from moisture during the trip.",
+        "Confirm if waterproof covers are included in the booking."
+      ]
+    },
+    {
+      "heading": "Observation Equipment",
+      "points": [
+        "Ask what binoculars or telescopes are available for viewing.",
+        "Inquire if optical equipment is provided or must be brought.",
+        "Request details on the quality and type of observation tools."
+      ]
+    },
+    {
+      "heading": "Charging and Baggage Storage",
+      "points": [
+        "Confirm if power outlets are accessible for charging devices.",
+        "Ask where personal bags can be stored safely during the tour.",
+        "Request information on battery backup options provided."
+      ]
+    },
+    {
+      "heading": "Provider Equipment List",
+      "points": [
+        "Ask for a complete list of all equipment included in the service.",
+        "Inquire about any additional gear that might be needed.",
+        "Request confirmation on what items are excluded from the package."
+      ]
+    }
+  ],
+  "es": [
+    {
+      "heading": "Ropa Específica para la Actividad",
+      "points": [
+        "Por favor, confirme si el proveedor suministra ropa adecuada para la actividad específica.",
+        "Pregunte qué prendas son necesarias para la excursión elegida.",
+        "Solicite detalles sobre cualquier vestimenta especial requerida para el viaje."
+      ]
+    },
+    {
+      "heading": "Arreglos de Calzado",
+      "points": [
+        "Consulte si se proporcionan botas o zapatos específicos por parte del operador.",
+        "Pregunte qué calzado es obligatorio para la actividad.",
+        "Confirme si deben usarse zapatos personales o si existen alquileres."
+      ]
+    },
+    {
+      "heading": "Protección contra Lluvia y Maletas",
+      "points": [
+        "Solicite información sobre la disponibilidad de equipo impermeable para los pasajeros.",
+        "Pregunte cómo se protegerá el equipaje de la humedad durante el viaje.",
+        "Confirme si las cubiertas impermeables están incluidas en la reserva."
+      ]
+    },
+    {
+      "heading": "Equipo de Observación",
+      "points": [
+        "Pregunte qué prismáticos o telescopios están disponibles para la observación.",
+        "Consulte si el equipo óptico se proporciona o debe traerse.",
+        "Solicite detalles sobre la calidad y tipo de herramientas de observación."
+      ]
+    },
+    {
+      "heading": "Carga y Almacenaje de Equipaje",
+      "points": [
+        "Confirme si hay enchufes accesibles para cargar dispositivos.",
+        "Pregunte dónde se puede guardar el equipaje personal con seguridad durante el tour.",
+        "Solicite información sobre opciones de respaldo de batería proporcionadas."
+      ]
+    },
+    {
+      "heading": "Lista de Equipo del Proveedor",
+      "points": [
+        "Pida una lista completa de todo el equipo incluido en el servicio.",
+        "Consulte sobre cualquier otro equipo que pueda ser necesario.",
+        "Solicite confirmación sobre qué artículos no están incluidos en el paquete."
+      ]
+    }
+  ]
+}

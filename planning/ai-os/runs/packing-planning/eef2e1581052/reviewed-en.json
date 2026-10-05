@@ -1,0 +1,56 @@
+[
+  {
+    "heading": "Activity-Specific Clothing",
+    "points": [
+      "Please confirm if the provider supplies clothing suitable for the specific activity.",
+      "Ask what garments are required for the chosen excursion.",
+      "Request details on any special attire needed for the trip."
+    ],
+    "intro": "Choose clothing around the actual outing and how you prefer to move, rather than a single forest image. Start with comfortable layers and a dry change, then ask what the provider specifies for each activity. Keep travel clothing separate from items used during walks or boat outings. Confirm any supplied clothing or special requirements before adding another item to the bag."
+  },
+  {
+    "heading": "Footwear Arrangements",
+    "points": [
+      "Inquire if boots or specific shoes are provided by the operator.",
+      "Ask which footwear is specified for each planned activity.",
+      "Confirm whether personal shoes must be worn or if rentals exist."
+    ],
+    "intro": "Match footwear to the planned terrain and the time you will spend walking. Ask which footwear the provider specifies and whether any supplied boots are included, rented or unavailable. If boots are offered, confirm sizes and fit arrangements. Pack travel footwear separately where needed rather than assume the same pair is suitable for every segment of the program."
+  },
+  {
+    "heading": "Rain and Luggage Protection",
+    "points": [
+      "Request information on rain gear availability for passengers.",
+      "Ask how luggage will be protected from moisture during the trip.",
+      "Confirm if waterproof covers are included in the booking."
+    ],
+    "intro": "Identify what needs protection: the items worn during an outing, the day bag and the main luggage. A rain layer and suitable protection for important belongings belong in your initial plan. Ask what the provider actually supplies and how bags travel on transfers. Do not treat a cover on a vehicle or boat as confirmation that your equipment remains dry."
+  },
+  {
+    "heading": "Observation Equipment",
+    "points": [
+      "Ask what binoculars or telescopes are available for viewing.",
+      "Inquire if optical equipment is provided or must be brought.",
+      "Request details on the quality and type of observation tools."
+    ],
+    "intro": "Bring the observation equipment you want to use, with the accessories needed to carry and protect it. Before buying extras, ask whether the guide supplies equipment, whether it is shared and whether there is a separate charge. Describe photography or birdwatching interests alongside the activity plan. More equipment does not guarantee sightings and can change what you need to carry."
+  },
+  {
+    "heading": "Charging and Baggage Storage",
+    "points": [
+      "Confirm if power outlets are accessible for charging devices.",
+      "Ask whether baggage storage exists, where it is and who is responsible.",
+      "Confirm the charging arrangements and any limits at the actual property."
+    ],
+    "intro": "Ask about the actual charging and storage arrangements before planning around them. Confirm the property details, any limits and the equipment you need for your own devices. If larger bags must remain elsewhere, clarify who holds them and how they are collected. A destination name or general lodge description does not confirm outlets, charging availability or baggage storage."
+  },
+  {
+    "heading": "Provider Equipment List",
+    "points": [
+      "Ask for a complete list of all equipment included in the service.",
+      "Inquire about any additional gear that might be needed.",
+      "Request confirmation on what items are excluded from the package."
+    ],
+    "intro": "Compare your starter list with the provider’s written list for the booked activities. Separate required personal items from equipment that is included, optional or supplied only by arrangement. Check sizes and any extra costs before departure. Keep the baggage rules with the itinerary so the list works for transport as well as for your time at the base."
+  }
+]

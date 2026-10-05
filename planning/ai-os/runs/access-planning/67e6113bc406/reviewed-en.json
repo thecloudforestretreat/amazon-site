@@ -1,0 +1,56 @@
+[
+  {
+    "heading": "Actual Destination and Arrival Point",
+    "points": [
+      "Please confirm the precise location where our party will arrive.",
+      "Ask the provider to specify the exact meeting point for our group.",
+      "Request written confirmation of the final destination we will reach."
+    ],
+    "intro": "Name the exact property and distinguish it from the regional town or airport where you plan to arrive. Ask where the package begins and ends. Keep the meeting point separate from the final destination so you can see which legs still need arranging. A regional gateway is an orientation point, not a confirmation that your transfer starts there."
+  },
+  {
+    "heading": "Confirmed Transport Segments",
+    "points": [
+      "Inquire which specific transport legs are included in this booking.",
+      "Ask the provider to list every vehicle or boat segment confirmed for us.",
+      "Request details on any transfers between different modes of travel."
+    ],
+    "intro": "Request the complete sequence of road and water segments, including the provider responsible for each one. Identify any independently booked transport and where the package takes over. Confirm arrangements for the actual dates rather than rely on a route name. A change from a vehicle to a boat can involve another meeting point, baggage handling and instructions."
+  },
+  {
+    "heading": "Meeting and Boarding Arrangements",
+    "points": [
+      "Confirm the agreed arrival and boarding times for the actual departure.",
+      "Confirm if a guide or representative will be waiting for us upon arrival.",
+      "Request instructions on how to identify our specific transport group."
+    ],
+    "intro": "Get the meeting location and departure instructions in a form you can keep with the booking. Ask who will meet your group, how you identify the transport and which arrival time has been agreed. Explain any boarding requirements before accepting the plan. The details should describe the proposed arrangement rather than promise that every transfer works the same way."
+  },
+  {
+    "heading": "Baggage and Equipment Transfers",
+    "points": [
+      "Ask what items we are permitted to bring on each segment of the journey.",
+      "Confirm if personal gear must be transferred manually or by staff.",
+      "Request a written list of equipment included and items you bring yourself."
+    ],
+    "intro": "Check baggage arrangements for each segment instead of assuming one rule applies to the whole journey. Ask what you carry yourself and what assistance is provided between vehicles, boats and the property. Confirm protection for equipment and any permitted sizes or weights with the relevant provider. If storage is needed, record its location, responsibility and collection arrangements separately."
+  },
+  {
+    "heading": "Onward Connections",
+    "points": [
+      "Ask how we will reach our next destination after this trip concludes.",
+      "Confirm where the return finishes and how it connects with independently booked transport.",
+      "Request information on any required steps to continue our journey."
+    ],
+    "intro": "Share the next stage of your journey before booking the return. Ask where the package finishes and how the proposed sequence relates to separately booked services. A return to a regional gateway may leave another leg for you to arrange. Keep timings as provider estimates and confirm what updates you will receive if the plan changes."
+  },
+  {
+    "heading": "Written Inclusions and Change Terms",
+    "points": [
+      "Ask for a written list of everything included in our specific reservation.",
+      "Confirm the conditions under which we may alter our booking plans.",
+      "Request details on any fees associated with modifying our arrangements."
+    ],
+    "intro": "Match the quoted inclusions with the complete route, meeting points and return arrangements. Clarify optional transport and any extra charges before comparing packages. Ask how changes or missed connections are handled, including who communicates updates. Written terms help you understand responsibilities; they do not turn a schedule estimate into a guarantee of arrival or onward connection."
+  }
+]

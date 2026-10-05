@@ -1,0 +1,56 @@
+[
+  {
+    "heading": "Elige ropa para las actividades",
+    "points": [
+      "Pregunta qué ropa se especifica para cada actividad.",
+      "Confirma si se proporciona alguna prenda y en qué condiciones.",
+      "Distingue tu ropa de viaje de la ropa para las salidas."
+    ],
+    "intro": "Elige ropa según la salida concreta y tu forma de moverte, no a partir de una única foto del bosque. Empieza por prendas cómodas y una muda seca; pregunta después qué se especifica para cada actividad. Distingue ropa de viaje y ropa para caminar o salir en embarcación. Confirma prendas proporcionadas o requisitos especiales antes de añadir otro artículo."
+  },
+  {
+    "heading": "Confirma calzado y tallas",
+    "points": [
+      "Pregunta si se ofrecen botas y si están incluidas o se alquilan.",
+      "Confirma el calzado indicado para cada actividad.",
+      "Revisa tallas, ajuste y lo que debes llevar tú."
+    ],
+    "intro": "Ajusta el calzado al terreno previsto y al tiempo de caminata. Pregunta qué indica el proveedor y si las botas están incluidas, se alquilan o no se ofrecen. Si hay botas, confirma tallas y cómo se comprueba el ajuste. Lleva calzado de viaje por separado cuando corresponda, sin asumir que un mismo par sirve para todo el programa."
+  },
+  {
+    "heading": "Protege equipaje y pertenencias",
+    "points": [
+      "Pregunta qué protección para lluvia se proporciona.",
+      "Confirma cómo se protege y transporta el equipaje.",
+      "Aclara si las cubiertas protegen tus objetos personales o solo la embarcación."
+    ],
+    "intro": "Identifica qué necesita protección: lo que llevas puesto, la mochila de la salida y el equipaje principal. Incluye inicialmente una capa para la lluvia y protección apropiada para pertenencias importantes. Pregunta qué proporciona el proveedor y cómo viajan las bolsas. Una cubierta en vehículo o embarcación no confirma por sí sola que tu equipo permanecerá seco."
+  },
+  {
+    "heading": "Prepara tu equipo de observación",
+    "points": [
+      "Pregunta qué binoculares o telescopios se ofrecen, si corresponde.",
+      "Confirma si el equipo se comparte o debes llevar el tuyo.",
+      "Revisa tipo de equipo, accesorios y posibles costes."
+    ],
+    "intro": "Lleva el equipo de observación que quieras utilizar y los accesorios para transportarlo y protegerlo. Antes de comprar extras, pregunta si el guía aporta equipo, si se comparte y si tiene otro coste. Explica tus intereses de fotografía o aves junto con el programa. Más equipo no garantiza avistamientos y puede cambiar lo que necesitas cargar."
+  },
+  {
+    "heading": "Aclara carga y custodia",
+    "points": [
+      "Confirma los enchufes y las condiciones de carga del alojamiento.",
+      "Pregunta si existe custodia y dónde se realiza.",
+      "Aclara responsabilidad, acceso y recogida de las bolsas."
+    ],
+    "intro": "Pregunta por la carga de dispositivos y la custodia reales antes de contar con ellas. Confirma detalles del alojamiento, límites y accesorios para tus dispositivos. Si las bolsas grandes deben quedarse en otro lugar, aclara quién las guarda y cómo se recogen. El nombre del destino o una descripción general no confirman enchufes, carga ni almacenamiento."
+  },
+  {
+    "heading": "Compara las listas de equipo",
+    "points": [
+      "Pide la lista completa del equipo incluido.",
+      "Consulta qué artículos personales necesitas para las salidas.",
+      "Confirma el equipo excluido, las tallas y los cargos adicionales."
+    ],
+    "intro": "Compara la lista inicial con la lista escrita para las actividades reservadas. Distingue artículos personales necesarios de equipo incluido, opcional o disponible solo por acuerdo. Revisa tallas y costes antes de salir. Conserva las reglas de equipaje con el itinerario para que la lista sirva tanto para el transporte como para la estancia."
+  }
+]

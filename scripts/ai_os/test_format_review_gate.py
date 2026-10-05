@@ -7,6 +7,9 @@ class ObservedFailures(unittest.TestCase):
   self.assertEqual(set(flags({'en':'back to civilization','es':'probar la temperatura del agua'})),{'colonial_framing','unsafe_river_advice'})
  def test_observed_nature_failures(self):
   self.assertEqual(set(flags({"en":"Wildlife can be found at any time", "es":"Cómo enforce el guía; los salidas"})),{"unsupported_wildlife_timing","literal_spanish_failure"})
+ def test_spanish_voice_regression(self):
+  self.assertEqual(flags({"es":"Confirme los detalles; soliciten información."}),["spanish_voice_mismatch"])
+  self.assertEqual(flags({"es":"Confirma los detalles y pide información."}),[])
  def test_reviewed_question_is_not_flagged(self):
   self.assertEqual(flags({'intro':'Which transport segments are included in the written proposal?'}),[])
 if __name__=='__main__':unittest.main()

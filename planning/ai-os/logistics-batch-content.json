@@ -1,0 +1,376 @@
+{
+  "access-planning": {
+    "en": {
+      "title": "How to Get to the Ecuador Amazon | Gateways and Transfers",
+      "h1": "Plan the journey all the way to your forest base",
+      "lede": "Choose the destination first. Connect the regional gateway, meeting point and final transfer before booking your arrival or onward travel.",
+      "quick": "The Ecuadorian Amazon is a region, not a single arrival point. Start with your exact property and its confirmed transfer arrangements. Lago Agrio is a gateway for Cuyabeno; El Coca is a gateway to Yasuní; Tena connects the Andean and Amazon regions. Reaching a town is not the same as reaching a forest property. Request every road or water segment and the meeting instructions in writing.",
+      "facts": [
+        [
+          "Destination first",
+          "Name the exact property"
+        ],
+        [
+          "Gateway and meeting point",
+          "Keep them separate"
+        ],
+        [
+          "Road and water legs",
+          "Confirm every segment"
+        ],
+        [
+          "Onward travel",
+          "Check the return plan"
+        ]
+      ],
+      "intro": "Four starting points to compare",
+      "guide": "Six checks for a clear arrival plan",
+      "guidelede": "Build the route around the actual booking, with each connection and responsibility clearly described.",
+      "extra": "Read the journey in segments",
+      "extrap": "Write down your starting point, regional arrival, meeting point, property and return destination. Add who provides each segment and where you make your own arrangements. This makes gaps visible: a package may start at a town or river departure rather than at your hotel in Quito. Ask for expected timings from the provider, then check the implications for independently booked travel without treating estimates as guarantees.",
+      "extra2": "Keep the arrival instructions usable",
+      "extra2p": "Save the meeting location, contact details, booking reference and the instructions for identifying your transport. Ask how you will receive an update if the plan changes and what to do if you arrive late. Confirm which instructions apply to the actual dates and group. A regional photograph can help you understand the setting, but it does not identify your pickup point or the boat you will use.",
+      "faqs": [
+        [
+          "Which gateway should I choose?",
+          "Choose it from the property’s confirmed route, not from an Amazon label alone. Lago Agrio, El Coca and Tena serve different regional journeys. Ask where the package starts, how you reach the base and where it finishes. Compare all segments before committing to a separately booked arrival or onward connection."
+        ],
+        [
+          "Does the tour include pickup from Quito?",
+          "Ask where the package begins and which transport legs are included. A tour advertised from Quito and a stay starting at a regional meeting point can have different arrangements. Confirm the exact pickup location, dates and provider responsibility. Do not infer a pickup, flight or road transfer from the title."
+        ],
+        [
+          "Can I use a published travel time to plan connections?",
+          "Use it as background, then ask for the timings and meeting requirements of the actual booking. A regional estimate does not confirm an arrival, departure or connection. Check current transport information with the relevant provider and discuss any proposed onward travel before buying separate tickets."
+        ],
+        [
+          "Will I need a river transfer?",
+          "That depends on the actual property and route. Request every road and water segment, including how you move between them. Ask about boarding, passenger arrangements and baggage handling. Do not assume that a town-based stay and a more remote forest property use the same access plan."
+        ],
+        [
+          "What happens to my luggage?",
+          "Confirm the permitted baggage for each segment and how it moves between vehicles, boats and accommodation. Ask what you carry, what staff handle and what protection is provided. If you need to leave bags behind, confirm storage, collection and responsibility explicitly; this guide does not establish that storage is available."
+        ],
+        [
+          "What should I confirm about the return?",
+          "Request the finishing point, expected sequence of transfers and what is included. Share onward plans and ask how changes are communicated. Check separately booked services and their terms as well as the package. The return to a gateway does not automatically include the next stage of your journey."
+        ]
+      ],
+      "cards": [
+        [
+          "Lago Agrio to Cuyabeno",
+          "Ecuador’s tourism ministry describes access from Lago Agrio by road toward the Cuyabeno River. Use that regional orientation to ask the provider for the exact meeting point, road segment and onward water transfer to your base. Confirm the route and departure arrangements for your own booking; this is not a transport timetable.",
+          "cuyabeno"
+        ],
+        [
+          "El Coca for Yasuní and the Napo corridor",
+          "The tourism ministry identifies El Coca as an entrance to Yasuní. Locate the actual property and ask which road or river legs connect it with the meeting point. A lodge in the wider corridor is not automatically inside the national park. Confirm the full access and return plan rather than assume one route fits every property.",
+          "yasuni"
+        ],
+        [
+          "Tena and Misahuallí",
+          "Tena’s municipality describes connections with Quito and Ambato and includes Puerto Misahuallí among the canton’s parishes. Distinguish reaching Tena from reaching your accommodation or outing. Ask for the departure point, local transfer and final leg to the property, especially where your stay is outside town.",
+          "tena"
+        ],
+        [
+          "Puyo and Pastaza",
+          "Name the property or activity location before planning the final approach. A town-based stay and a journey farther into Pastaza can require different arrangements. Ask the provider to identify the gateway, meeting point and every road or water leg that belongs to the actual program, without assuming a flight or boat service.",
+          "puyo"
+        ]
+      ]
+    },
+    "es": {
+      "title": "Cómo Llegar a la Amazonía Ecuatoriana | Accesos y Traslados",
+      "h1": "Planifica la llegada hasta tu base en el bosque",
+      "lede": "Elige primero el destino. Relaciona el acceso regional, el punto de encuentro y el último traslado antes de reservar llegada o viaje posterior.",
+      "quick": "La Amazonía ecuatoriana es una región, no un único punto de llegada. Empieza por el alojamiento exacto y sus traslados confirmados. Lago Agrio sirve de acceso a Cuyabeno; El Coca, a Yasuní; Tena conecta las regiones andina y amazónica. Llegar a una ciudad no equivale a llegar al alojamiento de bosque. Pide todos los tramos por carretera o agua y las instrucciones de encuentro por escrito.",
+      "facts": [
+        [
+          "Primero el destino",
+          "Identifica el alojamiento"
+        ],
+        [
+          "Acceso y encuentro",
+          "Distingue los dos puntos"
+        ],
+        [
+          "Carretera y agua",
+          "Confirma cada tramo"
+        ],
+        [
+          "Viaje posterior",
+          "Revisa el regreso"
+        ]
+      ],
+      "intro": "Cuatro puntos de partida para comparar",
+      "guide": "Seis comprobaciones para una llegada clara",
+      "guidelede": "Organiza la ruta alrededor de la reserva concreta y aclara cada conexión y responsabilidad.",
+      "extra": "Lee el viaje por tramos",
+      "extrap": "Anota punto de partida, llegada regional, encuentro, alojamiento y destino de regreso. Añade quién proporciona cada tramo y qué debes organizar por tu cuenta. Así se ven los huecos: un paquete puede comenzar en una ciudad o embarcadero y no en tu hotel de Quito. Pide horarios previstos y revisa sus implicaciones para los servicios reservados aparte, sin convertir las estimaciones en garantías.",
+      "extra2": "Conserva instrucciones de llegada útiles",
+      "extra2p": "Guarda lugar de encuentro, contacto, referencia de reserva e instrucciones para identificar el transporte. Pregunta cómo recibirás novedades si cambia el plan y qué hacer si llegas tarde. Confirma que la información corresponde a tus fechas y grupo. Una foto regional ayuda a entender el entorno, pero no identifica el lugar de recogida ni la embarcación que utilizarás.",
+      "faqs": [
+        [
+          "¿Qué punto de acceso debo elegir?",
+          "Elígelo a partir de la ruta confirmada del alojamiento, no solo de una etiqueta amazónica. Lago Agrio, El Coca y Tena sirven a viajes regionales distintos. Pregunta dónde comienza y termina el paquete y cómo se llega a la base. Compara todos los tramos antes de reservar conexiones por separado."
+        ],
+        [
+          "¿El tour incluye recogida en Quito?",
+          "Pregunta dónde empieza el paquete y qué transporte incluye. Un tour anunciado desde Quito y una estancia que comienza en un encuentro regional pueden tener acuerdos distintos. Confirma lugar de recogida, fechas y responsabilidad del proveedor. El título no confirma por sí solo una recogida, un vuelo o un traslado terrestre."
+        ],
+        [
+          "¿Puedo planificar conexiones con un tiempo de viaje publicado?",
+          "Úsalo como orientación y pide después los horarios y requisitos de encuentro de tu reserva. Una estimación regional no confirma llegada, salida ni conexión. Consulta información actual del transporte con el proveedor correspondiente y comenta tus planes posteriores antes de comprar billetes por separado."
+        ],
+        [
+          "¿Necesitaré un traslado por río?",
+          "Depende del alojamiento y la ruta concretos. Pide cada tramo terrestre y fluvial, incluido cómo pasas de uno a otro. Pregunta por embarque, pasajeros y equipaje. No asumas que una estancia urbana y un alojamiento más alejado en el bosque comparten el mismo acceso."
+        ],
+        [
+          "¿Qué ocurre con mi equipaje?",
+          "Confirma el equipaje permitido en cada tramo y cómo pasa entre vehículos, embarcaciones y alojamiento. Pregunta qué llevas tú, qué maneja el personal y qué protección se ofrece. Si necesitas dejar bolsas atrás, confirma custodia, recogida y responsabilidad: esta guía no establece que haya almacenamiento disponible."
+        ],
+        [
+          "¿Qué debo confirmar sobre el regreso?",
+          "Pide punto de llegada, secuencia prevista de traslados y servicios incluidos. Comparte tus planes posteriores y pregunta cómo se comunican los cambios. Revisa también los servicios reservados por separado y sus condiciones. Regresar a un acceso regional no incluye automáticamente el siguiente tramo de tu viaje."
+        ]
+      ],
+      "cards": [
+        [
+          "Lago Agrio hacia Cuyabeno",
+          "El Ministerio de Turismo describe un acceso terrestre desde Lago Agrio hacia el río Cuyabeno. Usa esa orientación para pedir punto de encuentro, tramo por carretera y posterior traslado por agua a tu base. Confirma ruta y salida para tu reserva: esta descripción no es un horario de transporte.",
+          "cuyabeno"
+        ],
+        [
+          "El Coca para Yasuní y el corredor del Napo",
+          "El Ministerio de Turismo identifica El Coca como entrada a Yasuní. Localiza el alojamiento y pregunta qué tramos terrestres o fluviales lo conectan con el encuentro. Un lodge del corredor no está necesariamente dentro del parque nacional. Confirma acceso y regreso completos, sin asumir una ruta común para todos los alojamientos.",
+          "yasuni"
+        ],
+        [
+          "Tena y Misahuallí",
+          "El municipio de Tena describe conexiones con Quito y Ambato e incluye Puerto Misahuallí entre sus parroquias. Distingue llegar a Tena de llegar al alojamiento o la actividad. Pregunta por salida, transporte local y último tramo a la base, especialmente cuando la estancia se encuentra fuera de la ciudad.",
+          "tena"
+        ],
+        [
+          "Puyo y Pastaza",
+          "Identifica alojamiento o actividad antes de organizar la aproximación final. Una estancia urbana y un viaje más alejado en Pastaza pueden tener accesos distintos. Pide al proveedor entrada regional, encuentro y cada tramo por carretera o agua del programa concreto, sin asumir un vuelo o una embarcación disponibles.",
+          "puyo"
+        ]
+      ]
+    }
+  },
+  "packing-planning": {
+    "en": {
+      "title": "What to Pack for the Ecuador Amazon | A Practical Starter List",
+      "h1": "Pack for the outings, not just the destination",
+      "lede": "Build a compact list around your actual program. Bring the essentials you use, confirm provider equipment and leave room for the way your luggage will travel.",
+      "quick": "Start with comfortable clothing, spare socks, suitable footwear, a rain layer and protection for belongings that need to stay dry. Add the camera or binoculars you already use, their accessories and a small day bag. Then compare that starter list with the actual activities and written provider list. Ask about supplied equipment, sizes, charging, storage and baggage limits before buying extras.",
+      "facts": [
+        [
+          "Actual activities",
+          "Shape your clothing list"
+        ],
+        [
+          "Footwear and sizes",
+          "Confirm before packing"
+        ],
+        [
+          "Rain and luggage",
+          "Protect the essentials"
+        ],
+        [
+          "Supplied equipment",
+          "Ask what is included"
+        ]
+      ],
+      "intro": "Choose the base, then refine the list",
+      "guide": "Six checks for a more useful packing list",
+      "guidelede": "Separate your own everyday essentials from items that depend on the activity and provider.",
+      "extra": "Keep the day bag simple",
+      "extrap": "Use the day bag for items you want during the outing: a rain layer, personal observation equipment and the belongings you need to keep close. Choose a size and arrangement that suit the actual walking and boat program. Ask how bags travel during transfers and where they are placed on the boat. Do not assume a provided cover or storage area protects your own belongings.",
+      "extra2": "Confirm before buying special equipment",
+      "extra2p": "Ask for the provider’s written equipment list and compare it with what you already own. Confirm whether boots, rain gear, binoculars or other activity items are supplied, shared, rented or something you must bring. Check sizes and any additional cost. A photograph of equipment or a general packing list does not establish availability for your dates, property and group.",
+      "faqs": [
+        [
+          "What should I pack first?",
+          "Begin with comfortable activity clothing, a dry change, spare socks, suitable footwear, a rain layer and protection for important belongings. Add the observation equipment and accessories you actually use. Refine the list against the specific outings, transfer arrangements and written provider requirements rather than treating it as a universal kit."
+        ],
+        [
+          "Should I bring boots or walking shoes?",
+          "Ask what the planned terrain and activities require. If boots are offered, confirm availability, sizes, fit and whether they are included or rented. Do not assume that supplied footwear replaces shoes for travel or every outing. Use the provider’s activity details to decide what to bring."
+        ],
+        [
+          "Are rain gear and dry bags included?",
+          "Confirm each item separately and ask whether it protects passengers, personal equipment or main luggage. A covered boat does not establish that your belongings remain dry. Bring appropriate protection for the items you need to safeguard, and check how bags are handled and placed during the actual transfers."
+        ],
+        [
+          "Do I need to buy binoculars or a new camera?",
+          "Start with your interests and the equipment you already use. Ask what is supplied, whether it is shared and what you are expected to bring. Consider carrying and protecting the equipment on the proposed outings. New equipment does not guarantee wildlife sightings or photographs; confirm the arrangements before spending."
+        ],
+        [
+          "Can I charge devices or leave larger bags behind?",
+          "Ask about the actual property and the transfer provider. Confirm outlets, charging arrangements, any limits and whether storage is available, where it is and how collection works. Do not infer those services from a destination name or a generic lodge description. Plan around the confirmed details."
+        ],
+        [
+          "How much luggage can I bring?",
+          "Request the baggage rules for every transport segment and the accommodation or outing requirements. Confirm dimensions or weight with the relevant provider rather than use a universal Amazon limit. Ask how items move between stages and who handles them. Keep the written conditions with the itinerary."
+        ]
+      ],
+      "cards": [
+        [
+          "Cuyabeno",
+          "Compare the provider’s list with the actual river transfers and outings. Ask how main luggage and a day bag are carried, what you need during boarding and which footwear is specified for walks. Confirm sizes and inclusions for any equipment offered; do not assume one reserve-wide packing arrangement.",
+          "cuyabeno"
+        ],
+        [
+          "Yasuní and the Napo corridor",
+          "Use the exact property and program to refine your list. Ask about forest outings, water transfers, equipment protection and the charging arrangements at that base. A lodge in the corridor and a stay inside the national park may have different services; confirm your booking rather than pack from a label.",
+          "yasuni"
+        ],
+        [
+          "Tena and Misahuallí",
+          "Distinguish travel clothing from clothing and equipment for each booked activity. Ask what the outing provider supplies and where you change or leave belongings, if those arrangements exist. Confirm the final transfer from your base and the requirements for any river activity before adding specialist equipment.",
+          "tena"
+        ],
+        [
+          "Puyo and Pastaza",
+          "A town-based outing and a journey farther into Pastaza can need different luggage arrangements. Ask for the actual program, footwear requirements and equipment list. Confirm storage and charging where relevant. Compare those details with your onward plans so you carry what you need without assuming local services.",
+          "puyo"
+        ]
+      ],
+      "starterHeading": "Your starter list",
+      "starterItems": [
+        [
+          "Clothing",
+          "Comfortable activity layers and a dry change."
+        ],
+        [
+          "Footwear",
+          "Shoes for the planned terrain; spare socks."
+        ],
+        [
+          "Rain protection",
+          "A rain layer and protection for important belongings."
+        ],
+        [
+          "Day bag",
+          "A compact bag for the items used on outings."
+        ],
+        [
+          "Observation",
+          "Your camera or binoculars and their accessories."
+        ],
+        [
+          "Travel details",
+          "Saved meeting instructions and booking references."
+        ]
+      ]
+    },
+    "es": {
+      "title": "Qué Llevar a la Amazonía Ecuatoriana | Lista Práctica",
+      "h1": "Prepara el equipaje para las actividades",
+      "lede": "Haz una lista compacta a partir del programa real. Lleva lo que utilizas, confirma el equipo del proveedor y revisa cómo viajarán tus bolsas.",
+      "quick": "Empieza por ropa cómoda, calcetines de repuesto, calzado adecuado, una capa para la lluvia y protección para lo que debe permanecer seco. Añade la cámara o los binoculares que ya utilizas, sus accesorios y una mochila pequeña. Compara esa base con las actividades y la lista escrita del proveedor. Confirma equipo, tallas, carga de dispositivos, custodia y límites de equipaje antes de comprar extras.",
+      "facts": [
+        [
+          "Actividades concretas",
+          "Define la ropa necesaria"
+        ],
+        [
+          "Calzado y tallas",
+          "Confirma antes de empacar"
+        ],
+        [
+          "Lluvia y equipaje",
+          "Protege lo importante"
+        ],
+        [
+          "Equipo del proveedor",
+          "Pregunta qué se incluye"
+        ]
+      ],
+      "intro": "Elige la base y ajusta la lista",
+      "guide": "Seis comprobaciones para preparar mejor el equipaje",
+      "guidelede": "Distingue tus artículos personales de lo que depende de la actividad y del proveedor.",
+      "extra": "Simplifica la mochila de la salida",
+      "extrap": "Reserva la mochila pequeña para lo que utilizas durante la actividad: una capa para la lluvia, tu equipo de observación y los objetos que necesitas cerca. Elige tamaño y disposición según las caminatas y recorridos en embarcación reales. Pregunta cómo viajan las bolsas en los traslados y dónde se colocan. No asumas que una cubierta o un espacio de almacenamiento protegen tus pertenencias.",
+      "extra2": "Confirma antes de comprar equipo específico",
+      "extra2p": "Pide la lista escrita del proveedor y compárala con lo que ya tienes. Confirma si botas, ropa para lluvia, binoculares u otros artículos se proporcionan, se comparten, se alquilan o debes llevarlos. Revisa tallas y posibles costes. Una foto o una lista general no demuestra que ese equipo esté disponible para tus fechas, alojamiento y grupo.",
+      "faqs": [
+        [
+          "¿Qué preparo primero?",
+          "Empieza por ropa cómoda para la actividad, una muda seca, calcetines de repuesto, calzado adecuado, protección para lluvia y pertenencias importantes. Añade el equipo de observación y los accesorios que realmente utilizas. Ajusta la lista según las salidas, los traslados y los requisitos escritos, sin tratarla como un kit universal."
+        ],
+        [
+          "¿Llevo botas o zapatos para caminar?",
+          "Pregunta qué requieren el terreno y las actividades. Si se ofrecen botas, confirma disponibilidad, tallas, ajuste y si están incluidas o se alquilan. No asumas que sustituyen el calzado para viajar o para todas las salidas. Decide a partir de los detalles reales del programa."
+        ],
+        [
+          "¿Se incluyen protección para lluvia y bolsas impermeables?",
+          "Confirma cada artículo y si protege a pasajeros, equipo personal o equipaje principal. Una embarcación cubierta no demuestra que tus pertenencias permanezcan secas. Lleva protección apropiada para lo que necesitas resguardar y revisa cómo se manejan y colocan las bolsas durante los traslados."
+        ],
+        [
+          "¿Necesito comprar binoculares o una cámara nueva?",
+          "Empieza por tus intereses y el equipo que ya utilizas. Pregunta qué se proporciona, si se comparte y qué debes llevar. Considera cómo transportarlo y protegerlo durante las salidas. Un equipo nuevo no garantiza fauna ni fotografías; confirma los acuerdos antes de gastar."
+        ],
+        [
+          "¿Puedo cargar dispositivos o dejar bolsas grandes?",
+          "Pregunta al alojamiento y al proveedor del traslado. Confirma enchufes, carga, posibles límites y si existe custodia, dónde y cómo se recoge el equipaje. No deduzcas esos servicios del nombre del destino o de una descripción genérica de lodge. Organízate con los detalles confirmados."
+        ],
+        [
+          "¿Cuánto equipaje puedo llevar?",
+          "Pide las reglas de cada tramo de transporte y los requisitos del alojamiento o actividad. Confirma medidas o peso con el proveedor correspondiente, en vez de usar un límite universal para la Amazonía. Pregunta cómo pasan las bolsas entre etapas y quién las maneja. Conserva las condiciones con el itinerario."
+        ]
+      ],
+      "cards": [
+        [
+          "Cuyabeno",
+          "Compara la lista del proveedor con los traslados y las salidas fluviales reales. Pregunta cómo se llevan equipaje y mochila, qué necesitas al embarcar y qué calzado se indica para caminar. Confirma tallas e inclusiones del equipo ofrecido, sin asumir una organización común para toda la reserva.",
+          "cuyabeno"
+        ],
+        [
+          "Yasuní y el corredor del Napo",
+          "Ajusta la lista al alojamiento y programa exactos. Pregunta por bosque, traslados fluviales, protección del equipo y carga de dispositivos en esa base. Un lodge del corredor y una estancia dentro del parque pueden tener servicios distintos: confirma tu reserva, no prepares el equipaje solo por el nombre.",
+          "yasuni"
+        ],
+        [
+          "Tena y Misahuallí",
+          "Distingue ropa de viaje de ropa y equipo para cada actividad reservada. Pregunta qué aporta el proveedor y dónde puedes cambiarte o dejar objetos, si existen esos acuerdos. Confirma el último traslado desde la base y los requisitos de las salidas fluviales antes de añadir equipo específico.",
+          "tena"
+        ],
+        [
+          "Puyo y Pastaza",
+          "Una salida urbana y un viaje más alejado en Pastaza pueden necesitar equipajes distintos. Pide programa, calzado y lista de equipo concretos. Confirma custodia y carga cuando corresponda. Relaciona esos detalles con tus planes posteriores para llevar lo necesario sin asumir servicios locales.",
+          "puyo"
+        ]
+      ],
+      "starterHeading": "Tu lista inicial",
+      "starterItems": [
+        [
+          "Ropa",
+          "Prendas cómodas para la actividad y una muda seca."
+        ],
+        [
+          "Calzado",
+          "Adecuado al terreno previsto; calcetines de repuesto."
+        ],
+        [
+          "Protección para lluvia",
+          "Una capa y protección para tus pertenencias importantes."
+        ],
+        [
+          "Mochila pequeña",
+          "Una bolsa compacta para lo que utilizas en las salidas."
+        ],
+        [
+          "Observación",
+          "Tu cámara o binoculares y sus accesorios."
+        ],
+        [
+          "Datos del viaje",
+          "Instrucciones de encuentro y referencias guardadas."
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-05",
+  "claims": [
+    {
+      "claim": "Lago Agrio road approach toward Río Cuyabeno",
+      "source": "https://ecuador.travel/cuyabeno-eden-de-diversidad-natural/",
+      "evidence": "Ministry tourism search excerpt: road Lago Agrio–Tarapoa–Puerto El Carmen to bridge over Río Cuyabeno",
+      "limits": "Regional orientation only; no timings/distances/services adopted; full page currently verification interstitial"
+    },
+    {
+      "claim": "El Coca as entrance to Yasuní",
+      "source": "https://historicomintur.produccion.gob.ec/el-coca-fue-declarado-como-un-nuevo-rincon-magico-del-ecuador/",
+      "evidence": "Ministry page describes designation Coca entrada al Yasuní"
+    },
+    {
+      "claim": "Tena connectivity with Quito/Ambato; Puerto Misahuallí a canton parish",
+      "source": "https://tena.gob.ec/canton-tena/",
+      "evidence": "Localización y Conectividad and División Político-Administrativa",
+      "limits": "Did not adopt travel-time estimates, schedules or availability"
+    }
+  ],
+  "packing": "General starter list and provider-specific arrangements; no medical advice, supplied gear or universal baggage limits"
+}

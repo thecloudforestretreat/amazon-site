@@ -1,0 +1,102 @@
+{
+  "en": [
+    {
+      "heading": "Actual Destination and Arrival Point",
+      "points": [
+        "Please confirm the precise location where our party will arrive.",
+        "Ask the provider to specify the exact meeting point for our group.",
+        "Request written confirmation of the final destination we will reach."
+      ]
+    },
+    {
+      "heading": "Confirmed Transport Segments",
+      "points": [
+        "Inquire which specific transport legs are included in this booking.",
+        "Ask the provider to list every vehicle or boat segment confirmed for us.",
+        "Request details on any transfers between different modes of travel."
+      ]
+    },
+    {
+      "heading": "Meeting and Boarding Arrangements",
+      "points": [
+        "Ask when we must arrive at the departure point to board safely.",
+        "Confirm if a guide or representative will be waiting for us upon arrival.",
+        "Request instructions on how to identify our specific transport group."
+      ]
+    },
+    {
+      "heading": "Baggage and Equipment Transfers",
+      "points": [
+        "Ask what items we are permitted to bring on each segment of the journey.",
+        "Confirm if personal gear must be transferred manually or by staff.",
+        "Request clarification on whether all equipment is included in the price."
+      ]
+    },
+    {
+      "heading": "Onward Connections",
+      "points": [
+        "Ask how we will reach our next destination after this trip concludes.",
+        "Confirm if arrangements exist for leaving the current location safely.",
+        "Request information on any required steps to continue our journey."
+      ]
+    },
+    {
+      "heading": "Written Inclusions and Change Terms",
+      "points": [
+        "Ask for a written list of everything included in our specific reservation.",
+        "Confirm the conditions under which we may alter our booking plans.",
+        "Request details on any fees associated with modifying our arrangements."
+      ]
+    }
+  ],
+  "es": [
+    {
+      "heading": "Destino Real y Punto de Llegada",
+      "points": [
+        "Por favor, confirmen la ubicación exacta donde llegará nuestro grupo.",
+        "Pregúntenle al proveedor el punto de encuentro preciso para nuestra partida.",
+        "Soliciten confirmación escrita del destino final que alcanzaremos."
+      ]
+    },
+    {
+      "heading": "Tramos de Transporte Confirmados",
+      "points": [
+        "Consulten qué tramos específicos de transporte están incluidos en este reserva.",
+        "Pregúntenle al proveedor para listar cada vehículo o bote confirmado para nosotros.",
+        "Soliciten detalles sobre cualquier transferencia entre diferentes medios de viaje."
+      ]
+    },
+    {
+      "heading": "Organización del Encuentro y Abordaje",
+      "points": [
+        "Pregúnten cuándo debemos llegar al punto de salida para abordar con seguridad.",
+        "Confirmen si un guía o representante nos esperará al llegar.",
+        "Soliciten instrucciones sobre cómo identificar nuestro grupo de transporte específico."
+      ]
+    },
+    {
+      "heading": "Traslados de Equipaje y Equipo",
+      "points": [
+        "Consulten qué artículos podemos llevar en cada tramo del viaje.",
+        "Confirmen si el equipo personal debe transferirse manualmente o por personal.",
+        "Soliciten aclaraciones sobre si todo el equipo está incluido en el precio."
+      ]
+    },
+    {
+      "heading": "Conexiones Posteriores",
+      "points": [
+        "Consulten cómo llegaremos al siguiente destino después de que concluya este viaje.",
+        "Confirmen si existen arreglos para salir del lugar actual con seguridad.",
+        "Soliciten información sobre cualquier paso necesario para continuar nuestro recorrido."
+      ]
+    },
+    {
+      "heading": "Inclusiones Escritas y Condiciones de Cambio",
+      "points": [
+        "Pregúnten por una lista escrita de todo lo incluido en nuestra reserva específica.",
+        "Confirmen las condiciones bajo las cuales podemos alterar nuestros planes de reserva.",
+        "Soliciten detalles sobre cualquier tarifa asociada a modificar nuestros arreglos."
+      ]
+    }
+  ]
+}

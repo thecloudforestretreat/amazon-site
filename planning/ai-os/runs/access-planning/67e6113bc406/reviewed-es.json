@@ -1,0 +1,56 @@
+[
+  {
+    "heading": "Identifica la base y el encuentro",
+    "points": [
+      "Confirma el alojamiento exacto al que llegarás.",
+      "Pide el punto de encuentro concreto de tu reserva.",
+      "Distingue la llegada regional del último traslado a la base."
+    ],
+    "intro": "Identifica el alojamiento exacto y distínguelo de la ciudad o aeropuerto regional donde piensas llegar. Pregunta dónde empieza y termina el paquete. Separa punto de encuentro y destino final para ver qué tramos faltan por organizar. Una entrada regional orienta el viaje, pero no confirma que tu traslado comience allí."
+  },
+  {
+    "heading": "Revisa cada tramo de transporte",
+    "points": [
+      "Pregunta qué tramos de transporte incluye el paquete.",
+      "Pide la lista de vehículos y embarcaciones de la ruta propuesta.",
+      "Confirma cómo pasarás de un medio de transporte a otro."
+    ],
+    "intro": "Pide la secuencia completa de tramos terrestres y fluviales, con el proveedor responsable de cada uno. Identifica el transporte reservado por separado y dónde comienza el paquete. Confirma los acuerdos para tus fechas, no solo el nombre de la ruta. Pasar de un vehículo a una embarcación puede implicar otro encuentro, manejo de equipaje e instrucciones."
+  },
+  {
+    "heading": "Confirma encuentro y embarque",
+    "points": [
+      "Confirma las horas acordadas de llegada y embarque.",
+      "Pregunta quién te recibe y cómo identificarás el transporte.",
+      "Pide instrucciones actualizadas para tus fechas y grupo."
+    ],
+    "intro": "Conserva ubicación e instrucciones de salida junto a la reserva. Pregunta quién recibe al grupo, cómo se identifica el transporte y qué hora de llegada se ha acordado. Explica cualquier necesidad de embarque antes de aceptar el plan. Los detalles deben describir la organización propuesta, sin prometer que todos los traslados funcionan del mismo modo."
+  },
+  {
+    "heading": "Aclara equipaje y ayuda",
+    "points": [
+      "Consulta el equipaje permitido en cada tramo.",
+      "Confirma qué llevas tú y qué ayuda proporciona el personal.",
+      "Pide la lista del equipo incluido y de lo que debes traer."
+    ],
+    "intro": "Revisa el equipaje de cada tramo sin asumir una única regla para todo el viaje. Pregunta qué llevas tú y qué ayuda se ofrece entre vehículos, embarcaciones y alojamiento. Confirma protección y medidas o pesos permitidos con el proveedor correspondiente. Si necesitas custodia, anota por separado lugar, responsabilidad y acuerdos de recogida."
+  },
+  {
+    "heading": "Relaciona el regreso y tus conexiones",
+    "points": [
+      "Aclara el punto donde termina el paquete.",
+      "Relaciona el regreso previsto con los servicios que reservas aparte.",
+      "Pregunta cómo se comunican cambios o retrasos."
+    ],
+    "intro": "Comparte la siguiente etapa antes de reservar el regreso. Pregunta dónde termina el paquete y cómo se relaciona la secuencia prevista con los servicios reservados aparte. Volver a una entrada regional puede dejar otro tramo por organizar. Trata los horarios como estimaciones del proveedor y confirma cómo recibirás novedades si cambia el plan."
+  },
+  {
+    "heading": "Conserva servicios y cambios por escrito",
+    "points": [
+      "Pide la lista escrita de servicios incluidos.",
+      "Revisa las condiciones para cambiar la reserva o el itinerario.",
+      "Confirma los cargos y responsabilidades antes de aceptar."
+    ],
+    "intro": "Relaciona los servicios cotizados con ruta completa, encuentros y regreso. Aclara transporte opcional y cargos adicionales antes de comparar paquetes. Pregunta cómo se gestionan los cambios o conexiones perdidas y quién comunica las novedades. Las condiciones escritas aclaran responsabilidades; no convierten un horario estimado en una garantía de llegada o conexión."
+  }
+]

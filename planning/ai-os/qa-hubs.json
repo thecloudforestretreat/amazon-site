@@ -2,28 +2,28 @@
   "ecuador": {
     "pair_id": "pair_003",
     "language": "en",
-    "main_words": 1699,
+    "main_words": 1734,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
       "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "5a8f0530030dd7c69b8ed008ab965e6a99d3481f14fb19f6c65e3b5fd0139629",
+    "sha256": "80bb19b08f7719c1198f53282c72e1e6001a02f86b1f09b15a87d98e6034807c",
     "errors": [],
     "passed": true
   },
   "es/ecuador": {
     "pair_id": "pair_003",
     "language": "es",
-    "main_words": 1703,
+    "main_words": 1737,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
       "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "9c357a615a69ffdae0eb5767a357f8a0d4fed46b93955bdcb7823fc4352d5404",
+    "sha256": "ea0b5967a4c85abd6831007a2fbb7fa78696293f44ea34aecd19c2094a4fffb1",
     "errors": [],
     "passed": true
   },
@@ -332,6 +332,62 @@
       "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg"
     ],
     "sha256": "6c52a9c87d06e8930021108703fc83a90538dc96fda96fadf00cad122c047846",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/how-to-get-to-the-ecuador-amazon": {
+    "pair_id": "pair_020",
+    "language": "en",
+    "main_words": 1554,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/misahualli-napo-bridge.jpg",
+      "/assets/images/ecuador/tena-river-faessler.jpg",
+      "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+    ],
+    "sha256": "69fb795bf0cd6898dbb5e1e4f833cf7c10668f7d0bafef52a141e69673e0c82e",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/como-llegar-a-la-amazonia-ecuatoriana": {
+    "pair_id": "pair_020",
+    "language": "es",
+    "main_words": 1451,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/misahualli-napo-bridge.jpg",
+      "/assets/images/ecuador/tena-river-faessler.jpg",
+      "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+    ],
+    "sha256": "4b66cef83e12ba744a281b9e3402d1cfb59c47ec90ec94d85a306dff68504183",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/what-to-pack-for-the-amazon": {
+    "pair_id": "pair_021",
+    "language": "en",
+    "main_words": 1614,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/napo-forest-grzywa.jpg",
+      "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg",
+      "/assets/images/ecuador/yasuni-leaf-frog-gallice.jpg"
+    ],
+    "sha256": "655329f002afa357554ed06aff07605e1e91418fea8f391e1e3975fe7cc0f179",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/que-llevar-a-la-amazonia": {
+    "pair_id": "pair_021",
+    "language": "es",
+    "main_words": 1564,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/napo-forest-grzywa.jpg",
+      "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg",
+      "/assets/images/ecuador/yasuni-leaf-frog-gallice.jpg"
+    ],
+    "sha256": "af9ce8b32fb4b30720ba3ecec172d765677dd5b6cb1f3a93fc3162a42297c8b3",
     "errors": [],
     "passed": true
   }
