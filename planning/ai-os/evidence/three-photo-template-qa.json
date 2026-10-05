@@ -1,0 +1,174 @@
+{
+  "deployment": "ca21a962",
+  "date": "2026-10-05",
+  "checks": [
+    {
+      "slug": "yasuni",
+      "language": "en",
+      "width": 1117,
+      "distinctPhotos": 3,
+      "overflow": false,
+      "panels": [
+        {
+          "height": 414,
+          "loaded": true,
+          "photoOrder": "0"
+        },
+        {
+          "height": 363,
+          "loaded": true,
+          "photoOrder": "1"
+        }
+      ],
+      "photos": 3
+    },
+    {
+      "slug": "yasuni",
+      "language": "en",
+      "width": 390,
+      "distinctPhotos": 3,
+      "overflow": false,
+      "panels": [
+        {
+          "height": 773,
+          "loaded": true,
+          "photoOrder": "0"
+        },
+        {
+          "height": 720,
+          "loaded": true,
+          "photoOrder": "0"
+        }
+      ],
+      "photos": 3
+    },
+    {
+      "slug": "yasuni",
+      "language": "es",
+      "width": 1117,
+      "distinctPhotos": 3,
+      "overflow": false,
+      "panels": [
+        {
+          "height": 389,
+          "loaded": true,
+          "photoOrder": "0"
+        },
+        {
+          "height": 363,
+          "loaded": true,
+          "photoOrder": "1"
+        }
+      ],
+      "photos": 3
+    },
+    {
+      "slug": "yasuni",
+      "language": "es",
+      "width": 390,
+      "distinctPhotos": 3,
+      "overflow": false,
+      "panels": [
+        {
+          "height": 748,
+          "loaded": true,
+          "photoOrder": "0"
+        },
+        {
+          "height": 720,
+          "loaded": true,
+          "photoOrder": "0"
+        }
+      ],
+      "photos": 3
+    },
+    {
+      "slug": "tena",
+      "language": "en",
+      "width": 1117,
+      "distinctPhotos": 3,
+      "overflow": false,
+      "panels": [
+        {
+          "height": 440,
+          "loaded": false,
+          "photoOrder": "0"
+        },
+        {
+          "height": 440,
+          "loaded": false,
+          "photoOrder": "1"
+        }
+      ],
+      "photos": 3
+    },
+    {
+      "slug": "tena",
+      "language": "en",
+      "width": 390,
+      "distinctPhotos": 3,
+      "overflow": false,
+      "panels": [
+        {
+          "height": 855,
+          "loaded": false,
+          "photoOrder": "0"
+        },
+        {
+          "height": 855,
+          "loaded": false,
+          "photoOrder": "0"
+        }
+      ],
+      "photos": 3
+    },
+    {
+      "slug": "tena",
+      "language": "es",
+      "width": 1117,
+      "distinctPhotos": 3,
+      "overflow": false,
+      "panels": [
+        {
+          "height": 440,
+          "loaded": true,
+          "photoOrder": "0"
+        },
+        {
+          "height": 440,
+          "loaded": false,
+          "photoOrder": "1"
+        }
+      ],
+      "photos": 3
+    },
+    {
+      "slug": "tena",
+      "language": "es",
+      "width": 390,
+      "distinctPhotos": 3,
+      "overflow": false,
+      "panels": [
+        {
+          "height": 799,
+          "loaded": true,
+          "photoOrder": "0"
+        },
+        {
+          "height": 881,
+          "loaded": false,
+          "photoOrder": "0"
+        }
+      ],
+      "photos": 3
+    }
+  ],
+  "loading_note": "Initial Tena snapshots preceded lazy loading; subsequent English desktop and Spanish mobile section readbacks showed all three images loaded.",
+  "visual_review": "Yasuni landscape and wildlife desktop; Tena forest desktop/mobile reviewed",
+  "technical": "24-page validation and all three destination audits pass",
+  "negative_test": "Repeated/missing supporting photograph correctly rejected; compiled file restored and audit passes",
+  "protection": "Unauthenticated request returns 302",
+  "rollback_deployment": "943c4348",
+  "local_inference_calls": 0,
+  "owner_review": "pending"
+}

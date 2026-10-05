@@ -4,9 +4,9 @@
   "pages": {
     "en": {
       "route": "/ecuador/yasuni/",
-      "main_words": 1129,
+      "main_words": 1151,
       "word_count_scope": "Main content excluding guide navigation",
-      "html_sha256": "e9c41be1a59857e51a2681a5733fa02e83e974cc894fdd30c741d4ddf2a4e0e9",
+      "html_sha256": "bc7374c9732a3a8da26d7aa94de769ca5655b573df298dbb154a089a0f0c911a",
       "signals": {
         "title": "Yasuní Ecuador Travel Guide | Lodges, Wildlife and Access",
         "meta_description": "Plan a Yasuní Amazon trip with practical guidance on Napo River access, lodge styles, wildlife expectations, trip length and who this remote region suits.",
@@ -52,21 +52,21 @@
           "/privacy-policy/",
           "/terms/"
         ],
-        "word_count": 1355,
+        "word_count": 1375,
         "question_heading_count": 3,
         "cta_link_count": 5,
         "document_language": "en",
-        "image_count": 3,
+        "image_count": 5,
         "missing_alt_count": 0,
         "unlabelled_control_count": 0,
-        "visible_text_sha256": "5ebc51a00a6b7e8b94f5cab4a9fbb7311f8e2d57f44a39e16dc042c0003e9cf0"
+        "visible_text_sha256": "82394d0d24fb0a1892c9531aad04ad2616741a7f26d75888dcecbffb2a4e5db8"
       }
     },
     "es": {
       "route": "/es/ecuador/yasuni/",
-      "main_words": 1163,
+      "main_words": 1185,
       "word_count_scope": "Main content excluding guide navigation",
-      "html_sha256": "c626866f3c62f92b8de5c1d11cbe68ec319689bc713d9d9a5e4fd2a99f761dbd",
+      "html_sha256": "55aef9c5386f4fbc0f83b69ee6b67436f61f5e66832da16cd0ecf2bf7c7ea610",
       "signals": {
         "title": "Guía de Yasuní Ecuador | Lodges, Fauna y Acceso",
         "meta_description": "Planifica un viaje a Yasuní con orientación sobre acceso por el Napo, tipos de lodge, fauna, duración y perfil de viajero.",
@@ -112,14 +112,14 @@
           "/es/politica-de-privacidad/",
           "/es/terminos/"
         ],
-        "word_count": 1388,
+        "word_count": 1408,
         "question_heading_count": 3,
         "cta_link_count": 5,
         "document_language": "es",
-        "image_count": 3,
+        "image_count": 5,
         "missing_alt_count": 0,
         "unlabelled_control_count": 0,
-        "visible_text_sha256": "e99b8d85b2a8d5d15547ccab1a2d71af7b6daeb83a15a4434363e30c4e09dcfb"
+        "visible_text_sha256": "62b320ff12fda8139e7963a7222dc44c596b0cc31857f3cc0e108ccdb4da662f"
       }
     }
   },

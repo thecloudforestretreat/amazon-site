@@ -4,9 +4,9 @@
   "pages": {
     "en": {
       "route": "/ecuador/cuyabeno/",
-      "main_words": 1176,
+      "main_words": 1178,
       "word_count_scope": "Main content excluding guide navigation",
-      "html_sha256": "a6663742be069df080167d938c1c3448ac1be01da5a5103df37b15bd55c76f21",
+      "html_sha256": "c25b60c18962037bdf2c49f5edd0bf442b071473c5c860e2bb65c6d5f10f7fb5",
       "signals": {
         "title": "Cuyabeno Travel Guide | Wildlife, Lodges and Trip Planning",
         "meta_description": "Compare Cuyabeno lodges, canoe-based wildlife experiences, access from Quito, trip length and practical planning considerations.",
@@ -52,21 +52,21 @@
           "/privacy-policy/",
           "/terms/"
         ],
-        "word_count": 1400,
+        "word_count": 1402,
         "question_heading_count": 3,
         "cta_link_count": 5,
         "document_language": "en",
         "image_count": 4,
         "missing_alt_count": 0,
         "unlabelled_control_count": 0,
-        "visible_text_sha256": "fa243b588a326b047ed79716df952a533e85d3ea3b8e86907febb635c328139c"
+        "visible_text_sha256": "bb4ee28ba09d615e39d0f610ab5cf34f996756a8f756501142b9f64bc9615f7f"
       }
     },
     "es": {
       "route": "/es/ecuador/cuyabeno/",
-      "main_words": 1265,
+      "main_words": 1266,
       "word_count_scope": "Main content excluding guide navigation",
-      "html_sha256": "9fd6ceb04800ae50e2ad59398af8df1800aaed155d7bf038a49899de496afe3c",
+      "html_sha256": "1c15d1573f4e54cfa29a2026fde072ebe6357efb5a2b90692b3f37ea54f388f9",
       "signals": {
         "title": "Guía de Cuyabeno | Fauna, Lodges y Planificación",
         "meta_description": "Compara lodges de Cuyabeno, experiencias de fauna en canoa, acceso desde Quito, duración y factores prácticos.",
@@ -112,14 +112,14 @@
           "/es/politica-de-privacidad/",
           "/es/terminos/"
         ],
-        "word_count": 1484,
+        "word_count": 1485,
         "question_heading_count": 3,
         "cta_link_count": 5,
         "document_language": "es",
         "image_count": 4,
         "missing_alt_count": 0,
         "unlabelled_control_count": 0,
-        "visible_text_sha256": "a4a92128ce241f03622ea6384f54d01f4a2378a47e9f6f38b54749302ea8d92d"
+        "visible_text_sha256": "f29c2bc441eeb1759873f0899641ed7da1613aac6b6787ede54aced5e6b8c5e8"
       }
     }
   },

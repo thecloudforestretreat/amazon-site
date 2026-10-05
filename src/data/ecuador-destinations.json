@@ -494,6 +494,32 @@
         "title": "Yasuní Biosphere Reserve tourism portal",
         "url": "https://reservabiosferayasuni.org/turismo/"
       }
+    ],
+    "sectionImages": [
+      {
+        "src": "/assets/images/ecuador/yasuni-reflections-gallice.jpg",
+        "width": 999,
+        "height": 1400,
+        "altEn": "Forest reflected in a waterway in Yasuní",
+        "altEs": "Bosque reflejado en un curso de agua en Yasuní",
+        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Reflections,_Yasuni.jpg",
+        "credit": "Geoff Gallice",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "section": 0
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-leaf-frog-gallice.jpg",
+        "width": 1400,
+        "height": 933,
+        "altEn": "White-lined leaf frog photographed in Yasuní National Park",
+        "altEs": "Rana de hoja fotografiada en el Parque Nacional Yasuní",
+        "source": "https://commons.wikimedia.org/wiki/File:Phyllomedusa_vaillantii_(Yasuni).jpg",
+        "credit": "Geoff Gallice",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "section": 4
+      }
     ]
   },
   {
@@ -1396,6 +1422,32 @@
       {
         "title": "Tena municipal tourism guide",
         "url": "https://tena.gob.ec/TRANSPARENCIA/TURISMO/Tena_Guia_turistica.pdf"
+      }
+    ],
+    "sectionImages": [
+      {
+        "src": "/assets/images/ecuador/tena-river-faessler.jpg",
+        "width": 900,
+        "height": 600,
+        "altEn": "Tena River, town buildings and wooded banks in Tena, Ecuador",
+        "altEs": "Río Tena, edificios y riberas arboladas en Tena, Ecuador",
+        "source": "https://commons.wikimedia.org/wiki/File:Tena1.jpg",
+        "credit": "Andreas Faessler",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "section": 0
+      },
+      {
+        "src": "/assets/images/ecuador/tena-forest-jay.jpg",
+        "width": 1400,
+        "height": 933,
+        "altEn": "Sunlight through rainforest trees in Tena, Ecuador",
+        "altEs": "Luz entre los árboles del bosque amazónico en Tena, Ecuador",
+        "source": "https://commons.wikimedia.org/wiki/File:Amazon_Rainforest_in_Tena,_Ecuador.jpg",
+        "credit": "Jay",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "section": 4
       }
     ]
   },

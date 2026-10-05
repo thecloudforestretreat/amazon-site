@@ -65,10 +65,10 @@
     "scope": "Approved Cuyabeno design template; authorized Yasuni and Tena two-pair batch"
   },
   "deployment": {
-    "id": "943c4348",
+    "id": "ca21a962",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://943c4348.amazon-site-staging.pages.dev",
+    "url": "https://ca21a962.amazon-site-staging.pages.dev",
     "protected_domain_check": "302 Cloudflare Access login",
     "date": "2026-10-05"
   },
@@ -122,5 +122,20 @@
     "measured_performance": "pending",
     "contact_delivery": "endpoint absent",
     "owner_review": "pending"
+  },
+  "template": {
+    "photos_per_page": 3,
+    "placements": [
+      "hero",
+      "landscape introduction, section 1",
+      "experience feature, section 5"
+    ],
+    "desktop": "landscape image left; experience image right",
+    "mobile": "image before text",
+    "evidence": "planning/ai-os/evidence/three-photo-template-qa.json",
+    "applied_to": [
+      "yasuni",
+      "tena"
+    ]
   }
 }

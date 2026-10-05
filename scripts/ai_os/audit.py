@@ -39,6 +39,15 @@ def audit(slug='cuyabeno'):
         if destination.get('imageSource') not in html: errors.append('Missing image source credit')
         if not (ROOT/'dist'/destination['image'].lstrip('/')).is_file(): errors.append('Missing image asset')
         if signals.missing_alt_count or signals.unlabelled_control_count: errors.append('Unlabelled image or control')
+        if destination.get('sectionImages'):
+            photos=[destination['image']]+[i['src'] for i in destination['sectionImages']]
+            if len(photos)!=3 or len(set(photos))!=3: errors.append('Three distinct destination photos required')
+            for photo in photos:
+                if main.count('src="'+photo+'"')!=1: errors.append('Destination photo missing or repeated: '+photo)
+                if not (ROOT/'dist'/photo.lstrip('/')).is_file(): errors.append('Missing supporting photo asset')
+            for scene in destination['sectionImages']:
+                if scene['source'] not in main or scene['licenseUrl'] not in main: errors.append('Supporting photo attribution incomplete')
+
         for href in re.findall(r'href="(#[^"]+)"',html):
             if f'id="{href[1:]}"' not in html: errors.append('Broken page fragment '+href)
         report['errors'] += [lang+': '+e for e in errors]

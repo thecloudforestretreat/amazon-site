@@ -1,0 +1,46 @@
+[
+  {
+    "asset": "src/assets/images/ecuador/yasuni-reflections-gallice.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Reflections,_Yasuni.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flickr_-_ggallice_-_Reflections%2C_Yasuni.jpg",
+    "author": "Geoff Gallice",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "verified": "2026-10-05",
+    "changes": "Resized and CSS cropped",
+    "geography": "Individual source description identifies Yasuni National Park"
+  },
+  {
+    "asset": "src/assets/images/ecuador/yasuni-leaf-frog-gallice.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Phyllomedusa_vaillantii_(Yasuni).jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Phyllomedusa_vaillantii_%28Yasuni%29.jpg",
+    "author": "Geoff Gallice",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "verified": "2026-10-05",
+    "changes": "Resized and CSS cropped",
+    "geography": "Individual source description identifies Yasuni National Park"
+  },
+  {
+    "asset": "src/assets/images/ecuador/tena-river-faessler.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tena1.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/75/Tena1.jpg",
+    "author": "Andreas Faessler",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "verified": "2026-10-05",
+    "changes": "Resized and CSS cropped",
+    "geography": "Individual source description identifies Tena, Ecuador"
+  },
+  {
+    "asset": "src/assets/images/ecuador/tena-forest-jay.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Amazon_Rainforest_in_Tena,_Ecuador.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/05/Amazon_Rainforest_in_Tena%2C_Ecuador.jpg",
+    "author": "Jay",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "verified": "2026-10-05",
+    "changes": "Resized and CSS cropped",
+    "geography": "Individual source description identifies Tena, Ecuador"
+  }
+]
