@@ -1,0 +1,12 @@
+{
+  "job": "yasuni",
+  "status": "editorially_reviewed_and_deployed_to_staging",
+  "model": "qwen3.5:9b",
+  "seconds": 219.07,
+  "prompt_eval_count": 931,
+  "eval_count": 5027,
+  "cloud_worker_tokens": 0,
+  "raw_draft_sha256": "72fe17844c98460c854806b971a0f73e42dd7646b6d7aac12380324988f4fa80",
+  "reviewed_draft_sha256": "f084d78c7c0d12b93f08b9daeb69a25d4acfbd7def997b7db7b233f607cf36ab",
+  "promotion": "Supervisor reviewed source; raw output was not published directly"
+}

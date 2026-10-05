@@ -1,0 +1,352 @@
+{
+  "en": {
+    "quick": "Tena serves as the most practical gateway to Ecuador's Amazon, offering road access for travelers seeking a blend of town comfort and jungle adventure. It provides flexible options ranging from local hotels to nearby lodges, river rafting, and community visits, though immersion depth depends on how far you venture beyond the city limits.",
+    "lede": "Select Tena when convenient overland entry, adaptable trip durations, and a diverse mix of rainforest, river, and cultural experiences take priority over maximum isolation. This gateway balances urban amenities with quick access to reserves, making it ideal for independent explorers or those extending their journey from other regions.",
+    "fit": "Short stays and active itineraries",
+    "access": "Direct overland approach from the Andes",
+    "pace": "Two to four nights is flexible",
+    "sections": [
+      {
+        "heading": "Landscape",
+        "intro": "The view from Tena reveals a dense tapestry of green canopy stretching toward the horizon, where mist often clings to distant peaks. The terrain transitions rapidly from paved roads to muddy tracks that wind through humid valleys.",
+        "practical_context": "Travelers should expect humidity and rapid weather changes typical of lowland equatorial zones. While the city offers modern infrastructure, venturing into the forest requires preparation for uneven ground and dense vegetation.",
+        "display": {
+          "heading": "Visual Expectations",
+          "intro": "The scenery shifts from urban edges to wild riverbanks within minutes of leaving town.",
+          "points": [
+            "Dense canopy blocks direct sunlight, creating a cool, damp microclimate.",
+            "Mist frequently obscures distant peaks during the early morning hours.",
+            "Riverbanks show signs of human activity mixed with natural growth."
+          ]
+        }
+      },
+      {
+        "heading": "Traveler Fit",
+        "intro": "This destination suits those who value logistical ease alongside nature immersion. It is not designed for those seeking total isolation without prior planning or local support networks.",
+        "practical_context": "Independent travelers will find the town's services useful, but deep forest experiences require booking with qualified operators who understand local safety protocols and terrain challenges.",
+        "display": {
+          "heading": "Who Should Go",
+          "intro": "Ideal for first-timers or those combining city life with jungle exploration.",
+          "points": [
+            "Suitable for families seeking accessible adventure without remote transfers.",
+            "Perfect for photographers needing reliable transport and equipment support.",
+            "Good for travelers requiring medical access before entering deeper reserves."
+          ]
+        }
+      },
+      {
+        "heading": "Access",
+        "intro": "Tena connects the Andean highlands to the Amazon basin via maintained roads. Vehicles navigate from paved sections into gravel tracks that lead toward river confluences and forest entrances.",
+        "practical_context": "Road conditions vary by season; wet periods may slow progress on unpaved sections. Always verify current route status with operators before departure to avoid delays or vehicle issues.",
+        "display": {
+          "heading": "Route Reality",
+          "intro": "The journey involves transitioning from asphalt to rougher terrain as you approach the forest edge.",
+          "points": [
+            "Paved roads end before reaching most lodge entrances or river launches.",
+            "Gravel tracks require high-clearance vehicles for comfortable passage.",
+            "Weather can turn trails muddy, affecting travel speed significantly."
+          ]
+        }
+      },
+      {
+        "heading": "Length of Stay",
+        "intro": "A minimum of two nights allows time to acclimate and explore multiple activities. Extending to four or five days enables deeper immersion into specific reserves or longer river expeditions.",
+        "practical_context": "Short visits often limit wildlife sightings due to animal activity patterns. Longer stays increase chances of encountering elusive species and experiencing seasonal variations in behavior.",
+        "display": {
+          "heading": "Time Allocation",
+          "intro": "Balance town exploration with field time to maximize your experience.",
+          "points": [
+            "Two nights suffice for a single lodge visit or rafting trip.",
+            "Four nights allow combining river, forest, and community activities.",
+            "Five days support multi-reserve itineraries without rushing between sites."
+          ]
+        }
+      },
+      {
+        "heading": "Activities and Wildlife",
+        "intro": "Rafting on the Jatunyacu and Misahualli rivers offers thrills, while guided walks reveal birdlife and mammals. Wildlife sightings depend heavily on guide knowledge and habitat quality rather than guaranteed encounters.",
+        "practical_context": "River sports require specific safety gear and certified guides. Forest excursions demand respect for local flora and fauna, ensuring no disturbance to nesting sites or animal territories.",
+        "display": {
+          "heading": "Key Experiences",
+          "intro": "Diverse options exist from adrenaline sports to quiet observation in protected areas.",
+          "points": [
+            "Rafting provides unique perspectives on river ecosystems and waterfalls.",
+            "Guided walks highlight canopy birds and elusive mammals like monkeys.",
+            "Community visits offer cultural insights into traditional livelihoods."
+          ]
+        }
+      },
+      {
+        "heading": "Timing and Conditions",
+        "intro": "Rainfall peaks during certain months, influencing river levels and trail conditions. Dry seasons offer easier access but may reduce bird activity compared to wet periods when insects thrive.",
+        "practical_context": "Plan around weather forecasts for optimal comfort. Heavy rains can suspend rafting or make trails slippery, requiring adjusted itineraries and extra caution on footpaths.",
+        "display": {
+          "heading": "Seasonal Factors",
+          "intro": "Weather dictates activity availability and travel safety throughout the year.",
+          "points": [
+            "Wet season increases river volume but complicates overland travel.",
+            "Dry season improves road conditions but may limit some wildlife views.",
+            "Morning mist is common regardless of season, affecting visibility."
+          ]
+        }
+      },
+      {
+        "heading": "Choosing a Base and Guide",
+        "intro": "Select between staying in Tena town or booking nearby lodges based on your priorities. Guides must be vetted for credentials, safety records, and familiarity with local terrain and wildlife.",
+        "practical_context": "Town hotels offer amenities while lodges provide immersion. Verify transport inclusion and guide qualifications before booking. Misahualli serves as an alternative riverfront base for specific itineraries.",
+        "display": {
+          "heading": "Selection Criteria",
+          "intro": "Evaluate facilities, location, and operator reputation carefully.",
+          "points": [
+            "Town stays offer convenience; lodges provide deeper nature access.",
+            "Ensure guides hold relevant certifications for river or forest activities.",
+            "Check if transport costs are included in your package price."
+          ]
+        }
+      },
+      {
+        "heading": "Packing and Mobility",
+        "intro": "Pack light with quick-dry clothing and sturdy footwear. Mobility aids may be needed on rough tracks, so assess personal needs before traveling. Bring essentials for humidity and insect protection.",
+        "practical_context": "Luggage must fit in standard vehicles; oversized items face restrictions. Rain gear is essential regardless of season predictions. Keep valuables secure during transfers between town and sites.",
+        "display": {
+          "heading": "Essential Gear",
+          "intro": "Prepare for variable conditions with versatile, durable equipment.",
+          "points": [
+            "Quick-dry fabrics handle sudden rain showers effectively.",
+            "Sturdy boots protect against mud and uneven terrain.",
+            "Insect repellent is non-negotiable for forest environments."
+          ]
+        }
+      },
+      {
+        "heading": "Respectful Community and Wildlife Behavior",
+        "intro": "Interact with locals and animals with courtesy. Obtain consent before visiting communities and follow rules to protect wildlife habitats. Avoid feeding animals or disturbing nesting sites during observations.",
+        "practical_context": "Cultural sensitivity is paramount; dress modestly and ask permission for photos. Wildlife encounters require silence and distance; never chase or corner animals, even if they seem approachable.",
+        "display": {
+          "heading": "Etiquette Guidelines",
+          "intro": "Respect ensures positive interactions for both visitors and residents.",
+          "points": [
+            "Ask permission before photographing community members or ceremonies.",
+            "Maintain distance from wildlife to prevent stress or behavioral changes.",
+            "Dispose of waste properly to preserve natural environments."
+          ]
+        }
+      },
+      {
+        "heading": "Destination Comparisons",
+        "intro": "Tena differs from isolated lodges like those in Yasuní by offering urban comforts. It is not identical to Cuyabeno or Misahualli, which serve distinct ecological and logistical roles within the region.",
+        "practical_context": "Choose Tena for flexibility; select remote lodges for seclusion. Each destination offers unique advantages depending on your goals, whether prioritizing ease of access or maximum immersion in untouched wilderness.",
+        "display": {
+          "heading": "Regional Context",
+          "intro": "Understand how Tena fits among other Amazon destinations.",
+          "points": [
+            "Tena balances city life with nature; remote lodges prioritize isolation.",
+            "Misahualli offers a different riverfront experience from Tena's main hub.",
+            "Yasuní provides deeper immersion but requires longer, more complex transfers."
+          ]
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can I visit Tena without a package?",
+        "answer": "Yes. Tena supports independent travel, although guided forest, river and community experiences should still be arranged with qualified providers."
+      },
+      {
+        "question": "Is Tena good for wildlife?",
+        "answer": "It can offer worthwhile wildlife and birding, particularly with knowledgeable guides and visits to better habitat, but it is not automatically as remote as Yasuní or Cuyabeno."
+      },
+      {
+        "question": "How long should I stay?",
+        "answer": "Two to four nights works for many travelers; add time if combining several activities or a more distant lodge."
+      },
+      {
+        "question": "Is Tena suitable for families?",
+        "answer": "Yes, the town offers safe amenities and accessible activities. However, river sports require adult supervision and adherence to safety protocols at all times."
+      },
+      {
+        "question": "What if I miss a scheduled activity?",
+        "answer": "Contact your operator immediately. Rescheduling depends on weather, availability, and local conditions. Flexible itineraries allow adjustments, but remote sites may have limited windows."
+      },
+      {
+        "question": "Are there medical facilities nearby?",
+        "answer": "Tena town has clinics capable of handling minor issues. Serious cases require transfer to larger centers. Always inform operators of health needs before booking trips."
+      }
+    ]
+  },
+  "es": {
+    "quick": "Tena es la base más práctica del Amazonas ecuatoriano para viajeros que llegan por carretera y eligen entre hoteles urbanos, lodges cercanos, rafting y visitas comunitarias. Es flexible, pero la experiencia depende en gran medida de cuánto te alejas de la ciudad hacia áreas naturales.",
+    "lede": "Elige Tena cuando el acceso terrestre fácil, duraciones flexibles y una mezcla de selva, río y cultura importan más que el aislamiento máximo. Esta puerta de entrada combina comodidades urbanas con acceso rápido a reservas, ideal para exploradores independientes o quienes extienden su viaje desde otras regiones.",
+    "fit": "Estancias cortas e itinerarios activos",
+    "access": "Enfoque terrestre directo desde los Andes",
+    "pace": "Dos a cuatro noches son flexibles",
+    "sections": [
+      {
+        "heading": "Paisaje",
+        "intro": "La vista desde Tena revela una densa tapiz de dosel verde que se extiende hacia el horizonte, donde la bruma a menudo se adhiere a picos distantes. El terreno transiciona rápidamente de carreteras pavimentadas a senderos de tierra que serpentean por valles húmedos.",
+        "practical_context": "Los viajeros deben esperar humedad y cambios climáticos rápidos típicos de zonas ecuatoriales bajas. Aunque la ciudad ofrece infraestructura moderna, adentrarse en el bosque requiere preparación para terreno irregular y vegetación densa.",
+        "display": {
+          "heading": "Expectativas Visuales",
+          "intro": "El paisaje cambia desde los bordes urbanos hasta las orillas salvajes de los ríos en minutos de salir de la ciudad.",
+          "points": [
+            "El dosel denso bloquea la luz solar directa, creando un microclima fresco y húmedo.",
+            "La bruma frecuentemente oscurece picos distantes durante las primeras horas de la mañana.",
+            "Las orillas de los ríos muestran signos de actividad humana mezclada con crecimiento natural."
+          ]
+        }
+      },
+      {
+        "heading": "Adecuación para el Viajero",
+        "intro": "Este destino satisface a quienes valoran la facilidad logística junto con la inmersión en la naturaleza. No está diseñado para aquellos que buscan aislamiento total sin planificación previa o redes de apoyo locales.",
+        "practical_context": "Los viajeros independientes encontrarán útiles los servicios de la ciudad, pero las experiencias profundas en el bosque requieren reservar con operadores calificados que entiendan los protocolos de seguridad locales y desafíos del terreno.",
+        "display": {
+          "heading": "Quién Debería Ir",
+          "intro": "Ideal para principiantes o quienes combinan vida urbana con exploración de la selva.",
+          "points": [
+            "Adecuado para familias que buscan aventura accesible sin traslados remotos.",
+            "Perfecto para fotógrafos que necesitan transporte confiable y soporte de equipo.",
+            "Bueno para viajeros que requieren acceso médico antes de ingresar a reservas más profundas."
+          ]
+        }
+      },
+      {
+        "heading": "Acceso",
+        "intro": "Tena conecta las tierras altas andinas con la cuenca amazónica mediante carreteras mantenidas. Los vehículos navegan desde secciones pavimentadas hasta senderos de grava que conducen hacia confluencias fluviales y entradas al bosque.",
+        "practical_context": "Las condiciones de la carretera varían según la estación; los periodos húmedos pueden ralentizar el progreso en secciones no pavimentadas. Siempre verifique el estado actual de la ruta con operadores antes de salir para evitar retrasos o problemas vehiculares.",
+        "display": {
+          "heading": "Realidad de la Ruta",
+          "intro": "El viaje implica transicionar desde asfalto hasta terreno más áspero al acercarse al borde del bosque.",
+          "points": [
+            "Las carreteras pavimentadas terminan antes de llegar a la mayoría de las entradas de lodges o lanzamientos de río.",
+            "Los senderos de grava requieren vehículos de gran altura libre para un paso cómodo.",
+            "El clima puede convertir los senderos en lodos, afectando significativamente la velocidad de viaje."
+          ]
+        }
+      },
+      {
+        "heading": "Duración de la Estancia",
+        "intro": "Un mínimo de dos noches permite tiempo para aclimatarse y explorar múltiples actividades. Extender a cuatro o cinco días habilita una inmersión más profunda en reservas específicas o expediciones fluviales más largas.",
+        "practical_context": "Las visitas cortas a menudo limitan los avistamientos de vida silvestre debido a los patrones de actividad animal. Las estancias más largas aumentan las probabilidades de encontrar especies elusivas y experimentar variaciones estacionales en el comportamiento.",
+        "display": {
+          "heading": "Asignación de Tiempo",
+          "intro": "Equilibre la exploración urbana con tiempo en campo para maximizar su experiencia.",
+          "points": [
+            "Dos noches bastan para una visita a un lodge o viaje de rafting.",
+            "Cuatro noches permiten combinar actividades fluviales, forestales y comunitarias.",
+            "Cinco días apoyan itinerarios de múltiples reservas sin prisa entre sitios."
+          ]
+        }
+      },
+      {
+        "heading": "Actividades y Vida Silvestre",
+        "intro": "El rafting en los ríos Jatunyacu y Misahualli ofrece emociones, mientras que las camadas guiadas revelan aves y mamíferos. Los avistamientos de vida silvestre dependen en gran medida del conocimiento del guía y la calidad del hábitat más que encuentros garantizados.",
+        "practical_context": "Los deportes acuáticos requieren equipo de seguridad específico y guías certificados. Las excursiones forestales exigen respeto por la flora y fauna local, asegurando no perturbar sitios de anidación o territorios animales.",
+        "display": {
+          "heading": "Experiencias Clave",
+          "intro": "Existen diversas opciones desde deportes de adrenalina hasta observación tranquila en áreas protegidas.",
+          "points": [
+            "El rafting proporciona perspectivas únicas sobre ecosistemas fluviales y cascadas.",
+            "Las camadas guiadas destacan aves del dosel y mamíferos elusivos como monos.",
+            "Las visitas comunitarias ofrecen conocimientos culturales sobre medios de vida tradicionales."
+          ]
+        }
+      },
+      {
+        "heading": "Tiempo y Condiciones",
+        "intro": "La lluvia alcanza picos durante ciertos meses, influyendo en los niveles del río y las condiciones de los senderos. Las estaciones secas ofrecen acceso más fácil pero pueden reducir la actividad aviar comparado con periodos húmedos cuando prosperan los insectos.",
+        "practical_context": "Planifique alrededor de pronósticos meteorológicos para comodidad óptima. Lluvias fuertes pueden suspender rafting o hacer senderos resbaladizos, requiriendo itinerarios ajustados y precaución extra en senderos peatonales.",
+        "display": {
+          "heading": "Factores Estacionales",
+          "intro": "El clima dicta disponibilidad de actividades y seguridad de viaje durante todo el año.",
+          "points": [
+            "La estación húmeda aumenta el volumen del río pero complica el transporte terrestre.",
+            "La estación seca mejora las condiciones de carretera pero puede limitar algunas vistas de vida silvestre.",
+            "La bruma matutina es común independientemente de la estación, afectando la visibilidad."
+          ]
+        }
+      },
+      {
+        "heading": "Elegir una Base y Guía",
+        "intro": "Seleccione entre alojarse en el pueblo de Tena o reservar lodges cercanos basándose en sus prioridades. Los guías deben ser evaluados por credenciales, historial de seguridad y familiaridad con el terreno local y vida silvestre.",
+        "practical_context": "Los hoteles urbanos ofrecen comodidades mientras los lodges proporcionan inmersión. Verifique inclusión de transporte y calificaciones del guía antes de reservar. Misahualli sirve como base alternativa de orilla fluvial para itinerarios específicos.",
+        "display": {
+          "heading": "Criterios de Selección",
+          "intro": "Evalúe instalaciones, ubicación y reputación del operador cuidadosamente.",
+          "points": [
+            "Las estancias en la ciudad ofrecen conveniencia; los lodges proporcionan acceso más profundo a la naturaleza.",
+            "Asegúrese de que los guías tengan certificaciones relevantes para actividades fluviales o forestales.",
+            "Verifique si los costos de transporte están incluidos en el precio de su paquete."
+          ]
+        }
+      },
+      {
+        "heading": "Empaquetado y Movilidad",
+        "intro": "Empaque ligero con ropa rápida secado y calzado resistente. Pueden necesitar ayudas de movilidad en senderos ásperos, así que evalúe necesidades personales antes de viajar. Lleve esenciales para humedad y protección contra insectos.",
+        "practical_context": "El equipaje debe caber en vehículos estándar; los artículos excesivamente grandes enfrentan restricciones. El equipo de lluvia es esencial independientemente de las predicciones estacionales. Mantenga valores seguros durante traslados entre ciudad y sitios.",
+        "display": {
+          "heading": "Equipo Esencial",
+          "intro": "Prepare para condiciones variables con equipo versátil y duradero.",
+          "points": [
+            "Las telas de secado rápido manejan eficazmente chaparrones de lluvia repentinos.",
+            "Botas resistentes protegen contra lodo y terreno irregular.",
+            "El repelente de insectos es innegociable para entornos forestales."
+          ]
+        }
+      },
+      {
+        "heading": "Comportamiento Respetuoso hacia la Comunidad y Vida Silvestre",
+        "intro": "Interactúe con locales y animales con cortesía. Obtenga consentimiento antes de visitar comunidades y siga reglas para proteger hábitats de vida silvestre. Evite alimentar animales o perturbar sitios de anidación durante observaciones.",
+        "practical_context": "La sensibilidad cultural es primordial; vístase modestamente y pida permiso para fotos. Los encuentros con vida silvestre requieren silencio y distancia; nunca persiga ni acorrale animales, incluso si parecen accesibles.",
+        "display": {
+          "heading": "Líneas de Etiqueta",
+          "intro": "El respeto asegura interacciones positivas tanto para visitantes como residentes.",
+          "points": [
+            "Pida permiso antes de fotografiar miembros de la comunidad o ceremonias.",
+            "Mantenga distancia de vida silvestre para prevenir estrés o cambios de comportamiento.",
+            "Deseche residuos apropiadamente para preservar entornos naturales."
+          ]
+        }
+      },
+      {
+        "heading": "Comparaciones de Destino",
+        "intro": "Tena difiere de lodges aislados como los de Yasuní al ofrecer comodidades urbanas. No es idéntico a Cuyabeno o Misahualli, que sirven roles ecológicos y logísticos distintos dentro de la región.",
+        "practical_context": "Elija Tena para flexibilidad; seleccione lodges remotos para aislamiento. Cada destino ofrece ventajas únicas dependiendo de sus objetivos, ya sea priorizando facilidad de acceso o inmersión máxima en salvaje intacto.",
+        "display": {
+          "heading": "Contexto Regional",
+          "intro": "Entienda cómo Tena se ajusta entre otros destinos amazónicos.",
+          "points": [
+            "Tena equilibra vida urbana con naturaleza; lodges remotos priorizan aislamiento.",
+            "Misahualli ofrece una experiencia diferente de orilla fluvial desde el hub principal de Tena.",
+            "Yasuní proporciona inmersión más profunda pero requiere traslados más largos y complejos."
+          ]
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Puedo visitar Tena sin un paquete?",
+        "answer": "Sí. Tena apoya el viaje independiente, aunque las experiencias forestales, fluviales y comunitarias guiadas aún deben organizarse con proveedores calificados."
+      },
+      {
+        "question": "¿Es Tena bueno para vida silvestre?",
+        "answer": "Puede ofrecer vida silvestre y avistamiento de aves dignos de mención, particularmente con guías conocedores y visitas a hábitats mejores, pero no es automáticamente tan remoto como Yasuní o Cuyabeno."
+      },
+      {
+        "question": "¿Cuánto tiempo debería quedarme?",
+        "answer": "Dos a cuatro noches funcionan para muchos viajeros; agregue tiempo si combina varias actividades o un lodge más distante."
+      },
+      {
+        "question": "¿Es Tena adecuado para familias?",
+        "answer": "Sí, la ciudad ofrece comodidades seguras y actividades accesibles. Sin embargo, los deportes acuáticos requieren supervisión adulta y adherencia a protocolos de seguridad en todo momento."
+      },
+      {
+        "question": "¿Qué pasa si me pierdo una actividad programada?",
+        "answer": "Contacte a su operador inmediatamente. La reprogramación depende del clima, disponibilidad y condiciones locales. Los itinerarios flexibles permiten ajustes, pero los sitios remotos pueden tener ventanas limitadas."
+      },
+      {
+        "question": "¿Hay instalaciones médicas cerca?",
+        "answer": "El pueblo de Tena tiene clínicas capaces de manejar problemas menores. Casos graves requieren traslado a centros más grandes. Siempre informe a operadores sobre necesidades de salud antes de reservar viajes."
+      }
+    ]
+  }
+}

@@ -93,3 +93,15 @@ Deployed `c04c7e71`: curated bilingual display copy replaces sentence extraction
 ### Design QA — static checks and safe contact simulation
 
 Deployed `ac7af02b`. Fixed hero credit contrast (4.06:1 to 5.79:1) and added explicit photo dimensions. Six selected solid-color contrast pairs pass normal-text thresholds; this is not a full rendered accessibility audit. Unique IDs, H1s, image alt presence and contact labels checked. Node VM simulation verifies both localized missing-endpoint fallbacks and WhatsApp/mailto URL construction with zero network requests. Form delivery endpoint remains absent. Photos total 1,169,158 bytes per language page; below-fold image is lazy. No measured Lighthouse/LCP/CLS/INP results, browser visual or real keyboard testing: admin-policy check denied access again. Evidence: `planning/ai-os/design-qa.json`, `contact-qa.json`.
+
+### Browser access restored
+
+Initial rendered checks now pass: EN at 1440/390px and ES at 1117/390px have no document horizontal overflow. Desktop fact-label positions match exactly; rounded hero styling and loaded images confirmed. English mobile menu opens/closes with Enter. Spanish wildlife anchor settles below the sticky navigation. Viewport override cleared; original English preview restored. Full keyboard/accessibility audit, measured performance and contact delivery remain pending. Owner quality hold retained.
+
+### Yasuní and Tena bilingual batch — owner preview
+
+Deployed `943c4348` to protected staging after owner approved the Cuyabeno template and the next two-pair batch. Four reviewed pages: Yasuní EN/ES (1,129/1,163 main words), Tena EN/ES (1,339/1,234). Added geographically verified licensed Yasuní photography and confirmed the existing Tena Unsplash asset; each hero appears once per page. Generalized destination headings, itinerary cards, source panels and audits.
+
+Two sequential local qwen3.5:9b calls: 1,775 prompt tokens and 10,521 generated tokens, 463.05 seconds; no retry or cache hit on these initial calls. Local worker cloud tokens: zero; supervision still uses cloud resources. Substantial editorial correction removed unsupported claims and improved Spanish; raw and reviewed drafts are preserved with hashes. The batch runner isolates drafts, bounds attempts and caches output; its structural validator remains limited and does not replace editorial review.
+
+Build/24-page validation and both audits pass. Authenticated desktop/mobile checks at 1117/390 px across both languages show no horizontal overflow, aligned desktop fact labels and loaded rounded hero images. Spanish hero/content-card screenshots reviewed. Unauthenticated staging requests return 302 to Access. Full accessibility, measured performance and contact delivery remain pending before launch. Remote push remains blocked by prior automatic approval review; local staging work preserved. Owner review pending before further batches.

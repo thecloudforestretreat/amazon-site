@@ -1,0 +1,12 @@
+{
+  "job": "tena",
+  "status": "editorially_reviewed_and_deployed_to_staging",
+  "model": "qwen3.5:9b",
+  "seconds": 243.98,
+  "prompt_eval_count": 844,
+  "eval_count": 5494,
+  "cloud_worker_tokens": 0,
+  "raw_draft_sha256": "028de75a1f57f72aee942264dd6b8ae94cc4b90c5633037fc018e857df2c8716",
+  "reviewed_draft_sha256": "8acc4e10ed9e78c188be8d038e37c92f6216ac6c8cf043e2e21d2433fdd4732e",
+  "promotion": "Supervisor reviewed source; raw output was not published directly"
+}

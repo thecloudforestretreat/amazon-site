@@ -1,0 +1,128 @@
+{
+  "pair_id": "pair_006",
+  "errors": [],
+  "pages": {
+    "en": {
+      "route": "/ecuador/tena/",
+      "main_words": 1339,
+      "word_count_scope": "Main content excluding guide navigation",
+      "html_sha256": "d0329be760d0cf41107374d961ba447ad1fc596a88c9def0217fb199f15b34d2",
+      "signals": {
+        "title": "Tena Amazon Travel Guide | Ecuador Jungle Trips",
+        "meta_description": "Plan an Amazon trip from Tena with guidance on access, lodges, river activities, culture, wildlife expectations and ideal trip length.",
+        "h1": [
+          "Tena: Ecuador's flexible Amazon gateway"
+        ],
+        "canonical": "https://experiencetheamazon.com/ecuador/tena/",
+        "hreflang": [
+          [
+            "en",
+            "https://experiencetheamazon.com/ecuador/tena/"
+          ],
+          [
+            "es",
+            "https://experiencetheamazon.com/es/ecuador/tena/"
+          ],
+          [
+            "x-default",
+            "https://experiencetheamazon.com/ecuador/tena/"
+          ]
+        ],
+        "robots": "noindex,nofollow,noarchive",
+        "schema_types": [
+          "Answer",
+          "BreadcrumbList",
+          "Country",
+          "FAQPage",
+          "ListItem",
+          "Question",
+          "TouristDestination"
+        ],
+        "internal_links": [
+          "/",
+          "/about/",
+          "/contact/",
+          "/ecuador/",
+          "/ecuador/amazon-lodges/",
+          "/ecuador/cuyabeno/",
+          "/ecuador/misahualli/",
+          "/ecuador/puyo/",
+          "/ecuador/yasuni/",
+          "/es/",
+          "/privacy-policy/",
+          "/terms/"
+        ],
+        "word_count": 1583,
+        "question_heading_count": 3,
+        "cta_link_count": 5,
+        "document_language": "en",
+        "image_count": 3,
+        "missing_alt_count": 0,
+        "unlabelled_control_count": 0,
+        "visible_text_sha256": "3bb172de43548bf6f8cb29124c3548adce99bc98e8c64642363629f87350a8cf"
+      }
+    },
+    "es": {
+      "route": "/es/ecuador/tena/",
+      "main_words": 1234,
+      "word_count_scope": "Main content excluding guide navigation",
+      "html_sha256": "7080ba5f8f6315c0d131605b86ac1a08fbb8772ac998dc0d2688800099cc06c6",
+      "signals": {
+        "title": "Guía de Tena Amazonía | Selva y Aventura en Ecuador",
+        "meta_description": "Planifica un viaje amazónico desde Tena con información de acceso, lodges, ríos, cultura, fauna y duración.",
+        "h1": [
+          "Tena: puerta flexible a la Amazonía"
+        ],
+        "canonical": "https://experiencetheamazon.com/es/ecuador/tena/",
+        "hreflang": [
+          [
+            "en",
+            "https://experiencetheamazon.com/ecuador/tena/"
+          ],
+          [
+            "es",
+            "https://experiencetheamazon.com/es/ecuador/tena/"
+          ],
+          [
+            "x-default",
+            "https://experiencetheamazon.com/ecuador/tena/"
+          ]
+        ],
+        "robots": "noindex,nofollow,noarchive",
+        "schema_types": [
+          "Answer",
+          "BreadcrumbList",
+          "Country",
+          "FAQPage",
+          "ListItem",
+          "Question",
+          "TouristDestination"
+        ],
+        "internal_links": [
+          "/",
+          "/es/",
+          "/es/contacto/",
+          "/es/ecuador/",
+          "/es/ecuador/cuyabeno/",
+          "/es/ecuador/lodges-en-la-amazonia/",
+          "/es/ecuador/misahualli/",
+          "/es/ecuador/puyo/",
+          "/es/ecuador/yasuni/",
+          "/es/nuestra-propuesta/",
+          "/es/politica-de-privacidad/",
+          "/es/terminos/"
+        ],
+        "word_count": 1472,
+        "question_heading_count": 3,
+        "cta_link_count": 5,
+        "document_language": "es",
+        "image_count": 3,
+        "missing_alt_count": 0,
+        "unlabelled_control_count": 0,
+        "visible_text_sha256": "87aef85712d27002d3ec0152443953071e5bfbe4b43c671f069d37dd6f25e64d"
+      }
+    }
+  },
+  "engine": "ai_os.website.html.extract_page_signals",
+  "passed": true
+}

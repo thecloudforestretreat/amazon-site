@@ -35,3 +35,7 @@ The Cuyabeno source and standard Unsplash license were rechecked on October 5. T
 - License: standard Unsplash License; source explicitly marks free use. Verified October 5, 2026.
 - Credit: Constanza S. Mora / Unsplash, linked in both language pages.
 - Purpose: landscape context; no endorsement or claim about the pictured property. One occurrence per page.
+
+## Yasuní batch image — Geoff Gallice
+
+Oxbow lake, Yasuni (July 25, 2009), Geoff Gallice. Source: https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Oxbow_lake,_Yasuni.jpg . CC BY 2.0: https://creativecommons.org/licenses/by/2.0/ . Commercial reuse allowed with attribution, license link and change notice. Asset `yasuni-oxbow-geoff-gallice.jpg` resized to 1600px; CSS crop. All notices shown in both hero captions. Source and geography checked October 5, 2026; visually inspected photograph. Tena existing standard Unsplash source reverified on the same date. Each destination photo used once per page.

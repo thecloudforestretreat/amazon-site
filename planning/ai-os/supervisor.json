@@ -10,7 +10,7 @@
   },
   "pilot_pair": "pair_005",
   "pilot_slug": "cuyabeno",
-  "current_batch_size": 1,
+  "current_batch_size": 2,
   "next_batch_size_after_verified_pilot": 2,
   "completed_pairs": [],
   "prepared_pairs": [
@@ -24,10 +24,6 @@
     "Protected staging deployment and readback"
   ],
   "blockers": [
-    {
-      "code": "visual_review",
-      "detail": "Browser access denied because admin-enforced policy could not be verified. No workaround attempted."
-    },
     {
       "code": "git_push_approval",
       "detail": "Automatic approval review rejected GitHub data egress; explicit owner approval for the staged source and workflow records is pending."
@@ -44,9 +40,10 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Review updated Cuyabeno EN/ES on desktop/mobile",
-    "Obtain owner feedback before additional page batches",
-    "Obtain pending GitHub push authorization"
+    "Owner review of Yasuni and Tena EN/ES preview",
+    "Complete measured performance and full accessibility checks before launch",
+    "Configure and verify contact delivery before launch",
+    "Retain pending GitHub push authorization"
   ],
   "future_batches": [
     "Yasuni + Tena",
@@ -54,7 +51,7 @@
     "Ecuador hub + lodge hub"
   ],
   "notification_policy": "Meaningful change, verified completion, failure or required user action only",
-  "pilot_status": "deployed_pending_visual_and_owner_review",
+  "pilot_status": "deployed_initial_browser_checks_pass_full_qa_pending",
   "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
   "next_batch_candidates": [
     "yasuni",
@@ -63,16 +60,67 @@
   "local_worker_run_complete": true,
   "git_status": "Committed locally; remote push blocked by automatic approval review",
   "quality_hold": {
-    "reason": "Owner requested alignment, spacing and content review before proceeding",
-    "scope": "Cuyabeno EN/ES and shared layout",
-    "release_requires": "Owner can inspect the updated pair after desktop/mobile visual review and staging deployment"
+    "released_by_owner": true,
+    "date": "2026-10-05",
+    "scope": "Approved Cuyabeno design template; authorized Yasuni and Tena two-pair batch"
   },
   "deployment": {
-    "id": "ac7af02b",
+    "id": "943c4348",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://ac7af02b.amazon-site-staging.pages.dev",
+    "url": "https://943c4348.amazon-site-staging.pages.dev",
     "protected_domain_check": "302 Cloudflare Access login",
     "date": "2026-10-05"
+  },
+  "browser_checks": {
+    "date": "2026-10-05",
+    "en_widths": [
+      1440,
+      390
+    ],
+    "es_widths": [
+      1117,
+      390
+    ],
+    "horizontal_page_overflow": false,
+    "desktop_fact_labels_aligned": true,
+    "hero_corners": "24px desktop, 20px mobile",
+    "en_mobile_menu_enter": "passed",
+    "es_wildlife_anchor": "passed",
+    "full_keyboard_audit": "pending",
+    "measured_performance": "pending",
+    "contact_delivery": "endpoint absent"
+  },
+  "active_batch": [
+    "yasuni",
+    "tena"
+  ],
+  "batch_status": "deployed_editorially_reviewed_initial_visual_and_technical_checks_pass_owner_review_pending",
+  "batch_browser_checks": {
+    "date": "2026-10-05",
+    "deployment": "943c4348",
+    "slugs": [
+      "yasuni",
+      "tena"
+    ],
+    "languages": [
+      "en",
+      "es"
+    ],
+    "widths": [
+      1117,
+      390
+    ],
+    "horizontal_overflow": false,
+    "desktop_fact_labels_aligned": true,
+    "hero_images_loaded": true,
+    "hero_corners": "24px desktop / 20px mobile",
+    "visual_review": "Hero and content cards reviewed; bilingual rendered layout checks passed",
+    "technical_validation": "24 compiled pages pass; destination audits pass",
+    "protected_domain_unauthenticated_status": 302,
+    "full_accessibility": "pending",
+    "measured_performance": "pending",
+    "contact_delivery": "endpoint absent",
+    "owner_review": "pending"
   }
 }

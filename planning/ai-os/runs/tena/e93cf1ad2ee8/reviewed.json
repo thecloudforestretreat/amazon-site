@@ -1,0 +1,412 @@
+{
+  "en": {
+    "quick": "Tena suits travelers who want road access and a choice of town stays, nearby lodges and guided excursions. Compare the exact base and activity locations: staying in town is a different experience from sleeping in the forest.",
+    "lede": "A flexible Amazon base: combine a town stay with guided rivers, forest outings and nearby lodges. Choose the setting and activities that suit your time and comfort.",
+    "fit": "Flexible stays and guided activities",
+    "access": "Road access; confirm onward transfers",
+    "pace": "Build days around your activities",
+    "sections": [
+      {
+        "heading": "A base between town and forest",
+        "paragraphs": [
+          "Tena offers a road-access base for exploring the Ecuadorian Amazon while keeping a choice of town accommodation and nearby lodges. The setting changes with the base and excursions you choose.",
+          "Compare where you sleep with where you spend each activity day; a town hotel is not a forest lodge. Ask how much travel separates the accommodation, trails and river meeting points. Choose scenery and access that match your interests, rather than assuming every stay delivers the same level of forest immersion."
+        ],
+        "display": {
+          "heading": "A base between town and forest",
+          "nav": "A base between town and forest",
+          "intro": "Tena offers a road-access base for exploring the Ecuadorian Amazon while keeping a choice of town accommodation and nearby lodges. The setting changes with the base and excursions you choose.",
+          "points": [
+            "Compare where you sleep with where you spend each activity day; a town hotel is not a forest lodge.",
+            "Ask how much travel separates the accommodation, trails and river meeting points.",
+            "Choose scenery and access that match your interests, rather than assuming every stay delivers the same level of forest immersion."
+          ]
+        }
+      },
+      {
+        "heading": "Build your own balance",
+        "paragraphs": [
+          "Tena is useful when you want to combine a town stay with guided river or forest activities. It can also serve as a starting point for a lodge stay beyond town.",
+          "Families should ask about activity ages, walking demands, boat boarding and room arrangements. Photographers and birders should discuss the guide’s knowledge and time to observe rather than expecting particular sightings. If quiet, remoteness or connectivity matters, confirm the specific property; the destination name cannot establish those conditions."
+        ],
+        "display": {
+          "heading": "Build your own balance",
+          "nav": "Build your own balance",
+          "intro": "Tena is useful when you want to combine a town stay with guided river or forest activities. It can also serve as a starting point for a lodge stay beyond town.",
+          "points": [
+            "Families should ask about activity ages, walking demands, boat boarding and room arrangements.",
+            "Photographers and birders should discuss the guide’s knowledge and time to observe rather than expecting particular sightings.",
+            "If quiet, remoteness or connectivity matters, confirm the specific property; the destination name cannot establish those conditions."
+          ]
+        }
+      },
+      {
+        "heading": "Plan beyond the road journey",
+        "paragraphs": [
+          "Road access makes Tena a different comparison from a lodge reached mainly by river. Plan the full journey from your starting point through to your accommodation and each excursion.",
+          "Confirm current transport, meeting points and the final approach to the chosen property. Ask whether activity transfers are included or arranged separately, and who handles late arrivals. Do not infer road surfaces or vehicle requirements from a generic description; request information for your actual route."
+        ],
+        "display": {
+          "heading": "Plan beyond the road journey",
+          "nav": "Plan beyond the road journey",
+          "intro": "Road access makes Tena a different comparison from a lodge reached mainly by river. Plan the full journey from your starting point through to your accommodation and each excursion.",
+          "points": [
+            "Confirm current transport, meeting points and the final approach to the chosen property.",
+            "Ask whether activity transfers are included or arranged separately, and who handles late arrivals.",
+            "Do not infer road surfaces or vehicle requirements from a generic description; request information for your actual route."
+          ]
+        }
+      },
+      {
+        "heading": "Choose days around activities",
+        "paragraphs": [
+          "Start with the activities you care about, then allow time for arrival, transfers and rest. A short stay can work as an introduction; a longer visit gives you more choices.",
+          "Compare full activity days rather than advertised calendar days. Ask whether river and forest outings fit the same day or need separate days. Keep a buffer before onward travel, especially if an activity depends on weather or river conditions."
+        ],
+        "display": {
+          "heading": "Choose days around activities",
+          "nav": "Choose days around activities",
+          "intro": "Start with the activities you care about, then allow time for arrival, transfers and rest. A short stay can work as an introduction; a longer visit gives you more choices.",
+          "points": [
+            "Compare full activity days rather than advertised calendar days.",
+            "Ask whether river and forest outings fit the same day or need separate days.",
+            "Keep a buffer before onward travel, especially if an activity depends on weather or river conditions."
+          ]
+        }
+      },
+      {
+        "heading": "Rivers, trails and patient observation",
+        "paragraphs": [
+          "Tena’s municipal tourism guide describes rafting on the Jatunyacu and Misahuallí rivers. Guided forest outings offer another way to explore; the exact program and habitat depend on the provider.",
+          "For rafting, discuss experience level, route suitability, equipment and current river conditions with a qualified operator. For walks and birding, ask about trail length, habitat, guide language and group size. Community visits should be offered by willing hosts. Wildlife observation takes patience and never comes with guaranteed sightings."
+        ],
+        "display": {
+          "heading": "Rivers, trails and patient observation",
+          "nav": "Rivers, trails and patient observation",
+          "intro": "Tena’s municipal tourism guide describes rafting on the Jatunyacu and Misahuallí rivers. Guided forest outings offer another way to explore; the exact program and habitat depend on the provider.",
+          "points": [
+            "For rafting, discuss experience level, route suitability, equipment and current river conditions with a qualified operator.",
+            "For walks and birding, ask about trail length, habitat, guide language and group size.",
+            "Community visits should be offered by willing hosts. Wildlife observation takes patience and never comes with guaranteed sightings."
+          ]
+        }
+      },
+      {
+        "heading": "Let current conditions guide you",
+        "paragraphs": [
+          "Rain and river conditions matter when choosing activities. A date on the calendar does not guarantee a suitable rafting route, a dry trail or a wildlife encounter.",
+          "Ask how the provider assesses conditions and decides whether an outing goes ahead. Confirm alternatives, cancellation terms and how changes are communicated. Bring rain protection and keep important items dry, even when a forecast appears favorable."
+        ],
+        "display": {
+          "heading": "Let current conditions guide you",
+          "nav": "Let current conditions guide you",
+          "intro": "Rain and river conditions matter when choosing activities. A date on the calendar does not guarantee a suitable rafting route, a dry trail or a wildlife encounter.",
+          "points": [
+            "Ask how the provider assesses conditions and decides whether an outing goes ahead.",
+            "Confirm alternatives, cancellation terms and how changes are communicated.",
+            "Bring rain protection and keep important items dry, even when a forecast appears favorable."
+          ]
+        }
+      },
+      {
+        "heading": "Town hotel or forest lodge?",
+        "paragraphs": [
+          "Choose the base before comparing prices. A town stay can support separate excursions, while a lodge may combine accommodation, meals and guiding in one itinerary.",
+          "Confirm exact location, room facilities, drinking water and any electricity or connectivity limits. Request written inclusions for meals, transfers, equipment and guiding, with extra costs identified. Check operator credentials, guide language, maximum group size and the arrangements for an emergency before committing."
+        ],
+        "display": {
+          "heading": "Town hotel or forest lodge?",
+          "nav": "Town hotel or forest lodge?",
+          "intro": "Choose the base before comparing prices. A town stay can support separate excursions, while a lodge may combine accommodation, meals and guiding in one itinerary.",
+          "points": [
+            "Confirm exact location, room facilities, drinking water and any electricity or connectivity limits.",
+            "Request written inclusions for meals, transfers, equipment and guiding, with extra costs identified.",
+            "Check operator credentials, guide language, maximum group size and the arrangements for an emergency before committing."
+          ]
+        }
+      },
+      {
+        "heading": "Prepare for the outing you book",
+        "paragraphs": [
+          "Packing should follow the actual activity and accommodation. Ask your provider about suitable footwear, equipment, baggage limits and what it supplies before buying or carrying extra gear.",
+          "Lightweight clothing, rain protection and sealed protection for documents and electronics are practical starting points. Discuss mobility requirements in detail: access to rooms, steps, trail surfaces, walking duration and boat boarding. Review current official travel guidance and seek qualified advice for personal health preparation; do not assume facilities from photographs."
+        ],
+        "display": {
+          "heading": "Prepare for the outing you book",
+          "nav": "Prepare for the outing you book",
+          "intro": "Packing should follow the actual activity and accommodation. Ask your provider about suitable footwear, equipment, baggage limits and what it supplies before buying or carrying extra gear.",
+          "points": [
+            "Lightweight clothing, rain protection and sealed protection for documents and electronics are practical starting points.",
+            "Discuss mobility requirements in detail: access to rooms, steps, trail surfaces, walking duration and boat boarding.",
+            "Review current official travel guidance and seek qualified advice for personal health preparation; do not assume facilities from photographs."
+          ]
+        }
+      },
+      {
+        "heading": "Respect the people and the place",
+        "paragraphs": [
+          "Community experiences should be chosen and led by the hosts. Ask what is offered, who receives payment and whether participation is optional before adding a visit to your plans.",
+          "Request permission before photographing people, recording or sharing identifying details. Observe wildlife from a distance; avoid feeding, touching or pursuing animals. Follow guide and host instructions, keep waste with you until it can be disposed of properly, and do not treat private homes or ceremonies as attractions on demand."
+        ],
+        "display": {
+          "heading": "Respect the people and the place",
+          "nav": "Respect the people and the place",
+          "intro": "Community experiences should be chosen and led by the hosts. Ask what is offered, who receives payment and whether participation is optional before adding a visit to your plans.",
+          "points": [
+            "Request permission before photographing people, recording or sharing identifying details.",
+            "Observe wildlife from a distance; avoid feeding, touching or pursuing animals.",
+            "Follow guide and host instructions, keep waste with you until it can be disposed of properly, and do not treat private homes or ceremonies as attractions on demand."
+          ]
+        }
+      },
+      {
+        "heading": "Compare your Amazon base",
+        "paragraphs": [
+          "Tena offers a road-access starting point with a choice of bases and activities. Misahuallí provides a different riverfront setting nearby; a stay farther afield changes both access and the daily program.",
+          "Compare Yasuní and the Napo corridor for a lodge-and-river journey, using the exact property location. Compare Cuyabeno for flooded-forest and canoe exploration; account for the full transfer sequence. Choose by time outside, guiding, comfort and total inclusions. Neither a gateway nor a remote lodge guarantees a better experience for every traveler."
+        ],
+        "display": {
+          "heading": "Compare your Amazon base",
+          "nav": "Compare your Amazon base",
+          "intro": "Tena offers a road-access starting point with a choice of bases and activities. Misahuallí provides a different riverfront setting nearby; a stay farther afield changes both access and the daily program.",
+          "points": [
+            "Compare Yasuní and the Napo corridor for a lodge-and-river journey, using the exact property location.",
+            "Compare Cuyabeno for flooded-forest and canoe exploration; account for the full transfer sequence.",
+            "Choose by time outside, guiding, comfort and total inclusions. Neither a gateway nor a remote lodge guarantees a better experience for every traveler."
+          ]
+        }
+      }
+    ],
+    "faqs": [
+      [
+        "Can I visit Tena without a package?",
+        "A town stay can be planned separately from excursions. Arrange forest, river and community experiences with qualified providers and confirm meeting points, guiding and equipment. Independent travel does not mean every activity should be attempted without a guide."
+      ],
+      [
+        "How should I choose a rafting trip?",
+        "Discuss your experience, the proposed route, conditions, safety equipment and the guide’s assessment with a qualified operator. Confirm age and participation requirements for your group. Do not select a river outing solely from a photograph or an advertised difficulty label."
+      ],
+      [
+        "How many days should I allow?",
+        "Build the stay around actual activities and transfers. A short visit can focus on one priority; more days can combine river and forest outings. Check full activity days, rest time and onward travel before choosing a duration."
+      ],
+      [
+        "Can families plan a stay here?",
+        "Ask providers about minimum ages, room arrangements, walking demands and activity alternatives. Suitability depends on the selected program and individual needs. A town base does not establish accessibility or the suitability of a particular river or forest outing."
+      ],
+      [
+        "Are wildlife sightings guaranteed?",
+        "No. Habitat, conditions and animal behavior vary. Choose a knowledgeable guide and allow time to observe, but avoid promises of particular species. The location of your excursions matters more than assuming that staying in Tena alone provides a remote wildlife experience."
+      ],
+      [
+        "What should I confirm before booking?",
+        "Get the location, transfers, guide language, group size, meals, equipment and extra costs in writing. Discuss cancellation terms and emergency arrangements. Confirm mobility and personal requirements directly rather than inferring them from general destination descriptions."
+      ]
+    ]
+  },
+  "es": {
+    "quick": "Tena funciona para quienes buscan acceso terrestre, hoteles urbanos, lodges cercanos y excursiones guiadas. Compara la base y los lugares de las actividades: alojarte en la ciudad es distinto de dormir en el bosque.",
+    "lede": "Una base amazónica flexible: combina una estancia urbana con ríos, bosque y lodges cercanos. Elige el entorno y las actividades según tu tiempo y comodidad.",
+    "fit": "Estancias flexibles y actividades guiadas",
+    "access": "Acceso terrestre; confirma traslados posteriores",
+    "pace": "Organiza días según tus actividades",
+    "sections": [
+      {
+        "heading": "Entre la ciudad y la selva",
+        "paragraphs": [
+          "Tena ofrece una base con acceso por carretera para explorar la Amazonía, con hoteles urbanos y lodges cercanos. El entorno cambia según el alojamiento y las excursiones que elijas.",
+          "Compara dónde duermes con dónde pasas cada día de actividades; un hotel urbano no es un lodge en el bosque. Consulta los traslados entre alojamiento, senderos y puntos de encuentro en el río. Elige el paisaje y el acceso según tus intereses, sin asumir que todas las estancias ofrecen la misma inmersión."
+        ],
+        "display": {
+          "heading": "Entre la ciudad y la selva",
+          "nav": "Entre la ciudad y la selva",
+          "intro": "Tena ofrece una base con acceso por carretera para explorar la Amazonía, con hoteles urbanos y lodges cercanos. El entorno cambia según el alojamiento y las excursiones que elijas.",
+          "points": [
+            "Compara dónde duermes con dónde pasas cada día de actividades; un hotel urbano no es un lodge en el bosque.",
+            "Consulta los traslados entre alojamiento, senderos y puntos de encuentro en el río.",
+            "Elige el paisaje y el acceso según tus intereses, sin asumir que todas las estancias ofrecen la misma inmersión."
+          ]
+        }
+      },
+      {
+        "heading": "Encuentra tu equilibrio",
+        "paragraphs": [
+          "Tena permite combinar una estancia urbana con actividades guiadas de río y bosque. También puede ser el punto de partida para alojarte fuera de la ciudad.",
+          "Las familias deben consultar edades, caminatas, embarque y habitaciones para cada actividad. Si te interesan aves o fotografía, pregunta por la experiencia del guía y el tiempo para observar. Confirma tranquilidad, conectividad y ubicación con la propiedad; el nombre del destino no demuestra esas condiciones."
+        ],
+        "display": {
+          "heading": "Encuentra tu equilibrio",
+          "nav": "Encuentra tu equilibrio",
+          "intro": "Tena permite combinar una estancia urbana con actividades guiadas de río y bosque. También puede ser el punto de partida para alojarte fuera de la ciudad.",
+          "points": [
+            "Las familias deben consultar edades, caminatas, embarque y habitaciones para cada actividad.",
+            "Si te interesan aves o fotografía, pregunta por la experiencia del guía y el tiempo para observar.",
+            "Confirma tranquilidad, conectividad y ubicación con la propiedad; el nombre del destino no demuestra esas condiciones."
+          ]
+        }
+      },
+      {
+        "heading": "Planifica más allá de la carretera",
+        "paragraphs": [
+          "El acceso terrestre distingue Tena de los lodges a los que se llega principalmente por río. Planifica desde tu punto de salida hasta el alojamiento y las excursiones.",
+          "Confirma transporte actual, puntos de encuentro y acceso final a la propiedad. Pregunta si los traslados de actividades se incluyen o se contratan aparte y cómo gestionan los retrasos. No deduzcas el estado de caminos o los vehículos necesarios de una descripción general; consulta tu ruta concreta."
+        ],
+        "display": {
+          "heading": "Planifica más allá de la carretera",
+          "nav": "Planifica más allá de la carretera",
+          "intro": "El acceso terrestre distingue Tena de los lodges a los que se llega principalmente por río. Planifica desde tu punto de salida hasta el alojamiento y las excursiones.",
+          "points": [
+            "Confirma transporte actual, puntos de encuentro y acceso final a la propiedad.",
+            "Pregunta si los traslados de actividades se incluyen o se contratan aparte y cómo gestionan los retrasos.",
+            "No deduzcas el estado de caminos o los vehículos necesarios de una descripción general; consulta tu ruta concreta."
+          ]
+        }
+      },
+      {
+        "heading": "Elige días según las actividades",
+        "paragraphs": [
+          "Empieza por las actividades que te interesan y añade tiempo para llegar, trasladarte y descansar. Una estancia corta puede ser una introducción; más tiempo permite combinar opciones.",
+          "Compara días completos de actividades con días de calendario. Consulta si las salidas de río y bosque caben en un día o necesitan días separados. Deja margen antes de viajar después, especialmente si una salida depende de las condiciones."
+        ],
+        "display": {
+          "heading": "Elige días según las actividades",
+          "nav": "Elige días según las actividades",
+          "intro": "Empieza por las actividades que te interesan y añade tiempo para llegar, trasladarte y descansar. Una estancia corta puede ser una introducción; más tiempo permite combinar opciones.",
+          "points": [
+            "Compara días completos de actividades con días de calendario.",
+            "Consulta si las salidas de río y bosque caben en un día o necesitan días separados.",
+            "Deja margen antes de viajar después, especialmente si una salida depende de las condiciones."
+          ]
+        }
+      },
+      {
+        "heading": "Ríos, senderos y observación",
+        "paragraphs": [
+          "La guía turística municipal describe rafting en los ríos Jatunyacu y Misahuallí. Las salidas guiadas al bosque ofrecen otra perspectiva; el programa y el hábitat dependen del proveedor.",
+          "Para rafting, consulta experiencia, ruta, equipo y condiciones actuales con un operador calificado. Para caminatas y aves, pregunta por distancia, hábitat, idioma del guía y tamaño de grupo. Las visitas comunitarias deben ser ofrecidas por anfitriones dispuestos. La observación requiere paciencia y no garantiza avistamientos."
+        ],
+        "display": {
+          "heading": "Ríos, senderos y observación",
+          "nav": "Ríos, senderos y observación",
+          "intro": "La guía turística municipal describe rafting en los ríos Jatunyacu y Misahuallí. Las salidas guiadas al bosque ofrecen otra perspectiva; el programa y el hábitat dependen del proveedor.",
+          "points": [
+            "Para rafting, consulta experiencia, ruta, equipo y condiciones actuales con un operador calificado.",
+            "Para caminatas y aves, pregunta por distancia, hábitat, idioma del guía y tamaño de grupo.",
+            "Las visitas comunitarias deben ser ofrecidas por anfitriones dispuestos. La observación requiere paciencia y no garantiza avistamientos."
+          ]
+        }
+      },
+      {
+        "heading": "Consulta las condiciones actuales",
+        "paragraphs": [
+          "La lluvia y el estado del río influyen en las actividades. Una fecha no garantiza una ruta adecuada para rafting, un sendero seco o un encuentro con fauna.",
+          "Pregunta cómo se evalúan las condiciones y quién decide si se realiza una salida. Confirma alternativas, cancelaciones y cómo se comunican los cambios. Lleva protección para lluvia y protege tus objetos, incluso con un pronóstico favorable."
+        ],
+        "display": {
+          "heading": "Consulta las condiciones actuales",
+          "nav": "Consulta las condiciones actuales",
+          "intro": "La lluvia y el estado del río influyen en las actividades. Una fecha no garantiza una ruta adecuada para rafting, un sendero seco o un encuentro con fauna.",
+          "points": [
+            "Pregunta cómo se evalúan las condiciones y quién decide si se realiza una salida.",
+            "Confirma alternativas, cancelaciones y cómo se comunican los cambios.",
+            "Lleva protección para lluvia y protege tus objetos, incluso con un pronóstico favorable."
+          ]
+        }
+      },
+      {
+        "heading": "¿Hotel urbano o lodge?",
+        "paragraphs": [
+          "Elige la base antes de comparar precios. Un hotel puede servir para excursiones separadas; un lodge puede reunir alojamiento, comidas y guianza en un programa.",
+          "Confirma ubicación, habitaciones, agua para beber y posibles límites de electricidad o conectividad. Pide comidas, traslados, equipos, guianza y gastos adicionales por escrito. Comprueba credenciales, idioma, tamaño de grupo y arreglos de emergencia antes de reservar."
+        ],
+        "display": {
+          "heading": "¿Hotel urbano o lodge?",
+          "nav": "¿Hotel urbano o lodge?",
+          "intro": "Elige la base antes de comparar precios. Un hotel puede servir para excursiones separadas; un lodge puede reunir alojamiento, comidas y guianza en un programa.",
+          "points": [
+            "Confirma ubicación, habitaciones, agua para beber y posibles límites de electricidad o conectividad.",
+            "Pide comidas, traslados, equipos, guianza y gastos adicionales por escrito.",
+            "Comprueba credenciales, idioma, tamaño de grupo y arreglos de emergencia antes de reservar."
+          ]
+        }
+      },
+      {
+        "heading": "Prepárate para tu salida",
+        "paragraphs": [
+          "El equipaje debe responder a la actividad y al alojamiento elegidos. Consulta calzado, equipos, límites de equipaje y qué proporciona el operador antes de comprar o cargar más cosas.",
+          "La ropa ligera, la protección para lluvia y las bolsas selladas para documentos y equipos son un comienzo práctico. Habla de acceso a habitaciones, escalones, senderos, duración de caminatas y embarque. Revisa recomendaciones oficiales y consulta a un profesional para tu salud; las fotos no demuestran accesibilidad."
+        ],
+        "display": {
+          "heading": "Prepárate para tu salida",
+          "nav": "Prepárate para tu salida",
+          "intro": "El equipaje debe responder a la actividad y al alojamiento elegidos. Consulta calzado, equipos, límites de equipaje y qué proporciona el operador antes de comprar o cargar más cosas.",
+          "points": [
+            "La ropa ligera, la protección para lluvia y las bolsas selladas para documentos y equipos son un comienzo práctico.",
+            "Habla de acceso a habitaciones, escalones, senderos, duración de caminatas y embarque.",
+            "Revisa recomendaciones oficiales y consulta a un profesional para tu salud; las fotos no demuestran accesibilidad."
+          ]
+        }
+      },
+      {
+        "heading": "Respeta a tus anfitriones",
+        "paragraphs": [
+          "Las experiencias comunitarias deben ser elegidas y dirigidas por los anfitriones. Pregunta qué ofrecen, quién recibe el pago y si la participación es opcional.",
+          "Pide permiso antes de fotografiar, grabar o compartir información personal. Observa la fauna a distancia; no alimentes, toques ni persigas animales. Sigue al guía, conserva tus residuos hasta poder desecharlos y no trates casas o ceremonias como atracciones disponibles por petición."
+        ],
+        "display": {
+          "heading": "Respeta a tus anfitriones",
+          "nav": "Respeta a tus anfitriones",
+          "intro": "Las experiencias comunitarias deben ser elegidas y dirigidas por los anfitriones. Pregunta qué ofrecen, quién recibe el pago y si la participación es opcional.",
+          "points": [
+            "Pide permiso antes de fotografiar, grabar o compartir información personal.",
+            "Observa la fauna a distancia; no alimentes, toques ni persigas animales.",
+            "Sigue al guía, conserva tus residuos hasta poder desecharlos y no trates casas o ceremonias como atracciones disponibles por petición."
+          ]
+        }
+      },
+      {
+        "heading": "Compara tu base amazónica",
+        "paragraphs": [
+          "Tena ofrece acceso terrestre y distintas bases y actividades. Misahuallí tiene un entorno ribereño diferente; una estancia más lejos cambia el acceso y el programa diario.",
+          "Compara Yasuní y el corredor del Napo para un viaje de lodge y río, verificando la ubicación. Compara Cuyabeno para bosque inundable y canoas, teniendo en cuenta todos los traslados. Elige según tiempo para explorar, guianza, comodidad e inclusiones. Ninguna base garantiza la mejor experiencia para todos."
+        ],
+        "display": {
+          "heading": "Compara tu base amazónica",
+          "nav": "Compara tu base amazónica",
+          "intro": "Tena ofrece acceso terrestre y distintas bases y actividades. Misahuallí tiene un entorno ribereño diferente; una estancia más lejos cambia el acceso y el programa diario.",
+          "points": [
+            "Compara Yasuní y el corredor del Napo para un viaje de lodge y río, verificando la ubicación.",
+            "Compara Cuyabeno para bosque inundable y canoas, teniendo en cuenta todos los traslados.",
+            "Elige según tiempo para explorar, guianza, comodidad e inclusiones. Ninguna base garantiza la mejor experiencia para todos."
+          ]
+        }
+      }
+    ],
+    "faqs": [
+      [
+        "¿Puedo visitar Tena sin un paquete?",
+        "Puedes organizar el alojamiento por separado. Contrata experiencias de bosque, río y comunidad con proveedores calificados y confirma encuentro, guianza y equipos. Viajar de forma independiente no significa que debas realizar todas las actividades sin guía."
+      ],
+      [
+        "¿Cómo elijo una salida de rafting?",
+        "Consulta experiencia, ruta, condiciones, equipo de seguridad y evaluación del guía con un operador calificado. Confirma edades y requisitos para tu grupo. No elijas solo por una foto o una dificultad anunciada."
+      ],
+      [
+        "¿Cuántos días necesito?",
+        "Organiza la estancia según actividades y traslados reales. Una visita corta puede centrarse en una prioridad; más días permiten combinar río y bosque. Revisa días completos, descanso y viaje posterior antes de decidir."
+      ],
+      [
+        "¿Pueden viajar familias?",
+        "Pregunta por edades, habitaciones, caminatas y alternativas. La idoneidad depende del programa y de las necesidades personales. Una base urbana no demuestra accesibilidad ni garantiza que una salida concreta sea adecuada."
+      ],
+      [
+        "¿Se garantizan avistamientos?",
+        "No. El hábitat, las condiciones y el comportamiento animal varían. Elige un guía conocedor y tiempo para observar, sin promesas de especies. La ubicación de tus salidas importa más que suponer que alojarte en Tena ofrece una experiencia remota."
+      ],
+      [
+        "¿Qué confirmo antes de reservar?",
+        "Pide ubicación, traslados, idioma, grupo, comidas, equipos y gastos por escrito. Consulta cancelaciones y emergencias. Confirma necesidades personales y movilidad directamente, sin deducirlas de descripciones generales."
+      ]
+    ]
+  }
+}

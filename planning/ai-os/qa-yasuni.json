@@ -1,0 +1,128 @@
+{
+  "pair_id": "pair_004",
+  "errors": [],
+  "pages": {
+    "en": {
+      "route": "/ecuador/yasuni/",
+      "main_words": 1129,
+      "word_count_scope": "Main content excluding guide navigation",
+      "html_sha256": "e9c41be1a59857e51a2681a5733fa02e83e974cc894fdd30c741d4ddf2a4e0e9",
+      "signals": {
+        "title": "Yasuní Ecuador Travel Guide | Lodges, Wildlife and Access",
+        "meta_description": "Plan a Yasuní Amazon trip with practical guidance on Napo River access, lodge styles, wildlife expectations, trip length and who this remote region suits.",
+        "h1": [
+          "Yasuní and the Napo corridor"
+        ],
+        "canonical": "https://experiencetheamazon.com/ecuador/yasuni/",
+        "hreflang": [
+          [
+            "en",
+            "https://experiencetheamazon.com/ecuador/yasuni/"
+          ],
+          [
+            "es",
+            "https://experiencetheamazon.com/es/ecuador/yasuni/"
+          ],
+          [
+            "x-default",
+            "https://experiencetheamazon.com/ecuador/yasuni/"
+          ]
+        ],
+        "robots": "noindex,nofollow,noarchive",
+        "schema_types": [
+          "Answer",
+          "BreadcrumbList",
+          "Country",
+          "FAQPage",
+          "ListItem",
+          "Question",
+          "TouristDestination"
+        ],
+        "internal_links": [
+          "/",
+          "/about/",
+          "/contact/",
+          "/ecuador/",
+          "/ecuador/amazon-lodges/",
+          "/ecuador/cuyabeno/",
+          "/ecuador/misahualli/",
+          "/ecuador/puyo/",
+          "/ecuador/tena/",
+          "/es/",
+          "/privacy-policy/",
+          "/terms/"
+        ],
+        "word_count": 1355,
+        "question_heading_count": 3,
+        "cta_link_count": 5,
+        "document_language": "en",
+        "image_count": 3,
+        "missing_alt_count": 0,
+        "unlabelled_control_count": 0,
+        "visible_text_sha256": "5ebc51a00a6b7e8b94f5cab4a9fbb7311f8e2d57f44a39e16dc042c0003e9cf0"
+      }
+    },
+    "es": {
+      "route": "/es/ecuador/yasuni/",
+      "main_words": 1163,
+      "word_count_scope": "Main content excluding guide navigation",
+      "html_sha256": "c626866f3c62f92b8de5c1d11cbe68ec319689bc713d9d9a5e4fd2a99f761dbd",
+      "signals": {
+        "title": "Guía de Yasuní Ecuador | Lodges, Fauna y Acceso",
+        "meta_description": "Planifica un viaje a Yasuní con orientación sobre acceso por el Napo, tipos de lodge, fauna, duración y perfil de viajero.",
+        "h1": [
+          "Yasuní y el corredor del Napo"
+        ],
+        "canonical": "https://experiencetheamazon.com/es/ecuador/yasuni/",
+        "hreflang": [
+          [
+            "en",
+            "https://experiencetheamazon.com/ecuador/yasuni/"
+          ],
+          [
+            "es",
+            "https://experiencetheamazon.com/es/ecuador/yasuni/"
+          ],
+          [
+            "x-default",
+            "https://experiencetheamazon.com/ecuador/yasuni/"
+          ]
+        ],
+        "robots": "noindex,nofollow,noarchive",
+        "schema_types": [
+          "Answer",
+          "BreadcrumbList",
+          "Country",
+          "FAQPage",
+          "ListItem",
+          "Question",
+          "TouristDestination"
+        ],
+        "internal_links": [
+          "/",
+          "/es/",
+          "/es/contacto/",
+          "/es/ecuador/",
+          "/es/ecuador/cuyabeno/",
+          "/es/ecuador/lodges-en-la-amazonia/",
+          "/es/ecuador/misahualli/",
+          "/es/ecuador/puyo/",
+          "/es/ecuador/tena/",
+          "/es/nuestra-propuesta/",
+          "/es/politica-de-privacidad/",
+          "/es/terminos/"
+        ],
+        "word_count": 1388,
+        "question_heading_count": 3,
+        "cta_link_count": 5,
+        "document_language": "es",
+        "image_count": 3,
+        "missing_alt_count": 0,
+        "unlabelled_control_count": 0,
+        "visible_text_sha256": "e99b8d85b2a8d5d15547ccab1a2d71af7b6daeb83a15a4434363e30c4e09dcfb"
+      }
+    }
+  },
+  "engine": "ai_os.website.html.extract_page_signals",
+  "passed": true
+}

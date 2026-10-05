@@ -1,0 +1,352 @@
+{
+  "en": {
+    "quick": "Yasuní suits travelers prioritizing deep rainforest immersion over speed or cost. The region offers structured naturalist excursions within a biodiverse landscape, where the specific lodge location and access route define the experience as much as the destination name itself.",
+    "lede": "Rainforest walks, river journeys and time to observe the forest. Compare Yasuní and the Napo corridor through the lodge location, guide and program that shape your stay.",
+    "fit": "Biodiversity-first lodge trips",
+    "access": "River and, for some itineraries, air connections",
+    "pace": "Three to five nights works well",
+    "sections": [
+      {
+        "heading": "Landscape",
+        "intro": "The Yasuní region encompasses a vast protected landscape within the Amazon basin, renowned for its exceptional biological diversity. The surrounding Napo corridor features distinct lodge experiences that vary significantly based on their exact location and proximity to waterways.",
+        "display": {
+          "heading": "A river-and-forest journey",
+          "intro": "Forest and river landscapes shape a lodge stay around Yasuní and the Napo. The exact location determines where you explore and how much time you spend traveling between activities.",
+          "points": [
+            "Ask which habitats the lodge’s program reaches, rather than relying on a regional label.",
+            "Compare time on trails, on waterways and at the lodge across the actual itinerary.",
+            "Treat wildlife photographs as context, never a promise of your own sightings."
+          ],
+          "nav": "A river-and-forest journey"
+        }
+      },
+      {
+        "heading": "Traveler Fit",
+        "intro": "This destination is ideal for those seeking a biodiversity-first approach rather than standard sightseeing. It requires an appreciation for early starts, humidity, and the structured nature of guided naturalist programs.",
+        "display": {
+          "heading": "Is it your kind of trip?",
+          "intro": "This is a good comparison for travelers interested in a guided forest stay and comfortable discussing the realities of transfers, humidity and lodge facilities before booking.",
+          "points": [
+            "Ask whether the program matches birding, photography or general nature interests.",
+            "Families should confirm ages, room arrangements and activity flexibility with each property.",
+            "Discuss mobility and connectivity needs; remoteness does not describe every lodge’s facilities."
+          ],
+          "nav": "Is it your kind of trip?"
+        }
+      },
+      {
+        "heading": "Access",
+        "intro": "Reaching Yasuní typically involves a journey starting from Quito, often requiring a domestic flight followed by road and river transfers. The final segment usually concludes with a canoe ride to the lodge.",
+        "display": {
+          "heading": "Getting there",
+          "intro": "Plan the full journey to your chosen lodge. Coca is a common staging point for Napo journeys, but each operator must confirm the actual route and current connections.",
+          "points": [
+            "Ask for meeting points and the road, river and lodge-arrival sequence in writing.",
+            "Confirm luggage limits, waterproof protection and who handles delayed connections.",
+            "Do not assume a flight or direct lodge transfer exists; verify current options before booking."
+          ],
+          "nav": "Getting there"
+        }
+      },
+      {
+        "heading": "Length of Stay",
+        "intro": "A stay of three to five nights is generally recommended for first visits. This duration allows sufficient time to acclimate, complete multiple excursions, and potentially encounter a wider variety of species.",
+        "display": {
+          "heading": "Time in the forest",
+          "intro": "Compare full activity days with arrival and departure days. A longer stay can create space for repeated outings and a less compressed pace, without guaranteeing sightings.",
+          "points": [
+            "Request the actual schedule rather than counting advertised nights alone.",
+            "An extra day only helps if it adds useful time outside or time to rest.",
+            "Leave a buffer before onward travel and compare the complete transfer effort."
+          ],
+          "nav": "Time in the forest"
+        }
+      },
+      {
+        "heading": "Activities and Wildlife",
+        "intro": "Excursions focus on forest walks, canopy observation, and river monitoring. Wildlife must be found patiently; sightings are never guaranteed but improve with time spent in the field.",
+        "display": {
+          "heading": "Wildlife and activities",
+          "intro": "Guided walks, canoe outings and birding offer different views of the forest. Confirm what your lodge actually offers and how guides support patient observation.",
+          "points": [
+            "Ask about group size, guide language and time to stop and observe.",
+            "Wildlife is free-ranging; no particular animal or sighting is promised.",
+            "Follow guide instructions and avoid feeding, touching or disturbing animals."
+          ],
+          "nav": "Wildlife and activities"
+        }
+      },
+      {
+        "heading": "Timing and Conditions",
+        "intro": "The wet season brings lush greenery and higher water levels, while the dry season offers easier trail access. Both periods offer unique wildlife behaviors, though insect activity fluctuates with rainfall.",
+        "display": {
+          "heading": "Changing conditions",
+          "intro": "Water levels and rain can affect travel and activities. Discuss conditions for your dates and keep some flexibility in the itinerary.",
+          "points": [
+            "Ask which planned outings depend on current river or trail conditions.",
+            "Confirm alternatives and how changes are communicated.",
+            "Avoid generic claims that one season guarantees better wildlife or easier trails."
+          ],
+          "nav": "Changing conditions"
+        }
+      },
+      {
+        "heading": "Choosing a Base",
+        "intro": "Selecting a lodge requires verifying its exact location within the corridor, as not all properties are inside the national park boundaries. Comfort levels, group sizes, and guide qualifications vary significantly.",
+        "display": {
+          "heading": "Your lodge and guide",
+          "intro": "Evaluate the guiding program and the facilities together. A lodge name alone does not establish park location, community relationships or the quality of your itinerary.",
+          "points": [
+            "Confirm exact location, licensed local guiding, group size and guide language.",
+            "Ask about ventilation, bathrooms, power, water and room configuration.",
+            "Get included transfers, meals, equipment and extra costs in writing."
+          ],
+          "nav": "Your lodge and guide"
+        }
+      },
+      {
+        "heading": "Packing and Mobility",
+        "intro": "Pack light to accommodate strict luggage limits on boats and small aircraft. Lightweight, quick-dry clothing is essential for humidity, along with sturdy footwear for muddy trails.",
+        "display": {
+          "heading": "Packing and mobility",
+          "intro": "Pack for humidity, rain and boat travel. Ask the lodge what it supplies and discuss mobility requirements before booking.",
+          "points": [
+            "Protect documents and electronics with sealed bags; confirm power availability.",
+            "Ask about footwear, boat boarding, steps, walking duration and room access.",
+            "Consult current official guidance and a qualified professional for personal health preparation."
+          ],
+          "nav": "Packing and mobility"
+        }
+      },
+      {
+        "heading": "Community Respect",
+        "intro": "Visits to local communities require explicit host consent. Always follow guide instructions regarding photography, noise levels, and interaction with residents or wildlife.",
+        "display": {
+          "heading": "Travel with respect",
+          "intro": "Follow local hosts’ expectations and the rules of the area you visit. Nature observation and community participation should respect the people and wildlife that make the place distinctive.",
+          "points": [
+            "Choose host-led community visits and ask who benefits from the experience.",
+            "Request permission before photographing people or sharing identifying details.",
+            "Avoid disturbing animals, collecting plants or seeking contact with isolated peoples."
+          ],
+          "nav": "Travel with respect"
+        }
+      },
+      {
+        "heading": "Destination Comparisons",
+        "intro": "Yasuní differs from other Amazon regions by its specific focus on biodiversity and lodge-based programs. While other areas may offer cheaper options, they often lack the depth of this corridor's ecological richness.",
+        "display": {
+          "heading": "Compare itineraries",
+          "intro": "Yasuní and the Napo corridor include different lodge locations and access arrangements. Compare the exact program with Cuyabeno and with road-based stays around Tena.",
+          "points": [
+            "A Napo lodge is not automatically inside Yasuní National Park. Ask for its exact location.",
+            "Cuyabeno emphasizes flooded forest and canoe exploration; Tena offers a road-access base.",
+            "Compare full activity days, guiding, facilities and total inclusions rather than a destination label."
+          ],
+          "nav": "Compare itineraries"
+        }
+      }
+    ],
+    "faqs": [
+      [
+        "Is every Napo lodge inside Yasuní National Park?",
+        "No. The Napo corridor and Yasuní National Park are not interchangeable labels. Ask for the lodge’s exact location, the habitats its outings reach and the complete access route before comparing properties."
+      ],
+      [
+        "How long should I stay?",
+        "Three to five nights is a useful range for many first visits. A longer stay can better justify the transfers and increase the variety of excursions available across different habitats."
+      ],
+      [
+        "Is Yasuní suitable for families?",
+        "It can be, especially for families comfortable with boats, humidity and early excursions. Ask each lodge about minimum ages, room configuration, private guiding and activity flexibility before booking."
+      ],
+      [
+        "Are sightings guaranteed?",
+        "No species counts or guarantees are provided. Wildlife must be found patiently through observation. Additional nights create more opportunities across different habitats and times of day without promises."
+      ],
+      [
+        "How should I choose a community visit?",
+        "Choose a visit arranged and led by willing hosts. Ask what participation includes, who receives payment and whether it is optional. Respect photography rules and never seek contact with peoples living in voluntary isolation."
+      ],
+      [
+        "What happens if conditions change?",
+        "Ask the operator which activities may change, what alternatives are offered and how decisions are communicated. River and trail conditions vary; neither a particular outing nor safe conditions should be assumed from a sample itinerary."
+      ]
+    ]
+  },
+  "es": {
+    "quick": "Yasuní es ideal para viajeros dispuestos a invertir más tiempo en traslados por un entorno de selva profunda, excursiones naturalistas estructuradas y alto potencial de biodiversidad. El corredor del Napo alberga experiencias distintas, por lo que la ubicación exacta del lodge importa tanto como el nombre del destino.",
+    "lede": "Caminatas, trayectos por río y tiempo para observar la selva. Compara Yasuní y el corredor del Napo según la ubicación del lodge, el guía y el programa de tu estancia.",
+    "fit": "Viajes de lodges priorizando biodiversidad",
+    "access": "Río y, para algunos itinerarios, conexiones aéreas",
+    "pace": "Tres a cinco noches funciona bien",
+    "sections": [
+      {
+        "heading": "Paisaje",
+        "intro": "La región de Yasuní abarca un vasto paisaje protegido dentro de la cuenca amazónica, reconocido por su excepcional diversidad biológica. El corredor del Napo presenta experiencias de lodge distintas que varían significativamente según su ubicación exacta y proximidad a las vías fluviales.",
+        "display": {
+          "heading": "Un viaje entre río y selva",
+          "intro": "Los paisajes de río y selva definen una estancia cerca de Yasuní y el Napo. La ubicación concreta determina dónde exploras y cuánto tiempo pasas entre actividades.",
+          "points": [
+            "Pregunta qué hábitats recorre el programa, además del nombre de la región.",
+            "Compara el tiempo en senderos, ríos y lodge dentro del itinerario concreto.",
+            "Las fotografías de fauna aportan contexto; no prometen tus propios avistamientos."
+          ],
+          "nav": "Un viaje entre río y selva"
+        }
+      },
+      {
+        "heading": "Adecuación para Viajeros",
+        "intro": "Este destino es ideal para quienes buscan un enfoque de biodiversidad primero en lugar de turismo convencional. Requiere apreciar los madrugones, la humedad y la naturaleza estructurada de los programas de guías naturalistas.",
+        "display": {
+          "heading": "¿Es para ti?",
+          "intro": "Es una opción para quienes buscan una estancia guiada en la selva y desean evaluar traslados, humedad e instalaciones antes de reservar.",
+          "points": [
+            "Consulta si el programa responde a tus intereses en aves, fotografía o naturaleza.",
+            "Las familias deben confirmar edades, habitaciones y flexibilidad con cada propiedad.",
+            "Habla de movilidad y conectividad; no todos los lodges tienen las mismas instalaciones."
+          ],
+          "nav": "¿Es para ti?"
+        }
+      },
+      {
+        "heading": "Acceso",
+        "intro": "Llegar a Yasuní típicamente implica un viaje que comienza desde Quito, a menudo requiriendo un vuelo doméstico seguido de traslados terrestres y fluviales. El segmento final usualmente concluye con una travesía en canoa hasta el lodge.",
+        "display": {
+          "heading": "Cómo llegar",
+          "intro": "Planifica el recorrido completo hasta tu lodge. Coca es un punto habitual de salida hacia el Napo, pero cada operador debe confirmar la ruta y las conexiones actuales.",
+          "points": [
+            "Pide por escrito los puntos de encuentro y la secuencia de carretera, río y llegada.",
+            "Confirma límites de equipaje, protección contra el agua y cómo gestionan los retrasos.",
+            "No supongas que existe un vuelo o traslado directo; verifica las opciones antes de reservar."
+          ],
+          "nav": "Cómo llegar"
+        }
+      },
+      {
+        "heading": "Duración de la Estancia",
+        "intro": "Una estancia de tres a cinco noches es generalmente recomendada para visitas iniciales. Esta duración permite tiempo suficiente para aclimatarse, completar múltiples excursiones y potencialmente encontrar una variedad más amplia de especies.",
+        "display": {
+          "heading": "Tiempo en la selva",
+          "intro": "Compara días completos de actividades con los días de llegada y salida. Una estancia más larga puede dar espacio para repetir salidas y descansar, sin garantizar avistamientos.",
+          "points": [
+            "Pide el programa real, no cuentes solo las noches anunciadas.",
+            "Un día adicional sirve si aporta tiempo útil para explorar o descansar.",
+            "Deja margen antes de viajar después y compara el esfuerzo total de los traslados."
+          ],
+          "nav": "Tiempo en la selva"
+        }
+      },
+      {
+        "heading": "Actividades y Vida Silvestre",
+        "intro": "Las excursiones se centran en caminatas forestales, observación de dosel y monitoreo fluvial. La vida silvestre debe encontrarse con paciencia; los avistamientos nunca están garantizados pero mejoran con el tiempo pasado en el campo.",
+        "display": {
+          "heading": "Fauna y actividades",
+          "intro": "Las caminatas guiadas, las canoas y la observación de aves ofrecen perspectivas distintas. Confirma qué propone tu lodge y cómo facilita una observación pausada.",
+          "points": [
+            "Pregunta por el tamaño del grupo, el idioma y el tiempo para observar.",
+            "La fauna vive libre; no se garantiza ningún animal ni avistamiento.",
+            "Sigue al guía y no alimentes, toques ni molestes a los animales."
+          ],
+          "nav": "Fauna y actividades"
+        }
+      },
+      {
+        "heading": "Temporadas y Condiciones",
+        "intro": "La temporada de lluvias trae vegetación exuberante y niveles más altos de agua, mientras que la temporada seca ofrece un acceso más fácil a los senderos. Ambos periodos ofrecen comportamientos únicos de vida silvestre, aunque la actividad de insectos fluctúa con las precipitaciones.",
+        "display": {
+          "heading": "Condiciones cambiantes",
+          "intro": "La lluvia y el nivel del agua pueden afectar los traslados y las actividades. Consulta las condiciones para tus fechas y deja flexibilidad en el programa.",
+          "points": [
+            "Pregunta qué salidas dependen del estado del río o de los senderos.",
+            "Confirma alternativas y cómo se comunican los cambios.",
+            "Evita asumir que una temporada garantiza más fauna o senderos más fáciles."
+          ],
+          "nav": "Condiciones cambiantes"
+        }
+      },
+      {
+        "heading": "Elegir una Base",
+        "intro": "Seleccionar un lodge requiere verificar su ubicación exacta dentro del corredor, ya que no todas las propiedades están dentro de los límites del parque nacional. Los niveles de comodidad, tamaños de grupo y calificaciones de guías varían significativamente.",
+        "display": {
+          "heading": "Tu lodge y tu guía",
+          "intro": "Evalúa la guianza y las instalaciones juntas. El nombre de un lodge no demuestra su ubicación en el parque, sus relaciones comunitarias ni la calidad del programa.",
+          "points": [
+            "Confirma ubicación, guía local acreditado, tamaño de grupo e idioma.",
+            "Pregunta por ventilación, baños, electricidad, agua y habitaciones.",
+            "Pide traslados, comidas, equipos y gastos adicionales por escrito."
+          ],
+          "nav": "Tu lodge y tu guía"
+        }
+      },
+      {
+        "heading": "Empaquetado y Movilidad",
+        "intro": "Empaque ligero para acomodar estrictos límites de equipaje en botes y aviones pequeños. La ropa ligera y rápida secado es esencial para la humedad, junto con calzado resistente para senderos fangosos.",
+        "display": {
+          "heading": "Equipaje y movilidad",
+          "intro": "Empaca para la humedad, la lluvia y los trayectos en canoa. Pregunta qué proporciona el lodge y habla de tus necesidades de movilidad antes de reservar.",
+          "points": [
+            "Protege documentos y equipos con bolsas selladas; confirma la electricidad.",
+            "Consulta calzado, embarque, escalones, caminatas y acceso a las habitaciones.",
+            "Revisa recomendaciones oficiales y consulta a un profesional para tu preparación de salud."
+          ],
+          "nav": "Equipaje y movilidad"
+        }
+      },
+      {
+        "heading": "Respeto Comunitario",
+        "intro": "Las visitas a comunidades locales requieren consentimiento explícito de los anfitriones. Siempre siga las instrucciones de los guías respecto a fotografía, niveles de ruido e interacción con residentes o vida silvestre.",
+        "display": {
+          "heading": "Viajar con respeto",
+          "intro": "Respeta las expectativas de los anfitriones y las normas del lugar. La observación de naturaleza y las visitas deben cuidar a las personas y a la fauna.",
+          "points": [
+            "Elige visitas dirigidas por anfitriones y pregunta quién se beneficia.",
+            "Pide permiso antes de fotografiar personas o compartir datos personales.",
+            "No molestes animales, recolectes plantas ni busques contacto con pueblos aislados."
+          ],
+          "nav": "Viajar con respeto"
+        }
+      },
+      {
+        "heading": "Comparaciones de Destino",
+        "intro": "Yasuní difiere de otras regiones amazónicas por su enfoque específico en biodiversidad y programas basados en lodges. Mientras otras áreas pueden ofrecer opciones más económicas, a menudo carecen de la profundidad ecológica de este corredor.",
+        "display": {
+          "heading": "Compara itinerarios",
+          "intro": "Yasuní y el corredor del Napo incluyen lodges con ubicaciones y accesos distintos. Compara el programa concreto con Cuyabeno y con estancias de acceso terrestre cerca de Tena.",
+          "points": [
+            "Un lodge del Napo no está necesariamente dentro del Parque Nacional Yasuní; pide su ubicación.",
+            "Cuyabeno destaca por el bosque inundable y las canoas; Tena ofrece una base con acceso por carretera.",
+            "Compara días completos, guianza, instalaciones e inclusiones, además del nombre del destino."
+          ],
+          "nav": "Compara itinerarios"
+        }
+      }
+    ],
+    "faqs": [
+      [
+        "¿Todos los lodges del Napo están dentro de Yasuní?",
+        "No. El corredor del Napo y el Parque Nacional Yasuní no son nombres equivalentes. Pide la ubicación exacta del lodge, los hábitats de sus salidas y la ruta de acceso antes de comparar propiedades."
+      ],
+      [
+        "¿Cuánto tiempo debo quedarme?",
+        "Tres a cinco noches es un rango útil para muchas visitas iniciales. Una estancia más larga puede justificar mejor los traslados y aumentar la variedad de excursiones disponibles en diferentes hábitats."
+      ],
+      [
+        "¿Es Yasuní adecuado para familias?",
+        "Puede serlo, especialmente para familias cómodas con botes, humedad y excursiones tempranas. Pregunte a cada lodge sobre edades mínimas, configuración de habitaciones, guía privada y flexibilidad de actividades antes de reservar."
+      ],
+      [
+        "¿Están garantizados los avistamientos?",
+        "No se proporcionan conteos de especies ni garantías. La vida silvestre debe encontrarse con paciencia mediante observación. Estancias adicionales crean más oportunidades en diferentes hábitats y momentos del día sin promesas."
+      ],
+      [
+        "¿Cómo elijo una visita comunitaria?",
+        "Elige una visita organizada y dirigida por anfitriones que deseen recibirte. Consulta las actividades, quién recibe el pago y si la participación es opcional. Respeta las normas de fotografía y no busques contacto con pueblos en aislamiento voluntario."
+      ],
+      [
+        "¿Qué pasa si cambian las condiciones?",
+        "Pregunta qué actividades pueden cambiar, qué alternativas se ofrecen y cómo se comunican las decisiones. El estado de ríos y senderos varía; un programa de ejemplo no garantiza una salida concreta ni condiciones seguras."
+      ]
+    ]
+  }
+}
