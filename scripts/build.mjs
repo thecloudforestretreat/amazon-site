@@ -101,7 +101,7 @@ async function compileEcuadorDestinations() {
       const homeRoute = language === "es" ? "/es/" : "/";
       const labels = language === "es"
         ? { home: "Inicio", country: "Amazonía del Ecuador", answer: "Respuesta rápida", why: "Por qué elegirlo", expect: "Qué esperar", plan: "Cómo planificar", related: "Compara otros destinos", cta: "Planifica este viaje", question: "Preguntas frecuentes", back: "Ver guía de Ecuador" }
-        : { home: "Home", country: "Ecuador Amazon", answer: "Quick answer", why: "Why choose it", expect: "What to expect", plan: "How to plan", related: "Compare other destinations", cta: "Plan this trip", question: "Frequently asked questions", back: "View Ecuador guide" };
+        : { home: "Home", country: "Ecuadorian Amazon", answer: "Quick answer", why: "Why choose it", expect: "What to expect", plan: "How to plan", related: "Compare other destinations", cta: "Plan this trip", question: "Frequently asked questions", back: "View Ecuador guide" };
       const faqSchema = content.faqs.map(([question, answer]) => ({ "@type": "Question", name: question, acceptedAnswer: { "@type": "Answer", text: answer } }));
       const schema = JSON.stringify({
         "@context": "https://schema.org",

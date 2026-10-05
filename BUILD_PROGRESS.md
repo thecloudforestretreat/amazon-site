@@ -53,3 +53,7 @@ Owner requested Cuyabeno layout review before further batches. Shared fact strip
 The reviewed Cuyabeno pair now uses a compact reading column, a desktop section index and short two-column navigation on mobile. Ten separately padded full-width content bands were removed. Main editorial content remains 2,292 EN / 2,345 ES words with the cleared photograph and six FAQs per language.
 
 Build, 24-page route validation and the AI-OS content audit pass. Browser visual QA and publication remain pending; the live staging URL still contains the old short scaffold. Further batches are on hold until the updated pair can be reviewed.
+
+### Staging update — 2026-10-05
+
+Cuyabeno EN/ES deployed to the Cloudflare staging project, deployment `b3fc70de`. Includes aligned fact rows, compact guide layout, expanded bilingual content and Ecuadorian Amazon wording. Build, 24-page validation and AI-OS content audit pass. Staging domain still redirects unauthenticated visitors to Cloudflare Access. Desktop/mobile and owner review remain pending; further batches stay paused. GitHub push remains pending approval.

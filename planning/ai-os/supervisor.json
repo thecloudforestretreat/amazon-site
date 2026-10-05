@@ -25,10 +25,6 @@
   ],
   "blockers": [
     {
-      "code": "cloudflare_login",
-      "detail": "Existing Cloudflare session is absent on this Mac; owner authorization requested."
-    },
-    {
       "code": "visual_review",
       "detail": "Browser access denied because admin-enforced policy could not be verified. No workaround attempted."
     },
@@ -48,10 +44,9 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Review fact-strip alignment, compact guide layout and content density on desktop/mobile",
-    "Restore Cloudflare authentication and obtain pending GitHub push authorization",
-    "Deploy and verify the updated Cuyabeno pair",
-    "Obtain owner feedback before additional page batches"
+    "Review updated Cuyabeno EN/ES on desktop/mobile",
+    "Obtain owner feedback before additional page batches",
+    "Obtain pending GitHub push authorization"
   ],
   "future_batches": [
     "Yasuni + Tena",
@@ -59,7 +54,7 @@
     "Ecuador hub + lodge hub"
   ],
   "notification_policy": "Meaningful change, verified completion, failure or required user action only",
-  "pilot_status": "editorial_and_technical_ready_visual_and_deployment_pending",
+  "pilot_status": "deployed_pending_visual_and_owner_review",
   "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
   "next_batch_candidates": [
     "yasuni",
@@ -71,5 +66,13 @@
     "reason": "Owner requested alignment, spacing and content review before proceeding",
     "scope": "Cuyabeno EN/ES and shared layout",
     "release_requires": "Owner can inspect the updated pair after desktop/mobile visual review and staging deployment"
+  },
+  "deployment": {
+    "id": "b3fc70de",
+    "project": "amazon-site-staging",
+    "branch": "staging",
+    "url": "https://b3fc70de.amazon-site-staging.pages.dev",
+    "protected_domain_check": "302 Cloudflare Access login",
+    "date": "2026-10-05"
   }
 }

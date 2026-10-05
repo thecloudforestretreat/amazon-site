@@ -6,7 +6,7 @@
       "route": "/ecuador/cuyabeno/",
       "main_words": 2292,
       "word_count_scope": "Main content excluding guide navigation",
-      "html_sha256": "0deed517131e0c6a4a7143a6825921350e217d87c9a16784fabe67d454d48af4",
+      "html_sha256": "7836972b33c1b4da3974ce72288d50c5e886dbf4ad15df9626ee690cb6d4f487",
       "signals": {
         "title": "Cuyabeno Travel Guide | Wildlife, Lodges and Trip Planning",
         "meta_description": "Compare Cuyabeno lodges, canoe-based wildlife experiences, access from Quito, trip length and practical planning considerations.",
@@ -59,7 +59,7 @@
         "image_count": 3,
         "missing_alt_count": 0,
         "unlabelled_control_count": 0,
-        "visible_text_sha256": "a14c3a686b1216957be2f6a9284d57949d6643fc9738ea014dc551cb477325c6"
+        "visible_text_sha256": "ff05133ca9f1192608f68bf1c1c413f47150c5eba01abe1f8945c45b31b42291"
       }
     },
     "es": {
