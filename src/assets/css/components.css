@@ -15,6 +15,7 @@
 .eta-card__body{padding:22px}
 .eta-card__body p{margin:.55rem 0 0;color:var(--eta-muted)}
 .eta-card__link{display:inline-flex;margin-top:14px;font-weight:700}
+.eta-card--linked{color:inherit;text-decoration:none;transition:transform .18s ease,box-shadow .18s ease}.eta-card--linked:hover,.eta-card--linked:focus-visible{color:inherit;box-shadow:var(--eta-shadow-md);transform:translateY(-3px)}
 .eta-facts{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));overflow:hidden;border-radius:var(--eta-radius-md);background:var(--eta-forest-950);box-shadow:var(--eta-shadow-md)}
 .eta-fact{padding:22px;border-right:1px solid rgba(255,255,255,.13);color:#fff}
 .eta-fact:last-child{border:0}.eta-fact strong,.eta-fact span{display:block}.eta-fact strong{color:var(--eta-gold-500);font-family:var(--eta-font-display);font-size:1.3rem}.eta-fact span{margin-top:4px;color:rgba(255,255,255,.72);font-size:.88rem}

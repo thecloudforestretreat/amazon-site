@@ -40,11 +40,13 @@ async function compilePages() {
   const includes = {
     en: {
       header: await readFile(path.join(sourceDir, "includes", "header.en.html"), "utf8"),
-      footer: await readFile(path.join(sourceDir, "includes", "footer.en.html"), "utf8")
+      footer: await readFile(path.join(sourceDir, "includes", "footer.en.html"), "utf8"),
+      ecuadorNav: await readFile(path.join(sourceDir, "includes", "ecuador-nav.en.html"), "utf8")
     },
     es: {
       header: await readFile(path.join(sourceDir, "includes", "header.es.html"), "utf8"),
-      footer: await readFile(path.join(sourceDir, "includes", "footer.es.html"), "utf8")
+      footer: await readFile(path.join(sourceDir, "includes", "footer.es.html"), "utf8"),
+      ecuadorNav: await readFile(path.join(sourceDir, "includes", "ecuador-nav.es.html"), "utf8")
     }
   };
   const commonHead = await readFile(path.join(sourceDir, "includes", "head.html"), "utf8");
@@ -59,9 +61,77 @@ async function compilePages() {
       .replaceAll("{{ETA_HEAD}}", commonHead.trim())
       .replaceAll("{{ETA_HEADER}}", includes[language].header.trim())
       .replaceAll("{{ETA_FOOTER}}", includes[language].footer.trim())
+      .replaceAll("{{ETA_ECUADOR_NAV}}", includes[language].ecuadorNav.trim())
       .replaceAll("{{ETA_ENVIRONMENT}}", environment);
     await mkdir(path.dirname(destination), { recursive: true });
     await writeFile(destination, html);
+  }
+}
+
+function escapeHtml(value) {
+  return String(value)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;");
+}
+
+async function compileEcuadorDestinations() {
+  const destinations = JSON.parse(await readFile(path.join(sourceDir, "data", "ecuador-destinations.json"), "utf8"));
+  const commonHead = (await readFile(path.join(sourceDir, "includes", "head.html"), "utf8")).trim();
+  const shared = {
+    en: {
+      header: (await readFile(path.join(sourceDir, "includes", "header.en.html"), "utf8")).trim(),
+      footer: (await readFile(path.join(sourceDir, "includes", "footer.en.html"), "utf8")).trim(),
+      nav: (await readFile(path.join(sourceDir, "includes", "ecuador-nav.en.html"), "utf8")).trim()
+    },
+    es: {
+      header: (await readFile(path.join(sourceDir, "includes", "header.es.html"), "utf8")).trim(),
+      footer: (await readFile(path.join(sourceDir, "includes", "footer.es.html"), "utf8")).trim(),
+      nav: (await readFile(path.join(sourceDir, "includes", "ecuador-nav.es.html"), "utf8")).trim()
+    }
+  };
+
+  for (const destination of destinations) {
+    for (const language of ["en", "es"]) {
+      const content = destination[language];
+      const prefix = language === "es" ? "/es" : "";
+      const route = `${prefix}/ecuador/${destination.slug}/`;
+      const alternateRoute = `${language === "en" ? "/es" : ""}/ecuador/${destination.slug}/`;
+      const homeRoute = language === "es" ? "/es/" : "/";
+      const labels = language === "es"
+        ? { home: "Inicio", country: "Amazonía del Ecuador", answer: "Respuesta rápida", why: "Por qué elegirlo", expect: "Qué esperar", plan: "Cómo planificar", related: "Compara otros destinos", cta: "Planifica este viaje", question: "Preguntas frecuentes", back: "Ver guía de Ecuador" }
+        : { home: "Home", country: "Ecuador Amazon", answer: "Quick answer", why: "Why choose it", expect: "What to expect", plan: "How to plan", related: "Compare other destinations", cta: "Plan this trip", question: "Frequently asked questions", back: "View Ecuador guide" };
+      const faqSchema = content.faqs.map(([question, answer]) => ({ "@type": "Question", name: question, acceptedAnswer: { "@type": "Answer", text: answer } }));
+      const schema = JSON.stringify({
+        "@context": "https://schema.org",
+        "@graph": [
+          { "@type": "TouristDestination", name: content.name, description: content.description, containedInPlace: { "@type": "Country", name: "Ecuador" }, url: `https://experiencetheamazon.com${route}` },
+          { "@type": "BreadcrumbList", itemListElement: [
+            { "@type": "ListItem", position: 1, name: labels.home, item: `https://experiencetheamazon.com${homeRoute}` },
+            { "@type": "ListItem", position: 2, name: labels.country, item: `https://experiencetheamazon.com${prefix}/ecuador/` },
+            { "@type": "ListItem", position: 3, name: content.name, item: `https://experiencetheamazon.com${route}` }
+          ] },
+          { "@type": "FAQPage", mainEntity: faqSchema }
+        ]
+      });
+      const related = destinations.filter((item) => item.slug !== destination.slug).map((item) => `<a href="${prefix}/ecuador/${item.slug}/"><span>${escapeHtml(item[language].name)}</span></a>`).join("");
+      const faqs = content.faqs.map(([question, answer]) => `<details><summary>${escapeHtml(question)}</summary><p>${escapeHtml(answer)}</p></details>`).join("");
+      const html = `<!doctype html>
+<html lang="${language}" data-language-pair="${alternateRoute}" data-page-id="ecuador_${destination.slug}_${language}" data-pair-id="${destination.pairId}" data-page-type="destination_page" data-country="ecuador" data-topic-cluster="ecuador-destinations" data-funnel-stage="consideration">
+<head><meta charset="utf-8"><title>${escapeHtml(content.title)}</title><meta name="description" content="${escapeHtml(content.description)}"><meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"><link rel="canonical" href="https://experiencetheamazon.com${route}"><link rel="alternate" hreflang="en" href="https://experiencetheamazon.com/ecuador/${destination.slug}/"><link rel="alternate" hreflang="es" href="https://experiencetheamazon.com/es/ecuador/${destination.slug}/"><link rel="alternate" hreflang="x-default" href="https://experiencetheamazon.com/ecuador/${destination.slug}/">${commonHead}<link rel="stylesheet" href="/assets/css/clusters/country.css"><link rel="stylesheet" href="/assets/css/clusters/editorial.css"><script type="application/ld+json">${schema}</script></head>
+<body>${shared[language].header}${shared[language].nav}<main id="main-content">
+<div class="eta-shell eta-breadcrumbs"><a href="${homeRoute}">${labels.home}</a><span>›</span><a href="${prefix}/ecuador/">${labels.country}</a><span>›</span><span>${escapeHtml(content.name)}</span></div>
+<section class="eta-country-hero"><div class="eta-shell eta-country-hero__grid"><div><p class="eta-kicker">${labels.country}</p><h1>${escapeHtml(content.h1)}</h1><p class="eta-lede">${escapeHtml(content.lede)}</p><div class="eta-actions"><a class="eta-button eta-button--gold" href="${language === "es" ? "/es/contacto/" : "/contact/"}" data-cta-id="destination_plan" data-cta-position="hero">${labels.cta}</a><a class="eta-button eta-button--outline" href="#guide">${labels.answer}</a></div></div><div class="eta-country-art" role="img" aria-label="${language === "es" ? "Espacio reservado para una imagen autorizada de" : "Reserved for a rights-cleared image of"} ${escapeHtml(content.name)}"></div></div></section>
+<section class="eta-section--tight"><div class="eta-shell"><div class="eta-facts"><div class="eta-fact"><strong>${escapeHtml(content.fit)}</strong><span>${language === "es" ? "Perfil ideal" : "Best fit"}</span></div><div class="eta-fact"><strong>${escapeHtml(content.access)}</strong><span>${language === "es" ? "Acceso" : "Access"}</span></div><div class="eta-fact"><strong>${escapeHtml(content.pace)}</strong><span>${language === "es" ? "Ritmo sugerido" : "Suggested pace"}</span></div><div class="eta-fact"><strong>${language === "es" ? "Guía local" : "Local guide"}</strong><span>${language === "es" ? "Parte esencial del viaje" : "Essential to the experience"}</span></div></div></div></section>
+<section class="eta-section" id="guide"><div class="eta-shell"><div class="eta-answer"><span class="eta-answer__label">${labels.answer}</span><h2>${language === "es" ? `¿Para quién funciona ${escapeHtml(content.name)}?` : `Who is ${escapeHtml(content.name)} best for?`}</h2><p>${escapeHtml(content.quick)}</p></div><div class="eta-decision-grid" style="margin-top:40px"><article class="eta-decision-card"><h2>${labels.why}</h2><p>${escapeHtml(content.why)}</p></article><article class="eta-decision-card"><h2>${labels.expect}</h2><p>${escapeHtml(content.expect)}</p></article><article class="eta-decision-card"><h2>${labels.plan}</h2><p>${escapeHtml(content.plan)}</p></article><article class="eta-decision-card"><h2>${labels.related}</h2><div class="eta-link-list">${related}</div></article></div></div></section>
+<section class="eta-section eta-section--mist"><div class="eta-shell eta-reading"><p class="eta-kicker">${labels.question}</p><h2>${content.name}</h2><div class="eta-stack">${faqs}</div></div></section>
+<section class="eta-section"><div class="eta-shell eta-trust-strip"><p class="eta-kicker">Experience the Amazon with confidence</p><h2>${language === "es" ? `¿Es ${escapeHtml(content.name)} el destino correcto?` : `Is ${escapeHtml(content.name)} right for your trip?`}</h2><p>${language === "es" ? "Compara tiempo, presupuesto, comodidad e intereses antes de elegir un lodge o itinerario." : "Compare time, budget, comfort and interests before choosing a lodge or itinerary."}</p><div class="eta-actions"><a class="eta-button eta-button--gold" href="${language === "es" ? "/es/contacto/" : "/contact/"}">${labels.cta}</a><a class="eta-button eta-button--outline" href="${prefix}/ecuador/">${labels.back}</a></div></div></section>
+</main>${shared[language].footer}</body></html>`;
+      const destinationFile = path.join(outputDir, language === "es" ? "es" : "", "ecuador", destination.slug, "index.html");
+      await mkdir(path.dirname(destinationFile), { recursive: true });
+      await writeFile(destinationFile, html.replaceAll("{{ETA_ENVIRONMENT}}", environment));
+    }
   }
 }
 
@@ -97,11 +167,13 @@ await mkdir(outputDir, { recursive: true });
 await copyIfPresent(path.join(rootDir, "assets", "logo"), path.join(outputDir, "assets", "logo"));
 await copyIfPresent(path.join(sourceDir, "assets", "js"), path.join(outputDir, "assets", "js"));
 await copyIfPresent(path.join(sourceDir, "assets", "icons"), path.join(outputDir, "assets", "icons"));
+await copyIfPresent(path.join(sourceDir, "_redirects"), path.join(outputDir, "_redirects"));
 for (const file of ["favicon.ico", "favicon-16x16.png", "favicon-32x32.png", "apple-touch-icon.png", "android-chrome-192x192.png", "android-chrome-512x512.png", "site.webmanifest"]) {
   await copyIfPresent(path.join(rootDir, file), path.join(outputDir, file));
 }
 await buildCss();
 await compilePages();
+await compileEcuadorDestinations();
 await writeRuntimeConfig();
 await writeEnvironmentFiles();
 console.log(`Built ${environment} site in ${outputDir}`);

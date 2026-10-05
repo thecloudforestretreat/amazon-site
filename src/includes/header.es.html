@@ -6,30 +6,39 @@
       <span>Experience<br>The Amazon</span>
     </a>
     <nav class="eta-primary-nav" aria-label="Navegación principal">
-      <a href="/es/#destinos" data-nav-link>Destinos</a>
-      <a href="/es/amazonia-ecuador/" data-nav-link>Ecuador</a>
-      <a href="/es/nuestra-propuesta/" data-nav-link>Nuestra propuesta</a>
-      <a href="/es/contacto/" data-nav-link>Planifica tu viaje</a>
+      <details class="eta-nav-dropdown">
+        <summary>Destinos</summary>
+        <div class="eta-mega-menu">
+          <div class="eta-mega-menu__lead">
+            <span class="eta-kicker">Países amazónicos</span>
+            <strong>Elige tu Amazonía por país</strong>
+            <p>Compara acceso, fauna, lodges y estilos de viaje antes de decidir.</p>
+            <a href="/es/#destinos">Comparar destinos</a>
+          </div>
+          <div class="eta-mega-menu__countries">
+            <a class="eta-country-link eta-country-link--active" href="/es/ecuador/"><strong>Ecuador</strong><span>Yasuní, Cuyabeno, Tena y Napo</span><em>Explorar ahora</em></a>
+            <span class="eta-country-link"><strong>Perú</strong><span>Iquitos, Tambopata y Manu</span><em>Próximo país</em></span>
+            <span class="eta-country-link"><strong>Brasil</strong><span>Manaos, rutas fluviales y reservas</span><em>Planificado</em></span>
+            <span class="eta-country-link"><strong>Colombia</strong><span>Leticia y la Amazonía colombiana</span><em>Planificado</em></span>
+            <span class="eta-country-link"><strong>Bolivia</strong><span>Rurrenabaque y Madidi</span><em>Planificado</em></span>
+            <span class="eta-country-link"><strong>Guyana · Surinam · Venezuela · Guayana Francesa</strong><span>Cobertura especializada</span><em>Hoja de ruta</em></span>
+          </div>
+        </div>
+      </details>
+      <a href="/es/ecuador/#experiencias" data-nav-link>Experiencias</a><a href="/es/ecuador/#fauna" data-nav-link>Fauna</a><a href="/es/nuestra-propuesta/" data-nav-link>Nuestra propuesta</a>
     </nav>
     <div class="eta-header-actions">
-      <div class="eta-language" aria-label="Idioma">
-        <a href="/" data-language-switch lang="en">EN</a>
-        <a href="/es/" aria-current="true" lang="es">ES</a>
-      </div>
-      <a class="eta-button eta-button--gold" href="#" data-contact="whatsapp" data-message-key="default" data-cta-id="header_whatsapp" data-cta-position="header">Consulta por WhatsApp</a>
+      <div class="eta-language" aria-label="Idioma"><a href="/" data-language-switch lang="en">EN</a><a href="/es/" aria-current="true" lang="es">ES</a></div>
+      <a class="eta-button eta-button--gold" href="/es/contacto/" data-cta-id="header_plan_trip" data-cta-position="header">Planifica tu viaje</a>
       <button class="eta-menu-toggle" type="button" data-menu-toggle aria-expanded="false" aria-controls="eta-mobile-menu" aria-label="Abrir menú">Menú</button>
     </div>
   </div>
   <div class="eta-mobile-menu" id="eta-mobile-menu" data-mobile-menu hidden>
     <nav aria-label="Navegación móvil">
       <a href="/es/">Inicio</a>
-      <a href="/es/#destinos">Destinos</a>
-      <a href="/es/amazonia-ecuador/">Ecuador</a>
-      <a href="/es/nuestra-propuesta/">Nuestra propuesta</a>
-      <a href="/es/contacto/">Planifica tu viaje</a>
-      <a href="#" data-contact="whatsapp" data-message-key="default">Consulta por WhatsApp</a>
-      <a href="/" data-language-switch lang="en">English</a>
+      <details class="eta-mobile-accordion"><summary>Destinos</summary><div><a href="/es/ecuador/">Ecuador <small>Explorar ahora</small></a><span>Perú <small>Próximo país</small></span><span>Brasil</span><span>Colombia</span><span>Bolivia</span><span>Guyana, Surinam, Venezuela y Guayana Francesa</span></div></details>
+      <a href="/es/ecuador/#experiencias">Experiencias</a><a href="/es/ecuador/#fauna">Fauna</a><a href="/es/nuestra-propuesta/">Nuestra propuesta</a><a href="/es/contacto/">Planifica tu viaje</a>
+      <a href="#" data-contact="whatsapp" data-message-key="default">Consulta por WhatsApp</a><a href="/" data-language-switch lang="en">English</a>
     </nav>
   </div>
 </header>
-
