@@ -1,0 +1,86 @@
+[
+  {
+    "job": "ecuador-blog-hub",
+    "pair": "pair_030",
+    "en": "blog",
+    "es": "blog",
+    "pageType": "blog_hub",
+    "photos": [
+      {
+        "src": "/assets/images/ecuador/napo-forest-grzywa.jpg",
+        "width": 1280,
+        "height": 853,
+        "credit": "Marek_Grzywa",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Rainforest_near_Rio_Napo_-_panoramio.jpg",
+        "altEn": "Mist among rainforest trees near the Napo River, Ecuador",
+        "altEs": "Niebla entre los árboles del bosque cerca del río Napo, Ecuador"
+      },
+      {
+        "src": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg",
+        "width": 933,
+        "height": 1400,
+        "credit": "Fährtenleser",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Kapokbaum%2C_San_Victoriano_Siona_Village%2C_Cuyabeno-Reservat.jpg",
+        "altEn": "Looking up a kapok tree at San Victoriano in Cuyabeno, Ecuador",
+        "altEs": "Vista hacia la copa de una ceiba en San Victoriano, Cuyabeno, Ecuador"
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-manakin.jpg",
+        "width": 1279,
+        "height": 1600,
+        "credit": "Geoff Gallice",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Lepidothrix_coronata_2.jpg",
+        "altEn": "Blue-crowned bird perched among leaves in Yasuní National Park, Ecuador",
+        "altEs": "Ave de corona azul entre hojas en el Parque Nacional Yasuní, Ecuador"
+      }
+    ]
+  },
+  {
+    "job": "yasuni-cuyabeno-article",
+    "pair": "pair_031",
+    "en": "blog/yasuni-vs-cuyabeno",
+    "es": "blog/yasuni-vs-cuyabeno",
+    "pageType": "blog_article",
+    "photos": [
+      {
+        "src": "/assets/images/ecuador/yasuni-reflections-gallice.jpg",
+        "credit": "Geoff Gallice",
+        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Reflections,_Yasuni.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "width": 999,
+        "height": 1400,
+        "altEn": "Rainforest reflected in water in Yasuní National Park, Ecuador",
+        "altEs": "Bosque reflejado en el agua en el Parque Nacional Yasuní, Ecuador"
+      },
+      {
+        "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg",
+        "width": 1280,
+        "height": 960,
+        "credit": "Le mashk",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Laguna,_parque_nacional_de_Cuyabeno,_Ecuador.jpg",
+        "altEn": "Forest reflected in a Cuyabeno lagoon, with an empty canoe at the bank",
+        "altEs": "Bosque reflejado en una laguna de Cuyabeno, con una canoa vacía en la orilla"
+      },
+      {
+        "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg",
+        "width": 1400,
+        "height": 1246,
+        "credit": "Fährtenleser",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Tropische_Bl%C3%A4ttervielfalt.jpg",
+        "altEn": "Rainforest foliage and a tree trunk in Cuyabeno, Ecuador",
+        "altEs": "Hojas de selva y un tronco en Cuyabeno, Ecuador"
+      }
+    ]
+  }
+]

@@ -1,0 +1,368 @@
+{
+  "ecuador-blog-hub": {
+    "en": {
+      "title": "Ecuador Amazon Journal | Guides and Travel Decisions",
+      "h1": "Ideas for your Ecuadorian Amazon journey",
+      "lede": "Explore the places, wildlife and practical choices that shape an Amazon stay. Start with a question, follow a useful guide and build a journey around what matters to you.",
+      "intro": "Find the guide for your next decision",
+      "quick": "This journal brings together published Ecuador guides and our first destination comparison. Begin with the decision you are making now: where to stay, how long to go, what you want to observe or how the journey connects. The reading paths below lead to live guides, with practical questions to carry into your inquiry.",
+      "facts": [
+        [
+          "Regional choices",
+          "Find your starting point"
+        ],
+        [
+          "Wildlife curiosity",
+          "Explore your interests"
+        ],
+        [
+          "Practical guides",
+          "Connect the details"
+        ],
+        [
+          "Thoughtful planning",
+          "Make a clear inquiry"
+        ]
+      ],
+      "guide": "Six reading paths into the Amazon",
+      "guidelede": "Follow the question that matters now, then return to the regional and planning guides with a clearer shortlist.",
+      "extra": "Read the first destination comparison",
+      "extrap": "Our Yasuní–Cuyabeno article compares the setting, activity time, guiding, comfort and complete journey. Read it alongside the two destination guides rather than treating either place as a universal winner. If one sounds appealing, ask about the precise base and program before moving on to accommodation. The article is a starting point for comparing proposals, not a ranking of operators or a promise of sightings.",
+      "extra2": "Move from inspiration to a plan",
+      "extra2p": "When the reading has clarified your interests, use the trip-planning guide to prepare a focused first inquiry. Give dates, group, starting point and a few priorities. Ask for the written program and inclusions that answer those priorities, then compare the response with your notes. You can return to the FAQ page for unresolved general questions while the provider confirms arrangements for the actual booking.",
+      "cards": [
+        [
+          "Yasuní or Cuyabeno?",
+          "Start with our first comparison article. It sets the regional context beside practical questions about activities, guiding, comfort and access. Use it to understand what should be compared, then ask providers for the actual details of the proposals you are considering.",
+          "blog/yasuni-vs-cuyabeno"
+        ],
+        [
+          "How long should you stay?",
+          "Compare duration through nights, transfer periods and full activities. The three-, four- and five-day guides help you frame the question without treating the headline number as a complete itinerary. Read the proposed schedule against your priorities and onward plans.",
+          "3-day-amazon-tour"
+        ],
+        [
+          "What shapes a lodge stay?",
+          "Rooms are only one part of the experience. Explore questions about the exact location, guiding, meals, outings and the journey to the base. Use the lodge guide to prepare a comparison with your group’s comfort and physical requirements in mind.",
+          "amazon-lodges"
+        ],
+        [
+          "What would you like to notice?",
+          "Explore examples of animals and the habits of careful observation before choosing an outing. Ask about the setting, guide and time available. Treat regional records and photographs as context, while your own wildlife list records what you actually encounter.",
+          "animals-of-the-ecuador-amazon"
+        ]
+      ],
+      "faqs": [
+        [
+          "Where should I begin reading?",
+          "Start with the question you need to answer now: region, duration, wildlife, accommodation or access. Follow the corresponding guide and keep a short list of unresolved questions."
+        ],
+        [
+          "Which comparison article is available?",
+          "Our first published comparison covers Yasuní and Cuyabeno. The hub links to that article and the existing regional and planning guides."
+        ],
+        [
+          "Are these guides confirmed bookable tours?",
+          "No. They help you assess options and prepare an inquiry. The actual provider must confirm availability, itinerary, price and terms for your dates."
+        ],
+        [
+          "How do I use wildlife photographs?",
+          "Use them as documented regional examples. They cannot guarantee your own sightings or establish equipment and guiding inclusions."
+        ],
+        [
+          "How current is the guidance?",
+          "The page was reviewed on October 5, 2026. Check official sources again before booking and travel, especially current advice for gateways and transfer routes."
+        ],
+        [
+          "What should I do after choosing a shortlist?",
+          "Use the trip-planning guide to send dates, group, starting point and priorities. Compare the provider’s written reply with those requirements."
+        ]
+      ]
+    },
+    "es": {
+      "title": "Diario de la Amazonía Ecuatoriana | Guías y Decisiones de Viaje",
+      "h1": "Ideas para tu viaje por la Amazonía ecuatoriana",
+      "lede": "Explora lugares, fauna y decisiones prácticas que dan forma a una estancia amazónica. Empieza por una pregunta, sigue una guía útil y organiza el viaje alrededor de lo que te importa.",
+      "intro": "Encuentra la guía para tu próxima decisión",
+      "quick": "Este diario reúne guías publicadas de Ecuador y nuestra primera comparación de destinos. Empieza por la decisión actual: dónde alojarte, cuánto tiempo ir, qué observar o cómo conectar el recorrido. Las lecturas sugeridas llevan a guías disponibles y preguntas prácticas para tu consulta.",
+      "facts": [
+        [
+          "Opciones regionales",
+          "Encuentra un punto de partida"
+        ],
+        [
+          "Curiosidad por la fauna",
+          "Explora tus intereses"
+        ],
+        [
+          "Guías prácticas",
+          "Conecta los detalles"
+        ],
+        [
+          "Planificación cuidadosa",
+          "Prepara una consulta clara"
+        ]
+      ],
+      "guide": "Seis lecturas para descubrir la Amazonía",
+      "guidelede": "Sigue la pregunta que importa ahora y vuelve después a las guías regionales y de planificación con una lista más clara.",
+      "extra": "Lee la primera comparación de destinos",
+      "extrap": "El artículo Yasuní–Cuyabeno compara entorno, tiempo de actividad, guía, comodidad y recorrido completo. Léelo junto a las guías de ambos destinos, sin tratar ninguno como ganador universal. Si uno te atrae, consulta la base y el programa precisos antes de pasar al alojamiento. Es un punto de partida para comparar propuestas, no una clasificación de operadores ni una promesa de avistamientos.",
+      "extra2": "Pasa de la inspiración al plan",
+      "extra2p": "Cuando la lectura aclare tus intereses, usa la guía de planificación para preparar una primera consulta. Comparte fechas, grupo, punto de partida y algunas prioridades. Solicita programa e inclusiones escritos que respondan a ellas y compara la respuesta con tus notas. Vuelve a las preguntas frecuentes para resolver dudas generales mientras el proveedor confirma los acuerdos de la reserva concreta.",
+      "cards": [
+        [
+          "¿Yasuní o Cuyabeno?",
+          "Empieza por la primera comparación. Relaciona contexto regional con actividades, guía, comodidad y acceso. Úsala para entender qué debes comparar y solicita después a los proveedores los detalles reales de las propuestas que estás considerando.",
+          "blog/yasuni-vs-cuyabeno"
+        ],
+        [
+          "¿Cuánto tiempo quedarte?",
+          "Compara noches, traslados y actividades completas. Las guías de tres, cuatro y cinco días ayudan a preparar preguntas sin tomar el número anunciado como itinerario completo. Lee el programa propuesto según tus prioridades y planes posteriores.",
+          "tour-de-3-dias-en-la-amazonia"
+        ],
+        [
+          "¿Qué define la estancia?",
+          "La habitación es solo una parte de la experiencia. Explora ubicación exacta, guía, comidas, salidas y trayecto hasta la base. Usa la guía de alojamiento para comparar teniendo en cuenta comodidad y requisitos físicos de tu grupo.",
+          "lodges-en-la-amazonia"
+        ],
+        [
+          "¿Qué te gustaría descubrir?",
+          "Conoce ejemplos de animales y formas de observar con atención antes de elegir una salida. Consulta entorno, guía y tiempo disponible. Toma registros y fotos regionales como contexto; tu lista personal describe lo que realmente encuentras.",
+          "animales-de-la-amazonia-ecuatoriana"
+        ]
+      ],
+      "faqs": [
+        [
+          "¿Por dónde empiezo a leer?",
+          "Empieza por la pregunta actual: región, duración, fauna, alojamiento o acceso. Sigue la guía correspondiente y conserva una lista corta de dudas pendientes."
+        ],
+        [
+          "¿Qué artículo comparativo está disponible?",
+          "La primera comparación publicada trata Yasuní y Cuyabeno. El diario enlaza ese artículo y las guías regionales y de planificación existentes."
+        ],
+        [
+          "¿Son recorridos confirmados para reservar?",
+          "No. Las guías ayudan a evaluar opciones y preparar una consulta. El proveedor debe confirmar disponibilidad, itinerario, precio y condiciones para tus fechas."
+        ],
+        [
+          "¿Cómo uso las fotografías de fauna?",
+          "Son ejemplos regionales documentados. No garantizan tus avistamientos ni confirman inclusiones de equipo o guía."
+        ],
+        [
+          "¿Qué tan actual es la información?",
+          "La página se revisó el 5 de octubre de 2026. Consulta fuentes oficiales antes de reservar y viajar, especialmente avisos de accesos y traslados."
+        ],
+        [
+          "¿Qué hago después de preparar una lista corta?",
+          "Usa la guía de planificación para compartir fechas, grupo, punto de partida y prioridades. Compara la respuesta escrita del proveedor con esos requisitos."
+        ]
+      ]
+    }
+  },
+  "yasuni-cuyabeno-article": {
+    "en": {
+      "title": "Yasuní vs Cuyabeno | Which Amazon Journey Fits You?",
+      "h1": "Yasuní or Cuyabeno? Find your fit",
+      "lede": "Two compelling starting points for an Ecuadorian Amazon stay. Compare the actual setting, program, guiding and complete journey before choosing yours.",
+      "intro": "Choose the program that fits, then the destination",
+      "quick": "Start with Cuyabeno if a flooded-waterway and lagoon setting draws your interest; explore Yasuní and the Napo corridor if you want to compare a forest-and-river stay around a specific base. Then assess the actual accommodation, activities, guiding and transfers. Neither name alone establishes your comfort, total price, wildlife encounters or activity time.",
+      "facts": [
+        [
+          "Exact location",
+          "Compare the setting"
+        ],
+        [
+          "River and forest",
+          "Read the actual program"
+        ],
+        [
+          "Guide and property",
+          "Confirm the experience"
+        ],
+        [
+          "Complete journey",
+          "Count transfers and nights"
+        ]
+      ],
+      "guide": "Six comparisons that matter",
+      "guidelede": "Use the same questions for both proposals so the comparison rests on arrangements you understand.",
+      "extra": "Use a simple comparison notebook",
+      "extrap": "Put the two proposals beside your priorities. For each question, record the written answer, what is included and what remains uncertain. Keep the dates and accommodation names at the top so details from different properties do not merge into one imaginary itinerary. Mark an unanswered essential requirement clearly; do not fill it from a photograph or another lodge’s website. Once the gaps are resolved, compare the complete price with the experience you prefer.",
+      "extra2": "One region can be enough",
+      "extra2p": "You do not need to include both destinations to make the trip worthwhile. Compare what a second regional stay would add against the transfer time and the pace your group wants. If one coherent program meets your priorities, spending time there can be a sensible choice. If you are considering both, request a complete combined journey rather than joining two unrelated schedules yourself. Confirm every connection and leave the final decision tied to your own dates and requirements.",
+      "cards": [
+        [
+          "Explore Yasuní and the Napo corridor",
+          "Read the destination guide to connect the regional setting with property location, excursions and the full proposed journey. Ask which activities take place inside the national park and which are elsewhere. The Napo label should introduce a question about the actual base rather than settle it.",
+          "yasuni"
+        ],
+        [
+          "Explore Cuyabeno",
+          "Use the Cuyabeno guide to compare the proposed waterway outings, accommodation and transfer sequence. Discuss the location and pace of activities for your group. A lagoon photograph can help you imagine a setting, but the provider’s written program establishes what your booking would cover.",
+          "cuyabeno"
+        ],
+        [
+          "Compare accommodation",
+          "Put both properties through the same questions about rooms, meals, guiding, excursions and physical requirements. Compare confirmed arrangements rather than broad lodge categories, and identify what is optional or paid separately. Use the lodge guide to keep the inquiry consistent.",
+          "amazon-lodges"
+        ],
+        [
+          "Prepare the inquiry",
+          "Share dates, group, starting point, preferred duration and three priorities. Ask each provider for a complete proposal rather than a destination summary. Keep onward travel and any requirements visible so you can assess the whole journey on the same basis.",
+          "plan-your-amazon-trip"
+        ]
+      ],
+      "faqs": [
+        [
+          "Is there a single best Amazon region?",
+          "No universal choice fits every traveller. Compare the actual base, activity program, guiding, physical demands and journey against your priorities."
+        ],
+        [
+          "Does a Napo lodge mean I stay inside Yasuní National Park?",
+          "Ask for the exact location. A Napo-corridor description does not itself establish that the property or every activity is inside the national park."
+        ],
+        [
+          "Which destination guarantees more wildlife?",
+          "Neither guide promises sightings. Compare habitat, guiding and time to observe, and treat regional records and photographs as examples rather than itinerary guarantees."
+        ],
+        [
+          "Can I compare prices by destination name?",
+          "Use complete written quotes for your dates and group. Match transfers, accommodation, meals, guiding, outings and exclusions before comparing the total."
+        ],
+        [
+          "Should I visit both on one journey?",
+          "Ask what the combined itinerary adds and how its connections work. Compare that plan with a coherent stay in one region that meets your priorities."
+        ],
+        [
+          "How current is the travel guidance?",
+          "This page was reviewed on October 5, 2026. Check current official advice again before booking and travel, including every gateway and transfer route."
+        ]
+      ],
+      "comparisonHeading": "Compare the proposal, not the label",
+      "comparisonRows": [
+        [
+          "Setting",
+          "ask for the forest and river locations of the proposed stay.",
+          "ask which lagoon and waterway outings the program covers."
+        ],
+        [
+          "Comfort",
+          "Confirm the actual property’s rooms, meals and facilities.",
+          "Use the same property-level questions for this proposal."
+        ],
+        [
+          "Observation",
+          "Compare guiding, habitat and time; no sightings promised.",
+          "Compare guiding, habitat and time; no sightings promised."
+        ],
+        [
+          "Journey",
+          "Request the full outward and return transfer plan.",
+          "Request the full outward and return transfer plan."
+        ]
+      ]
+    },
+    "es": {
+      "title": "Yasuní vs Cuyabeno | ¿Qué Viaje Amazónico Encaja Contigo?",
+      "h1": "¿Yasuní o Cuyabeno? Encuentra tu opción",
+      "lede": "Dos puntos de partida para una estancia en la Amazonía ecuatoriana. Compara entorno, programa, guía y recorrido completo antes de elegir.",
+      "intro": "Elige el programa que encaja y después el destino",
+      "quick": "Empieza por Cuyabeno si te atraen canales inundados y lagunas; explora Yasuní y el corredor del Napo si quieres comparar una estancia de bosque y río desde una base concreta. Después evalúa alojamiento, actividades, guía y traslados reales. Ningún nombre confirma por sí solo comodidad, precio total, encuentros con fauna o tiempo de actividad.",
+      "facts": [
+        [
+          "Ubicación exacta",
+          "Compara el entorno"
+        ],
+        [
+          "Río y bosque",
+          "Lee el programa concreto"
+        ],
+        [
+          "Guía y propiedad",
+          "Confirma la experiencia"
+        ],
+        [
+          "Recorrido completo",
+          "Cuenta traslados y noches"
+        ]
+      ],
+      "guide": "Seis comparaciones importantes",
+      "guidelede": "Usa las mismas preguntas para ambas propuestas y compara acuerdos que puedas entender.",
+      "extra": "Usa un cuaderno sencillo de comparación",
+      "extrap": "Coloca ambas propuestas junto a tus prioridades. Para cada pregunta, anota respuesta escrita, inclusiones y dudas pendientes. Mantén fechas y nombres de propiedades arriba para no mezclar detalles de alojamientos distintos en un itinerario imaginario. Marca claramente cada requisito esencial sin respuesta; no lo completes a partir de una foto o de otra web. Cuando resuelvas los vacíos, compara precio completo y experiencia preferida.",
+      "extra2": "Una región puede ser suficiente",
+      "extra2p": "No necesitas incluir ambos destinos para disfrutar el viaje. Compara lo que añade una segunda estancia regional con los traslados y el ritmo que busca tu grupo. Si un programa coherente responde a tus prioridades, dedicarle tiempo puede ser una buena opción. Si consideras ambos, solicita el recorrido combinado completo en lugar de unir horarios sin relación por tu cuenta. Confirma cada conexión y decide según tus fechas y requisitos.",
+      "cards": [
+        [
+          "Explora Yasuní y el corredor del Napo",
+          "Lee la guía para relacionar el contexto regional con ubicación de la propiedad, excursiones y recorrido completo. Pregunta qué actividades ocurren dentro del parque y cuáles en otros lugares. El nombre Napo debe abrir la pregunta sobre la base concreta, no resolverla.",
+          "yasuni"
+        ],
+        [
+          "Explora Cuyabeno",
+          "Usa la guía para comparar salidas por canales, alojamiento y secuencia de traslados. Habla de ubicación y ritmo de las actividades para tu grupo. Una foto de laguna ayuda a imaginar un entorno; el programa escrito confirma lo que cubriría tu reserva.",
+          "cuyabeno"
+        ],
+        [
+          "Compara alojamiento",
+          "Haz las mismas preguntas a ambas propiedades sobre habitaciones, comidas, guía, excursiones y exigencias físicas. Compara acuerdos confirmados, no categorías amplias, e identifica lo opcional y lo pagado aparte. Usa la guía de alojamiento para mantener una consulta coherente.",
+          "lodges-en-la-amazonia"
+        ],
+        [
+          "Prepara la consulta",
+          "Comparte fechas, grupo, punto de partida, duración deseada y tres prioridades. Pide a cada proveedor una propuesta completa, no un resumen del destino. Mantén visibles planes posteriores y requisitos para evaluar todo el recorrido con los mismos criterios.",
+          "planifica-tu-viaje-a-la-amazonia"
+        ]
+      ],
+      "faqs": [
+        [
+          "¿Hay una única mejor región amazónica?",
+          "No existe una opción universal. Compara base concreta, programa, guía, exigencias físicas y recorrido según tus prioridades."
+        ],
+        [
+          "¿Un alojamiento del Napo está dentro de Yasuní?",
+          "Pide la ubicación exacta. Una descripción del corredor del Napo no confirma que la propiedad ni todas las actividades estén dentro del parque nacional."
+        ],
+        [
+          "¿Qué destino garantiza más fauna?",
+          "Ninguna guía promete avistamientos. Compara hábitat, guía y tiempo de observación; toma registros regionales y fotos como ejemplos, no garantías."
+        ],
+        [
+          "¿Puedo comparar precios por el nombre del destino?",
+          "Usa cotizaciones completas para tus fechas y grupo. Compara traslados, alojamiento, comidas, guía, salidas y exclusiones antes del total."
+        ],
+        [
+          "¿Conviene visitar ambos en un viaje?",
+          "Pregunta qué añade el recorrido combinado y cómo funcionan las conexiones. Compáralo con una estancia coherente en una región que responda a tus prioridades."
+        ],
+        [
+          "¿Qué tan actual es la guía de viaje?",
+          "Esta página se revisó el 5 de octubre de 2026. Consulta de nuevo avisos oficiales antes de reservar y viajar, incluidos todos los accesos y traslados."
+        ]
+      ],
+      "comparisonHeading": "Compara la propuesta, no la etiqueta",
+      "comparisonRows": [
+        [
+          "Entorno",
+          "pide las ubicaciones de bosque y río de la estancia.",
+          "consulta qué salidas por lagunas y canales cubre el programa."
+        ],
+        [
+          "Comodidad",
+          "Confirma habitaciones, comidas e instalaciones de la propiedad.",
+          "Usa las mismas preguntas concretas para esta propuesta."
+        ],
+        [
+          "Observación",
+          "Compara guía, hábitat y tiempo; sin promesas de avistamientos.",
+          "Compara guía, hábitat y tiempo; sin promesas de avistamientos."
+        ],
+        [
+          "Recorrido",
+          "Solicita el plan completo de traslados de ida y vuelta.",
+          "Solicita el plan completo de traslados de ida y vuelta."
+        ]
+      ]
+    }
+  }
+}

@@ -38,7 +38,9 @@
     "pair_024",
     "pair_025",
     "pair_026",
-    "pair_028"
+    "pair_028",
+    "pair_030",
+    "pair_031"
   ],
   "completion_requires": [
     "Editorial and bilingual review",
@@ -64,10 +66,10 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review of planning/FAQ previews",
-    "After owner authorization: pair_030 blog hub and pair_031 Yasuní versus Cuyabeno",
+    "Owner review of blog hub/comparison previews",
+    "After owner authorization: next two sitemap articles; ranked lodge recommendations require reviewed operator evidence",
     "Daily official advice check when due",
-    "Full accessibility/performance/contact delivery and twelve earlier visual audits remain pending"
+    "Full accessibility/performance/contact delivery and twelve earlier visual audits pending"
   ],
   "future_batches": [
     "Reviews require genuine customer material; do not invent testimonials",
@@ -77,8 +79,8 @@
   "pilot_status": "deployed_initial_browser_checks_pass_full_qa_pending",
   "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
   "next_batch_candidates": [
-    "pair_030",
-    "pair_031"
+    "pair_032",
+    "pair_033"
   ],
   "local_worker_run_complete": true,
   "git_status": "Committed locally; remote push blocked by automatic approval review",
@@ -88,11 +90,11 @@
     "scope": "Owner explicitly authorized staging release and proceeding on October 5; pending visual checks stay recorded"
   },
   "deployment": {
-    "id": "df76e8b9",
+    "id": "dbe07b86",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://df76e8b9.amazon-site-staging.pages.dev",
-    "protected_domain_check": "302 unauthenticated Access redirect; authenticated browser readback verified",
+    "url": "https://dbe07b86.amazon-site-staging.pages.dev",
+    "protected_domain_check": "302 unauthenticated Access redirect; authenticated browser verified",
     "date": "2026-10-05"
   },
   "browser_checks": {
@@ -115,12 +117,12 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "trip-plan-guide",
-    "ecuador-faq-guide"
+    "ecuador-blog-hub",
+    "yasuni-cuyabeno-article"
   ],
-  "batch_status": "Trip-planning and FAQ EN/ES deployed with initial desktop/mobile and technical QA pass; launch QA pending",
+  "batch_status": "Blog hub and comparison EN/ES deployed; initial desktop/mobile and technical QA passed; launch QA pending",
   "batch_browser_checks": {
-    "deployment": "df76e8b9",
+    "deployment": "dbe07b86",
     "date": "2026-10-05",
     "status": "initial_desktop_mobile_visual_and_interaction_checks_pass",
     "widths": [
@@ -130,42 +132,50 @@
     "measurements": [
       {
         "factYs": [
-          880,
-          880,
-          880,
-          880
-        ],
-        "overflow": false,
-        "route": "/ecuador/plan-your-amazon-trip/",
-        "width": 1440
-      },
-      {
-        "features": [
-          422.390625,
-          450.4375
+          -2061.4609375,
+          -2061.4609375,
+          -2061.4609375,
+          -2061.4609375
         ],
         "headerTop": 0,
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
+            "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/misahualli-confluence.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+            "src": "/assets/images/ecuador/yasuni-manakin.jpg"
           }
         ],
-        "route": "/ecuador/plan-your-amazon-trip/",
+        "overflow": false,
+        "route": "/ecuador/blog/",
         "width": 1440
       },
       {
+        "featureBackground": "rgb(16, 40, 31)",
+        "featureLinkColor": "rgb(231, 201, 132)",
         "headerTop": 0,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+          }
+        ],
         "overflow": false,
-        "route": "/ecuador/plan-your-amazon-trip/",
+        "route": "/ecuador/blog/",
         "width": 390
       },
       {
@@ -173,176 +183,197 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
+            "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/misahualli-confluence.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+            "src": "/assets/images/ecuador/yasuni-manakin.jpg"
           }
         ],
         "overflow": false,
-        "route": "/es/ecuador/planifica-tu-viaje-a-la-amazonia/",
+        "route": "/es/ecuador/blog/",
         "width": 390
       },
       {
+        "featureBackground": "rgb(16, 40, 31)",
+        "featureLinkColor": "rgb(231, 201, 132)",
         "headerTop": 0,
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
+            "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/misahualli-confluence.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+            "src": "/assets/images/ecuador/yasuni-manakin.jpg"
           }
         ],
         "overflow": false,
-        "route": "/es/ecuador/planifica-tu-viaje-a-la-amazonia/",
+        "route": "/es/ecuador/blog/",
         "width": 1440
       },
       {
         "factYs": [
-          -2095.2421875,
-          -2095.2421875,
-          -2095.2421875,
-          -2095.2421875
+          -3261.4609375,
+          -3261.4609375,
+          -3261.4609375,
+          -3261.4609375
         ],
         "headerTop": 0,
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+            "src": "/assets/images/ecuador/yasuni-reflections-gallice.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg"
           }
         ],
         "overflow": false,
-        "route": "/ecuador/faqs/",
+        "route": "/ecuador/blog/yasuni-vs-cuyabeno/",
         "width": 1440
       },
       {
-        "images": [
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg"
-          }
+        "factYs": [
+          -7317.671875,
+          -7174.25,
+          -7030.828125,
+          -6887.40625
         ],
-        "overflow": false,
-        "route": "/ecuador/faqs/",
-        "width": 390
-      },
-      {
         "headerTop": 0,
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+            "src": "/assets/images/ecuador/yasuni-reflections-gallice.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg"
           }
         ],
         "overflow": false,
-        "route": "/es/ecuador/preguntas-frecuentes/",
+        "route": "/ecuador/blog/yasuni-vs-cuyabeno/",
         "width": 390
       },
       {
         "factYs": [
-          -2095.2421875,
-          -2095.2421875,
-          -2095.2421875,
-          -2095.2421875
+          -7274.0078125,
+          -7130.5859375,
+          -6987.1640625,
+          -6843.7421875
         ],
         "headerTop": 0,
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+            "src": "/assets/images/ecuador/yasuni-reflections-gallice.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg"
           }
         ],
         "overflow": false,
-        "route": "/es/ecuador/preguntas-frecuentes/",
-        "width": 1440
+        "route": "/es/ecuador/blog/yasuni-vs-cuyabeno/",
+        "width": 390
       },
       {
+        "factYs": [
+          -6341.7421875,
+          -6341.7421875,
+          -6341.7421875,
+          -6341.7421875
+        ],
+        "headerTop": 0,
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+            "src": "/assets/images/ecuador/yasuni-reflections-gallice.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg"
           }
         ],
         "overflow": false,
-        "route": "/ecuador/faqs/",
+        "route": "/es/ecuador/blog/yasuni-vs-cuyabeno/",
+        "width": 1440
+      },
+      {
+        "factYs": [
+          -2061.4609375,
+          -2061.4609375,
+          -2061.4609375,
+          -2061.4609375
+        ],
+        "headerTop": 0,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+          }
+        ],
+        "overflow": false,
+        "route": "/ecuador/blog/",
         "width": 1440
       }
     ],
     "screenshots": [
-      "planning/ai-os/evidence/planning-en-desktop.png",
-      "planning/ai-os/evidence/planning-en-mobile.png",
-      "planning/ai-os/evidence/planning-es-desktop.png",
-      "planning/ai-os/evidence/planning-es-mobile.png",
-      "planning/ai-os/evidence/faqs-en-desktop.png",
-      "planning/ai-os/evidence/faqs-en-mobile.png",
-      "planning/ai-os/evidence/faqs-es-desktop.png",
-      "planning/ai-os/evidence/faqs-es-mobile.png",
-      "planning/ai-os/evidence/planning-final-preview.png"
+      "planning/ai-os/evidence/blog-hub-en-desktop.png",
+      "planning/ai-os/evidence/blog-hub-en-mobile.png",
+      "planning/ai-os/evidence/blog-hub-es-desktop.png",
+      "planning/ai-os/evidence/blog-hub-es-mobile.png",
+      "planning/ai-os/evidence/blog-compare-en-desktop.png",
+      "planning/ai-os/evidence/blog-compare-en-mobile.png",
+      "planning/ai-os/evidence/blog-compare-es-desktop.png",
+      "planning/ai-os/evidence/blog-compare-es-mobile.png"
     ],
     "checks": [
       "All four routes reviewed at desktop/mobile widths",
-      "Six approved distinct scenes inspected; three images per page; no recent two-batch reuse",
-      "Aligned fact labels; no horizontal overflow; sticky header",
+      "Six rights-cleared distinct scenes; three photos per page; none repeated from preceding two batches",
+      "Desktop fact labels aligned; no horizontal overflow; sticky header",
       "EN hamburger Enter opens and Escape closes; FAQ Enter toggles open/closed",
-      "Final trip-plan cross-link label verified against FAQ destination",
+      "Low contrast dark-card link corrected; bird image paired with wildlife text",
       "Unauthenticated protected staging returns 302; authenticated browser reads final pages"
     ],
     "limits": [
-      "Initial visual review; full accessibility and measured performance pending",
+      "Full accessibility and measured performance pending",
       "Contact delivery endpoint remains absent",
-      "First planning EN views used 29d6806a; final df76e8b9 readback confirms cross-link correction; content otherwise unchanged",
-      "One initial FAQ desktop image measure before decode; subsequent final views and readback show loaded images"
+      "EN hub mobile hero screenshot initially taken on a0e08f3d; unchanged hero; final dbe07b86 lower-page review and measurements confirm corrections",
+      "Twelve earlier pairs still need full visual catch-up"
     ]
   },
   "template": {
@@ -378,7 +409,9 @@
     "pair_024",
     "pair_025",
     "pair_026",
-    "pair_028"
+    "pair_028",
+    "pair_030",
+    "pair_031"
   ],
   "advice_monitor": {
     "interval_hours": 24,

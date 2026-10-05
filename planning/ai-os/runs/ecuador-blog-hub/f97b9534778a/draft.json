@@ -1,0 +1,102 @@
+{
+  "en": [
+    {
+      "heading": "Find Regional Guides",
+      "points": [
+        "Does the operator provide local guides for this specific region?",
+        "Are these guides certified by the relevant regional authority?",
+        "What is the experience level of the guides assigned to this trip?"
+      ]
+    },
+    {
+      "heading": "Compare Trip Length",
+      "points": [
+        "How many days does the operator confirm for the itinerary?",
+        "Does the schedule include rest days between activities?",
+        "Is the total duration fixed or flexible based on conditions?"
+      ]
+    },
+    {
+      "heading": "Explore Wildlife Interests",
+      "points": [
+        "Which species are typically observed during this specific route?",
+        "Does the operator guarantee sightings of particular animals?",
+        "What is the protocol if wildlife behavior changes unexpectedly?"
+      ]
+    },
+    {
+      "heading": "Understand Lodge Proposals",
+      "points": [
+        "Which lodges are included in the confirmed booking?",
+        "Are meals and accommodation fully covered by the price?",
+        "What facilities are available at each stop along the way?"
+      ]
+    },
+    {
+      "heading": "Connect Access and Packing",
+      "points": [
+        "Does the operator specify what items must be packed for transport?",
+        "Is there a designated meeting point for luggage collection?",
+        "What restrictions apply to carrying equipment on boats or planes?"
+      ]
+    },
+    {
+      "heading": "Turn Reading into Focused Inquiry",
+      "points": [
+        "Can the operator clarify any ambiguous terms in the proposal?",
+        "What specific details are missing from the current documentation?",
+        "How can we verify the accuracy of the provided information?"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "heading": "Encuentre Guías Regionales",
+      "points": [
+        "¿El operador proporciona guías locales para esta región específica?",
+        "¿Estos guías están certificados por la autoridad regional correspondiente?",
+        "¿Cuál es el nivel de experiencia de los guías asignados a este viaje?"
+      ]
+    },
+    {
+      "heading": "Compare Dura del Viaje",
+      "points": [
+        "¿Cuántos días confirma el operador para el itinerario?",
+        "¿El horario incluye días de descanso entre actividades?",
+        "¿La duración total es fija o flexible según las condiciones?"
+      ]
+    },
+    {
+      "heading": "Explore Intereses Faunísticos",
+      "points": [
+        "¿Qué especies se observan típicamente durante esta ruta específica?",
+        "¿El operador garantiza avistamientos de animales particulares?",
+        "¿Cuál es el protocolo si el comportamiento de la fauna cambia inesperadamente?"
+      ]
+    },
+    {
+      "heading": "Entienda Propuestas de Lodges",
+      "points": [
+        "¿Qué lodges están incluidos en la reserva confirmada?",
+        "¿Están cubiertos los alimentos y el alojamiento por el precio?",
+        "¿Qué instalaciones están disponibles en cada parada del camino?"
+      ]
+    },
+    {
+      "heading": "Conecte Acceso y Empaque",
+      "points": [
+        "¿El operador especifica qué artículos deben empaquetarse para el transporte?",
+        "¿Existe un punto de encuentro designado para la recolección de equipaje?",
+        "¿Qué restricciones aplican al llevar equipo en botes o aviones?"
+      ]
+    },
+    {
+      "heading": "Convierta Lectura en Consulta Enfocada",
+      "points": [
+        "¿Puede el operador aclarar cualquier término ambiguo en la propuesta?",
+        "¿Qué detalles específicos faltan en la documentación actual?",
+        "¿Cómo podemos verificar la exactitud de la información proporcionada?"
+      ]
+    }
+  ]
+}

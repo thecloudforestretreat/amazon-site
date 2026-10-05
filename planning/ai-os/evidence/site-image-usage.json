@@ -75,6 +75,15 @@
       ]
     },
     {
+      "src": "/assets/images/ecuador/napo-forest-grzywa.jpg",
+      "count": 3,
+      "routes": [
+        "/ecuador/private-amazon-tour/",
+        "/ecuador/what-to-pack-for-the-amazon/",
+        "/ecuador/blog/"
+      ]
+    },
+    {
       "src": "/assets/images/ecuador/puyo-river.jpg",
       "count": 3,
       "routes": [
@@ -84,12 +93,30 @@
       ]
     },
     {
+      "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg",
+      "count": 3,
+      "routes": [
+        "/ecuador/family-amazon-tour/",
+        "/ecuador/how-to-get-to-the-ecuador-amazon/",
+        "/ecuador/blog/yasuni-vs-cuyabeno/"
+      ]
+    },
+    {
       "src": "/assets/images/ecuador/puyo-city.jpg",
       "count": 3,
       "routes": [
         "/ecuador/family-amazon-tour/",
         "/ecuador/puyo/",
         "/ecuador/amazon-tours-from-quito/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/yasuni-manakin.jpg",
+      "count": 3,
+      "routes": [
+        "/ecuador/blog/",
+        "/ecuador/amazon-birdwatching-tour/",
+        "/ecuador/amazon-vs-galapagos/"
       ]
     },
     {
@@ -125,14 +152,6 @@
       ]
     },
     {
-      "src": "/assets/images/ecuador/napo-forest-grzywa.jpg",
-      "count": 2,
-      "routes": [
-        "/ecuador/private-amazon-tour/",
-        "/ecuador/what-to-pack-for-the-amazon/"
-      ]
-    },
-    {
       "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg",
       "count": 2,
       "routes": [
@@ -146,14 +165,6 @@
       "routes": [
         "/ecuador/misahualli/",
         "/ecuador/plan-your-amazon-trip/"
-      ]
-    },
-    {
-      "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg",
-      "count": 2,
-      "routes": [
-        "/ecuador/family-amazon-tour/",
-        "/ecuador/how-to-get-to-the-ecuador-amazon/"
       ]
     },
     {
@@ -173,6 +184,14 @@
       ]
     },
     {
+      "src": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg",
+      "count": 2,
+      "routes": [
+        "/ecuador/blog/",
+        "/ecuador/is-the-ecuador-amazon-safe/"
+      ]
+    },
+    {
       "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg",
       "count": 2,
       "routes": [
@@ -189,11 +208,11 @@
       ]
     },
     {
-      "src": "/assets/images/ecuador/yasuni-manakin.jpg",
+      "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg",
       "count": 2,
       "routes": [
-        "/ecuador/amazon-birdwatching-tour/",
-        "/ecuador/amazon-vs-galapagos/"
+        "/ecuador/is-the-ecuador-amazon-safe/",
+        "/ecuador/blog/yasuni-vs-cuyabeno/"
       ]
     },
     {
@@ -246,20 +265,6 @@
       ]
     },
     {
-      "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg",
-      "count": 1,
-      "routes": [
-        "/ecuador/is-the-ecuador-amazon-safe/"
-      ]
-    },
-    {
-      "src": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg",
-      "count": 1,
-      "routes": [
-        "/ecuador/is-the-ecuador-amazon-safe/"
-      ]
-    },
-    {
       "src": "/assets/images/ecuador/yasuni-scarlet-macaw.jpg",
       "count": 1,
       "routes": [
@@ -292,6 +297,13 @@
       "count": 1,
       "routes": [
         "/ecuador/amazon-vs-galapagos/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/yasuni-reflections-gallice.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/blog/yasuni-vs-cuyabeno/"
       ]
     }
   ],

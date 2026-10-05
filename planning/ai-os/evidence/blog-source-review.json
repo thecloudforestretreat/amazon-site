@@ -1,0 +1,23 @@
+{
+  "review_date": "2026-10-05",
+  "sources": [
+    {
+      "url": "https://www.unesco.org/en/mab/yasuni",
+      "used": "humid tropical forest regional context; no statistics or sighting forecasts"
+    },
+    {
+      "url": "https://iucn.org/es/news/south-america/201709/las-lagunas-de-cuyabeno-mantos-de-la-biodiversidad",
+      "published": "2017-09-05",
+      "used": "flooded waterways and lagoon regional context; not current access schedules"
+    },
+    {
+      "url": "https://www.gov.uk/foreign-travel-advice/ecuador/regional-risks",
+      "used": "current source link; review gateway and transfer routes"
+    }
+  ],
+  "retrieval_limits": [
+    "Ecuador Travel article returned 429 and ministry PDF timed out; no new precise access claims drawn from them"
+  ],
+  "editorial": "No universal cost, comfort or wildlife rankings; confirm actual proposals",
+  "photos": "Six previously rights-cleared scenes inspected; Yasun\u00ed reflections actual dimensions corrected to 999x1400"
+}

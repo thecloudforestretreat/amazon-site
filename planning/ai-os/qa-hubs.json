@@ -2,56 +2,56 @@
   "ecuador": {
     "pair_id": "pair_003",
     "language": "en",
-    "main_words": 1802,
+    "main_words": 1838,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
       "/assets/images/ecuador/misahualli-boat.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "8062d903de8e80c010e568062643780e1523b6d1e2b7438ff67e4564583261b5",
+    "sha256": "de7af8db92961d7680524ab3aa6be43e1f9d1995bbdbb6f4bea5bd7970479628",
     "errors": [],
     "passed": true
   },
   "es/ecuador": {
     "pair_id": "pair_003",
     "language": "es",
-    "main_words": 1808,
+    "main_words": 1843,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
       "/assets/images/ecuador/misahualli-boat.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "c7f31ca5a7f26deec643b066110a21eb385917e03326ee685a64bd2e2736557f",
+    "sha256": "fccd32d40ff62be5b873182ec57588a674929df4afcd5808b3d4adec2dd58292",
     "errors": [],
     "passed": true
   },
   "ecuador/amazon-lodges": {
     "pair_id": "pair_009",
     "language": "en",
-    "main_words": 1422,
+    "main_words": 1431,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg",
       "/assets/images/ecuador/puyo-palms.jpg"
     ],
-    "sha256": "7df12e02768b262386dfc6f840e21ae69b5f8cf0ed664caedb87df4abd3d066d",
+    "sha256": "7e9d70c52ee6836ccded340f533b9c8f19c281a758955a0b2d385ceda90bd244",
     "errors": [],
     "passed": true
   },
   "es/ecuador/lodges-en-la-amazonia": {
     "pair_id": "pair_009",
     "language": "es",
-    "main_words": 1363,
+    "main_words": 1371,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg",
       "/assets/images/ecuador/puyo-palms.jpg"
     ],
-    "sha256": "a09a82838140e702949e29412355f506c544cc2ed75f223392951fe56e4f1b37",
+    "sha256": "e09f99acb357db955add6756613e5793431d21e1da4635a9ad4b7edc6db40040",
     "errors": [],
     "passed": true
   },
@@ -556,6 +556,62 @@
       "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg"
     ],
     "sha256": "08c2e0b51377ecd27d3384757e81b4337b0704db9640b5c56045aef81b099a80",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/blog": {
+    "pair_id": "pair_030",
+    "language": "en",
+    "main_words": 1304,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/napo-forest-grzywa.jpg",
+      "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg",
+      "/assets/images/ecuador/yasuni-manakin.jpg"
+    ],
+    "sha256": "cb5e8a2fbf50a0b26dac4a21dd2a8877b52c183cb23b7c06abd140f9a18e7c0d",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/blog": {
+    "pair_id": "pair_030",
+    "language": "es",
+    "main_words": 1279,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/napo-forest-grzywa.jpg",
+      "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg",
+      "/assets/images/ecuador/yasuni-manakin.jpg"
+    ],
+    "sha256": "69d116ed75c8a55f7fe7c89c04c9c39ec75f70ce2cd8b3d31c5daf4a70cb3f27",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/blog/yasuni-vs-cuyabeno": {
+    "pair_id": "pair_031",
+    "language": "en",
+    "main_words": 1778,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-reflections-gallice.jpg",
+      "/assets/images/ecuador/cuyabeno-lagoon-new.jpg",
+      "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg"
+    ],
+    "sha256": "3fadb999351e0574f663ee30efdc5f21981725a86409c2b3d09d36cb9d712626",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/blog/yasuni-vs-cuyabeno": {
+    "pair_id": "pair_031",
+    "language": "es",
+    "main_words": 1728,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-reflections-gallice.jpg",
+      "/assets/images/ecuador/cuyabeno-lagoon-new.jpg",
+      "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg"
+    ],
+    "sha256": "979c11d092b44034ea09482ea5aab57dd747ccf2a1a34f46713472e7546466fb",
     "errors": [],
     "passed": true
   }

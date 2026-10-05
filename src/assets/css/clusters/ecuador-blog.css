@@ -1,0 +1,5 @@
+/* Country journal and comparison modules share the established Ecuador rhythm. */
+.eta-blog-comparison{margin-top:32px}.eta-blog-comparison__grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}.eta-blog-comparison .eta-decision-card p{margin-top:16px}.eta-blog-comparison .eta-decision-card strong{color:var(--eta-forest,#173c30)}@media(max-width:640px){.eta-blog-comparison__grid{grid-template-columns:1fr}}
+
+/* Feature links need contrast against the dark reverse card. */
+.eta-hub-guide-card>a{display:inline-block;margin-top:16px;font-weight:700}.eta-hub-guide-feature--reverse .eta-hub-guide-card>a{color:#e7c984}

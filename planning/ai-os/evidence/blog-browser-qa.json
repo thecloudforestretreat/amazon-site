@@ -1,0 +1,255 @@
+{
+  "deployment": "dbe07b86",
+  "date": "2026-10-05",
+  "status": "initial_desktop_mobile_visual_and_interaction_checks_pass",
+  "widths": [
+    1440,
+    390
+  ],
+  "measurements": [
+    {
+      "factYs": [
+        -2061.4609375,
+        -2061.4609375,
+        -2061.4609375,
+        -2061.4609375
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/blog/",
+      "width": 1440
+    },
+    {
+      "featureBackground": "rgb(16, 40, 31)",
+      "featureLinkColor": "rgb(231, 201, 132)",
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/blog/",
+      "width": 390
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/blog/",
+      "width": 390
+    },
+    {
+      "featureBackground": "rgb(16, 40, 31)",
+      "featureLinkColor": "rgb(231, 201, 132)",
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/blog/",
+      "width": 1440
+    },
+    {
+      "factYs": [
+        -3261.4609375,
+        -3261.4609375,
+        -3261.4609375,
+        -3261.4609375
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-reflections-gallice.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/blog/yasuni-vs-cuyabeno/",
+      "width": 1440
+    },
+    {
+      "factYs": [
+        -7317.671875,
+        -7174.25,
+        -7030.828125,
+        -6887.40625
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-reflections-gallice.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/blog/yasuni-vs-cuyabeno/",
+      "width": 390
+    },
+    {
+      "factYs": [
+        -7274.0078125,
+        -7130.5859375,
+        -6987.1640625,
+        -6843.7421875
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-reflections-gallice.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/blog/yasuni-vs-cuyabeno/",
+      "width": 390
+    },
+    {
+      "factYs": [
+        -6341.7421875,
+        -6341.7421875,
+        -6341.7421875,
+        -6341.7421875
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-reflections-gallice.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/blog/yasuni-vs-cuyabeno/",
+      "width": 1440
+    },
+    {
+      "factYs": [
+        -2061.4609375,
+        -2061.4609375,
+        -2061.4609375,
+        -2061.4609375
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/blog/",
+      "width": 1440
+    }
+  ],
+  "screenshots": [
+    "planning/ai-os/evidence/blog-hub-en-desktop.png",
+    "planning/ai-os/evidence/blog-hub-en-mobile.png",
+    "planning/ai-os/evidence/blog-hub-es-desktop.png",
+    "planning/ai-os/evidence/blog-hub-es-mobile.png",
+    "planning/ai-os/evidence/blog-compare-en-desktop.png",
+    "planning/ai-os/evidence/blog-compare-en-mobile.png",
+    "planning/ai-os/evidence/blog-compare-es-desktop.png",
+    "planning/ai-os/evidence/blog-compare-es-mobile.png"
+  ],
+  "checks": [
+    "All four routes reviewed at desktop/mobile widths",
+    "Six rights-cleared distinct scenes; three photos per page; none repeated from preceding two batches",
+    "Desktop fact labels aligned; no horizontal overflow; sticky header",
+    "EN hamburger Enter opens and Escape closes; FAQ Enter toggles open/closed",
+    "Low contrast dark-card link corrected; bird image paired with wildlife text",
+    "Unauthenticated protected staging returns 302; authenticated browser reads final pages"
+  ],
+  "limits": [
+    "Full accessibility and measured performance pending",
+    "Contact delivery endpoint remains absent",
+    "EN hub mobile hero screenshot initially taken on a0e08f3d; unchanged hero; final dbe07b86 lower-page review and measurements confirm corrections",
+    "Twelve earlier pairs still need full visual catch-up"
+  ]
+}

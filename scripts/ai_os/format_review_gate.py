@@ -3,7 +3,7 @@ import json,re
 PATTERNS={
  'spanish_voice_mismatch':r'\b(?:confirme|pregunte|solicite|consulte|confirmen|consulten|soliciten|pregúntenle)\b',
  'unsupported_wildlife_timing':r'wildlife can be found at any time|vida silvestre puede encontrarse a cualquier hora',
- 'literal_spanish_failure':r'\blas avistamientos\b|\bcamadas guiadas\b|\benforce\b|\blos salidas\b|\bla avistamiento\b',
+ 'literal_spanish_failure':r'\bDura del Viaje\b|\blas avistamientos\b|\bcamadas guiadas\b|\benforce\b|\blos salidas\b|\bla avistamiento\b',
  'invented_transport':r'flight to Tena|flight from Tena|flight from.*Puyo|vuelo a Tena|vuelo de regreso desde Tena|Sim[oó]n Bol[ií]var',
  'unrealistic_specificity':r'minute-by-minute|minuto a minuto|radio frequency|frecuencia de radio|48 hours|48 horas',
  'unsupported_timing':r'6 to 8 hours|6 y 8 horas',

@@ -1,0 +1,41 @@
+{
+  "status": "deployed_initial_visual_and_technical_checks_pass_full_launch_qa_pending",
+  "deployment": "dbe07b86",
+  "pairs": [
+    "pair_030",
+    "pair_031"
+  ],
+  "progress": "27/34 Ecuador pairs prepared/deployed (79.4%); not launch completion",
+  "local_usage": {
+    "model": "qwen3.5:9b",
+    "calls": 2,
+    "prompt_tokens": 413,
+    "output_tokens": 1722,
+    "total_tokens": 2135,
+    "seconds": 74.12,
+    "retries": 0,
+    "cache_hits": 0,
+    "bounded_initial_draft_calls_local_percent": 100,
+    "overall_local_cloud_percent": "unmeasured; supervisor editorial rewrites, review, QA and deployment excluded"
+  },
+  "rollback": {
+    "deployment": "df76e8b9",
+    "local_commit": "049ac4a"
+  },
+  "verification": {
+    "compiled_pages": 64,
+    "audited_routes": 44,
+    "image_rotation": "passed",
+    "cross_links": "passed",
+    "protection": "302; authenticated browser verified",
+    "format_gate_regression_tests": 8
+  },
+  "improvements": [
+    "Added regression for observed malformed Spanish heading",
+    "Introduced scoped blog/article cluster and reusable comparison cards",
+    "Corrected dark-card link contrast and wildlife image placement"
+  ],
+  "review": "Substantial supervisor rewrite; unsupported arrangements removed; raw local output preserved",
+  "browser_evidence": "planning/ai-os/evidence/blog-browser-qa.json",
+  "next": "Owner review, then next authorized two-pair batch"
+}

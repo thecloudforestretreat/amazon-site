@@ -1,0 +1,15 @@
+{
+  "job": "yasuni-cuyabeno-article",
+  "model": "qwen3.5:9b",
+  "status": "editorial_reviewed_deployed_initial_visual_pass_full_qa_pending",
+  "review_flags": [],
+  "seconds": 33.74,
+  "prompt_eval_count": 207,
+  "eval_count": 827,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false,
+  "deployment": "dbe07b86",
+  "raw_review_flags": [],
+  "promotion": "Substantial supervisor rewrite; raw preserved; manual editorial review",
+  "reviewed_sha256": "f6701709dff3e0aab340816aba73ec49c7bdacd17147dfa7ca8fda98350b928b"
+}

@@ -1,0 +1,102 @@
+{
+  "en": [
+    {
+      "heading": "Precise Location",
+      "points": [
+        "Where exactly will our boat be moored?",
+        "Which specific campsite is included in the itinerary?",
+        "How far is the nearest medical facility from our location?"
+      ]
+    },
+    {
+      "heading": "River and Forest Activities",
+      "points": [
+        "What river activities are confirmed for this trip?",
+        "Which forest walks are part of the schedule?",
+        "Are swimming stops included in the daily plan?"
+      ]
+    },
+    {
+      "heading": "Guiding and Comfort",
+      "points": [
+        "How many guides will accompany our group?",
+        "What type of sleeping arrangements are provided?",
+        "Is hot water available for showers?"
+      ]
+    },
+    {
+      "heading": "Excursion Time",
+      "points": [
+        "How many hours per day are spent on the river?",
+        "What is the total duration of each activity?",
+        "When do we arrive at the next stop?"
+      ]
+    },
+    {
+      "heading": "Complete Transfer Plan",
+      "points": [
+        "Where will our vehicle pick us up from?",
+        "How long does the transfer to the port take?",
+        "Is there a backup plan if the boat is delayed?"
+      ]
+    },
+    {
+      "heading": "Written Proposals",
+      "points": [
+        "Can you send a written confirmation of all services?",
+        "What exactly is included in the price?",
+        "Where can I find the signed contract details?"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "heading": "Ubicación Precisa",
+      "points": [
+        "¿Dónde estará exactamente amarrado nuestro bote?",
+        "¿Qué campamento específico está incluido en el itinerario?",
+        "¿A qué distancia se encuentra la instalación médica más cercana de nuestra ubicación?"
+      ]
+    },
+    {
+      "heading": "Actividades Fluviales y Forestales",
+      "points": [
+        "¿Qué actividades fluviales están confirmadas para este viaje?",
+        "¿Qué caminatas forestales forman parte del horario?",
+        "¿Están incluidas las paradas de natación en el plan diario?"
+      ]
+    },
+    {
+      "heading": "Guía y Confort",
+      "points": [
+        "¿Cuántos guías acompañarán a nuestro grupo?",
+        "¿Qué tipo de alojamiento se proporciona para dormir?",
+        "¿Hay agua caliente disponible para duchas?"
+      ]
+    },
+    {
+      "heading": "Tiempo de Excursión",
+      "points": [
+        "¿Cuántas horas al día se pasan en el río?",
+        "¿Cuál es la duración total de cada actividad?",
+        "¿A qué hora llegamos a la siguiente parada?"
+      ]
+    },
+    {
+      "heading": "Plan Completo de Traslado",
+      "points": [
+        "¿Dónde recogerá nuestro vehículo al grupo?",
+        "¿Cuánto tiempo tarda el traslado hasta el puerto?",
+        "¿Existe un plan alternativo si el bote se retrasa?"
+      ]
+    },
+    {
+      "heading": "Propuestas Escritas",
+      "points": [
+        "¿Puede enviar una confirmación escrita de todos los servicios?",
+        "¿Qué está incluido exactamente en el precio?",
+        "¿Dónde puedo encontrar los detalles del contrato firmado?"
+      ]
+    }
+  ]
+}
