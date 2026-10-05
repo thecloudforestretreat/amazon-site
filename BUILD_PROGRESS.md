@@ -77,3 +77,7 @@ Deployed `33f2fcaf`: added licensed Cuyabeno photo by Constanza S. Mora for the 
 ### Rounded hero frame
 
 Deployed `5b63c994`: hero image now sits in an ivory frame with 30px outer / 20px inner corners, subtle border and shadow. Mobile uses 24px / 16px corners and narrower inset. Build and validation pass; visual review pending.
+
+### Stylesheet cache invalidation
+
+Deployed `34aa8cf5`. All compiled local CSS links now include SHA-256 content versions so changed styles request new URLs. Addresses a possible stale stylesheet cause of owner seeing no hero update; root cause not visually confirmed. Build, validation and content audit pass.

@@ -1,3 +1,4 @@
+import { createHash } from "node:crypto";
 import { cp, mkdir, readFile, readdir, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -210,6 +211,17 @@ await compilePages();
 await compileEcuadorDestinations();
 await writeRuntimeConfig();
 await writeEnvironmentFiles();
+// Version every local stylesheet by content, so page refreshes fetch changed CSS.
+const cssVersions = new Map();
+for (const cssFile of (await listFiles(path.join(outputDir, 'assets', 'css'))).filter(file => file.endsWith('.css'))) {
+  const url = '/' + path.relative(outputDir, cssFile).split(path.sep).join('/');
+  cssVersions.set(url, createHash('sha256').update(await readFile(cssFile)).digest('hex').slice(0, 12));
+}
+for (const htmlFile of (await listFiles(outputDir)).filter(file => file.endsWith('.html'))) {
+  const html = await readFile(htmlFile, 'utf8');
+  await writeFile(htmlFile, html.replace(/href="(\/assets\/css\/[^"?]+\.css)"/g, (match, url) => `href="${url}?v=${cssVersions.get(url)}"`));
+}
+
 if (environment === "staging") {
   for (const file of (await listFiles(outputDir)).filter(file => file.endsWith(".html"))) {
     const html = await readFile(file, "utf8");
