@@ -1,0 +1,128 @@
+{
+  "pair_id": "pair_008",
+  "errors": [],
+  "pages": {
+    "en": {
+      "route": "/ecuador/puyo/",
+      "main_words": 1667,
+      "word_count_scope": "Main content excluding guide navigation",
+      "html_sha256": "4a532aa8a93b5fbad0dbc3c54e6edba0eeec023b6efe4ef5a6c3a06e8bd0bac9",
+      "signals": {
+        "title": "Puyo Ecuadorian Amazon Guide | Culture and Rainforest",
+        "meta_description": "Plan travel through Puyo with guidance on central Amazon access, community tourism, rainforest activities and itinerary fit.",
+        "h1": [
+          "Puyo and Ecuador's central Amazon"
+        ],
+        "canonical": "https://experiencetheamazon.com/ecuador/puyo/",
+        "hreflang": [
+          [
+            "en",
+            "https://experiencetheamazon.com/ecuador/puyo/"
+          ],
+          [
+            "es",
+            "https://experiencetheamazon.com/es/ecuador/puyo/"
+          ],
+          [
+            "x-default",
+            "https://experiencetheamazon.com/ecuador/puyo/"
+          ]
+        ],
+        "robots": "noindex,nofollow,noarchive",
+        "schema_types": [
+          "Answer",
+          "BreadcrumbList",
+          "Country",
+          "FAQPage",
+          "ListItem",
+          "Question",
+          "TouristDestination"
+        ],
+        "internal_links": [
+          "/",
+          "/about/",
+          "/contact/",
+          "/ecuador/",
+          "/ecuador/amazon-lodges/",
+          "/ecuador/cuyabeno/",
+          "/ecuador/misahualli/",
+          "/ecuador/tena/",
+          "/ecuador/yasuni/",
+          "/es/",
+          "/privacy-policy/",
+          "/terms/"
+        ],
+        "word_count": 1898,
+        "question_heading_count": 2,
+        "cta_link_count": 5,
+        "document_language": "en",
+        "image_count": 5,
+        "missing_alt_count": 0,
+        "unlabelled_control_count": 0,
+        "visible_text_sha256": "1daa6a20904aa035c4fa420c40d73e4d611dca4fe627d2b6b4a9f2a87563d2a9"
+      }
+    },
+    "es": {
+      "route": "/es/ecuador/puyo/",
+      "main_words": 1681,
+      "word_count_scope": "Main content excluding guide navigation",
+      "html_sha256": "a8282564c7a782a21cd8ff69117f21c915a578b59764e2eb9988f0b72573aea3",
+      "signals": {
+        "title": "Guía de Puyo Ecuador | Cultura y Selva Amazónica",
+        "meta_description": "Planifica un viaje por Puyo con información sobre acceso a la Amazonía central, turismo comunitario, selva e itinerarios.",
+        "h1": [
+          "Puyo y la Amazonía central del Ecuador"
+        ],
+        "canonical": "https://experiencetheamazon.com/es/ecuador/puyo/",
+        "hreflang": [
+          [
+            "en",
+            "https://experiencetheamazon.com/ecuador/puyo/"
+          ],
+          [
+            "es",
+            "https://experiencetheamazon.com/es/ecuador/puyo/"
+          ],
+          [
+            "x-default",
+            "https://experiencetheamazon.com/ecuador/puyo/"
+          ]
+        ],
+        "robots": "noindex,nofollow,noarchive",
+        "schema_types": [
+          "Answer",
+          "BreadcrumbList",
+          "Country",
+          "FAQPage",
+          "ListItem",
+          "Question",
+          "TouristDestination"
+        ],
+        "internal_links": [
+          "/",
+          "/es/",
+          "/es/contacto/",
+          "/es/ecuador/",
+          "/es/ecuador/cuyabeno/",
+          "/es/ecuador/lodges-en-la-amazonia/",
+          "/es/ecuador/misahualli/",
+          "/es/ecuador/tena/",
+          "/es/ecuador/yasuni/",
+          "/es/nuestra-propuesta/",
+          "/es/politica-de-privacidad/",
+          "/es/terminos/"
+        ],
+        "word_count": 1910,
+        "question_heading_count": 2,
+        "cta_link_count": 5,
+        "document_language": "es",
+        "image_count": 5,
+        "missing_alt_count": 0,
+        "unlabelled_control_count": 0,
+        "visible_text_sha256": "e1e7195c69ece4e1a98fd0ee984c393ea3164fb0c74adb0b6757c8b87640d19d"
+      }
+    }
+  },
+  "engine": "ai_os.website.html.extract_page_signals",
+  "passed": true
+}

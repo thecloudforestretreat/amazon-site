@@ -1,0 +1,128 @@
+{
+  "pair_id": "pair_007",
+  "errors": [],
+  "pages": {
+    "en": {
+      "route": "/ecuador/misahualli/",
+      "main_words": 1606,
+      "word_count_scope": "Main content excluding guide navigation",
+      "html_sha256": "2ea5a83ba28727cd4755ce320d715fa3983063990c9aa4bd7d1741041c0e0648",
+      "signals": {
+        "title": "Misahuallí Ecuadorian Amazon Guide | Lodges and River Trips",
+        "meta_description": "Use Misahuallí as an Ecuadorian Amazon base with practical guidance on river trips, nearby lodges, wildlife expectations and planning.",
+        "h1": [
+          "Misahuallí: a compact river gateway"
+        ],
+        "canonical": "https://experiencetheamazon.com/ecuador/misahualli/",
+        "hreflang": [
+          [
+            "en",
+            "https://experiencetheamazon.com/ecuador/misahualli/"
+          ],
+          [
+            "es",
+            "https://experiencetheamazon.com/es/ecuador/misahualli/"
+          ],
+          [
+            "x-default",
+            "https://experiencetheamazon.com/ecuador/misahualli/"
+          ]
+        ],
+        "robots": "noindex,nofollow,noarchive",
+        "schema_types": [
+          "Answer",
+          "BreadcrumbList",
+          "Country",
+          "FAQPage",
+          "ListItem",
+          "Question",
+          "TouristDestination"
+        ],
+        "internal_links": [
+          "/",
+          "/about/",
+          "/contact/",
+          "/ecuador/",
+          "/ecuador/amazon-lodges/",
+          "/ecuador/cuyabeno/",
+          "/ecuador/puyo/",
+          "/ecuador/tena/",
+          "/ecuador/yasuni/",
+          "/es/",
+          "/privacy-policy/",
+          "/terms/"
+        ],
+        "word_count": 1836,
+        "question_heading_count": 3,
+        "cta_link_count": 5,
+        "document_language": "en",
+        "image_count": 5,
+        "missing_alt_count": 0,
+        "unlabelled_control_count": 0,
+        "visible_text_sha256": "5df8fa6a28ec44e9bf9e9ac8bd0ef6dce6703b915fb26b3fc630505d2c91b4f1"
+      }
+    },
+    "es": {
+      "route": "/es/ecuador/misahualli/",
+      "main_words": 1602,
+      "word_count_scope": "Main content excluding guide navigation",
+      "html_sha256": "2e7c271cac3e2bf9b27f02b374e3bf94e1fec6c216ea0a3a70159822f0f372e0",
+      "signals": {
+        "title": "Guía de Misahuallí | Lodges y Rutas Fluviales",
+        "meta_description": "Usa Misahuallí como base amazónica con orientación sobre paseos fluviales, lodges cercanos, fauna y planificación.",
+        "h1": [
+          "Misahuallí: una puerta fluvial compacta"
+        ],
+        "canonical": "https://experiencetheamazon.com/es/ecuador/misahualli/",
+        "hreflang": [
+          [
+            "en",
+            "https://experiencetheamazon.com/ecuador/misahualli/"
+          ],
+          [
+            "es",
+            "https://experiencetheamazon.com/es/ecuador/misahualli/"
+          ],
+          [
+            "x-default",
+            "https://experiencetheamazon.com/ecuador/misahualli/"
+          ]
+        ],
+        "robots": "noindex,nofollow,noarchive",
+        "schema_types": [
+          "Answer",
+          "BreadcrumbList",
+          "Country",
+          "FAQPage",
+          "ListItem",
+          "Question",
+          "TouristDestination"
+        ],
+        "internal_links": [
+          "/",
+          "/es/",
+          "/es/contacto/",
+          "/es/ecuador/",
+          "/es/ecuador/cuyabeno/",
+          "/es/ecuador/lodges-en-la-amazonia/",
+          "/es/ecuador/puyo/",
+          "/es/ecuador/tena/",
+          "/es/ecuador/yasuni/",
+          "/es/nuestra-propuesta/",
+          "/es/politica-de-privacidad/",
+          "/es/terminos/"
+        ],
+        "word_count": 1828,
+        "question_heading_count": 3,
+        "cta_link_count": 5,
+        "document_language": "es",
+        "image_count": 5,
+        "missing_alt_count": 0,
+        "unlabelled_control_count": 0,
+        "visible_text_sha256": "af32250a0ca2b847d00b200c2ed5d13a1263b0cbc018ca64a5bc32ca127f35b5"
+      }
+    }
+  },
+  "engine": "ai_os.website.html.extract_page_signals",
+  "passed": true
+}

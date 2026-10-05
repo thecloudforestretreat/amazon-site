@@ -1,0 +1,12 @@
+{
+  "reviewed_at": "2026-10-05",
+  "status": "supervisor_rewritten_editorially_reviewed",
+  "raw_sha256": "e5a4ab4f2cc7f4a77111f8ad8c4c72007a2377a789da0912acbbfee8293d57bd",
+  "reviewed_page_sha256": "c7480dfd4520ae8f7649677b997d4728256812a47320ae0e0a383d0da866bc51",
+  "corrections": [
+    "Normalized object FAQs and alternate paragraph fields without a second inference",
+    "Removed unverified tidal, climate, transport, medical and access assertions",
+    "Rewrote both languages for consistent tone and comparable facts"
+  ],
+  "normalization_does_not_approve_facts": true
+}

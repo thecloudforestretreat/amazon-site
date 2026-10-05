@@ -1483,26 +1483,217 @@
       "title": "Misahuallí Ecuadorian Amazon Guide | Lodges and River Trips",
       "description": "Use Misahuallí as an Ecuadorian Amazon base with practical guidance on river trips, nearby lodges, wildlife expectations and planning.",
       "h1": "Misahuallí: a compact river gateway",
-      "lede": "Choose Misahuallí for a smaller riverfront base near Tena, with access to day trips, community experiences and lodges along the Napo and its tributaries.",
-      "quick": "Misahuallí works well for travelers who want a recognizable river gateway without committing immediately to the longest Amazon transfers. It is convenient and social, but the town itself is not a substitute for time in well-protected forest habitat.",
+      "lede": "A smaller riverfront base near Tena, where the Misahuallí and Napo rivers meet. Combine time in the village with guided outings, or compare lodges beyond it for a different rhythm.",
+      "quick": "Choose Misahuallí for a compact riverfront base and a flexible introduction to Napo. Road access through Tena can be combined with guided outings. Check where your accommodation actually sits and how each activity starts: staying in the village is different from spending your days at a forest lodge.",
       "fit": "River outings and short lodge stays",
       "access": "Road access via Tena",
-      "pace": "Two to four nights",
+      "pace": "Choose around full activity days",
       "why": "The village sits where road travel meets the river corridor, making it a useful staging point for boats, nearby lodges and guided excursions. Its compact scale is appealing for travelers who prefer a quieter base than Tena.",
       "expect": "Expect riverfront activity, local restaurants, excursions and varying levels of development. Free-ranging monkeys around town are often discussed, but visitors should never feed or touch wildlife. The strongest nature experiences usually require a qualified guide and travel beyond the central village.",
       "plan": "Check exactly where a lodge or activity starts, how long the boat or road transfer takes, whether transport is included and how community visits are organized. Avoid choosing solely from a map distance without understanding river conditions.",
       "faqs": [
         [
           "Is Misahuallí different from Tena?",
-          "Yes. Misahuallí is a smaller riverfront gateway near Tena. Travelers often combine the two, but their atmosphere and activity access differ."
+          "Yes. Misahuallí is a smaller riverfront base near Tena, at the meeting of the Misahuallí and Napo rivers. Compare the accommodation and activity meeting points in each place rather than assuming both offer the same stay."
         ],
         [
-          "Can I see wildlife in town?",
-          "Some wildlife may appear, but responsible viewing means keeping distance and never feeding animals. Better habitat and guided excursions provide a more meaningful experience."
+          "Can I see monkeys in the village?",
+          "The photographs show monkeys around Misahuallí, but a photograph does not guarantee a sighting during your visit. Keep your distance, never feed or touch animals, and keep food secured if one approaches."
         ],
         [
-          "Is it suitable for a short Amazon visit?",
-          "Yes, particularly for two to four nights, provided the itinerary includes enough time outside the village."
+          "How many days should I allow?",
+          "Build the visit around full activity days. A brief stay can focus on one outing; extra days allow different experiences and downtime. The duration cards are editorial comparisons, not available packages or promises of sightings."
+        ],
+        [
+          "Does every lodge need a boat transfer?",
+          "No single transfer rule applies to all accommodation marketed around Misahuallí. Ask for the exact property location, final access route, meeting point and transport inclusions before booking. Confirm how you will return as well."
+        ],
+        [
+          "How should I arrange a community visit?",
+          "Choose an experience organized with willing hosts. Ask who leads the visit, what is included, how payment benefits the hosts and what photography they permit. Proximity to a community does not mean an invitation to visit."
+        ],
+        [
+          "What should I check for mobility needs?",
+          "Discuss the specific outing with the provider: steps at the accommodation, uneven paths, boat boarding and the length and conditions of walks. Request clear answers before committing; village road access does not describe every activity."
+        ]
+      ],
+      "sections": [
+        {
+          "heading": "Where two rivers meet",
+          "paragraphs": [
+            "At the meeting of the Misahuallí and Napo rivers, the riverfront gives this small Napo destination its character. Come for the change of pace between the village and an outing beyond it, rather than expecting an isolated forest setting at your hotel door.",
+            "Start with the riverfront, then choose a guided outing that matches the kind of forest experience you want. A lodge advertised with a Misahuallí address may sit outside the village; check its exact location before comparing accommodation. The river is part of everyday life here. Observe activity from a suitable public place without obstructing boats or access."
+          ],
+          "display": {
+            "heading": "Where two rivers meet",
+            "intro": "At the meeting of the Misahuallí and Napo rivers, the riverfront gives this small Napo destination its character. Come for the change of pace between the village and an outing beyond it, rather than expecting an isolated forest setting at your hotel door.",
+            "points": [
+              "Start with the riverfront, then choose a guided outing that matches the kind of forest experience you want.",
+              "A lodge advertised with a Misahuallí address may sit outside the village; check its exact location before comparing accommodation.",
+              "The river is part of everyday life here. Observe activity from a suitable public place without obstructing boats or access."
+            ]
+          }
+        },
+        {
+          "heading": "Is this your kind of trip?",
+          "paragraphs": [
+            "Misahuallí is worth considering if you want a smaller base near Tena and the flexibility to arrange outings around your stay. The key decision is how much time you want in the village and how much you want dedicated to river or forest activities.",
+            "Choose a village stay if access to your accommodation and independent downtime matter as much as organized nature activities. Compare a lodge beyond the village if guided outings and time in a forest setting are your main priorities. Ask about noise, room facilities and meal arrangements individually; a small destination does not guarantee a quiet room or identical services."
+          ],
+          "display": {
+            "heading": "Is this your kind of trip?",
+            "intro": "Misahuallí is worth considering if you want a smaller base near Tena and the flexibility to arrange outings around your stay. The key decision is how much time you want in the village and how much you want dedicated to river or forest activities.",
+            "points": [
+              "Choose a village stay if access to your accommodation and independent downtime matter as much as organized nature activities.",
+              "Compare a lodge beyond the village if guided outings and time in a forest setting are your main priorities.",
+              "Ask about noise, room facilities and meal arrangements individually; a small destination does not guarantee a quiet room or identical services."
+            ]
+          }
+        },
+        {
+          "heading": "From the road to your outing",
+          "paragraphs": [
+            "Plan road access through Tena, then confirm the final leg with your accommodation or activity provider. Some plans include river travel; others use road access. Your booking should make the meeting point and included transport clear before you leave for Misahuallí.",
+            "Request a named meeting point, pickup instructions and a contact for delays rather than relying on an approximate map pin. Ask whether the excursion leaves from the village, your lodge or another landing, and who arranges each transfer. Confirm the return journey as well as the outward trip. Boat travel is an itinerary choice, not a requirement for every stay."
+          ],
+          "display": {
+            "heading": "From the road to your outing",
+            "intro": "Plan road access through Tena, then confirm the final leg with your accommodation or activity provider. Some plans include river travel; others use road access. Your booking should make the meeting point and included transport clear before you leave for Misahuallí.",
+            "points": [
+              "Request a named meeting point, pickup instructions and a contact for delays rather than relying on an approximate map pin.",
+              "Ask whether the excursion leaves from the village, your lodge or another landing, and who arranges each transfer.",
+              "Confirm the return journey as well as the outward trip. Boat travel is an itinerary choice, not a requirement for every stay."
+            ]
+          }
+        },
+        {
+          "heading": "Give the river some time",
+          "paragraphs": [
+            "Choose your length of stay around full activity days, not just nights on a booking form. These examples are planning comparisons rather than packages: arrival times, departure plans and the outings you choose will determine how much exploring fits into a visit.",
+            "A short stay works best with one clear priority and a confirmed transfer plan. An additional day can separate a river outing from a forest walk or a visit arranged with willing hosts. Leave some flexibility for changed conditions, rest and a guide's advice about what is practical on the day."
+          ],
+          "display": {
+            "heading": "Give the river some time",
+            "intro": "Choose your length of stay around full activity days, not just nights on a booking form. These examples are planning comparisons rather than packages: arrival times, departure plans and the outings you choose will determine how much exploring fits into a visit.",
+            "points": [
+              "A short stay works best with one clear priority and a confirmed transfer plan.",
+              "An additional day can separate a river outing from a forest walk or a visit arranged with willing hosts.",
+              "Leave some flexibility for changed conditions, rest and a guide's advice about what is practical on the day."
+            ]
+          }
+        },
+        {
+          "heading": "Look closely, keep your distance",
+          "paragraphs": [
+            "A guided river outing or forest walk offers a different perspective from a village stay. Tell your guide whether you are most interested in birds, plants, photography or simply understanding the landscape. The monkeys photographed around Misahuallí are wildlife, not an invitation to interact.",
+            "Never feed, touch or lure monkeys. If an animal approaches, give it space and keep food and belongings secured. Ask which habitats the outing visits and how much time is spent observing, walking or traveling between stops. Enjoy the setting even when animals remain out of sight. A longer visit or a guide cannot promise a particular encounter."
+          ],
+          "display": {
+            "heading": "Look closely, keep your distance",
+            "intro": "A guided river outing or forest walk offers a different perspective from a village stay. Tell your guide whether you are most interested in birds, plants, photography or simply understanding the landscape. The monkeys photographed around Misahuallí are wildlife, not an invitation to interact.",
+            "points": [
+              "Never feed, touch or lure monkeys. If an animal approaches, give it space and keep food and belongings secured.",
+              "Ask which habitats the outing visits and how much time is spent observing, walking or traveling between stops.",
+              "Enjoy the setting even when animals remain out of sight. A longer visit or a guide cannot promise a particular encounter."
+            ]
+          }
+        },
+        {
+          "heading": "Let conditions shape the day",
+          "paragraphs": [
+            "River levels, rain and trail conditions can affect an outing. Treat a seasonal description as background, then ask your provider what is happening on your specific route. There is no single weather label that tells you whether every activity around Misahuallí will work.",
+            "Ask what changes if river or trail conditions make the planned outing unsuitable, including alternatives and cancellation terms. Carry rain protection and a way to keep essentials dry even when the day begins with clear skies. Do not infer swimming suitability from a photograph or other visitors entering the water; discuss current conditions with a qualified operator."
+          ],
+          "display": {
+            "heading": "Let conditions shape the day",
+            "intro": "River levels, rain and trail conditions can affect an outing. Treat a seasonal description as background, then ask your provider what is happening on your specific route. There is no single weather label that tells you whether every activity around Misahuallí will work.",
+            "points": [
+              "Ask what changes if river or trail conditions make the planned outing unsuitable, including alternatives and cancellation terms.",
+              "Carry rain protection and a way to keep essentials dry even when the day begins with clear skies.",
+              "Do not infer swimming suitability from a photograph or other visitors entering the water; discuss current conditions with a qualified operator."
+            ]
+          }
+        },
+        {
+          "heading": "Choose the base, then the guide",
+          "paragraphs": [
+            "Separate the accommodation decision from the excursion decision. A convenient village room and a guided day outing can suit one traveler; another may prefer a lodge with activities included. Compare the actual location, service and guiding arrangements rather than treating every lodge as equivalent.",
+            "Ask who leads the outings, which languages they speak and whether the guide is shared with other groups. Request a clear list of included meals, transport, activities and equipment, plus the extra costs you would arrange separately. Check electricity, drinking-water arrangements, bathrooms and communication access with the property itself instead of assuming facilities from a photograph."
+          ],
+          "display": {
+            "heading": "Choose the base, then the guide",
+            "intro": "Separate the accommodation decision from the excursion decision. A convenient village room and a guided day outing can suit one traveler; another may prefer a lodge with activities included. Compare the actual location, service and guiding arrangements rather than treating every lodge as equivalent.",
+            "points": [
+              "Ask who leads the outings, which languages they speak and whether the guide is shared with other groups.",
+              "Request a clear list of included meals, transport, activities and equipment, plus the extra costs you would arrange separately.",
+              "Check electricity, drinking-water arrangements, bathrooms and communication access with the property itself instead of assuming facilities from a photograph."
+            ]
+          }
+        },
+        {
+          "heading": "Pack for both village and trail",
+          "paragraphs": [
+            "Keep your luggage practical for the itinerary you booked. Lightweight clothing, rain protection and footwear with suitable grip can cover a mix of village time and guided outings. If you have mobility requirements, discuss the actual access route before selecting accommodation or activities.",
+            "Ask about boat boarding, steps, uneven paths and the walking demands of your chosen outing; the destination name alone cannot answer these. Protect cameras, documents and spare clothing from splashes with a suitable dry bag or waterproof cover. Find out whether the operator provides boots or other equipment, and confirm sizes before deciding what to bring yourself."
+          ],
+          "display": {
+            "heading": "Pack for both village and trail",
+            "intro": "Keep your luggage practical for the itinerary you booked. Lightweight clothing, rain protection and footwear with suitable grip can cover a mix of village time and guided outings. If you have mobility requirements, discuss the actual access route before selecting accommodation or activities.",
+            "points": [
+              "Ask about boat boarding, steps, uneven paths and the walking demands of your chosen outing; the destination name alone cannot answer these.",
+              "Protect cameras, documents and spare clothing from splashes with a suitable dry bag or waterproof cover.",
+              "Find out whether the operator provides boots or other equipment, and confirm sizes before deciding what to bring yourself."
+            ]
+          }
+        },
+        {
+          "heading": "Meet people on their terms",
+          "paragraphs": [
+            "A community-hosted visit should begin with willing hosts and a clear invitation. Choose experiences that explain who organizes the visit and what is offered, rather than assuming a nearby community is open to tourists. The same respect applies to homes and working spaces along the river.",
+            "Ask who hosts the experience, how payment benefits them and what group size and activities they have agreed to receive. Request permission before photographing people, homes or ceremonies, and accept a refusal without trying to negotiate around it. Follow the host's guidance about where to go and what to share publicly. Buy directly only when a purchase is welcome."
+          ],
+          "display": {
+            "heading": "Meet people on their terms",
+            "intro": "A community-hosted visit should begin with willing hosts and a clear invitation. Choose experiences that explain who organizes the visit and what is offered, rather than assuming a nearby community is open to tourists. The same respect applies to homes and working spaces along the river.",
+            "points": [
+              "Ask who hosts the experience, how payment benefits them and what group size and activities they have agreed to receive.",
+              "Request permission before photographing people, homes or ceremonies, and accept a refusal without trying to negotiate around it.",
+              "Follow the host's guidance about where to go and what to share publicly. Buy directly only when a purchase is welcome."
+            ]
+          }
+        },
+        {
+          "heading": "Compare the experience you want",
+          "paragraphs": [
+            "Misahuallí and Tena are neighboring bases with different scales; Puyo opens another overland route through the central Amazon. Cuyabeno and the Yasuní/Napo lodge corridor are separate itinerary choices. Compare how each plan uses your time before adding another destination just to cover more ground.",
+            "Choose between Tena and Misahuallí according to your preferred base, accommodation and outing pickup point rather than a promise of better sightings. Consider Puyo when the broader route through Baños and Pastaza fits your plans; it is not a substitute name for Misahuallí. Compare Cuyabeno or Yasuní for a lodge-focused itinerary, checking transfer commitments and exact property location before combining trips."
+          ],
+          "display": {
+            "heading": "Compare the experience you want",
+            "intro": "Misahuallí and Tena are neighboring bases with different scales; Puyo opens another overland route through the central Amazon. Cuyabeno and the Yasuní/Napo lodge corridor are separate itinerary choices. Compare how each plan uses your time before adding another destination just to cover more ground.",
+            "points": [
+              "Choose between Tena and Misahuallí according to your preferred base, accommodation and outing pickup point rather than a promise of better sightings.",
+              "Consider Puyo when the broader route through Baños and Pastaza fits your plans; it is not a substitute name for Misahuallí.",
+              "Compare Cuyabeno or Yasuní for a lodge-focused itinerary, checking transfer commitments and exact property location before combining trips."
+            ]
+          }
+        }
+      ],
+      "tripOptions": [
+        [
+          "2 days",
+          "One clear priority",
+          "A brief visit can focus on a single outing if arrival and departure leave enough activity time. Confirm the full transport plan first."
+        ],
+        [
+          "3–4 days",
+          "Space for different experiences",
+          "Separate a guided outing from a second activity and leave room for downtime. Choose experiences before adding extra nights to the booking."
+        ],
+        [
+          "5 days",
+          "A flexible base or combined stay",
+          "Consider extra days when they add activities you value or a second base. Check transfer time so changing accommodation does not crowd out exploration."
         ]
       ]
     },
@@ -1511,29 +1702,266 @@
       "title": "Guía de Misahuallí | Lodges y Rutas Fluviales",
       "description": "Usa Misahuallí como base amazónica con orientación sobre paseos fluviales, lodges cercanos, fauna y planificación.",
       "h1": "Misahuallí: una puerta fluvial compacta",
-      "lede": "Elige Misahuallí como base pequeña junto al río, cerca de Tena, con acceso a excursiones, comunidades y lodges del Napo y sus tributarios.",
-      "quick": "Misahuallí funciona para viajeros que buscan una puerta fluvial reconocible sin asumir los traslados más largos. Es práctico y social, pero el pueblo no sustituye el tiempo en hábitats bien conservados.",
+      "lede": "Una base pequeña cerca de Tena, donde se encuentran los ríos Misahuallí y Napo. Combina tiempo en el pueblo con salidas guiadas o compara lodges en sus alrededores para otro ritmo de viaje.",
+      "quick": "Elige Misahuallí como base ribereña pequeña y flexible para conocer Napo. Puedes combinar el acceso por carretera vía Tena con salidas guiadas. Confirma dónde está el alojamiento y desde dónde parte cada actividad: quedarse en el pueblo es distinto de pasar los días en un lodge de bosque.",
       "fit": "Salidas fluviales y estadías cortas",
       "access": "Acceso por carretera vía Tena",
-      "pace": "Dos a cuatro noches",
+      "pace": "Elige según días completos de actividades",
       "why": "El pueblo conecta la carretera con el corredor fluvial, por lo que sirve para embarcaciones, lodges cercanos y excursiones guiadas. Su escala compacta atrae a quienes prefieren una base más tranquila que Tena.",
       "expect": "Espera movimiento junto al río, restaurantes y excursiones con distintos niveles de desarrollo. Se habla mucho de monos en el pueblo, pero nunca deben alimentarse ni tocarse. Las mejores experiencias naturales requieren guía y salir del centro.",
       "plan": "Confirma dónde inicia cada actividad, cuánto dura el traslado, si el transporte está incluido y cómo se organizan las visitas comunitarias. No elijas solo por distancia en el mapa sin entender el río.",
       "faqs": [
         [
           "¿Misahuallí es diferente de Tena?",
-          "Sí. Es una puerta fluvial más pequeña cerca de Tena. Se pueden combinar, pero tienen ambientes y accesos distintos."
+          "Sí. Misahuallí es una base ribereña más pequeña cerca de Tena, donde se encuentran los ríos Misahuallí y Napo. Compara alojamiento y puntos de salida de actividades en cada lugar; no suponen la misma estadía."
         ],
         [
-          "¿Puedo ver fauna en el pueblo?",
-          "Puede aparecer fauna, pero se debe mantener distancia y nunca alimentar animales. Los mejores hábitats requieren excursiones guiadas."
+          "¿Puedo ver monos en el pueblo?",
+          "Las fotografías muestran monos en Misahuallí, pero no garantizan verlos durante tu visita. Mantén distancia, nunca los alimentes ni los toques y guarda la comida si alguno se acerca."
         ],
         [
-          "¿Sirve para una visita corta?",
-          "Sí, especialmente entre dos y cuatro noches, si el itinerario incluye suficiente tiempo fuera del pueblo."
+          "¿Cuántos días conviene reservar?",
+          "Organiza la visita según los días completos para actividades. Una estadía breve puede centrarse en una salida; más días permiten experiencias distintas y descanso. Las tarjetas orientan la planificación, no anuncian paquetes ni garantizan avistamientos."
+        ],
+        [
+          "¿Todos los lodges requieren traslado en bote?",
+          "No existe una sola regla para los alojamientos anunciados en Misahuallí. Pide ubicación exacta, acceso final, punto de encuentro y transporte incluido antes de reservar. Confirma también cómo organizarás el regreso."
+        ],
+        [
+          "¿Cómo organizo una visita comunitaria?",
+          "Elige una experiencia acordada con anfitriones que quieran recibirte. Pregunta quién dirige la visita, qué incluye, cómo les beneficia el pago y qué fotografías permiten. Estar cerca de una comunidad no equivale a una invitación."
+        ],
+        [
+          "¿Qué reviso si tengo necesidades de movilidad?",
+          "Consulta al proveedor sobre la salida concreta: escalones del alojamiento, caminos irregulares, embarques y duración y condiciones de las caminatas. Pide respuestas claras antes de reservar; el acceso vial al pueblo no describe todas las actividades."
+        ]
+      ],
+      "sections": [
+        {
+          "heading": "Donde se encuentran dos ríos",
+          "paragraphs": [
+            "La confluencia de los ríos Misahuallí y Napo da carácter a este pequeño destino de Napo. Disfruta el contraste entre la vida del pueblo y una salida por sus alrededores, sin esperar que tu alojamiento junto al río sea necesariamente un refugio aislado en la selva.",
+            "Empieza por conocer la ribera y después elige una salida guiada que responda al tipo de experiencia de bosque que buscas. Un lodge anunciado con dirección en Misahuallí puede estar fuera del pueblo; confirma su ubicación antes de comparar alojamientos. El río forma parte de la vida cotidiana. Observa desde un lugar público apropiado sin bloquear embarcaciones ni accesos."
+          ],
+          "display": {
+            "heading": "Donde se encuentran dos ríos",
+            "intro": "La confluencia de los ríos Misahuallí y Napo da carácter a este pequeño destino de Napo. Disfruta el contraste entre la vida del pueblo y una salida por sus alrededores, sin esperar que tu alojamiento junto al río sea necesariamente un refugio aislado en la selva.",
+            "points": [
+              "Empieza por conocer la ribera y después elige una salida guiada que responda al tipo de experiencia de bosque que buscas.",
+              "Un lodge anunciado con dirección en Misahuallí puede estar fuera del pueblo; confirma su ubicación antes de comparar alojamientos.",
+              "El río forma parte de la vida cotidiana. Observa desde un lugar público apropiado sin bloquear embarcaciones ni accesos."
+            ]
+          }
+        },
+        {
+          "heading": "¿Es el viaje que buscas?",
+          "paragraphs": [
+            "Considera Misahuallí si prefieres una base pequeña cerca de Tena y flexibilidad para organizar salidas durante tu estadía. La decisión principal es cuánto tiempo quieres pasar en el pueblo y cuánto dedicar a actividades por el río o en el bosque.",
+            "Elige alojamiento en el pueblo si valoras llegar con facilidad y disponer de tiempo independiente, además de las salidas organizadas. Compara lodges fuera del pueblo si tu prioridad es combinar actividades guiadas con más tiempo en un entorno de bosque. Pregunta por ruido, instalaciones y comidas en cada alojamiento; un destino pequeño no garantiza una habitación silenciosa ni servicios idénticos."
+          ],
+          "display": {
+            "heading": "¿Es el viaje que buscas?",
+            "intro": "Considera Misahuallí si prefieres una base pequeña cerca de Tena y flexibilidad para organizar salidas durante tu estadía. La decisión principal es cuánto tiempo quieres pasar en el pueblo y cuánto dedicar a actividades por el río o en el bosque.",
+            "points": [
+              "Elige alojamiento en el pueblo si valoras llegar con facilidad y disponer de tiempo independiente, además de las salidas organizadas.",
+              "Compara lodges fuera del pueblo si tu prioridad es combinar actividades guiadas con más tiempo en un entorno de bosque.",
+              "Pregunta por ruido, instalaciones y comidas en cada alojamiento; un destino pequeño no garantiza una habitación silenciosa ni servicios idénticos."
+            ]
+          }
+        },
+        {
+          "heading": "De la carretera a tu salida",
+          "paragraphs": [
+            "Planifica el acceso por carretera vía Tena y confirma el último tramo con tu alojamiento u operador. Algunos itinerarios incluyen navegación; otros llegan por carretera. La reserva debe dejar claros el punto de encuentro y el transporte incluido antes de salir hacia Misahuallí.",
+            "Pide un punto de encuentro concreto, instrucciones de recogida y un contacto para retrasos, en lugar de depender de una ubicación aproximada. Confirma si la excursión sale del pueblo, del lodge o de otro embarcadero, y quién organiza cada traslado. Revisa también el regreso. Viajar en bote es una opción del itinerario, no un requisito para todas las estadías."
+          ],
+          "display": {
+            "heading": "De la carretera a tu salida",
+            "intro": "Planifica el acceso por carretera vía Tena y confirma el último tramo con tu alojamiento u operador. Algunos itinerarios incluyen navegación; otros llegan por carretera. La reserva debe dejar claros el punto de encuentro y el transporte incluido antes de salir hacia Misahuallí.",
+            "points": [
+              "Pide un punto de encuentro concreto, instrucciones de recogida y un contacto para retrasos, en lugar de depender de una ubicación aproximada.",
+              "Confirma si la excursión sale del pueblo, del lodge o de otro embarcadero, y quién organiza cada traslado.",
+              "Revisa también el regreso. Viajar en bote es una opción del itinerario, no un requisito para todas las estadías."
+            ]
+          }
+        },
+        {
+          "heading": "Dale tiempo al río",
+          "paragraphs": [
+            "Elige la duración según los días completos disponibles para actividades, no solo las noches de una reserva. Estos ejemplos orientan la planificación y no son paquetes: la llegada, la salida y las excursiones elegidas determinan cuánto puedes explorar durante la visita.",
+            "Una estadía breve funciona mejor con una prioridad clara y un plan de traslados confirmado. Un día adicional permite separar una salida fluvial de una caminata o una visita acordada con anfitriones que quieran recibirte. Deja margen para cambios de condiciones, descanso y las recomendaciones del guía sobre lo que resulta práctico ese día."
+          ],
+          "display": {
+            "heading": "Dale tiempo al río",
+            "intro": "Elige la duración según los días completos disponibles para actividades, no solo las noches de una reserva. Estos ejemplos orientan la planificación y no son paquetes: la llegada, la salida y las excursiones elegidas determinan cuánto puedes explorar durante la visita.",
+            "points": [
+              "Una estadía breve funciona mejor con una prioridad clara y un plan de traslados confirmado.",
+              "Un día adicional permite separar una salida fluvial de una caminata o una visita acordada con anfitriones que quieran recibirte.",
+              "Deja margen para cambios de condiciones, descanso y las recomendaciones del guía sobre lo que resulta práctico ese día."
+            ]
+          }
+        },
+        {
+          "heading": "Observa sin acercarte de más",
+          "paragraphs": [
+            "Una salida fluvial o caminata guiada ofrece una perspectiva distinta de alojarse en el pueblo. Cuenta al guía si te interesan las aves, las plantas, la fotografía o entender el paisaje. Los monos fotografiados en Misahuallí son fauna silvestre, no una invitación a interactuar.",
+            "Nunca alimentes, toques ni atraigas a los monos. Si alguno se acerca, dale espacio y mantén comida y pertenencias guardadas. Pregunta qué hábitats recorre la salida y cuánto tiempo dedica a observar, caminar o trasladarse entre paradas. Disfruta el entorno aunque los animales no aparezcan. Ni un guía ni una visita más larga garantizan un encuentro específico."
+          ],
+          "display": {
+            "heading": "Observa sin acercarte de más",
+            "intro": "Una salida fluvial o caminata guiada ofrece una perspectiva distinta de alojarse en el pueblo. Cuenta al guía si te interesan las aves, las plantas, la fotografía o entender el paisaje. Los monos fotografiados en Misahuallí son fauna silvestre, no una invitación a interactuar.",
+            "points": [
+              "Nunca alimentes, toques ni atraigas a los monos. Si alguno se acerca, dale espacio y mantén comida y pertenencias guardadas.",
+              "Pregunta qué hábitats recorre la salida y cuánto tiempo dedica a observar, caminar o trasladarse entre paradas.",
+              "Disfruta el entorno aunque los animales no aparezcan. Ni un guía ni una visita más larga garantizan un encuentro específico."
+            ]
+          }
+        },
+        {
+          "heading": "Adapta el día a las condiciones",
+          "paragraphs": [
+            "El nivel del río, la lluvia y el estado de los senderos pueden afectar una salida. Usa las descripciones de temporada como contexto y consulta las condiciones de tu ruta concreta. Una etiqueta sobre el clima no determina si todas las actividades de Misahuallí serán posibles.",
+            "Pregunta qué ocurre si el río o los senderos no permiten realizar la salida prevista, incluidas alternativas y condiciones de cancelación. Lleva protección para la lluvia y una forma de mantener secos tus objetos esenciales, incluso si el día empieza despejado. No deduzcas que se puede nadar por una fotografía o porque otras personas entren al agua; consulta las condiciones con un operador calificado."
+          ],
+          "display": {
+            "heading": "Adapta el día a las condiciones",
+            "intro": "El nivel del río, la lluvia y el estado de los senderos pueden afectar una salida. Usa las descripciones de temporada como contexto y consulta las condiciones de tu ruta concreta. Una etiqueta sobre el clima no determina si todas las actividades de Misahuallí serán posibles.",
+            "points": [
+              "Pregunta qué ocurre si el río o los senderos no permiten realizar la salida prevista, incluidas alternativas y condiciones de cancelación.",
+              "Lleva protección para la lluvia y una forma de mantener secos tus objetos esenciales, incluso si el día empieza despejado.",
+              "No deduzcas que se puede nadar por una fotografía o porque otras personas entren al agua; consulta las condiciones con un operador calificado."
+            ]
+          }
+        },
+        {
+          "heading": "Elige tu base y tu guía",
+          "paragraphs": [
+            "Separa la elección de alojamiento de la elección de excursiones. A algunas personas les conviene una habitación en el pueblo y salidas guiadas; otras prefieren un lodge con actividades incluidas. Compara ubicación, servicios y organización real de las visitas antes de decidir.",
+            "Pregunta quién guía las salidas, qué idiomas habla y si compartirás el guía con otros grupos. Solicita una lista clara de comidas, transporte, actividades y equipo incluidos, además de los gastos que debas organizar por separado. Confirma electricidad, agua para beber, baños y comunicación directamente con el alojamiento, sin deducir las instalaciones de una fotografía."
+          ],
+          "display": {
+            "heading": "Elige tu base y tu guía",
+            "intro": "Separa la elección de alojamiento de la elección de excursiones. A algunas personas les conviene una habitación en el pueblo y salidas guiadas; otras prefieren un lodge con actividades incluidas. Compara ubicación, servicios y organización real de las visitas antes de decidir.",
+            "points": [
+              "Pregunta quién guía las salidas, qué idiomas habla y si compartirás el guía con otros grupos.",
+              "Solicita una lista clara de comidas, transporte, actividades y equipo incluidos, además de los gastos que debas organizar por separado.",
+              "Confirma electricidad, agua para beber, baños y comunicación directamente con el alojamiento, sin deducir las instalaciones de una fotografía."
+            ]
+          }
+        },
+        {
+          "heading": "Prepara pueblo y sendero",
+          "paragraphs": [
+            "Adapta el equipaje al itinerario reservado. Ropa ligera, protección para la lluvia y calzado con buen agarre sirven para combinar tiempo en el pueblo con salidas guiadas. Si tienes necesidades de movilidad, consulta el acceso real antes de elegir alojamiento o actividades.",
+            "Pregunta por embarques, escalones, caminos irregulares y exigencias de las caminatas; el nombre del destino no resuelve esas dudas. Protege cámara, documentos y ropa de repuesto contra salpicaduras con una bolsa o cubierta impermeable adecuada. Averigua si el operador proporciona botas u otro equipo y confirma las tallas antes de decidir qué llevar por tu cuenta."
+          ],
+          "display": {
+            "heading": "Prepara pueblo y sendero",
+            "intro": "Adapta el equipaje al itinerario reservado. Ropa ligera, protección para la lluvia y calzado con buen agarre sirven para combinar tiempo en el pueblo con salidas guiadas. Si tienes necesidades de movilidad, consulta el acceso real antes de elegir alojamiento o actividades.",
+            "points": [
+              "Pregunta por embarques, escalones, caminos irregulares y exigencias de las caminatas; el nombre del destino no resuelve esas dudas.",
+              "Protege cámara, documentos y ropa de repuesto contra salpicaduras con una bolsa o cubierta impermeable adecuada.",
+              "Averigua si el operador proporciona botas u otro equipo y confirma las tallas antes de decidir qué llevar por tu cuenta."
+            ]
+          }
+        },
+        {
+          "heading": "Encuentros con una invitación",
+          "paragraphs": [
+            "Una visita comunitaria debe partir de una invitación y de anfitriones que quieran recibir visitantes. Elige experiencias que expliquen quién organiza la visita y qué ofrece, sin suponer que cualquier comunidad cercana está abierta al turismo. Respeta también viviendas y espacios de trabajo ribereños.",
+            "Pregunta quién recibe la visita, cómo le beneficia el pago y qué tamaño de grupo y actividades ha acordado recibir. Pide permiso antes de fotografiar personas, viviendas o ceremonias y acepta una negativa sin buscar una forma de evitarla. Sigue las indicaciones sobre dónde ir y qué compartir públicamente. Compra directamente solo cuando la venta sea bienvenida."
+          ],
+          "display": {
+            "heading": "Encuentros con una invitación",
+            "intro": "Una visita comunitaria debe partir de una invitación y de anfitriones que quieran recibir visitantes. Elige experiencias que expliquen quién organiza la visita y qué ofrece, sin suponer que cualquier comunidad cercana está abierta al turismo. Respeta también viviendas y espacios de trabajo ribereños.",
+            "points": [
+              "Pregunta quién recibe la visita, cómo le beneficia el pago y qué tamaño de grupo y actividades ha acordado recibir.",
+              "Pide permiso antes de fotografiar personas, viviendas o ceremonias y acepta una negativa sin buscar una forma de evitarla.",
+              "Sigue las indicaciones sobre dónde ir y qué compartir públicamente. Compra directamente solo cuando la venta sea bienvenida."
+            ]
+          }
+        },
+        {
+          "heading": "Compara el viaje que quieres",
+          "paragraphs": [
+            "Misahuallí y Tena son bases vecinas de distinta escala; Puyo abre otra ruta terrestre por la Amazonía central. Cuyabeno y el corredor de lodges Yasuní/Napo son opciones de itinerario diferentes. Compara cómo cada plan utiliza tu tiempo antes de sumar destinos por cubrir más lugares.",
+            "Decide entre Tena y Misahuallí según la base, el alojamiento y el punto de salida que prefieras, sin promesas de mejores avistamientos. Considera Puyo si tu recorrido por Baños y Pastaza encaja en el viaje; no es otro nombre para Misahuallí. Compara Cuyabeno o Yasuní para un itinerario centrado en lodges, revisando traslados y ubicación exacta antes de combinar visitas."
+          ],
+          "display": {
+            "heading": "Compara el viaje que quieres",
+            "intro": "Misahuallí y Tena son bases vecinas de distinta escala; Puyo abre otra ruta terrestre por la Amazonía central. Cuyabeno y el corredor de lodges Yasuní/Napo son opciones de itinerario diferentes. Compara cómo cada plan utiliza tu tiempo antes de sumar destinos por cubrir más lugares.",
+            "points": [
+              "Decide entre Tena y Misahuallí según la base, el alojamiento y el punto de salida que prefieras, sin promesas de mejores avistamientos.",
+              "Considera Puyo si tu recorrido por Baños y Pastaza encaja en el viaje; no es otro nombre para Misahuallí.",
+              "Compara Cuyabeno o Yasuní para un itinerario centrado en lodges, revisando traslados y ubicación exacta antes de combinar visitas."
+            ]
+          }
+        }
+      ],
+      "tripOptions": [
+        [
+          "2 días",
+          "Una prioridad clara",
+          "Una visita breve puede centrarse en una salida si llegada y partida dejan tiempo suficiente. Confirma primero el plan completo de transporte."
+        ],
+        [
+          "3–4 días",
+          "Espacio para experiencias distintas",
+          "Separa una salida guiada de otra actividad y deja tiempo para descanso. Elige las experiencias antes de añadir noches a la reserva."
+        ],
+        [
+          "5 días",
+          "Una base flexible o estadía combinada",
+          "Considera días extra cuando añadan actividades que valoras u otra base. Revisa los traslados para que cambiar de alojamiento no reste tiempo de exploración."
         ]
       ]
-    }
+    },
+    "reviewedAt": "2026-10-05",
+    "sources": [
+      {
+        "title": "IGM: Maravillas del Ecuador — Puerto Misahuallí",
+        "url": "https://www.geoportaligm.gob.ec/portal/wp-content/uploads/filebase/maravillas-del-ecuador-2016.pdf"
+      },
+      {
+        "title": "Puerto Misahuallí parish development plan",
+        "url": "https://sil.napo.gob.ec/wp-content/uploads/2022/09/PDOT-Puerto-Misahualli.pdf"
+      }
+    ],
+    "sectionImages": [
+      {
+        "section": 0,
+        "src": "/assets/images/ecuador/misahualli-boat.jpg",
+        "width": 1400,
+        "height": 1005,
+        "altEn": "A riverside building photographed during a Napo River boat trip near Misahuallí",
+        "altEs": "Edificio ribereño fotografiado durante un paseo en bote por el Napo cerca de Misahuallí",
+        "source": "https://commons.wikimedia.org/wiki/File:Misahuall%C3%AD_Ecuador_1435.jpg",
+        "credit": "Arabsalam",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "section": 4,
+        "src": "/assets/images/ecuador/misahualli-monkey.jpg",
+        "width": 1400,
+        "height": 933,
+        "altEn": "Monkeys on a railing and wall in Misahuallí, with visitors standing behind",
+        "altEs": "Monos sobre una baranda y un muro en Misahuallí, con visitantes detrás",
+        "source": "https://commons.wikimedia.org/wiki/File:MISAHUALLI_%2819783859780%29.jpg",
+        "credit": "Agencia de Noticias ANDES",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+      }
+    ],
+    "image": "/assets/images/ecuador/misahualli-confluence.jpg",
+    "imageWidth": 1400,
+    "imageHeight": 787,
+    "imageCredit": "Arabsalam",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Misahuall%C3%AD_Ecuador_1054.jpg",
+    "imageLicense": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "imageLicenseLabel": "CC BY-SA 4.0",
+    "imageAltEn": "The Misahuallí and Napo river confluence, with people on the riverbank",
+    "imageAltEs": "Confluencia de los ríos Misahuallí y Napo, con personas en la ribera"
   },
   {
     "pairId": "pair_008",
@@ -1543,26 +1971,217 @@
       "title": "Puyo Ecuadorian Amazon Guide | Culture and Rainforest",
       "description": "Plan travel through Puyo with guidance on central Amazon access, community tourism, rainforest activities and itinerary fit.",
       "h1": "Puyo and Ecuador's central Amazon",
-      "lede": "Choose Puyo for overland access to the central Amazon, cultural and community experiences, and connections toward rainforest areas beyond the standard lodge circuits.",
-      "quick": "Puyo is best understood as a regional gateway rather than a single rainforest attraction. It suits overland travelers, culturally focused itineraries and trips that connect the Andes with central Amazon communities and forest experiences.",
-      "fit": "Culture, overland routes and community tourism",
+      "lede": "Where the road from the Andes meets a new rhythm. Use Puyo as a central Amazon base for botanical outings, forest experiences and visits arranged with willing local hosts.",
+      "quick": "Puyo is a city and regional gateway, not a single rainforest attraction. It fits an overland route through Baños and Pastaza, with city stays or accommodation beyond it. Choose the experience first, then verify the exact location, access and hosts before settling on your base.",
+      "fit": "Botanical outings and overland journeys",
       "access": "Road connections from Baños and the Andes",
-      "pace": "Two to four nights, depending on route",
+      "pace": "Allow full days beyond the drive",
       "why": "Puyo's location makes it a practical transition between the Andes and the central Amazon. It can support museum, botanical, community and forest experiences while also serving as a departure point for more remote travel.",
       "expect": "Expect a working regional city and a wide variation in excursion quality. Some experiences are close to town; others require substantial road, river or air logistics. Community tourism should be evaluated for genuine local participation, clear expectations and respectful photography.",
       "plan": "Start with the experience you want, then select the base and transport. Confirm who hosts each visit, how fees benefit the community, travel time, language support, accessibility and the operator's safety and cancellation terms.",
       "faqs": [
         [
-          "Is Puyo inside deep rainforest?",
-          "Puyo is an Amazon-region city and gateway. The level of forest immersion depends on the exact reserve, community or lodge visited from it."
+          "Is Puyo an isolated rainforest destination?",
+          "Puyo is a city and gateway in Pastaza. The setting of a visit depends on the exact garden, community, forest site or lodge you choose. A Puyo address alone does not describe the amount of forest immersion."
         ],
         [
-          "Can Puyo be combined with Baños?",
-          "Yes. The road connection makes this a common overland combination, but allow enough time for meaningful Amazon activities rather than treating Puyo as a quick photo stop."
+          "Can I combine Puyo with Baños?",
+          "The road connection makes an overland combination possible. Plan around your arrival, onward journey and chosen activities rather than a borrowed journey time. If the Amazon is a priority, leave full activity time after reaching Puyo."
+        ],
+        [
+          "What is the difference between a city stay and a lodge?",
+          "A city stay can be a base for separately arranged outings; a lodge beyond the city may organize activities from its property. Compare precise location, transport, facilities and guiding before deciding which arrangement supports your plans."
         ],
         [
           "What should I check for community tourism?",
-          "Ask who owns and leads the experience, how revenue is shared, what photography is appropriate and whether the visit reflects community priorities."
+          "Ask who owns and leads the experience, whether hosts have agreed to receive visitors, how payments benefit them and what photography is appropriate. Do not assume a booking includes private spaces, ceremonies or unrestricted access."
+        ],
+        [
+          "How do I arrange a botanical visit?",
+          "Contact the provider to confirm current visits, guiding languages, the route and walking demands. The Omaere photograph documents a particular setting; it does not verify current opening hours or the availability of a guided visit."
+        ],
+        [
+          "How long should I stay?",
+          "Choose around full days for the experiences you value. A short visit can focus on one outing; extra days allow different activities and downtime. The duration cards are planning examples, not package availability or a fixed recommendation."
+        ]
+      ],
+      "sections": [
+        {
+          "heading": "A city at the forest's edge",
+          "paragraphs": [
+            "Puyo is a city in Pastaza and a gateway to Ecuador's central Amazon. The municipal tourism guide covers experiences across the wider canton, so a destination labeled Puyo may be outside the city itself. Build the visit around the places you actually want to explore.",
+            "Distinguish a city stay from a forest lodge: the name Puyo describes a base or region, not a uniform rainforest experience. Read the map alongside the itinerary. Ask where each attraction sits and how you get there from your chosen accommodation. The river photograph and city panorama show different aspects of the destination; neither alone represents every outing available in the wider area."
+          ],
+          "display": {
+            "heading": "A city at the forest's edge",
+            "intro": "Puyo is a city in Pastaza and a gateway to Ecuador's central Amazon. The municipal tourism guide covers experiences across the wider canton, so a destination labeled Puyo may be outside the city itself. Build the visit around the places you actually want to explore.",
+            "points": [
+              "Distinguish a city stay from a forest lodge: the name Puyo describes a base or region, not a uniform rainforest experience.",
+              "Read the map alongside the itinerary. Ask where each attraction sits and how you get there from your chosen accommodation.",
+              "The river photograph and city panorama show different aspects of the destination; neither alone represents every outing available in the wider area."
+            ]
+          }
+        },
+        {
+          "heading": "For travelers who enjoy variety",
+          "paragraphs": [
+            "Consider Puyo if you want an overland Amazon stop with a mix of city time, botanical learning and experiences arranged with local hosts. It can fit a route through Baños, but deserves its own activity time if the Amazon is a priority rather than a passing stop.",
+            "Choose a city base if you want to arrange separate outings and keep some time independent of an organized lodge program. Compare accommodation beyond the city when time in a forest setting matters more than returning to urban services between activities. Tell your provider whether plants, culture, walking or photography interests you most; a generic jungle tour label gives little detail about the day."
+          ],
+          "display": {
+            "heading": "For travelers who enjoy variety",
+            "intro": "Consider Puyo if you want an overland Amazon stop with a mix of city time, botanical learning and experiences arranged with local hosts. It can fit a route through Baños, but deserves its own activity time if the Amazon is a priority rather than a passing stop.",
+            "points": [
+              "Choose a city base if you want to arrange separate outings and keep some time independent of an organized lodge program.",
+              "Compare accommodation beyond the city when time in a forest setting matters more than returning to urban services between activities.",
+              "Tell your provider whether plants, culture, walking or photography interests you most; a generic jungle tour label gives little detail about the day."
+            ]
+          }
+        },
+        {
+          "heading": "Connect the route, check the last leg",
+          "paragraphs": [
+            "The road connection toward Baños makes Puyo an option for an overland itinerary between the Andes and Amazon. The final approach to an attraction or lodge is a separate planning question. Confirm the actual address, meeting point and transport arrangements for each part of your visit.",
+            "Ask which transfers are included, where you meet the driver or guide, and who to contact if the journey changes. Do not borrow a travel time from another itinerary: your start point, stops and conditions determine how a day on the road unfolds. Check the return plan from outings outside the city, especially if accommodation and activities are booked with different providers."
+          ],
+          "display": {
+            "heading": "Connect the route, check the last leg",
+            "intro": "The road connection toward Baños makes Puyo an option for an overland itinerary between the Andes and Amazon. The final approach to an attraction or lodge is a separate planning question. Confirm the actual address, meeting point and transport arrangements for each part of your visit.",
+            "points": [
+              "Ask which transfers are included, where you meet the driver or guide, and who to contact if the journey changes.",
+              "Do not borrow a travel time from another itinerary: your start point, stops and conditions determine how a day on the road unfolds.",
+              "Check the return plan from outings outside the city, especially if accommodation and activities are booked with different providers."
+            ]
+          }
+        },
+        {
+          "heading": "Leave room beyond the drive",
+          "paragraphs": [
+            "Choose the duration around what you want to do after arrival. A road stop, a city stay with outings and a forest lodge visit use time differently. These duration cards are editorial comparisons, not bookable packages, and should be adjusted to the actual transfer and activity plan.",
+            "A brief visit works best with one clear activity and a realistic onward journey, rather than a crowded list of attractions. An extra day can separate a botanical outing from a hosted visit, with space to absorb what you learn. A longer stay makes sense when it adds experiences you value, not simply more transfers or another hotel change."
+          ],
+          "display": {
+            "heading": "Leave room beyond the drive",
+            "intro": "Choose the duration around what you want to do after arrival. A road stop, a city stay with outings and a forest lodge visit use time differently. These duration cards are editorial comparisons, not bookable packages, and should be adjusted to the actual transfer and activity plan.",
+            "points": [
+              "A brief visit works best with one clear activity and a realistic onward journey, rather than a crowded list of attractions.",
+              "An extra day can separate a botanical outing from a hosted visit, with space to absorb what you learn.",
+              "A longer stay makes sense when it adds experiences you value, not simply more transfers or another hotel change."
+            ]
+          }
+        },
+        {
+          "heading": "Plants, people and a closer look",
+          "paragraphs": [
+            "Puyo's wider tourism offer includes botanical and community-focused experiences as well as forest outings. The supporting palm photograph was taken at Omaere Park along the Puyo River. Use it as a glimpse of one documented setting, then confirm current visits and guiding directly with the provider.",
+            "Ask a botanical guide how the visit is structured and which topics are covered; avoid assuming every garden offers the same experience. For a community-hosted outing, confirm who receives visitors and what has been agreed, including the appropriate approach to photography. For forest observation, ask about habitat and time spent walking or watching. A location or photograph cannot guarantee an animal sighting."
+          ],
+          "display": {
+            "heading": "Plants, people and a closer look",
+            "intro": "Puyo's wider tourism offer includes botanical and community-focused experiences as well as forest outings. The supporting palm photograph was taken at Omaere Park along the Puyo River. Use it as a glimpse of one documented setting, then confirm current visits and guiding directly with the provider.",
+            "points": [
+              "Ask a botanical guide how the visit is structured and which topics are covered; avoid assuming every garden offers the same experience.",
+              "For a community-hosted outing, confirm who receives visitors and what has been agreed, including the appropriate approach to photography.",
+              "For forest observation, ask about habitat and time spent walking or watching. A location or photograph cannot guarantee an animal sighting."
+            ]
+          }
+        },
+        {
+          "heading": "Plan around the conditions",
+          "paragraphs": [
+            "Rain, trail surfaces and local access conditions can shape the day outside Puyo. A city forecast alone does not describe every route in the canton. Ask your guide what the chosen outing involves and which alternatives are available if the original plan needs to change.",
+            "Check current trail conditions and the walking demands of the activity, including uneven ground and places where you may need assistance. Carry rain protection and keep essential items dry; build in flexibility instead of treating a weather description as a promise. Read the operator's change and cancellation terms before paying, particularly when an outing is central to your reason for visiting."
+          ],
+          "display": {
+            "heading": "Plan around the conditions",
+            "intro": "Rain, trail surfaces and local access conditions can shape the day outside Puyo. A city forecast alone does not describe every route in the canton. Ask your guide what the chosen outing involves and which alternatives are available if the original plan needs to change.",
+            "points": [
+              "Check current trail conditions and the walking demands of the activity, including uneven ground and places where you may need assistance.",
+              "Carry rain protection and keep essential items dry; build in flexibility instead of treating a weather description as a promise.",
+              "Read the operator's change and cancellation terms before paying, particularly when an outing is central to your reason for visiting."
+            ]
+          }
+        },
+        {
+          "heading": "Match accommodation to your plans",
+          "paragraphs": [
+            "Start with your intended experiences, then choose the base. Staying in Puyo and traveling out for activities is different from sleeping at a lodge beyond the city. Compare actual access, guiding and facilities so the accommodation supports your itinerary rather than complicating each day's movement.",
+            "Ask for the property's precise location and the starting points of included activities, not just a promotional regional name. Confirm room facilities, meals, drinking-water arrangements, electricity and communication access directly with the property you are considering. Check who leads excursions, available languages, group size and what equipment is included. Separate these details from a room-only booking."
+          ],
+          "display": {
+            "heading": "Match accommodation to your plans",
+            "intro": "Start with your intended experiences, then choose the base. Staying in Puyo and traveling out for activities is different from sleeping at a lodge beyond the city. Compare actual access, guiding and facilities so the accommodation supports your itinerary rather than complicating each day's movement.",
+            "points": [
+              "Ask for the property's precise location and the starting points of included activities, not just a promotional regional name.",
+              "Confirm room facilities, meals, drinking-water arrangements, electricity and communication access directly with the property you are considering.",
+              "Check who leads excursions, available languages, group size and what equipment is included. Separate these details from a room-only booking."
+            ]
+          }
+        },
+        {
+          "heading": "Make access part of the booking",
+          "paragraphs": [
+            "Prepare for the specific outing rather than packing for an abstract idea of the jungle. Lightweight clothing, rain protection and suitable footwear are useful starting points. Travelers with mobility requirements should discuss the complete route, from vehicle drop-off through paths and accommodation access.",
+            "Ask about steps, uneven surfaces, walking distances and rest opportunities; a road-access city does not mean every attraction has step-free access. Protect documents and camera equipment with a suitable waterproof cover, and carry only what you need for the day's activity. Find out what the provider supplies and whether any equipment needs to be reserved in your size before arrival."
+          ],
+          "display": {
+            "heading": "Make access part of the booking",
+            "intro": "Prepare for the specific outing rather than packing for an abstract idea of the jungle. Lightweight clothing, rain protection and suitable footwear are useful starting points. Travelers with mobility requirements should discuss the complete route, from vehicle drop-off through paths and accommodation access.",
+            "points": [
+              "Ask about steps, uneven surfaces, walking distances and rest opportunities; a road-access city does not mean every attraction has step-free access.",
+              "Protect documents and camera equipment with a suitable waterproof cover, and carry only what you need for the day's activity.",
+              "Find out what the provider supplies and whether any equipment needs to be reserved in your size before arrival."
+            ]
+          }
+        },
+        {
+          "heading": "Let hosts lead the encounter",
+          "paragraphs": [
+            "Community tourism should reflect a host's invitation and priorities. Look for a clear explanation of who owns or leads the experience, what visitors are invited to do and how payments benefit the people receiving them. A community is not an attraction to enter without agreement.",
+            "Ask what is appropriate to photograph or share, and seek individual permission before taking recognizable portraits or entering private spaces. Respect an invitation's limits. Do not expect ceremonies, home access or personal stories simply because you have booked a visit. If crafts or products are offered, discuss purchases respectfully and directly. Follow host guidance rather than introducing gifts or activities of your own."
+          ],
+          "display": {
+            "heading": "Let hosts lead the encounter",
+            "intro": "Community tourism should reflect a host's invitation and priorities. Look for a clear explanation of who owns or leads the experience, what visitors are invited to do and how payments benefit the people receiving them. A community is not an attraction to enter without agreement.",
+            "points": [
+              "Ask what is appropriate to photograph or share, and seek individual permission before taking recognizable portraits or entering private spaces.",
+              "Respect an invitation's limits. Do not expect ceremonies, home access or personal stories simply because you have booked a visit.",
+              "If crafts or products are offered, discuss purchases respectfully and directly. Follow host guidance rather than introducing gifts or activities of your own."
+            ]
+          }
+        },
+        {
+          "heading": "Choose a route, not a checklist",
+          "paragraphs": [
+            "Puyo suits a central Amazon overland plan; Tena and Misahuallí offer other Napo bases, while Cuyabeno and Yasuní involve different lodge and transfer choices. Decide which experience matters most, then compare routes. More destinations do not automatically create more time in the forest.",
+            "Consider Puyo when Baños and Pastaza fit the wider journey and you want time for selected outings beyond the city. Compare Tena or Misahuallí for a Napo-based stay, checking the exact activities and accommodation rather than treating all Amazon gateways as interchangeable. Consider Cuyabeno or the Yasuní/Napo lodge corridor for a different itinerary structure; verify transfer commitments and property locations before combining regions."
+          ],
+          "display": {
+            "heading": "Choose a route, not a checklist",
+            "intro": "Puyo suits a central Amazon overland plan; Tena and Misahuallí offer other Napo bases, while Cuyabeno and Yasuní involve different lodge and transfer choices. Decide which experience matters most, then compare routes. More destinations do not automatically create more time in the forest.",
+            "points": [
+              "Consider Puyo when Baños and Pastaza fit the wider journey and you want time for selected outings beyond the city.",
+              "Compare Tena or Misahuallí for a Napo-based stay, checking the exact activities and accommodation rather than treating all Amazon gateways as interchangeable.",
+              "Consider Cuyabeno or the Yasuní/Napo lodge corridor for a different itinerary structure; verify transfer commitments and property locations before combining regions."
+            ]
+          }
+        }
+      ],
+      "tripOptions": [
+        [
+          "2 days",
+          "One clear priority",
+          "A brief visit can focus on a single outing if arrival and departure leave enough activity time. Confirm the full transport plan first."
+        ],
+        [
+          "3–4 days",
+          "Space for different experiences",
+          "Separate a guided outing from a second activity and leave room for downtime. Choose experiences before adding extra nights to the booking."
+        ],
+        [
+          "5 days",
+          "A flexible base or combined stay",
+          "Consider extra days when they add activities you value or a second base. Check transfer time so changing accommodation does not crowd out exploration."
         ]
       ]
     },
@@ -1571,28 +2190,261 @@
       "title": "Guía de Puyo Ecuador | Cultura y Selva Amazónica",
       "description": "Planifica un viaje por Puyo con información sobre acceso a la Amazonía central, turismo comunitario, selva e itinerarios.",
       "h1": "Puyo y la Amazonía central del Ecuador",
-      "lede": "Elige Puyo por su acceso terrestre, experiencias culturales y comunitarias, y conexiones hacia zonas fuera de los circuitos clásicos de lodges.",
-      "quick": "Puyo se entiende mejor como puerta regional que como una sola atracción. Funciona para viajeros terrestres, itinerarios culturales y rutas que conectan los Andes con comunidades y experiencias de bosque en la Amazonía central.",
-      "fit": "Cultura, rutas terrestres y turismo comunitario",
+      "lede": "Donde el camino desde los Andes encuentra otro ritmo. Usa Puyo como base de la Amazonía central para salidas botánicas, experiencias de bosque y visitas acordadas con anfitriones locales.",
+      "quick": "Puyo es una ciudad y puerta regional, no una sola atracción de selva. Encaja en una ruta terrestre por Baños y Pastaza, con alojamiento urbano o fuera de la ciudad. Elige primero la experiencia y confirma ubicación, acceso y anfitriones antes de decidir tu base.",
+      "fit": "Salidas botánicas y rutas terrestres",
       "access": "Carreteras desde Baños y los Andes",
-      "pace": "Dos a cuatro noches según la ruta",
+      "pace": "Reserva días completos tras el camino",
       "why": "La ubicación de Puyo lo convierte en transición práctica entre Andes y Amazonía central. Permite combinar museos, jardines, comunidades y bosque, además de servir como salida hacia zonas remotas.",
       "expect": "Espera una ciudad regional activa y mucha variación en la calidad de excursiones. Algunas están cerca; otras requieren logística terrestre, fluvial o aérea. El turismo comunitario debe mostrar participación local real y reglas claras de fotografía.",
       "plan": "Empieza por la experiencia deseada y luego elige base y transporte. Confirma quién recibe la visita, cómo se distribuyen los ingresos, tiempos, idioma, accesibilidad, seguridad y cancelación.",
       "faqs": [
         [
-          "¿Puyo está en selva profunda?",
-          "Puyo es una ciudad amazónica y puerta regional. La inmersión depende de la reserva, comunidad o lodge específico que visites."
+          "¿Puyo es un destino aislado en la selva?",
+          "Puyo es una ciudad y puerta regional de Pastaza. El entorno depende del jardín, comunidad, lugar de bosque o lodge que elijas. Una dirección en Puyo no indica por sí sola cuánta inmersión en la selva tendrás."
         ],
         [
-          "¿Se puede combinar Puyo con Baños?",
-          "Sí. La carretera facilita la combinación, pero reserva tiempo suficiente para experiencias amazónicas reales."
+          "¿Puedo combinar Puyo con Baños?",
+          "La carretera permite combinarlos en una ruta terrestre. Planifica según llegada, continuación y actividades, no copiando tiempos de otro viaje. Si conocer la Amazonía es una prioridad, reserva tiempo completo para actividades después de llegar."
         ],
         [
-          "¿Qué debo verificar en turismo comunitario?",
-          "Pregunta quién administra la experiencia, cómo se comparten los ingresos, qué fotografías son apropiadas y si la visita responde a prioridades locales."
+          "¿Qué diferencia hay entre ciudad y lodge?",
+          "Alojarte en la ciudad puede servir para organizar salidas por separado; un lodge fuera de ella puede ofrecer actividades desde su propiedad. Compara ubicación precisa, transporte, instalaciones y guías para elegir lo que facilite tu itinerario."
+        ],
+        [
+          "¿Qué reviso en turismo comunitario?",
+          "Pregunta quién administra y dirige la experiencia, si los anfitriones han acordado recibir visitantes, cómo les benefician los pagos y qué fotografías permiten. No supongas acceso a espacios privados, ceremonias o visitas sin límites."
+        ],
+        [
+          "¿Cómo organizo una visita botánica?",
+          "Consulta visitas actuales, idiomas de los guías, recorrido y exigencias de caminata directamente con el proveedor. La fotografía de Omaere documenta un entorno concreto; no verifica horarios actuales ni disponibilidad de una visita guiada."
+        ],
+        [
+          "¿Cuánto tiempo conviene quedarse?",
+          "Elige según los días completos para las experiencias que valoras. Una visita breve puede centrarse en una salida; más días permiten actividades distintas y descanso. Las tarjetas son ejemplos de planificación, no paquetes disponibles ni una recomendación fija."
+        ]
+      ],
+      "sections": [
+        {
+          "heading": "Una ciudad junto al bosque",
+          "paragraphs": [
+            "Puyo es una ciudad de Pastaza y una puerta de entrada a la Amazonía central del Ecuador. La guía municipal abarca experiencias del cantón, por lo que un destino anunciado como Puyo puede estar fuera de la ciudad. Organiza la visita alrededor de los lugares que realmente quieres conocer.",
+            "Distingue una estadía urbana de un lodge de bosque: Puyo puede indicar una base o región, no una experiencia de selva idéntica. Lee el mapa junto con el itinerario. Pregunta dónde está cada lugar y cómo llegar desde el alojamiento que elijas. La fotografía del río y la panorámica urbana muestran facetas distintas; ninguna representa por sí sola todas las salidas de la zona."
+          ],
+          "display": {
+            "heading": "Una ciudad junto al bosque",
+            "intro": "Puyo es una ciudad de Pastaza y una puerta de entrada a la Amazonía central del Ecuador. La guía municipal abarca experiencias del cantón, por lo que un destino anunciado como Puyo puede estar fuera de la ciudad. Organiza la visita alrededor de los lugares que realmente quieres conocer.",
+            "points": [
+              "Distingue una estadía urbana de un lodge de bosque: Puyo puede indicar una base o región, no una experiencia de selva idéntica.",
+              "Lee el mapa junto con el itinerario. Pregunta dónde está cada lugar y cómo llegar desde el alojamiento que elijas.",
+              "La fotografía del río y la panorámica urbana muestran facetas distintas; ninguna representa por sí sola todas las salidas de la zona."
+            ]
+          }
+        },
+        {
+          "heading": "Para quienes buscan variedad",
+          "paragraphs": [
+            "Considera Puyo si quieres una parada amazónica por carretera que combine ciudad, aprendizaje botánico y experiencias acordadas con anfitriones locales. Puede encajar en una ruta por Baños, pero merece tiempo propio si conocer la Amazonía es una prioridad y no solo una parada de paso.",
+            "Elige una base urbana si prefieres organizar salidas por separado y conservar tiempo independiente de un programa de lodge. Compara alojamientos fuera de la ciudad si pasar tiempo en un entorno de bosque pesa más que volver a servicios urbanos entre actividades. Cuenta al operador si te interesan plantas, cultura, caminatas o fotografía; una etiqueta genérica de tour de selva explica poco sobre el día."
+          ],
+          "display": {
+            "heading": "Para quienes buscan variedad",
+            "intro": "Considera Puyo si quieres una parada amazónica por carretera que combine ciudad, aprendizaje botánico y experiencias acordadas con anfitriones locales. Puede encajar en una ruta por Baños, pero merece tiempo propio si conocer la Amazonía es una prioridad y no solo una parada de paso.",
+            "points": [
+              "Elige una base urbana si prefieres organizar salidas por separado y conservar tiempo independiente de un programa de lodge.",
+              "Compara alojamientos fuera de la ciudad si pasar tiempo en un entorno de bosque pesa más que volver a servicios urbanos entre actividades.",
+              "Cuenta al operador si te interesan plantas, cultura, caminatas o fotografía; una etiqueta genérica de tour de selva explica poco sobre el día."
+            ]
+          }
+        },
+        {
+          "heading": "Conecta la ruta y el último tramo",
+          "paragraphs": [
+            "La carretera hacia Baños permite incorporar Puyo a un itinerario terrestre entre los Andes y la Amazonía. El acceso final a cada lugar o lodge es una decisión aparte. Confirma dirección, punto de encuentro y transporte para cada parte de la visita.",
+            "Pregunta qué traslados están incluidos, dónde encontrarás al conductor o guía y a quién llamar si cambia el viaje. No copies tiempos de otro itinerario: tu punto de partida, las paradas y las condiciones determinan cómo transcurre el día por carretera. Revisa el regreso de las salidas fuera de la ciudad, especialmente si reservas alojamiento y actividades con proveedores diferentes."
+          ],
+          "display": {
+            "heading": "Conecta la ruta y el último tramo",
+            "intro": "La carretera hacia Baños permite incorporar Puyo a un itinerario terrestre entre los Andes y la Amazonía. El acceso final a cada lugar o lodge es una decisión aparte. Confirma dirección, punto de encuentro y transporte para cada parte de la visita.",
+            "points": [
+              "Pregunta qué traslados están incluidos, dónde encontrarás al conductor o guía y a quién llamar si cambia el viaje.",
+              "No copies tiempos de otro itinerario: tu punto de partida, las paradas y las condiciones determinan cómo transcurre el día por carretera.",
+              "Revisa el regreso de las salidas fuera de la ciudad, especialmente si reservas alojamiento y actividades con proveedores diferentes."
+            ]
+          }
+        },
+        {
+          "heading": "Reserva tiempo después del camino",
+          "paragraphs": [
+            "Elige la duración según lo que quieras hacer al llegar. Una parada en ruta, una estadía urbana con salidas y una visita a un lodge utilizan el tiempo de maneras distintas. Estas tarjetas son comparaciones editoriales, no paquetes, y deben adaptarse a tus traslados y actividades.",
+            "Una visita breve funciona mejor con una actividad principal y un viaje de continuación realista, en lugar de una lista saturada de paradas. Un día adicional puede separar una salida botánica de una visita con anfitriones y dejar espacio para asimilar lo aprendido. Una estadía más larga tiene sentido si añade experiencias que valoras, no solo traslados o un cambio de hotel."
+          ],
+          "display": {
+            "heading": "Reserva tiempo después del camino",
+            "intro": "Elige la duración según lo que quieras hacer al llegar. Una parada en ruta, una estadía urbana con salidas y una visita a un lodge utilizan el tiempo de maneras distintas. Estas tarjetas son comparaciones editoriales, no paquetes, y deben adaptarse a tus traslados y actividades.",
+            "points": [
+              "Una visita breve funciona mejor con una actividad principal y un viaje de continuación realista, en lugar de una lista saturada de paradas.",
+              "Un día adicional puede separar una salida botánica de una visita con anfitriones y dejar espacio para asimilar lo aprendido.",
+              "Una estadía más larga tiene sentido si añade experiencias que valoras, no solo traslados o un cambio de hotel."
+            ]
+          }
+        },
+        {
+          "heading": "Plantas, personas y otra mirada",
+          "paragraphs": [
+            "La oferta turística de la zona de Puyo incluye experiencias botánicas y comunitarias, además de salidas al bosque. La fotografía de las palmas se tomó en el Parque Omaere, junto al río Puyo. Es una muestra de un entorno documentado; confirma visitas y guías actuales con el proveedor.",
+            "Pregunta al guía botánico cómo se organiza la visita y qué temas aborda; no supongas que todos los jardines ofrecen lo mismo. Para una salida comunitaria, confirma quién recibe visitantes y qué se ha acordado, incluidas las indicaciones para tomar fotografías. Para observar el bosque, consulta hábitats y tiempo de caminata u observación. Ni una ubicación ni una imagen garantizan ver animales."
+          ],
+          "display": {
+            "heading": "Plantas, personas y otra mirada",
+            "intro": "La oferta turística de la zona de Puyo incluye experiencias botánicas y comunitarias, además de salidas al bosque. La fotografía de las palmas se tomó en el Parque Omaere, junto al río Puyo. Es una muestra de un entorno documentado; confirma visitas y guías actuales con el proveedor.",
+            "points": [
+              "Pregunta al guía botánico cómo se organiza la visita y qué temas aborda; no supongas que todos los jardines ofrecen lo mismo.",
+              "Para una salida comunitaria, confirma quién recibe visitantes y qué se ha acordado, incluidas las indicaciones para tomar fotografías.",
+              "Para observar el bosque, consulta hábitats y tiempo de caminata u observación. Ni una ubicación ni una imagen garantizan ver animales."
+            ]
+          }
+        },
+        {
+          "heading": "Organiza el día según las condiciones",
+          "paragraphs": [
+            "La lluvia, el estado de los senderos y los accesos locales pueden influir en las salidas desde Puyo. Un pronóstico urbano no describe todas las rutas del cantón. Pregunta qué exige la actividad elegida y qué alternativas existen si es necesario cambiar el plan.",
+            "Consulta el estado actual de los senderos y las exigencias de la caminata, incluidos terrenos irregulares y lugares donde puedas necesitar ayuda. Lleva protección para la lluvia y guarda secos los objetos esenciales; deja flexibilidad en lugar de interpretar una descripción del clima como promesa. Lee las condiciones de cambios y cancelación antes de pagar, especialmente si una salida es el motivo principal de tu visita."
+          ],
+          "display": {
+            "heading": "Organiza el día según las condiciones",
+            "intro": "La lluvia, el estado de los senderos y los accesos locales pueden influir en las salidas desde Puyo. Un pronóstico urbano no describe todas las rutas del cantón. Pregunta qué exige la actividad elegida y qué alternativas existen si es necesario cambiar el plan.",
+            "points": [
+              "Consulta el estado actual de los senderos y las exigencias de la caminata, incluidos terrenos irregulares y lugares donde puedas necesitar ayuda.",
+              "Lleva protección para la lluvia y guarda secos los objetos esenciales; deja flexibilidad en lugar de interpretar una descripción del clima como promesa.",
+              "Lee las condiciones de cambios y cancelación antes de pagar, especialmente si una salida es el motivo principal de tu visita."
+            ]
+          }
+        },
+        {
+          "heading": "Alojamiento que acompañe tu viaje",
+          "paragraphs": [
+            "Empieza por las experiencias que quieres y después elige la base. Quedarte en Puyo y salir a actividades es distinto de dormir en un lodge fuera de la ciudad. Compara acceso, guías e instalaciones para que el alojamiento facilite el itinerario y no complique cada jornada.",
+            "Pide la ubicación precisa del alojamiento y los puntos de salida de actividades incluidas, no solo un nombre regional en la publicidad. Confirma directamente habitaciones, comidas, agua para beber, electricidad y comunicación con el establecimiento que estés considerando. Revisa quién guía las excursiones, idiomas, tamaño de grupo y equipo incluido. Separa esos detalles de una reserva que cubra únicamente habitación."
+          ],
+          "display": {
+            "heading": "Alojamiento que acompañe tu viaje",
+            "intro": "Empieza por las experiencias que quieres y después elige la base. Quedarte en Puyo y salir a actividades es distinto de dormir en un lodge fuera de la ciudad. Compara acceso, guías e instalaciones para que el alojamiento facilite el itinerario y no complique cada jornada.",
+            "points": [
+              "Pide la ubicación precisa del alojamiento y los puntos de salida de actividades incluidas, no solo un nombre regional en la publicidad.",
+              "Confirma directamente habitaciones, comidas, agua para beber, electricidad y comunicación con el establecimiento que estés considerando.",
+              "Revisa quién guía las excursiones, idiomas, tamaño de grupo y equipo incluido. Separa esos detalles de una reserva que cubra únicamente habitación."
+            ]
+          }
+        },
+        {
+          "heading": "Incluye el acceso en la reserva",
+          "paragraphs": [
+            "Prepara el equipaje para la salida concreta, no para una idea abstracta de la selva. Ropa ligera, protección para la lluvia y calzado adecuado son un punto de partida. Si tienes necesidades de movilidad, consulta la ruta completa, desde el vehículo hasta senderos y alojamiento.",
+            "Pregunta por escalones, terreno irregular, distancias de caminata y lugares de descanso; una ciudad accesible por carretera no garantiza accesibilidad en cada visita. Protege documentos y cámara con una cubierta impermeable adecuada y lleva solo lo necesario para las actividades del día. Averigua qué suministra el proveedor y si debes reservar equipo en tu talla antes de llegar."
+          ],
+          "display": {
+            "heading": "Incluye el acceso en la reserva",
+            "intro": "Prepara el equipaje para la salida concreta, no para una idea abstracta de la selva. Ropa ligera, protección para la lluvia y calzado adecuado son un punto de partida. Si tienes necesidades de movilidad, consulta la ruta completa, desde el vehículo hasta senderos y alojamiento.",
+            "points": [
+              "Pregunta por escalones, terreno irregular, distancias de caminata y lugares de descanso; una ciudad accesible por carretera no garantiza accesibilidad en cada visita.",
+              "Protege documentos y cámara con una cubierta impermeable adecuada y lleva solo lo necesario para las actividades del día.",
+              "Averigua qué suministra el proveedor y si debes reservar equipo en tu talla antes de llegar."
+            ]
+          }
+        },
+        {
+          "heading": "Que los anfitriones guíen el encuentro",
+          "paragraphs": [
+            "El turismo comunitario debe responder a una invitación y a las prioridades de quienes reciben la visita. Busca información clara sobre quién administra o dirige la experiencia, qué se invita a hacer y cómo les benefician los pagos. Una comunidad no es un lugar al que entrar sin acuerdo.",
+            "Consulta qué se puede fotografiar o compartir y pide permiso individual antes de tomar retratos reconocibles o entrar en espacios privados. Respeta los límites de la invitación. Una reserva no implica acceso a ceremonias, viviendas o historias personales. Si se ofrecen artesanías o productos, conversa sobre compras con respeto y directamente. Sigue las indicaciones en lugar de introducir regalos o actividades por tu cuenta."
+          ],
+          "display": {
+            "heading": "Que los anfitriones guíen el encuentro",
+            "intro": "El turismo comunitario debe responder a una invitación y a las prioridades de quienes reciben la visita. Busca información clara sobre quién administra o dirige la experiencia, qué se invita a hacer y cómo les benefician los pagos. Una comunidad no es un lugar al que entrar sin acuerdo.",
+            "points": [
+              "Consulta qué se puede fotografiar o compartir y pide permiso individual antes de tomar retratos reconocibles o entrar en espacios privados.",
+              "Respeta los límites de la invitación. Una reserva no implica acceso a ceremonias, viviendas o historias personales.",
+              "Si se ofrecen artesanías o productos, conversa sobre compras con respeto y directamente. Sigue las indicaciones en lugar de introducir regalos o actividades por tu cuenta."
+            ]
+          }
+        },
+        {
+          "heading": "Elige una ruta, no una lista",
+          "paragraphs": [
+            "Puyo encaja en un viaje terrestre por la Amazonía central; Tena y Misahuallí ofrecen otras bases en Napo, mientras Cuyabeno y Yasuní plantean lodges y traslados diferentes. Decide qué experiencia importa más y compara rutas. Sumar destinos no crea automáticamente más tiempo en el bosque.",
+            "Considera Puyo cuando Baños y Pastaza encajen en el recorrido y quieras dedicar tiempo a salidas elegidas fuera de la ciudad. Compara Tena o Misahuallí para una estadía en Napo, revisando actividades y alojamiento concretos; las puertas amazónicas no son todas intercambiables. Considera Cuyabeno o el corredor Yasuní/Napo para otra estructura de viaje y verifica traslados y ubicación de propiedades antes de combinar regiones."
+          ],
+          "display": {
+            "heading": "Elige una ruta, no una lista",
+            "intro": "Puyo encaja en un viaje terrestre por la Amazonía central; Tena y Misahuallí ofrecen otras bases en Napo, mientras Cuyabeno y Yasuní plantean lodges y traslados diferentes. Decide qué experiencia importa más y compara rutas. Sumar destinos no crea automáticamente más tiempo en el bosque.",
+            "points": [
+              "Considera Puyo cuando Baños y Pastaza encajen en el recorrido y quieras dedicar tiempo a salidas elegidas fuera de la ciudad.",
+              "Compara Tena o Misahuallí para una estadía en Napo, revisando actividades y alojamiento concretos; las puertas amazónicas no son todas intercambiables.",
+              "Considera Cuyabeno o el corredor Yasuní/Napo para otra estructura de viaje y verifica traslados y ubicación de propiedades antes de combinar regiones."
+            ]
+          }
+        }
+      ],
+      "tripOptions": [
+        [
+          "2 días",
+          "Una prioridad clara",
+          "Una visita breve puede centrarse en una salida si llegada y partida dejan tiempo suficiente. Confirma primero el plan completo de transporte."
+        ],
+        [
+          "3–4 días",
+          "Espacio para experiencias distintas",
+          "Separa una salida guiada de otra actividad y deja tiempo para descanso. Elige las experiencias antes de añadir noches a la reserva."
+        ],
+        [
+          "5 días",
+          "Una base flexible o estadía combinada",
+          "Considera días extra cuando añadan actividades que valoras u otra base. Revisa los traslados para que cambiar de alojamiento no reste tiempo de exploración."
         ]
       ]
-    }
+    },
+    "reviewedAt": "2026-10-05",
+    "sources": [
+      {
+        "title": "Puyo municipal tourism guide",
+        "url": "https://puyo.gob.ec/wp-content/uploads/gaceta/direccion/turismo/guia-turistica-puyo.pdf"
+      }
+    ],
+    "sectionImages": [
+      {
+        "section": 0,
+        "src": "/assets/images/ecuador/puyo-city.jpg",
+        "width": 1400,
+        "height": 625,
+        "altEn": "Panoramic view of Puyo city and surrounding green hills",
+        "altEs": "Vista panorámica de la ciudad de Puyo y colinas verdes alrededor",
+        "source": "https://commons.wikimedia.org/wiki/File:Vista_del_Puyo.JPG",
+        "credit": "David C. S.",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+      },
+      {
+        "section": 4,
+        "src": "/assets/images/ecuador/puyo-palms.jpg",
+        "width": 1400,
+        "height": 933,
+        "altEn": "Palms with exposed supporting roots beside a path at Omaere Park, Puyo",
+        "altEs": "Palmas con raíces de soporte expuestas junto a un sendero del Parque Omaere, Puyo",
+        "source": "https://commons.wikimedia.org/wiki/File:Iriartea_deltoidea_and_Socratea_exorrhiza_%28Arecaceae%29_%E2%80%94_two_%22walking_palms%22_%2830053641211%29.jpg",
+        "credit": "yakovlev.alexey",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+      }
+    ],
+    "image": "/assets/images/ecuador/puyo-river.jpg",
+    "imageWidth": 1400,
+    "imageHeight": 1050,
+    "imageCredit": "David C. S.",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:R%C3%ADo_Puyo.JPG",
+    "imageLicense": "https://creativecommons.org/licenses/by/3.0/",
+    "imageLicenseLabel": "CC BY 3.0",
+    "imageAltEn": "The Puyo River at its confluence with the Pambay River",
+    "imageAltEs": "Río Puyo en su confluencia con el río Pambay"
   }
 ]

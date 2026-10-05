@@ -148,7 +148,7 @@ async function compileEcuadorDestinations() {
       const review = destination.reviewedAt ? `<section class="eta-section--tight"><div class="eta-shell eta-reading"><h2>${language === 'es' ? 'Fuentes y criterios editoriales' : 'Sources and editorial approach'}</h2><p>${language === 'es' ? 'Revisión editorial' : 'Editorial review'}: <time datetime="${destination.reviewedAt}">${destination.reviewedAt}</time>.</p><ul>${sources}</ul><p>${language === 'es' ? 'Las fuentes oficiales describen el destino; las comparaciones de duración y las preguntas para lodges son criterios editoriales. Las fuentes aportan contexto del destino y no verifican servicios ni condiciones actuales. Confirma horarios y acceso con tu operador. Esta guía no representa una visita de primera mano ni una recomendación de un lodge concreto.' : 'Official sources describe the destination; trip-length comparisons and lodge questions are editorial guidance. Source material provides destination context and does not verify current services or conditions. Confirm schedules and access with your operator. This guide is not a first-hand visit report or an endorsement of a particular lodge.'}</p></div></section>` : '';
       const lodgeRoute = language === 'es' ? '/es/ecuador/lodges-en-la-amazonia/' : '/ecuador/amazon-lodges/';
       const heroVisual = destination.image
-        ? `<figure class="eta-country-art eta-country-art--licensed"><img src="${escapeHtml(destination.image)}"${destination.imageWidth ? ` width="${destination.imageWidth}" height="${destination.imageHeight}"` : ''} alt="${escapeHtml(language === "es" ? destination.imageAltEs : destination.imageAltEn)}" decoding="async" fetchpriority="high"><figcaption class="eta-photo-credit">${language === "es" ? "Foto" : "Photo"}: <a href="${escapeHtml(destination.imageSource || "https://unsplash.com")}" rel="noopener">${escapeHtml((destination.imageCredit || "").replace(/^Photo: /, ""))}</a>${destination.imageLicense ? ` · <a href="${destination.imageLicense}">CC BY 2.0</a> · ${language === "es" ? "Adaptada" : "Edited"}` : ''}</figcaption></figure>`
+        ? `<figure class="eta-country-art eta-country-art--licensed"><img src="${escapeHtml(destination.image)}"${destination.imageWidth ? ` width="${destination.imageWidth}" height="${destination.imageHeight}"` : ''} alt="${escapeHtml(language === "es" ? destination.imageAltEs : destination.imageAltEn)}" decoding="async" fetchpriority="high"><figcaption class="eta-photo-credit">${language === "es" ? "Foto" : "Photo"}: <a href="${escapeHtml(destination.imageSource || "https://unsplash.com")}" rel="noopener">${escapeHtml((destination.imageCredit || "").replace(/^Photo: /, ""))}</a>${destination.imageLicense ? ` · <a href="${destination.imageLicense}">${escapeHtml(destination.imageLicenseLabel || "CC BY 2.0")}</a> · ${language === "es" ? "Adaptada" : "Edited"}` : ''}</figcaption></figure>`
         : `<div class="eta-country-art" role="img" aria-label="${language === "es" ? "Espacio reservado para una imagen autorizada de" : "Reserved for a rights-cleared image of"} ${escapeHtml(content.name)}"></div>`;
       const html = `<!doctype html>
 <html lang="${language}" data-language-pair="${alternateRoute}" data-page-id="ecuador_${destination.slug}_${language}" data-pair-id="${destination.pairId}" data-page-type="destination_page" data-country="ecuador" data-destination="${destination.slug}" data-topic-cluster="ecuador-destinations" data-funnel-stage="consideration">
@@ -212,15 +212,15 @@ await compilePages();
 await compileEcuadorDestinations();
 await writeRuntimeConfig();
 await writeEnvironmentFiles();
-// Version every local stylesheet by content, so page refreshes fetch changed CSS.
+// Version local stylesheets and scripts by content so refreshed pages fetch changes.
 const cssVersions = new Map();
-for (const cssFile of (await listFiles(path.join(outputDir, 'assets', 'css'))).filter(file => file.endsWith('.css'))) {
+for (const cssFile of (await listFiles(path.join(outputDir, 'assets'))).filter(file => /\.(css|js)$/.test(file))) {
   const url = '/' + path.relative(outputDir, cssFile).split(path.sep).join('/');
   cssVersions.set(url, createHash('sha256').update(await readFile(cssFile)).digest('hex').slice(0, 12));
 }
 for (const htmlFile of (await listFiles(outputDir)).filter(file => file.endsWith('.html'))) {
   const html = await readFile(htmlFile, 'utf8');
-  await writeFile(htmlFile, html.replace(/href="(\/assets\/css\/[^"?]+\.css)"/g, (match, url) => `href="${url}?v=${cssVersions.get(url)}"`));
+  await writeFile(htmlFile, html.replace(/(href|src)="(\/assets\/(?:css|js)\/[^"?]+\.(?:css|js))"/g, (match, attribute, url) => `${attribute}="${url}?v=${cssVersions.get(url)}"`));
 }
 
 if (environment === "staging") {

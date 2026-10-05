@@ -54,12 +54,28 @@
     const toggle = document.querySelector("[data-menu-toggle]");
     const menu = document.querySelector("[data-mobile-menu]");
     if (toggle && menu) {
-      toggle.addEventListener("click", function () {
-        const open = toggle.getAttribute("aria-expanded") === "true";
-        toggle.setAttribute("aria-expanded", String(!open));
-        menu.hidden = open;
-        document.body.classList.toggle("menu-open", !open);
+      const spanish = document.documentElement.lang === "es";
+      function setMenu(open, restoreFocus) {
+        toggle.setAttribute("aria-expanded", String(open));
+        toggle.setAttribute("aria-label", spanish ? (open ? "Cerrar menú" : "Abrir menú") : (open ? "Close menu" : "Open menu"));
+        menu.hidden = !open;
+        document.body.classList.toggle("menu-open", open);
+        if (restoreFocus) toggle.focus();
+      }
+      toggle.addEventListener("click", function () { setMenu(toggle.getAttribute("aria-expanded") !== "true"); });
+      document.addEventListener("keydown", function (event) {
+        if (toggle.getAttribute("aria-expanded") !== "true") return;
+        if (event.key === "Escape") { setMenu(false, true); return; }
+        if (event.key === "Tab") {
+          const controls = [toggle, ...menu.querySelectorAll('a:not([hidden]), summary, button:not([disabled])')].filter(el => el.getClientRects().length);
+          const first = controls[0], last = controls[controls.length - 1];
+          if (event.shiftKey && document.activeElement === first) { event.preventDefault(); last.focus(); }
+          else if (!event.shiftKey && document.activeElement === last) { event.preventDefault(); first.focus(); }
+        }
       });
+      menu.addEventListener("click", function (event) { if (event.target.closest("a")) setMenu(false); });
+      window.matchMedia("(min-width: 961px)").addEventListener("change", function (event) { if (event.matches) setMenu(false); });
+
     }
 
     const currentPath = window.location.pathname.replace(/index\.html$/, "");

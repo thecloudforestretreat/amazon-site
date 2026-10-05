@@ -1,0 +1,9 @@
+{
+  "job": "misahualli",
+  "status": "awaiting_editorial_review",
+  "model": "qwen3.5:9b",
+  "seconds": 252.98,
+  "prompt_eval_count": 866,
+  "eval_count": 6048,
+  "cloud_worker_tokens": 0
+}

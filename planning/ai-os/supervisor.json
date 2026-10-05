@@ -14,7 +14,11 @@
   "next_batch_size_after_verified_pilot": 2,
   "completed_pairs": [],
   "prepared_pairs": [
-    "pair_005"
+    "pair_005",
+    "pair_004",
+    "pair_006",
+    "pair_007",
+    "pair_008"
   ],
   "completion_requires": [
     "Editorial and bilingual review",
@@ -40,9 +44,8 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review of Yasuni and Tena EN/ES preview",
-    "Complete measured performance and full accessibility checks before launch",
-    "Configure and verify contact delivery before launch",
+    "Owner review of Misahualli and Puyo EN/ES preview",
+    "Measured performance, full accessibility and contact delivery checks before launch",
     "Retain pending GitHub push authorization"
   ],
   "future_batches": [
@@ -54,21 +57,21 @@
   "pilot_status": "deployed_initial_browser_checks_pass_full_qa_pending",
   "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
   "next_batch_candidates": [
-    "yasuni",
-    "tena"
+    "ecuador hub",
+    "lodge hub"
   ],
   "local_worker_run_complete": true,
   "git_status": "Committed locally; remote push blocked by automatic approval review",
   "quality_hold": {
     "released_by_owner": true,
     "date": "2026-10-05",
-    "scope": "Approved Cuyabeno design template; authorized Yasuni and Tena two-pair batch"
+    "scope": "Owner approved Yasuni/Tena and authorized next Misahualli/Puyo batch"
   },
   "deployment": {
-    "id": "01baf569",
+    "id": "056051a4",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://01baf569.amazon-site-staging.pages.dev",
+    "url": "https://056051a4.amazon-site-staging.pages.dev",
     "protected_domain_check": "302 Cloudflare Access login",
     "date": "2026-10-05"
   },
@@ -92,16 +95,16 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "yasuni",
-    "tena"
+    "misahualli",
+    "puyo"
   ],
-  "batch_status": "deployed_editorially_reviewed_initial_visual_and_technical_checks_pass_owner_review_pending",
+  "batch_status": "deployed_reviewed_initial_visual_and_technical_checks_pass_owner_review_pending",
   "batch_browser_checks": {
     "date": "2026-10-05",
-    "deployment": "943c4348",
+    "deployment": "056051a4",
     "slugs": [
-      "yasuni",
-      "tena"
+      "misahualli",
+      "puyo"
     ],
     "languages": [
       "en",
@@ -112,11 +115,13 @@
       390
     ],
     "horizontal_overflow": false,
+    "hero_and_supporting_images_loaded": true,
+    "photos_per_page": 3,
     "desktop_fact_labels_aligned": true,
-    "hero_images_loaded": true,
-    "hero_corners": "24px desktop / 20px mobile",
-    "visual_review": "Hero and content cards reviewed; bilingual rendered layout checks passed",
-    "technical_validation": "24 compiled pages pass; destination audits pass",
+    "visual_review": "Bilingual heroes and alternating landscape/experience cards reviewed at desktop and mobile widths",
+    "shared_navigation": "Mobile hamburger with Ecuador accordion; primary header sticky on all widths, secondary bar desktop only",
+    "menu_keyboard": "Escape closes and restores focus; forward/backward Tab wraps within open menu; resize to desktop closes and unlocks body",
+    "technical_validation": "24 pages validated; both destination audits and three schema regression tests pass",
     "protected_domain_unauthenticated_status": 302,
     "full_accessibility": "pending",
     "measured_performance": "pending",
@@ -136,7 +141,9 @@
     "applied_to": [
       "cuyabeno",
       "yasuni",
-      "tena"
+      "tena",
+      "misahualli",
+      "puyo"
     ],
     "no_repeated_content_images": true,
     "visual_uniqueness_review": "Required: compare actual scenes and alternate crops, not just filenames"

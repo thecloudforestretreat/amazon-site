@@ -9,3 +9,17 @@
 .eta-mobile-menu{border-top:1px solid var(--eta-line);background:var(--eta-paper);padding:14px 18px 20px}.eta-mobile-menu nav{display:grid;gap:6px}.eta-mobile-menu a,.eta-mobile-accordion summary,.eta-mobile-accordion span{padding:11px 8px;color:var(--eta-ink);font-weight:600;text-decoration:none}.eta-mobile-accordion summary{list-style:none}.eta-mobile-accordion summary::-webkit-details-marker{display:none}.eta-mobile-accordion summary::after{content:"+";float:right}.eta-mobile-accordion[open] summary::after{content:"−"}.eta-mobile-accordion>div{display:grid;margin-left:12px;border-left:1px solid var(--eta-line);padding-left:10px}.eta-mobile-accordion span{color:var(--eta-muted)}.eta-mobile-accordion small{display:inline-block;margin-left:6px;color:var(--eta-river-600);font-weight:700}
 @media(max-width:960px){.eta-header-inner{grid-template-columns:1fr auto auto}.eta-primary-nav{display:none}.eta-header-actions>.eta-button{display:none}.eta-menu-toggle{display:inline-flex;align-items:center;justify-content:center}}
 @media(max-width:520px){.eta-brand{font-size:.9rem}.eta-brand img{width:43px;height:43px}.eta-language{display:none}.eta-header-inner{grid-template-columns:1fr auto}}
+
+/* Shared sticky header: fixed bar height and a scrollable overlay menu. */
+.eta-header-inner{height:78px;min-height:78px}
+.eta-menu-icon{display:grid;gap:5px;width:20px}
+.eta-menu-icon>span{display:block;height:2px;width:20px;background:currentColor;transition:transform .15s,opacity .15s}
+.eta-menu-toggle[aria-expanded="true"] .eta-menu-icon>span:nth-child(1){transform:translateY(7px) rotate(45deg)}
+.eta-menu-toggle[aria-expanded="true"] .eta-menu-icon>span:nth-child(2){opacity:0}
+.eta-menu-toggle[aria-expanded="true"] .eta-menu-icon>span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
+.eta-mobile-menu{position:absolute;top:100%;left:0;right:0;max-height:calc(100dvh - 78px);overflow-y:auto;overscroll-behavior:contain;box-shadow:0 12px 24px rgba(16,40,31,.12)}
+.eta-country-nav{top:78px!important}
+@media(min-width:961px){.eta-mobile-menu{display:none}}
+@media(prefers-reduced-motion:reduce){.eta-menu-icon>span{transition:none}}
+
+@media(max-width:960px){.eta-country-nav{display:none}}

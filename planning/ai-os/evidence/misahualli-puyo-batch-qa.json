@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-05",
+  "deployment": "056051a4",
+  "progress": "Misahualli/Puyo EN/ES deployed for owner review; shared hamburger and sticky navigation updated",
+  "local_usage": {
+    "model": "qwen3.5:9b",
+    "inference_calls": 2,
+    "prompt_tokens": 1700,
+    "output_tokens": 11999,
+    "inference_seconds": 529.61,
+    "cache_hits": 0,
+    "inference_retries": 0,
+    "permission_failures_before_inference": 1,
+    "cloud_worker_tokens": 0,
+    "overall_cloud_supervision_cost": "Not measured; not claimed to be zero"
+  },
+  "opportunities_and_improvements": [
+    "Raw outputs used FAQ objects and alternate paragraph fields: added deterministic normalizer with three regression tests, retaining raw/reviewed hashes",
+    "Raw factual hallucinations require editorial review: removed tidal, weather, medical, transport and access assumptions; no automatic promotion",
+    "Stale browser assets: version local scripts by content as well as CSS",
+    "Mobile header density: moved secondary Ecuador links into scrollable hamburger menu",
+    "Images: visually rejected mural candidate and selected three distinct, credited location-documented photos per destination"
+  ],
+  "verification": {
+    "date": "2026-10-05",
+    "deployment": "056051a4",
+    "slugs": [
+      "misahualli",
+      "puyo"
+    ],
+    "languages": [
+      "en",
+      "es"
+    ],
+    "widths": [
+      1117,
+      390
+    ],
+    "horizontal_overflow": false,
+    "hero_and_supporting_images_loaded": true,
+    "photos_per_page": 3,
+    "desktop_fact_labels_aligned": true,
+    "visual_review": "Bilingual heroes and alternating landscape/experience cards reviewed at desktop and mobile widths",
+    "shared_navigation": "Mobile hamburger with Ecuador accordion; primary header sticky on all widths, secondary bar desktop only",
+    "menu_keyboard": "Escape closes and restores focus; forward/backward Tab wraps within open menu; resize to desktop closes and unlocks body",
+    "technical_validation": "24 pages validated; both destination audits and three schema regression tests pass",
+    "protected_domain_unauthenticated_status": 302,
+    "full_accessibility": "pending",
+    "measured_performance": "pending",
+    "contact_delivery": "endpoint absent",
+    "owner_review": "pending"
+  },
+  "rollback": {
+    "previous_deployment": "01baf569",
+    "intermediate_deployments": [
+      "f2e1d5cb",
+      "b8ddfa10"
+    ],
+    "branch": "staging",
+    "previous_commit": "3da615c",
+    "production_modified": false
+  },
+  "next": "Owner review before another batch; launch checks remain pending"
+}
