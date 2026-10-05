@@ -1,0 +1,56 @@
+[
+  {
+    "name": "napo-forest-grzywa",
+    "source": "https://commons.wikimedia.org/wiki/File:Rainforest_near_Rio_Napo_-_panoramio.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Rainforest_near_Rio_Napo_-_panoramio.jpg",
+    "approved": true,
+    "approver": "Supervisor source/rights and visual asset review",
+    "date": "2026-10-05",
+    "asset_sha256": "d8337aa1f5f92d939c425ccfcbc8ccd6b87c73854398556e366c61f15d4798b1",
+    "visual_review": "No identifiable people, private buildings or artwork; documentary regional setting",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "dimensions": [
+      1280,
+      853
+    ],
+    "proof": "napo-forest-grzywa-source.html",
+    "download_version": "Source-page web-sized thumbnail; CSS framing only"
+  },
+  {
+    "name": "cuyabeno-sunset-new",
+    "source": "https://commons.wikimedia.org/wiki/File:Atardecer_en_Cuyabeno.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/47/Atardecer_en_Cuyabeno.jpg",
+    "approved": true,
+    "approver": "Supervisor source/rights and visual asset review",
+    "date": "2026-10-05",
+    "asset_sha256": "731ef69ebcd4fbbc8eb6d99239d4ee46fa48459a0457822f0355b41ff6fc12d3",
+    "visual_review": "No identifiable people, private buildings or artwork; documentary regional setting",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dimensions": [
+      1280,
+      960
+    ],
+    "proof": "cuyabeno-sunset-new-source.html",
+    "download_version": "Source-page web-sized thumbnail; CSS framing only"
+  },
+  {
+    "name": "cuyabeno-lagoon-new",
+    "source": "https://commons.wikimedia.org/wiki/File:Laguna,_parque_nacional_de_Cuyabeno,_Ecuador.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Laguna%2C_parque_nacional_de_Cuyabeno%2C_Ecuador.jpg",
+    "approved": true,
+    "approver": "Supervisor source/rights and visual asset review",
+    "date": "2026-10-05",
+    "asset_sha256": "de1dadfc542a13e6cc35c2ddf74b29cd9cae0dafbfc3b6f8b6565b9462a871e6",
+    "visual_review": "No identifiable people, private buildings or artwork; documentary regional setting",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "dimensions": [
+      1280,
+      960
+    ],
+    "proof": "cuyabeno-lagoon-new-source.html",
+    "download_version": "Source-page web-sized thumbnail; CSS framing only"
+  }
+]

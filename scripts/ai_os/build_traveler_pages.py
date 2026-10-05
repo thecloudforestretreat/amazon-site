@@ -5,8 +5,8 @@ root=Path(__file__).resolve().parents[2]; esc=html.escape
 data={d['slug']:d for d in json.loads((root/'src/data/ecuador-destinations.json').read_text())}
 def hero(d):
  return dict(src=d['image'],width=d['imageWidth'],height=d['imageHeight'],altEn=d['imageAltEn'],altEs=d['imageAltEs'],credit=d['imageCredit'].removeprefix('Photo: '),source=d['imageSource'],license=d.get('imageLicenseLabel','CC BY 2.0' if d.get('imageLicense') else ''),licenseUrl=d.get('imageLicense',''))
-configs=[dict(job='four-day-format',pair='pair_012',en='4-day-amazon-tour',es='tour-de-4-dias-en-la-amazonia',photos=[hero(data['cuyabeno']),data['tena']['sectionImages'][1],data['yasuni']['sectionImages'][1]]),dict(job='five-day-format',pair='pair_013',en='5-day-amazon-tour',es='tour-de-5-dias-en-la-amazonia',photos=[hero(data['yasuni']),data['puyo']['sectionImages'][1],data['cuyabeno']['sectionImages'][1]])]
-copy=json.loads((root/'planning/ai-os/duration-batch-content.json').read_text())
+configs=json.loads((root/'planning/ai-os/traveler-batch-config.json').read_text())
+copy=json.loads((root/'planning/ai-os/traveler-batch-content.json').read_text())
 for cfg in configs:
  job=cfg['job'];runs=list((root/f'planning/ai-os/runs/{job}').glob('*/draft.json'));assert len(runs)==1,runs
  draft=json.loads((runs[0].parent/'reviewed.json').read_text())
@@ -34,11 +34,11 @@ for cfg in configs:
    else:s+=item
   s+='</div></div></section><section class="eta-section"><div class="eta-shell eta-decision-grid">'+''.join(f'<article class="eta-decision-card"><h2>{esc(c[h])}</h2><p>{esc(c[p])}</p></article>' for h,p in [('extra','extrap'),('extra2','extra2p')])+'</div></section>'
   s+=f'<section class="eta-section eta-section--mist" id="{faqid}"><div class="eta-shell eta-reading"><p class="eta-kicker">{"Preguntas frecuentes" if lang=="es" else "Your questions"}</p><h2>{"Antes de elegir" if lang=="es" else "Before you choose"}</h2><div class="eta-stack">'+''.join(f'<details><summary>{esc(q)}</summary><p>{esc(a)}</p></details>' for q,a in c['faqs'])+'</div></div></section>'
-  other=configs[1 if job=='four-day-format' else 0];otherroute=hub+other[lang]+'/'
-  s+=f'<section class="eta-section"><div class="eta-shell eta-trust-strip"><p class="eta-kicker">{"El siguiente paso" if lang=="es" else "Your next step"}</p><h2>{"Cuéntanos cómo quieres viajar" if lang=="es" else "Tell us what your journey needs"}</h2><p>{"Comparte fechas, grupo, punto de partida, intereses y planes posteriores para preparar una consulta clara." if lang=="es" else "Share your dates, group, starting point, interests and onward plans to prepare a focused inquiry."}</p><div class="eta-actions"><a class="eta-button eta-button--gold" href="{contact}">{"Consulta tu viaje" if lang=="es" else "Ask about your journey"}</a><a class="eta-button eta-button--outline" href="{otherroute}">{"Compara la otra duración" if lang=="es" else ("Compare the 5-day guide" if job=="four-day-format" else "Compare the 4-day guide")}</a></div></div></section>'
+  other=configs[1 if job=='private-format' else 0];otherroute=hub+other[lang]+'/'
+  s+=f'<section class="eta-section"><div class="eta-shell eta-trust-strip"><p class="eta-kicker">{"El siguiente paso" if lang=="es" else "Your next step"}</p><h2>{"Cuéntanos cómo quieres viajar" if lang=="es" else "Tell us what your journey needs"}</h2><p>{"Comparte fechas, grupo, punto de partida, intereses y planes posteriores para preparar una consulta clara." if lang=="es" else "Share your dates, group, starting point, interests and onward plans to prepare a focused inquiry."}</p><div class="eta-actions"><a class="eta-button eta-button--gold" href="{contact}">{"Consulta tu viaje" if lang=="es" else "Ask about your journey"}</a><a class="eta-button eta-button--outline" href="{otherroute}">{"Explora la otra guía" if lang=="es" else ("Explore the family guide" if job=="private-format" else "Explore the private guide")}</a></div></div></section>'
   old=(root/f'src/pages/{lang}/ecuador/'/Path('amazon-lodges/index.html' if lang=='en' else 'lodges-en-la-amazonia/index.html')).read_text()
   sources=old[old.index('<section class="eta-section--tight"><div class="eta-shell eta-reading"><h2>'):old.index('</main>')]
   s+=sources+'</main>{{ETA_FOOTER}}</body></html>\n'
   dest=root/f'src/pages/{lang}/ecuador/{cfg[lang]}/index.html';dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(s)
   (runs[0].parent/f'reviewed-{lang}.json').write_text(json.dumps(draft[lang],ensure_ascii=False,indent=2)+'\n')
-(root/'planning/ai-os/evidence/duration-images.json').write_text(json.dumps({'date':'2026-10-05','photos':{c['job']:c['photos'] for c in configs}},ensure_ascii=False,indent=2)+'\n')
+(root/'planning/ai-os/evidence/traveler-images.json').write_text(json.dumps({'date':'2026-10-05','photos':{c['job']:c['photos'] for c in configs}},ensure_ascii=False,indent=2)+'\n')

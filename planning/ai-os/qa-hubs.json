@@ -2,28 +2,28 @@
   "ecuador": {
     "pair_id": "pair_003",
     "language": "en",
-    "main_words": 1587,
+    "main_words": 1630,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
       "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "a82e0897d7c1450759ea273bc653d865b06627af7381e95e57ad4b4da7e35ab6",
+    "sha256": "82e805b49a64a6be0937750d8137dab4dfa2f1c25df84c2ffd2f5c50cbfb2ed2",
     "errors": [],
     "passed": true
   },
   "es/ecuador": {
     "pair_id": "pair_003",
     "language": "es",
-    "main_words": 1583,
+    "main_words": 1629,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
       "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "155fd36eead648a30368e5cacd1863916274c6f3bc6f1951bbf9d45bdb3d0276",
+    "sha256": "34224a05665ea3ce9339c6aaef0731eee1df4dfc883cf2c8984de8d555f7a557",
     "errors": [],
     "passed": true
   },
@@ -121,7 +121,7 @@
       "/assets/images/ecuador/tena-forest-jay.jpg",
       "/assets/images/ecuador/yasuni-leaf-frog-gallice.jpg"
     ],
-    "sha256": "d0d41a814eeeb4e7ecb58c54f03e474fd242a425026107a99cc5669877200625",
+    "sha256": "c2f598d64625181558447764aaee84e5ca353d66c3b508745fa27e562617dffa",
     "errors": [],
     "passed": true
   },
@@ -135,7 +135,7 @@
       "/assets/images/ecuador/tena-forest-jay.jpg",
       "/assets/images/ecuador/yasuni-leaf-frog-gallice.jpg"
     ],
-    "sha256": "fb3fd1d32cc42d436f63671e74fbe5b574b1eacc7be497aa9a83cb901d8095d5",
+    "sha256": "6fdf1551898fd1a77fa4b56a8d708f727333f76b110ff7ec5574224f570852ef",
     "errors": [],
     "passed": true
   },
@@ -164,6 +164,62 @@
       "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg"
     ],
     "sha256": "dde7411e9bdf86d2f34e77e41583a400a8fa95815267c0adc2d2bf4c86bd4aee",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/private-amazon-tour": {
+    "pair_id": "pair_014",
+    "language": "en",
+    "main_words": 1601,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/napo-forest-grzywa.jpg",
+      "/assets/images/ecuador/puyo-river.jpg",
+      "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
+    ],
+    "sha256": "0764b80f32748a48760dcb689f2cc5c509ff86a4e7dec8039c169b3a7cdb9d8c",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/tour-privado-a-la-amazonia": {
+    "pair_id": "pair_014",
+    "language": "es",
+    "main_words": 1511,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/napo-forest-grzywa.jpg",
+      "/assets/images/ecuador/puyo-river.jpg",
+      "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
+    ],
+    "sha256": "65f8b9fc4dcff73ac880b8eb31b8553b2f02ba76c2be967b620e54f532b99de3",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/family-amazon-tour": {
+    "pair_id": "pair_015",
+    "language": "en",
+    "main_words": 1544,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/cuyabeno-lagoon-new.jpg",
+      "/assets/images/ecuador/tena-river-faessler.jpg",
+      "/assets/images/ecuador/puyo-city.jpg"
+    ],
+    "sha256": "e80ef14563eab5974fed1734310cbb3bbdd637726cbdef593928852b6a7fdef8",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/tour-familiar-a-la-amazonia": {
+    "pair_id": "pair_015",
+    "language": "es",
+    "main_words": 1506,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/cuyabeno-lagoon-new.jpg",
+      "/assets/images/ecuador/tena-river-faessler.jpg",
+      "/assets/images/ecuador/puyo-city.jpg"
+    ],
+    "sha256": "6f929087c2ab06eb745e2cd6bb4eb76f72fdb63f160f699959e4d33bb51e2672",
     "errors": [],
     "passed": true
   }

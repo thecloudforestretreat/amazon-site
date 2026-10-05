@@ -1,0 +1,16 @@
+{
+  "job": "family-format",
+  "model": "qwen3.5:9b",
+  "status": "editorially_reviewed_deployed_visual_review_pending",
+  "review_flags": [],
+  "seconds": 69.05,
+  "prompt_eval_count": 472,
+  "eval_count": 1708,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false,
+  "deployment": "599b1557",
+  "promotion": "Reviewed bilingual source only; substantial intro rewrites and targeted question corrections",
+  "raw_draft_sha256": "3bea855dcf2679d8fb7ae09f8ee6ec0396911d949629d7eaf3bef4a2ee3a7ae3",
+  "reviewed_sha256": "d2f9990df3f3033f4d98f0ce77bdd72e29fcb55330957a87c39dfc667ef42407",
+  "visual_review": "Browser policy refused access; pending"
+}

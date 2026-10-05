@@ -1,0 +1,56 @@
+[
+  {
+    "heading": "Define cada servicio privado",
+    "intro": "Empieza por los servicios que quieres para tu grupo: un guía dedicado, una salida o un traslado. Pide que el proveedor los detalle por separado. Las instalaciones y los espacios públicos pueden seguir compartiéndose. Una definición precisa permite comparar atención y acuerdos sin interpretar la etiqueta privada como uso exclusivo de todo el destino.",
+    "points": [
+      "¿Mi guía y grupo de actividades son estrictamente privados o compartiré el tiempo con otros viajeros?",
+      "¿Qué espacios públicos e instalaciones se comparten aunque los servicios contratados sean privados?",
+      "¿Dónde empiezan los servicios incluidos y qué recorridos anteriores o posteriores organizamos aparte?"
+    ]
+  },
+  {
+    "heading": "Confirma los acuerdos del guía",
+    "intro": "Pregunta cómo se organiza el tiempo del guía durante la estancia y cada actividad. Explica intereses e idioma y compara experiencia y grupos. Confirma si acompaña a tu grupo en las salidas acordadas y cómo gestiona los cambios. Los guías privados necesitan un alcance claro, además de una descripción general de atención personal.",
+    "points": [
+      "¿Liderará mi guía solo a nuestro grupo o dividirá el tiempo con otros visitantes durante el viaje?",
+      "¿Qué salidas son solo para nuestro grupo y cuáles incluyen a otros viajeros?",
+      "¿Podemos ajustar las horas de actividad más allá de los días estándar del paquete ofrecido?"
+    ]
+  },
+  {
+    "heading": "Revisa los límites del traslado",
+    "intro": "Revisa el recorrido completo desde tu salida hasta el alojamiento y la llegada final de regreso. Marca cada tramo privado, compartido y organizado aparte. Compara encuentros, equipaje y pagos adicionales. Un traslado dedicado en una parte del viaje no confirma que el resto sea privado ni que esté incluido en la misma reserva.",
+    "points": [
+      "¿El precio cotizado cubre el traslado por carretera a la base del Napo o solo viajes locales en bote?",
+      "¿Está incluido el traslado final desde la reserva hasta la ciudad o debo reservarlo por separado?",
+      "¿Qué encuentros y acuerdos de llegada corresponden a cada tramo confirmado?"
+    ]
+  },
+  {
+    "heading": "Acuerda ritmo e intereses",
+    "intro": "Explica el ritmo y los intereses de tu grupo antes de aceptar el programa. Pregunta qué ajustes puede confirmar el proveedor en el alojamiento concreto y cuáles necesitan acuerdo previo. Más tiempo para observar, una caminata corta u omitir una actividad pueden cambiar guías y transporte. Conserva las opciones acordadas, sin suponer que todo cambia durante la estancia.",
+    "points": [
+      "¿Podemos ajustar el ritmo diario para coincidir con mi interés en la observación de aves sin prisa?",
+      "¿Qué opciones confirmas si alguien omite una salida y quién le acompaña?",
+      "¿Qué ajustes requieren otro guía, transporte aparte o pago adicional?"
+    ]
+  },
+  {
+    "heading": "Comprueba qué se comparte",
+    "intro": "La ubicación y los guías responden a preguntas distintas. Confirma alojamiento exacto, habitaciones, comedor y espacios compartidos aunque las actividades sean privadas. Lee la guía regional junto con la propuesta. Si hay una visita a anfitriones, confirma invitación y acuerdos; reservar en privado no establece acceso a la casa o comunidad de otras personas.",
+    "points": [
+      "¿El lodge está dentro de los límites del parque nacional o en un área comunitaria cercana?",
+      "¿Se comparten salas de comedor y baños con otros huéspedes a pesar de tener guía privado asignado?",
+      "Si se ofrece una visita a anfitriones, ¿está acordada por invitación para este programa?"
+    ]
+  },
+  {
+    "heading": "Conserva una propuesta escrita",
+    "intro": "Reúne servicios privados y compartidos en una cotización para las mismas fechas y grupo. Identifica noches, habitaciones, comidas, equipo, transporte y exclusiones. Pregunta quién opera la estancia y gestiona cambios. Guarda los ajustes acordados con el itinerario final para que la propuesta escrita refleje los servicios comparados y el propósito de tu reserva privada.",
+    "points": [
+      "¿Puedes proporcionar una cotización escrita especificando exactamente qué actividades están incluidas versus extras opcionales?",
+      "¿Cuál es la política para modificar el itinerario si el clima o los intereses cambian durante nuestra estancia?",
+      "¿Qué fechas, noches de alojamiento y límites de servicios incluye esta cotización?"
+    ]
+  }
+]

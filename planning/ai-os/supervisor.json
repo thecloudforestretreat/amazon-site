@@ -24,7 +24,9 @@
     "pair_010",
     "pair_011",
     "pair_012",
-    "pair_013"
+    "pair_013",
+    "pair_014",
+    "pair_015"
   ],
   "completion_requires": [
     "Editorial and bilingual review",
@@ -54,19 +56,19 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Prepare private and family guide pair batch",
-    "Retry desktop/mobile review after browser policy verification is restored",
-    "Full accessibility, measured performance and contact delivery remain pending"
+    "Owner review of private/family EN/ES previews",
+    "Live desktop/mobile checks after browser policy verification is restored",
+    "Full accessibility, performance and contact delivery remain pending"
   ],
   "future_batches": [
-    "Private Amazon + family Amazon guides, two EN/ES pairs"
+    "Next two sitemap pairs after owner review: amazon-birdwatching-tour, amazon-wildlife-tour"
   ],
   "notification_policy": "Meaningful change, verified completion, failure or required user action only",
   "pilot_status": "deployed_initial_browser_checks_pass_full_qa_pending",
   "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
   "next_batch_candidates": [
-    "private-amazon-tour",
-    "family-amazon-tour"
+    "amazon-birdwatching-tour",
+    "amazon-wildlife-tour"
   ],
   "local_worker_run_complete": true,
   "git_status": "Committed locally; remote push blocked by automatic approval review",
@@ -76,10 +78,10 @@
     "scope": "Owner explicitly authorized staging release and proceeding on October 5; pending visual checks stay recorded"
   },
   "deployment": {
-    "id": "2c945762",
+    "id": "599b1557",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://2c945762.amazon-site-staging.pages.dev",
+    "url": "https://599b1557.amazon-site-staging.pages.dev",
     "protected_domain_check": "302 Cloudflare Access login",
     "date": "2026-10-05"
   },
@@ -103,21 +105,22 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "four-day-format",
-    "five-day-format"
+    "private-format",
+    "family-format"
   ],
-  "batch_status": "deployed_technical_pass_visual_pending",
+  "batch_status": "deployed_technical_and_asset_review_pass_live_visual_pending",
   "batch_browser_checks": {
     "date": "2026-10-05",
-    "deployment": "2c945762",
+    "deployment": "599b1557",
     "pairs": [
-      "pair_012",
-      "pair_013"
+      "pair_014",
+      "pair_015"
     ],
     "status": "pending",
-    "reason": "Browser admin-enforced policy verification unavailable",
-    "owner_release_authorization": "Push them to staging like the rest and proceed",
-    "technical_validation": "32 compiled pages and 12 hub/format audits pass",
+    "reason": "Browser policy check unavailable",
+    "technical_validation": "36 HTML pages and 16 hub/format page audits pass",
+    "photo_asset_visual_review": "Six scenes inspected; three newly acquired rights-documented Commons photos",
+    "rotation_check": "No images from previous two batches; no duplicate scene/source/file within this batch",
     "protected_domain_unauthenticated_status": 302
   },
   "template": {

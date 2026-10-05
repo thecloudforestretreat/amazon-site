@@ -1,0 +1,114 @@
+{
+  "en": [
+    {
+      "heading": "Private Service Definition",
+      "intro": "Clarify exactly which services are private versus shared. Ask if your guide and activity group are exclusive to you or mixed with others. Confirm transport boundaries clearly.",
+      "points": [
+        "Is my guide and activity group strictly private, or will I share them with other travelers?",
+        "Does the private service include exclusive access to public reserve areas or just a dedicated vehicle?",
+        "Are all transfers from Quito included, or do I need to arrange separate pickup at the airport?"
+      ]
+    },
+    {
+      "heading": "Guide and Activity Group",
+      "intro": "Determine if your guide leads only your party or joins larger groups. Verify which activities are truly private versus those shared with others.",
+      "points": [
+        "Will my guide lead only our group, or will they split time with other visitors during the trip?",
+        "Are canoe trips and wildlife walks conducted exclusively for us, or do we join public boat schedules?",
+        "Can we customize activity hours beyond the standard package days offered by the provider?"
+      ]
+    },
+    {
+      "heading": "Transport Boundaries",
+      "intro": "Define where transport ends and begins. Ask if road transfers to Tena or Misahualli are included, noting that airport pickups may vary.",
+      "points": [
+        "Does the quoted price cover the road transfer to the Napo base, or only local boat trips?",
+        "Is the final transfer from the reserve to the city included, or must I book it separately?",
+        "Are there specific pickup times required at the airport that differ from standard hotel departures?"
+      ]
+    },
+    {
+      "heading": "Pace and Interests",
+      "intro": "Discuss your preferred pace and specific interests. Ask how the itinerary adapts to your energy levels without assuming a fixed schedule.",
+      "points": [
+        "Can we adjust the daily pace to match my interest in birding rather than rushing through sites?",
+        "Is there flexibility to skip certain activities if I prefer resting or exploring independently?",
+        "Does the plan allow extra time for botanical visits in Puyo without extending the total trip duration?"
+      ]
+    },
+    {
+      "heading": "Property and Shared Facilities",
+      "intro": "Identify the exact property location and shared facilities. Confirm if dining halls or bathrooms are communal even with a private guide.",
+      "points": [
+        "Is the lodge located inside the national park boundaries, or is it in a nearby community area?",
+        "Are dining rooms and bathrooms shared with other guests despite having a private guide assigned?",
+        "Does the property offer hosted visits to local communities that require prior invitation from authorities?"
+      ]
+    },
+    {
+      "heading": "Written Quote and Changes",
+      "intro": "Request a written quote detailing all inclusions. Ask about policies for changes, noting that package days do not automatically count as nights.",
+      "points": [
+        "Can you provide a written quote specifying exactly which activities are included versus optional extras?",
+        "What is the policy for modifying the itinerary if weather or interest shifts during our stay?",
+        "Do the number of package days automatically guarantee the same number of nights at the property?"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "heading": "Definición de Servicios Privados",
+      "intro": "Aclara exactamente qué servicios son privados y cuáles compartidos. Pregunta si tu guía y grupo son exclusivos o mezclados con otros.",
+      "points": [
+        "¿Mi guía y grupo de actividades son estrictamente privados o compartiré el tiempo con otros viajeros?",
+        "¿El servicio privado incluye acceso exclusivo a áreas de reserva pública o solo un vehículo dedicado?",
+        "¿Están incluidos todos los traslados desde Quito o debo organizar la recogida en el aeropuerto por separado?"
+      ]
+    },
+    {
+      "heading": "Guía y Grupo de Actividades",
+      "intro": "Determina si tu guía lidera solo a tu grupo o se une a grupos mayores. Verifica qué actividades son realmente privadas.",
+      "points": [
+        "¿Liderará mi guía solo a nuestro grupo o dividirá el tiempo con otros visitantes durante el viaje?",
+        "¿Se realizan las salidas en canoa y caminatas de fauna exclusivamente para nosotros o unimos horarios públicos?",
+        "¿Podemos ajustar las horas de actividad más allá de los días estándar del paquete ofrecido?"
+      ]
+    },
+    {
+      "heading": "Límites del Transporte",
+      "intro": "Define dónde termina y comienza el transporte. Pregunta si los traslados por carretera a Tena o Misahualli están incluidos.",
+      "points": [
+        "¿El precio cotizado cubre el traslado por carretera a la base del Napo o solo viajes locales en bote?",
+        "¿Está incluido el traslado final desde la reserva hasta la ciudad o debo reservarlo por separado?",
+        "¿Existen horarios de recogida específicos en el aeropuerto que difieren de las salidas estándar del hotel?"
+      ]
+    },
+    {
+      "heading": "Ritmo e Intereses",
+      "intro": "Discute tu ritmo preferido e intereses específicos. Pregunta cómo se adapta el itinerario a tu energía sin asumir un horario fijo.",
+      "points": [
+        "¿Podemos ajustar el ritmo diario para coincidir con mi interés en la observación de aves sin prisa?",
+        "¿Hay flexibilidad para saltar ciertas actividades si prefiero descansar o explorar por mi cuenta?",
+        "¿El plan permite tiempo extra para visitas botánicas en Puyo sin extender la duración total del viaje?"
+      ]
+    },
+    {
+      "heading": "Propiedad e Instalaciones Compartidas",
+      "intro": "Identifica la ubicación exacta de la propiedad y las instalaciones compartidas. Confirma si comedores o baños son comunales.",
+      "points": [
+        "¿El lodge está dentro de los límites del parque nacional o en un área comunitaria cercana?",
+        "¿Se comparten salas de comedor y baños con otros huéspedes a pesar de tener guía privado asignado?",
+        "¿La propiedad ofrece visitas guiadas a comunidades locales que requieren invitación previa de las autoridades?"
+      ]
+    },
+    {
+      "heading": "Cotización Escrita y Cambios",
+      "intro": "Solicita una cotización escrita detallando todos los incluidos. Pregunta sobre políticas de cambios, notando que días no son noches.",
+      "points": [
+        "¿Puedes proporcionar una cotización escrita especificando exactamente qué actividades están incluidas versus extras opcionales?",
+        "¿Cuál es la política para modificar el itinerario si el clima o los intereses cambian durante nuestra estancia?",
+        "¿Los días del paquete garantizan automáticamente el mismo número de noches en la propiedad?"
+      ]
+    }
+  ]
+}

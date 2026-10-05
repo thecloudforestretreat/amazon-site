@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-05",
+  "pairs": [
+    "pair_014",
+    "pair_015"
+  ],
+  "deployment": "599b1557",
+  "links": {
+    "private_en": "https://staging.experiencetheamazon.com/ecuador/private-amazon-tour/?review=599b1557",
+    "private_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-privado-a-la-amazonia/?review=599b1557",
+    "family_en": "https://staging.experiencetheamazon.com/ecuador/family-amazon-tour/?review=599b1557",
+    "family_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-familiar-a-la-amazonia/?review=599b1557"
+  },
+  "status": "Deployed, technical/individual-photo checks pass; live visual pending",
+  "usage": {
+    "requests": 2,
+    "prompt_tokens": 941,
+    "output_tokens": 3255,
+    "seconds": 136.87,
+    "cache_hits": 0,
+    "inference_retries": 0,
+    "cloud_worker_tokens": 0
+  },
+  "media": "evidence/traveler-images.json; evidence/traveler-image-rotation-qa.json; evidence/traveler-image-acquisition.json",
+  "rollback": {
+    "previous_deployment": "2c945762",
+    "previous_commit": "d924e60",
+    "branch": "staging",
+    "production_modified": false
+  },
+  "next": "Owner preview review; then amazon-birdwatching-tour, amazon-wildlife-tour",
+  "content_sha256": "030fac0469769e1a08f650578d53b34064feb735d64ed7a5b59caf115eac0402",
+  "config_sha256": "40e08091aa5f8113f9a9ae5b8128c64ee66a906494320e93f8d790875b8abc2b"
+}

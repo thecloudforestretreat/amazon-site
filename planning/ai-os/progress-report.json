@@ -1,9 +1,9 @@
 {
   "date": "2026-10-05",
-  "status": "Four-day and five-day pairs deployed with owner authorization; technical QA passed; live visual review pending",
+  "status": "Private/family EN/ES deployed; technical and individual photo review passed; live visual pending",
   "active_batch": [
-    "pair_012",
-    "pair_013"
+    "pair_014",
+    "pair_015"
   ],
   "staging_polished_pairs": [
     "pair_003",
@@ -21,23 +21,23 @@
     "site_polished_in_this_workflow": 7,
     "site_baseline_pairs": 40,
     "site_polished_workflow_percent": 17.5,
-    "site_built_including_scaffolds": 16,
-    "site_built_including_scaffolds_percent": 40,
+    "site_built_including_scaffolds": 18,
+    "site_built_including_scaffolds_percent": 45,
     "final_eight_country_completion_percent": null,
     "reason": "Current 40-pair baseline lacks complete Guyana/Suriname/Venezuela architectures; scaffold count is not launch completion",
-    "ecuador_content_prepared_pairs": 11,
-    "ecuador_content_prepared_percent": 32.4,
-    "ecuador_visual_review_pending_pairs": 4,
-    "ecuador_content_deployed_pairs": 11,
-    "ecuador_content_deployed_percent": 32.4,
-    "site_built_locally_including_scaffolds": 16,
-    "site_built_locally_including_scaffolds_percent": 40
+    "ecuador_content_prepared_pairs": 13,
+    "ecuador_content_prepared_percent": 38.2,
+    "ecuador_visual_review_pending_pairs": 6,
+    "ecuador_content_deployed_pairs": 13,
+    "ecuador_content_deployed_percent": 38.2,
+    "site_built_locally_including_scaffolds": 18,
+    "site_built_locally_including_scaffolds_percent": 45
   },
   "local_usage_this_batch": {
     "requests": 2,
-    "prompt_tokens": 907,
-    "output_tokens": 3360,
-    "seconds": 144.79,
+    "prompt_tokens": 941,
+    "output_tokens": 3255,
+    "seconds": 136.87,
     "cache_hits": 0,
     "inference_retries": 0,
     "cloud_worker_tokens": 0
@@ -49,26 +49,27 @@
     "overall_local_token_percent": null,
     "overall_cloud_token_percent": null,
     "cloud_supervision_tokens": "Not exposed by this session",
-    "editorial_note": "100% local initial bounded draft calls only. Both drafts required substantial cloud-supervisor rewriting, implementation and QA. Overall token/work share unavailable."
+    "editorial_note": "100% of two initial bounded draft calls ran locally. Cloud supervisor substantially rewrote intros and corrected questions, built pages, acquired/reviewed photos, ran checks and deployed. Overall token/work share unavailable."
   },
   "measured_local_cumulative": {
-    "requests": 14,
-    "prompt_tokens": 13131,
-    "output_tokens": 46193,
-    "total_tokens": 59324,
-    "basis": "Saved prior 12-request aggregate plus two duration draft records; cache resumes excluded",
+    "requests": 16,
+    "prompt_tokens": 14072,
+    "output_tokens": 49448,
+    "total_tokens": 63520,
+    "basis": "Saved prior 14-request aggregate plus private/family two-call records",
     "cloud_supervision_excluded": true
   },
   "opportunities_and_improvements": [
-    "Current qwen3.5:9b duration drafts still require substantial bilingual rewrite; revised prompt has not solved editorial reliability",
-    "Four-day draft confused nights with days and five-day copy presumed flexibility: corrected reviewed source; raw drafts preserved",
-    "Reviewed JSON and deterministic duration builder now retained in repo for reproducible source generation, without model calls or deployment",
-    "Technical gates expanded to four new local pages; release waits for visual verification"
+    "Owner reported repetitive imagery: acquired three new geographic CC photos, rotated three less-used images, added batch/recent-use and source/file-duplicate gates with negative regressions",
+    "Original Commons downloads rate-limited twice; acquired source-page web-sized variants with license/source proof retained; no permission or security bypass",
+    "Local model voice implied an operating team and unspecified facilities; revised both intros and targeted questions to provider-specific arrangements",
+    "Observed four-day comparison CTA linked to itself: corrected EN/ES and deterministic builder",
+    "Expanded Ecuador hub with six balanced format-guide links so the new guides can be found"
   ],
   "verification": {
-    "static": "32 locally compiled HTML pages and 12 hub/format page audits pass; regression tests pass",
-    "visual": "Four locally prepared new pages and four prior deployed pages need current desktop/mobile review; browser admin-policy check unavailable",
-    "photos": "Three distinct existing rights-documented regional photos per new page; placements saved in format-images.json",
+    "static": "36 compiled pages, 16 hub/format audits, draft review regression tests and image rotation checks pass",
+    "visual": "New asset files inspected; live desktop/mobile check blocked by browser policy verification",
+    "photos": "Six different scenes; three new Commons acquisitions, three less-used existing regional photos; zero overlap with last two batches",
     "protected_domain_unauthenticated_status": 302,
     "launch_checks_pending": [
       "Full accessibility",
@@ -77,19 +78,19 @@
     ]
   },
   "rollback": {
-    "previous_deployment": "2893a4d3",
-    "previous_commit": "ed9ec13",
+    "previous_deployment": "2c945762",
+    "previous_commit": "d924e60",
     "branch": "staging",
     "production_modified": false
   },
-  "next": "Private and family guides; visual review remains pending until browser policy verification is available",
+  "next": "Owner preview review; then amazon-birdwatching-tour, amazon-wildlife-tour",
   "other_countries": "Peru, Brazil, Colombia, Bolivia, Guyana, Suriname and Venezuela: no polished country clusters in this workflow",
-  "deployment": "2c945762",
+  "deployment": "599b1557",
   "preview_links": {
-    "four_day_en": "https://staging.experiencetheamazon.com/ecuador/4-day-amazon-tour/?review=2c945762",
-    "four_day_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-de-4-dias-en-la-amazonia/?review=2c945762",
-    "five_day_en": "https://staging.experiencetheamazon.com/ecuador/5-day-amazon-tour/?review=2c945762",
-    "five_day_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-de-5-dias-en-la-amazonia/?review=2c945762"
+    "private_en": "https://staging.experiencetheamazon.com/ecuador/private-amazon-tour/?review=599b1557",
+    "private_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-privado-a-la-amazonia/?review=599b1557",
+    "family_en": "https://staging.experiencetheamazon.com/ecuador/family-amazon-tour/?review=599b1557",
+    "family_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-familiar-a-la-amazonia/?review=599b1557"
   },
   "prepared_not_deployed_pairs": []
 }
