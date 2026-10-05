@@ -13,7 +13,7 @@ Last updated: 2026-10-04
 | Final eight-country sitemap | In progress | Baseline pending 3 missing country architectures |
 | Analytics foundation | Configured | GTM and GA4 IDs installed; production validation pending launch |
 | Lead capture | In progress | UI built; Brevo endpoint and email routing pending |
-| Rights-cleared image library | In progress | 1 approved, documented asset published; remaining placements use placeholders |
+| Rights-cleared image library | In progress | 3 documented assets published across 6 bilingual page URLs; remaining placements use placeholders |
 
 The 30% figure applies only to the current 40-pair CSV. It is not the final full-site percentage because Guyana, Suriname and Venezuela still need complete page architectures added to the sitemap.
 

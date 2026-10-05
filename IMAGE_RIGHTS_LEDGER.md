@@ -4,6 +4,8 @@ This ledger is required for every published image. A search result or an image a
 
 | Asset | Location shown | Creator | Source page | License | Downloaded | Attribution used | Site placements | Verification |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `home-amazon-river-hero.jpg` | Amazon rainforest aerial | Existing Experience The Amazon asset | https://experiencetheamazon.com/assets/eta_park_page_03.jpg | Site-owner-authorized reuse; original provenance to retain in records | 2026-10-05 | Not required on page | `/`, `/es/` | User explicitly requested reuse of the current landing-page image |
+| `cuyabeno-lagoon-masha-buschujewa.jpg` | Cuyabeno, Ecuador | Masha Buschujewa | https://unsplash.com/photos/green-trees-on-lake-during-daytime-_9UQKWOY0No | Unsplash License | 2026-10-05 | Photo: Masha Buschujewa / Unsplash | `/ecuador/cuyabeno/`, `/es/ecuador/cuyabeno/` | Source page identifies Cuyabeno and states free use under the Unsplash License |
 | `tena-canopy-patricio-gaibor.jpg` | Tena, Ecuador | Patricio Gaibor | https://unsplash.com/photos/looking-up-at-trees-and-blue-sky-edqQ9GZBEWM | Unsplash License | 2026-10-04 | Photo: Patricio Gaibor / Unsplash | `/ecuador/tena/`, `/es/ecuador/tena/` | Source page identifies Tena and states free use under the Unsplash License |
 
 ## Approved acquisition sources

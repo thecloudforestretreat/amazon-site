@@ -44,6 +44,10 @@
   {
     "pairId": "pair_005",
     "slug": "cuyabeno",
+    "image": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg",
+    "imageCredit": "Photo: Masha Buschujewa / Unsplash",
+    "imageAltEn": "Flooded forest reflected in a lagoon in Cuyabeno, Ecuador",
+    "imageAltEs": "Bosque inundado reflejado en una laguna de Cuyabeno, Ecuador",
     "en": {
       "name": "Cuyabeno",
       "title": "Cuyabeno Wildlife and Lodge Guide | Ecuador Amazon",
