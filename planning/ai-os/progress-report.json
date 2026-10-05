@@ -1,9 +1,9 @@
 {
   "date": "2026-10-05",
-  "status": "Deployed to protected staging; editorial, technical and initial bilingual desktop/mobile review passed; owner review pending",
+  "status": "Four new pages deployed; editorial and technical review passed; desktop/mobile review blocked by browser policy",
   "active_batch": [
-    "pair_003",
-    "pair_009"
+    "pair_010",
+    "pair_011"
   ],
   "staging_polished_pairs": [
     "pair_003",
@@ -21,16 +21,19 @@
     "site_polished_in_this_workflow": 7,
     "site_baseline_pairs": 40,
     "site_polished_workflow_percent": 17.5,
-    "site_built_including_scaffolds": 12,
-    "site_built_including_scaffolds_percent": 30,
+    "site_built_including_scaffolds": 14,
+    "site_built_including_scaffolds_percent": 35,
     "final_eight_country_completion_percent": null,
-    "reason": "Current 40-pair baseline lacks complete Guyana/Suriname/Venezuela architectures; scaffold count is not launch completion"
+    "reason": "Current 40-pair baseline lacks complete Guyana/Suriname/Venezuela architectures; scaffold count is not launch completion",
+    "ecuador_content_prepared_pairs": 9,
+    "ecuador_content_prepared_percent": 26.5,
+    "ecuador_visual_review_pending_pairs": 2
   },
   "local_usage_this_batch": {
     "requests": 2,
-    "prompt_tokens": 524,
-    "output_tokens": 3139,
-    "seconds": 135.4,
+    "prompt_tokens": 725,
+    "output_tokens": 3578,
+    "seconds": 149.07,
     "cache_hits": 0,
     "inference_retries": 0,
     "cloud_worker_tokens": 0
@@ -42,48 +45,47 @@
     "overall_local_token_percent": null,
     "overall_cloud_token_percent": null,
     "cloud_supervision_tokens": "Not exposed by this session",
-    "editorial_note": "Cloud supervisor substantially rewrote overview cards and Spanish; retained useful lodge questions, implemented layout, performed QA and deployed. Draft-call split does not represent total content authorship, total work or cost."
+    "editorial_note": "100% local initial bounded draft calls only. Both drafts required substantial cloud-supervisor rewriting, implementation and QA. Overall token/work share unavailable."
   },
   "measured_local_cumulative": {
-    "requests": 10,
-    "prompt_tokens": 11499,
-    "output_tokens": 39255,
-    "total_tokens": 50754,
-    "basis": "Saved pilot 4-request aggregate plus 6 subsequent status records; cache resumes not counted as new inference",
+    "requests": 12,
+    "prompt_tokens": 12224,
+    "output_tokens": 42833,
+    "total_tokens": 55057,
+    "basis": "Saved prior 10-request aggregate plus two format status records; cache resumes excluded",
     "cloud_supervision_excluded": true
   },
   "opportunities_and_improvements": [
-    "Small model added community assumptions and literal Spanish: retained raw/reviewed hashes, substantial editorial correction, tightened future hub prompt; no inference retry to repair prose",
-    "Observed hub CSS collision: preserved homepage styles and moved Ecuador rules to scoped ecuador-hubs.css",
-    "Observed sticky anchor clipping: added desktop/mobile section offsets",
-    "Observed dark forest heading contrast: explicit cream/gold heading colors",
-    "FAQ schema mismatch in old scaffold: compiler-source audit now enforces six matching visible/schema FAQs",
-    "Regional comparison table replaced with six responsive cards; overview destination grid balanced with lodge-guide link"
+    "Local model invented flight examples and timing and used colonial/unsafe framing: rewrote both language drafts; retained raw and reviewed hashes",
+    "Added regression-tested bilingual review flags for observed transport, timing, framing, river-advice and group-safety failures; flags do not replace editorial review",
+    "Tightened future format prompt; effectiveness of new prompt not yet measured",
+    "Extended existing metadata, media, FAQ and fragment gates to both new pairs",
+    "Added two balanced format-guide cards to the Ecuador hubs so new pages are discoverable"
   ],
   "verification": {
-    "static": "24 compiled HTML pages and four hub-specific audits pass",
-    "visual": "EN/ES at 1117 and 390 pixels: no page overflow; 24px/20px hero corners; labels aligned; images loaded; sticky header and FAQ interaction checked",
-    "photos": "Three distinct, geographically credited photos per page",
+    "static": "28 compiled HTML pages, eight hub/format page audits and six workflow regression tests pass",
+    "visual": "New four pages pending; existing template retained; browser refused access because admin-enforced policy unavailable",
+    "photos": "Three distinct existing rights-documented regional photos per new page; placements saved in format-images.json",
+    "protected_domain_unauthenticated_status": 302,
     "launch_checks_pending": [
       "Full accessibility",
       "Measured performance",
       "Contact delivery endpoint"
-    ],
-    "protected_domain_unauthenticated_status": 302
+    ]
   },
   "rollback": {
-    "previous_deployment": "056051a4",
-    "previous_commit": "84dbc32",
+    "previous_deployment": "25124070",
+    "previous_commit": "10d827b",
     "branch": "staging",
     "production_modified": false
   },
-  "next": "Owner review, then consider Tours from Quito + 3-day Amazon guide",
+  "next": "Browser policy recovery, desktop/mobile review and owner review before another batch",
   "other_countries": "Peru, Brazil, Colombia, Bolivia, Guyana, Suriname and Venezuela: no polished country clusters in this workflow",
-  "deployment": "25124070",
+  "deployment": "2893a4d3",
   "preview_links": {
-    "overview_en": "https://staging.experiencetheamazon.com/ecuador/?review=25124070",
-    "overview_es": "https://staging.experiencetheamazon.com/es/ecuador/?review=25124070",
-    "lodges_en": "https://staging.experiencetheamazon.com/ecuador/amazon-lodges/?review=25124070",
-    "lodges_es": "https://staging.experiencetheamazon.com/es/ecuador/lodges-en-la-amazonia/?review=25124070"
+    "quito_en": "https://staging.experiencetheamazon.com/ecuador/amazon-tours-from-quito/?review=2893a4d3",
+    "quito_es": "https://staging.experiencetheamazon.com/es/ecuador/tours-a-la-amazonia-desde-quito/?review=2893a4d3",
+    "three_day_en": "https://staging.experiencetheamazon.com/ecuador/3-day-amazon-tour/?review=2893a4d3",
+    "three_day_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-de-3-dias-en-la-amazonia/?review=2893a4d3"
   }
 }

@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-05",
+  "pairs": [
+    "pair_010",
+    "pair_011"
+  ],
+  "scope": "Quito departure comparison + illustrative 3-day planning guide, English/Spanish",
+  "facts": "Reused reviewed Ecuador regional evidence; no live products, airport names, fixed transport times, prices or species promises",
+  "media": "Existing cleared geographic photos; three unique scenes per page",
+  "rollback": {
+    "previous_deployment": "25124070",
+    "previous_commit": "10d827b",
+    "branch": "staging",
+    "production_modified": false
+  },
+  "local_usage": {
+    "requests": 2,
+    "prompt_tokens": 725,
+    "output_tokens": 3578,
+    "seconds": 149.07,
+    "cache_hits": 0,
+    "inference_retries": 0,
+    "cloud_worker_tokens": 0
+  },
+  "checkpoint": "Deployed to protected staging; static QA passed; live visual review blocked; do not report full completion",
+  "links": {
+    "quito_en": "https://staging.experiencetheamazon.com/ecuador/amazon-tours-from-quito/?review=2893a4d3",
+    "quito_es": "https://staging.experiencetheamazon.com/es/ecuador/tours-a-la-amazonia-desde-quito/?review=2893a4d3",
+    "three_day_en": "https://staging.experiencetheamazon.com/ecuador/3-day-amazon-tour/?review=2893a4d3",
+    "three_day_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-de-3-dias-en-la-amazonia/?review=2893a4d3"
+  }
+}

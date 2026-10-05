@@ -1,0 +1,12 @@
+"""Flag observed local-draft failures; passing never grants editorial approval."""
+import json,re
+PATTERNS={
+ 'invented_transport':r'flight to Tena|flight from Tena|flight from.*Puyo|vuelo a Tena|vuelo de regreso desde Tena|Sim[oó]n Bol[ií]var',
+ 'unsupported_timing':r'6 to 8 hours|6 y 8 horas',
+ 'colonial_framing':r'back to civilization|volver a la civilizaci[oó]n',
+ 'unsafe_river_advice':r'test the water temperature|probar la temperatura del agua',
+ 'unsupported_group_safety':r'large group for safety|grupo grande por seguridad',
+}
+def flags(draft):
+ text=json.dumps(draft,ensure_ascii=False)
+ return [name for name,pattern in PATTERNS.items() if re.search(pattern,text,re.I)]

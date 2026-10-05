@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-05",
+  "photos": {
+    "quito-format": [
+      {
+        "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg",
+        "width": 1800,
+        "height": 2689,
+        "altEn": "Rainforest canopy viewed from below in Tena, Ecuador",
+        "altEs": "Dosel del bosque visto desde abajo en Tena, Ecuador",
+        "credit": "Patricio Gaibor / Unsplash",
+        "source": "https://unsplash.com/photos/looking-up-at-trees-and-blue-sky-edqQ9GZBEWM",
+        "license": "",
+        "licenseUrl": ""
+      },
+      {
+        "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg",
+        "width": 1800,
+        "height": 1497,
+        "altEn": "Flooded forest reflected in a lagoon in Cuyabeno, Ecuador",
+        "altEs": "Bosque inundado reflejado en una laguna de Cuyabeno, Ecuador",
+        "credit": "Masha Buschujewa / Unsplash",
+        "source": "https://unsplash.com/photos/green-trees-on-lake-during-daytime-_9UQKWOY0No",
+        "license": "",
+        "licenseUrl": ""
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-leaf-frog-gallice.jpg",
+        "width": 1400,
+        "height": 933,
+        "altEn": "White-lined leaf frog photographed in Yasuní National Park",
+        "altEs": "Rana de hoja fotografiada en el Parque Nacional Yasuní",
+        "source": "https://commons.wikimedia.org/wiki/File:Phyllomedusa_vaillantii_(Yasuni).jpg",
+        "credit": "Geoff Gallice",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "section": 4
+      }
+    ],
+    "three-day-format": [
+      {
+        "src": "/assets/images/ecuador/tena-forest-jay.jpg",
+        "width": 1400,
+        "height": 933,
+        "altEn": "Sunlight through rainforest trees in Tena, Ecuador",
+        "altEs": "Luz entre los árboles del bosque amazónico en Tena, Ecuador",
+        "source": "https://commons.wikimedia.org/wiki/File:Amazon_Rainforest_in_Tena,_Ecuador.jpg",
+        "credit": "Jay",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "section": 4
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
+        "width": 1400,
+        "height": 788,
+        "altEn": "Palm silhouettes at sunset on a tributary of the Yasuní River",
+        "altEs": "Siluetas de palmeras al atardecer en un afluente del río Yasuní",
+        "source": "https://commons.wikimedia.org/wiki/File:Bactris_Palm_Sunset.jpg",
+        "credit": "Lauren Whitehurst",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "section": 0
+      },
+      {
+        "section": 4,
+        "src": "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
+        "width": 1399,
+        "height": 1400,
+        "altEn": "Green tree frog photographed in Cuyabeno, Ecuador",
+        "altEs": "Rana arborícola verde fotografiada en Cuyabeno, Ecuador",
+        "source": "https://commons.wikimedia.org/wiki/File:Hypsiboas_cinerascens_in_Cuyabeno,_Ecuador.jpg",
+        "credit": "Javier Ábalos Alvarez",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+      }
+    ]
+  }
+}

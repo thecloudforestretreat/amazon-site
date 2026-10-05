@@ -1,0 +1,20 @@
+{
+  "job": "quito-format",
+  "model": "qwen3.5:9b",
+  "status": "editorially_reviewed_deployed_visual_review_blocked",
+  "seconds": 78.28,
+  "prompt_eval_count": 361,
+  "eval_count": 1821,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false,
+  "raw_review_flags": [
+    "invented_transport",
+    "unsupported_group_safety"
+  ],
+  "reviewed_flags": [],
+  "reviewed_sha256": "02a108e9202982a6d9c895bee407bdc7becc15b81367bcee80dbf27400309bed",
+  "deployment": "2893a4d3",
+  "visual_review": "Pending: browser admin-enforced policy could not be verified",
+  "promotion": "Substantial supervisor rewrite; raw local draft never published",
+  "raw_draft_sha256": "7683c9d7b20aadb4b2535d053c6948eb430d98c1ca42798002b8c18b1753524e"
+}

@@ -4,7 +4,7 @@ from pathlib import Path
 from html import unescape
 from ai_os.website.html import extract_page_signals
 root=Path(__file__).resolve().parents[2];reports={}
-for pair,en,es in [('pair_003','ecuador','es/ecuador'),('pair_009','ecuador/amazon-lodges','es/ecuador/lodges-en-la-amazonia')]:
+for pair,en,es in [('pair_003','ecuador','es/ecuador'),('pair_009','ecuador/amazon-lodges','es/ecuador/lodges-en-la-amazonia'),('pair_010','ecuador/amazon-tours-from-quito','es/ecuador/tours-a-la-amazonia-desde-quito'),('pair_011','ecuador/3-day-amazon-tour','es/ecuador/tour-de-3-dias-en-la-amazonia')]:
  for lang,route in [('en',en),('es',es)]:
   raw=(root/'dist'/route/'index.html').read_text();main=re.search(r'<main\b[^>]*>(.*?)</main>',raw,re.S)[1];signals=extract_page_signals(raw,'https://experiencetheamazon.com');errors=[]
   if 'eta-hub-page' not in re.search(r'<body[^>]*>',raw)[0] or '/assets/css/clusters/ecuador-hubs.css?v=' not in raw:errors.append('Missing scoped hub CSS or body class')

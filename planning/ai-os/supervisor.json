@@ -20,7 +20,9 @@
     "pair_006",
     "pair_007",
     "pair_008",
-    "pair_009"
+    "pair_009",
+    "pair_010",
+    "pair_011"
   ],
   "completion_requires": [
     "Editorial and bilingual review",
@@ -33,6 +35,10 @@
     {
       "code": "git_push_approval",
       "detail": "Automatic approval review rejected GitHub data egress; explicit owner approval for the staged source and workflow records is pending."
+    },
+    {
+      "code": "browser_policy",
+      "detail": "Current browser access refused because admin-enforced policy could not be verified; desktop/mobile review pending"
     }
   ],
   "source_of_truth": {
@@ -46,32 +52,27 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review of Ecuador overview and lodge-guide EN/ES",
-    "Launch accessibility, performance and contact delivery",
-    "Retain pending GitHub push authorization"
+    "Restore browser policy verification and review four new pages at desktop/mobile widths",
+    "Owner review of Quito and 3-day EN/ES pairs",
+    "Full accessibility, performance and contact delivery remain pending"
   ],
-  "future_batches": [
-    "Tours from Quito + 3-day Amazon guide, after owner review"
-  ],
+  "future_batches": [],
   "notification_policy": "Meaningful change, verified completion, failure or required user action only",
   "pilot_status": "deployed_initial_browser_checks_pass_full_qa_pending",
   "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
-  "next_batch_candidates": [
-    "amazon-tours-from-quito",
-    "3-day-amazon-tour"
-  ],
+  "next_batch_candidates": [],
   "local_worker_run_complete": true,
   "git_status": "Committed locally; remote push blocked by automatic approval review",
   "quality_hold": {
     "released_by_owner": true,
     "date": "2026-10-05",
-    "scope": "Owner authorized Ecuador overview and lodge-guide batch after Misahualli/Puyo review"
+    "scope": "Owner authorized Quito + 3-day batch after overview/lodge review; next batch awaits this batch visual review"
   },
   "deployment": {
-    "id": "25124070",
+    "id": "2893a4d3",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://25124070.amazon-site-staging.pages.dev",
+    "url": "https://2893a4d3.amazon-site-staging.pages.dev",
     "protected_domain_check": "302 Cloudflare Access login",
     "date": "2026-10-05"
   },
@@ -95,38 +96,21 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "ecuador-hub",
-    "lodge-hub"
+    "quito-format",
+    "three-day-format"
   ],
-  "batch_status": "deployed_reviewed_technical_and_initial_visual_checks_pass_owner_review_pending",
+  "batch_status": "deployed_technical_pass_browser_policy_blocked",
   "batch_browser_checks": {
     "date": "2026-10-05",
-    "deployment": "25124070",
+    "deployment": "2893a4d3",
     "pairs": [
-      "pair_003",
-      "pair_009"
+      "pair_010",
+      "pair_011"
     ],
-    "languages": [
-      "en",
-      "es"
-    ],
-    "widths": [
-      1117,
-      390
-    ],
-    "horizontal_overflow": false,
-    "hero_and_supporting_images_loaded": true,
-    "desktop_fact_labels_aligned": true,
-    "hero_corners": "24px desktop, 20px mobile",
-    "anchor_offsets": "148px desktop, 98px mobile",
-    "shared_navigation": "Sticky hamburger on mobile; sticky primary and secondary bars on desktop",
-    "faq_interaction": "passed",
-    "technical_validation": "24 pages plus four hub audits pass",
-    "protected_domain_unauthenticated_status": 302,
-    "owner_review": "pending",
-    "full_accessibility": "pending",
-    "measured_performance": "pending",
-    "contact_delivery": "endpoint absent"
+    "status": "blocked",
+    "reason": "Browser admin-enforced policy unavailable; no bypass attempted",
+    "technical_validation": "28 pages and 8 hub/format audits pass",
+    "protected_domain_unauthenticated_status": 302
   },
   "template": {
     "photos_per_page": 3,
