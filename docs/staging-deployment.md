@@ -2,12 +2,13 @@
 
 ## Cloudflare Pages
 
-Create a separate Pages project named `amazon-site-staging` connected to the repository's `staging` branch.
+The separate Pages project is named `amazon-site-staging`. It is deployed by Wrangler direct upload from the repository's `staging` branch; it is not currently connected to Git for automatic builds.
 
 - Build command: `npm run build:staging`
 - Build output: `dist`
 - Node version: 20 or later
 - Custom domain: `staging.experiencetheamazon.com`
+- Deploy command: `npx --yes wrangler@4 pages deploy dist --project-name amazon-site-staging --branch staging`
 
 The staging build produces a blocking `robots.txt`, an `X-Robots-Tag: noindex, nofollow, noarchive` header and a visible staging badge. The production analytics configuration does not load Google Tag Manager on staging.
 

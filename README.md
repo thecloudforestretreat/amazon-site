@@ -22,10 +22,11 @@ Do not deploy a production build until the operator details, privacy policy, ema
 ## Cloudflare Pages settings
 
 - Staging project: `amazon-site-staging`
-- Branch: `staging`
 - Build command: `npm run build:staging`
 - Output directory: `dist`
 - Custom domain: `staging.experiencetheamazon.com`
+- Deployment mode: Wrangler direct upload from the repository's `staging` branch
+- Deploy command: `npx --yes wrangler@4 pages deploy dist --project-name amazon-site-staging --branch staging`
 - Access: Cloudflare Access allowlist required
 
 See `docs/staging-deployment.md` for the complete release gate.
