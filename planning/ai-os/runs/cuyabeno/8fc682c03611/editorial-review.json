@@ -1,0 +1,23 @@
+{
+  "reviewer": "Codex supervisor",
+  "reviewed_at": "2026-10-05",
+  "status": "editorial_pass",
+  "checks": [
+    "Removed unsupported transport, safety, infrastructure and permit claims",
+    "Aligned section order and paragraph/FAQ counts",
+    "Corrected Spanish calques and localized headings",
+    "Separated source facts from planning advice",
+    "Confirmed image reuse evidence",
+    "Condensed Spanish without removing the planning decisions"
+  ],
+  "remaining_gates": [
+    "Technical QA",
+    "Desktop/mobile visual QA",
+    "Protected staging deployment and verification"
+  ],
+  "source_sha256": "cb6974dfac9b4851c66aebd3067409dee6a07f26078ec8698672e8ab31a37d94",
+  "reviewed_sha256": {
+    "en": "fa94caec8ce3eee73838ec5dc04fc7f74f2a965afc2152715768d62ee3daa174",
+    "es": "3e2dbe63b8e5054f719b578946a2adf14bf30a47b28bc72c7e08180d27826c92"
+  }
+}

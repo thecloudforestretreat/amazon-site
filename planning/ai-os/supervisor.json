@@ -1,0 +1,70 @@
+{
+  "project": "experience-the-amazon",
+  "branch": "staging",
+  "scope": "Ecuador staging content and observed local workflow improvements",
+  "supervision": {
+    "kind": "thread heartbeat",
+    "automation_id": "amazon-staging-supervisor",
+    "interval_hours": 1,
+    "dot_identity": "Assumed Codex/ChatGPT Dot pending user clarification"
+  },
+  "pilot_pair": "pair_005",
+  "pilot_slug": "cuyabeno",
+  "current_batch_size": 1,
+  "next_batch_size_after_verified_pilot": 2,
+  "completed_pairs": [],
+  "prepared_pairs": [
+    "pair_005"
+  ],
+  "completion_requires": [
+    "Editorial and bilingual review",
+    "Approved location-accurate image evidence",
+    "Technical QA",
+    "Desktop/mobile visual QA",
+    "Protected staging deployment and readback"
+  ],
+  "blockers": [
+    {
+      "code": "cloudflare_login",
+      "detail": "Existing Cloudflare session is absent on this Mac; owner authorization requested."
+    },
+    {
+      "code": "visual_review",
+      "detail": "Browser access denied because admin-enforced policy could not be verified. No workaround attempted."
+    },
+    {
+      "code": "git_push_approval",
+      "detail": "Automatic approval review rejected GitHub data egress; explicit owner approval for the staged source and workflow records is pending."
+    }
+  ],
+  "source_of_truth": {
+    "sheet": "https://docs.google.com/spreadsheets/d/1LJi_VxoNEOE7cK4_wgQJB8VCohI_-T6xq_IBvmy39v4/edit?gid=1742626874",
+    "tab": "experiencetheamazon_enriched"
+  },
+  "routing": {
+    "draft_model": "qwen3.5:9b",
+    "reviewed_translation_model": "qwen3.5:27b",
+    "fallback": "No paid-provider worker fallback",
+    "promotion": "Human/supervisor-reviewed source only"
+  },
+  "next_actions": [
+    "Resolve browser policy verification for desktop/mobile review",
+    "Restore Cloudflare authentication",
+    "Deploy reviewed staging build and verify both pages",
+    "Then expand to the next two pairs"
+  ],
+  "future_batches": [
+    "Yasuni + Tena",
+    "Misahualli + Puyo",
+    "Ecuador hub + lodge hub"
+  ],
+  "notification_policy": "Meaningful change, verified completion, failure or required user action only",
+  "pilot_status": "editorial_and_technical_ready_visual_and_deployment_pending",
+  "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
+  "next_batch_candidates": [
+    "yasuni",
+    "tena"
+  ],
+  "local_worker_run_complete": true,
+  "git_status": "Committed locally; remote push blocked by automatic approval review"
+}

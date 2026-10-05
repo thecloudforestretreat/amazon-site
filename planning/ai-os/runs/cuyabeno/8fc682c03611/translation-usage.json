@@ -1,0 +1,9 @@
+{
+  "prompt_eval_count": 2808,
+  "eval_count": 3781,
+  "total_duration": 509432205292,
+  "done_reason": "stop",
+  "model": "qwen3.5:27b",
+  "seconds": 509.46,
+  "source_hash": "6f53e0bf80b20955755b136facaf38d20e6d8c51e4ccd7b5eb6458625398a761"
+}

@@ -1,0 +1,126 @@
+{
+  "pair_id": "pair_005",
+  "errors": [],
+  "pages": {
+    "en": {
+      "route": "/ecuador/cuyabeno/",
+      "main_words": 2292,
+      "html_sha256": "4464c49193265be35ccde4f0d8d6da01bd9c294f320c2541672a5a0e85f5bda8",
+      "signals": {
+        "title": "Cuyabeno Travel Guide | Wildlife, Lodges and Trip Planning",
+        "meta_description": "Compare Cuyabeno lodges, canoe-based wildlife experiences, access from Quito, trip length and practical planning considerations.",
+        "h1": [
+          "Cuyabeno Wildlife Reserve"
+        ],
+        "canonical": "https://experiencetheamazon.com/ecuador/cuyabeno/",
+        "hreflang": [
+          [
+            "en",
+            "https://experiencetheamazon.com/ecuador/cuyabeno/"
+          ],
+          [
+            "es",
+            "https://experiencetheamazon.com/es/ecuador/cuyabeno/"
+          ],
+          [
+            "x-default",
+            "https://experiencetheamazon.com/ecuador/cuyabeno/"
+          ]
+        ],
+        "robots": "noindex,nofollow,noarchive",
+        "schema_types": [
+          "Answer",
+          "BreadcrumbList",
+          "Country",
+          "FAQPage",
+          "ListItem",
+          "Question",
+          "TouristDestination"
+        ],
+        "internal_links": [
+          "/",
+          "/about/",
+          "/contact/",
+          "/ecuador/",
+          "/ecuador/amazon-lodges/",
+          "/ecuador/misahualli/",
+          "/ecuador/puyo/",
+          "/ecuador/tena/",
+          "/ecuador/yasuni/",
+          "/es/",
+          "/privacy-policy/",
+          "/terms/"
+        ],
+        "word_count": 2481,
+        "question_heading_count": 2,
+        "cta_link_count": 5,
+        "document_language": "en",
+        "image_count": 3,
+        "missing_alt_count": 0,
+        "unlabelled_control_count": 0,
+        "visible_text_sha256": "fb2bab2913881b19410505d52b81a82f1b71743a7c1604f942b411b1f1f78a1d"
+      }
+    },
+    "es": {
+      "route": "/es/ecuador/cuyabeno/",
+      "main_words": 2345,
+      "html_sha256": "a7535d8e25e8a5eb4c115cb25aa04ea88cbd814c06347d1cd57d4fad9bdb2f64",
+      "signals": {
+        "title": "Guía de Cuyabeno | Fauna, Lodges y Planificación",
+        "meta_description": "Compara lodges de Cuyabeno, experiencias de fauna en canoa, acceso desde Quito, duración y factores prácticos.",
+        "h1": [
+          "Reserva de Producción Faunística Cuyabeno"
+        ],
+        "canonical": "https://experiencetheamazon.com/es/ecuador/cuyabeno/",
+        "hreflang": [
+          [
+            "en",
+            "https://experiencetheamazon.com/ecuador/cuyabeno/"
+          ],
+          [
+            "es",
+            "https://experiencetheamazon.com/es/ecuador/cuyabeno/"
+          ],
+          [
+            "x-default",
+            "https://experiencetheamazon.com/ecuador/cuyabeno/"
+          ]
+        ],
+        "robots": "noindex,nofollow,noarchive",
+        "schema_types": [
+          "Answer",
+          "BreadcrumbList",
+          "Country",
+          "FAQPage",
+          "ListItem",
+          "Question",
+          "TouristDestination"
+        ],
+        "internal_links": [
+          "/",
+          "/es/",
+          "/es/contacto/",
+          "/es/ecuador/",
+          "/es/ecuador/lodges-en-la-amazonia/",
+          "/es/ecuador/misahualli/",
+          "/es/ecuador/puyo/",
+          "/es/ecuador/tena/",
+          "/es/ecuador/yasuni/",
+          "/es/nuestra-propuesta/",
+          "/es/politica-de-privacidad/",
+          "/es/terminos/"
+        ],
+        "word_count": 2533,
+        "question_heading_count": 2,
+        "cta_link_count": 5,
+        "document_language": "es",
+        "image_count": 3,
+        "missing_alt_count": 0,
+        "unlabelled_control_count": 0,
+        "visible_text_sha256": "4a32fc4cc1c27581e214381b20976508f95cbf0f6e48054a65e24fbb3c27813b"
+      }
+    }
+  },
+  "engine": "ai_os.website.html.extract_page_signals",
+  "passed": true
+}

@@ -1,0 +1,10 @@
+{
+  "prompt_eval_count": 971,
+  "eval_count": 2968,
+  "total_duration": 120150781750,
+  "load_duration": 4284084,
+  "done_reason": "stop",
+  "seconds": 120.16,
+  "output_sha256": "fe6b1cfcc2f0069d79a09d21864ced635dd56e4e1956ce7ce51394602d13ce97",
+  "cache_hit": false
+}

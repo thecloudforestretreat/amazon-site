@@ -1,6 +1,6 @@
 # Experience The Amazon build progress
 
-Last updated: 2026-10-04
+Last updated: 2026-10-05
 
 ## Overall
 
@@ -33,3 +33,15 @@ The 30% figure applies only to the current 40-pair CSV. It is not the final full
 ## Image policy
 
 Every published image must have an entry in an image-rights ledger recording the original asset URL, creator, source platform, license or written permission, download date, required attribution, geographic subject, page placements and local optimized filenames. Images without adequate location evidence or reuse rights remain placeholders.
+
+## Local AI-OS pilot — October 5
+
+Cuyabeno EN/ES is editorially reviewed and prepared locally: 2,292 English and 2,345 Spanish main-content words, ten planning sections and six FAQs in each language. The existing Cuyabeno photograph has reverified commercial reuse evidence, localized alt text and a linked credit. All 24 pages build and validate; the AI-OS pilot audit passes. Ten worker/promotion tests, four model-routing tests and nine core checks pass.
+
+Installed a narrow AI-OS Amazon CLI adapter and activated an hourly thread supervisor. Local drafts have checkpoints, usage records, integrity checks, an exclusive worker lock and bounded attempts. Exact reviewed hashes protect atomic bilingual promotion. Small-model factual and language failures required supervisor corrections and a larger local translation model. Local inference does not eliminate cloud supervision costs; no net token-saving claim is made.
+
+Completed/deployed pairs in this pass: zero. Prepared pairs: one. Desktop/mobile review is blocked by browser policy verification; Cloudflare authentication is absent on this Mac. The new content has not been deployed. Existing review routes: https://staging.experiencetheamazon.com/ecuador/cuyabeno/ and https://staging.experiencetheamazon.com/es/ecuador/cuyabeno/. These still show the prior deployment.
+
+Batch size remains one until the pilot passes all gates. Next intended batch: Yasuní and Tena. Detailed progress, opportunities, improvements and local usage are retained in planning/ai-os/progress-report.json.
+
+Git milestone is committed locally. Automatic approval review rejected the GitHub push because destination trust or explicit payload authorization was not established; owner approval was requested. Nothing was pushed or deployed.

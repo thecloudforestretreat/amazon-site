@@ -1,0 +1,32 @@
+{
+  "job": "cuyabeno",
+  "request_hash": "8fc682c0361117e922d81608068612314b877388eb9704ad2b74f6b218b79919",
+  "model": "qwen3.5:9b",
+  "provider": "ollama",
+  "cloud_worker_tokens": 0,
+  "status": "awaiting_editorial_review",
+  "languages": {
+    "en": {
+      "prompt_eval_count": 969,
+      "eval_count": 3105,
+      "total_duration": 131720415125,
+      "load_duration": 5844852208,
+      "done_reason": "stop",
+      "seconds": 131.73,
+      "output_sha256": "52608b322e270a7a538556420370b5c2d44ec80ac21b5f1f49f24089d295cab1",
+      "cache_hit": true,
+      "words": 2180
+    },
+    "es": {
+      "prompt_eval_count": 971,
+      "eval_count": 2968,
+      "total_duration": 120150781750,
+      "load_duration": 4284084,
+      "done_reason": "stop",
+      "seconds": 120.16,
+      "output_sha256": "fe6b1cfcc2f0069d79a09d21864ced635dd56e4e1956ce7ce51394602d13ce97",
+      "cache_hit": true,
+      "words": 1779
+    }
+  }
+}

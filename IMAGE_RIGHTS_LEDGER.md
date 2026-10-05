@@ -22,3 +22,7 @@ This ledger is required for every published image. A search result or an image a
 - Search-engine thumbnails or social posts without a verified underlying license.
 - Generic rainforest or wildlife images presented as a specific destination when the location cannot be verified.
 - Images with recognizable people, private property, artwork, trademarks or sensitive cultural contexts unless the necessary releases and permissions are documented.
+
+## Cuyabeno staging pilot — 2026-10-05
+
+The Cuyabeno source and standard Unsplash license were rechecked on October 5. The individual source page identifies Cuyabeno, Ecuador and the photographer Masha Buschujewa. Commercial reuse is permitted by the standard license. Saved evidence: planning/ai-os/evidence/cuyabeno-image-proof.json. The EN/ES hero uses this existing landscape asset with localized alt text and a linked photographer/source credit. No additional destination photography is implied or claimed.

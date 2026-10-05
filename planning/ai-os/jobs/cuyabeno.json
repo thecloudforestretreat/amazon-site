@@ -1,0 +1,11 @@
+{
+  "pair_id":"pair_005",
+  "slug":"cuyabeno",
+  "languages":["en","es"],
+  "model":"qwen3.5:9b",
+  "minimum_words":1500,
+  "maximum_words":2400,
+  "batch_size":1,
+  "sections":["Why Cuyabeno matters and its flooded landscape","Traveler fit and when to choose a different destination","Access from Quito and transfer questions","Three, four and five day trade-offs","Canoe activities, forest walks and wildlife expectations","Water levels, rain and flexible timing","How to compare lodges, guides and inclusions","Packing, mobility and practical preparation","Community-led visits and responsible wildlife behavior","Compare Cuyabeno with Yasuni, Tena, Misahualli and Puyo"],
+  "allowed_internal_links":["/ecuador/","/ecuador/amazon-lodges/","/ecuador/yasuni/","/ecuador/tena/","/ecuador/misahualli/","/ecuador/puyo/","/contact/"]
+}
