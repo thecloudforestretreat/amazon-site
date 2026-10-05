@@ -115,3 +115,9 @@ Observed intrinsic grid-image height expansion in initial deployment `8dab5ae3`;
 ### Distinct Cuyabeno frog and concise credits
 
 Owner requested unique photos per page and a different frog for Cuyabeno. Deployed `b297690f`: new geographically verified Javier Ábalos Alvarez Cuyabeno frog photo (CC BY-SA 2.0) in EN/ES wildlife feature. All three destination pairs now use three distinct photos per page. Replaced long change notices with Edited/Adaptada while retaining required creator/license/change notices. Global 24-page validator rejects repeated main-content images (query strings normalized); negative mutation verified and compiled file restored. All destination audits and validation pass. EN desktop and ES mobile visual readback: loaded frog, no overflow, concise credits; screenshot retained. No local inference required. Previous deployment `ca21a962` is rollback reference.
+
+### Yasuní repeated-scene correction
+
+Owner caught similar views of the same scene under distinct filenames. Replaced the supporting reflections photo in EN/ES with Lauren Whitehurst’s verified Yasuní tributary sunset (CC BY-SA 4.0). Future uniqueness review must compare actual scenes/crops; filename checks alone are insufficient. Build, 24-page validation and Yasuní audit pass; deployed `01baf569`. Previous `b297690f` retained as rollback reference.
+
+EN desktop and ES mobile live readback verified replacement sunset loaded with no horizontal overflow. Screenshot saved.

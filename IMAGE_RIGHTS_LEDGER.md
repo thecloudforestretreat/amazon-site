@@ -50,3 +50,7 @@ Oxbow lake, Yasuni (July 25, 2009), Geoff Gallice. Source: https://commons.wikim
 ## Cuyabeno frog — 2026-10-05
 
 `cuyabeno-frog-javier-abalos.jpg`: Javier Ábalos Alvarez, photographed in Cuyabeno March 7, 2015. Source: https://commons.wikimedia.org/wiki/File:Hypsiboas_cinerascens_in_Cuyabeno,_Ecuador.jpg. CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/). Commons version cropped/adjusted; local resize and CSS crop. Edited derivative distributed under the same license; on-page creator, license and concise change notice. Different photograph from Yasuní; one occurrence per Cuyabeno language page.
+
+## Yasuní sunset replacement — 2026-10-05
+
+`yasuni-sunset-lauren-whitehurst.jpg`: Lauren Whitehurst, July 28, 2016. Individual source identifies blackwater tributary of Yasuní River: https://commons.wikimedia.org/wiki/File:Bactris_Palm_Sunset.jpg . CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/ . Resized/CSS cropped, derivative distributed under same license with creator/license/Edited notice. Replaces visually repetitive reflections photograph; source URLs alone did not identify the repeated scene. Hero, sunset and frog visually distinct.

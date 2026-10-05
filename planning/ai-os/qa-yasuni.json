@@ -6,7 +6,7 @@
       "route": "/ecuador/yasuni/",
       "main_words": 1145,
       "word_count_scope": "Main content excluding guide navigation",
-      "html_sha256": "993aec182464f77af6d489b9177469af0bb1e54e1df9313fc1d80b43e3381e4c",
+      "html_sha256": "0af22b7e8b66cde9dec8aded9233d99cab2d7ecb211ed35d153f6087965a8434",
       "signals": {
         "title": "Yasuní Ecuador Travel Guide | Lodges, Wildlife and Access",
         "meta_description": "Plan a Yasuní Amazon trip with practical guidance on Napo River access, lodge styles, wildlife expectations, trip length and who this remote region suits.",
@@ -59,14 +59,14 @@
         "image_count": 5,
         "missing_alt_count": 0,
         "unlabelled_control_count": 0,
-        "visible_text_sha256": "ab6f4a7c04a165cb77c4981dd70b0a1fb748e6dcd4b6bce3b8dc8a78eb64f605"
+        "visible_text_sha256": "1e21a5f41a662ce914a461dfc3672fc73eb3dc2df82305d80e0d1a561d99e23a"
       }
     },
     "es": {
       "route": "/es/ecuador/yasuni/",
       "main_words": 1179,
       "word_count_scope": "Main content excluding guide navigation",
-      "html_sha256": "80c56b150f909a8194f15dea478b2f56c6058895a2524e7d2d45876aed550e67",
+      "html_sha256": "b7dfaf5f1c3c8cc8235f50380524b7719aa0be5f890aac5a0393be903f0cc560",
       "signals": {
         "title": "Guía de Yasuní Ecuador | Lodges, Fauna y Acceso",
         "meta_description": "Planifica un viaje a Yasuní con orientación sobre acceso por el Napo, tipos de lodge, fauna, duración y perfil de viajero.",
@@ -119,7 +119,7 @@
         "image_count": 5,
         "missing_alt_count": 0,
         "unlabelled_control_count": 0,
-        "visible_text_sha256": "5a1d762973b356884eb1fc4b00d375ba52ff2427c4234e35154265a3c7358eea"
+        "visible_text_sha256": "7ad1a0ce9862ee417788d7202b039274f14f2bbcf054fe8a20462f8504bbe5ce"
       }
     }
   },
