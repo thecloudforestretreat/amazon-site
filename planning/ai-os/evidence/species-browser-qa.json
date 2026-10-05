@@ -1,0 +1,214 @@
+{
+  "deployment": "3744881d",
+  "date": "2026-10-05",
+  "status": "initial_desktop_mobile_visual_and_interaction_checks_pass",
+  "widths": [
+    1440,
+    390
+  ],
+  "measurements": [
+    {
+      "factYs": [
+        -3120,
+        -3120,
+        -3120,
+        -3120
+      ],
+      "features": [
+        422.390625,
+        422.390625
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-leaf-katydid.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-mantis-ootheca.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/animals-of-the-ecuador-amazon/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "overflow": false,
+      "route": "/ecuador/animals-of-the-ecuador-amazon/",
+      "width": 390
+    },
+    {
+      "creditColor": "rgb(255, 255, 255)",
+      "headerTop": 0,
+      "overflow": false,
+      "route": "/es/ecuador/animales-de-la-amazonia-ecuatoriana/",
+      "width": 390
+    },
+    {
+      "factYs": [
+        -2120,
+        -2120,
+        -2120,
+        -2120
+      ],
+      "features": [
+        422.390625,
+        422.390625
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-leaf-katydid.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-mantis-ootheca.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/animales-de-la-amazonia-ecuatoriana/",
+      "width": 1440
+    },
+    {
+      "factYs": [
+        -2120,
+        -2120,
+        -2120,
+        -2120
+      ],
+      "features": [
+        450.4375,
+        422.390625
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-scarlet-macaw.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-aracari.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-piping-guan.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/birds-of-the-ecuador-amazon/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "overflow": false,
+      "route": "/ecuador/birds-of-the-ecuador-amazon/",
+      "width": 390
+    },
+    {
+      "headerTop": 0,
+      "overflow": false,
+      "route": "/es/ecuador/aves-de-la-amazonia-ecuatoriana/",
+      "width": 390
+    },
+    {
+      "factYs": [
+        -2120,
+        -2120,
+        -2120,
+        -2120
+      ],
+      "features": [
+        450.4375,
+        422.390625
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-scarlet-macaw.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-aracari.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-piping-guan.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/aves-de-la-amazonia-ecuatoriana/",
+      "width": 1440
+    },
+    {
+      "factYs": [
+        -2120,
+        -2120,
+        -2120,
+        -2120
+      ],
+      "features": [
+        422.390625,
+        422.390625
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-leaf-katydid.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-mantis-ootheca.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/animals-of-the-ecuador-amazon/",
+      "width": 1440
+    }
+  ],
+  "screenshots": [
+    "planning/ai-os/evidence/species-animals-es-mobile-credit.png",
+    "planning/ai-os/evidence/species-birds-es-mobile.png",
+    "planning/ai-os/evidence/species-birds-es-desktop.png",
+    "planning/ai-os/evidence/species-animals-en-desktop.png",
+    "planning/ai-os/evidence/species-animals-es-mobile.png",
+    "planning/ai-os/evidence/species-animals-es-desktop.png",
+    "planning/ai-os/evidence/species-birds-en-desktop.png",
+    "planning/ai-os/evidence/species-animals-en-mobile.png",
+    "planning/ai-os/evidence/species-birds-en-cards.png",
+    "planning/ai-os/evidence/species-birds-en-mobile.png",
+    "planning/ai-os/evidence/species-animals-en-cards.png"
+  ],
+  "checks": [
+    "All four routes visually reviewed at desktop/mobile widths",
+    "Six geographically verified CC BY 2.0 Yasuní photographs inspected; three unique per page",
+    "All three images load on each route desktop; fact labels aligned",
+    "Sticky header top 0 and no horizontal overflow at measured widths",
+    "EN hamburger Enter opens and Escape closes; EN birds FAQ Enter toggles open/closed",
+    "Mobile feature captions corrected to white and visually verified",
+    "Safety EN/ES notices show October 5 review date; official source checks baselined"
+  ],
+  "limits": [
+    "Initial review, not full accessibility certification",
+    "Measured performance and contact delivery pending",
+    "Earlier twelve pairs still need full visual catch-up"
+  ],
+  "note": "First EN animals desktop measurement from fc0fc9a6, repeated successfully on final 3744881d; remaining routes use final deployment"
+}

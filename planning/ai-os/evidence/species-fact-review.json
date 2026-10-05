@@ -1,0 +1,23 @@
+{
+  "review_date": "2026-10-05",
+  "sources": [
+    {
+      "url": "https://www.unesco.org/en/mab/yasuni",
+      "used": "Regional examples of mammals and bird groups; humid tropical rainforest context",
+      "limits": "No totals, rankings, taxonomic precision beyond reviewed regional examples, seasonal claims or visitor guarantees; no outdated province description copied"
+    },
+    {
+      "url": "https://inabio.biodiversidad.gob.ec/2022/01/17/guia-reporta-la-diversidad-de-aves-presentes-en-la-reserva-de-biosfera-del-yasuni-territorio-correspondiente-a-orellana/",
+      "used": "Collaborative illustrated bird guide, particular biosphere study area",
+      "limits": "No claim of complete inventory; no species count copied"
+    },
+    {
+      "url": "https://patrimonio.ambiente.gob.ec/iptmae/resource?r=yasuni-smart",
+      "used": "Government patrol occurrence-record context",
+      "limits": "Records do not imply tour availability or sightings"
+    }
+  ],
+  "photos": "Individual source descriptions, locations, CC BY 2.0 and actual photographs reviewed; source snapshots and rights JSON retained",
+  "excluded_photo": "Mist-netted research bat; inappropriate visitor-experience implication",
+  "advice_sources_rechecked": "FCDO regional and safety sources successfully baselined; summary wording remains supported"
+}

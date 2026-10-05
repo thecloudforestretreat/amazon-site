@@ -1,0 +1,21 @@
+{
+  "sources": {
+    "regional-risks": {
+      "url": "https://www.gov.uk/foreign-travel-advice/ecuador/regional-risks",
+      "last_successful_check": "2026-10-05T22:29:03.852101+00:00",
+      "content_sha256": "2ec3d3ecf010ca14c62ab4b0fe36f40badcd1f8132c885280bb5127e3824d003",
+      "snapshot": "planning/ai-os/evidence/advice-regional-risks-2ec3d3ecf010.txt",
+      "review_required": false
+    },
+    "safety-and-security": {
+      "url": "https://www.gov.uk/foreign-travel-advice/ecuador/safety-and-security",
+      "last_successful_check": "2026-10-05T22:29:03.852101+00:00",
+      "content_sha256": "6cad89678860a35244aae416eaf912595603f254c87e55022844f5b8f43529b0",
+      "snapshot": "planning/ai-os/evidence/advice-safety-and-security-6cad89678860.txt",
+      "review_required": false
+    }
+  },
+  "published_review_date": "2026-10-05",
+  "check_interval_hours": 24,
+  "publication_policy": "Reviewed bilingual copy only; successful fetch does not change published review date"
+}

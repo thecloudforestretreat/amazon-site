@@ -1,0 +1,22 @@
+{
+  "job": "birds-guide",
+  "model": "qwen3.5:9b",
+  "status": "editorial_reviewed_deployed_initial_visual_pass_full_qa_pending",
+  "review_flags": [],
+  "seconds": 43.32,
+  "prompt_eval_count": 175,
+  "eval_count": 1119,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false,
+  "raw_review_flags": [],
+  "reviewed_flags": [],
+  "raw_draft_sha256": "40c746f1f8ccd17471dcf7c2cb0d0173f17b914d0804da126c32c43d8b33167d",
+  "reviewed_sha256": "82c3706fb391635315e6e4b3a3bace02280c092c0abfdfc3775198a62f07744e",
+  "deployment": "3744881d",
+  "promotion": "Substantial supervisor rewrite; raw never published",
+  "editorial_findings": [
+    "Animals Spanish gender error las avistamientos corrected",
+    "Birds draft assumed airport/station and mixed pronouns; replaced with neutral provider-specific questions",
+    "Unidiomatic songs/calls language corrected in Spanish"
+  ]
+}

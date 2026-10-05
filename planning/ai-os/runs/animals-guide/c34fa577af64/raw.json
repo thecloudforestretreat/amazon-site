@@ -1,0 +1,102 @@
+{
+  "en": [
+    {
+      "heading": "Choose habitat and regional base",
+      "points": [
+        "Which specific habitats will we visit?",
+        "What is the designated regional base for our stay?",
+        "How do you confirm the location of our accommodation?"
+      ]
+    },
+    {
+      "heading": "Set realistic wildlife expectations",
+      "points": [
+        "What animals might we see in this area?",
+        "Are sightings guaranteed or uncertain?",
+        "How should we prepare for variable viewing conditions?"
+      ]
+    },
+    {
+      "heading": "Compare guide interpretation",
+      "points": [
+        "What knowledge does the guide possess?",
+        "How will they explain what we observe?",
+        "Can we compare their style with others?"
+      ]
+    },
+    {
+      "heading": "Observe without disturbance",
+      "points": [
+        "How will we keep a safe distance from animals?",
+        "What rules apply to our behavior in the wild?",
+        "How do we minimize noise and impact?"
+      ]
+    },
+    {
+      "heading": "Camera and mobility requirements",
+      "points": [
+        "What equipment is needed for photography?",
+        "Are there physical demands for walking?",
+        "Do we need special gear for uneven terrain?"
+      ]
+    },
+    {
+      "heading": "Confirm the proposed itinerary",
+      "points": [
+        "Is the schedule flexible or fixed?",
+        "What activities are included each day?",
+        "How do you finalize our travel plan?"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "heading": "Elige hábitat y base regional",
+      "points": [
+        "¿Qué hábitats específicos visitaremos?",
+        "¿Cuál es la base regional designada para nuestra estancia?",
+        "¿Cómo confirmas la ubicación de nuestro alojamiento?"
+      ]
+    },
+    {
+      "heading": "Establece expectativas realistas de fauna",
+      "points": [
+        "¿Qué animales podríamos ver en esta zona?",
+        "¿Son ciertas las avistamientos o son inciertos?",
+        "¿Cómo debemos prepararnos para condiciones variables?"
+      ]
+    },
+    {
+      "heading": "Compara la interpretación del guía",
+      "points": [
+        "¿Qué conocimientos posee el guía?",
+        "¿Cómo explicará lo que observamos?",
+        "¿Podemos comparar su estilo con otros?"
+      ]
+    },
+    {
+      "heading": "Observa sin disturbios",
+      "points": [
+        "¿Cómo mantendremos una distancia segura de los animales?",
+        "¿Qué normas aplican a nuestro comportamiento en la naturaleza?",
+        "¿Cómo minimizamos el ruido y el impacto?"
+      ]
+    },
+    {
+      "heading": "Requisitos de cámara y movilidad",
+      "points": [
+        "¿Qué equipo se necesita para la fotografía?",
+        "¿Hay exigencias físicas para caminar?",
+        "¿Necesitamos equipo especial para terrenos irregulares?"
+      ]
+    },
+    {
+      "heading": "Confirma el itinerario propuesto",
+      "points": [
+        "¿Es flexible o fijo el horario?",
+        "¿Qué actividades se incluyen cada día?",
+        "¿Cómo finalizas nuestro plan de viaje?"
+      ]
+    }
+  ]
+}

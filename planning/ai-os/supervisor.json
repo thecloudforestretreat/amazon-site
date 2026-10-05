@@ -34,7 +34,9 @@
     "pair_020",
     "pair_021",
     "pair_022",
-    "pair_023"
+    "pair_023",
+    "pair_024",
+    "pair_025"
   ],
   "completion_requires": [
     "Editorial and bilingual review",
@@ -60,19 +62,17 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review of safety/comparison previews and image rotation",
-    "Full accessibility/performance/contact delivery and twelve earlier full visual audits remain pending"
+    "Owner review of animals/birds previews",
+    "Daily official advice check: python3 scripts/ai_os/check_advice.py; review changes before bilingual staging publication",
+    "Full accessibility/performance/contact delivery and twelve earlier visual audits pending"
   ],
   "future_batches": [
-    "Animals and birds after owner review"
+    "Choose next two sitemap pairs after owner review"
   ],
   "notification_policy": "Meaningful change, verified completion, failure or required user action only",
   "pilot_status": "deployed_initial_browser_checks_pass_full_qa_pending",
   "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
-  "next_batch_candidates": [
-    "animals-of-the-ecuador-amazon",
-    "birds-of-the-ecuador-amazon"
-  ],
+  "next_batch_candidates": [],
   "local_worker_run_complete": true,
   "git_status": "Committed locally; remote push blocked by automatic approval review",
   "quality_hold": {
@@ -81,10 +81,10 @@
     "scope": "Owner explicitly authorized staging release and proceeding on October 5; pending visual checks stay recorded"
   },
   "deployment": {
-    "id": "eb6321ee",
+    "id": "3744881d",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://eb6321ee.amazon-site-staging.pages.dev",
+    "url": "https://3744881d.amazon-site-staging.pages.dev",
     "protected_domain_check": "302 unauthenticated Cloudflare Access redirect; authenticated browser readback verified",
     "date": "2026-10-05"
   },
@@ -108,13 +108,13 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "safety-planning",
-    "destination-comparison"
+    "animals-guide",
+    "birds-guide"
   ],
-  "batch_status": "Safety and Amazon/Galápagos EN/ES deployed; reviewed sources, licensed imagery, technical and initial live desktop/mobile checks pass; launch QA pending",
+  "batch_status": "Animals/birds EN/ES deployed; initial desktop/mobile and technical checks pass; launch QA pending",
   "batch_browser_checks": {
+    "deployment": "3744881d",
     "date": "2026-10-05",
-    "deployment": "eb6321ee",
     "status": "initial_desktop_mobile_visual_and_interaction_checks_pass",
     "widths": [
       1440,
@@ -123,231 +123,208 @@
     "measurements": [
       {
         "factYs": [
-          -1985.8203125,
-          -1985.8203125,
-          -1985.8203125,
-          -1985.8203125
+          -3120,
+          -3120,
+          -3120,
+          -3120
+        ],
+        "features": [
+          422.390625,
+          422.390625
         ],
         "headerTop": 0,
-        "heroRadius": "24px",
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/galapagos-bartolome-pete.jpg"
+            "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+            "src": "/assets/images/ecuador/yasuni-leaf-katydid.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/galapagos-sealion-gagnon.jpg"
+            "src": "/assets/images/ecuador/yasuni-mantis-ootheca.jpg"
           }
         ],
         "overflow": false,
-        "route": "/ecuador/amazon-vs-galapagos/",
+        "route": "/ecuador/animals-of-the-ecuador-amazon/",
         "width": 1440
       },
       {
         "headerTop": 0,
         "overflow": false,
-        "route": "/ecuador/amazon-vs-galapagos/",
+        "route": "/ecuador/animals-of-the-ecuador-amazon/",
+        "width": 390
+      },
+      {
+        "creditColor": "rgb(255, 255, 255)",
+        "headerTop": 0,
+        "overflow": false,
+        "route": "/es/ecuador/animales-de-la-amazonia-ecuatoriana/",
         "width": 390
       },
       {
         "factYs": [
-          -2061.4609375,
-          -2061.4609375,
-          -2061.4609375,
-          -2061.4609375
+          -2120,
+          -2120,
+          -2120,
+          -2120
+        ],
+        "features": [
+          422.390625,
+          422.390625
         ],
         "headerTop": 0,
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/galapagos-bartolome-pete.jpg"
+            "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+            "src": "/assets/images/ecuador/yasuni-leaf-katydid.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/galapagos-sealion-gagnon.jpg"
+            "src": "/assets/images/ecuador/yasuni-mantis-ootheca.jpg"
           }
         ],
         "overflow": false,
-        "route": "/es/ecuador/amazonia-vs-galapagos/",
+        "route": "/es/ecuador/animales-de-la-amazonia-ecuatoriana/",
         "width": 1440
       },
       {
-        "deployment": "eb6321ee",
         "factYs": [
-          -2061.4609375,
-          -2061.4609375,
-          -2061.4609375,
-          -2061.4609375
+          -2120,
+          -2120,
+          -2120,
+          -2120
         ],
-        "featureHeights": [
-          450,
-          450
+        "features": [
+          450.4375,
+          422.390625
         ],
         "headerTop": 0,
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg"
+            "src": "/assets/images/ecuador/yasuni-scarlet-macaw.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/puyo-river.jpg"
+            "src": "/assets/images/ecuador/yasuni-aracari.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg"
+            "src": "/assets/images/ecuador/yasuni-piping-guan.jpg"
           }
         ],
         "overflow": false,
-        "route": "/ecuador/is-the-ecuador-amazon-safe/",
+        "route": "/ecuador/birds-of-the-ecuador-amazon/",
         "width": 1440
       },
       {
-        "advicePresent": true,
         "headerTop": 0,
         "overflow": false,
-        "route": "/ecuador/is-the-ecuador-amazon-safe/",
+        "route": "/ecuador/birds-of-the-ecuador-amazon/",
         "width": 390
       },
       {
-        "advicePresent": true,
         "headerTop": 0,
         "overflow": false,
-        "route": "/es/ecuador/es-segura-la-amazonia-ecuatoriana/",
+        "route": "/es/ecuador/aves-de-la-amazonia-ecuatoriana/",
         "width": 390
       },
       {
-        "deployment": "eb6321ee",
         "factYs": [
-          -2061.4609375,
-          -2061.4609375,
-          -2061.4609375,
-          -2061.4609375
+          -2120,
+          -2120,
+          -2120,
+          -2120
         ],
-        "featureHeights": [
-          422,
-          422
+        "features": [
+          450.4375,
+          422.390625
         ],
         "headerTop": 0,
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg"
+            "src": "/assets/images/ecuador/yasuni-scarlet-macaw.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/puyo-river.jpg"
+            "src": "/assets/images/ecuador/yasuni-aracari.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg"
+            "src": "/assets/images/ecuador/yasuni-piping-guan.jpg"
           }
         ],
         "overflow": false,
-        "route": "/es/ecuador/es-segura-la-amazonia-ecuatoriana/",
+        "route": "/es/ecuador/aves-de-la-amazonia-ecuatoriana/",
         "width": 1440
       },
       {
-        "deployment": "eb6321ee",
         "factYs": [
-          -1985.8203125,
-          -1985.8203125,
-          -1985.8203125,
-          -1985.8203125
+          -2120,
+          -2120,
+          -2120,
+          -2120
         ],
-        "featureHeights": [
-          422,
-          450
-        ],
-        "headerTop": 0,
-        "images": [
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/galapagos-bartolome-pete.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-manakin.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/galapagos-sealion-gagnon.jpg"
-          }
-        ],
-        "overflow": false,
-        "route": "/ecuador/amazon-vs-galapagos/",
-        "width": 1440
-      },
-      {
-        "deployment": "eb6321ee",
-        "overflow": false,
-        "route": "/es/ecuador/amazonia-vs-galapagos/",
-        "width": 390
-      },
-      {
-        "deployment": "eb6321ee",
-        "featureHeights": [
-          422,
-          422
+        "features": [
+          422.390625,
+          422.390625
         ],
         "headerTop": 0,
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/galapagos-bartolome-pete.jpg"
+            "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+            "src": "/assets/images/ecuador/yasuni-leaf-katydid.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/galapagos-sealion-gagnon.jpg"
+            "src": "/assets/images/ecuador/yasuni-mantis-ootheca.jpg"
           }
         ],
         "overflow": false,
-        "route": "/es/ecuador/amazonia-vs-galapagos/",
+        "route": "/ecuador/animals-of-the-ecuador-amazon/",
         "width": 1440
       }
     ],
     "screenshots": [
-      "planning/ai-os/evidence/decision-comparison-en-cards-final.png",
-      "planning/ai-os/evidence/decision-safety-es-mobile.png",
-      "planning/ai-os/evidence/decision-comparison-en-desktop.png",
-      "planning/ai-os/evidence/decision-comparison-es-mobile.png",
-      "planning/ai-os/evidence/decision-safety-es-desktop.png",
-      "planning/ai-os/evidence/decision-safety-en-cards-final.png",
-      "planning/ai-os/evidence/decision-comparison-en-desktop-final.png",
-      "planning/ai-os/evidence/decision-safety-en-desktop.png",
-      "planning/ai-os/evidence/decision-packing-frog-replacement.png",
-      "planning/ai-os/evidence/decision-comparison-en-mobile.png",
-      "planning/ai-os/evidence/decision-comparison-es-desktop.png",
-      "planning/ai-os/evidence/decision-safety-en-mobile.png"
+      "planning/ai-os/evidence/species-animals-es-mobile-credit.png",
+      "planning/ai-os/evidence/species-birds-es-mobile.png",
+      "planning/ai-os/evidence/species-birds-es-desktop.png",
+      "planning/ai-os/evidence/species-animals-en-desktop.png",
+      "planning/ai-os/evidence/species-animals-es-mobile.png",
+      "planning/ai-os/evidence/species-animals-es-desktop.png",
+      "planning/ai-os/evidence/species-birds-en-desktop.png",
+      "planning/ai-os/evidence/species-animals-en-mobile.png",
+      "planning/ai-os/evidence/species-birds-en-cards.png",
+      "planning/ai-os/evidence/species-birds-en-mobile.png",
+      "planning/ai-os/evidence/species-animals-en-cards.png"
     ],
     "checks": [
-      "All four EN/ES routes read back and visually reviewed",
-      "All three images load on each new route; geographically accurate licensed scenes inspected",
-      "Desktop fact descriptions align and feature cards remain 422–450px tall",
-      "No horizontal overflow at reviewed widths; header sticky at top 0",
-      "English hamburger opens by click; Spanish opens by Enter; both dismiss with Escape",
-      "English comparison and Spanish safety FAQ opens/closes with Enter",
-      "Current official advice callout readable on mobile EN/ES",
-      "Packing replacement verified loaded on live EN page; no frog image remains on packing pair"
+      "All four routes visually reviewed at desktop/mobile widths",
+      "Six geographically verified CC BY 2.0 Yasuní photographs inspected; three unique per page",
+      "All three images load on each route desktop; fact labels aligned",
+      "Sticky header top 0 and no horizontal overflow at measured widths",
+      "EN hamburger Enter opens and Escape closes; EN birds FAQ Enter toggles open/closed",
+      "Mobile feature captions corrected to white and visually verified",
+      "Safety EN/ES notices show October 5 review date; official source checks baselined"
     ],
     "limits": [
-      "Initial visual and interaction review, not full accessibility certification",
+      "Initial review, not full accessibility certification",
       "Measured performance and contact delivery pending",
-      "Earlier twelve pairs still need full visual catch-up; modified earlier pages have static image/structure checks, packing additionally live-reviewed"
-    ]
+      "Earlier twelve pairs still need full visual catch-up"
+    ],
+    "note": "First EN animals desktop measurement from fc0fc9a6, repeated successfully on final 3744881d; remaining routes use final deployment"
   },
   "template": {
     "photos_per_page": 3,
@@ -378,6 +355,16 @@
     "pair_008",
     "pair_009",
     "pair_022",
-    "pair_023"
-  ]
+    "pair_023",
+    "pair_024",
+    "pair_025"
+  ],
+  "advice_monitor": {
+    "interval_hours": 24,
+    "command": "python3 scripts/ai_os/check_advice.py",
+    "state": "planning/ai-os/advice-monitor.json",
+    "automation": "amazon-staging-supervisor",
+    "runtime_limit": "Checks on first due hourly heartbeat while local supervisor is running; not real-time",
+    "publication": "Review meaningful source changes and update EN/ES before protected staging deploy"
+  }
 }

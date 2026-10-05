@@ -1,0 +1,102 @@
+{
+  "en": [
+    {
+      "heading": "Beginner versus Specialist Goals",
+      "points": [
+        "What are the specific expectations for a first-time visitor compared to an experienced ornithologist?",
+        "How will the daily schedule differ between those seeking general nature appreciation and those targeting rare species?",
+        "Are there distinct objectives set for each guest regarding learning versus documenting?"
+      ]
+    },
+    {
+      "heading": "Bird Habitats and Regional Base",
+      "points": [
+        "Which specific forest zones or riverbanks will we visit based on your preferred bird list?",
+        "How does the guide adjust our location within the region to match current habitat conditions?",
+        "What is the primary base camp for our stay and how do we move between different ecological areas?"
+      ]
+    },
+    {
+      "heading": "Guide Identification Skills",
+      "points": [
+        "How will the guide explain the differences between similar-looking species in the field?",
+        "What methods are used to teach us about local calls and behaviors during the walk?",
+        "Can you confirm the guide's ability to identify birds by sound without visual contact?"
+      ]
+    },
+    {
+      "heading": "Observation Equipment and Pace",
+      "points": [
+        "Will we use binoculars provided by the service or must you bring your own?",
+        "How fast will we walk through the trails to ensure comfort for all guests?",
+        "Is there a designated spot to rest and review notes before moving to the next area?"
+      ]
+    },
+    {
+      "heading": "Ethical Photography and Listening",
+      "points": [
+        "What are the rules regarding getting close to nests or disturbing feeding birds?",
+        "How do we balance taking photos with listening quietly to bird songs?",
+        "Are there specific times when photography is paused to observe behavior closely?"
+      ]
+    },
+    {
+      "heading": "Confirm Itinerary and Transfers",
+      "points": [
+        "Please confirm the exact meeting point for our arrival transfer at the airport or station.",
+        "What time will we depart each morning and when do we return to the lodge?",
+        "How will you inform us of any changes to the planned route due to weather or bird activity?"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "heading": "Objetivos de principiante versus especialista",
+      "points": [
+        "¿Cuáles son las expectativas específicas para un visitante por primera vez comparado con un ornitólogo experimentado?",
+        "¿Cómo se diferenciará la agenda diaria entre quienes buscan apreciar la naturaleza en general y quienes apuntan a especies raras?",
+        "¿Se establecen objetivos distintos para cada huésped respecto al aprendizaje versus la documentación?"
+      ]
+    },
+    {
+      "heading": "Hábitats de aves y base regional",
+      "points": [
+        "¿Qué zonas forestales específicas o orillas de ríos visitaremos según tu lista preferida de aves?",
+        "¿Cómo ajusta el guía nuestra ubicación dentro de la región para coincidir con las condiciones actuales del hábitat?",
+        "¿Cuál es el campamento base principal para nuestra estancia y cómo nos movemos entre diferentes áreas ecológicas?"
+      ]
+    },
+    {
+      "heading": "Habilidades de identificación del guía",
+      "points": [
+        "¿Cómo explicará el guía las diferencias entre especies que se parecen mucho en el campo?",
+        "¿Qué métodos se utilizan para enseñarnos sobre llamadas locales y comportamientos durante el recorrido?",
+        "¿Puedes confirmar la capacidad del guía para identificar aves por sonido sin contacto visual?"
+      ]
+    },
+    {
+      "heading": "Equipo de observación y ritmo",
+      "points": [
+        "¿Usaremos prismáticos proporcionados por el servicio o debes traer los tuyos propios?",
+        "¿A qué velocidad caminaremos por los senderos para asegurar la comodidad de todos los huéspedes?",
+        "¿Hay un lugar designado para descansar y revisar notas antes de movernos al siguiente área?"
+      ]
+    },
+    {
+      "heading": "Fotografía ética y escucha",
+      "points": [
+        "¿Cuáles son las reglas acerca de acercarse a nidos o molestar a aves que se alimentan?",
+        "¿Cómo equilibraremos tomar fotos con escuchar en silencio las canciones de las aves?",
+        "¿Hay momentos específicos en los que la fotografía se pausa para observar el comportamiento de cerca?"
+      ]
+    },
+    {
+      "heading": "Confirmar itinerario y traslados",
+      "points": [
+        "Por favor, confirma el punto de encuentro exacto para nuestro traslado de llegada al aeropuerto o estación.",
+        "¿A qué hora saldrá cada mañana y a qué hora regresamos al lodge?",
+        "¿Cómo nos informarás de cualquier cambio en la ruta planificada debido al clima o actividad de las aves?"
+      ]
+    }
+  ]
+}

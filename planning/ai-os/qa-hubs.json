@@ -2,28 +2,28 @@
   "ecuador": {
     "pair_id": "pair_003",
     "language": "en",
-    "main_words": 1763,
+    "main_words": 1802,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
       "/assets/images/ecuador/misahualli-boat.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "b5cb06c31e2f4dc7a119200341c81854ba532100cdcac038f451e8ffedec79d4",
+    "sha256": "8fed7bb076afec197ce8cedf4a091ee8ee1b60adf186f9336cb3eef312c39854",
     "errors": [],
     "passed": true
   },
   "es/ecuador": {
     "pair_id": "pair_003",
     "language": "es",
-    "main_words": 1766,
+    "main_words": 1808,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
       "/assets/images/ecuador/misahualli-boat.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "1416430dcfc9d005800c22f5fe619bf1480864b6f25acc46697be596529c253a",
+    "sha256": "2f2b7e559c0a59d9db03dac6c24688b9bc37660f835aae41151470d3d87f13af",
     "errors": [],
     "passed": true
   },
@@ -394,28 +394,28 @@
   "ecuador/is-the-ecuador-amazon-safe": {
     "pair_id": "pair_022",
     "language": "en",
-    "main_words": 1414,
+    "main_words": 1426,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg",
       "/assets/images/ecuador/puyo-river.jpg",
       "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg"
     ],
-    "sha256": "fccf13f0c85a734f6ddb7c4bec228ac54df9cc8ac6a9b968b7be7d831ac30c8b",
+    "sha256": "53a879b4b234fd9e0928a63d498a1b73a301c8fbebdac14f95434f4f4895dd99",
     "errors": [],
     "passed": true
   },
   "es/ecuador/es-segura-la-amazonia-ecuatoriana": {
     "pair_id": "pair_022",
     "language": "es",
-    "main_words": 1358,
+    "main_words": 1375,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg",
       "/assets/images/ecuador/puyo-river.jpg",
       "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg"
     ],
-    "sha256": "8db7e517eee19aaa5e652246281f870a45c9099f45f4de62a7d90beed6320f7d",
+    "sha256": "a8a6572b658dfde77573e10fd61220fe9239bf8be10dd88202946f591ed1d8e4",
     "errors": [],
     "passed": true
   },
@@ -429,7 +429,7 @@
       "/assets/images/ecuador/yasuni-manakin.jpg",
       "/assets/images/ecuador/galapagos-sealion-gagnon.jpg"
     ],
-    "sha256": "d8aa5ba0a3042778fc9c591923a1828e7b59fe2732eabbc2e045b54ade0ed536",
+    "sha256": "c9089f3c09fe31d0fdd111850d2524e427683ab5473eeb8fa799555087b4d885",
     "errors": [],
     "passed": true
   },
@@ -443,7 +443,63 @@
       "/assets/images/ecuador/yasuni-manakin.jpg",
       "/assets/images/ecuador/galapagos-sealion-gagnon.jpg"
     ],
-    "sha256": "eb2e34261106096b94977a0ee62d6d2df9393f167a44a8a6048c11da9a419ad7",
+    "sha256": "0800b2aadce292cb985e3618e7e481e03d835108560910edc625dfe1806ee092",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/animals-of-the-ecuador-amazon": {
+    "pair_id": "pair_024",
+    "language": "en",
+    "main_words": 1435,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-woolly-monkey.jpg",
+      "/assets/images/ecuador/yasuni-leaf-katydid.jpg",
+      "/assets/images/ecuador/yasuni-mantis-ootheca.jpg"
+    ],
+    "sha256": "cca00ae7352fd090c174feb24b0ee23615826324c6b52a5cab8c694e715eb481",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/animales-de-la-amazonia-ecuatoriana": {
+    "pair_id": "pair_024",
+    "language": "es",
+    "main_words": 1457,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-woolly-monkey.jpg",
+      "/assets/images/ecuador/yasuni-leaf-katydid.jpg",
+      "/assets/images/ecuador/yasuni-mantis-ootheca.jpg"
+    ],
+    "sha256": "786adccafb13736cf0aa82fd65412b2d6023c6a639c6946a26017d4ebc3e91b4",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/birds-of-the-ecuador-amazon": {
+    "pair_id": "pair_025",
+    "language": "en",
+    "main_words": 1499,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-scarlet-macaw.jpg",
+      "/assets/images/ecuador/yasuni-aracari.jpg",
+      "/assets/images/ecuador/yasuni-piping-guan.jpg"
+    ],
+    "sha256": "e443d3f9b4f37b3e0ee5fdff408df572f1156dc315a7408de3ee6787df9c6919",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/aves-de-la-amazonia-ecuatoriana": {
+    "pair_id": "pair_025",
+    "language": "es",
+    "main_words": 1518,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/yasuni-scarlet-macaw.jpg",
+      "/assets/images/ecuador/yasuni-aracari.jpg",
+      "/assets/images/ecuador/yasuni-piping-guan.jpg"
+    ],
+    "sha256": "d6464f02abd10987b88a3ae4f7c02c9a4a1e04b5fc56901f48a540c7067cc0ac",
     "errors": [],
     "passed": true
   }

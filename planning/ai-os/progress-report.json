@@ -1,9 +1,9 @@
 {
   "date": "2026-10-05",
-  "status": "Safety and Amazon/Galápagos EN/ES deployed; reviewed sources, licensed imagery, technical and initial live desktop/mobile checks pass; launch QA pending",
+  "status": "Animals/birds EN/ES deployed; initial desktop/mobile and technical checks pass; launch QA pending",
   "active_batch": [
-    "pair_022",
-    "pair_023"
+    "pair_024",
+    "pair_025"
   ],
   "staging_polished_pairs": [
     "pair_003",
@@ -14,39 +14,41 @@
     "pair_008",
     "pair_009",
     "pair_022",
-    "pair_023"
+    "pair_023",
+    "pair_024",
+    "pair_025"
   ],
   "progress": {
-    "ecuador_polished_pairs": 9,
+    "ecuador_polished_pairs": 11,
     "ecuador_current_planned_pairs": 34,
-    "ecuador_polished_percent": 26.5,
-    "site_polished_in_this_workflow": 9,
+    "ecuador_polished_percent": 32.4,
+    "site_polished_in_this_workflow": 11,
     "site_baseline_pairs": 40,
-    "site_polished_workflow_percent": 22.5,
-    "site_built_including_scaffolds": 26,
-    "site_built_including_scaffolds_percent": 65,
+    "site_polished_workflow_percent": 27.5,
+    "site_built_including_scaffolds": 28,
+    "site_built_including_scaffolds_percent": 70,
     "final_eight_country_completion_percent": null,
     "reason": "Current 40-pair baseline lacks complete Guyana/Suriname/Venezuela architectures; scaffold count is not launch completion",
-    "ecuador_content_prepared_pairs": 21,
-    "ecuador_content_prepared_percent": 61.8,
+    "ecuador_content_prepared_pairs": 23,
+    "ecuador_content_prepared_percent": 67.6,
     "ecuador_visual_review_pending_pairs": 12,
-    "ecuador_content_deployed_pairs": 21,
-    "ecuador_content_deployed_percent": 61.8,
-    "site_built_locally_including_scaffolds": 26,
-    "site_built_locally_including_scaffolds_percent": 65
+    "ecuador_content_deployed_pairs": 23,
+    "ecuador_content_deployed_percent": 67.6,
+    "site_built_locally_including_scaffolds": 28,
+    "site_built_locally_including_scaffolds_percent": 70
   },
   "local_usage_this_batch": {
     "requests": 2,
     "measured_requests": 2,
-    "prompt_tokens": 351,
-    "output_tokens": 1914,
-    "measured_tokens": 2265,
-    "seconds_measured": 86.75,
+    "prompt_tokens": 349,
+    "output_tokens": 1901,
+    "measured_tokens": 2250,
+    "seconds_measured": 78.51,
     "cache_hits": 0,
     "inference_retries": 0,
-    "blocked_before_inference_attempts": 1,
+    "blocked_before_inference_attempts": 0,
     "cloud_worker_tokens": 0,
-    "scope": "Two bounded initial question-draft calls; supervisor substantially rewrote questions and authored bilingual body/FAQ"
+    "scope": "Two bounded initial booking-question drafts only; supervisor rewrote bilingual cards and authored body/FAQ"
   },
   "llm_share": {
     "unit": "Initial bounded question-drafting requests in this batch only",
@@ -55,30 +57,29 @@
     "overall_local_token_percent": null,
     "overall_cloud_token_percent": null,
     "cloud_supervision_tokens": "Not exposed by this session",
-    "editorial_note": "100% of two bounded initial question-draft calls ran locally. Supervisor substantially rewrote questions and wrote bilingual body/FAQ, reviewed sources and photos, built/deployed and performed QA. Overall cloud/local tokens and work percentages are unavailable."
+    "editorial_note": "100% of two initial bounded question-draft calls ran locally; supervisor rewrote cards and authored body/FAQ, sourced photos/facts, built/deployed/QA. Overall work/token percentages unavailable."
   },
   "measured_local_cumulative": {
-    "requests": 24,
-    "prompt_tokens": 15495,
-    "output_tokens": 57964,
-    "total_tokens": 73459,
-    "basis": "Prior aggregate plus two decision calls; historic canoe response metrics remain unavailable",
+    "requests": 26,
+    "prompt_tokens": 15844,
+    "output_tokens": 59865,
+    "total_tokens": 75709,
+    "basis": "Prior aggregate plus two species calls; historic canoe metrics unavailable",
     "cloud_supervision_excluded": true,
-    "measured_requests": 23,
+    "measured_requests": 25,
     "unmeasured_requests": 1,
     "token_total_is_lower_bound": true
   },
   "opportunities_and_improvements": [
-    "Owner-reported frog repetition: replaced scenes on seven EN/ES pairs; each frog retained only on its destination pair",
-    "Added compiled site-wide image counts and a gate against repeated frogs and duplicates within a page; byte/source rotation checks preserved",
-    "Added observed local mistranslation and unrealistic-specificity warnings with regression test; raw preserved and corrected before publication",
-    "Portrait photos forced tall cards: scoped desktop CSS now lets text determine row height; final live heights 422–450px; mobile photo-before-text retained",
-    "Five new licensed photographs added with creator, source, license, location evidence and derivative records; new batch has six scenes and zero overlap with preceding two batches"
+    "Source summary was static: daily official source hash monitor added; fetch failure cannot advance successful check or publication date; 5 tests pass",
+    "Six fresh licensed Yasuní photos; zero scene/source/byte overlap with previous two batches",
+    "Local Spanish gender failure caught in review; added warning and regression (7 editorial tests pass)",
+    "Mobile photo credits low contrast: scoped CSS corrected and final live verified"
   ],
   "verification": {
-    "static": "52 compiled HTML pages and 32 hub/format audits pass; 6 observed-editorial-failure tests; site image-usage and batch identity/rotation regression checks pass",
+    "static": "56 compiled HTML pages and 36 route audits pass; 5 monitor and 7 editorial regression tests pass; image uniqueness and rotation checks pass",
     "visual": "initial_desktop_mobile_visual_and_interaction_checks_pass",
-    "photos": "New batch: four new licensed scenes plus two cleared existing scenes; packing gains a fifth new photo. Frog repetition removed across seven earlier pairs.",
+    "photos": "Six new geographically accurate CC BY 2.0 Yasuní photographs; no frog images in batch",
     "protected_domain_unauthenticated_status": 302,
     "launch_checks_pending": [
       "Full accessibility",
@@ -87,12 +88,12 @@
     ]
   },
   "rollback": {
-    "previous_deployment": "7c17d480",
-    "previous_commit": "b30fe42",
+    "previous_deployment": "eb6321ee",
+    "previous_commit": "b7d45a4",
     "branch": "staging",
     "production_modified": false
   },
-  "next": "Owner review of safety/comparison and image rotation; next candidates animals and birds",
+  "next": "Owner review of animals/birds; remaining twelve earlier visual audits and launch QA remain pending",
   "other_countries": "Peru, Brazil, Colombia, Bolivia, Guyana, Suriname and Venezuela: no polished country clusters in this workflow",
   "deployment": "eb6321ee",
   "preview_links": {

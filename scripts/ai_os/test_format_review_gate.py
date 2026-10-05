@@ -12,6 +12,9 @@ class ObservedFailures(unittest.TestCase):
   self.assertEqual(flags({"es":"Confirma los detalles y pide información."}),[])
  def test_decision_draft_observed_failures(self):
   self.assertEqual(set(flags({"en":"minute-by-minute schedule", "es":"camadas guiadas"})),{"literal_spanish_failure","unrealistic_specificity"})
+ def test_species_gender_regression(self):
+  self.assertEqual(flags({'es':'¿Son ciertas las avistamientos?'}),['literal_spanish_failure'])
+  self.assertEqual(flags({'es':'Los avistamientos no están garantizados.'}),[])
  def test_reviewed_question_is_not_flagged(self):
   self.assertEqual(flags({'intro':'Which transport segments are included in the written proposal?'}),[])
 if __name__=='__main__':unittest.main()

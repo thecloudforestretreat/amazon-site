@@ -1,13 +1,6 @@
 {
   "date": "2026-10-05",
-  "pairs": [
-    "pair_024",
-    "pair_025"
-  ],
-  "status": "awaiting_owner_review_of_safety_comparison",
-  "candidates": [
-    "animals-of-the-ecuador-amazon",
-    "birds-of-the-ecuador-amazon"
-  ],
-  "scope": "Document species and regional source evidence; no sighting guarantees. Select fresh rights-cleared geographic photos using global usage counts; retain no-duplicate-per-page rule. Bounded local drafts only, saved metrics/raw/reviewed evidence; desktop/mobile QA and protected staging readback."
+  "status": "awaiting_owner_review_of_animals_birds",
+  "pairs": [],
+  "scope": "Choose next two remaining sitemap pairs after review; use distinct geographically verified media; retain technical and desktop/mobile gates. Daily advice monitor remains active."
 }

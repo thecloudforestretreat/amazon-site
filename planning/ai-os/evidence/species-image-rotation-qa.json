@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "six_unique_scenes": true,
+  "recent_batches": [
+    "decision",
+    "logistics"
+  ],
+  "overlap": 0,
+  "actual_photos_visually_inspected": true
+}

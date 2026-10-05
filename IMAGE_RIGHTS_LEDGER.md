@@ -106,3 +106,12 @@ Five new photos, source HTML and geography/license evidence retained in `plannin
 - cuyabeno-kapok-bellers: CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Kapokbaum%2C_San_Victoriano_Siona_Village%2C_Cuyabeno-Reservat.jpg
 
 Bartolomé: Pete/Peter Gene; Santa Fe sea lion: Bernard Gagnon; Cuyabeno monkey: pamsai; leaves and kapok: Fährtenleser. Four scenes used in new pair batch, monkey used for packing replacement; two existing cleared scenes reused in batch. Six batch scenes have no overlap with preceding two batches and no repeated scene per page. Retained frogs appear only on Cuyabeno/Yasuní destination pages. New compiled global usage report exposes all repetition for future selection.
+
+## October 5 — animals/birds image expansion
+Six new Yasuní photographs by Geoff Gallice, CC BY 2.0, resized derivatives with source/license/creator/change indications retained. Actual photos inspected and source geographic evidence saved in species-batch-config and individual rights records. No scene/source/byte overlap with decision/logistics batches; no duplicated photo per page. Mist-netted bat excluded.
+- /assets/images/ecuador/yasuni-woolly-monkey.jpg: https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Common_woolly_monkey.jpg — Geoff Gallice, CC BY 2.0, https://creativecommons.org/licenses/by/2.0/
+- /assets/images/ecuador/yasuni-leaf-katydid.jpg: https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Leaf_mimic_katydid.jpg — Geoff Gallice, CC BY 2.0, https://creativecommons.org/licenses/by/2.0/
+- /assets/images/ecuador/yasuni-mantis-ootheca.jpg: https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Mantis_mother_with_ootheca.jpg — Geoff Gallice, CC BY 2.0, https://creativecommons.org/licenses/by/2.0/
+- /assets/images/ecuador/yasuni-scarlet-macaw.jpg: https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Scarlet_macaw_(1).jpg — Geoff Gallice, CC BY 2.0, https://creativecommons.org/licenses/by/2.0/
+- /assets/images/ecuador/yasuni-aracari.jpg: https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Many_banded_aracari.jpg — Geoff Gallice, CC BY 2.0, https://creativecommons.org/licenses/by/2.0/
+- /assets/images/ecuador/yasuni-piping-guan.jpg: https://commons.wikimedia.org/wiki/File:Blue-throated_Piping_Guan_(Pipile_cumanensis),_Yasuni_National_Park,_Ecuador.jpg — Geoff Gallice, CC BY 2.0, https://creativecommons.org/licenses/by/2.0/

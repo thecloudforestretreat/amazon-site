@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-05",
+  "photos": {
+    "animals-guide": [
+      {
+        "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg",
+        "width": 1400,
+        "height": 933,
+        "credit": "Geoff Gallice",
+        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Common_woolly_monkey.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "altEn": "Woolly monkey among the forest canopy in Yasuní National Park, Ecuador",
+        "altEs": "Mono lanudo entre las copas de los árboles en el Parque Nacional Yasuní, Ecuador"
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-leaf-katydid.jpg",
+        "width": 1400,
+        "height": 933,
+        "credit": "Geoff Gallice",
+        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Leaf_mimic_katydid.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "altEn": "Leaf-mimicking katydid photographed in Yasuní, Ecuador",
+        "altEs": "Insecto con aspecto de hoja fotografiado en Yasuní, Ecuador"
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-mantis-ootheca.jpg",
+        "width": 1400,
+        "height": 933,
+        "credit": "Geoff Gallice",
+        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Mantis_mother_with_ootheca.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "altEn": "Mantis beside an egg case on a branch in Yasuní, Ecuador",
+        "altEs": "Mantis junto a una ooteca en una rama en Yasuní, Ecuador"
+      }
+    ],
+    "birds-guide": [
+      {
+        "src": "/assets/images/ecuador/yasuni-scarlet-macaw.jpg",
+        "width": 1400,
+        "height": 933,
+        "credit": "Geoff Gallice",
+        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Scarlet_macaw_(1).jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "altEn": "Scarlet macaw on a branch near the Tiputini River in Yasuní, Ecuador",
+        "altEs": "Guacamayo escarlata en una rama cerca del río Tiputini, Yasuní, Ecuador"
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-aracari.jpg",
+        "width": 1400,
+        "height": 933,
+        "credit": "Geoff Gallice",
+        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Many_banded_aracari.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "altEn": "Many-banded aracari perched on a branch in Yasuní, Ecuador",
+        "altEs": "Arasarí fajado posado en una rama en Yasuní, Ecuador"
+      },
+      {
+        "src": "/assets/images/ecuador/yasuni-piping-guan.jpg",
+        "width": 1400,
+        "height": 933,
+        "credit": "Geoff Gallice",
+        "source": "https://commons.wikimedia.org/wiki/File:Blue-throated_Piping_Guan_(Pipile_cumanensis),_Yasuni_National_Park,_Ecuador.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "altEn": "Piping guan among treetops in Yasuní National Park, Ecuador",
+        "altEs": "Pava entre las copas de los árboles en el Parque Nacional Yasuní, Ecuador"
+      }
+    ]
+  }
+}

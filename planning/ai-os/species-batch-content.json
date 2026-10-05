@@ -1,0 +1,322 @@
+{
+  "animals-guide": {
+    "en": {
+      "title": "Animals of the Ecuador Amazon | Wildlife and Trip Planning",
+      "h1": "Meet the forest on its own terms",
+      "lede": "From a monkey in the canopy to an insect shaped like a leaf, explore the wildlife of the Ecuadorian Amazon with curiosity, careful observation and realistic expectations.",
+      "intro": "A wildlife journey is more than a list of sightings",
+      "quick": "Start with a habitat, a regional base and the kind of observation you enjoy. The Ecuadorian Amazon supports many kinds of wildlife, but a biodiversity record does not predict an encounter on your trip. Use the examples below to begin a conversation with your guide, then compare the actual routes, time, interpretation and physical requirements of the proposed outings.",
+      "facts": [
+        [
+          "Forest and river",
+          "Choose the habitat"
+        ],
+        [
+          "Guided observation",
+          "Learn what you notice"
+        ],
+        [
+          "Wildlife moves freely",
+          "Keep expectations open"
+        ],
+        [
+          "Space and patience",
+          "Observe responsibly"
+        ]
+      ],
+      "guide": "Build a journey around curiosity",
+      "guidelede": "Six ways to turn wildlife interests into a thoughtful, clearly described program.",
+      "cards": [
+        [
+          "Monkeys in the forest",
+          "Woolly, spider and squirrel monkeys are among the mammals recorded by UNESCO for the Yasuní biosphere region. Their presence in a regional record does not establish a sighting opportunity at every base. Ask your guide about the local setting, what has actually been observed and how the group should respond to movement in the trees.",
+          "yasuni"
+        ],
+        [
+          "Large and aquatic mammals",
+          "Tapirs, sloths, river dolphins and giant otters also appear in UNESCO’s regional account. Treat those names as examples of biodiversity rather than a checklist for a short tour. Ask for the context of any advertised observation and choose a program that remains worthwhile when an elusive animal does not appear.",
+          "amazon-wildlife-tour"
+        ],
+        [
+          "The smaller discoveries",
+          "The photographs on this page include a leaf-mimicking katydid and a mantis documented in Yasuní. They invite a closer look at the forest without handling its inhabitants. Ask whether your proposed outing leaves time for careful observation and explanation, rather than concentrating only on animals named in a promotional headline.",
+          "yasuni"
+        ],
+        [
+          "Choosing a regional base",
+          "Compare Cuyabeno, Yasuní and the Napo corridor, or a town-based outing from Tena, Misahuallí or Puyo. Ask where each activity happens and how you reach it. A broad Amazon label cannot establish the habitat, guiding, facilities or wildlife observation approach of a specific program.",
+          "cuyabeno"
+        ]
+      ],
+      "extra": "Keep a useful wildlife notebook",
+      "extrap": "Write down the date, place and what you actually observed. Separate a guide’s confirmed identification from a tentative one, and distinguish an animal you saw from a sound or track discussed during the outing. A short note can help you remember the experience without inflating a species list. Ask the guide before sharing precise locations that could draw attention to a sensitive observation.",
+      "extra2": "Combine learning with practical planning",
+      "extra2p": "A rewarding wildlife trip still needs a clear itinerary. Ask how the lodge or base, road and river transfers, guiding and outings fit together. Share your dates, group, mobility requirements and photography interests. Review current advice for every gateway and ask what would change the plan. Choose the proposal whose details you understand rather than the one with the most dramatic collection of photographs.",
+      "faqs": [
+        [
+          "Which animals can I see?",
+          "The animals present and the ones you observe are different questions. Ask about the specific habitat and recent local observations. Regional examples include monkeys and aquatic mammals, but no animal on this page is promised for your itinerary."
+        ],
+        [
+          "Are wildlife sightings guaranteed?",
+          "No. A photograph or biodiversity record does not guarantee a future encounter. Compare the habitat, guiding and observation time, and choose a journey you would enjoy even if a target species remains unseen."
+        ],
+        [
+          "Is Yasuní the same as every Napo lodge?",
+          "No. Ask for the exact location of the property and outings. A Napo-corridor description does not mean the accommodation or all its activities are inside Yasuní National Park."
+        ],
+        [
+          "Can I feed or touch wildlife?",
+          "Do not feed, handle or pursue wildlife for an encounter or photograph. Follow the guide’s instructions and ask how the provider keeps animals undisturbed during the specific outing."
+        ],
+        [
+          "What should I bring for observation?",
+          "Ask the provider what is supplied and what you need for the agreed route. Discuss binoculars, camera protection, carrying equipment, clothing and mobility requirements without assuming gear is included."
+        ],
+        [
+          "How do I compare wildlife programs?",
+          "Request the base, outings, guiding, transfers and actual observation time in writing. Discuss your interests and physical needs, review current regional advice, and clarify alternatives and change terms before committing."
+        ]
+      ]
+    },
+    "es": {
+      "title": "Animales de la Amazonía Ecuatoriana | Fauna y Viajes",
+      "h1": "Descubre la selva a su propio ritmo",
+      "lede": "Desde un mono entre las copas hasta un insecto con forma de hoja, conoce la fauna de la Amazonía ecuatoriana con curiosidad, observación cuidadosa y expectativas realistas.",
+      "intro": "Un viaje de fauna es más que una lista de avistamientos",
+      "quick": "Empieza por un hábitat, una base regional y la forma de observar que disfrutas. La Amazonía ecuatoriana alberga distintos grupos de fauna, pero un registro de biodiversidad no predice un encuentro durante tu viaje. Usa estos ejemplos para conversar con el guía y compara las rutas concretas, el tiempo, las explicaciones y las exigencias físicas de las salidas propuestas.",
+      "facts": [
+        [
+          "Bosque y río",
+          "Elige el hábitat"
+        ],
+        [
+          "Observación guiada",
+          "Aprende de lo que ves"
+        ],
+        [
+          "Fauna en libertad",
+          "Mantén expectativas abiertas"
+        ],
+        [
+          "Espacio y paciencia",
+          "Observa con respeto"
+        ]
+      ],
+      "guide": "Viaja con curiosidad",
+      "guidelede": "Seis formas de convertir tus intereses en un programa bien pensado y claramente descrito.",
+      "cards": [
+        [
+          "Monos de la selva",
+          "Monos lanudos, araña y ardilla figuran entre los mamíferos registrados por la UNESCO en la región de la Reserva de Biósfera Yasuní. Su presencia en un registro regional no implica una oportunidad de avistamiento en cada base. Pregunta por el entorno local, las observaciones documentadas y cómo debe responder el grupo al movimiento entre los árboles.",
+          "yasuni"
+        ],
+        [
+          "Mamíferos grandes y acuáticos",
+          "Tapires, perezosos, delfines de río y nutrias gigantes también aparecen en la descripción regional de la UNESCO. Son ejemplos de biodiversidad, no una lista que debas completar en un recorrido corto. Consulta el contexto de cualquier observación anunciada y elige un programa que siga siendo interesante aunque un animal esquivo no aparezca.",
+          "tour-de-fauna-en-la-amazonia"
+        ],
+        [
+          "Pequeños descubrimientos",
+          "Las fotos de esta página incluyen un insecto con aspecto de hoja y una mantis documentados en Yasuní. Invitan a mirar la selva con atención sin manipular sus habitantes. Consulta si la salida propuesta deja tiempo para observar y aprender, en lugar de centrarse únicamente en los animales que aparecen en un anuncio.",
+          "yasuni"
+        ],
+        [
+          "Elegir una base regional",
+          "Compara Cuyabeno, Yasuní y el corredor del Napo, o una salida desde Tena, Misahuallí o Puyo. Pregunta dónde se realiza cada actividad y cómo se llega. Una descripción general de la Amazonía no confirma el hábitat, el guía, las instalaciones ni la forma de observar fauna de un programa concreto.",
+          "cuyabeno"
+        ]
+      ],
+      "extra": "Lleva un cuaderno de observación útil",
+      "extrap": "Anota fecha, lugar y lo que realmente observaste. Distingue una identificación confirmada de una tentativa, y un animal visto de un sonido o rastro comentado durante la salida. Una nota breve ayuda a recordar la experiencia sin aumentar artificialmente la lista de especies. Pregunta al guía antes de compartir ubicaciones precisas que puedan atraer atención hacia una observación sensible.",
+      "extra2": "Combina aprendizaje y planificación",
+      "extra2p": "Un viaje de fauna también necesita un itinerario claro. Pregunta cómo encajan la base o el alojamiento, los traslados por carretera y río, el guía y las salidas. Comparte fechas, grupo, necesidades de movilidad e intereses fotográficos. Revisa los avisos de cada acceso y pregunta qué cambiaría el plan. Elige una propuesta comprensible, no la que acumule las fotografías más llamativas.",
+      "faqs": [
+        [
+          "¿Qué animales puedo ver?",
+          "Los animales presentes y los que observarás son preguntas distintas. Consulta el hábitat concreto y las observaciones locales recientes. Los ejemplos regionales incluyen monos y mamíferos acuáticos, pero ningún animal de esta página se promete para tu itinerario."
+        ],
+        [
+          "¿Se garantizan los avistamientos?",
+          "No. Una foto o un registro de biodiversidad no garantiza un encuentro futuro. Compara el hábitat, el guía y el tiempo de observación, y elige un viaje que disfrutes aunque no aparezca una especie concreta."
+        ],
+        [
+          "¿Todo lodge del Napo está en Yasuní?",
+          "No. Pide la ubicación exacta del alojamiento y de las salidas. Una descripción del corredor del Napo no implica que la propiedad ni todas sus actividades estén dentro del Parque Nacional Yasuní."
+        ],
+        [
+          "¿Puedo alimentar o tocar animales?",
+          "No alimentes, manipules ni persigas fauna para conseguir un encuentro o una foto. Sigue las indicaciones del guía y consulta cómo evita el proveedor las molestias a los animales durante la actividad."
+        ],
+        [
+          "¿Qué llevo para observar?",
+          "Pregunta qué proporciona el proveedor y qué necesitas para la ruta acordada. Consulta binoculares, protección de la cámara, transporte del equipo, ropa y necesidades de movilidad, sin asumir que el material está incluido."
+        ],
+        [
+          "¿Cómo comparo programas de fauna?",
+          "Solicita por escrito la base, las salidas, el guía, los traslados y el tiempo real de observación. Explica tus intereses y necesidades físicas, revisa avisos regionales y aclara alternativas y condiciones de cambio antes de reservar."
+        ]
+      ]
+    }
+  },
+  "birds-guide": {
+    "en": {
+      "title": "Birds of the Ecuador Amazon | A Guide for Curious Travellers",
+      "h1": "A closer look at the birds of the Amazon",
+      "lede": "Colour in the treetops, a shape on a branch, a sound you cannot yet name. Discover the birds of the Ecuadorian Amazon and choose an outing that suits your curiosity.",
+      "intro": "Begin with observation, then build your list",
+      "quick": "You can enjoy Amazon birds without knowing every name. Start with your interests and the proposed habitat, then ask about the guide, equipment and pace. This is an introduction to regional bird life and thoughtful trip planning, not a complete field guide or a promise of sightings. Confirm the exact location and scope of a bird list before using it to compare programs.",
+      "facts": [
+        [
+          "First look or field list",
+          "Define your interests"
+        ],
+        [
+          "Forest and river edges",
+          "Ask about habitats"
+        ],
+        [
+          "Seen or heard",
+          "Record clearly"
+        ],
+        [
+          "Guide and equipment",
+          "Confirm the details"
+        ]
+      ],
+      "guide": "Find your way into bird observation",
+      "guidelede": "From first-time curiosity to a focused field interest, make the proposed outing clear before booking.",
+      "cards": [
+        [
+          "Macaws and parrots",
+          "UNESCO includes macaws among the birds of the Yasuní biosphere region. The scarlet macaw photographed here was documented near the Tiputini River in Yasuní. That image records one observation, not a scheduled encounter. Ask about the places and conditions behind any advertised photograph, and avoid treating a promotional gallery as the list for your trip.",
+          "yasuni"
+        ],
+        [
+          "Toucans and aracaris",
+          "Toucans appear in UNESCO’s regional description; this page also shows a many-banded aracari photographed in Yasuní. The photograph can introduce an interest, while the guide can explain what supports an identification in the field. Ask whether the proposed program allows time to observe and learn instead of moving on as soon as a bird receives a name.",
+          "amazon-birdwatching-tour"
+        ],
+        [
+          "Guans and other forest birds",
+          "The piping guan shown here was photographed in Yasuní National Park. UNESCO’s regional account also includes guans and several other bird groups. A record from one location cannot establish what you will see at another base. Ask for a checklist tied to the proposed routes, with dates and a clear distinction between documented presence and visitor sightings.",
+          "yasuni"
+        ],
+        [
+          "Learning the local context",
+          "INABIO reports a collaborative illustrated guide to birds recorded in a study area of the Yasuní biosphere reserve. Use that resource as a starting point for learning rather than a complete inventory of your journey. Ask the provider how local observations are recorded and what kind of identification and explanation the actual guide offers.",
+          "amazon-birdwatching-tour"
+        ]
+      ],
+      "extra": "Use a field guide with its context",
+      "extrap": "Check the geographic area, publication date and purpose of a guide or checklist. A research inventory, a personal trip list and a lodge gallery describe different kinds of evidence. Keep those distinctions when choosing a base. If you have target species, share them as interests and ask the guide to explain what is known about the proposed area, without converting past observations into future promises.",
+      "extra2": "Connect the birds with the journey",
+      "extra2p": "Choose the base and observation program together. Ask how much time remains after arrival and departure transfers, how the route suits your mobility and equipment, and what alternatives are discussed if plans change. A clear proposal can accommodate curiosity without forcing every hour into a species hunt. See the birdwatching program guide when you are ready to compare the practical details of an outing.",
+      "faqs": [
+        [
+          "Do I need birdwatching experience?",
+          "No specialist knowledge is needed to begin learning. Tell the provider your experience and interests, then ask how the guide introduces observation and equipment. Confirm the physical demands and pace of the specific outing."
+        ],
+        [
+          "Will I see macaws or toucans?",
+          "These birds are part of the regional biodiversity described by UNESCO, but their presence does not guarantee a sighting. Ask about the exact habitat and recent observations, and avoid choosing a program solely for one promised species."
+        ],
+        [
+          "Is the regional checklist my trip checklist?",
+          "No. Check where and when its records were collected. A regional or research list is useful context, while your own list should describe what you actually saw or heard on your visit."
+        ],
+        [
+          "Are binoculars included?",
+          "That depends on the provider and booking. Ask what equipment is supplied, shared or required, and whether you can practise using it. Do not assume a lodge photograph establishes an equipment inclusion."
+        ],
+        [
+          "How should I photograph birds?",
+          "Follow the guide’s instructions and give birds space. Do not approach nests, chase a bird or rearrange vegetation. Ask about the provider’s observation and attraction policies before choosing an outing."
+        ],
+        [
+          "How is this different from a birdwatching tour?",
+          "This page introduces birds and how to think about observation. The birdwatching tour guide helps compare program details, including guiding, pacing, equipment and transfers. Neither page describes a confirmed bookable departure."
+        ]
+      ]
+    },
+    "es": {
+      "title": "Aves de la Amazonía Ecuatoriana | Guía para Viajeros Curiosos",
+      "h1": "Mira de cerca las aves de la Amazonía",
+      "lede": "Color entre las copas, una silueta en una rama, un canto que aún no reconoces. Descubre las aves de la Amazonía ecuatoriana y elige una salida que acompañe tu curiosidad.",
+      "intro": "Empieza por observar y después construye tu lista",
+      "quick": "Puedes disfrutar de las aves amazónicas sin conocer todos sus nombres. Empieza por tus intereses y el hábitat propuesto; después consulta el guía, el equipo y el ritmo. Esta es una introducción a las aves regionales y a la planificación, no una guía de campo completa ni una promesa de avistamientos. Confirma la ubicación y el alcance de una lista antes de comparar programas.",
+      "facts": [
+        [
+          "Primera mirada o lista",
+          "Define tus intereses"
+        ],
+        [
+          "Bosque y orillas",
+          "Consulta los hábitats"
+        ],
+        [
+          "Visto o escuchado",
+          "Registra con claridad"
+        ],
+        [
+          "Guía y equipo",
+          "Confirma los detalles"
+        ]
+      ],
+      "guide": "Encuentra tu forma de observar aves",
+      "guidelede": "Desde la curiosidad inicial hasta un interés especializado, conoce la salida propuesta antes de reservar.",
+      "cards": [
+        [
+          "Guacamayos y loros",
+          "La UNESCO incluye guacamayos entre las aves de la región de la Reserva de Biósfera Yasuní. El guacamayo escarlata de esta página fue fotografiado cerca del río Tiputini, en Yasuní. La imagen documenta una observación, no un encuentro programado. Pregunta por el lugar y las condiciones de una foto anunciada, sin tomar la galería como lista de tu viaje.",
+          "yasuni"
+        ],
+        [
+          "Tucanes y arasaríes",
+          "Los tucanes aparecen en la descripción regional de la UNESCO; aquí también se muestra un arasarí fajado fotografiado en Yasuní. La foto puede despertar un interés, mientras el guía explica qué permite identificar un ave en el campo. Consulta si el programa deja tiempo para observar y aprender, en lugar de continuar apenas se menciona un nombre.",
+          "tour-de-avistamiento-de-aves-en-la-amazonia"
+        ],
+        [
+          "Pavas y otras aves del bosque",
+          "La pava de esta página fue fotografiada en el Parque Nacional Yasuní. La descripción regional de la UNESCO también incluye pavas y otros grupos de aves. Un registro de un lugar no confirma lo que verás desde otra base. Pide una lista vinculada a las rutas propuestas, con fechas y una distinción entre presencia documentada y avistamientos de visitantes.",
+          "yasuni"
+        ],
+        [
+          "Conoce el contexto local",
+          "INABIO informa sobre una guía ilustrada colaborativa de aves registradas en una zona de estudio de la Reserva de Biósfera Yasuní. Úsala para empezar a aprender, no como inventario completo de tu viaje. Pregunta cómo registra el proveedor las observaciones locales y qué identificación y explicaciones ofrece la persona que realmente te guiará.",
+          "tour-de-avistamiento-de-aves-en-la-amazonia"
+        ]
+      ],
+      "extra": "Lee una guía de campo con su contexto",
+      "extrap": "Revisa el área geográfica, la fecha y el propósito de una guía o lista. Un inventario científico, una lista personal de viaje y una galería de un alojamiento describen evidencias distintas. Conserva esas diferencias al elegir la base. Si te interesan especies concretas, compártelas como intereses y pide al guía que explique lo conocido sobre la zona propuesta, sin convertir observaciones pasadas en promesas futuras.",
+      "extra2": "Relaciona las aves con el viaje",
+      "extra2p": "Elige la base y el programa de observación juntos. Consulta cuánto tiempo queda después de los traslados de llegada y salida, cómo encaja la ruta con tu movilidad y equipo, y qué alternativas se plantean si cambia el plan. Una propuesta clara deja espacio para la curiosidad sin convertir cada hora en una búsqueda de especies. Consulta la guía de avistamiento para comparar los detalles de una salida.",
+      "faqs": [
+        [
+          "¿Necesito experiencia observando aves?",
+          "No necesitas conocimientos especializados para empezar a aprender. Explica tu experiencia e intereses y pregunta cómo introduce el guía la observación y el equipo. Confirma las exigencias físicas y el ritmo de la actividad concreta."
+        ],
+        [
+          "¿Veré guacamayos o tucanes?",
+          "Forman parte de la biodiversidad regional descrita por la UNESCO, pero su presencia no garantiza un avistamiento. Consulta el hábitat exacto y las observaciones recientes, sin elegir un programa solo por una especie prometida."
+        ],
+        [
+          "¿La lista regional es la lista de mi viaje?",
+          "No. Revisa dónde y cuándo se recogieron los registros. Una lista regional o científica aporta contexto; tu lista personal debe describir lo que realmente viste o escuchaste durante la visita."
+        ],
+        [
+          "¿Se incluyen binoculares?",
+          "Depende del proveedor y de la reserva. Pregunta qué equipo se proporciona, se comparte o debes llevar, y si puedes practicar su uso. Una foto del alojamiento no confirma que el material esté incluido."
+        ],
+        [
+          "¿Cómo fotografío aves?",
+          "Sigue las indicaciones del guía y da espacio a las aves. No te acerques a nidos, persigas un ave ni cambies la vegetación. Consulta las políticas de observación y atracción antes de elegir una salida."
+        ],
+        [
+          "¿En qué se diferencia de un tour de avistamiento?",
+          "Esta página introduce las aves y la forma de observar. La guía del tour ayuda a comparar el programa: guía, ritmo, equipo y traslados. Ninguna de las dos describe una salida reservable confirmada."
+        ]
+      ]
+    }
+  }
+}

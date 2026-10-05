@@ -156,6 +156,27 @@
       ]
     },
     {
+      "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/animals-of-the-ecuador-amazon/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/yasuni-leaf-katydid.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/animals-of-the-ecuador-amazon/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/yasuni-mantis-ootheca.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/animals-of-the-ecuador-amazon/"
+      ]
+    },
+    {
       "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg",
       "count": 1,
       "routes": [
@@ -230,6 +251,27 @@
       "count": 1,
       "routes": [
         "/ecuador/is-the-ecuador-amazon-safe/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/yasuni-scarlet-macaw.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/birds-of-the-ecuador-amazon/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/yasuni-aracari.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/birds-of-the-ecuador-amazon/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/yasuni-piping-guan.jpg",
+      "count": 1,
+      "routes": [
+        "/ecuador/birds-of-the-ecuador-amazon/"
       ]
     },
     {

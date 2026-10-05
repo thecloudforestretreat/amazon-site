@@ -1,0 +1,24 @@
+{
+  "job": "animals-guide",
+  "model": "qwen3.5:9b",
+  "status": "editorial_reviewed_deployed_initial_visual_pass_full_qa_pending",
+  "review_flags": [],
+  "seconds": 35.19,
+  "prompt_eval_count": 174,
+  "eval_count": 782,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false,
+  "raw_review_flags": [
+    "literal_spanish_failure"
+  ],
+  "reviewed_flags": [],
+  "raw_draft_sha256": "859aeeeb426c8792a1ef12c74f80e3448146438ab9991231672886bdd6c54f6c",
+  "reviewed_sha256": "11c4298429af29f937c39e9d2b8bdbf8e36a34a8e82e482ae19edef619771f76",
+  "deployment": "3744881d",
+  "promotion": "Substantial supervisor rewrite; raw never published",
+  "editorial_findings": [
+    "Animals Spanish gender error las avistamientos corrected",
+    "Birds draft assumed airport/station and mixed pronouns; replaced with neutral provider-specific questions",
+    "Unidiomatic songs/calls language corrected in Spanish"
+  ]
+}
