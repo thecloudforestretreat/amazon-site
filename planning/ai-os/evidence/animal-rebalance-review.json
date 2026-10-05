@@ -1,0 +1,52 @@
+{
+  "review_date": "2026-10-05",
+  "reason": "Owner observed insects dominating animal feature photographs",
+  "groups": [
+    "mammal",
+    "bird",
+    "reptile"
+  ],
+  "photos": [
+    {
+      "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg",
+      "width": 1400,
+      "height": 933,
+      "credit": "Geoff Gallice",
+      "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Common_woolly_monkey.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "altEn": "Woolly monkey among the forest canopy in Yasuní National Park, Ecuador",
+      "altEs": "Mono lanudo entre las copas de los árboles en el Parque Nacional Yasuní, Ecuador"
+    },
+    {
+      "src": "/assets/images/ecuador/cuyabeno-hoatzin-gallagher.jpg",
+      "width": 1400,
+      "height": 933,
+      "credit": "Judy Gallagher",
+      "source": "https://commons.wikimedia.org/wiki/File:Hoatzin_-_Ophisthocomus_hoazin,_Cuyabeno_Wildlife_Reserve,_Ecuador_(48703661312).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "altEn": "Hoatzins on a branch in Cuyabeno Wildlife Reserve, Ecuador",
+      "altEs": "Hoacines en una rama en la Reserva de Producción de Fauna Cuyabeno, Ecuador"
+    },
+    {
+      "src": "/assets/images/ecuador/napo-turtle-new.jpg",
+      "width": 1400,
+      "height": 933,
+      "credit": "Charles J. Sharp",
+      "source": "https://commons.wikimedia.org/wiki/File:Arrau_turtle_(Podocnemis_expansa)_head_Rio_Napo.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "altEn": "Arrau river turtle photographed in the Río Napo region of Ecuador",
+      "altEs": "Tortuga arrau fotografiada en la región del río Napo, Ecuador"
+    }
+  ],
+  "geography": {
+    "hoatzin": "Source description Cuyabeno Wildlife Reserve, Ecuador",
+    "turtle": "Source description Río Napo, Ecuador; camera -0.44,-76.28"
+  },
+  "rights": {
+    "turtle": "Derivative resized JPEG remains CC BY-SA 4.0; attribution, source, license and change indication visible"
+  },
+  "visual_review": "Both new photographs inspected before use"
+}

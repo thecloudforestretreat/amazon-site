@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-05",
+  "status": "local_drafts_saved_pending_editorial_page_build_and_deploy",
+  "pairs": [
+    "pair_026",
+    "pair_028"
+  ],
+  "jobs": [
+    {
+      "job": "trip-plan-guide",
+      "model": "qwen3.5:9b",
+      "status": "awaiting_editorial_review",
+      "review_flags": [],
+      "seconds": 41.24,
+      "prompt_eval_count": 175,
+      "eval_count": 920,
+      "cloud_worker_tokens": 0,
+      "cache_hit": false
+    },
+    {
+      "job": "ecuador-faq-guide",
+      "model": "qwen3.5:9b",
+      "status": "awaiting_editorial_review",
+      "review_flags": [],
+      "seconds": 32.4,
+      "prompt_eval_count": 173,
+      "eval_count": 819,
+      "cloud_worker_tokens": 0,
+      "cache_hit": false
+    }
+  ],
+  "local_tokens": 2087,
+  "seconds": 73.64,
+  "local_calls": 2,
+  "retries": 0,
+  "cache_hits": 0,
+  "progress": "23/34 prepared/deployed (~68%); next drafts are not counted as deployed",
+  "routing": "100% of these two bounded initial drafting calls used local qwen3.5:9b; cloud supervisor work excluded and overall percentage unmeasured",
+  "next": "Build reviewed EN/ES trip planning and FAQ pages; retain customer-review page pending genuine customer material"
+}

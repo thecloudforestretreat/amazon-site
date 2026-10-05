@@ -1,0 +1,11 @@
+{
+  "job": "ecuador-faq-guide",
+  "model": "qwen3.5:9b",
+  "status": "awaiting_editorial_review",
+  "review_flags": [],
+  "seconds": 32.4,
+  "prompt_eval_count": 173,
+  "eval_count": 819,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false
+}

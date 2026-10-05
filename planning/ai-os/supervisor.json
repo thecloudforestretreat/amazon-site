@@ -62,9 +62,9 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review of animals/birds previews",
-    "Daily official advice check: python3 scripts/ai_os/check_advice.py; review changes before bilingual staging publication",
-    "Full accessibility/performance/contact delivery and twelve earlier visual audits pending"
+    "Review and build pair_026 trip planning and pair_028 FAQs from saved local drafts; use six varied photos",
+    "Run technical QA, desktop/mobile visual review and protected staging deployment for next batch",
+    "Daily official advice check when due; launch QA and twelve earlier visual audits remain pending"
   ],
   "future_batches": [
     "Choose next two sitemap pairs after owner review"
@@ -81,10 +81,10 @@
     "scope": "Owner explicitly authorized staging release and proceeding on October 5; pending visual checks stay recorded"
   },
   "deployment": {
-    "id": "3744881d",
+    "id": "ebe1efd2",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://3744881d.amazon-site-staging.pages.dev",
+    "url": "https://ebe1efd2.amazon-site-staging.pages.dev",
     "protected_domain_check": "302 unauthenticated Cloudflare Access redirect; authenticated browser readback verified",
     "date": "2026-10-05"
   },
@@ -108,10 +108,10 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "animals-guide",
-    "birds-guide"
+    "trip-plan-guide",
+    "ecuador-faq-guide"
   ],
-  "batch_status": "Animals/birds EN/ES deployed; initial desktop/mobile and technical checks pass; launch QA pending",
+  "batch_status": "Animal imagery correction deployed and desktop/mobile reviewed; next planning/FAQ local drafts saved, editorial review and page build pending",
   "batch_browser_checks": {
     "deployment": "3744881d",
     "date": "2026-10-05",
@@ -366,5 +366,23 @@
     "automation": "amazon-staging-supervisor",
     "runtime_limit": "Checks on first due hourly heartbeat while local supervisor is running; not real-time",
     "publication": "Review meaningful source changes and update EN/ES before protected staging deploy"
+  },
+  "animal_imagery_correction": {
+    "deployment": "ebe1efd2",
+    "groups": [
+      "mammal",
+      "bird",
+      "reptile"
+    ],
+    "reviewed_widths": [
+      1440,
+      390
+    ],
+    "en_es": true,
+    "photos_loaded": true,
+    "overflow": false,
+    "protection": "302 unauthenticated; authenticated browser readback passed",
+    "regression_tests": 4,
+    "evidence": "planning/ai-os/evidence/animal-rebalance-review.json"
   }
 }

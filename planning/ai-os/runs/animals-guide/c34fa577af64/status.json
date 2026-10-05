@@ -14,11 +14,12 @@
   "reviewed_flags": [],
   "raw_draft_sha256": "859aeeeb426c8792a1ef12c74f80e3448146438ab9991231672886bdd6c54f6c",
   "reviewed_sha256": "11c4298429af29f937c39e9d2b8bdbf8e36a34a8e82e482ae19edef619771f76",
-  "deployment": "3744881d",
+  "deployment": "ebe1efd2",
   "promotion": "Substantial supervisor rewrite; raw never published",
   "editorial_findings": [
     "Animals Spanish gender error las avistamientos corrected",
     "Birds draft assumed airport/station and mixed pronouns; replaced with neutral provider-specific questions",
     "Unidiomatic songs/calls language corrected in Spanish"
-  ]
+  ],
+  "image_balance": "Mammal, bird and reptile; insects replaced after owner review"
 }

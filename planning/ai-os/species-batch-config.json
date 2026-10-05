@@ -15,29 +15,32 @@
         "license": "CC BY 2.0",
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
         "altEn": "Woolly monkey among the forest canopy in Yasuní National Park, Ecuador",
-        "altEs": "Mono lanudo entre las copas de los árboles en el Parque Nacional Yasuní, Ecuador"
+        "altEs": "Mono lanudo entre las copas de los árboles en el Parque Nacional Yasuní, Ecuador",
+        "animalGroup": "mammal"
       },
       {
-        "src": "/assets/images/ecuador/yasuni-leaf-katydid.jpg",
+        "src": "/assets/images/ecuador/cuyabeno-hoatzin-gallagher.jpg",
         "width": 1400,
         "height": 933,
-        "credit": "Geoff Gallice",
-        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Leaf_mimic_katydid.jpg",
+        "credit": "Judy Gallagher",
+        "source": "https://commons.wikimedia.org/wiki/File:Hoatzin_-_Ophisthocomus_hoazin,_Cuyabeno_Wildlife_Reserve,_Ecuador_(48703661312).jpg",
         "license": "CC BY 2.0",
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-        "altEn": "Leaf-mimicking katydid photographed in Yasuní, Ecuador",
-        "altEs": "Insecto con aspecto de hoja fotografiado en Yasuní, Ecuador"
+        "altEn": "Hoatzins on a branch in Cuyabeno Wildlife Reserve, Ecuador",
+        "altEs": "Hoacines en una rama en la Reserva de Producción de Fauna Cuyabeno, Ecuador",
+        "animalGroup": "bird"
       },
       {
-        "src": "/assets/images/ecuador/yasuni-mantis-ootheca.jpg",
+        "src": "/assets/images/ecuador/napo-turtle-new.jpg",
         "width": 1400,
         "height": 933,
-        "credit": "Geoff Gallice",
-        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Mantis_mother_with_ootheca.jpg",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-        "altEn": "Mantis beside an egg case on a branch in Yasuní, Ecuador",
-        "altEs": "Mantis junto a una ooteca en una rama en Yasuní, Ecuador"
+        "credit": "Charles J. Sharp",
+        "source": "https://commons.wikimedia.org/wiki/File:Arrau_turtle_(Podocnemis_expansa)_head_Rio_Napo.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "altEn": "Arrau river turtle photographed in the Río Napo region of Ecuador",
+        "altEs": "Tortuga arrau fotografiada en la región del río Napo, Ecuador",
+        "animalGroup": "reptile"
       }
     ]
   },

@@ -1,0 +1,102 @@
+{
+  "en": [
+    {
+      "heading": "Define interests and dates",
+      "points": [
+        "What activities do you wish to prioritize during your stay?",
+        "Which specific months are available for your travel?",
+        "Are there any particular wildlife or cultural experiences you hope to witness?"
+      ]
+    },
+    {
+      "heading": "Choose regional base",
+      "points": [
+        "Which town or village would you prefer as your main location?",
+        "Do you have a preference for staying near the river or in the forest interior?",
+        "How far are you willing to travel from your chosen lodging each day?"
+      ]
+    },
+    {
+      "heading": "Count time after transfers",
+      "points": [
+        "How much rest do you need between arriving and starting the first activity?",
+        "What is your preferred duration for the journey back to your lodging?",
+        "Do you require a specific amount of free time upon returning from excursions?"
+      ]
+    },
+    {
+      "heading": "Compare accommodation and guiding",
+      "points": [
+        "Which type of lodging style appeals most to your comfort level?",
+        "What experience or background do you expect from your guide?",
+        "How many people would you like in your small group?"
+      ]
+    },
+    {
+      "heading": "Request written inclusions",
+      "points": [
+        "Please list every item that must be covered by the agreed price.",
+        "Which meals and drinks are expected to be provided daily?",
+        "What specific services are included in the final contract?"
+      ]
+    },
+    {
+      "heading": "Review proposal and change terms",
+      "points": [
+        "Does the current plan meet all your personal expectations?",
+        "Which parts of the itinerary would you like to modify or remove?",
+        "Are there any conditions that must be met before you accept the offer?"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "heading": "Definir intereses y fechas",
+      "points": [
+        "¿Qué actividades deseas priorizar durante tu estancia?",
+        "¿Cuáles son los meses específicos disponibles para tu viaje?",
+        "¿Hay alguna experiencia con la fauna o la cultura que esperas ver?"
+      ]
+    },
+    {
+      "heading": "Elegir base regional",
+      "points": [
+        "¿Qué pueblo o aldea prefieres como tu ubicación principal?",
+        "¿Tienes preferencia por alojarte cerca del río o en el interior del bosque?",
+        "¿Hasta qué distancia estás dispuesto a viajar desde tu alojamiento cada día?"
+      ]
+    },
+    {
+      "heading": "Calcular tiempo tras traslados",
+      "points": [
+        "¿Cuánto descanso necesitas entre la llegada y el inicio de la primera actividad?",
+        "¿Cuál es tu duración preferida para el trayecto de regreso al alojamiento?",
+        "¿Requieres una cantidad específica de tiempo libre al volver de las excursiones?"
+      ]
+    },
+    {
+      "heading": "Comparar alojamiento y guía",
+      "points": [
+        "¿Qué tipo de alojamiento se ajusta más a tu nivel de comodidad?",
+        "¿Qué experiencia o formación esperas de tu guía?",
+        "¿Cuántas personas te gustaría tener en tu pequeño grupo?"
+      ]
+    },
+    {
+      "heading": "Solicitar inclusiones por escrito",
+      "points": [
+        "Por favor, lista cada elemento que debe cubrirse con el precio acordado.",
+        "¿Qué comidas y bebidas se esperan proporcionar diariamente?",
+        "¿Qué servicios específicos están incluidos en el contrato final?"
+      ]
+    },
+    {
+      "heading": "Revisar propuesta y cambiar términos",
+      "points": [
+        "¿Cumple el plan actual todas tus expectativas personales?",
+        "¿Qué partes del itinerario deseas modificar o eliminar?",
+        "¿Hay alguna condición que debe cumplirse antes de aceptar la oferta?"
+      ]
+    }
+  ]
+}

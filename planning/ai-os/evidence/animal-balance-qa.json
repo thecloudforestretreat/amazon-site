@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "errors": [],
+  "groups": [
+    "mammal",
+    "bird",
+    "reptile"
+  ],
+  "scope": "Broad animals guide editorial balance only; labels manually verified, not automatic species identification"
+}

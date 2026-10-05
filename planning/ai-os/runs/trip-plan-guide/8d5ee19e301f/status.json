@@ -1,0 +1,11 @@
+{
+  "job": "trip-plan-guide",
+  "model": "qwen3.5:9b",
+  "status": "awaiting_editorial_review",
+  "review_flags": [],
+  "seconds": 41.24,
+  "prompt_eval_count": 175,
+  "eval_count": 920,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false
+}

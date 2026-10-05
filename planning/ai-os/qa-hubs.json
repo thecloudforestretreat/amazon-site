@@ -450,28 +450,28 @@
   "ecuador/animals-of-the-ecuador-amazon": {
     "pair_id": "pair_024",
     "language": "en",
-    "main_words": 1435,
+    "main_words": 1443,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-woolly-monkey.jpg",
-      "/assets/images/ecuador/yasuni-leaf-katydid.jpg",
-      "/assets/images/ecuador/yasuni-mantis-ootheca.jpg"
+      "/assets/images/ecuador/cuyabeno-hoatzin-gallagher.jpg",
+      "/assets/images/ecuador/napo-turtle-new.jpg"
     ],
-    "sha256": "cca00ae7352fd090c174feb24b0ee23615826324c6b52a5cab8c694e715eb481",
+    "sha256": "1a55264ffe9b636f387c2093d2cb4bf9e3f7b8ed2b2144f87502175ef9c6fc3a",
     "errors": [],
     "passed": true
   },
   "es/ecuador/animales-de-la-amazonia-ecuatoriana": {
     "pair_id": "pair_024",
     "language": "es",
-    "main_words": 1457,
+    "main_words": 1468,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-woolly-monkey.jpg",
-      "/assets/images/ecuador/yasuni-leaf-katydid.jpg",
-      "/assets/images/ecuador/yasuni-mantis-ootheca.jpg"
+      "/assets/images/ecuador/cuyabeno-hoatzin-gallagher.jpg",
+      "/assets/images/ecuador/napo-turtle-new.jpg"
     ],
-    "sha256": "786adccafb13736cf0aa82fd65412b2d6023c6a639c6946a26017d4ebc3e91b4",
+    "sha256": "e9e6b2cfa6e03fe6a5c1e0e56189ce2fc634db8732fa97e6aa7a032be53af425",
     "errors": [],
     "passed": true
   },

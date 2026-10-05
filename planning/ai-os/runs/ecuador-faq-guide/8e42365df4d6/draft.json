@@ -1,0 +1,102 @@
+{
+  "en": [
+    {
+      "heading": "Select Regional Base",
+      "points": [
+        "Which regional base will host our group?",
+        "How do we choose the starting point for this journey?",
+        "What location does the provider confirm as our home?"
+      ]
+    },
+    {
+      "heading": "Distinguish Days from Nights",
+      "points": [
+        "How many full days will we spend on the trip?",
+        "Which nights are included in the itinerary?",
+        "Does the schedule separate daytime travel from overnight stays?"
+      ]
+    },
+    {
+      "heading": "Confirm Transfers",
+      "points": [
+        "Are all transfers between locations arranged?",
+        "What vehicle will take us to our first destination?",
+        "How does the provider handle movement between sites?"
+      ]
+    },
+    {
+      "heading": "Group and Mobility Needs",
+      "points": [
+        "How will the group be organized for activities?",
+        "What accommodations exist for those with limited mobility?",
+        "Can we specify any special assistance required?"
+      ]
+    },
+    {
+      "heading": "Equipment and Guiding",
+      "points": [
+        "Who provides the guides for our expedition?",
+        "Which gear must we bring versus what is supplied?",
+        "How does the provider explain their equipment list?"
+      ]
+    },
+    {
+      "heading": "Written Booking Terms",
+      "points": [
+        "Where can we find the full written agreement?",
+        "What conditions apply to our reservation?",
+        "How does the provider detail their cancellation policy?"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "heading": "Elegir Base Regional",
+      "points": [
+        "¿Qué base regional acogerá a nuestro grupo?",
+        "¿Cómo elegimos el punto de partida para este viaje?",
+        "¿Qué lugar confirma el proveedor como nuestra casa?"
+      ]
+    },
+    {
+      "heading": "Distinguir Días de Noches",
+      "points": [
+        "¿Cuántos días completos pasaremos en el viaje?",
+        "¿Qué noches están incluidas en la ruta?",
+        "¿Separa el horario el día de viaje de las estancias nocturnas?"
+      ]
+    },
+    {
+      "heading": "Confirmar Traslados",
+      "points": [
+        "¿Se organizan todos los traslados entre lugares?",
+        "¿Qué vehículo nos llevará a nuestro primer destino?",
+        "¿Cómo gestiona el proveedor el movimiento entre sitios?"
+      ]
+    },
+    {
+      "heading": "Necesidades del Grupo y Movilidad",
+      "points": [
+        "¿Cómo se organizará el grupo para las actividades?",
+        "¿Qué adaptaciones existen para quienes tienen movilidad reducida?",
+        "¿Podemos especificar cualquier ayuda especial necesaria?"
+      ]
+    },
+    {
+      "heading": "Equipamiento y Guías",
+      "points": [
+        "¿Quién provee los guías para nuestra expedición?",
+        "¿Qué equipo debemos llevar versus lo que se suministra?",
+        "¿Cómo explica el proveedor su lista de equipamiento?"
+      ]
+    },
+    {
+      "heading": "Términos Escritos de Reserva",
+      "points": [
+        "¿Dónde podemos encontrar el acuerdo escrito completo?",
+        "¿Qué condiciones aplican a nuestra reserva?",
+        "¿Cómo detalla el proveedor su política de cancelación?"
+      ]
+    }
+  ]
+}
