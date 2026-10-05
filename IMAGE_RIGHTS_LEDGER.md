@@ -26,3 +26,12 @@ This ledger is required for every published image. A search result or an image a
 ## Cuyabeno staging pilot — 2026-10-05
 
 The Cuyabeno source and standard Unsplash license were rechecked on October 5. The individual source page identifies Cuyabeno, Ecuador and the photographer Masha Buschujewa. Commercial reuse is permitted by the standard license. Saved evidence: planning/ai-os/evidence/cuyabeno-image-proof.json. The EN/ES hero uses this existing landscape asset with localized alt text and a linked photographer/source credit. No additional destination photography is implied or claimed.
+
+## Cuyabeno landscape section — Constanza S. Mora
+
+- Asset: `src/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg`
+- Source: https://unsplash.com/photos/a-hut-in-the-middle-of-a-lake-surrounded-by-trees-llqblcGrnZE
+- Source location: Cuyabeno, Ecuador. Published June 8, 2023.
+- License: standard Unsplash License; source explicitly marks free use. Verified October 5, 2026.
+- Credit: Constanza S. Mora / Unsplash, linked in both language pages.
+- Purpose: landscape context; no endorsement or claim about the pictured property. One occurrence per page.

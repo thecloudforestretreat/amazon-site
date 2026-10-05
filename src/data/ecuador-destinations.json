@@ -301,7 +301,14 @@
         "title": "Ecuador Ministry of Tourism: visiting Cuyabeno (2024)",
         "url": "https://ecuador.travel/opciones-turisticas-en-cuyabeno/"
       }
-    ]
+    ],
+    "sectionImage": {
+      "src": "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg",
+      "altEn": "Thatched shelter beside forest-lined water in Cuyabeno, Ecuador",
+      "altEs": "Refugio con techo de paja junto al agua y al bosque en Cuyabeno, Ecuador",
+      "credit": "Constanza S. Mora / Unsplash",
+      "source": "https://unsplash.com/photos/a-hut-in-the-middle-of-a-lake-surrounded-by-trees-llqblcGrnZE"
+    }
   },
   {
     "pairId": "pair_006",

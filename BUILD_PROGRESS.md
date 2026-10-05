@@ -69,3 +69,7 @@ Deployed `dc7e1aec` to staging. Replaced guide and overview expanders with visib
 ### Destination CSS isolation
 
 Staging deployment `e467bf93`: moved destination guide styling to `clusters/destination.css`, removed conflicting country rules and unused editorial stylesheet from generated destinations. Removed the narrow sidebar; established full-width card grids, responsive navigation, consistent typography/spacing and explicit wildlife styling. Build, 24-page validation and content audit pass. Browser access again denied by admin-policy check; no visual sign-off.
+
+### Photography refinement
+
+Deployed `33f2fcaf`: added licensed Cuyabeno photo by Constanza S. Mora for the landscape section. Both photos occur once per language page. Hero now uses deliberate 4:3 desktop / 3:2 mobile proportions, focal positioning, restrained corners, no heavy shadow, and credit below the image. Build, validation and content audit pass; rendered browser review remains pending.

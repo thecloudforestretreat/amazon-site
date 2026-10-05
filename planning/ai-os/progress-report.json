@@ -4,15 +4,15 @@
   "prepared_pairs": 1,
   "completed_deployed_pairs": 0,
   "content": {
-    "en_main_words": 1651,
-    "es_main_words": 1778,
+    "en_main_words": 1652,
+    "es_main_words": 1779,
     "sections_per_language": 10,
     "faqs_per_language": 6,
     "editorial_review": "passed"
   },
   "images": {
-    "documented_assets_in_pilot": 1,
-    "placements": 2,
+    "documented_assets_in_pilot": 2,
+    "placements": 4,
     "reuse_rights": "Verified individual Unsplash source and license",
     "attribution": "Linked source and localized alt text"
   },
@@ -24,7 +24,7 @@
     "ai_os_model_routing_tests": 4,
     "ai_os_core_checks": "9/9",
     "visual_review": "blocked",
-    "deployment": "passed: e467bf93"
+    "deployment": "passed: 33f2fcaf"
   },
   "opportunities": [
     {
@@ -91,5 +91,5 @@
   "next_batch": "Yasuni + Tena after the pilot passes all completion gates",
   "git_status": "Committed locally, not pushed",
   "deployed_pairs_pending_visual_review": 1,
-  "design_revision": "Dedicated destination CSS; removed conflicting country guide rules; full-width cards and horizontal navigation; explicit wildlife class; mobile layout and spacing contract. Visual verification blocked."
+  "design_revision": "Distinct Cuyabeno images used once per page; hero 4:3 desktop and 3:2 mobile crop with separate credit and restrained frame. Visual verification pending."
 }
