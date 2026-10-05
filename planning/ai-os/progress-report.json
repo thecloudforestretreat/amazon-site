@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "status": "Next two pairs prepared and tested locally; release pending browser visual review",
+  "status": "Four-day and five-day pairs deployed with owner authorization; technical QA passed; live visual review pending",
   "active_batch": [
     "pair_012",
     "pair_013"
@@ -21,15 +21,15 @@
     "site_polished_in_this_workflow": 7,
     "site_baseline_pairs": 40,
     "site_polished_workflow_percent": 17.5,
-    "site_built_including_scaffolds": 14,
-    "site_built_including_scaffolds_percent": 35,
+    "site_built_including_scaffolds": 16,
+    "site_built_including_scaffolds_percent": 40,
     "final_eight_country_completion_percent": null,
     "reason": "Current 40-pair baseline lacks complete Guyana/Suriname/Venezuela architectures; scaffold count is not launch completion",
     "ecuador_content_prepared_pairs": 11,
     "ecuador_content_prepared_percent": 32.4,
     "ecuador_visual_review_pending_pairs": 4,
-    "ecuador_content_deployed_pairs": 9,
-    "ecuador_content_deployed_percent": 26.5,
+    "ecuador_content_deployed_pairs": 11,
+    "ecuador_content_deployed_percent": 32.4,
     "site_built_locally_including_scaffolds": 16,
     "site_built_locally_including_scaffolds_percent": 40
   },
@@ -77,22 +77,19 @@
     ]
   },
   "rollback": {
-    "previous_deployment": "25124070",
-    "previous_commit": "10d827b",
+    "previous_deployment": "2893a4d3",
+    "previous_commit": "ed9ec13",
     "branch": "staging",
     "production_modified": false
   },
-  "next": "Restore browser policy verification, review and release current prepared batch",
+  "next": "Private and family guides; visual review remains pending until browser policy verification is available",
   "other_countries": "Peru, Brazil, Colombia, Bolivia, Guyana, Suriname and Venezuela: no polished country clusters in this workflow",
-  "deployment": "2893a4d3",
+  "deployment": "2c945762",
   "preview_links": {
-    "quito_en": "https://staging.experiencetheamazon.com/ecuador/amazon-tours-from-quito/?review=2893a4d3",
-    "quito_es": "https://staging.experiencetheamazon.com/es/ecuador/tours-a-la-amazonia-desde-quito/?review=2893a4d3",
-    "three_day_en": "https://staging.experiencetheamazon.com/ecuador/3-day-amazon-tour/?review=2893a4d3",
-    "three_day_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-de-3-dias-en-la-amazonia/?review=2893a4d3"
+    "four_day_en": "https://staging.experiencetheamazon.com/ecuador/4-day-amazon-tour/?review=2c945762",
+    "four_day_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-de-4-dias-en-la-amazonia/?review=2c945762",
+    "five_day_en": "https://staging.experiencetheamazon.com/ecuador/5-day-amazon-tour/?review=2c945762",
+    "five_day_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-de-5-dias-en-la-amazonia/?review=2c945762"
   },
-  "prepared_not_deployed_pairs": [
-    "pair_012",
-    "pair_013"
-  ]
+  "prepared_not_deployed_pairs": []
 }

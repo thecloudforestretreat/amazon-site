@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-05",
+  "pairs": [
+    "pair_014",
+    "pair_015"
+  ],
+  "authorization": "Owner instructed staging release and proceeding",
+  "status": "planned_next_batch",
+  "routes": [
+    "/ecuador/private-amazon-tour/",
+    "/es/ecuador/tour-privado-a-la-amazonia/",
+    "/ecuador/family-amazon-tour/",
+    "/es/ecuador/tour-familiar-a-la-amazonia/"
+  ],
+  "private_scope": "Explain which services are private versus shared; avoid assumed availability, exclusive reserve access or guaranteed sightings",
+  "family_scope": "Provider-specific age, guiding, room, food, equipment, access and pace questions; no blanket child-safety or suitability claims",
+  "model_routing": "Bounded local drafting only; reviewed content before promotion; save usage and raw/reviewed hashes",
+  "design": "Approved scoped card layout, three distinct geographically accurate cleared photos, sticky/hamburger navigation",
+  "review_limit": "Browser visual verification unavailable; disclose pending review and retain owner release instruction"
+}

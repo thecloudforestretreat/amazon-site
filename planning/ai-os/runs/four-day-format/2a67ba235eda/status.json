@@ -1,7 +1,7 @@
 {
   "job": "four-day-format",
   "model": "qwen3.5:9b",
-  "status": "editorially_reviewed_build_pass_release_pending_browser_policy",
+  "status": "editorially_reviewed_deployed_visual_review_pending",
   "review_flags": [],
   "seconds": 75.04,
   "prompt_eval_count": 454,
@@ -11,5 +11,6 @@
   "raw_draft_sha256": "2fbd8bae88c4bb7b9c0bedf2f15478d69fc25c0c0d7f1018eec513a60370156f",
   "reviewed_sha256": "4515e97821a2d1fdd544146dfe1668118988243eac54ee1602b7baaacfb55117",
   "reviewed_flags": [],
-  "promotion": "Reviewed source built locally; not deployed; browser visual review required"
+  "promotion": "Reviewed source deployed with explicit owner authorization despite pending browser review",
+  "deployment": "2c945762"
 }

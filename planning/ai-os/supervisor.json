@@ -54,27 +54,32 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Browser policy recovery and desktop/mobile review of Quito and 3-day pages",
-    "Visual review and staging release of 4-day and 5-day reviewed guides",
-    "Owner review before another batch"
+    "Prepare private and family guide pair batch",
+    "Retry desktop/mobile review after browser policy verification is restored",
+    "Full accessibility, measured performance and contact delivery remain pending"
   ],
-  "future_batches": [],
+  "future_batches": [
+    "Private Amazon + family Amazon guides, two EN/ES pairs"
+  ],
   "notification_policy": "Meaningful change, verified completion, failure or required user action only",
   "pilot_status": "deployed_initial_browser_checks_pass_full_qa_pending",
   "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
-  "next_batch_candidates": [],
+  "next_batch_candidates": [
+    "private-amazon-tour",
+    "family-amazon-tour"
+  ],
   "local_worker_run_complete": true,
   "git_status": "Committed locally; remote push blocked by automatic approval review",
   "quality_hold": {
     "released_by_owner": true,
     "date": "2026-10-05",
-    "scope": "Owner authorized continuing; technical preparation complete, visual verification remains required"
+    "scope": "Owner explicitly authorized staging release and proceeding on October 5; pending visual checks stay recorded"
   },
   "deployment": {
-    "id": "2893a4d3",
+    "id": "2c945762",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://2893a4d3.amazon-site-staging.pages.dev",
+    "url": "https://2c945762.amazon-site-staging.pages.dev",
     "protected_domain_check": "302 Cloudflare Access login",
     "date": "2026-10-05"
   },
@@ -101,17 +106,18 @@
     "four-day-format",
     "five-day-format"
   ],
-  "batch_status": "reviewed_local_build_pass_release_pending_browser_policy",
+  "batch_status": "deployed_technical_pass_visual_pending",
   "batch_browser_checks": {
     "date": "2026-10-05",
-    "deployment": "2893a4d3",
+    "deployment": "2c945762",
     "pairs": [
-      "pair_010",
-      "pair_011"
+      "pair_012",
+      "pair_013"
     ],
-    "status": "blocked",
-    "reason": "Browser admin-enforced policy unavailable; no bypass attempted",
-    "technical_validation": "28 pages and 8 hub/format audits pass",
+    "status": "pending",
+    "reason": "Browser admin-enforced policy verification unavailable",
+    "owner_release_authorization": "Push them to staging like the rest and proceed",
+    "technical_validation": "32 compiled pages and 12 hub/format audits pass",
     "protected_domain_unauthenticated_status": 302
   },
   "template": {

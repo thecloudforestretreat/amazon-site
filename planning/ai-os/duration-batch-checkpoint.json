@@ -4,7 +4,7 @@
     "pair_012",
     "pair_013"
   ],
-  "status": "Reviewed local source ready; not deployed",
+  "status": "Deployed to protected staging with explicit owner authorization; live visual review pending",
   "routes": [
     "/ecuador/4-day-amazon-tour/",
     "/es/ecuador/tour-de-4-dias-en-la-amazonia/",
@@ -24,5 +24,12 @@
     "cloud_worker_tokens": 0
   },
   "rollback": "Live staging remains 2893a4d3; local prior source commit 1f49bc4",
-  "next": "Desktop/mobile review and staging release after browser policy works"
+  "next": "Private and family two-pair batch, retain pending visual review",
+  "deployment": "2c945762",
+  "links": {
+    "four_day_en": "https://staging.experiencetheamazon.com/ecuador/4-day-amazon-tour/?review=2c945762",
+    "four_day_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-de-4-dias-en-la-amazonia/?review=2c945762",
+    "five_day_en": "https://staging.experiencetheamazon.com/ecuador/5-day-amazon-tour/?review=2c945762",
+    "five_day_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-de-5-dias-en-la-amazonia/?review=2c945762"
+  }
 }
