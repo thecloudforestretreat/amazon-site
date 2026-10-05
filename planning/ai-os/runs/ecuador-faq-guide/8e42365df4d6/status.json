@@ -1,11 +1,14 @@
 {
   "job": "ecuador-faq-guide",
   "model": "qwen3.5:9b",
-  "status": "awaiting_editorial_review",
+  "status": "editorial_reviewed_deployed_initial_visual_pass_full_qa_pending",
   "review_flags": [],
   "seconds": 32.4,
   "prompt_eval_count": 173,
   "eval_count": 819,
   "cloud_worker_tokens": 0,
-  "cache_hit": false
+  "cache_hit": false,
+  "deployment": "df76e8b9",
+  "promotion": "Substantial supervisor rewrite; raw preserved; page content manually reviewed",
+  "reviewed_sha256": "d29832a12d2d3b4c5163bb4033f9ff951e557c5ed4eb1cd14692e1af0793ae05"
 }

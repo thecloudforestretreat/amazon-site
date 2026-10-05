@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "status": "local_drafts_saved_pending_editorial_page_build_and_deploy",
+  "status": "deployed_initial_visual_and_technical_checks_pass_full_launch_qa_pending",
   "pairs": [
     "pair_026",
     "pair_028"
@@ -34,7 +34,25 @@
   "local_calls": 2,
   "retries": 0,
   "cache_hits": 0,
-  "progress": "23/34 prepared/deployed (~68%); next drafts are not counted as deployed",
+  "progress": "25/34 Ecuador pairs prepared/deployed (73.5%); not launch completion",
   "routing": "100% of these two bounded initial drafting calls used local qwen3.5:9b; cloud supervisor work excluded and overall percentage unmeasured",
-  "next": "Build reviewed EN/ES trip planning and FAQ pages; retain customer-review page pending genuine customer material"
+  "next": "Owner review of planning/FAQ previews; next sitemap content candidates pair_030 blog hub and pair_031 Yasuní versus Cuyabeno",
+  "deployment": "df76e8b9",
+  "rollback": {
+    "deployment": "ebe1efd2",
+    "local_commit": "5809f1e"
+  },
+  "verification": {
+    "compiled_pages": 60,
+    "audited_routes": 40,
+    "image_rotation": "passed",
+    "cross_links": "passed",
+    "protection": "302; authenticated browser readback verified"
+  },
+  "inference_this_turn": {
+    "calls": 0,
+    "note": "Reused two saved local drafts; no extra inference needed"
+  },
+  "review": "Substantial supervisor rewrite; raw local output not published",
+  "browser_evidence": "planning/ai-os/evidence/planning-browser-qa.json"
 }

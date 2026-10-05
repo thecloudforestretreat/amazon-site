@@ -9,7 +9,7 @@
       "/assets/images/ecuador/misahualli-boat.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "8fed7bb076afec197ce8cedf4a091ee8ee1b60adf186f9336cb3eef312c39854",
+    "sha256": "8062d903de8e80c010e568062643780e1523b6d1e2b7438ff67e4564583261b5",
     "errors": [],
     "passed": true
   },
@@ -23,7 +23,7 @@
       "/assets/images/ecuador/misahualli-boat.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "2f2b7e559c0a59d9db03dac6c24688b9bc37660f835aae41151470d3d87f13af",
+    "sha256": "c7f31ca5a7f26deec643b066110a21eb385917e03326ee685a64bd2e2736557f",
     "errors": [],
     "passed": true
   },
@@ -500,6 +500,62 @@
       "/assets/images/ecuador/yasuni-piping-guan.jpg"
     ],
     "sha256": "d6464f02abd10987b88a3ae4f7c02c9a4a1e04b5fc56901f48a540c7067cc0ac",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/plan-your-amazon-trip": {
+    "pair_id": "pair_026",
+    "language": "en",
+    "main_words": 1358,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/cuyabeno-sunset-new.jpg",
+      "/assets/images/ecuador/misahualli-confluence.jpg",
+      "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+    ],
+    "sha256": "95c2bf74d1eb7ca4daabc6821bff4f958ee43f3a6a4b31002a697daa17230ea7",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/planifica-tu-viaje-a-la-amazonia": {
+    "pair_id": "pair_026",
+    "language": "es",
+    "main_words": 1352,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/cuyabeno-sunset-new.jpg",
+      "/assets/images/ecuador/misahualli-confluence.jpg",
+      "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+    ],
+    "sha256": "7a00aae9f57403954716346d8f7bc5ba499bf9d419c19746100feed2cb35e18f",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/faqs": {
+    "pair_id": "pair_028",
+    "language": "en",
+    "main_words": 1361,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/misahualli-napo-bridge.jpg",
+      "/assets/images/ecuador/tena-river-faessler.jpg",
+      "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg"
+    ],
+    "sha256": "928fd5f9b50dfec2d640d51237948195ca9dcf4b046296ae8852e9ba9a6fc05b",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/preguntas-frecuentes": {
+    "pair_id": "pair_028",
+    "language": "es",
+    "main_words": 1352,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/misahualli-napo-bridge.jpg",
+      "/assets/images/ecuador/tena-river-faessler.jpg",
+      "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg"
+    ],
+    "sha256": "08c2e0b51377ecd27d3384757e81b4337b0704db9640b5c56045aef81b099a80",
     "errors": [],
     "passed": true
   }

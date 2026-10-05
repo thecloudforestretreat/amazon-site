@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-05",
+  "photos": {
+    "trip-plan-guide": [
+      {
+        "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg",
+        "width": 1280,
+        "height": 960,
+        "credit": "Luisalbertoguerreromaldonado",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Atardecer_en_Cuyabeno.jpg",
+        "altEn": "Sunset above forest-lined water in Cuyabeno, Ecuador",
+        "altEs": "Atardecer sobre el agua y el bosque de Cuyabeno, Ecuador"
+      },
+      {
+        "src": "/assets/images/ecuador/misahualli-confluence.jpg",
+        "width": 1400,
+        "height": 787,
+        "credit": "Arabsalam",
+        "source": "https://commons.wikimedia.org/wiki/File:Misahuall%C3%AD_Ecuador_1054.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "altEn": "The Misahuallí and Napo river confluence, with people on the riverbank",
+        "altEs": "Confluencia de los ríos Misahuallí y Napo, con personas en la ribera"
+      },
+      {
+        "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg",
+        "width": 1280,
+        "height": 960,
+        "credit": "Hanspeter Bellers",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Kanutourismus_R%C3%ADo_Cuyabeno,_Ecuador.jpg",
+        "altEn": "Canoe passengers seen from behind on the Cuyabeno River, Ecuador",
+        "altEs": "Pasajeros vistos de espaldas en una canoa por el río Cuyabeno, Ecuador"
+      }
+    ],
+    "ecuador-faq-guide": [
+      {
+        "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg",
+        "width": 1280,
+        "height": 720,
+        "credit": "Arabsalam",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Misahuall%C3%AD_Ecuador_1061.jpg",
+        "altEn": "Bridge and forested bank viewed from the Napo River at Puerto Misahuallí, Ecuador",
+        "altEs": "Puente y ribera arbolada vistos desde el río Napo en Puerto Misahuallí, Ecuador"
+      },
+      {
+        "src": "/assets/images/ecuador/tena-river-faessler.jpg",
+        "width": 900,
+        "height": 600,
+        "altEn": "Tena River, town buildings and wooded banks in Tena, Ecuador",
+        "altEs": "Río Tena, edificios y riberas arboladas en Tena, Ecuador",
+        "source": "https://commons.wikimedia.org/wiki/File:Tena1.jpg",
+        "credit": "Andreas Faessler",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "section": 0
+      },
+      {
+        "src": "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg",
+        "altEn": "Thatched shelter beside forest-lined water in Cuyabeno, Ecuador",
+        "altEs": "Refugio con techo de paja junto al agua y al bosque en Cuyabeno, Ecuador",
+        "credit": "Constanza S. Mora / Unsplash",
+        "source": "https://unsplash.com/photos/a-hut-in-the-middle-of-a-lake-surrounded-by-trees-llqblcGrnZE",
+        "width": 1600,
+        "height": 1063,
+        "license": "Unsplash License",
+        "licenseUrl": "https://unsplash.com/license"
+      }
+    ]
+  }
+}

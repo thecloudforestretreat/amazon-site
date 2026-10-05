@@ -46,6 +46,16 @@
       ]
     },
     {
+      "src": "/assets/images/ecuador/tena-river-faessler.jpg",
+      "count": 4,
+      "routes": [
+        "/ecuador/family-amazon-tour/",
+        "/ecuador/faqs/",
+        "/ecuador/tena/",
+        "/ecuador/how-to-get-to-the-ecuador-amazon/"
+      ]
+    },
+    {
       "src": "/assets/images/ecuador/puyo-palms.jpg",
       "count": 4,
       "routes": [
@@ -71,15 +81,6 @@
         "/ecuador/private-amazon-tour/",
         "/ecuador/puyo/",
         "/ecuador/is-the-ecuador-amazon-safe/"
-      ]
-    },
-    {
-      "src": "/assets/images/ecuador/tena-river-faessler.jpg",
-      "count": 3,
-      "routes": [
-        "/ecuador/family-amazon-tour/",
-        "/ecuador/tena/",
-        "/ecuador/how-to-get-to-the-ecuador-amazon/"
       ]
     },
     {
@@ -132,6 +133,22 @@
       ]
     },
     {
+      "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg",
+      "count": 2,
+      "routes": [
+        "/ecuador/private-amazon-tour/",
+        "/ecuador/plan-your-amazon-trip/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/misahualli-confluence.jpg",
+      "count": 2,
+      "routes": [
+        "/ecuador/misahualli/",
+        "/ecuador/plan-your-amazon-trip/"
+      ]
+    },
+    {
       "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg",
       "count": 2,
       "routes": [
@@ -140,11 +157,35 @@
       ]
     },
     {
+      "src": "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg",
+      "count": 2,
+      "routes": [
+        "/ecuador/cuyabeno/",
+        "/ecuador/faqs/"
+      ]
+    },
+    {
       "src": "/assets/images/ecuador/yasuni-swallows.jpg",
       "count": 2,
       "routes": [
         "/ecuador/5-day-amazon-tour/",
         "/ecuador/amazon-birdwatching-tour/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg",
+      "count": 2,
+      "routes": [
+        "/ecuador/plan-your-amazon-trip/",
+        "/ecuador/amazon-canoe-tour/"
+      ]
+    },
+    {
+      "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg",
+      "count": 2,
+      "routes": [
+        "/ecuador/faqs/",
+        "/ecuador/how-to-get-to-the-ecuador-amazon/"
       ]
     },
     {
@@ -177,20 +218,6 @@
       ]
     },
     {
-      "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg",
-      "count": 1,
-      "routes": [
-        "/ecuador/private-amazon-tour/"
-      ]
-    },
-    {
-      "src": "/assets/images/ecuador/misahualli-confluence.jpg",
-      "count": 1,
-      "routes": [
-        "/ecuador/misahualli/"
-      ]
-    },
-    {
       "src": "/assets/images/ecuador/misahualli-monkey.jpg",
       "count": 1,
       "routes": [
@@ -205,13 +232,6 @@
       ]
     },
     {
-      "src": "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg",
-      "count": 1,
-      "routes": [
-        "/ecuador/cuyabeno/"
-      ]
-    },
-    {
       "src": "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
       "count": 1,
       "routes": [
@@ -223,20 +243,6 @@
       "count": 1,
       "routes": [
         "/ecuador/yasuni/"
-      ]
-    },
-    {
-      "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg",
-      "count": 1,
-      "routes": [
-        "/ecuador/how-to-get-to-the-ecuador-amazon/"
-      ]
-    },
-    {
-      "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg",
-      "count": 1,
-      "routes": [
-        "/ecuador/amazon-canoe-tour/"
       ]
     },
     {

@@ -1,11 +1,14 @@
 {
   "job": "trip-plan-guide",
   "model": "qwen3.5:9b",
-  "status": "awaiting_editorial_review",
+  "status": "editorial_reviewed_deployed_initial_visual_pass_full_qa_pending",
   "review_flags": [],
   "seconds": 41.24,
   "prompt_eval_count": 175,
   "eval_count": 920,
   "cloud_worker_tokens": 0,
-  "cache_hit": false
+  "cache_hit": false,
+  "deployment": "df76e8b9",
+  "promotion": "Substantial supervisor rewrite; raw preserved; page content manually reviewed",
+  "reviewed_sha256": "85f5cdf0c24c24c497a35f382a972d03123af1fd3e3ba41f6591522ba60e57d4"
 }
