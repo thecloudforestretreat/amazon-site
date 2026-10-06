@@ -1,0 +1,216 @@
+{
+  "deployment": "3efc8507",
+  "date": "2026-10-05",
+  "pairs": [
+    "pair_014",
+    "pair_015"
+  ],
+  "status": "initial_desktop_mobile_visual_checks_pass",
+  "measurements": [
+    {
+      "factYs": [
+        -1921.2890625,
+        -1921.2890625,
+        -1921.2890625,
+        -1921.2890625
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-river.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/private-amazon-tour/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-river.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/private-amazon-tour/",
+      "width": 390
+    },
+    {
+      "factYs": [
+        -2021.5078125,
+        -2021.5078125,
+        -2021.5078125,
+        -2021.5078125
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-river.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/tour-privado-a-la-amazonia/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-river.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/tour-privado-a-la-amazonia/",
+      "width": 390
+    },
+    {
+      "factYs": [
+        -1887.5078125,
+        -1887.5078125,
+        -1887.5078125,
+        -1887.5078125
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-city.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/family-amazon-tour/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-city.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/family-amazon-tour/",
+      "width": 390
+    },
+    {
+      "factYs": [
+        -1921.2890625,
+        -1921.2890625,
+        -1921.2890625,
+        -1921.2890625
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-city.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/tour-familiar-a-la-amazonia/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-city.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/tour-familiar-a-la-amazonia/",
+      "width": 390
+    }
+  ],
+  "screenshots": [
+    "planning/ai-os/evidence/private-en-desktop.png",
+    "planning/ai-os/evidence/private-en-mobile.png",
+    "planning/ai-os/evidence/private-es-desktop.png",
+    "planning/ai-os/evidence/private-es-mobile.png",
+    "planning/ai-os/evidence/family-en-desktop.png",
+    "planning/ai-os/evidence/family-en-mobile.png",
+    "planning/ai-os/evidence/family-es-desktop.png",
+    "planning/ai-os/evidence/family-es-mobile.png"
+  ],
+  "checks": [
+    "EN/ES 1440px desktop and 390px mobile visual review",
+    "Sticky header, no overflow, aligned desktop fact labels",
+    "Three loaded distinct images per page",
+    "74 compiled pages validated and 54-route source audit passed",
+    "Unauthenticated 302; authenticated browser readback"
+  ],
+  "limits": [
+    "Full accessibility, performance and contact delivery pending"
+  ],
+  "source_changes": false
+}

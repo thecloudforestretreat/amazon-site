@@ -71,7 +71,7 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Continue eight earlier visual catch-up reviews",
+    "Continue six earlier visual catch-up reviews",
     "Genuine reviews/contact endpoint required for remaining two content pairs",
     "Full accessibility/performance and due daily advice monitoring remain pending"
   ],
@@ -83,8 +83,8 @@
   "pilot_status": "deployed_initial_browser_checks_pass_full_qa_pending",
   "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
   "next_batch_candidates": [
-    "pair_014 visual catch-up",
-    "pair_015 visual catch-up"
+    "pair_016 visual catch-up",
+    "pair_017 visual catch-up"
   ],
   "local_worker_run_complete": true,
   "git_status": "Committed locally; remote push blocked by automatic approval review",
@@ -121,44 +121,64 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "four-day-format visual catch-up",
-    "five-day-format visual catch-up"
+    "private-format visual catch-up",
+    "family-format visual catch-up"
   ],
   "batch_status": "Four/five-day EN/ES initial technical and desktop/mobile visual catch-up passed; no source changes or new deployment",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-05",
     "pairs": [
-      "pair_012",
-      "pair_013"
+      "pair_014",
+      "pair_015"
     ],
     "status": "initial_desktop_mobile_visual_checks_pass",
     "measurements": [
       {
         "factYs": [
-          -2021.5078125,
-          -2021.5078125,
-          -2021.5078125,
-          -2021.5078125
+          -1921.2890625,
+          -1921.2890625,
+          -1921.2890625,
+          -1921.2890625
         ],
         "headerTop": 0,
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+            "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+            "src": "/assets/images/ecuador/puyo-river.jpg"
           },
           {
-            "loaded": false,
-            "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
+            "loaded": true,
+            "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
           }
         ],
         "overflow": false,
-        "route": "/ecuador/4-day-amazon-tour/",
+        "route": "/ecuador/private-amazon-tour/",
         "width": 1440
+      },
+      {
+        "headerTop": 0,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/puyo-river.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
+          }
+        ],
+        "overflow": false,
+        "route": "/ecuador/private-amazon-tour/",
+        "width": 390
       },
       {
         "factYs": [
@@ -171,46 +191,40 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+            "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+            "src": "/assets/images/ecuador/puyo-river.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
           }
         ],
         "overflow": false,
-        "route": "/es/ecuador/tour-de-4-dias-en-la-amazonia/",
+        "route": "/es/ecuador/tour-privado-a-la-amazonia/",
         "width": 1440
       },
       {
-        "factYs": [
-          -2021.5078125,
-          -2021.5078125,
-          -2021.5078125,
-          -2021.5078125
-        ],
         "headerTop": 0,
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+            "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/puyo-palms.jpg"
+            "src": "/assets/images/ecuador/puyo-river.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-swallows.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
           }
         ],
         "overflow": false,
-        "route": "/ecuador/5-day-amazon-tour/",
-        "width": 1440
+        "route": "/es/ecuador/tour-privado-a-la-amazonia/",
+        "width": 390
       },
       {
         "factYs": [
@@ -223,19 +237,19 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/puyo-palms.jpg"
+            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-swallows.jpg"
+            "src": "/assets/images/ecuador/puyo-city.jpg"
           }
         ],
         "overflow": false,
-        "route": "/es/ecuador/tour-de-5-dias-en-la-amazonia/",
+        "route": "/ecuador/family-amazon-tour/",
         "width": 1440
       },
       {
@@ -243,127 +257,86 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
+            "src": "/assets/images/ecuador/puyo-city.jpg"
           }
         ],
         "overflow": false,
-        "route": "/ecuador/4-day-amazon-tour/",
-        "width": 390
-      },
-      {
-        "headerTop": 0,
-        "images": [
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/tena-forest-jay.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
-          }
-        ],
-        "overflow": false,
-        "route": "/es/ecuador/tour-de-4-dias-en-la-amazonia/",
-        "width": 390
-      },
-      {
-        "headerTop": 0,
-        "images": [
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/puyo-palms.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-swallows.jpg"
-          }
-        ],
-        "overflow": false,
-        "route": "/ecuador/5-day-amazon-tour/",
-        "width": 390
-      },
-      {
-        "headerTop": 0,
-        "images": [
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/puyo-palms.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-swallows.jpg"
-          }
-        ],
-        "overflow": false,
-        "route": "/es/ecuador/tour-de-5-dias-en-la-amazonia/",
+        "route": "/ecuador/family-amazon-tour/",
         "width": 390
       },
       {
         "factYs": [
-          -2021.5078125,
-          -2021.5078125,
-          -2021.5078125,
-          -2021.5078125
+          -1921.2890625,
+          -1921.2890625,
+          -1921.2890625,
+          -1921.2890625
         ],
         "headerTop": 0,
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
+            "src": "/assets/images/ecuador/puyo-city.jpg"
           }
         ],
         "overflow": false,
-        "route": "/ecuador/4-day-amazon-tour/",
+        "route": "/es/ecuador/tour-familiar-a-la-amazonia/",
         "width": 1440
+      },
+      {
+        "headerTop": 0,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/puyo-city.jpg"
+          }
+        ],
+        "overflow": false,
+        "route": "/es/ecuador/tour-familiar-a-la-amazonia/",
+        "width": 390
       }
     ],
     "screenshots": [
-      "planning/ai-os/evidence/four-en-desktop.png",
-      "planning/ai-os/evidence/four-en-mobile.png",
-      "planning/ai-os/evidence/four-es-desktop.png",
-      "planning/ai-os/evidence/four-es-mobile.png",
-      "planning/ai-os/evidence/five-en-desktop.png",
-      "planning/ai-os/evidence/five-en-mobile.png",
-      "planning/ai-os/evidence/five-es-desktop.png",
-      "planning/ai-os/evidence/five-es-mobile.png"
+      "planning/ai-os/evidence/private-en-desktop.png",
+      "planning/ai-os/evidence/private-en-mobile.png",
+      "planning/ai-os/evidence/private-es-desktop.png",
+      "planning/ai-os/evidence/private-es-mobile.png",
+      "planning/ai-os/evidence/family-en-desktop.png",
+      "planning/ai-os/evidence/family-en-mobile.png",
+      "planning/ai-os/evidence/family-es-desktop.png",
+      "planning/ai-os/evidence/family-es-mobile.png"
     ],
     "checks": [
-      "Four routes at 1440px and 390px",
-      "Sticky headers, aligned desktop fact labels, no horizontal overflow",
-      "Three unique loaded photos per page",
-      "Compiled-page validation and 54-route source audit pass",
+      "EN/ES 1440px desktop and 390px mobile visual review",
+      "Sticky header, no overflow, aligned desktop fact labels",
+      "Three loaded distinct images per page",
+      "74 compiled pages validated and 54-route source audit passed",
       "Unauthenticated 302; authenticated browser readback"
     ],
     "limits": [
-      "First four-day English fast-scroll photo pending; subsequent same-width readback passed",
       "Full accessibility, performance and contact delivery pending"
     ],
     "source_changes": false
@@ -412,7 +385,9 @@
     "pair_010",
     "pair_011",
     "pair_012",
-    "pair_013"
+    "pair_013",
+    "pair_014",
+    "pair_015"
   ],
   "advice_monitor": {
     "interval_hours": 24,

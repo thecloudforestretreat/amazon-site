@@ -1,7 +1,7 @@
 {
   "job": "private-format",
   "model": "qwen3.5:9b",
-  "status": "editorially_reviewed_deployed_visual_review_pending",
+  "status": "editorial_reviewed_deployed_initial_visual_pass_full_qa_pending",
   "review_flags": [],
   "seconds": 67.82,
   "prompt_eval_count": 469,
@@ -12,5 +12,7 @@
   "promotion": "Reviewed bilingual source only; substantial intro rewrites and targeted question corrections",
   "raw_draft_sha256": "70573a7a518ad990e0c769a47bf68972531b60cb6d1eb27684a5284b985e23c2",
   "reviewed_sha256": "3c0e2880724a6fc5eae91cc3b57217160933e888066e091b7abf739f07df3af0",
-  "visual_review": "Browser policy refused access; pending"
+  "visual_review": "EN/ES desktop/mobile catch-up passed October 5, 2026",
+  "visual_review_deployment": "3efc8507",
+  "visual_evidence": "planning/ai-os/evidence/private-family-catchup-qa.json"
 }
