@@ -13,9 +13,8 @@
   "production_secrets_present": true,
   "public_contact_endpoint": "Existing landing-page HTML; new handler not deployed",
   "pending": [
-    "Public domain propagation/readback",
-    "Live Turnstile inquiry and inbox delivery confirmation",
-    "Search Console sitemap submission"
+    "Owner confirms production launch test arrived in inbox",
+    "Broader post-launch monitoring; automated route audit received HTTP 403"
   ],
   "production_deployed": true,
   "public_operator": {
@@ -26,5 +25,15 @@
   "policy_pages_updated": 4,
   "production_deployment": "98c17db1",
   "rollback_deployment": "33596ef5-3ce0-41fd-b56c-7e83c71ab42f",
-  "release_static_qa_passed": true
+  "release_static_qa_passed": true,
+  "public_homepage_verified": true,
+  "production_contact_enabled": true,
+  "production_inquiry_test": "Turnstile server verification passed; Brevo accepted; UI queued",
+  "inbox_delivery_confirmed": false,
+  "sitemap_submission": "Google Search Console: Sitemap submitted successfully",
+  "spanish_mobile": {
+    "width": 390,
+    "overflow": false,
+    "hero_loaded": true
+  }
 }
