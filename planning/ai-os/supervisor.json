@@ -71,7 +71,7 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Continue six earlier visual catch-up reviews",
+    "Continue four earlier visual catch-up reviews",
     "Genuine reviews/contact endpoint required for remaining two content pairs",
     "Full accessibility/performance and due daily advice monitoring remain pending"
   ],
@@ -83,8 +83,8 @@
   "pilot_status": "deployed_initial_browser_checks_pass_full_qa_pending",
   "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
   "next_batch_candidates": [
-    "pair_016 visual catch-up",
-    "pair_017 visual catch-up"
+    "pair_018 visual catch-up",
+    "pair_019 visual catch-up"
   ],
   "local_worker_run_complete": true,
   "git_status": "Committed locally; remote push blocked by automatic approval review",
@@ -121,43 +121,43 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "private-format visual catch-up",
-    "family-format visual catch-up"
+    "birdwatching-format visual catch-up",
+    "wildlife-format visual catch-up"
   ],
   "batch_status": "Four/five-day EN/ES initial technical and desktop/mobile visual catch-up passed; no source changes or new deployment",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-05",
     "pairs": [
-      "pair_014",
-      "pair_015"
+      "pair_016",
+      "pair_017"
     ],
     "status": "initial_desktop_mobile_visual_checks_pass",
     "measurements": [
       {
         "factYs": [
-          -1921.2890625,
-          -1921.2890625,
-          -1921.2890625,
-          -1921.2890625
+          -2021.5078125,
+          -2021.5078125,
+          -2021.5078125,
+          -2021.5078125
         ],
         "headerTop": 0,
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+            "src": "/assets/images/ecuador/yasuni-manakin.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/puyo-river.jpg"
+            "src": "/assets/images/ecuador/yasuni-swallows.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
+            "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
           }
         ],
         "overflow": false,
-        "route": "/ecuador/private-amazon-tour/",
+        "route": "/ecuador/amazon-birdwatching-tour/",
         "width": 1440
       },
       {
@@ -165,19 +165,19 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+            "src": "/assets/images/ecuador/yasuni-manakin.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/puyo-river.jpg"
+            "src": "/assets/images/ecuador/yasuni-swallows.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
+            "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
           }
         ],
         "overflow": false,
-        "route": "/ecuador/private-amazon-tour/",
+        "route": "/ecuador/amazon-birdwatching-tour/",
         "width": 390
       },
       {
@@ -191,19 +191,19 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+            "src": "/assets/images/ecuador/yasuni-manakin.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/puyo-river.jpg"
+            "src": "/assets/images/ecuador/yasuni-swallows.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
+            "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
           }
         ],
         "overflow": false,
-        "route": "/es/ecuador/tour-privado-a-la-amazonia/",
+        "route": "/es/ecuador/tour-de-avistamiento-de-aves-en-la-amazonia/",
         "width": 1440
       },
       {
@@ -211,65 +211,19 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+            "src": "/assets/images/ecuador/yasuni-manakin.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/puyo-river.jpg"
+            "src": "/assets/images/ecuador/yasuni-swallows.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
+            "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
           }
         ],
         "overflow": false,
-        "route": "/es/ecuador/tour-privado-a-la-amazonia/",
-        "width": 390
-      },
-      {
-        "factYs": [
-          -1887.5078125,
-          -1887.5078125,
-          -1887.5078125,
-          -1887.5078125
-        ],
-        "headerTop": 0,
-        "images": [
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/puyo-city.jpg"
-          }
-        ],
-        "overflow": false,
-        "route": "/ecuador/family-amazon-tour/",
-        "width": 1440
-      },
-      {
-        "headerTop": 0,
-        "images": [
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/puyo-city.jpg"
-          }
-        ],
-        "overflow": false,
-        "route": "/ecuador/family-amazon-tour/",
+        "route": "/es/ecuador/tour-de-avistamiento-de-aves-en-la-amazonia/",
         "width": 390
       },
       {
@@ -283,19 +237,19 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+            "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+            "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/puyo-city.jpg"
+            "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
           }
         ],
         "overflow": false,
-        "route": "/es/ecuador/tour-familiar-a-la-amazonia/",
+        "route": "/ecuador/amazon-wildlife-tour/",
         "width": 1440
       },
       {
@@ -303,31 +257,77 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+            "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+            "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/puyo-city.jpg"
+            "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
           }
         ],
         "overflow": false,
-        "route": "/es/ecuador/tour-familiar-a-la-amazonia/",
+        "route": "/ecuador/amazon-wildlife-tour/",
+        "width": 390
+      },
+      {
+        "factYs": [
+          -1918.2265625,
+          -1918.2265625,
+          -1918.2265625,
+          -1918.2265625
+        ],
+        "headerTop": 0,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
+          }
+        ],
+        "overflow": false,
+        "route": "/es/ecuador/tour-de-fauna-en-la-amazonia/",
+        "width": 1440
+      },
+      {
+        "headerTop": 0,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
+          }
+        ],
+        "overflow": false,
+        "route": "/es/ecuador/tour-de-fauna-en-la-amazonia/",
         "width": 390
       }
     ],
     "screenshots": [
-      "planning/ai-os/evidence/private-en-desktop.png",
-      "planning/ai-os/evidence/private-en-mobile.png",
-      "planning/ai-os/evidence/private-es-desktop.png",
-      "planning/ai-os/evidence/private-es-mobile.png",
-      "planning/ai-os/evidence/family-en-desktop.png",
-      "planning/ai-os/evidence/family-en-mobile.png",
-      "planning/ai-os/evidence/family-es-desktop.png",
-      "planning/ai-os/evidence/family-es-mobile.png"
+      "planning/ai-os/evidence/bird-en-desktop.png",
+      "planning/ai-os/evidence/bird-en-mobile.png",
+      "planning/ai-os/evidence/bird-es-desktop.png",
+      "planning/ai-os/evidence/bird-es-mobile.png",
+      "planning/ai-os/evidence/wild-en-desktop.png",
+      "planning/ai-os/evidence/wild-en-mobile.png",
+      "planning/ai-os/evidence/wild-es-desktop.png",
+      "planning/ai-os/evidence/wild-es-mobile.png"
     ],
     "checks": [
       "EN/ES 1440px desktop and 390px mobile visual review",
@@ -387,7 +387,9 @@
     "pair_012",
     "pair_013",
     "pair_014",
-    "pair_015"
+    "pair_015",
+    "pair_016",
+    "pair_017"
   ],
   "advice_monitor": {
     "interval_hours": 24,

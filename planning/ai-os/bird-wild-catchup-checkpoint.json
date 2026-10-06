@@ -1,0 +1,31 @@
+{
+  "status": "initial_desktop_mobile_visual_checks_pass",
+  "deployment": "3efc8507",
+  "pairs": [
+    "pair_016",
+    "pair_017"
+  ],
+  "progress": "32/34 pairs staged (94.1%); 28 initial visual pass; four earlier visual reviews pending",
+  "local_usage": {
+    "calls": 0,
+    "tokens": 0,
+    "retries": 0,
+    "cache_hits": 0,
+    "reason": "Existing reviewed copy reused; deterministic QA and supervisor visual review",
+    "overall_local_cloud_percent": "Unmeasured"
+  },
+  "verification": {
+    "compiled_pages": 74,
+    "audited_routes": 54,
+    "browser_evidence": "planning/ai-os/evidence/bird-wild-catchup-qa.json"
+  },
+  "improvements": [
+    "Closed two earlier visual-review gaps without re-drafting; saved eight viewport screenshots and measurements"
+  ],
+  "rollback": {
+    "deployment": "3efc8507",
+    "source_commit": "cb0e3e0",
+    "site_source_changed": false
+  },
+  "next": "Canoe tour and best-time guide visual catch-up"
+}

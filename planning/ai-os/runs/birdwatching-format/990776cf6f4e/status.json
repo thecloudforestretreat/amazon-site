@@ -1,7 +1,7 @@
 {
   "job": "birdwatching-format",
   "model": "qwen3.5:9b",
-  "status": "editorially_reviewed_deployed_visual_review_blocked",
+  "status": "editorial_reviewed_deployed_initial_visual_pass_full_qa_pending",
   "review_flags": [],
   "seconds": 79.16,
   "prompt_eval_count": 295,
@@ -15,6 +15,8 @@
   "raw_draft_sha256": "e25aec69d424cfd56a2f2ae988fad8783c2781e51ae249b0ac4720f625496244",
   "reviewed_sha256": "40b755d8a2c89033c4a2caa8ca4ac6f338d26a6bcf17b1ec173f732c2563785e",
   "deployment": "cbd80db7",
-  "visual_review": "Pending: browser admin-enforced policy could not be verified",
-  "promotion": "Substantial supervisor rewrite; raw local draft never published"
+  "visual_review": "EN/ES desktop/mobile catch-up passed October 5, 2026",
+  "promotion": "Substantial supervisor rewrite; raw local draft never published",
+  "visual_review_deployment": "3efc8507",
+  "visual_evidence": "planning/ai-os/evidence/bird-wild-catchup-qa.json"
 }
