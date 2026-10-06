@@ -117,6 +117,22 @@
           input.value = input.value.trim().replace(/^\p{L}/u, letter => letter.toLocaleUpperCase(language));
         });
       });
+      const startDate = form.querySelector('[name="start_date"]');
+      const endDate = form.querySelector('[name="end_date"]');
+      const guests = form.querySelector('[data-guests]');
+      function updateDates() {
+        const parts = new Intl.DateTimeFormat('en-US', {timeZone:'America/Guayaquil',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(new Date());
+        const part = type => parts.find(p => p.type === type).value;
+        const today = part('year') + '-' + part('month') + '-' + part('day');
+        startDate.min = today;
+        endDate.min = startDate.value && startDate.value >= today ? startDate.value : today;
+        endDate.setCustomValidity(endDate.value && endDate.value < endDate.min ? (language === 'es' ? 'Elige una fecha de fin igual o posterior al inicio, desde hoy.' : 'Choose an end date on or after the start date, from today onward.') : '');
+      }
+      updateDates();
+      form.addEventListener('focusin', updateDates);
+      startDate.addEventListener('input', updateDates);
+      endDate.addEventListener('input', updateDates);
+      guests.addEventListener('input', () => { guests.value = guests.value.replace(/\D/g, '').slice(0,2); });
       let widget;
       submit.disabled = true;
       try {
@@ -140,9 +156,10 @@
       }
       form.addEventListener("submit", async function (event) {
         event.preventDefault();
+        updateDates();
         if (widget === undefined || submit.disabled || !form.reportValidity()) return;
         const values = Object.fromEntries(new FormData(form).entries());
-        const payload = Object.fromEntries(["first_name","last_name","email","country","travelers","dates","interests","privacy_consent","website","cf-turnstile-response"].map(k => [k, values[k] || ""]));
+        const payload = Object.fromEntries(["first_name","last_name","email","country","travelers","phone","start_date","end_date","interests","privacy_consent","website","cf-turnstile-response"].map(k => [k, values[k] || ""]));
         payload.language = language;
         submit.disabled = true; say("Sending…", "Enviando…");
         try {

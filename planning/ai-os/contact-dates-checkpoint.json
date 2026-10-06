@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-06",
+  "deployment": "e95137a2",
+  "rollback_deployment": "bfe1c371",
+  "rollback_commit": "2df0a39",
+  "required": [
+    "first_name",
+    "last_name",
+    "email",
+    "start_date",
+    "end_date"
+  ],
+  "optional": [
+    "phone",
+    "travelers"
+  ],
+  "date_rules": "Today or future in America/Guayaquil; end >= start; exact calendar dates validated server-side",
+  "guests": "1\u201399; browser limits entry to two digits and server rejects out-of-range values",
+  "tests": {
+    "endpoint_passed": 16,
+    "build": "passed",
+    "compiled_pages": 80,
+    "ecuador_support_qa_pages": 76,
+    "browser": "EN desktop and ES mobile: past dates invalid; EN reversed range invalid; guest entry bounded; mobile no horizontal overflow"
+  },
+  "limits": [
+    "Email delivery not configured or verified; managed Turnstile retained",
+    "No live inquiry sent"
+  ],
+  "evidence": [
+    "planning/ai-os/evidence/contact-dates-desktop.png",
+    "planning/ai-os/evidence/contact-dates-mobile.png"
+  ]
+}

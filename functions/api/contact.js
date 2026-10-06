@@ -26,13 +26,18 @@ export async function handleContact(request, env, send = fetch) {
   }
   const bytes = new Uint8Array(size); let offset = 0; for (const chunk of chunks) {bytes.set(chunk,offset); offset += chunk.length;}
   let p; try {p = JSON.parse(new TextDecoder().decode(bytes));} catch {return json({error:'invalid_json'},400);}
-  const fields = {first_name:80,last_name:120,email:254,country:30,travelers:2,dates:160,interests:4000,language:2};
+  const fields = {first_name:80,last_name:120,email:254,country:30,travelers:2,phone:32,start_date:10,end_date:10,interests:4000,language:2};
   if (!p || typeof p !== 'object' || Array.isArray(p)) return json({error:'invalid_fields'},400);
   for (const [key,max] of Object.entries(fields)) {
     if (typeof p[key] !== 'string' || p[key].length > max || /[\u0000-\u0008\u000b\u000c\u000e-\u001f]/.test(p[key])) return json({error:'invalid_fields'},400);
     p[key] = p[key].trim();
   }
-  if (p.website || !p.first_name || !p.last_name || !emailPattern.test(p.email) || p.privacy_consent !== 'yes' || !['en','es'].includes(p.language) || !['not_sure','ecuador','peru','bolivia','brazil','colombia','guyana','suriname','venezuela'].includes(p.country) || (p.travelers && (!/^\d+$/.test(p.travelers) || +p.travelers<1 || +p.travelers>30))) return json({error:'invalid_fields'},400);
+  if (p.website || !p.first_name || !p.last_name || !emailPattern.test(p.email) || p.privacy_consent !== 'yes' || !['en','es'].includes(p.language) || !['not_sure','ecuador','peru','bolivia','brazil','colombia','guyana','suriname','venezuela'].includes(p.country) || (p.travelers && (!/^\d+$/.test(p.travelers) || +p.travelers<1 || +p.travelers>99))) return json({error:'invalid_fields'},400);
+  const parts = new Intl.DateTimeFormat('en-US', {timeZone:'America/Guayaquil',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(new Date());
+  const part = type => parts.find(p => p.type === type).value;
+  const today = part('year') + '-' + part('month') + '-' + part('day');
+  const validDate = value => /^\d{4}-\d{2}-\d{2}$/.test(value) && !Number.isNaN(Date.parse(value+'T00:00:00Z')) && new Date(value+'T00:00:00Z').toISOString().slice(0,10) === value;
+  if (!validDate(p.start_date) || !validDate(p.end_date) || p.start_date < today || p.end_date < p.start_date) return json({error:'invalid_dates'},400);
   for (const key of ['first_name','last_name']) p[key] = p[key].replace(/^\p{L}/u, letter => letter.toLocaleUpperCase(p.language));
   const fullName = p.first_name + ' ' + p.last_name;
   const token = p['cf-turnstile-response'];
@@ -48,7 +53,7 @@ export async function handleContact(request, env, send = fetch) {
     const response = await send('https://api.brevo.com/v3/smtp/email', {
       method:'POST',headers:{'Content-Type':'application/json','api-key':env.BREVO_API_KEY},signal:AbortSignal.timeout(10000),
       body:JSON.stringify({sender:{email:env.CONTACT_FROM,name:'Experience The Amazon'},to:[{email:env.CONTACT_TO}],replyTo:{email:p.email,name:fullName},subject:'Amazon trip inquiry · '+p.country,
-        textContent:`First name: ${p.first_name}\nLast name: ${p.last_name}\nEmail: ${p.email}\nLanguage: ${p.language}\nCountry: ${p.country}\nTravelers: ${p.travelers}\nDates: ${p.dates}\n\n${p.interests}\n\nConsent: inquiry response only`})
+        textContent:`First name: ${p.first_name}\nLast name: ${p.last_name}\nEmail: ${p.email}\nLanguage: ${p.language}\nCountry: ${p.country}\nTravelers: ${p.travelers}\nPhone: ${p.phone}\nStart date: ${p.start_date}\nEnd date: ${p.end_date}\n\n${p.interests}\n\nConsent: inquiry response only`})
     });
     if (!response.ok) return json({error:'delivery_failed'},502);
     const accepted = await response.json();
