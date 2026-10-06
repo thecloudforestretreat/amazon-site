@@ -112,13 +112,18 @@
       const status = form.querySelector("[data-form-status]");
       const submit = form.querySelector("[type='submit']");
       const say = (en, es) => { if (status) status.textContent = language === "es" ? es : en; };
+      form.querySelectorAll("[data-capitalize-name]").forEach(input => {
+        input.addEventListener("blur", () => {
+          input.value = input.value.trim().replace(/^\p{L}/u, letter => letter.toLocaleUpperCase(language));
+        });
+      });
       let widget;
       submit.disabled = true;
       try {
         const response = await fetch(config.leads.endpoint, {cache: "no-store"});
         if (!response.ok) throw new Error("Unavailable");
         const settings = await response.json();
-        if (!settings.enabled || !settings.siteKey) throw new Error("Unavailable");
+        if (!settings.siteKey) throw new Error("Unavailable");
         await new Promise((resolve, reject) => {
           const script = document.createElement("script");
           script.src = "https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit";
@@ -126,7 +131,7 @@
         });
         widget = window.turnstile.render(form.querySelector("[data-turnstile]"), {
           sitekey: settings.siteKey, action: "contact", language: language,
-          callback: () => { submit.disabled = false; say("Ready to send.", "Listo para enviar."); },
+          callback: () => { submit.disabled = !settings.enabled; if (settings.enabled) say("Ready to send.", "Listo para enviar."); else say("Verification complete. Delivery is not active yet; please use email or WhatsApp.", "Verificación completada. El envío aún no está activo; usa correo o WhatsApp."); },
           "expired-callback": () => { submit.disabled = true; say("Please verify again.", "Verifica de nuevo."); },
           "error-callback": () => { submit.disabled = true; say("Verification unavailable. Use email or WhatsApp.", "La verificación no está disponible. Usa correo o WhatsApp."); }
         });
@@ -137,7 +142,7 @@
         event.preventDefault();
         if (widget === undefined || submit.disabled || !form.reportValidity()) return;
         const values = Object.fromEntries(new FormData(form).entries());
-        const payload = Object.fromEntries(["name","email","country","travelers","dates","interests","privacy_consent","website","cf-turnstile-response"].map(k => [k, values[k] || ""]));
+        const payload = Object.fromEntries(["first_name","last_name","email","country","travelers","dates","interests","privacy_consent","website","cf-turnstile-response"].map(k => [k, values[k] || ""]));
         payload.language = language;
         submit.disabled = true; say("Sending…", "Enviando…");
         try {

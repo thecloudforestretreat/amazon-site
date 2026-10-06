@@ -1,0 +1,46 @@
+{
+  "deployment": "bfe1c371",
+  "changed_forms": [
+    "/contact/",
+    "/es/contacto/",
+    "/ecuador/contact/",
+    "/es/ecuador/contacto/"
+  ],
+  "name_fields": [
+    "first_name",
+    "last_name"
+  ],
+  "capitalization": "First Unicode letter on blur and server normalization; remaining casing preserved",
+  "countries": [
+    "ecuador",
+    "peru",
+    "brazil",
+    "colombia",
+    "bolivia",
+    "guyana",
+    "suriname",
+    "venezuela"
+  ],
+  "endpoint_tests_passed": 13,
+  "turnstile": {
+    "widget": "Experience The Amazon staging contact",
+    "hostname": "staging.experiencetheamazon.com",
+    "mode": "managed",
+    "pre_clearance": false,
+    "bindings": "amazon-site-staging primary and preview environments",
+    "browser_success": [
+      "en desktop",
+      "es mobile"
+    ],
+    "server_validation": "implemented; rejection tests passed; live full submission not yet exercised"
+  },
+  "delivery_verified": false,
+  "workflow_fix": "Determine the Pages deployment environment before configuring bindings; branch staging uses the primary environment of the staging-only project",
+  "remaining": [
+    "Brevo API key",
+    "Verified sender",
+    "Receiving inbox",
+    "Real inbox delivery test"
+  ],
+  "rollback_commit": "7a3b690"
+}

@@ -91,10 +91,10 @@
     "scope": "Owner explicitly authorized staging release and proceeding on October 5; pending visual checks stay recorded"
   },
   "deployment": {
-    "id": "0b2f5d6e",
+    "id": "bfe1c371",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://0b2f5d6e.amazon-site-staging.pages.dev",
+    "url": "https://bfe1c371.amazon-site-staging.pages.dev",
     "protected_domain_check": "302 unauthenticated Access redirect; authenticated browser verified",
     "date": "2026-10-06"
   },
@@ -121,7 +121,7 @@
     "Ecuador contact activation",
     "Ecuador completion QA"
   ],
-  "batch_status": "Ecuador release static/reflow/keyboard checks passed; contact configuration, real delivery and operator details pending",
+  "batch_status": "First/last names, capitalization and all eight countries deployed; real managed Turnstile verified EN/ES; Brevo delivery still pending",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",
@@ -430,9 +430,11 @@
   "contact_status": {
     "pair": "pair_029",
     "implementation": "deployed",
-    "activation": "missing_configuration",
+    "activation": "Turnstile configured and browser verified; email configuration pending",
     "delivery_verified": false,
-    "evidence": "planning/ai-os/contact-turnstile-checkpoint.json"
+    "evidence": "planning/ai-os/contact-turnstile-checkpoint.json",
+    "turnstile_widget": "Experience The Amazon staging contact",
+    "turnstile_hostname": "staging.experiencetheamazon.com"
   },
   "reviews": {
     "pair": "pair_027",

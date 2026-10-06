@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {handleContact} from '../functions/api/contact.js';
 const origin='https://staging.experiencetheamazon.com';
 const env={CONTACT_ENABLED:'true',TURNSTILE_SITE_KEY:'site',TURNSTILE_SECRET_KEY:'secret',BREVO_API_KEY:'test',CONTACT_FROM:'sender@example.com',CONTACT_TO:'owner@example.com'};
-const payload={name:'Test visitor',email:'visitor@example.com',country:'ecuador',travelers:'2',dates:'Next year',interests:'Birdwatching',language:'en',privacy_consent:'yes',website:'','cf-turnstile-response':'token'};
+const payload={first_name:'Test',last_name:'Visitor',email:'visitor@example.com',country:'ecuador',travelers:'2',dates:'Next year',interests:'Birdwatching',language:'en',privacy_consent:'yes',website:'','cf-turnstile-response':'token'};
 const request=(p=payload,headers={})=>new Request(origin+'/api/contact',{method:'POST',headers:{Origin:origin,'Content-Type':'application/json',...headers},body:JSON.stringify(p)});
 const proof={success:true,hostname:new URL(origin).hostname,action:'contact'};
 const mock=(verification=proof,email={messageId:'queued-id'},status=201)=>{const calls=[];return {calls,send:async(url,options)=>{calls.push({url,body:JSON.parse(options.body)});return Response.json(calls.length===1?verification:email,{status:calls.length===1?200:status});}}};
@@ -17,3 +17,9 @@ test('oversized request is rejected',async()=>{assert.equal((await handleContact
 test('service outage fails closed',async()=>{assert.equal((await handleContact(request(),env,async()=>{throw Error('offline');})).status,502);});
 
 test('production requires explicit hostname configuration and matching verification',async()=>{const prod='https://experiencetheamazon.com';const r=new Request(prod+'/api/contact',{method:'POST',headers:{Origin:prod,'Content-Type':'application/json'},body:JSON.stringify(payload)});const m=mock({...proof,hostname:'experiencetheamazon.com'});assert.equal((await handleContact(r,{...env,CONTACT_HOSTNAME:'experiencetheamazon.com'},m.send)).status,200);});
+
+test('both name fields required and bounded',async()=>{for(const p of [{...payload,first_name:''},{...payload,last_name:' '},{...payload,first_name:'x'.repeat(81)},{...payload,last_name:'x'.repeat(121)}]) assert.equal((await handleContact(request(p),env,()=>{throw Error('unexpected network');})).status,400);});
+test('all eight Amazon countries accepted after valid verification',async()=>{for(const country of ['ecuador','peru','brazil','colombia','bolivia','guyana','suriname','venezuela']){const m=mock();assert.equal((await handleContact(request({...payload,country}),env,m.send)).status,200);assert.equal(m.calls[1].body.subject,'Amazon trip inquiry · '+country);}});
+test('first letter capitalized without changing remainder of each name',async()=>{const m=mock();await handleContact(request({...payload,first_name:'  élise ',last_name:' mcDonald '}),env,m.send);assert.equal(m.calls[1].body.replyTo.name,'Élise McDonald');assert.ok(m.calls[1].body.textContent.includes('First name: Élise\nLast name: McDonald'));});
+
+test('configured Turnstile can render while email delivery stays disabled',async()=>{const e={TURNSTILE_SITE_KEY:'public-key',TURNSTILE_SECRET_KEY:'secret'};assert.deepEqual(await (await handleContact(new Request(origin+'/api/contact'),e)).json(),{enabled:false,siteKey:'public-key'});assert.equal((await handleContact(request(),e)).status,503);});
