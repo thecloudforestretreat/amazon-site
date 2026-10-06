@@ -1,12 +1,15 @@
 // Secrets belong in Pages environment bindings, never in generated HTML.
 const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-const host = 'staging.experiencetheamazon.com';
+const stagingHost = 'staging.experiencetheamazon.com';
+const allowedHosts = new Set([stagingHost, 'experiencetheamazon.com', 'www.experiencetheamazon.com']);
 const json = (body, status = 200) => Response.json(body, {status, headers: {'Cache-Control':'no-store','X-Robots-Tag':'noindex, nofollow','X-Content-Type-Options':'nosniff'}});
 export function ready(env) {
   return env.CONTACT_ENABLED === 'true' && ['TURNSTILE_SITE_KEY','TURNSTILE_SECRET_KEY','BREVO_API_KEY','CONTACT_FROM','CONTACT_TO'].every(k => typeof env[k] === 'string' && env[k].trim()) && emailPattern.test(env.CONTACT_FROM) && emailPattern.test(env.CONTACT_TO);
 }
 export async function handleContact(request, env, send = fetch) {
   const url = new URL(request.url);
+  const host = env.CONTACT_HOSTNAME || stagingHost;
+  if (!allowedHosts.has(host)) return json({error:'host_not_allowed'},403);
   if (url.hostname !== host) return json({error:'host_not_allowed'},403);
   if (request.method === 'GET') return json({enabled:ready(env), siteKey:ready(env) ? env.TURNSTILE_SITE_KEY : null});
   if (request.method !== 'POST') return json({error:'method_not_allowed'},405);

@@ -1,0 +1,79 @@
+{
+  "method": "JPEG quality 75; dimensions and framing unchanged",
+  "rollback_commit": "2dd2dc7",
+  "files": [
+    {
+      "asset": "src/assets/images/ecuador/tena-forest-jay.jpg",
+      "before": 450314,
+      "after": 439662,
+      "original_sha256": "08cd974609212fa9947bf853eff4fcb56cc34c2c841e25f57284253e80d1e80b"
+    },
+    {
+      "asset": "src/assets/images/ecuador/yasuni-reflections-gallice.jpg",
+      "before": 409408,
+      "after": 395849,
+      "original_sha256": "f40b2ba1503ac54f9d19223d1550858294d083650629bdc5ab8bb3949c0a0441"
+    },
+    {
+      "asset": "src/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
+      "before": 221734,
+      "after": 217393,
+      "original_sha256": "fd79c90f2b308494886f3ca531fb11d42dbd16fb74679e6f002a52de8fbd937f"
+    },
+    {
+      "asset": "src/assets/images/ecuador/tena-river-faessler.jpg",
+      "before": 254239,
+      "after": 191694,
+      "original_sha256": "652fa7ee0793e40adc3eb988a82cd74501be26ddb45c0d3d0b34c634bf85722c"
+    },
+    {
+      "asset": "src/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
+      "before": 506621,
+      "after": 488752,
+      "original_sha256": "11f0f9b870c36248e35d59bb02de754866ebf3f9c93a90023790e1dd1b0b7fd4"
+    },
+    {
+      "asset": "src/assets/images/ecuador/misahualli-monkey.jpg",
+      "before": 266302,
+      "after": 260504,
+      "original_sha256": "cb46060d1b57bb154054febe5d49d54db13999920a0a5cdb70f36c0237d9871f"
+    },
+    {
+      "asset": "src/assets/images/ecuador/puyo-palms.jpg",
+      "before": 733295,
+      "after": 708178,
+      "original_sha256": "cec0836945521a2d704eee650dd0a60d22fd0c68acf3be450d7a6132912e40f3"
+    },
+    {
+      "asset": "src/assets/images/ecuador/misahualli-confluence.jpg",
+      "before": 313316,
+      "after": 305898,
+      "original_sha256": "4e948675029d15f31122c2cf7115c6d5a1ec44d7cae830c657b3da61dd59247a"
+    },
+    {
+      "asset": "src/assets/images/ecuador/misahualli-boat.jpg",
+      "before": 656024,
+      "after": 632916,
+      "original_sha256": "7657880c8e067e332d4f3f17831f2660b54229fb7dc21d3f2d9148420c9c0825"
+    },
+    {
+      "asset": "src/assets/images/ecuador/puyo-river.jpg",
+      "before": 629563,
+      "after": 611712,
+      "original_sha256": "fda23a15da4b71b97f8006cdfdfa1ea3d3e4ce40c635d5b1d11f7ff101b054a4"
+    },
+    {
+      "asset": "src/assets/images/ecuador/puyo-city.jpg",
+      "before": 239848,
+      "after": 234416,
+      "original_sha256": "fe3346663962a716b9de098e18b80bc98469dda566312b6e21fcdf586ecad892"
+    },
+    {
+      "asset": "src/assets/images/ecuador/yasuni-manakin.jpg",
+      "before": 297758,
+      "after": 295161,
+      "original_sha256": "022366e8df547042713edd063a711674755cc6977d20e8590aed26aaf1d93d46"
+    }
+  ],
+  "bytes_saved": 196287
+}

@@ -121,3 +121,6 @@ Six new Yasuní photographs by Geoff Gallice, CC BY 2.0, resized derivatives wit
 - `peru/hero.jpg`: Redbaobab, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Iquitos_Peru_01.jpg). Documented country location; reviewed visually; resized and displayed with CSS crop; attribution retained. Approved for protected staging.
 
 - `bolivia/hero.jpg`: EEJCC, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/), [source](https://commons.wikimedia.org/wiki/File:R%C3%ADo_Beni_cerca_de_Rurrenabaque.jpg). Documented country location; reviewed visually; resized and displayed with CSS crop; attribution retained. Approved for protected staging.
+
+## Ecuador launch image optimization — October 6, 2026
+Existing Ecuador/global JPEGs compressed; five oversized assets resized to a maximum dimension of 1600 pixels. Aspect ratio and scene framing preserved. Existing authors, source URLs and licenses remain authoritative. Per-file byte counts and original hashes retained in planning/ai-os/image-transfer-optimization.json and image-resize-optimization.json. Rollback: commit 2dd2dc7.

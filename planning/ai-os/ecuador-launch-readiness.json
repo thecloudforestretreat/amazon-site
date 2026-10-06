@@ -1,0 +1,2098 @@
+{
+  "deployment": "0b2f5d6e",
+  "reviews": "deferred_by_owner_2026-10-06",
+  "launch_scope": "Ecuador plus global support pages; Peru/Bolivia hubs excluded from release artifact",
+  "static_qa": "76 pages passed",
+  "contact_endpoint_tests": 9,
+  "browser_views": 198,
+  "browser_checks": [
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/3-day-amazon-tour/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/4-day-amazon-tour/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/5-day-amazon-tour/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/amazon-birdwatching-tour/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/amazon-canoe-tour/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/amazon-lodges/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/amazon-tours-from-quito/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/galapagos-bartolome-pete.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/amazon-vs-galapagos/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/amazon-wildlife-tour/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/animals-of-the-ecuador-amazon/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/best-time-to-visit-the-ecuador-amazon/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-scarlet-macaw.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/birds-of-the-ecuador-amazon/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/blog/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-boat.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/blog/best-amazon-lodges-in-ecuador/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/blog/best-time-to-see-wildlife-in-the-ecuador-amazon/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/blog/how-many-days-do-you-need-in-the-ecuador-amazon/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/blog/tena-or-misahualli-which-is-better/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-confluence.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/blog/what-is-it-like-to-stay-in-an-amazon-lodge/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-reflections-gallice.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/blog/yasuni-vs-cuyabeno/",
+      "width": 390
+    },
+    {
+      "eagerImages": [],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/contact/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/cuyabeno/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/family-amazon-tour/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/faqs/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/how-to-get-to-the-ecuador-amazon/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/is-the-ecuador-amazon-safe/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-confluence.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/misahualli/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/plan-your-amazon-trip/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/private-amazon-tour/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-river.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/puyo/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/tena/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/what-to-pack-for-the-amazon/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/yasuni/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/galapagos-bartolome-pete.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/amazonia-vs-galapagos/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/animales-de-la-amazonia-ecuatoriana/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-scarlet-macaw.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/aves-de-la-amazonia-ecuatoriana/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/blog/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-confluence.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/blog/como-es-alojarse-en-un-lodge-amazonico/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/blog/cuantos-dias-necesitas-en-la-amazonia-del-ecuador/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/blog/mejor-epoca-para-ver-fauna-en-la-amazonia-del-ecuador/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-boat.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/blog/mejores-lodges-en-la-amazonia-del-ecuador/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/blog/tena-o-misahualli-cual-es-mejor/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-reflections-gallice.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/blog/yasuni-vs-cuyabeno/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/como-llegar-a-la-amazonia-ecuatoriana/",
+      "width": 390
+    },
+    {
+      "eagerImages": [],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/contacto/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/cuyabeno/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/es-segura-la-amazonia-ecuatoriana/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/lodges-en-la-amazonia/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/mejor-epoca-para-visitar-la-amazonia-ecuatoriana/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-confluence.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/misahualli/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/planifica-tu-viaje-a-la-amazonia/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/preguntas-frecuentes/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-river.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/puyo/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/que-llevar-a-la-amazonia/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tena/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-3-dias-en-la-amazonia/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-4-dias-en-la-amazonia/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-5-dias-en-la-amazonia/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-avistamiento-de-aves-en-la-amazonia/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-fauna-en-la-amazonia/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tour-en-canoa-por-la-amazonia/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tour-familiar-a-la-amazonia/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tour-privado-a-la-amazonia/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tours-a-la-amazonia-desde-quito/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "complete": true,
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/yasuni/",
+      "width": 390
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/3-day-amazon-tour/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/4-day-amazon-tour/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/5-day-amazon-tour/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/amazon-birdwatching-tour/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/amazon-canoe-tour/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/amazon-lodges/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/amazon-tours-from-quito/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/galapagos-bartolome-pete.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/amazon-vs-galapagos/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/amazon-wildlife-tour/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/animals-of-the-ecuador-amazon/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/best-time-to-visit-the-ecuador-amazon/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-scarlet-macaw.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/birds-of-the-ecuador-amazon/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/blog/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-boat.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/blog/best-amazon-lodges-in-ecuador/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/blog/best-time-to-see-wildlife-in-the-ecuador-amazon/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/blog/how-many-days-do-you-need-in-the-ecuador-amazon/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/blog/tena-or-misahualli-which-is-better/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-confluence.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/blog/what-is-it-like-to-stay-in-an-amazon-lodge/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-reflections-gallice.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/blog/yasuni-vs-cuyabeno/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/contact/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/cuyabeno/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/family-amazon-tour/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/faqs/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/how-to-get-to-the-ecuador-amazon/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/is-the-ecuador-amazon-safe/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-confluence.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/misahualli/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/plan-your-amazon-trip/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/private-amazon-tour/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-river.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/puyo/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/tena/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/what-to-pack-for-the-amazon/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/ecuador/yasuni/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/galapagos-bartolome-pete.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/amazonia-vs-galapagos/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/animales-de-la-amazonia-ecuatoriana/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-scarlet-macaw.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/aves-de-la-amazonia-ecuatoriana/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/blog/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-confluence.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/blog/como-es-alojarse-en-un-lodge-amazonico/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/blog/cuantos-dias-necesitas-en-la-amazonia-del-ecuador/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/blog/mejor-epoca-para-ver-fauna-en-la-amazonia-del-ecuador/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-boat.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/blog/mejores-lodges-en-la-amazonia-del-ecuador/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/blog/tena-o-misahualli-cual-es-mejor/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-reflections-gallice.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/blog/yasuni-vs-cuyabeno/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/como-llegar-a-la-amazonia-ecuatoriana/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/contacto/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/cuyabeno/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/es-segura-la-amazonia-ecuatoriana/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/lodges-en-la-amazonia/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/mejor-epoca-para-visitar-la-amazonia-ecuatoriana/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-confluence.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/misahualli/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-sunset-new.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/planifica-tu-viaje-a-la-amazonia/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/preguntas-frecuentes/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-river.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/puyo/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/que-llevar-a-la-amazonia/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tena/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-3-dias-en-la-amazonia/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-4-dias-en-la-amazonia/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-5-dias-en-la-amazonia/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-avistamiento-de-aves-en-la-amazonia/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-fauna-en-la-amazonia/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tour-en-canoa-por-la-amazonia/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tour-familiar-a-la-amazonia/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tour-privado-a-la-amazonia/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/tours-a-la-amazonia-desde-quito/",
+      "width": 1440
+    },
+    {
+      "eagerImages": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        }
+      ],
+      "h1": 1,
+      "mainTabindex": "-1",
+      "overflow": false,
+      "route": "/es/ecuador/yasuni/",
+      "width": 1440
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/3-day-amazon-tour/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/4-day-amazon-tour/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/5-day-amazon-tour/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/amazon-birdwatching-tour/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/amazon-canoe-tour/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/amazon-lodges/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/amazon-tours-from-quito/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/amazon-vs-galapagos/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/amazon-wildlife-tour/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/animals-of-the-ecuador-amazon/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/best-time-to-visit-the-ecuador-amazon/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/birds-of-the-ecuador-amazon/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/blog/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/blog/best-amazon-lodges-in-ecuador/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/blog/best-time-to-see-wildlife-in-the-ecuador-amazon/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/blog/how-many-days-do-you-need-in-the-ecuador-amazon/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/blog/tena-or-misahualli-which-is-better/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/blog/what-is-it-like-to-stay-in-an-amazon-lodge/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/blog/yasuni-vs-cuyabeno/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/contact/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/cuyabeno/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/family-amazon-tour/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/faqs/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/how-to-get-to-the-ecuador-amazon/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/is-the-ecuador-amazon-safe/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/misahualli/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/plan-your-amazon-trip/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/private-amazon-tour/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/puyo/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/tena/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/what-to-pack-for-the-amazon/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/ecuador/yasuni/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/amazonia-vs-galapagos/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/animales-de-la-amazonia-ecuatoriana/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/aves-de-la-amazonia-ecuatoriana/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/blog/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/blog/como-es-alojarse-en-un-lodge-amazonico/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/blog/cuantos-dias-necesitas-en-la-amazonia-del-ecuador/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/blog/mejor-epoca-para-ver-fauna-en-la-amazonia-del-ecuador/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/blog/mejores-lodges-en-la-amazonia-del-ecuador/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/blog/tena-o-misahualli-cual-es-mejor/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/blog/yasuni-vs-cuyabeno/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/como-llegar-a-la-amazonia-ecuatoriana/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/contacto/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/cuyabeno/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/es-segura-la-amazonia-ecuatoriana/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/lodges-en-la-amazonia/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/mejor-epoca-para-visitar-la-amazonia-ecuatoriana/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/misahualli/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/planifica-tu-viaje-a-la-amazonia/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/preguntas-frecuentes/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/puyo/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/que-llevar-a-la-amazonia/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/tena/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-3-dias-en-la-amazonia/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-4-dias-en-la-amazonia/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-5-dias-en-la-amazonia/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-avistamiento-de-aves-en-la-amazonia/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-fauna-en-la-amazonia/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/tour-en-canoa-por-la-amazonia/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/tour-familiar-a-la-amazonia/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/tour-privado-a-la-amazonia/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/tours-a-la-amazonia-desde-quito/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "route": "/es/ecuador/yasuni/",
+      "width": 320
+    }
+  ],
+  "keyboard": {
+    "en_skip_focus": "main-content",
+    "es_skip_focus": "main-content",
+    "en_es_menu_escape_focus_restoration": "passed",
+    "en_faq_space_toggle": "passed"
+  },
+  "fixes": [
+    "Focusable main landmark repairs skip navigation",
+    "Darkened small teal text for contrast",
+    "Image compression/resize saved 1,160,880 bytes across source assets"
+  ],
+  "launch_gates": {
+    "real_contact_delivery": "pending configuration and test",
+    "operator_details": "pending owner input",
+    "measured_web_performance": "pending; browser timing API unavailable in current tool scope",
+    "public_deployment": "not performed"
+  },
+  "release_artifact": "dist-ecuador",
+  "rollback_commit": "2dd2dc7",
+  "rollback_deployment": "6dc73229"
+}

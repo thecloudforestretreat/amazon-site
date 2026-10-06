@@ -11,10 +11,10 @@ Configure only `amazon-site-staging` preview environment (branch `staging`) in C
 - `CONTACT_TO`: owner-selected receiving inbox.
 - `CONTACT_ENABLED`: `true` only when the above are valid and protected-staging testing is authorized.
 
-Do not paste secrets into chat or commit them. Use Pages environment secrets and redeploy the staging branch after configuring. The endpoint rejects production and direct pages.dev hostnames. Production activation needs a separate reviewed configuration.
+Do not paste secrets into chat or commit them. Use Pages environment secrets and redeploy the staging branch after configuring. The endpoint defaults to the protected staging hostname. Production activation requires an explicit CONTACT_HOSTNAME of experiencetheamazon.com (or www.experiencetheamazon.com), a matching Turnstile widget and separate environment secrets. Direct pages.dev hostnames remain rejected.
 
-Eight mocked endpoint tests cover configuration failure, wrong origin/hostname/action, missing consent/token, invalid inputs/honeypot, delivery rejection, body limit, service outage and verified queued flow. Run `node --test scripts/test-contact.mjs`.
+Nine mocked endpoint tests cover configuration failure, wrong origin/hostname/action, missing consent/token, invalid inputs/honeypot, delivery rejection, body limit, service outage and verified queued flow. Run `node --test scripts/test-contact.mjs`.
 
 Still required: real Turnstile challenge and submission, Brevo acceptance, and owner-confirmed inbox arrival. No live email sent in this implementation turn. Privacy policy is a staging draft; operator details need finalization before public collection. Turnstile tokens expire and are single-use, so the browser resets the widget after every attempted submission.
 
-Ecuador completion: pair_029 is implemented but delivery verification remains pending. Pair_027 needs permissioned genuine reviews; do not invent reviews or ratings. Whole-section accessibility, keyboard and performance review remains separate from page-count progress.
+Ecuador completion: pair_029 is implemented but delivery verification remains pending. Pair_027 is deferred by the owner and does not block launch. Whole-section accessibility, keyboard and performance review remains separate from page-count progress.

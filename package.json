@@ -7,10 +7,10 @@
     "build": "node scripts/build.mjs",
     "build:staging": "ETA_ENV=staging node scripts/build.mjs",
     "build:production": "ETA_ENV=production node scripts/build.mjs",
-    "validate": "node scripts/validate.mjs"
+    "validate": "node scripts/validate.mjs",
+    "build:ecuador-release": "ETA_ENV=production ETA_SCOPE=ecuador node scripts/build.mjs"
   },
   "engines": {
     "node": ">=20"
   }
 }
-

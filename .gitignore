@@ -6,3 +6,5 @@ planning/ai-os/installation/cli-before.py
 planning/ai-os/runs/worker.lock
 
 .wrangler/
+
+dist-ecuador/

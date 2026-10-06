@@ -1,0 +1,22 @@
+{
+  "scope": "Ecuador and launch support pages",
+  "pages_checked": 76,
+  "checks": [
+    "headings",
+    "main landmarks",
+    "unique IDs",
+    "language counterparts",
+    "image alt presence",
+    "form labels",
+    "asset availability",
+    "routes and anchors",
+    "JSON-LD syntax"
+  ],
+  "errors": [],
+  "passed": true,
+  "limitations": [
+    "No automated WCAG conformance certification",
+    "Contrast, keyboard interaction and responsive visuals require browser review",
+    "Navigation timing is a lab observation, not field Core Web Vitals"
+  ]
+}

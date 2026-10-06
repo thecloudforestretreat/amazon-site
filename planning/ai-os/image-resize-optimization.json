@@ -1,0 +1,37 @@
+{
+  "method": "JPEG quality 75; maximum dimension 1600px; aspect ratio and framing unchanged",
+  "rollback_commit": "2dd2dc7",
+  "files": [
+    {
+      "asset": "src/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg",
+      "before": 499738,
+      "after": 451674,
+      "original_sha256": "49428b6e95d64ed19ce8e60b8c7f004ce4583ec648f8af193eebb9d858a5b541"
+    },
+    {
+      "asset": "src/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
+      "before": 488752,
+      "after": 488512,
+      "original_sha256": "07fc5c65307a6fb28cabfe042ed05e5bd462936c914dc40bc6cf334c0a3feadc"
+    },
+    {
+      "asset": "src/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg",
+      "before": 802589,
+      "after": 407303,
+      "original_sha256": "20453e24d478aff3ea93c8c3d150ce6f9846e5697358b3fdc3aeeca45d64c48e"
+    },
+    {
+      "asset": "src/assets/images/ecuador/yasuni-manakin.jpg",
+      "before": 295161,
+      "after": 295055,
+      "original_sha256": "72e6af04c31fa19b0cea9a60d280a5ef000a3461bcde10224b6e219d5067dd5a"
+    },
+    {
+      "asset": "src/assets/images/global/home-amazon-river-hero.jpg",
+      "before": 883891,
+      "after": 362994,
+      "original_sha256": "3ecebd599a6e45cca8b506c6c70be97107ee8a46296852cdcb57c3bff5b3c4b3"
+    }
+  ],
+  "bytes_saved": 964593
+}
