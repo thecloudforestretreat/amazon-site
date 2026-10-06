@@ -480,11 +480,11 @@
         ]
       ]
     },
-    "image": "/assets/images/pages/countries/ecuador/general/flooded-forest-tree.jpg",
+    "image": "/assets/images/pages/countries/ecuador/general/forest-river-overlook.jpg",
     "imageWidth": 1800,
     "imageHeight": 1200,
-    "imageAltEn": "Flooded forest tree",
-    "imageAltEs": "Árbol en el bosque inundado",
+    "imageAltEn": "Forest river overlook",
+    "imageAltEs": "Vista del bosque y el río",
     "imageCredit": "Photo: Geoff Gallice",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Oxbow_lake,_Yasuni.jpg",
     "imageLicense": "https://creativecommons.org/licenses/by/2.0/",
@@ -497,11 +497,11 @@
     ],
     "sectionImages": [
       {
-        "src": "/assets/images/pages/countries/ecuador/general/riverboat-deck-sunset.jpg",
+        "src": "/assets/images/pages/countries/ecuador/general/canoe-river-forested-bank.jpg",
         "width": 1800,
         "height": 1200,
-        "altEn": "Riverboat deck sunset",
-        "altEs": "Cubierta de un barco al atardecer",
+        "altEn": "Canoe river forested bank",
+        "altEs": "Canoa junto a una orilla boscosa",
         "source": "https://commons.wikimedia.org/wiki/File:Bactris_Palm_Sunset.jpg",
         "credit": "Lauren Whitehurst",
         "license": "CC BY-SA 4.0",
@@ -510,11 +510,11 @@
         "ownerSupplied": true
       },
       {
-        "src": "/assets/images/pages/countries/ecuador/wildlife/orange-frog-on-leaf.jpg",
+        "src": "/assets/images/pages/countries/ecuador/stays/thatched-forest-building.jpg",
         "width": 1800,
         "height": 1200,
-        "altEn": "Orange frog on leaf",
-        "altEs": "Rana naranja sobre una hoja",
+        "altEn": "Thatched forest building",
+        "altEs": "Edificio de techo de palma en el bosque",
         "source": "https://commons.wikimedia.org/wiki/File:Phyllomedusa_vaillantii_(Yasuni).jpg",
         "credit": "Geoff Gallice",
         "license": "CC BY 2.0",
@@ -528,10 +528,10 @@
   {
     "pairId": "pair_005",
     "slug": "cuyabeno",
-    "image": "/assets/images/pages/countries/ecuador/general/forest-river-overlook.jpg",
+    "image": "/assets/images/pages/countries/ecuador/stays/thatched-riverside-lodge-reflection.jpg",
     "imageCredit": "Photo: Masha Buschujewa / Unsplash",
-    "imageAltEn": "Forest river overlook",
-    "imageAltEs": "Vista del bosque y el río",
+    "imageAltEn": "Thatched riverside lodge reflection",
+    "imageAltEs": "Lodge de techo de palma reflejado en el agua",
     "en": {
       "name": "Cuyabeno",
       "title": "Cuyabeno Travel Guide | Wildlife, Lodges and Trip Planning",
@@ -954,9 +954,9 @@
     "imageHeight": 1200,
     "sectionImages": [
       {
-        "src": "/assets/images/pages/countries/ecuador/stays/thatched-riverside-lodge-reflection.jpg",
-        "altEn": "Thatched riverside lodge reflection",
-        "altEs": "Lodge de techo de palma reflejado en el agua",
+        "src": "/assets/images/pages/countries/ecuador/general/canoe-sunset-lagoon.jpg",
+        "altEn": "Canoe sunset lagoon",
+        "altEs": "Canoa en una laguna al atardecer",
         "credit": "Constanza S. Mora / Unsplash",
         "source": "https://unsplash.com/photos/a-hut-in-the-middle-of-a-lake-surrounded-by-trees-llqblcGrnZE",
         "width": 1800,
@@ -966,11 +966,11 @@
       },
       {
         "section": 4,
-        "src": "/assets/images/pages/countries/ecuador/wildlife/monkeys-on-forest-branches.jpg",
+        "src": "/assets/images/pages/countries/ecuador/people-and-experiences/canoe-paddler-flooded-forest.jpg",
         "width": 1800,
         "height": 1200,
-        "altEn": "Monkeys on forest branches",
-        "altEs": "Monos sobre ramas del bosque",
+        "altEn": "Canoe paddler flooded forest",
+        "altEs": "Persona remando entre el bosque inundado",
         "source": "https://commons.wikimedia.org/wiki/File:Hypsiboas_cinerascens_in_Cuyabeno,_Ecuador.jpg",
         "credit": "Javier Ábalos Alvarez",
         "license": "CC BY-SA 2.0",
@@ -983,10 +983,10 @@
   {
     "pairId": "pair_006",
     "slug": "tena",
-    "image": "/assets/images/pages/countries/ecuador/general/river-bend-forest-overlook.jpg",
+    "image": "/assets/images/pages/countries/ecuador/general/aerial-river-forest.jpg",
     "imageCredit": "Photo: Patricio Gaibor / Unsplash",
-    "imageAltEn": "River bend forest overlook",
-    "imageAltEs": "Curva del río entre el bosque",
+    "imageAltEn": "Aerial river forest",
+    "imageAltEs": "Vista aérea de un río entre el bosque",
     "en": {
       "name": "Tena",
       "title": "Tena Amazon Travel Guide | Ecuador Jungle Trips",
@@ -1457,11 +1457,11 @@
     ],
     "sectionImages": [
       {
-        "src": "/assets/images/pages/countries/ecuador/stays/illuminated-lodge-boardwalk-night.jpg",
+        "src": "/assets/images/pages/countries/ecuador/general/river-town-bank.jpg",
         "width": 1800,
         "height": 1200,
-        "altEn": "Illuminated lodge boardwalk night",
-        "altEs": "Lodge iluminado con pasarela de noche",
+        "altEn": "River town bank",
+        "altEs": "Orilla del río junto a una población",
         "source": "https://commons.wikimedia.org/wiki/File:Tena1.jpg",
         "credit": "Andreas Faessler",
         "license": "CC BY-SA 3.0",
@@ -1470,11 +1470,11 @@
         "ownerSupplied": true
       },
       {
-        "src": "/assets/images/pages/countries/ecuador/people-and-experiences/traveler-buttress-tree.jpg",
+        "src": "/assets/images/pages/countries/ecuador/wildlife/monkeys-on-forest-branches.jpg",
         "width": 1800,
         "height": 1200,
-        "altEn": "Traveler buttress tree",
-        "altEs": "Viajero junto a las raíces de un árbol",
+        "altEn": "Monkeys on forest branches",
+        "altEs": "Monos sobre ramas del bosque",
         "source": "https://commons.wikimedia.org/wiki/File:Amazon_Rainforest_in_Tena,_Ecuador.jpg",
         "credit": "Jay",
         "license": "CC BY 2.0",
@@ -1940,11 +1940,11 @@
     "sectionImages": [
       {
         "section": 0,
-        "src": "/assets/images/pages/countries/ecuador/stays/thatched-forest-building.jpg",
+        "src": "/assets/images/pages/countries/ecuador/general/covered-canoe-river.jpg",
         "width": 1800,
         "height": 1200,
-        "altEn": "Thatched forest building",
-        "altEs": "Edificio de techo de palma en el bosque",
+        "altEn": "Covered canoe river",
+        "altEs": "Canoa cubierta sobre el río",
         "source": "https://commons.wikimedia.org/wiki/File:Misahuall%C3%AD_Ecuador_1435.jpg",
         "credit": "Arabsalam",
         "license": "CC BY-SA 4.0",
@@ -1953,11 +1953,11 @@
       },
       {
         "section": 4,
-        "src": "/assets/images/pages/countries/ecuador/wildlife/monkeys-town-square-pair.jpg",
-        "width": 1800,
-        "height": 1200,
-        "altEn": "Monkeys town square pair",
-        "altEs": "Dos monos en una plaza",
+        "src": "/assets/images/pages/countries/ecuador/wildlife/monkeys-resting-town-square.jpg",
+        "width": 800,
+        "height": 600,
+        "altEn": "Monkeys resting town square",
+        "altEs": "Monos descansando en una plaza",
         "source": "https://commons.wikimedia.org/wiki/File:MISAHUALLI_%2819783859780%29.jpg",
         "credit": "Agencia de Noticias ANDES",
         "license": "CC BY-SA 2.0",
@@ -1965,15 +1965,15 @@
         "ownerSupplied": true
       }
     ],
-    "image": "/assets/images/pages/countries/ecuador/general/covered-canoe-river.jpg",
+    "image": "/assets/images/pages/countries/ecuador/general/boats-riverbank.jpg",
     "imageWidth": 1800,
     "imageHeight": 1200,
     "imageCredit": "Arabsalam",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Misahuall%C3%AD_Ecuador_1054.jpg",
     "imageLicense": "https://creativecommons.org/licenses/by-sa/4.0/",
     "imageLicenseLabel": "CC BY-SA 4.0",
-    "imageAltEn": "Covered canoe river",
-    "imageAltEs": "Canoa cubierta sobre el río",
+    "imageAltEn": "Boats riverbank",
+    "imageAltEs": "Botes junto a la orilla",
     "imageOwnerSupplied": true
   },
   {
