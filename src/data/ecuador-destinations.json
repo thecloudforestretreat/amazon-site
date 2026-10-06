@@ -480,11 +480,11 @@
         ]
       ]
     },
-    "image": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
-    "imageWidth": 1600,
-    "imageHeight": 1071,
-    "imageAltEn": "Forest surrounding an oxbow lake in Yasuní, Ecuador",
-    "imageAltEs": "Bosque alrededor de una laguna en Yasuní, Ecuador",
+    "image": "/assets/images/pages/countries/ecuador/general/flooded-forest-tree.jpg",
+    "imageWidth": 1800,
+    "imageHeight": 1200,
+    "imageAltEn": "Flooded forest tree",
+    "imageAltEs": "Árbol en el bosque inundado",
     "imageCredit": "Photo: Geoff Gallice",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Oxbow_lake,_Yasuni.jpg",
     "imageLicense": "https://creativecommons.org/licenses/by/2.0/",
@@ -497,38 +497,41 @@
     ],
     "sectionImages": [
       {
-        "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
-        "width": 1400,
-        "height": 788,
-        "altEn": "Palm silhouettes at sunset on a tributary of the Yasuní River",
-        "altEs": "Siluetas de palmeras al atardecer en un afluente del río Yasuní",
+        "src": "/assets/images/pages/countries/ecuador/general/riverboat-deck-sunset.jpg",
+        "width": 1800,
+        "height": 1200,
+        "altEn": "Riverboat deck sunset",
+        "altEs": "Cubierta de un barco al atardecer",
         "source": "https://commons.wikimedia.org/wiki/File:Bactris_Palm_Sunset.jpg",
         "credit": "Lauren Whitehurst",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "section": 0
+        "section": 0,
+        "ownerSupplied": true
       },
       {
-        "src": "/assets/images/ecuador/yasuni-leaf-frog-gallice.jpg",
-        "width": 1400,
-        "height": 933,
-        "altEn": "White-lined leaf frog photographed in Yasuní National Park",
-        "altEs": "Rana de hoja fotografiada en el Parque Nacional Yasuní",
+        "src": "/assets/images/pages/countries/ecuador/wildlife/orange-frog-on-leaf.jpg",
+        "width": 1800,
+        "height": 1200,
+        "altEn": "Orange frog on leaf",
+        "altEs": "Rana naranja sobre una hoja",
         "source": "https://commons.wikimedia.org/wiki/File:Phyllomedusa_vaillantii_(Yasuni).jpg",
         "credit": "Geoff Gallice",
         "license": "CC BY 2.0",
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-        "section": 4
+        "section": 4,
+        "ownerSupplied": true
       }
-    ]
+    ],
+    "imageOwnerSupplied": true
   },
   {
     "pairId": "pair_005",
     "slug": "cuyabeno",
-    "image": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg",
+    "image": "/assets/images/pages/countries/ecuador/general/forest-river-overlook.jpg",
     "imageCredit": "Photo: Masha Buschujewa / Unsplash",
-    "imageAltEn": "Flooded forest reflected in a lagoon in Cuyabeno, Ecuador",
-    "imageAltEs": "Bosque inundado reflejado en una laguna de Cuyabeno, Ecuador",
+    "imageAltEn": "Forest river overlook",
+    "imageAltEs": "Vista del bosque y el río",
     "en": {
       "name": "Cuyabeno",
       "title": "Cuyabeno Travel Guide | Wildlife, Lodges and Trip Planning",
@@ -938,48 +941,52 @@
       }
     ],
     "sectionImage": {
-      "src": "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg",
-      "altEn": "Thatched shelter beside forest-lined water in Cuyabeno, Ecuador",
-      "altEs": "Refugio con techo de paja junto al agua y al bosque en Cuyabeno, Ecuador",
+      "src": "/assets/images/pages/countries/ecuador/stays/thatched-lodge-roof-canopy.jpg",
+      "altEn": "Thatched lodge roof canopy",
+      "altEs": "Techos de palma entre el bosque",
       "credit": "Constanza S. Mora / Unsplash",
       "source": "https://unsplash.com/photos/a-hut-in-the-middle-of-a-lake-surrounded-by-trees-llqblcGrnZE",
-      "width": 1600,
-      "height": 1063
+      "width": 1800,
+      "height": 1200,
+      "ownerSupplied": true
     },
     "imageWidth": 1800,
-    "imageHeight": 1497,
+    "imageHeight": 1200,
     "sectionImages": [
       {
-        "src": "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg",
-        "altEn": "Thatched shelter beside forest-lined water in Cuyabeno, Ecuador",
-        "altEs": "Refugio con techo de paja junto al agua y al bosque en Cuyabeno, Ecuador",
+        "src": "/assets/images/pages/countries/ecuador/stays/thatched-riverside-lodge-reflection.jpg",
+        "altEn": "Thatched riverside lodge reflection",
+        "altEs": "Lodge de techo de palma reflejado en el agua",
         "credit": "Constanza S. Mora / Unsplash",
         "source": "https://unsplash.com/photos/a-hut-in-the-middle-of-a-lake-surrounded-by-trees-llqblcGrnZE",
-        "width": 1600,
-        "height": 1063,
-        "section": 0
+        "width": 1800,
+        "height": 1200,
+        "section": 0,
+        "ownerSupplied": true
       },
       {
         "section": 4,
-        "src": "/assets/images/ecuador/cuyabeno-frog-javier-abalos.jpg",
-        "width": 1399,
-        "height": 1400,
-        "altEn": "Green tree frog photographed in Cuyabeno, Ecuador",
-        "altEs": "Rana arborícola verde fotografiada en Cuyabeno, Ecuador",
+        "src": "/assets/images/pages/countries/ecuador/wildlife/monkeys-on-forest-branches.jpg",
+        "width": 1800,
+        "height": 1200,
+        "altEn": "Monkeys on forest branches",
+        "altEs": "Monos sobre ramas del bosque",
         "source": "https://commons.wikimedia.org/wiki/File:Hypsiboas_cinerascens_in_Cuyabeno,_Ecuador.jpg",
         "credit": "Javier Ábalos Alvarez",
         "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "ownerSupplied": true
       }
-    ]
+    ],
+    "imageOwnerSupplied": true
   },
   {
     "pairId": "pair_006",
     "slug": "tena",
-    "image": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg",
+    "image": "/assets/images/pages/countries/ecuador/general/river-bend-forest-overlook.jpg",
     "imageCredit": "Photo: Patricio Gaibor / Unsplash",
-    "imageAltEn": "Rainforest canopy viewed from below in Tena, Ecuador",
-    "imageAltEs": "Dosel del bosque visto desde abajo en Tena, Ecuador",
+    "imageAltEn": "River bend forest overlook",
+    "imageAltEs": "Curva del río entre el bosque",
     "en": {
       "name": "Tena",
       "title": "Tena Amazon Travel Guide | Ecuador Jungle Trips",
@@ -1440,7 +1447,7 @@
     },
     "imageSource": "https://unsplash.com/photos/looking-up-at-trees-and-blue-sky-edqQ9GZBEWM",
     "imageWidth": 1800,
-    "imageHeight": 2689,
+    "imageHeight": 1200,
     "reviewedAt": "2026-10-05",
     "sources": [
       {
@@ -1450,30 +1457,33 @@
     ],
     "sectionImages": [
       {
-        "src": "/assets/images/ecuador/tena-river-faessler.jpg",
-        "width": 900,
-        "height": 600,
-        "altEn": "Tena River, town buildings and wooded banks in Tena, Ecuador",
-        "altEs": "Río Tena, edificios y riberas arboladas en Tena, Ecuador",
+        "src": "/assets/images/pages/countries/ecuador/stays/illuminated-lodge-boardwalk-night.jpg",
+        "width": 1800,
+        "height": 1200,
+        "altEn": "Illuminated lodge boardwalk night",
+        "altEs": "Lodge iluminado con pasarela de noche",
         "source": "https://commons.wikimedia.org/wiki/File:Tena1.jpg",
         "credit": "Andreas Faessler",
         "license": "CC BY-SA 3.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-        "section": 0
+        "section": 0,
+        "ownerSupplied": true
       },
       {
-        "src": "/assets/images/ecuador/tena-forest-jay.jpg",
-        "width": 1400,
-        "height": 933,
-        "altEn": "Sunlight through rainforest trees in Tena, Ecuador",
-        "altEs": "Luz entre los árboles del bosque amazónico en Tena, Ecuador",
+        "src": "/assets/images/pages/countries/ecuador/people-and-experiences/traveler-buttress-tree.jpg",
+        "width": 1800,
+        "height": 1200,
+        "altEn": "Traveler buttress tree",
+        "altEs": "Viajero junto a las raíces de un árbol",
         "source": "https://commons.wikimedia.org/wiki/File:Amazon_Rainforest_in_Tena,_Ecuador.jpg",
         "credit": "Jay",
         "license": "CC BY 2.0",
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-        "section": 4
+        "section": 4,
+        "ownerSupplied": true
       }
-    ]
+    ],
+    "imageOwnerSupplied": true
   },
   {
     "pairId": "pair_007",
@@ -1930,38 +1940,41 @@
     "sectionImages": [
       {
         "section": 0,
-        "src": "/assets/images/ecuador/misahualli-boat.jpg",
-        "width": 1400,
-        "height": 1005,
-        "altEn": "A riverside building photographed during a Napo River boat trip near Misahuallí",
-        "altEs": "Edificio ribereño fotografiado durante un paseo en bote por el Napo cerca de Misahuallí",
+        "src": "/assets/images/pages/countries/ecuador/stays/thatched-forest-building.jpg",
+        "width": 1800,
+        "height": 1200,
+        "altEn": "Thatched forest building",
+        "altEs": "Edificio de techo de palma en el bosque",
         "source": "https://commons.wikimedia.org/wiki/File:Misahuall%C3%AD_Ecuador_1435.jpg",
         "credit": "Arabsalam",
         "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "ownerSupplied": true
       },
       {
         "section": 4,
-        "src": "/assets/images/ecuador/misahualli-monkey.jpg",
-        "width": 1400,
-        "height": 933,
-        "altEn": "Monkeys on a railing and wall in Misahuallí, with visitors standing behind",
-        "altEs": "Monos sobre una baranda y un muro en Misahuallí, con visitantes detrás",
+        "src": "/assets/images/pages/countries/ecuador/wildlife/monkeys-town-square-pair.jpg",
+        "width": 1800,
+        "height": 1200,
+        "altEn": "Monkeys town square pair",
+        "altEs": "Dos monos en una plaza",
         "source": "https://commons.wikimedia.org/wiki/File:MISAHUALLI_%2819783859780%29.jpg",
         "credit": "Agencia de Noticias ANDES",
         "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "ownerSupplied": true
       }
     ],
-    "image": "/assets/images/ecuador/misahualli-confluence.jpg",
-    "imageWidth": 1400,
-    "imageHeight": 787,
+    "image": "/assets/images/pages/countries/ecuador/general/covered-canoe-river.jpg",
+    "imageWidth": 1800,
+    "imageHeight": 1200,
     "imageCredit": "Arabsalam",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Misahuall%C3%AD_Ecuador_1054.jpg",
     "imageLicense": "https://creativecommons.org/licenses/by-sa/4.0/",
     "imageLicenseLabel": "CC BY-SA 4.0",
-    "imageAltEn": "The Misahuallí and Napo river confluence, with people on the riverbank",
-    "imageAltEs": "Confluencia de los ríos Misahuallí y Napo, con personas en la ribera"
+    "imageAltEn": "Covered canoe river",
+    "imageAltEs": "Canoa cubierta sobre el río",
+    "imageOwnerSupplied": true
   },
   {
     "pairId": "pair_008",
@@ -2414,37 +2427,40 @@
     "sectionImages": [
       {
         "section": 0,
-        "src": "/assets/images/ecuador/puyo-city.jpg",
-        "width": 1400,
-        "height": 625,
-        "altEn": "Panoramic view of Puyo city and surrounding green hills",
-        "altEs": "Vista panorámica de la ciudad de Puyo y colinas verdes alrededor",
+        "src": "/assets/images/pages/countries/ecuador/general/riverside-promenade.jpg",
+        "width": 1800,
+        "height": 1200,
+        "altEn": "Riverside promenade",
+        "altEs": "Paseo junto al río",
         "source": "https://commons.wikimedia.org/wiki/File:Vista_del_Puyo.JPG",
         "credit": "David C. S.",
         "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "ownerSupplied": true
       },
       {
         "section": 4,
-        "src": "/assets/images/ecuador/puyo-palms.jpg",
-        "width": 1400,
-        "height": 933,
-        "altEn": "Palms with exposed supporting roots beside a path at Omaere Park, Puyo",
-        "altEs": "Palmas con raíces de soporte expuestas junto a un sendero del Parque Omaere, Puyo",
+        "src": "/assets/images/pages/countries/ecuador/people-and-experiences/traveler-rainforest-trail.jpg",
+        "width": 1800,
+        "height": 1200,
+        "altEn": "Traveler rainforest trail",
+        "altEs": "Viajero en un sendero del bosque",
         "source": "https://commons.wikimedia.org/wiki/File:Iriartea_deltoidea_and_Socratea_exorrhiza_%28Arecaceae%29_%E2%80%94_two_%22walking_palms%22_%2830053641211%29.jpg",
         "credit": "yakovlev.alexey",
         "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "ownerSupplied": true
       }
     ],
-    "image": "/assets/images/ecuador/puyo-river.jpg",
-    "imageWidth": 1400,
-    "imageHeight": 1050,
+    "image": "/assets/images/pages/countries/ecuador/general/river-town-bank.jpg",
+    "imageWidth": 1800,
+    "imageHeight": 1200,
     "imageCredit": "David C. S.",
     "imageSource": "https://commons.wikimedia.org/wiki/File:R%C3%ADo_Puyo.JPG",
     "imageLicense": "https://creativecommons.org/licenses/by/3.0/",
     "imageLicenseLabel": "CC BY 3.0",
-    "imageAltEn": "The Puyo River at its confluence with the Pambay River",
-    "imageAltEs": "Río Puyo en su confluencia con el río Pambay"
+    "imageAltEn": "River town bank",
+    "imageAltEs": "Orilla del río junto a una población",
+    "imageOwnerSupplied": true
   }
 ]

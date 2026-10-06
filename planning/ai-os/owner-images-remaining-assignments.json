@@ -1,0 +1,247 @@
+[
+  {
+    "route": "/ecuador/3-day-amazon-tour/",
+    "old": "/assets/images/ecuador/yasuni-river-turtle.jpg",
+    "new": "/assets/images/pages/countries/ecuador/wildlife/bird-on-rainforest-branch.jpg"
+  },
+  {
+    "route": "/ecuador/4-day-amazon-tour/",
+    "old": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg",
+    "new": "/assets/images/pages/countries/ecuador/wildlife/monkeys-on-forest-branches.jpg"
+  },
+  {
+    "route": "/ecuador/5-day-amazon-tour/",
+    "old": "/assets/images/ecuador/yasuni-swallows.jpg",
+    "new": "/assets/images/pages/countries/ecuador/wildlife/macaws-at-clay-bank.jpg"
+  },
+  {
+    "route": "/ecuador/amazon-birdwatching-tour/",
+    "old": "/assets/images/ecuador/yasuni-swallows.jpg",
+    "new": "/assets/images/pages/countries/ecuador/wildlife/macaws-at-clay-bank.jpg"
+  },
+  {
+    "route": "/ecuador/amazon-birdwatching-tour/",
+    "old": "/assets/images/ecuador/yasuni-roosting-bird.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/aerial-river-forest.jpg"
+  },
+  {
+    "route": "/ecuador/amazon-canoe-tour/",
+    "old": "/assets/images/ecuador/puyo-palms.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/calm-river-cloud-reflection.jpg"
+  },
+  {
+    "route": "/ecuador/amazon-lodges/",
+    "old": "/assets/images/ecuador/puyo-palms.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/flooded-forest-tree.jpg"
+  },
+  {
+    "route": "/ecuador/amazon-tours-from-quito/",
+    "old": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/forest-river-overlook.jpg"
+  },
+  {
+    "route": "/ecuador/amazon-tours-from-quito/",
+    "old": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/river-bend-forest-overlook.jpg"
+  },
+  {
+    "route": "/ecuador/amazon-tours-from-quito/",
+    "old": "/assets/images/ecuador/puyo-city.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/boats-riverbank.jpg"
+  },
+  {
+    "route": "/ecuador/amazon-vs-galapagos/",
+    "old": "/assets/images/ecuador/yasuni-manakin.jpg",
+    "new": "/assets/images/pages/countries/ecuador/wildlife/bird-on-rainforest-branch.jpg"
+  },
+  {
+    "route": "/ecuador/amazon-wildlife-tour/",
+    "old": "/assets/images/ecuador/yasuni-river-turtle.jpg",
+    "new": "/assets/images/pages/countries/ecuador/wildlife/bird-on-rainforest-branch.jpg"
+  },
+  {
+    "route": "/ecuador/animals-of-the-ecuador-amazon/",
+    "old": "/assets/images/ecuador/cuyabeno-hoatzin-gallagher.jpg",
+    "new": "/assets/images/pages/countries/ecuador/wildlife/macaws-at-clay-bank.jpg"
+  },
+  {
+    "route": "/ecuador/animals-of-the-ecuador-amazon/",
+    "old": "/assets/images/ecuador/napo-turtle-new.jpg",
+    "new": "/assets/images/pages/countries/ecuador/wildlife/orange-frog-on-leaf.jpg"
+  },
+  {
+    "route": "/ecuador/best-time-to-visit-the-ecuador-amazon/",
+    "old": "/assets/images/ecuador/tena-forest-jay.jpg",
+    "new": "/assets/images/pages/countries/ecuador/people-and-experiences/traveler-buttress-tree.jpg"
+  },
+  {
+    "route": "/ecuador/best-time-to-visit-the-ecuador-amazon/",
+    "old": "/assets/images/ecuador/yasuni-roosting-bird.jpg",
+    "new": "/assets/images/pages/countries/ecuador/wildlife/bird-on-rainforest-branch.jpg"
+  },
+  {
+    "route": "/ecuador/birds-of-the-ecuador-amazon/",
+    "old": "/assets/images/ecuador/yasuni-scarlet-macaw.jpg",
+    "new": "/assets/images/pages/countries/ecuador/wildlife/macaws-at-clay-bank.jpg"
+  },
+  {
+    "route": "/ecuador/birds-of-the-ecuador-amazon/",
+    "old": "/assets/images/ecuador/yasuni-aracari.jpg",
+    "new": "/assets/images/pages/countries/ecuador/wildlife/bird-on-rainforest-branch.jpg"
+  },
+  {
+    "route": "/ecuador/birds-of-the-ecuador-amazon/",
+    "old": "/assets/images/ecuador/yasuni-piping-guan.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/aerial-river-golden-light.jpg"
+  },
+  {
+    "route": "/ecuador/blog/best-amazon-lodges-in-ecuador/",
+    "old": "/assets/images/ecuador/tena-forest-jay.jpg",
+    "new": "/assets/images/pages/countries/ecuador/people-and-experiences/traveler-rainforest-trail.jpg"
+  },
+  {
+    "route": "/ecuador/blog/best-amazon-lodges-in-ecuador/",
+    "old": "/assets/images/ecuador/yasuni-swallows.jpg",
+    "new": "/assets/images/pages/countries/ecuador/wildlife/macaws-at-clay-bank.jpg"
+  },
+  {
+    "route": "/ecuador/blog/best-time-to-see-wildlife-in-the-ecuador-amazon/",
+    "old": "/assets/images/ecuador/yasuni-woolly-monkey.jpg",
+    "new": "/assets/images/pages/countries/ecuador/wildlife/monkey-portrait-on-branch.jpg"
+  },
+  {
+    "route": "/ecuador/blog/best-time-to-see-wildlife-in-the-ecuador-amazon/",
+    "old": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/aerial-river-forest.jpg"
+  },
+  {
+    "route": "/ecuador/blog/best-time-to-see-wildlife-in-the-ecuador-amazon/",
+    "old": "/assets/images/ecuador/cuyabeno-hoatzin-gallagher.jpg",
+    "new": "/assets/images/pages/countries/ecuador/wildlife/bird-on-rainforest-branch.jpg"
+  },
+  {
+    "route": "/ecuador/blog/how-many-days-do-you-need-in-the-ecuador-amazon/",
+    "old": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/canoe-sunset-lagoon.jpg"
+  },
+  {
+    "route": "/ecuador/blog/how-many-days-do-you-need-in-the-ecuador-amazon/",
+    "old": "/assets/images/ecuador/puyo-palms.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/calm-river-cloud-reflection.jpg"
+  },
+  {
+    "route": "/ecuador/blog/how-many-days-do-you-need-in-the-ecuador-amazon/",
+    "old": "/assets/images/ecuador/yasuni-roosting-bird.jpg",
+    "new": "/assets/images/pages/countries/ecuador/wildlife/macaws-at-clay-bank.jpg"
+  },
+  {
+    "route": "/ecuador/blog/",
+    "old": "/assets/images/ecuador/napo-forest-grzywa.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/flooded-forest-tree.jpg"
+  },
+  {
+    "route": "/ecuador/blog/",
+    "old": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/forest-river-overlook.jpg"
+  },
+  {
+    "route": "/ecuador/blog/",
+    "old": "/assets/images/ecuador/yasuni-manakin.jpg",
+    "new": "/assets/images/pages/countries/ecuador/wildlife/bird-on-rainforest-branch.jpg"
+  },
+  {
+    "route": "/ecuador/blog/tena-or-misahualli-which-is-better/",
+    "old": "/assets/images/ecuador/tena-river-faessler.jpg",
+    "new": "/assets/images/pages/countries/ecuador/stays/illuminated-lodge-boardwalk-night.jpg"
+  },
+  {
+    "route": "/ecuador/blog/what-is-it-like-to-stay-in-an-amazon-lodge/",
+    "old": "/assets/images/ecuador/misahualli-confluence.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/covered-canoe-river.jpg"
+  },
+  {
+    "route": "/ecuador/blog/what-is-it-like-to-stay-in-an-amazon-lodge/",
+    "old": "/assets/images/ecuador/cuyabeno-canoe-river.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/canoe-calm-river-forest.jpg"
+  },
+  {
+    "route": "/ecuador/blog/what-is-it-like-to-stay-in-an-amazon-lodge/",
+    "old": "/assets/images/ecuador/yasuni-river-turtle.jpg",
+    "new": "/assets/images/pages/countries/ecuador/wildlife/monkeys-on-forest-branches.jpg"
+  },
+  {
+    "route": "/ecuador/blog/yasuni-vs-cuyabeno/",
+    "old": "/assets/images/ecuador/yasuni-reflections-gallice.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/river-bend-forest-overlook.jpg"
+  },
+  {
+    "route": "/ecuador/blog/yasuni-vs-cuyabeno/",
+    "old": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg",
+    "new": "/assets/images/pages/countries/ecuador/people-and-experiences/canoe-paddler-flooded-forest.jpg"
+  },
+  {
+    "route": "/ecuador/blog/yasuni-vs-cuyabeno/",
+    "old": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg",
+    "new": "/assets/images/pages/countries/ecuador/people-and-experiences/traveler-buttress-tree.jpg"
+  },
+  {
+    "route": "/ecuador/family-amazon-tour/",
+    "old": "/assets/images/ecuador/puyo-city.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/river-town-bank.jpg"
+  },
+  {
+    "route": "/ecuador/faqs/",
+    "old": "/assets/images/ecuador/misahualli-napo-bridge.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/riverside-promenade.jpg"
+  },
+  {
+    "route": "/ecuador/faqs/",
+    "old": "/assets/images/ecuador/tena-river-faessler.jpg",
+    "new": "/assets/images/pages/countries/ecuador/stays/thatched-forest-building.jpg"
+  },
+  {
+    "route": "/ecuador/faqs/",
+    "old": "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg",
+    "new": "/assets/images/pages/countries/ecuador/stays/thatched-lodge-riverbank.jpg"
+  },
+  {
+    "route": "/ecuador/how-to-get-to-the-ecuador-amazon/",
+    "old": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg",
+    "new": "/assets/images/pages/countries/ecuador/people-and-experiences/canoe-passengers-calm-river.jpg"
+  },
+  {
+    "route": "/ecuador/is-the-ecuador-amazon-safe/",
+    "old": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg",
+    "new": "/assets/images/pages/countries/ecuador/people-and-experiences/traveler-rainforest-trail.jpg"
+  },
+  {
+    "route": "/ecuador/is-the-ecuador-amazon-safe/",
+    "old": "/assets/images/ecuador/puyo-river.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/boats-riverbank.jpg"
+  },
+  {
+    "route": "/ecuador/is-the-ecuador-amazon-safe/",
+    "old": "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/aerial-river-forest.jpg"
+  },
+  {
+    "route": "/ecuador/plan-your-amazon-trip/",
+    "old": "/assets/images/ecuador/cuyabeno-canoe-river.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/canoe-river-forested-bank.jpg"
+  },
+  {
+    "route": "/ecuador/private-amazon-tour/",
+    "old": "/assets/images/ecuador/cuyabeno-sunset-new.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/flooded-tree-sunset.jpg"
+  },
+  {
+    "route": "/ecuador/what-to-pack-for-the-amazon/",
+    "old": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg",
+    "new": "/assets/images/pages/countries/ecuador/general/calm-river-cloud-reflection.jpg"
+  },
+  {
+    "route": "/ecuador/what-to-pack-for-the-amazon/",
+    "old": "/assets/images/ecuador/cuyabeno-monkey-pamsai.jpg",
+    "new": "/assets/images/pages/countries/ecuador/wildlife/monkeys-resting-town-square.jpg"
+  }
+]
