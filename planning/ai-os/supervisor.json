@@ -91,10 +91,10 @@
     "scope": "Owner explicitly authorized staging release and proceeding on October 5; pending visual checks stay recorded"
   },
   "deployment": {
-    "id": "88f2794e",
+    "id": "39628056",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://88f2794e.amazon-site-staging.pages.dev",
+    "url": "https://39628056.amazon-site-staging.pages.dev",
     "protected_domain_check": "302 unauthenticated Access redirect; authenticated browser verified",
     "date": "2026-10-06"
   },
@@ -121,7 +121,7 @@
     "Ecuador contact activation",
     "Ecuador completion QA"
   ],
-  "batch_status": "Contact delivery enabled; Brevo reports test delivered; owner inbox confirmation pending",
+  "batch_status": "Owner confirmed inbox delivery; branded HTML signature with Instagram deployed",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",
@@ -431,12 +431,12 @@
     "pair": "pair_029",
     "implementation": "deployed",
     "activation": "Brevo activated; live EN staging inquiry reported Delivered by Brevo",
-    "delivery_verified": false,
+    "delivery_verified": true,
     "evidence": "planning/ai-os/contact-dates-checkpoint.json",
     "turnstile_widget": "Experience The Amazon staging contact",
     "turnstile_hostname": "staging.experiencetheamazon.com",
     "provider_delivery_verified": true,
-    "inbox_confirmation_pending": true
+    "inbox_confirmation_pending": false
   },
   "reviews": {
     "pair": "pair_027",

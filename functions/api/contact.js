@@ -3,6 +3,11 @@ const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 const stagingHost = 'staging.experiencetheamazon.com';
 const allowedHosts = new Set([stagingHost, 'experiencetheamazon.com', 'www.experiencetheamazon.com']);
 const json = (body, status = 200) => Response.json(body, {status, headers: {'Cache-Control':'no-store','X-Robots-Tag':'noindex, nofollow','X-Content-Type-Options':'nosniff'}});
+const escapeHtml = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+export function inquiryHtml(p) {
+  const rows = [['Name',p.first_name+' '+p.last_name],['Email',p.email],['Phone',p.phone || '—'],['Country',p.country],['Guests',p.travelers || '—'],['Dates',p.start_date+' → '+p.end_date],['Language',p.language]];
+  return `<div style="background:#f8f5ec;padding:28px;font-family:Arial,sans-serif;color:#15392e"><div style="max-width:600px;margin:auto;background:#fff;padding:28px;border-radius:16px"><p style="color:#65796d;font-size:12px;letter-spacing:2px">TRIP PLANNING</p><h1 style="font-family:Georgia,serif;font-size:28px">A new Amazon inquiry</h1><table style="width:100%;border-collapse:collapse">${rows.map(([label,value])=>`<tr><th style="text-align:left;padding:9px 0;border-bottom:1px solid #eee">${label}</th><td style="padding:9px 0;border-bottom:1px solid #eee">${escapeHtml(value)}</td></tr>`).join('')}</table><p style="white-space:pre-wrap;line-height:1.6">${escapeHtml(p.interests)}</p><p style="font-size:12px;color:#65796d">Consent: inquiry response only. Reply to this email to contact the traveler.</p><div style="border-top:2px solid #d5a340;margin-top:26px;padding-top:20px"><strong style="font-family:Georgia,serif;font-size:23px">Experience The Amazon</strong><p style="margin:8px 0;color:#65796d">Experience the Amazon with confidence.</p><p style="line-height:1.8"><a style="color:#15392e" href="https://experiencetheamazon.com">experiencetheamazon.com</a><br><a style="color:#15392e" href="mailto:info@experiencetheamazon.com">info@experiencetheamazon.com</a><br><a style="color:#15392e" href="https://www.instagram.com/experienceamazon/">Instagram · @experienceamazon</a></p></div></div></div>`;
+}
 export function ready(env) {
   return env.CONTACT_ENABLED === 'true' && ['TURNSTILE_SITE_KEY','TURNSTILE_SECRET_KEY','BREVO_API_KEY','CONTACT_FROM','CONTACT_TO'].every(k => typeof env[k] === 'string' && env[k].trim()) && emailPattern.test(env.CONTACT_FROM) && emailPattern.test(env.CONTACT_TO);
 }
@@ -53,7 +58,8 @@ export async function handleContact(request, env, send = fetch) {
     const response = await send('https://api.brevo.com/v3/smtp/email', {
       method:'POST',headers:{'Content-Type':'application/json','api-key':env.BREVO_API_KEY},signal:AbortSignal.timeout(10000),
       body:JSON.stringify({sender:{email:env.CONTACT_FROM,name:'Experience The Amazon'},to:[{email:env.CONTACT_TO}],replyTo:{email:p.email,name:fullName},subject:'Amazon trip inquiry · '+p.country,
-        textContent:`First name: ${p.first_name}\nLast name: ${p.last_name}\nEmail: ${p.email}\nLanguage: ${p.language}\nCountry: ${p.country}\nTravelers: ${p.travelers}\nPhone: ${p.phone}\nStart date: ${p.start_date}\nEnd date: ${p.end_date}\n\n${p.interests}\n\nConsent: inquiry response only`})
+        htmlContent:inquiryHtml(p),
+        textContent:`First name: ${p.first_name}\nLast name: ${p.last_name}\nEmail: ${p.email}\nLanguage: ${p.language}\nCountry: ${p.country}\nTravelers: ${p.travelers}\nPhone: ${p.phone}\nStart date: ${p.start_date}\nEnd date: ${p.end_date}\n\n${p.interests}\n\nConsent: inquiry response only\n\nExperience The Amazon\nExperience the Amazon with confidence.\nhttps://experiencetheamazon.com\ninfo@experiencetheamazon.com\nInstagram: https://www.instagram.com/experienceamazon/`})
     });
     if (!response.ok) return json({error:'delivery_failed'},502);
     const accepted = await response.json();
