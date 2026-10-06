@@ -1,0 +1,29 @@
+{
+  "status": "protected_staging_verified",
+  "deployment": "535f0af9",
+  "commit": "6f33959",
+  "qa": {
+    "compiled_pages": 80,
+    "homepage_internal_links": "passed",
+    "single_h1_per_language": true,
+    "unique_photographs_per_page": 10,
+    "visual_review": [
+      "EN desktop",
+      "EN mobile hamburger",
+      "ES desktop",
+      "ES mobile"
+    ],
+    "unauthenticated_staging_status": 302
+  },
+  "improvements": [
+    "Removed duplicate generated document after DOM heading check",
+    "Replaced duplicate lake scene under alternate filename with licensed sunset"
+  ],
+  "local_worker": {
+    "model": "qwen3.5:9b",
+    "prompt_tokens": 107,
+    "output_tokens": 109,
+    "scope": "Spanish heading draft, editorially revised"
+  },
+  "rollback_deployment": "39628056"
+}
