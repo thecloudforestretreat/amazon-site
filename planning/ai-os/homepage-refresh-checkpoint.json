@@ -1,5 +1,5 @@
 {
-  "status": "protected_staging_verified",
+  "status": "balanced_hero_country_cards_ready",
   "deployment": "535f0af9",
   "commit": "6f33959",
   "qa": {
@@ -25,5 +25,7 @@
     "output_tokens": 109,
     "scope": "Spanish heading draft, editorially revised"
   },
-  "rollback_deployment": "39628056"
+  "rollback_deployment": "39628056",
+  "hero": "Original staging Amazon river sunset image; cinematic framing",
+  "future_countries": "Seven non-link cards; softened surfaces, readable descriptions, coming-soon labels"
 }
