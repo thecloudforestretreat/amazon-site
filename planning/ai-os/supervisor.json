@@ -71,9 +71,9 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Continue two earlier visual catch-up reviews",
-    "Genuine reviews/contact endpoint required for remaining two content pairs",
-    "Full accessibility/performance and due daily advice monitoring remain pending"
+    "Run full accessibility, keyboard and performance QA for staged Ecuador pages",
+    "Genuine review material and working contact delivery endpoint required for remaining two content pairs",
+    "Continue daily advice monitoring when due"
   ],
   "future_batches": [
     "Reviews require genuine customer material; do not invent testimonials",
@@ -82,10 +82,7 @@
   "notification_policy": "Meaningful change, verified completion, failure or required user action only",
   "pilot_status": "deployed_initial_browser_checks_pass_full_qa_pending",
   "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
-  "next_batch_candidates": [
-    "pair_020 visual catch-up",
-    "pair_021 visual catch-up"
-  ],
+  "next_batch_candidates": [],
   "local_worker_run_complete": true,
   "git_status": "Committed locally; remote push blocked by automatic approval review",
   "quality_hold": {
@@ -121,19 +118,111 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "canoe-format visual catch-up",
-    "season-planning visual catch-up"
+    "access-planning visual catch-up",
+    "packing-planning visual catch-up"
   ],
   "batch_status": "Four/five-day EN/ES initial technical and desktop/mobile visual catch-up passed; no source changes or new deployment",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",
     "pairs": [
-      "pair_018",
-      "pair_019"
+      "pair_020",
+      "pair_021"
     ],
     "status": "initial_desktop_mobile_visual_checks_pass",
     "measurements": [
+      {
+        "factYs": [
+          -1918.2265625,
+          -1918.2265625,
+          -1918.2265625,
+          -1918.2265625
+        ],
+        "headerTop": 0,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+          }
+        ],
+        "overflow": false,
+        "route": "/ecuador/how-to-get-to-the-ecuador-amazon/",
+        "width": 1440
+      },
+      {
+        "headerTop": 0,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+          }
+        ],
+        "overflow": false,
+        "route": "/ecuador/how-to-get-to-the-ecuador-amazon/",
+        "width": 390
+      },
+      {
+        "factYs": [
+          -1921.2890625,
+          -1921.2890625,
+          -1921.2890625,
+          -1921.2890625
+        ],
+        "headerTop": 0,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+          }
+        ],
+        "overflow": false,
+        "route": "/es/ecuador/como-llegar-a-la-amazonia-ecuatoriana/",
+        "width": 1440
+      },
+      {
+        "headerTop": 0,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/cuyabeno-lagoon-new.jpg"
+          }
+        ],
+        "overflow": false,
+        "route": "/es/ecuador/como-llegar-a-la-amazonia-ecuatoriana/",
+        "width": 390
+      },
       {
         "factYs": [
           -1987.7265625,
@@ -145,19 +234,19 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+            "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/puyo-palms.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-monkey-pamsai.jpg"
           }
         ],
         "overflow": false,
-        "route": "/ecuador/amazon-canoe-tour/",
+        "route": "/ecuador/what-to-pack-for-the-amazon/",
         "width": 1440
       },
       {
@@ -165,19 +254,19 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+            "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/puyo-palms.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-monkey-pamsai.jpg"
           }
         ],
         "overflow": false,
-        "route": "/ecuador/amazon-canoe-tour/",
+        "route": "/ecuador/what-to-pack-for-the-amazon/",
         "width": 390
       },
       {
@@ -191,19 +280,19 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+            "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/puyo-palms.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-monkey-pamsai.jpg"
           }
         ],
         "overflow": false,
-        "route": "/es/ecuador/tour-en-canoa-por-la-amazonia/",
+        "route": "/es/ecuador/que-llevar-a-la-amazonia/",
         "width": 1440
       },
       {
@@ -211,123 +300,31 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+            "src": "/assets/images/ecuador/napo-forest-grzywa.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/puyo-palms.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-monkey-pamsai.jpg"
           }
         ],
         "overflow": false,
-        "route": "/es/ecuador/tour-en-canoa-por-la-amazonia/",
-        "width": 390
-      },
-      {
-        "factYs": [
-          -2021.5078125,
-          -2021.5078125,
-          -2021.5078125,
-          -2021.5078125
-        ],
-        "headerTop": 0,
-        "images": [
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/tena-forest-jay.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
-          }
-        ],
-        "overflow": false,
-        "route": "/ecuador/best-time-to-visit-the-ecuador-amazon/",
-        "width": 1440
-      },
-      {
-        "headerTop": 0,
-        "images": [
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/tena-forest-jay.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
-          }
-        ],
-        "overflow": false,
-        "route": "/ecuador/best-time-to-visit-the-ecuador-amazon/",
-        "width": 390
-      },
-      {
-        "factYs": [
-          -2021.5078125,
-          -2021.5078125,
-          -2021.5078125,
-          -2021.5078125
-        ],
-        "headerTop": 0,
-        "images": [
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/tena-forest-jay.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
-          }
-        ],
-        "overflow": false,
-        "route": "/es/ecuador/mejor-epoca-para-visitar-la-amazonia-ecuatoriana/",
-        "width": 1440
-      },
-      {
-        "headerTop": 0,
-        "images": [
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/tena-forest-jay.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
-          }
-        ],
-        "overflow": false,
-        "route": "/es/ecuador/mejor-epoca-para-visitar-la-amazonia-ecuatoriana/",
+        "route": "/es/ecuador/que-llevar-a-la-amazonia/",
         "width": 390
       }
     ],
     "screenshots": [
-      "planning/ai-os/evidence/canoe-en-desktop.png",
-      "planning/ai-os/evidence/canoe-en-mobile.png",
-      "planning/ai-os/evidence/canoe-es-desktop.png",
-      "planning/ai-os/evidence/canoe-es-mobile.png",
-      "planning/ai-os/evidence/time-en-desktop.png",
-      "planning/ai-os/evidence/time-en-mobile.png",
-      "planning/ai-os/evidence/time-es-desktop.png",
-      "planning/ai-os/evidence/time-es-mobile.png"
+      "planning/ai-os/evidence/access-en-desktop.png",
+      "planning/ai-os/evidence/access-en-mobile.png",
+      "planning/ai-os/evidence/access-es-desktop.png",
+      "planning/ai-os/evidence/access-es-mobile.png",
+      "planning/ai-os/evidence/pack-en-desktop.png",
+      "planning/ai-os/evidence/pack-en-mobile.png",
+      "planning/ai-os/evidence/pack-es-desktop.png",
+      "planning/ai-os/evidence/pack-es-mobile.png"
     ],
     "checks": [
       "EN/ES 1440px desktop and 390px mobile visual review",
@@ -391,7 +388,9 @@
     "pair_016",
     "pair_017",
     "pair_018",
-    "pair_019"
+    "pair_019",
+    "pair_020",
+    "pair_021"
   ],
   "advice_monitor": {
     "interval_hours": 24,

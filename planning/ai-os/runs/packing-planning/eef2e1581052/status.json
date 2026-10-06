@@ -8,5 +8,8 @@
   "eval_count": 928,
   "cloud_worker_tokens": 0,
   "cache_hit": false,
-  "deployment": "7c17d480"
+  "deployment": "7c17d480",
+  "visual_review": "EN/ES desktop/mobile catch-up passed October 6, 2026",
+  "visual_review_deployment": "3efc8507",
+  "visual_evidence": "planning/ai-os/evidence/access-pack-catchup-qa.json"
 }
