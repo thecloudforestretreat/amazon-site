@@ -1,7 +1,7 @@
 {
   "job": "season-planning",
   "model": "qwen3.5:9b",
-  "status": "editorially_reviewed_deployed_visual_review_blocked",
+  "status": "editorial_reviewed_deployed_initial_visual_pass_full_qa_pending",
   "review_flags": [],
   "seconds": 34.98,
   "prompt_eval_count": 136,
@@ -13,6 +13,8 @@
   "raw_draft_sha256": "e0788a8097b8e16734fedcee32f8191bb462ce9d8f9a021c1ef39873def9cad7",
   "reviewed_sha256": "ca93d59a8b87149102d98eaa2131c40484505f8230f642a43ec7ed783c3023ee",
   "deployment": "721b3770",
-  "visual_review": "Pending: browser admin-enforced policy could not be verified",
-  "promotion": "Local booking questions reviewed and targeted questions corrected; supervisor wrote bilingual intros/body/FAQ and climate sourcing. Raw local output never published directly"
+  "visual_review": "EN/ES desktop/mobile catch-up passed October 6, 2026",
+  "promotion": "Local booking questions reviewed and targeted questions corrected; supervisor wrote bilingual intros/body/FAQ and climate sourcing. Raw local output never published directly",
+  "visual_review_deployment": "3efc8507",
+  "visual_evidence": "planning/ai-os/evidence/canoe-time-catchup-qa.json"
 }

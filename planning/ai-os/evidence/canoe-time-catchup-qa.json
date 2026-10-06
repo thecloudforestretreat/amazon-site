@@ -1,0 +1,216 @@
+{
+  "deployment": "3efc8507",
+  "date": "2026-10-06",
+  "pairs": [
+    "pair_018",
+    "pair_019"
+  ],
+  "status": "initial_desktop_mobile_visual_checks_pass",
+  "measurements": [
+    {
+      "factYs": [
+        -1987.7265625,
+        -1987.7265625,
+        -1987.7265625,
+        -1987.7265625
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-palms.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/amazon-canoe-tour/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-palms.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/amazon-canoe-tour/",
+      "width": 390
+    },
+    {
+      "factYs": [
+        -2021.5078125,
+        -2021.5078125,
+        -2021.5078125,
+        -2021.5078125
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-palms.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/tour-en-canoa-por-la-amazonia/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-palms.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/tour-en-canoa-por-la-amazonia/",
+      "width": 390
+    },
+    {
+      "factYs": [
+        -2021.5078125,
+        -2021.5078125,
+        -2021.5078125,
+        -2021.5078125
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/best-time-to-visit-the-ecuador-amazon/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/best-time-to-visit-the-ecuador-amazon/",
+      "width": 390
+    },
+    {
+      "factYs": [
+        -2021.5078125,
+        -2021.5078125,
+        -2021.5078125,
+        -2021.5078125
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/mejor-epoca-para-visitar-la-amazonia-ecuatoriana/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/mejor-epoca-para-visitar-la-amazonia-ecuatoriana/",
+      "width": 390
+    }
+  ],
+  "screenshots": [
+    "planning/ai-os/evidence/canoe-en-desktop.png",
+    "planning/ai-os/evidence/canoe-en-mobile.png",
+    "planning/ai-os/evidence/canoe-es-desktop.png",
+    "planning/ai-os/evidence/canoe-es-mobile.png",
+    "planning/ai-os/evidence/time-en-desktop.png",
+    "planning/ai-os/evidence/time-en-mobile.png",
+    "planning/ai-os/evidence/time-es-desktop.png",
+    "planning/ai-os/evidence/time-es-mobile.png"
+  ],
+  "checks": [
+    "EN/ES 1440px desktop and 390px mobile visual review",
+    "Sticky header, no overflow, aligned desktop fact labels",
+    "Three loaded distinct images per page",
+    "74 compiled pages validated and 54-route source audit passed",
+    "Unauthenticated 302; authenticated browser readback"
+  ],
+  "limits": [
+    "Full accessibility, performance and contact delivery pending"
+  ],
+  "source_changes": false
+}

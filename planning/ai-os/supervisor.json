@@ -71,7 +71,7 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Continue four earlier visual catch-up reviews",
+    "Continue two earlier visual catch-up reviews",
     "Genuine reviews/contact endpoint required for remaining two content pairs",
     "Full accessibility/performance and due daily advice monitoring remain pending"
   ],
@@ -83,8 +83,8 @@
   "pilot_status": "deployed_initial_browser_checks_pass_full_qa_pending",
   "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
   "next_batch_candidates": [
-    "pair_018 visual catch-up",
-    "pair_019 visual catch-up"
+    "pair_020 visual catch-up",
+    "pair_021 visual catch-up"
   ],
   "local_worker_run_complete": true,
   "git_status": "Committed locally; remote push blocked by automatic approval review",
@@ -121,43 +121,43 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "birdwatching-format visual catch-up",
-    "wildlife-format visual catch-up"
+    "canoe-format visual catch-up",
+    "season-planning visual catch-up"
   ],
   "batch_status": "Four/five-day EN/ES initial technical and desktop/mobile visual catch-up passed; no source changes or new deployment",
   "batch_browser_checks": {
     "deployment": "3efc8507",
-    "date": "2026-10-05",
+    "date": "2026-10-06",
     "pairs": [
-      "pair_016",
-      "pair_017"
+      "pair_018",
+      "pair_019"
     ],
     "status": "initial_desktop_mobile_visual_checks_pass",
     "measurements": [
       {
         "factYs": [
-          -2021.5078125,
-          -2021.5078125,
-          -2021.5078125,
-          -2021.5078125
+          -1987.7265625,
+          -1987.7265625,
+          -1987.7265625,
+          -1987.7265625
         ],
         "headerTop": 0,
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-swallows.jpg"
+            "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
+            "src": "/assets/images/ecuador/puyo-palms.jpg"
           }
         ],
         "overflow": false,
-        "route": "/ecuador/amazon-birdwatching-tour/",
+        "route": "/ecuador/amazon-canoe-tour/",
         "width": 1440
       },
       {
@@ -165,19 +165,19 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-swallows.jpg"
+            "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
+            "src": "/assets/images/ecuador/puyo-palms.jpg"
           }
         ],
         "overflow": false,
-        "route": "/ecuador/amazon-birdwatching-tour/",
+        "route": "/ecuador/amazon-canoe-tour/",
         "width": 390
       },
       {
@@ -191,11 +191,57 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+            "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-swallows.jpg"
+            "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/puyo-palms.jpg"
+          }
+        ],
+        "overflow": false,
+        "route": "/es/ecuador/tour-en-canoa-por-la-amazonia/",
+        "width": 1440
+      },
+      {
+        "headerTop": 0,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/puyo-palms.jpg"
+          }
+        ],
+        "overflow": false,
+        "route": "/es/ecuador/tour-en-canoa-por-la-amazonia/",
+        "width": 390
+      },
+      {
+        "factYs": [
+          -2021.5078125,
+          -2021.5078125,
+          -2021.5078125,
+          -2021.5078125
+        ],
+        "headerTop": 0,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/ecuador/tena-forest-jay.jpg"
           },
           {
             "loaded": true,
@@ -203,7 +249,7 @@
           }
         ],
         "overflow": false,
-        "route": "/es/ecuador/tour-de-avistamiento-de-aves-en-la-amazonia/",
+        "route": "/ecuador/best-time-to-visit-the-ecuador-amazon/",
         "width": 1440
       },
       {
@@ -211,11 +257,11 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-manakin.jpg"
+            "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-swallows.jpg"
+            "src": "/assets/images/ecuador/tena-forest-jay.jpg"
           },
           {
             "loaded": true,
@@ -223,33 +269,33 @@
           }
         ],
         "overflow": false,
-        "route": "/es/ecuador/tour-de-avistamiento-de-aves-en-la-amazonia/",
+        "route": "/ecuador/best-time-to-visit-the-ecuador-amazon/",
         "width": 390
       },
       {
         "factYs": [
-          -1921.2890625,
-          -1921.2890625,
-          -1921.2890625,
-          -1921.2890625
+          -2021.5078125,
+          -2021.5078125,
+          -2021.5078125,
+          -2021.5078125
         ],
         "headerTop": 0,
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
+            "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
+            "src": "/assets/images/ecuador/tena-forest-jay.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
+            "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
           }
         ],
         "overflow": false,
-        "route": "/ecuador/amazon-wildlife-tour/",
+        "route": "/es/ecuador/mejor-epoca-para-visitar-la-amazonia-ecuatoriana/",
         "width": 1440
       },
       {
@@ -257,77 +303,31 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
+            "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
+            "src": "/assets/images/ecuador/tena-forest-jay.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
+            "src": "/assets/images/ecuador/yasuni-roosting-bird.jpg"
           }
         ],
         "overflow": false,
-        "route": "/ecuador/amazon-wildlife-tour/",
-        "width": 390
-      },
-      {
-        "factYs": [
-          -1918.2265625,
-          -1918.2265625,
-          -1918.2265625,
-          -1918.2265625
-        ],
-        "headerTop": 0,
-        "images": [
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
-          }
-        ],
-        "overflow": false,
-        "route": "/es/ecuador/tour-de-fauna-en-la-amazonia/",
-        "width": 1440
-      },
-      {
-        "headerTop": 0,
-        "images": [
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
-          }
-        ],
-        "overflow": false,
-        "route": "/es/ecuador/tour-de-fauna-en-la-amazonia/",
+        "route": "/es/ecuador/mejor-epoca-para-visitar-la-amazonia-ecuatoriana/",
         "width": 390
       }
     ],
     "screenshots": [
-      "planning/ai-os/evidence/bird-en-desktop.png",
-      "planning/ai-os/evidence/bird-en-mobile.png",
-      "planning/ai-os/evidence/bird-es-desktop.png",
-      "planning/ai-os/evidence/bird-es-mobile.png",
-      "planning/ai-os/evidence/wild-en-desktop.png",
-      "planning/ai-os/evidence/wild-en-mobile.png",
-      "planning/ai-os/evidence/wild-es-desktop.png",
-      "planning/ai-os/evidence/wild-es-mobile.png"
+      "planning/ai-os/evidence/canoe-en-desktop.png",
+      "planning/ai-os/evidence/canoe-en-mobile.png",
+      "planning/ai-os/evidence/canoe-es-desktop.png",
+      "planning/ai-os/evidence/canoe-es-mobile.png",
+      "planning/ai-os/evidence/time-en-desktop.png",
+      "planning/ai-os/evidence/time-en-mobile.png",
+      "planning/ai-os/evidence/time-es-desktop.png",
+      "planning/ai-os/evidence/time-es-mobile.png"
     ],
     "checks": [
       "EN/ES 1440px desktop and 390px mobile visual review",
@@ -389,7 +389,9 @@
     "pair_014",
     "pair_015",
     "pair_016",
-    "pair_017"
+    "pair_017",
+    "pair_018",
+    "pair_019"
   ],
   "advice_monitor": {
     "interval_hours": 24,
