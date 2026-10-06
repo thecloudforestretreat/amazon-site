@@ -1,0 +1,323 @@
+{
+  "rights": "Owner confirms supplied images obtained through paid Adobe Express plan and permitted for website use",
+  "captions": "Descriptive only; no unverified geographic or species assertions",
+  "assignments": [
+    {
+      "slot": "/image-02",
+      "asset": "src/assets/images/pages/countries/ecuador/wildlife/macaws-at-clay-bank.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/",
+        "https://staging.experiencetheamazon.com/es/"
+      ]
+    },
+    {
+      "slot": "/image-03",
+      "asset": "src/assets/images/pages/countries/ecuador/stays/thatched-lodge-riverbank.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/",
+        "https://staging.experiencetheamazon.com/es/"
+      ]
+    },
+    {
+      "slot": "/image-04",
+      "asset": "src/assets/images/pages/countries/ecuador/people-and-experiences/canoe-passengers-calm-river.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/",
+        "https://staging.experiencetheamazon.com/es/"
+      ]
+    },
+    {
+      "slot": "/image-05",
+      "asset": "src/assets/images/pages/countries/ecuador/people-and-experiences/traveler-buttress-tree.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/",
+        "https://staging.experiencetheamazon.com/es/"
+      ]
+    },
+    {
+      "slot": "/image-06",
+      "asset": "src/assets/images/pages/countries/ecuador/people-and-experiences/woman-holding-cacao-pod.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/",
+        "https://staging.experiencetheamazon.com/es/"
+      ]
+    },
+    {
+      "slot": "/image-07",
+      "asset": "src/assets/images/pages/countries/ecuador/wildlife/monkey-portrait-on-branch.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/",
+        "https://staging.experiencetheamazon.com/es/"
+      ]
+    },
+    {
+      "slot": "/image-08",
+      "asset": "src/assets/images/pages/countries/ecuador/stays/thatched-riverside-lodge-reflection.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/",
+        "https://staging.experiencetheamazon.com/es/"
+      ]
+    },
+    {
+      "slot": "/image-09",
+      "asset": "src/assets/images/pages/countries/ecuador/general/riverboat-deck-sunset.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/",
+        "https://staging.experiencetheamazon.com/es/"
+      ]
+    },
+    {
+      "slot": "/image-10",
+      "asset": "src/assets/images/pages/countries/ecuador/general/river-town-bank.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/",
+        "https://staging.experiencetheamazon.com/es/"
+      ]
+    },
+    {
+      "slot": "/ecuador/image-01",
+      "asset": "src/assets/images/pages/countries/ecuador/general/aerial-river-forest.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/",
+        "https://staging.experiencetheamazon.com/es/ecuador/"
+      ]
+    },
+    {
+      "slot": "/ecuador/image-02",
+      "asset": "src/assets/images/pages/countries/ecuador/general/river-canoe-moored.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/",
+        "https://staging.experiencetheamazon.com/es/ecuador/"
+      ]
+    },
+    {
+      "slot": "/ecuador/image-03",
+      "asset": "src/assets/images/pages/countries/ecuador/people-and-experiences/cacao-pod-on-tree.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/",
+        "https://staging.experiencetheamazon.com/es/ecuador/"
+      ]
+    },
+    {
+      "slot": "/ecuador/3-day-amazon-tour/image-01",
+      "asset": "src/assets/images/pages/countries/ecuador/general/river-bend-forest-overlook.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/3-day-amazon-tour/",
+        "https://staging.experiencetheamazon.com/es/ecuador/tour-de-3-dias-en-la-amazonia/"
+      ]
+    },
+    {
+      "slot": "/ecuador/3-day-amazon-tour/image-02",
+      "asset": "src/assets/images/pages/countries/ecuador/people-and-experiences/herbal-tea-leaves-citrus.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/3-day-amazon-tour/",
+        "https://staging.experiencetheamazon.com/es/ecuador/tour-de-3-dias-en-la-amazonia/"
+      ]
+    },
+    {
+      "slot": "/ecuador/4-day-amazon-tour/image-01",
+      "asset": "src/assets/images/pages/countries/ecuador/general/flooded-forest-tree.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/4-day-amazon-tour/",
+        "https://staging.experiencetheamazon.com/es/ecuador/tour-de-4-dias-en-la-amazonia/"
+      ]
+    },
+    {
+      "slot": "/ecuador/4-day-amazon-tour/image-02",
+      "asset": "src/assets/images/pages/countries/ecuador/people-and-experiences/canoe-paddler-flooded-forest.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/4-day-amazon-tour/",
+        "https://staging.experiencetheamazon.com/es/ecuador/tour-de-4-dias-en-la-amazonia/"
+      ]
+    },
+    {
+      "slot": "/ecuador/5-day-amazon-tour/image-01",
+      "asset": "src/assets/images/pages/countries/ecuador/general/forest-river-overlook.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/5-day-amazon-tour/",
+        "https://staging.experiencetheamazon.com/es/ecuador/tour-de-5-dias-en-la-amazonia/"
+      ]
+    },
+    {
+      "slot": "/ecuador/5-day-amazon-tour/image-02",
+      "asset": "src/assets/images/pages/countries/ecuador/people-and-experiences/opened-cacao-pod.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/5-day-amazon-tour/",
+        "https://staging.experiencetheamazon.com/es/ecuador/tour-de-5-dias-en-la-amazonia/"
+      ]
+    },
+    {
+      "slot": "/ecuador/amazon-birdwatching-tour/image-01",
+      "asset": "src/assets/images/pages/countries/ecuador/wildlife/bird-on-rainforest-branch.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/amazon-birdwatching-tour/",
+        "https://staging.experiencetheamazon.com/es/ecuador/tour-de-avistamiento-de-aves-en-la-amazonia/"
+      ]
+    },
+    {
+      "slot": "/ecuador/amazon-canoe-tour/image-01",
+      "asset": "src/assets/images/pages/countries/ecuador/general/canoe-calm-river-forest.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/amazon-canoe-tour/",
+        "https://staging.experiencetheamazon.com/es/ecuador/tour-en-canoa-por-la-amazonia/"
+      ]
+    },
+    {
+      "slot": "/ecuador/amazon-canoe-tour/image-02",
+      "asset": "src/assets/images/pages/countries/ecuador/general/green-canoe-river-view.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/amazon-canoe-tour/",
+        "https://staging.experiencetheamazon.com/es/ecuador/tour-en-canoa-por-la-amazonia/"
+      ]
+    },
+    {
+      "slot": "/ecuador/amazon-lodges/image-01",
+      "asset": "src/assets/images/pages/countries/ecuador/stays/thatched-lodge-roof-canopy.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/amazon-lodges/",
+        "https://staging.experiencetheamazon.com/es/ecuador/lodges-en-la-amazonia/"
+      ]
+    },
+    {
+      "slot": "/ecuador/amazon-lodges/image-02",
+      "asset": "src/assets/images/pages/countries/ecuador/stays/illuminated-lodge-boardwalk-night.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/amazon-lodges/",
+        "https://staging.experiencetheamazon.com/es/ecuador/lodges-en-la-amazonia/"
+      ]
+    },
+    {
+      "slot": "/ecuador/amazon-wildlife-tour/image-01",
+      "asset": "src/assets/images/pages/countries/ecuador/wildlife/orange-frog-on-leaf.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/amazon-wildlife-tour/",
+        "https://staging.experiencetheamazon.com/es/ecuador/tour-de-fauna-en-la-amazonia/"
+      ]
+    },
+    {
+      "slot": "/ecuador/amazon-wildlife-tour/image-02",
+      "asset": "src/assets/images/pages/countries/ecuador/wildlife/monkeys-on-forest-branches.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/amazon-wildlife-tour/",
+        "https://staging.experiencetheamazon.com/es/ecuador/tour-de-fauna-en-la-amazonia/"
+      ]
+    },
+    {
+      "slot": "/ecuador/animals-of-the-ecuador-amazon/image-01",
+      "asset": "src/assets/images/pages/countries/ecuador/wildlife/monkeys-town-square-pair.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/animals-of-the-ecuador-amazon/",
+        "https://staging.experiencetheamazon.com/es/ecuador/animales-de-la-amazonia-ecuatoriana/"
+      ]
+    },
+    {
+      "slot": "/ecuador/best-time-to-visit-the-ecuador-amazon/image-01",
+      "asset": "src/assets/images/pages/countries/ecuador/general/flooded-tree-sunset.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/best-time-to-visit-the-ecuador-amazon/",
+        "https://staging.experiencetheamazon.com/es/ecuador/mejor-epoca-para-visitar-la-amazonia-ecuatoriana/"
+      ]
+    },
+    {
+      "slot": "/ecuador/blog/best-amazon-lodges-in-ecuador/image-01",
+      "asset": "src/assets/images/pages/countries/ecuador/stays/thatched-forest-building.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/blog/best-amazon-lodges-in-ecuador/",
+        "https://staging.experiencetheamazon.com/es/ecuador/blog/mejores-lodges-en-la-amazonia-del-ecuador/"
+      ]
+    },
+    {
+      "slot": "/ecuador/blog/tena-or-misahualli-which-is-better/image-02",
+      "asset": "src/assets/images/pages/countries/ecuador/general/riverside-promenade.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/blog/tena-or-misahualli-which-is-better/",
+        "https://staging.experiencetheamazon.com/es/ecuador/blog/tena-o-misahualli-cual-es-mejor/"
+      ]
+    },
+    {
+      "slot": "/ecuador/blog/tena-or-misahualli-which-is-better/image-03",
+      "asset": "src/assets/images/pages/countries/ecuador/wildlife/monkeys-resting-town-square.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/blog/tena-or-misahualli-which-is-better/",
+        "https://staging.experiencetheamazon.com/es/ecuador/blog/tena-o-misahualli-cual-es-mejor/"
+      ]
+    },
+    {
+      "slot": "/ecuador/family-amazon-tour/image-01",
+      "asset": "src/assets/images/pages/countries/ecuador/general/calm-river-cloud-reflection.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/family-amazon-tour/",
+        "https://staging.experiencetheamazon.com/es/ecuador/tour-familiar-a-la-amazonia/"
+      ]
+    },
+    {
+      "slot": "/ecuador/family-amazon-tour/image-02",
+      "asset": "src/assets/images/pages/countries/ecuador/people-and-experiences/traveler-riverbank-boat.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/family-amazon-tour/",
+        "https://staging.experiencetheamazon.com/es/ecuador/tour-familiar-a-la-amazonia/"
+      ]
+    },
+    {
+      "slot": "/ecuador/how-to-get-to-the-ecuador-amazon/image-01",
+      "asset": "src/assets/images/pages/countries/ecuador/general/boats-riverbank.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/how-to-get-to-the-ecuador-amazon/",
+        "https://staging.experiencetheamazon.com/es/ecuador/como-llegar-a-la-amazonia-ecuatoriana/"
+      ]
+    },
+    {
+      "slot": "/ecuador/how-to-get-to-the-ecuador-amazon/image-02",
+      "asset": "src/assets/images/pages/countries/ecuador/general/covered-canoe-river.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/how-to-get-to-the-ecuador-amazon/",
+        "https://staging.experiencetheamazon.com/es/ecuador/como-llegar-a-la-amazonia-ecuatoriana/"
+      ]
+    },
+    {
+      "slot": "/ecuador/plan-your-amazon-trip/image-01",
+      "asset": "src/assets/images/pages/countries/ecuador/general/canoe-sunset-lagoon.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/plan-your-amazon-trip/",
+        "https://staging.experiencetheamazon.com/es/ecuador/planifica-tu-viaje-a-la-amazonia/"
+      ]
+    },
+    {
+      "slot": "/ecuador/plan-your-amazon-trip/image-02",
+      "asset": "src/assets/images/pages/countries/ecuador/general/colorful-riverboat-reflection.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/plan-your-amazon-trip/",
+        "https://staging.experiencetheamazon.com/es/ecuador/planifica-tu-viaje-a-la-amazonia/"
+      ]
+    },
+    {
+      "slot": "/ecuador/private-amazon-tour/image-01",
+      "asset": "src/assets/images/pages/countries/ecuador/general/aerial-river-golden-light.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/private-amazon-tour/",
+        "https://staging.experiencetheamazon.com/es/ecuador/tour-privado-a-la-amazonia/"
+      ]
+    },
+    {
+      "slot": "/ecuador/private-amazon-tour/image-02",
+      "asset": "src/assets/images/pages/countries/ecuador/general/canoe-river-forested-bank.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/private-amazon-tour/",
+        "https://staging.experiencetheamazon.com/es/ecuador/tour-privado-a-la-amazonia/"
+      ]
+    },
+    {
+      "slot": "/ecuador/what-to-pack-for-the-amazon/image-01",
+      "asset": "src/assets/images/pages/countries/ecuador/people-and-experiences/traveler-rainforest-trail.jpg",
+      "pages": [
+        "https://staging.experiencetheamazon.com/ecuador/what-to-pack-for-the-amazon/",
+        "https://staging.experiencetheamazon.com/es/ecuador/que-llevar-a-la-amazonia/"
+      ]
+    }
+  ],
+  "held": [
+    "Duplicate monkey scene alternate",
+    "Portraits pending location/context",
+    "Night sky not selected"
+  ]
+}
