@@ -1,0 +1,10 @@
+{
+  "model": "qwen3.5:9b",
+  "prompt_eval_count": 107,
+  "eval_count": 109,
+  "seconds": 9.07,
+  "cache_hit": false,
+  "retries": 0,
+  "status": "supervisor_reviewed",
+  "promotion": "Spanish labels revised by supervisor; Amazon\u00eda preferred for region; literal clarity idiom rewritten"
+}
