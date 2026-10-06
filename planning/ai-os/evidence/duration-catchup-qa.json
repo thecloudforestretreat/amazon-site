@@ -1,0 +1,243 @@
+{
+  "deployment": "3efc8507",
+  "date": "2026-10-05",
+  "pairs": [
+    "pair_012",
+    "pair_013"
+  ],
+  "status": "initial_desktop_mobile_visual_checks_pass",
+  "measurements": [
+    {
+      "factYs": [
+        -2021.5078125,
+        -2021.5078125,
+        -2021.5078125,
+        -2021.5078125
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        },
+        {
+          "loaded": false,
+          "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/4-day-amazon-tour/",
+      "width": 1440
+    },
+    {
+      "factYs": [
+        -2021.5078125,
+        -2021.5078125,
+        -2021.5078125,
+        -2021.5078125
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-4-dias-en-la-amazonia/",
+      "width": 1440
+    },
+    {
+      "factYs": [
+        -2021.5078125,
+        -2021.5078125,
+        -2021.5078125,
+        -2021.5078125
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-palms.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-swallows.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/5-day-amazon-tour/",
+      "width": 1440
+    },
+    {
+      "factYs": [
+        -1887.5078125,
+        -1887.5078125,
+        -1887.5078125,
+        -1887.5078125
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-palms.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-swallows.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-5-dias-en-la-amazonia/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/4-day-amazon-tour/",
+      "width": 390
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-4-dias-en-la-amazonia/",
+      "width": 390
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-palms.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-swallows.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/5-day-amazon-tour/",
+      "width": 390
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-palms.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-swallows.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-5-dias-en-la-amazonia/",
+      "width": 390
+    },
+    {
+      "factYs": [
+        -2021.5078125,
+        -2021.5078125,
+        -2021.5078125,
+        -2021.5078125
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/4-day-amazon-tour/",
+      "width": 1440
+    }
+  ],
+  "screenshots": [
+    "planning/ai-os/evidence/four-en-desktop.png",
+    "planning/ai-os/evidence/four-en-mobile.png",
+    "planning/ai-os/evidence/four-es-desktop.png",
+    "planning/ai-os/evidence/four-es-mobile.png",
+    "planning/ai-os/evidence/five-en-desktop.png",
+    "planning/ai-os/evidence/five-en-mobile.png",
+    "planning/ai-os/evidence/five-es-desktop.png",
+    "planning/ai-os/evidence/five-es-mobile.png"
+  ],
+  "checks": [
+    "Four routes at 1440px and 390px",
+    "Sticky headers, aligned desktop fact labels, no horizontal overflow",
+    "Three unique loaded photos per page",
+    "Compiled-page validation and 54-route source audit pass",
+    "Unauthenticated 302; authenticated browser readback"
+  ],
+  "limits": [
+    "First four-day English fast-scroll photo pending; subsequent same-width readback passed",
+    "Full accessibility, performance and contact delivery pending"
+  ],
+  "source_changes": false
+}
