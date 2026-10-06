@@ -1,0 +1,118 @@
+{
+  "deployment": "e66caffd",
+  "pairs": [
+    "pair_037",
+    "pair_038"
+  ],
+  "status": "introductory_hubs_initial_visual_checks_pass",
+  "measurements": [
+    {
+      "cards": 6,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/peru/hero.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/peru/",
+      "width": 1440
+    },
+    {
+      "cards": 6,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/peru/hero.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/peru/",
+      "width": 390
+    },
+    {
+      "cards": 6,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/peru/hero.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/peru/",
+      "width": 1440
+    },
+    {
+      "cards": 6,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/peru/hero.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/peru/",
+      "width": 390
+    },
+    {
+      "cards": 6,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/bolivia/hero.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/bolivia/",
+      "width": 1440
+    },
+    {
+      "cards": 6,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/bolivia/hero.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/bolivia/",
+      "width": 390
+    },
+    {
+      "cards": 6,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/bolivia/hero.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/bolivia/",
+      "width": 1440
+    },
+    {
+      "cards": 6,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/bolivia/hero.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/bolivia/",
+      "width": 390
+    }
+  ],
+  "local_tokens": 1112,
+  "local_calls": 1,
+  "cloud_local_percentage": "not measured",
+  "rollback_deployment": "3efc8507",
+  "limits": [
+    "Full accessibility and performance audit pending",
+    "One licensed photo per introductory hub; detailed country clusters pending"
+  ],
+  "observed_fixes": [
+    "Explicit CSS height:auto prevents HTML height from stretching country hero",
+    "Malformed local bilingual draft retained and rejected; supervisor rewrote cards"
+  ]
+}

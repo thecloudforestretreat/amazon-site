@@ -115,3 +115,9 @@ Six new Yasuní photographs by Geoff Gallice, CC BY 2.0, resized derivatives wit
 - /assets/images/ecuador/yasuni-scarlet-macaw.jpg: https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Scarlet_macaw_(1).jpg — Geoff Gallice, CC BY 2.0, https://creativecommons.org/licenses/by/2.0/
 - /assets/images/ecuador/yasuni-aracari.jpg: https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Many_banded_aracari.jpg — Geoff Gallice, CC BY 2.0, https://creativecommons.org/licenses/by/2.0/
 - /assets/images/ecuador/yasuni-piping-guan.jpg: https://commons.wikimedia.org/wiki/File:Blue-throated_Piping_Guan_(Pipile_cumanensis),_Yasuni_National_Park,_Ecuador.jpg — Geoff Gallice, CC BY 2.0, https://creativecommons.org/licenses/by/2.0/
+
+## Country introductory hubs — October 6, 2026
+
+- `peru/hero.jpg`: Redbaobab, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Iquitos_Peru_01.jpg). Documented country location; reviewed visually; resized and displayed with CSS crop; attribution retained. Approved for protected staging.
+
+- `bolivia/hero.jpg`: EEJCC, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/), [source](https://commons.wikimedia.org/wiki/File:R%C3%ADo_Beni_cerca_de_Rurrenabaque.jpg). Documented country location; reviewed visually; resized and displayed with CSS crop; attribution retained. Approved for protected staging.

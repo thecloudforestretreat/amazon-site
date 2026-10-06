@@ -82,7 +82,10 @@
   "notification_policy": "Meaningful change, verified completion, failure or required user action only",
   "pilot_status": "deployed_initial_browser_checks_pass_full_qa_pending",
   "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
-  "next_batch_candidates": [],
+  "next_batch_candidates": [
+    "pair_039",
+    "pair_040"
+  ],
   "local_worker_run_complete": true,
   "git_status": "Committed locally; remote push blocked by automatic approval review",
   "quality_hold": {
@@ -91,12 +94,12 @@
     "scope": "Owner explicitly authorized staging release and proceeding on October 5; pending visual checks stay recorded"
   },
   "deployment": {
-    "id": "3efc8507",
+    "id": "e66caffd",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://3efc8507.amazon-site-staging.pages.dev",
+    "url": "https://e66caffd.amazon-site-staging.pages.dev",
     "protected_domain_check": "302 unauthenticated Access redirect; authenticated browser verified",
-    "date": "2026-10-05"
+    "date": "2026-10-06"
   },
   "browser_checks": {
     "date": "2026-10-05",
@@ -118,10 +121,10 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "access-planning visual catch-up",
-    "packing-planning visual catch-up"
+    "pair_037",
+    "pair_038"
   ],
-  "batch_status": "Four/five-day EN/ES initial technical and desktop/mobile visual catch-up passed; no source changes or new deployment",
+  "batch_status": "Two new introductory country hub pairs deployed; initial desktop/mobile checks passed",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",
@@ -417,5 +420,14 @@
     "protection": "302 unauthenticated; authenticated browser readback passed",
     "regression_tests": 4,
     "evidence": "planning/ai-os/evidence/animal-rebalance-review.json"
+  },
+  "country_hub_progress": {
+    "staged_new_pairs": 2,
+    "pairs": [
+      "pair_037",
+      "pair_038"
+    ],
+    "ecuador_staged_pairs": 32,
+    "ecuador_planned_pairs": 34
   }
 }

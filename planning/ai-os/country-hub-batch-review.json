@@ -1,0 +1,30 @@
+{
+  "pairs": [
+    "pair_037",
+    "pair_038"
+  ],
+  "sources": {
+    "peru": [
+      "https://www.peru.travel/destinations/loreto",
+      "https://www.peru.travel/es/inspirate/lugares-turisticos-de-madre-de-dios-la-region-mas-biodiversa-del-peru"
+    ],
+    "bolivia": [
+      "https://rurrenabaquemadidipampas.com.bo/inicio"
+    ]
+  },
+  "local_usage": {
+    "calls": 1,
+    "prompt_tokens": 82,
+    "output_tokens": 1030,
+    "retries": 0,
+    "cache_hits": 0
+  },
+  "editorial_findings": [
+    "Malformed nested bilingual schema and duplicate Spanish cards",
+    "Guarantees about animal welfare and experience removed",
+    "Raw text not promoted; supervisor rewrote all four cards per language"
+  ],
+  "media": "One new documented country photo per introductory hub; no photo repeated per page",
+  "status": "deployed_initial_visual_checks_pass",
+  "deployment": "e66caffd"
+}
