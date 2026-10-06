@@ -1,0 +1,17 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {handleContact} from '../functions/api/contact.js';
+const origin='https://staging.experiencetheamazon.com';
+const env={CONTACT_ENABLED:'true',TURNSTILE_SITE_KEY:'site',TURNSTILE_SECRET_KEY:'secret',BREVO_API_KEY:'test',CONTACT_FROM:'sender@example.com',CONTACT_TO:'owner@example.com'};
+const payload={name:'Test visitor',email:'visitor@example.com',country:'ecuador',travelers:'2',dates:'Next year',interests:'Birdwatching',language:'en',privacy_consent:'yes',website:'','cf-turnstile-response':'token'};
+const request=(p=payload,headers={})=>new Request(origin+'/api/contact',{method:'POST',headers:{Origin:origin,'Content-Type':'application/json',...headers},body:JSON.stringify(p)});
+const proof={success:true,hostname:new URL(origin).hostname,action:'contact'};
+const mock=(verification=proof,email={messageId:'queued-id'},status=201)=>{const calls=[];return {calls,send:async(url,options)=>{calls.push({url,body:JSON.parse(options.body)});return Response.json(calls.length===1?verification:email,{status:calls.length===1?200:status});}}};
+test('disabled config exposes no secret and accepts no submissions',async()=>{const r=await handleContact(new Request(origin+'/api/contact'),{});assert.deepEqual(await r.json(),{enabled:false,siteKey:null});assert.equal((await handleContact(request(),{})).status,503);});
+test('cross origin and wrong host rejected',async()=>{assert.equal((await handleContact(request(payload,{Origin:'https://evil.example'}),env)).status,403);assert.equal((await handleContact(new Request('https://experiencetheamazon.com/api/contact'),env)).status,403);});
+test('missing consent, invalid fields, honeypot, missing token rejected without network',async()=>{for(const p of [{...payload,privacy_consent:'no'},{...payload,email:'bad'},{...payload,website:'spam'},{...payload,travelers:'1.5'},{...payload,'cf-turnstile-response':''},{...payload,interests:'x'.repeat(4001)}])assert.equal((await handleContact(request(p),env,()=>{throw Error('unexpected network');})).status,400);});
+test('failed token, wrong hostname, wrong action never reach email',async()=>{for(const p of [{...proof,success:false},{...proof,hostname:'evil.example'},{...proof,action:'login'}]){const m=mock(p);assert.equal((await handleContact(request(),env,m.send)).status,400);assert.equal(m.calls.length,1);}});
+test('Brevo error or missing message ID cannot show success',async()=>{for(const [result,status] of [[{},201],[{messageId:'x'},500]]){const m=mock(proof,result,status);assert.equal((await handleContact(request(),env,m.send)).status,502);}});
+test('verified inquiry is sent only to configured recipient with reply-to and queued status',async()=>{const m=mock();const r=await handleContact(request(),env,m.send);assert.deepEqual(await r.json(),{ok:true,status:'queued'});assert.deepEqual(m.calls[1].body.to,[{email:env.CONTACT_TO}]);assert.equal(m.calls[1].body.replyTo.email,payload.email);assert.ok(!m.calls[1].body.textContent.includes('token'));});
+test('oversized request is rejected',async()=>{assert.equal((await handleContact(request({...payload,interests:'x'.repeat(18000)}),env)).status,413);});
+test('service outage fails closed',async()=>{assert.equal((await handleContact(request(),env,async()=>{throw Error('offline');})).status,502);});

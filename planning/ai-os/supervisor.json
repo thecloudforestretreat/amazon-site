@@ -71,9 +71,9 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Run full accessibility, keyboard and performance QA for staged Ecuador pages",
-    "Genuine review material and working contact delivery endpoint required for remaining two content pairs",
-    "Continue daily advice monitoring when due"
+    "Configure managed Turnstile and Brevo bindings for protected staging and verify real inbox delivery",
+    "Complete whole-section accessibility, keyboard and performance QA",
+    "Obtain permissioned genuine Ecuador reviews or owner decision to defer reviews page"
   ],
   "future_batches": [
     "Reviews require genuine customer material; do not invent testimonials",
@@ -82,10 +82,7 @@
   "notification_policy": "Meaningful change, verified completion, failure or required user action only",
   "pilot_status": "deployed_initial_browser_checks_pass_full_qa_pending",
   "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
-  "next_batch_candidates": [
-    "pair_039",
-    "pair_040"
-  ],
+  "next_batch_candidates": [],
   "local_worker_run_complete": true,
   "git_status": "Committed locally; remote push blocked by automatic approval review",
   "quality_hold": {
@@ -94,10 +91,10 @@
     "scope": "Owner explicitly authorized staging release and proceeding on October 5; pending visual checks stay recorded"
   },
   "deployment": {
-    "id": "e66caffd",
+    "id": "6dc73229",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://e66caffd.amazon-site-staging.pages.dev",
+    "url": "https://6dc73229.amazon-site-staging.pages.dev",
     "protected_domain_check": "302 unauthenticated Access redirect; authenticated browser verified",
     "date": "2026-10-06"
   },
@@ -121,10 +118,10 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "pair_037",
-    "pair_038"
+    "Ecuador contact activation",
+    "Ecuador completion QA"
   ],
-  "batch_status": "Two new introductory country hub pairs deployed; initial desktop/mobile checks passed",
+  "batch_status": "Ecuador contact pair implemented and staged; Turnstile/Brevo configuration and real inbox test pending",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",
@@ -429,5 +426,12 @@
     ],
     "ecuador_staged_pairs": 32,
     "ecuador_planned_pairs": 34
+  },
+  "contact_status": {
+    "pair": "pair_029",
+    "implementation": "deployed",
+    "activation": "missing_configuration",
+    "delivery_verified": false,
+    "evidence": "planning/ai-os/contact-turnstile-checkpoint.json"
   }
 }

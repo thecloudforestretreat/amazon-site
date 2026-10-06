@@ -1,0 +1,62 @@
+{
+  "deployment": "6dc73229",
+  "branch": "staging",
+  "pair": "pair_029",
+  "tests": {
+    "endpoint_tests": 8,
+    "passed": 8,
+    "compiled_pages": 80
+  },
+  "browser": [
+    {
+      "disabled": true,
+      "headerTop": 0,
+      "overflow": false,
+      "route": "/ecuador/contact/",
+      "status": "The secure form is not active yet. Please use email or WhatsApp.",
+      "width": 1440
+    },
+    {
+      "disabled": true,
+      "headerTop": 0,
+      "overflow": false,
+      "route": "/ecuador/contact/",
+      "status": "The secure form is not active yet. Please use email or WhatsApp.",
+      "width": 390
+    },
+    {
+      "disabled": true,
+      "headerTop": 0,
+      "overflow": false,
+      "route": "/es/ecuador/contacto/",
+      "status": "El formulario seguro a\u00fan no est\u00e1 activo. Usa correo o WhatsApp.",
+      "width": 1440
+    },
+    {
+      "disabled": true,
+      "headerTop": 0,
+      "overflow": false,
+      "route": "/es/ecuador/contacto/",
+      "status": "El formulario seguro a\u00fan no est\u00e1 activo. Usa correo o WhatsApp.",
+      "width": 390
+    }
+  ],
+  "activation": {
+    "production_secrets_present": false,
+    "preview_secrets_present": false,
+    "real_turnstile_test": false,
+    "live_email_sent": false,
+    "inbox_delivery_verified": false
+  },
+  "required_configuration": [
+    "TURNSTILE_SITE_KEY",
+    "TURNSTILE_SECRET_KEY",
+    "BREVO_API_KEY",
+    "CONTACT_FROM",
+    "CONTACT_TO",
+    "CONTACT_ENABLED"
+  ],
+  "rollback": "e66caffd",
+  "cloud_local_percentage": "not measured; this security-critical implementation and review performed by cloud supervisor; no local drafting call",
+  "ecuador_progress": "32 content pairs plus contact implementation staged; contact completion not counted until real delivery verification; genuine reviews missing"
+}

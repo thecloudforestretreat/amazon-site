@@ -31,7 +31,7 @@
       productionHosts: Object.freeze(["experiencetheamazon.com", "www.experiencetheamazon.com"])
     }),
     leads: Object.freeze({
-      endpoint: "",
+      endpoint: "/api/contact",
       provider: "brevo",
       listName: "Experience The Amazon Leads"
     }),

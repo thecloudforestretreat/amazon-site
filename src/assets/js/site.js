@@ -108,44 +108,48 @@
   }
 
   function initLeadForms() {
-    document.querySelectorAll("[data-lead-form]").forEach(function (form) {
-      form.addEventListener("focusin", function () {
-        if (form.dataset.analyticsStarted) return;
-        form.dataset.analyticsStarted = "true";
-        window.etaAnalytics?.track("lead_start", { form_id: form.id || "trip_planning" });
-      });
-
+    document.querySelectorAll("[data-lead-form]").forEach(async function (form) {
+      const status = form.querySelector("[data-form-status]");
+      const submit = form.querySelector("[type='submit']");
+      const say = (en, es) => { if (status) status.textContent = language === "es" ? es : en; };
+      let widget;
+      submit.disabled = true;
+      try {
+        const response = await fetch(config.leads.endpoint, {cache: "no-store"});
+        if (!response.ok) throw new Error("Unavailable");
+        const settings = await response.json();
+        if (!settings.enabled || !settings.siteKey) throw new Error("Unavailable");
+        await new Promise((resolve, reject) => {
+          const script = document.createElement("script");
+          script.src = "https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit";
+          script.onload = resolve; script.onerror = reject; document.head.appendChild(script);
+        });
+        widget = window.turnstile.render(form.querySelector("[data-turnstile]"), {
+          sitekey: settings.siteKey, action: "contact", language: language,
+          callback: () => { submit.disabled = false; say("Ready to send.", "Listo para enviar."); },
+          "expired-callback": () => { submit.disabled = true; say("Please verify again.", "Verifica de nuevo."); },
+          "error-callback": () => { submit.disabled = true; say("Verification unavailable. Use email or WhatsApp.", "La verificación no está disponible. Usa correo o WhatsApp."); }
+        });
+      } catch {
+        say("The secure form is not active yet. Please use email or WhatsApp.", "El formulario seguro aún no está activo. Usa correo o WhatsApp.");
+      }
       form.addEventListener("submit", async function (event) {
         event.preventDefault();
-        const status = form.querySelector("[data-form-status]");
-        const submit = form.querySelector("[type='submit']");
-        if (!config.leads.endpoint) {
-          if (status) status.textContent = language === "es"
-            ? "El envío seguro se activará cuando finalicemos Brevo. Por ahora, utiliza WhatsApp o correo."
-            : "Secure submission will activate after Brevo setup. For now, please use WhatsApp or email.";
-          return;
-        }
-
-        const payload = Object.fromEntries(new FormData(form).entries());
-        payload.page_url = window.location.href;
+        if (widget === undefined || submit.disabled || !form.reportValidity()) return;
+        const values = Object.fromEntries(new FormData(form).entries());
+        const payload = Object.fromEntries(["name","email","country","travelers","dates","interests","privacy_consent","website","cf-turnstile-response"].map(k => [k, values[k] || ""]));
         payload.language = language;
-        payload.first_touch = window.etaAnalytics?.firstTouch() || null;
-        if (submit) submit.disabled = true;
-        if (status) status.textContent = language === "es" ? "Enviando…" : "Sending…";
+        submit.disabled = true; say("Sending…", "Enviando…");
         try {
-          const response = await fetch(config.leads.endpoint, {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify(payload)
-          });
-          if (!response.ok) throw new Error("Lead endpoint rejected request");
-          form.reset();
-          if (status) status.textContent = language === "es" ? "Gracias. Te responderemos pronto." : "Thank you. We will reply soon.";
-          window.etaAnalytics?.track("lead_submit", { form_id: form.id || "trip_planning" });
-        } catch (_) {
-          if (status) status.textContent = language === "es" ? "No pudimos enviar el formulario. Contáctanos por WhatsApp o correo." : "We could not submit the form. Please contact us by WhatsApp or email.";
+          const response = await fetch(config.leads.endpoint, {method:"POST", headers:{"Content-Type":"application/json"},body:JSON.stringify(payload)});
+          const result = await response.json();
+          if (!response.ok || result.ok !== true || result.status !== "queued") throw new Error("Not accepted");
+          form.reset(); say("Your request has been queued for our team. Thank you.", "Tu solicitud se ha puesto en cola para nuestro equipo. Gracias.");
+          window.etaAnalytics?.track("lead_submit", {form_id:form.id});
+        } catch {
+          say("Your request was not confirmed. Please retry verification or use email or WhatsApp.", "No se confirmó tu solicitud. Verifica de nuevo o usa correo o WhatsApp.");
         } finally {
-          if (submit) submit.disabled = false;
+          window.turnstile.reset(widget);
         }
       });
     });
