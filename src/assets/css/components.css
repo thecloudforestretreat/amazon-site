@@ -39,3 +39,9 @@
 .eta-card--linked .eta-card__visual{flex-shrink:0}
 .eta-card--linked .eta-card__body{display:flex;flex:1;flex-direction:column}
 .eta-card--linked .eta-card__link{margin-top:auto;padding-top:14px}
+
+.eta-consent a{color:inherit;text-decoration:underline;text-underline-offset:3px}
+
+.eta-form-row .eta-field{grid-template-rows:auto 1fr;align-content:start}.eta-field input,.eta-field select{height:52px;box-sizing:border-box}
+
+.eta-form-row .eta-field{grid-template-rows:24px 52px}.eta-field input,.eta-field select{min-height:0}

@@ -91,10 +91,10 @@
     "scope": "Owner explicitly authorized staging release and proceeding on October 5; pending visual checks stay recorded"
   },
   "deployment": {
-    "id": "e95137a2",
+    "id": "e83937d6",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://e95137a2.amazon-site-staging.pages.dev",
+    "url": "https://e83937d6.amazon-site-staging.pages.dev",
     "protected_domain_check": "302 unauthenticated Access redirect; authenticated browser verified",
     "date": "2026-10-06"
   },
@@ -121,7 +121,7 @@
     "Ecuador contact activation",
     "Ecuador completion QA"
   ],
-  "batch_status": "Required EN/ES travel date ranges, optional phone and 1\u201399 guests deployed and checked; email delivery configuration pending",
+  "batch_status": "Guest hint removed; exact form alignment verified; bilingual privacy choices enabled on staging, rejection persists and footer reopening verified; email configuration pending",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",

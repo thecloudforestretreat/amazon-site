@@ -76,12 +76,12 @@
     const granted = value === "granted";
     storageSet(consentKey, granted ? "granted" : "denied");
     window.gtag("consent", "update", { analytics_storage: granted ? "granted" : "denied" });
-    if (granted) sendPageView();
+    if (granted) { captureAttribution(); loadGtm(); sendPageView(); }
     document.getElementById("eta-consent")?.remove();
   }
 
   function showConsent(force) {
-    if (!isProduction || (!force && storageGet(consentKey))) return;
+    if (!force && storageGet(consentKey)) return;
     document.getElementById("eta-consent")?.remove();
     const banner = document.createElement("section");
     banner.id = "eta-consent";
@@ -89,8 +89,8 @@
     banner.setAttribute("role", "dialog");
     banner.setAttribute("aria-label", isSpanish ? "Preferencias de privacidad" : "Privacy choices");
     banner.innerHTML = isSpanish
-      ? "<strong>Tu privacidad importa</strong><p>Usamos analítica opcional para mejorar la planificación de viajes. No enviamos el contenido de formularios a Google Analytics.</p><div><button type='button' data-consent='granted'>Permitir analítica</button><button type='button' data-consent='denied'>Rechazar</button></div>"
-      : "<strong>Your privacy matters</strong><p>We use optional analytics to improve trip planning. We do not send form contents to Google Analytics.</p><div><button type='button' data-consent='granted'>Allow analytics</button><button type='button' data-consent='denied'>Reject</button></div>";
+      ? "<strong>Tu privacidad importa</strong><p>Usamos analítica opcional para mejorar la planificación de viajes. No enviamos el contenido de formularios a Google Analytics. <a href='/es/politica-de-privacidad/'>Política de privacidad</a>.</p><div><button type='button' data-consent='granted'>Permitir analítica</button><button type='button' data-consent='denied'>Rechazar</button></div>"
+      : "<strong>Your privacy matters</strong><p>We use optional analytics to improve trip planning. We do not send form contents to Google Analytics. <a href='/privacy-policy/'>Privacy policy</a>.</p><div><button type='button' data-consent='granted'>Allow analytics</button><button type='button' data-consent='denied'>Reject</button></div>";
     banner.addEventListener("click", function (event) {
       const button = event.target.closest("[data-consent]");
       if (button) setConsent(button.dataset.consent);
@@ -133,9 +133,9 @@
     }
   };
 
-  captureAttribution();
-  loadGtm();
   if (storageGet(consentKey) === "granted") {
+    captureAttribution();
+    loadGtm();
     window.gtag("consent", "update", { analytics_storage: "granted" });
     sendPageView();
   }
