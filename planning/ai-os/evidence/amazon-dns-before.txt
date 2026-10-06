@@ -1,0 +1,860 @@
+- complementary:
+  - link "Cloudflare home":
+    - /url: /
+  - button "Switch Account":
+    - generic "Thecloudforestretreat@gmail.com's Account"
+  - navigation:
+    - button:
+      - generic: Quick search...
+      - generic: ⌘K
+    - list:
+      - link:
+        - /url: /68a72a73d05d0fdf6641716bd9bba6be/home
+      - button:
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/workers-and-pages
+          - generic: Compute
+        - button [pressed]:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/dns/records
+          - generic: experiencetheamazo…
+          - generic: /
+        - button:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/domains/overview
+          - generic: Domains
+        - button:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/email-service/routing
+          - generic: Email Service
+        - button:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com
+          - generic: Domains
+        - button:
+      - button:
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/domains/overview
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/domains/registrations
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/domains/transfers
+      - button:
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/observability/logs
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/traces
+        - button
+        - list:
+          - link:
+            - /url: /68a72a73d05d0fdf6641716bd9bba6be/analytics
+          - link:
+            - /url: /68a72a73d05d0fdf6641716bd9bba6be/web-analytics
+        - button
+        - list:
+          - link:
+            - /url: /68a72a73d05d0fdf6641716bd9bba6be/logs
+          - link:
+            - /url: /68a72a73d05d0fdf6641716bd9bba6be/observability/destinations
+        - button
+        - list:
+          - link:
+            - /url: /68a72a73d05d0fdf6641716bd9bba6be/notifications
+          - link:
+            - /url: /68a72a73d05d0fdf6641716bd9bba6be/notifications/destinations
+          - link:
+            - /url: /68a72a73d05d0fdf6641716bd9bba6be/notifications/silences
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/dashboards
+    - generic: Build
+    - list:
+      - button:
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/workers-and-pages
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/observability
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/workers-for-platforms
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/workers/containers
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/workers/durable-objects
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/workers/queues
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/workers/workflows
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/workers/browser-run
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/workers/vpc
+        - button
+        - list:
+          - link:
+            - /url: /68a72a73d05d0fdf6641716bd9bba6be/email-service/sending
+          - link:
+            - /url: /68a72a73d05d0fdf6641716bd9bba6be/email-service/routing
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/workers/plans
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/flagship
+      - button:
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/ai/models
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/ai/workers-ai
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/ai/ai-gateway
+        - link:
+          - /url: https://dash.cloudflare.com/68a72a73d05d0fdf6641716bd9bba6be/one/access-controls/ai-controls/mcp-server-portal
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/ai/vectorize
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/ai/ai-search
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/agents
+      - button:
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/r2/overview
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/workers/hyperdrive
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/workers/kv/namespaces
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/workers/d1
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/workers/analytics-engine
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/data-catalog
+        - button
+        - list:
+          - link:
+            - /url: /68a72a73d05d0fdf6641716bd9bba6be/pipelines/overview
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/k2
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/secrets-store
+      - button:
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/media/transformations
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/images/hosted
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/stream/videos
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/stream/inputs
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/stream/analytics
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/media/plans
+      - button:
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/realtime/kit
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/realtime/turn
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/realtime/sfu
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/realtime/moq
+    - generic: Protect & connect
+    - list:
+      - button:
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/security-center
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/application-security/waf
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/application-security/botbase
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/application-security/investigate
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/security-center/inventory
+        - button
+        - list:
+          - link:
+            - /url: /68a72a73d05d0fdf6641716bd9bba6be/application-security/threat-intelligence/threat-events
+          - link:
+            - /url: /68a72a73d05d0fdf6641716bd9bba6be/application-security/threat-intelligence/indicators
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/turnstile
+      - link:
+        - /url: https://dash.cloudflare.com/68a72a73d05d0fdf6641716bd9bba6be/one
+      - button:
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/magic-networks/overview
+        - button
+        - list:
+          - link:
+            - /url: /68a72a73d05d0fdf6641716bd9bba6be/networking-insights/analytics/network-analytics/flow-analytics
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/tunnels
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/mesh
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/magic-networks/routes
+        - button
+        - list:
+          - link:
+            - /url: /68a72a73d05d0fdf6641716bd9bba6be/ip-addresses/address-space
+          - link:
+            - /url: /68a72a73d05d0fdf6641716bd9bba6be/ip-addresses/proxy-ips
+      - button:
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/monetize/monetization-gateway
+      - button:
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/bulk-redirects
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/load-balancing
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/tag-management/zaraz
+    - list:
+      - button:
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/members
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/billing
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/api-tokens
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/oauth-clients
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/audit-log
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/blocked-content
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/abuse-reports
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/carbon
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/configurations
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/tags
+    - button "Quick search...":
+      - generic: Quick search...
+      - generic: ⌘K
+    - link "Back to Domains":
+      - /url: /68a72a73d05d0fdf6641716bd9bba6be/domains/overview
+      - generic: Back to Domains
+    - list:
+      - link "Overview":
+        - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/
+        - generic: Overview
+      - button "Recents":
+        - generic: Recents
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/workers-and-pages
+          - generic: Compute
+        - button [pressed]:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/dns/records
+          - generic: experiencetheamazo…
+          - generic: /
+        - button:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/domains/overview
+          - generic: Domains
+        - button:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/email-service/routing
+          - generic: Email Service
+        - button:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com
+          - generic: Domains
+        - button:
+      - button "AI Crawl Control":
+        - generic: AI Crawl Control
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/ai/overview
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/ai/metrics
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/ai/security
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/ai/optimization
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/ai/signals
+      - button "Agent Readiness":
+        - generic: Agent Readiness
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/agent-readiness/overview
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/agent-readiness/diagnostics
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/agent-readiness/ai-playground
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/agent-readiness/webmcp
+      - link "Analytics":
+        - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/analytics
+        - generic: Analytics
+      - button "Observability":
+        - generic: Observability
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/observability/logs
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/observability/traces
+        - button
+        - list:
+          - link:
+            - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/analytics/logs
+          - link:
+            - /url: /68a72a73d05d0fdf6641716bd9bba6be/observability/destinations
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/dashboards
+      - button "DNS" [expanded]:
+        - generic: DNS
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/dns/records
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/dns/analytics
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/dns/settings
+      - button "Email":
+        - generic: Email
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/email-service/sending/zone-navigation/53376897ec643bb0228454e3502f471b
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/email-service/routing/zone-navigation/53376897ec643bb0228454e3502f471b
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/email/dmarc-management
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/email/security
+      - button "SSL/TLS":
+        - generic: SSL/TLS
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/ssl-tls
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/ssl-tls/edge-certificates
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/ssl-tls/client-certificates
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/ssl-tls/origin
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/ssl-tls/custom-hostnames
+      - button "Security":
+        - generic: Security
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/security/overview
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/security/analytics
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/security/account-abuse-protection
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/security/web-assets
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/security/security-rules
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/security/settings
+      - link "Access":
+        - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/access
+        - generic: Access
+      - button "Speed":
+        - generic: Speed
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/speed
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/speed/origin-analytics
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/speed/rum
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/speed/test
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/speed/optimization
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/speed/smart-shield
+      - button "Caching":
+        - generic: Caching
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/caching
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/caching/configuration
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/caching/cache-rules
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/caching/tiered-cache
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/caching/cache-reserve
+      - link "Workers Routes":
+        - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/workers
+        - generic: Workers Routes
+      - button "Rules":
+        - generic: Rules
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/rules/overview
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/rules/simulator
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/rules/snippets
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/rules/cloud-connector
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/rules/page-rules
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/rules/settings
+      - link "Error Pages":
+        - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/error-pages
+        - generic: Error Pages
+      - link "Network":
+        - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/network
+        - generic: Network
+      - button "Traffic":
+        - generic: Traffic
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/traffic
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/traffic/load-balancing
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/traffic/load-balancing-analytics
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/traffic/health-checks
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/traffic/waiting-rooms
+      - link "Web3":
+        - /url: /68a72a73d05d0fdf6641716bd9bba6be/experiencetheamazon.com/web3
+        - generic: Web3
+    - list:
+      - button "Manage account":
+        - generic: Manage account
+      - list:
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/members
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/billing
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/api-tokens
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/audit-log
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/notifications
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/blocked-content
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/abuse-reports
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/carbon
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/configurations
+        - link:
+          - /url: /68a72a73d05d0fdf6641716bd9bba6be/tags
+  - button "Expand sidebar":
+- banner:
+  - button "Star domain":
+  - paragraph: experiencetheamazon.com
+  - button "free":
+    - generic: free
+  - button "Ask AI":
+    - generic: Ask AI
+  - link "Support":
+    - /url: /?to=/:account/support
+    - generic: Support
+  - button "User menu":
+- banner:
+  - heading "DNS records for experiencetheamazon.com" [level=1]
+  - paragraph: Manage how the Internet finds your web content, verifies services, and routes traffic.
+  - text: "DNS Setup:"
+  - generic: Full
+  - link "DNS documentation":
+    - /url: https://developers.cloudflare.com/dns/get-started/
+    - text: DNS documentation
+- button "Collapse":
+  - paragraph: Recommendations
+  - generic: All set
+- paragraph: No recommendations
+- searchbox "Search"
+- button "Filters":
+  - text: Filters
+- button "Display options":
+  - text: Display options
+- button "Import":
+  - text: Import
+- button "Export":
+  - text: Export
+- button "Add record":
+  - text: Add record
+- paragraph:
+  - text: You have used
+  - strong: 12 of 200
+  - text: available DNS records in this domain.
+- table "DNS records":
+  - rowgroup:
+    - row "Select All Name Sort by Name Resize Name column Type Sort by Type Content Sort by Content Resize Content column Proxy status Sort by Proxy status TTL Sort by TTL Tags Resize Tags column Comment Resize Comment column Details Resize Details column":
+      - columnheader "Select All":
+        - checkbox "Select All"
+        - checkbox
+      - columnheader:
+      - columnheader "Name Sort by Name Resize Name column":
+        - generic: Name
+        - button "Sort by Name":
+        - button "Resize Name column"
+      - columnheader "Type Sort by Type":
+        - generic: Type
+        - button "Sort by Type":
+      - columnheader "Content Sort by Content Resize Content column":
+        - generic: Content
+        - button "Sort by Content":
+        - button "Resize Content column"
+      - columnheader "Proxy status Sort by Proxy status":
+        - generic: Proxy status
+        - button "Sort by Proxy status":
+      - columnheader "TTL Sort by TTL":
+        - generic: TTL
+        - button "Sort by TTL":
+      - columnheader "Tags Resize Tags column":
+        - generic: Tags
+        - button "Resize Tags column"
+      - columnheader "Comment Resize Comment column":
+        - generic: Comment
+        - button "Resize Comment column"
+      - columnheader "Details Resize Details column":
+        - generic: Details
+        - button "Resize Details column"
+      - columnheader
+  - rowgroup:
+    - row "Select CNAME record with name _domainconnect.experiencetheamazon.com _domainconnect.experiencetheamazon.com CNAME _domainconnect.gd.domaincontrol.com Proxied Auto — — — Edit CNAME record with name _domainconnect.experiencetheamazon.com":
+      - cell "Select CNAME record with name _domainconnect.experiencetheamazon.com":
+        - checkbox "Select CNAME record with name _domainconnect.experiencetheamazon.com"
+        - checkbox
+      - cell
+      - cell "_domainconnect.experiencetheamazon.com":
+        - generic "_domainconnect.experiencetheamazon.com":
+          - text: _domainconnect
+          - generic: .experiencetheamazon.com
+      - cell "CNAME":
+        - generic "CNAME":
+          - generic: CNAME
+      - cell "_domainconnect.gd.domaincontrol.com":
+        - generic "_domainconnect.gd.domaincontrol.com"
+      - cell "Proxied":
+        - generic: Proxied
+      - cell "Auto":
+        - generic: Auto
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "Edit CNAME record with name _domainconnect.experiencetheamazon.com":
+        - button "Edit CNAME record with name _domainconnect.experiencetheamazon.com": Edit
+    - row "Select CNAME record with name email.experiencetheamazon.com email.experiencetheamazon.com CNAME mailgun.org Proxied Auto — — — Edit CNAME record with name email.experiencetheamazon.com":
+      - cell "Select CNAME record with name email.experiencetheamazon.com":
+        - checkbox "Select CNAME record with name email.experiencetheamazon.com"
+        - checkbox
+      - cell
+      - cell "email.experiencetheamazon.com":
+        - generic "email.experiencetheamazon.com":
+          - text: email
+          - generic: .experiencetheamazon.com
+      - cell "CNAME":
+        - generic "CNAME":
+          - generic: CNAME
+      - cell "mailgun.org":
+        - generic "mailgun.org"
+      - cell "Proxied":
+        - generic: Proxied
+      - cell "Auto":
+        - generic: Auto
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "Edit CNAME record with name email.experiencetheamazon.com":
+        - button "Edit CNAME record with name email.experiencetheamazon.com": Edit
+    - row "Select CNAME record with name experiencetheamazon.com Info experiencetheamazon.com CNAME amazon-site.pages.dev Proxied Auto — — — Edit CNAME record with name experiencetheamazon.com":
+      - cell "Select CNAME record with name experiencetheamazon.com":
+        - checkbox "Select CNAME record with name experiencetheamazon.com"
+        - checkbox
+      - cell "Info":
+        - button "Info":
+      - cell "experiencetheamazon.com":
+        - generic "experiencetheamazon.com"
+      - cell "CNAME":
+        - generic "CNAME":
+          - generic: CNAME
+      - cell "amazon-site.pages.dev":
+        - generic "amazon-site.pages.dev"
+      - cell "Proxied":
+        - generic: Proxied
+      - cell "Auto":
+        - generic: Auto
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "Edit CNAME record with name experiencetheamazon.com":
+        - button "Edit CNAME record with name experiencetheamazon.com": Edit
+    - row "Select CNAME record with name pay.experiencetheamazon.com pay.experiencetheamazon.com CNAME paylinks.commerce.godaddy.com Proxied Auto — — — Edit CNAME record with name pay.experiencetheamazon.com":
+      - cell "Select CNAME record with name pay.experiencetheamazon.com":
+        - checkbox "Select CNAME record with name pay.experiencetheamazon.com"
+        - checkbox
+      - cell
+      - cell "pay.experiencetheamazon.com":
+        - generic "pay.experiencetheamazon.com":
+          - text: pay
+          - generic: .experiencetheamazon.com
+      - cell "CNAME":
+        - generic "CNAME":
+          - generic: CNAME
+      - cell "paylinks.commerce.godaddy.com":
+        - generic "paylinks.commerce.godaddy.com"
+      - cell "Proxied":
+        - generic: Proxied
+      - cell "Auto":
+        - generic: Auto
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "Edit CNAME record with name pay.experiencetheamazon.com":
+        - button "Edit CNAME record with name pay.experiencetheamazon.com": Edit
+    - row "Select CNAME record with name staging.experiencetheamazon.com staging.experiencetheamazon.com CNAME amazon-site-staging.pages.dev Proxied Auto — — — Edit CNAME record with name staging.experiencetheamazon.com":
+      - cell "Select CNAME record with name staging.experiencetheamazon.com":
+        - checkbox "Select CNAME record with name staging.experiencetheamazon.com"
+        - checkbox
+      - cell
+      - cell "staging.experiencetheamazon.com":
+        - generic "staging.experiencetheamazon.com":
+          - text: staging
+          - generic: .experiencetheamazon.com
+      - cell "CNAME":
+        - generic "CNAME":
+          - generic: CNAME
+      - cell "amazon-site-staging.pages.dev":
+        - generic "amazon-site-staging.pages.dev"
+      - cell "Proxied":
+        - generic: Proxied
+      - cell "Auto":
+        - generic: Auto
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "Edit CNAME record with name staging.experiencetheamazon.com":
+        - button "Edit CNAME record with name staging.experiencetheamazon.com": Edit
+    - row "Select CNAME record with name www.experiencetheamazon.com www.experiencetheamazon.com CNAME amazon-site.pages.dev Proxied Auto — — — Edit CNAME record with name www.experiencetheamazon.com":
+      - cell "Select CNAME record with name www.experiencetheamazon.com":
+        - checkbox "Select CNAME record with name www.experiencetheamazon.com"
+        - checkbox
+      - cell
+      - cell "www.experiencetheamazon.com":
+        - generic "www.experiencetheamazon.com":
+          - text: www
+          - generic: .experiencetheamazon.com
+      - cell "CNAME":
+        - generic "CNAME":
+          - generic: CNAME
+      - cell "amazon-site.pages.dev":
+        - generic "amazon-site.pages.dev"
+      - cell "Proxied":
+        - generic: Proxied
+      - cell "Auto":
+        - generic: Auto
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "Edit CNAME record with name www.experiencetheamazon.com":
+        - button "Edit CNAME record with name www.experiencetheamazon.com": Edit
+    - row "Select MX record with name experiencetheamazon.com experiencetheamazon.com MX mxb.mailgun.org DNS only Auto — — 60 Edit MX record with name experiencetheamazon.com":
+      - cell "Select MX record with name experiencetheamazon.com":
+        - checkbox "Select MX record with name experiencetheamazon.com"
+        - checkbox
+      - cell
+      - cell "experiencetheamazon.com":
+        - generic "experiencetheamazon.com"
+      - cell "MX":
+        - generic "MX":
+          - generic: MX
+      - cell "mxb.mailgun.org":
+        - generic "mxb.mailgun.org"
+      - cell "DNS only":
+        - generic: DNS only
+      - cell "Auto":
+        - generic: Auto
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "60":
+        - text: "60"
+      - cell "Edit MX record with name experiencetheamazon.com":
+        - button "Edit MX record with name experiencetheamazon.com": Edit
+    - row "Select MX record with name experiencetheamazon.com experiencetheamazon.com MX mxa.mailgun.org DNS only Auto — — 60 Edit MX record with name experiencetheamazon.com":
+      - cell "Select MX record with name experiencetheamazon.com":
+        - checkbox "Select MX record with name experiencetheamazon.com"
+        - checkbox
+      - cell
+      - cell "experiencetheamazon.com":
+        - generic "experiencetheamazon.com"
+      - cell "MX":
+        - generic "MX":
+          - generic: MX
+      - cell "mxa.mailgun.org":
+        - generic "mxa.mailgun.org"
+      - cell "DNS only":
+        - generic: DNS only
+      - cell "Auto":
+        - generic: Auto
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "60":
+        - text: "60"
+      - cell "Edit MX record with name experiencetheamazon.com":
+        - button "Edit MX record with name experiencetheamazon.com": Edit
+    - row "Select TXT record with name _dmarc.experiencetheamazon.com _dmarc.experiencetheamazon.com TXT \"v=DMARC1; p=quarantine; adkim=r; aspf=r; rua=mailto:dmarc_rua@onsecureserver.net;\" DNS only Auto — — — Edit TXT record with name _dmarc.experiencetheamazon.com":
+      - cell "Select TXT record with name _dmarc.experiencetheamazon.com":
+        - checkbox "Select TXT record with name _dmarc.experiencetheamazon.com"
+        - checkbox
+      - cell
+      - cell "_dmarc.experiencetheamazon.com":
+        - generic "_dmarc.experiencetheamazon.com":
+          - text: _dmarc
+          - generic: .experiencetheamazon.com
+      - cell "TXT":
+        - generic "TXT":
+          - generic: TXT
+      - cell "\"v=DMARC1; p=quarantine; adkim=r; aspf=r; rua=mailto:dmarc_rua@onsecureserver.net;\"":
+        - generic "\"v=DMARC1; p=quarantine; adkim=r; aspf=r; rua=mailto:dmarc_rua@onsecureserver.net;\""
+      - cell "DNS only":
+        - generic: DNS only
+      - cell "Auto":
+        - generic: Auto
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "Edit TXT record with name _dmarc.experiencetheamazon.com":
+        - button "Edit TXT record with name _dmarc.experiencetheamazon.com": Edit
+    - row "Select TXT record with name experiencetheamazon.com experiencetheamazon.com TXT \"google-site-verification=PHnQSwy9ho_TBlwI47xOEjRJ0ynkSlyLLNilH5QI6Hs\" DNS only 1 hr — — — Edit TXT record with name experiencetheamazon.com":
+      - cell "Select TXT record with name experiencetheamazon.com":
+        - checkbox "Select TXT record with name experiencetheamazon.com"
+        - checkbox
+      - cell
+      - cell "experiencetheamazon.com":
+        - generic "experiencetheamazon.com"
+      - cell "TXT":
+        - generic "TXT":
+          - generic: TXT
+      - cell "\"google-site-verification=PHnQSwy9ho_TBlwI47xOEjRJ0ynkSlyLLNilH5QI6Hs\"":
+        - generic "\"google-site-verification=PHnQSwy9ho_TBlwI47xOEjRJ0ynkSlyLLNilH5QI6Hs\""
+      - cell "DNS only":
+        - generic: DNS only
+      - cell "1 hr":
+        - generic: 1 hr
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "Edit TXT record with name experiencetheamazon.com":
+        - button "Edit TXT record with name experiencetheamazon.com": Edit
+    - row "Select TXT record with name experiencetheamazon.com experiencetheamazon.com TXT \"v=spf1 include:mailgun.org ~all\" DNS only Auto — — — Edit TXT record with name experiencetheamazon.com":
+      - cell "Select TXT record with name experiencetheamazon.com":
+        - checkbox "Select TXT record with name experiencetheamazon.com"
+        - checkbox
+      - cell
+      - cell "experiencetheamazon.com":
+        - generic "experiencetheamazon.com"
+      - cell "TXT":
+        - generic "TXT":
+          - generic: TXT
+      - cell "\"v=spf1 include:mailgun.org ~all\"":
+        - generic "\"v=spf1 include:mailgun.org ~all\""
+      - cell "DNS only":
+        - generic: DNS only
+      - cell "Auto":
+        - generic: Auto
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "Edit TXT record with name experiencetheamazon.com":
+        - button "Edit TXT record with name experiencetheamazon.com": Edit
+    - row "Select TXT record with name krs._domainkey.experiencetheamazon.com krs._domainkey.experiencetheamazon.com TXT \"k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDZd0RrKrTBXFleZwd+eSUQQWAaMfAmncHj5RaseXnGSPM8HGUmhfV3L/oPZHMNDBASaEZbI51qaoLVJ+8kt2+HECRMjq34k63Z/PaGBB2UML/rjwhxYfhqinU0lYbg8g2j8uST29MJitmuCnAO13+uIadZAltSHlxja/2pb91BKwIDAQAB\" DNS only Auto — — — Edit TXT record with name krs._domainkey.experiencetheamazon.com":
+      - cell "Select TXT record with name krs._domainkey.experiencetheamazon.com":
+        - checkbox "Select TXT record with name krs._domainkey.experiencetheamazon.com"
+        - checkbox
+      - cell
+      - cell "krs._domainkey.experiencetheamazon.com":
+        - generic "krs._domainkey.experiencetheamazon.com":
+          - text: krs._domainkey
+          - generic: .experiencetheamazon.com
+      - cell "TXT":
+        - generic "TXT":
+          - generic: TXT
+      - cell "\"k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDZd0RrKrTBXFleZwd+eSUQQWAaMfAmncHj5RaseXnGSPM8HGUmhfV3L/oPZHMNDBASaEZbI51qaoLVJ+8kt2+HECRMjq34k63Z/PaGBB2UML/rjwhxYfhqinU0lYbg8g2j8uST29MJitmuCnAO13+uIadZAltSHlxja/2pb91BKwIDAQAB\"":
+        - generic "\"k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDZd0RrKrTBXFleZwd+eSUQQWAaMfAmncHj5RaseXnGSPM8HGUmhfV3L/oPZHMNDBASaEZbI51qaoLVJ+8kt2+HECRMjq34k63Z/PaGBB2UML/rjwhxYfhqinU0lYbg8g2j8uST29MJitmuCnAO13+uIadZAltSHlxja/2pb91BKwIDAQAB\""
+      - cell "DNS only":
+        - generic: DNS only
+      - cell "Auto":
+        - generic: Auto
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "—":
+        - generic: —
+      - cell "Edit TXT record with name krs._domainkey.experiencetheamazon.com":
+        - button "Edit TXT record with name krs._domainkey.experiencetheamazon.com": Edit
+- generic: Showing 1-12 of 12
+- contentinfo:
+  - list:
+    - link "Support":
+      - /url: https://support.cloudflare.com
+    - link "System status":
+      - /url: https://www.cloudflarestatus.com
+    - link "Careers":
+      - /url: https://www.cloudflare.com/careers/
+    - link "Terms of Use":
+      - /url: https://www.cloudflare.com/website-terms/
+    - link "Report Security Issues":
+      - /url: https://www.cloudflare.com/disclosure/
+    - link "Privacy Policy":
+      - /url: https://www.cloudflare.com/privacypolicy/
+    - button "A blue and white pill with a checkmark and an x, representing privacy choices Your Privacy Choices":
+      - img "A blue and white pill with a checkmark and an x, representing privacy choices"
+      - text: Your Privacy Choices
+    - generic: © 2026 Cloudflare, Inc.
+- region "Notifications"

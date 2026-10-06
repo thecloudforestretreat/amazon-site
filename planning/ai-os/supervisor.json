@@ -71,9 +71,9 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Activate Turnstile and Brevo with owner configuration and verify inbox delivery",
-    "Finalize privacy/operator details from owner input",
-    "Measure browser performance and prepare Ecuador release for owner review"
+    "Confirm owner received staging test inquiry",
+    "Finalize privacy/operator details",
+    "Complete Ecuador launch QA"
   ],
   "future_batches": [
     "Reviews deferred by owner; exclude from Ecuador launch",
@@ -91,10 +91,10 @@
     "scope": "Owner explicitly authorized staging release and proceeding on October 5; pending visual checks stay recorded"
   },
   "deployment": {
-    "id": "e83937d6",
+    "id": "88f2794e",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://e83937d6.amazon-site-staging.pages.dev",
+    "url": "https://88f2794e.amazon-site-staging.pages.dev",
     "protected_domain_check": "302 unauthenticated Access redirect; authenticated browser verified",
     "date": "2026-10-06"
   },
@@ -121,7 +121,7 @@
     "Ecuador contact activation",
     "Ecuador completion QA"
   ],
-  "batch_status": "Guest hint removed; exact form alignment verified; bilingual privacy choices enabled on staging, rejection persists and footer reopening verified; email configuration pending",
+  "batch_status": "Contact delivery enabled; Brevo reports test delivered; owner inbox confirmation pending",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",
@@ -430,11 +430,13 @@
   "contact_status": {
     "pair": "pair_029",
     "implementation": "deployed",
-    "activation": "Turnstile configured and browser verified; email configuration pending",
+    "activation": "Brevo activated; live EN staging inquiry reported Delivered by Brevo",
     "delivery_verified": false,
     "evidence": "planning/ai-os/contact-dates-checkpoint.json",
     "turnstile_widget": "Experience The Amazon staging contact",
-    "turnstile_hostname": "staging.experiencetheamazon.com"
+    "turnstile_hostname": "staging.experiencetheamazon.com",
+    "provider_delivery_verified": true,
+    "inbox_confirmation_pending": true
   },
   "reviews": {
     "pair": "pair_027",

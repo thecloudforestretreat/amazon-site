@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-06",
+  "address": "info@experiencetheamazon.com",
+  "destination": "mindobirdwatching@gmail.com",
+  "rule": "Active",
+  "dns": "Locked; Cloudflare MX and SPF configured",
+  "service_status": "Syncing at final readback",
+  "mailgun": "MX replaced and SPF authorization replaced; unused email CNAME and old DKIM retained pending cleanup",
+  "delivery_verified": false,
+  "next": "Brevo domain authentication and dedicated API key; inbox test"
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-06",
+  "deployment": "88f2794e",
+  "sender": "info@experiencetheamazon.com",
+  "recipient": "mindobirdwatching@gmail.com",
+  "domain": "Brevo authenticated, DKIM1/DKIM2/DMARC verified",
+  "key": "Dedicated staging key stored in primary and preview; temporary key file deleted",
+  "test": "Live EN form, genuine automatic Turnstile verification, Brevo Sent and Delivered events observed",
+  "inbox_confirmation": false,
+  "tests_passed": 16,
+  "improvement": "Preserve submission result when Turnstile refresh completes",
+  "production_deployed": false
+}

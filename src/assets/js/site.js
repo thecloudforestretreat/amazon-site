@@ -134,6 +134,7 @@
       endDate.addEventListener('input', updateDates);
       guests.addEventListener('input', () => { guests.value = guests.value.replace(/\D/g, '').slice(0,2); });
       let widget;
+      let preserveResult = false;
       submit.disabled = true;
       try {
         const response = await fetch(config.leads.endpoint, {cache: "no-store"});
@@ -147,7 +148,7 @@
         });
         widget = window.turnstile.render(form.querySelector("[data-turnstile]"), {
           sitekey: settings.siteKey, action: "contact", language: language,
-          callback: () => { submit.disabled = !settings.enabled; if (settings.enabled) say("Ready to send.", "Listo para enviar."); else say("Verification complete. Delivery is not active yet; please use email or WhatsApp.", "Verificación completada. El envío aún no está activo; usa correo o WhatsApp."); },
+          callback: () => { submit.disabled = !settings.enabled; if (preserveResult) return; if (settings.enabled) say("Ready to send.", "Listo para enviar."); else say("Verification complete. Delivery is not active yet; please use email or WhatsApp.", "Verificación completada. El envío aún no está activo; usa correo o WhatsApp."); },
           "expired-callback": () => { submit.disabled = true; say("Please verify again.", "Verifica de nuevo."); },
           "error-callback": () => { submit.disabled = true; say("Verification unavailable. Use email or WhatsApp.", "La verificación no está disponible. Usa correo o WhatsApp."); }
         });
@@ -161,6 +162,7 @@
         const values = Object.fromEntries(new FormData(form).entries());
         const payload = Object.fromEntries(["first_name","last_name","email","country","travelers","phone","start_date","end_date","interests","privacy_consent","website","cf-turnstile-response"].map(k => [k, values[k] || ""]));
         payload.language = language;
+        preserveResult = true;
         submit.disabled = true; say("Sending…", "Enviando…");
         try {
           const response = await fetch(config.leads.endpoint, {method:"POST", headers:{"Content-Type":"application/json"},body:JSON.stringify(payload)});
