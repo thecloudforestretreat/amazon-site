@@ -30,6 +30,9 @@ class ObservedFailures(unittest.TestCase):
   self.assertEqual(flags({'en':'Do you provide any guarantees regarding wildlife sightings?'}),['sighting_guarantee_request'])
   self.assertEqual(flags({'es':'¿Proporcionan alguna garantía sobre los avistamientos?'}),['sighting_guarantee_request'])
   self.assertEqual(flags({'en':'Sightings are not guaranteed.'}),[])
+ def test_observed_gateway_routine_failure(self):
+  self.assertEqual(flags({'en':'designated time for lights out','es':'breves obligatorios'}),['presumed_lights_out','literal_spanish_failure'])
+  self.assertEqual(flags({'en':'Ask about the proposed room and routine.'}),[])
  def test_reviewed_question_is_not_flagged(self):
   self.assertEqual(flags({'intro':'Which transport segments are included in the written proposal?'}),[])
 if __name__=='__main__':unittest.main()

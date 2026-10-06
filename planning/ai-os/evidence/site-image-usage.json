@@ -39,6 +39,17 @@
       ]
     },
     {
+      "src": "/assets/images/ecuador/tena-river-faessler.jpg",
+      "count": 5,
+      "routes": [
+        "/ecuador/family-amazon-tour/",
+        "/ecuador/faqs/",
+        "/ecuador/tena/",
+        "/ecuador/how-to-get-to-the-ecuador-amazon/",
+        "/ecuador/blog/tena-or-misahualli-which-is-better/"
+      ]
+    },
+    {
       "src": "/assets/images/ecuador/puyo-palms.jpg",
       "count": 5,
       "routes": [
@@ -57,16 +68,6 @@
         "/ecuador/5-day-amazon-tour/",
         "/ecuador/yasuni/",
         "/ecuador/amazon-canoe-tour/"
-      ]
-    },
-    {
-      "src": "/assets/images/ecuador/tena-river-faessler.jpg",
-      "count": 4,
-      "routes": [
-        "/ecuador/family-amazon-tour/",
-        "/ecuador/faqs/",
-        "/ecuador/tena/",
-        "/ecuador/how-to-get-to-the-ecuador-amazon/"
       ]
     },
     {
@@ -178,6 +179,15 @@
       ]
     },
     {
+      "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg",
+      "count": 3,
+      "routes": [
+        "/ecuador/faqs/",
+        "/ecuador/how-to-get-to-the-ecuador-amazon/",
+        "/ecuador/blog/tena-or-misahualli-which-is-better/"
+      ]
+    },
+    {
       "src": "/assets/images/ecuador/yasuni-rhetus-butterfly.jpg",
       "count": 2,
       "routes": [
@@ -210,6 +220,14 @@
       ]
     },
     {
+      "src": "/assets/images/ecuador/misahualli-monkey.jpg",
+      "count": 2,
+      "routes": [
+        "/ecuador/misahualli/",
+        "/ecuador/blog/tena-or-misahualli-which-is-better/"
+      ]
+    },
+    {
       "src": "/assets/images/ecuador/cuyabeno-lagoon-constanza-mora.jpg",
       "count": 2,
       "routes": [
@@ -226,14 +244,6 @@
       ]
     },
     {
-      "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg",
-      "count": 2,
-      "routes": [
-        "/ecuador/faqs/",
-        "/ecuador/how-to-get-to-the-ecuador-amazon/"
-      ]
-    },
-    {
       "src": "/assets/images/ecuador/cuyabeno-leaves-bellers.jpg",
       "count": 2,
       "routes": [
@@ -246,13 +256,6 @@
       "count": 1,
       "routes": [
         "/ecuador/animals-of-the-ecuador-amazon/"
-      ]
-    },
-    {
-      "src": "/assets/images/ecuador/misahualli-monkey.jpg",
-      "count": 1,
-      "routes": [
-        "/ecuador/misahualli/"
       ]
     },
     {

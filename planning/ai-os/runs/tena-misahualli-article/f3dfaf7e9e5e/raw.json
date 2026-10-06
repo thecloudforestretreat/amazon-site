@@ -1,0 +1,102 @@
+{
+  "en": [
+    {
+      "heading": "Base and Setting",
+      "points": [
+        "What is the precise location of our base camp?",
+        "How does the surrounding environment affect our daily routine?",
+        "Is the designated base area clearly marked upon arrival?"
+      ]
+    },
+    {
+      "heading": "Confirmed Activities",
+      "points": [
+        "Which specific activities are officially confirmed for our group?",
+        "What is the exact schedule for each planned excursion?",
+        "Are there any mandatory briefings before starting an activity?"
+      ]
+    },
+    {
+      "heading": "Accommodation Routines",
+      "points": [
+        "What are the standard sleeping arrangements provided?",
+        "When is the designated time for lights out and rest?",
+        "How are meals distributed during our stay?"
+      ]
+    },
+    {
+      "heading": "Time at Base",
+      "points": [
+        "How many hours per day will we spend at the base?",
+        "What is the policy regarding early morning departures?",
+        "Is there a fixed end time for daily operations?"
+      ]
+    },
+    {
+      "heading": "Complete Journey",
+      "points": [
+        "How does the arrival transfer connect to our first activity?",
+        "What is the procedure for returning from the final excursion?",
+        "Where will we be located during transit between sites?"
+      ]
+    },
+    {
+      "heading": "Written Proposals",
+      "points": [
+        "Can you provide a written itinerary for our specific booking?",
+        "Which items listed in your proposal are included in the price?",
+        "How can we verify the details of our contract before departure?"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "heading": "Base y Entorno",
+      "points": [
+        "¿Cuál es la ubicación exacta de nuestro campamento base?",
+        "¿Cómo afecta el entorno circundante a nuestra rutina diaria?",
+        "¿Está claramente señalizada el área designada al llegar?"
+      ]
+    },
+    {
+      "heading": "Actividades Confirmadas",
+      "points": [
+        "¿Qué actividades específicas están oficialmente confirmadas para nuestro grupo?",
+        "¿Cuál es el horario exacto de cada excursión planificada?",
+        "¿Existen breves obligatorios antes de iniciar una actividad?"
+      ]
+    },
+    {
+      "heading": "Rutinas de Alojamiento",
+      "points": [
+        "¿Cuáles son las condiciones estándar de alojamiento proporcionadas?",
+        "¿A qué hora se indica apagón y descanso?",
+        "¿Cómo se distribuyen las comidas durante nuestra estancia?"
+      ]
+    },
+    {
+      "heading": "Tiempo en la Base",
+      "points": [
+        "¿Cuántas horas al día pasaremos en la base?",
+        "¿Cuál es la política sobre salidas muy tempranas?",
+        "¿Existe una hora fija de finalización de las operaciones diarias?"
+      ]
+    },
+    {
+      "heading": "Trayecto Completo",
+      "points": [
+        "¿Cómo se conecta el traslado de llegada con nuestra primera actividad?",
+        "¿Cuál es el procedimiento para regresar desde la última excursión?",
+        "¿Dónde nos ubicaremos durante el tránsito entre sitios?"
+      ]
+    },
+    {
+      "heading": "Propuestas Escritas",
+      "points": [
+        "¿Puede proporcionarnos un itinerario escrito para nuestra reserva específica?",
+        "¿Qué elementos listados en su propuesta están incluidos en el precio?",
+        "¿Cómo podemos verificar los detalles de nuestro contrato antes de partir?"
+      ]
+    }
+  ]
+}

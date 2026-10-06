@@ -44,7 +44,8 @@
     "pair_032",
     "pair_033",
     "pair_034",
-    "pair_035"
+    "pair_035",
+    "pair_036"
   ],
   "completion_requires": [
     "Editorial and bilingual review",
@@ -70,10 +71,10 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review of wildlife-timing/lodge-experience pair previews",
-    "Next: Tena versus Misahualli article and earlier visual catch-up",
-    "Reviews require genuine customer material; contact requires endpoint",
-    "Full accessibility/measured performance and daily advice check when due"
+    "Owner review of Tena–Misahualli pair",
+    "Continue ten earlier visual catch-up reviews",
+    "Genuine reviews/contact endpoint required for remaining two content pairs",
+    "Full accessibility/performance checks remain pending; daily advice check when due"
   ],
   "future_batches": [
     "Reviews require genuine customer material; do not invent testimonials",
@@ -83,7 +84,8 @@
   "pilot_status": "deployed_initial_browser_checks_pass_full_qa_pending",
   "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
   "next_batch_candidates": [
-    "pair_036"
+    "pair_012 visual catch-up",
+    "pair_013 visual catch-up"
   ],
   "local_worker_run_complete": true,
   "git_status": "Committed locally; remote push blocked by automatic approval review",
@@ -93,10 +95,10 @@
     "scope": "Owner explicitly authorized staging release and proceeding on October 5; pending visual checks stay recorded"
   },
   "deployment": {
-    "id": "04e4580d",
+    "id": "3efc8507",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://04e4580d.amazon-site-staging.pages.dev",
+    "url": "https://3efc8507.amazon-site-staging.pages.dev",
     "protected_domain_check": "302 unauthenticated Access redirect; authenticated browser verified",
     "date": "2026-10-05"
   },
@@ -120,12 +122,13 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "wildlife-timing-article",
-    "lodge-experience-article"
+    "tena-misahualli-article",
+    "quito-format visual catch-up",
+    "three-day-format visual catch-up"
   ],
-  "batch_status": "Wildlife-timing and lodge-experience EN/ES deployed; initial technical/desktop/mobile checks passed; launch QA pending",
+  "batch_status": "Tena–Misahualli EN/ES deployed; initial technical/desktop/mobile passed; Quito/3-day EN/ES initial visual catch-up passed",
   "batch_browser_checks": {
-    "deployment": "04e4580d",
+    "deployment": "3efc8507",
     "date": "2026-10-05",
     "status": "initial_desktop_mobile_visual_and_interaction_checks_pass",
     "widths": [
@@ -144,19 +147,19 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
+            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+            "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-hoatzin-gallagher.jpg"
+            "src": "/assets/images/ecuador/misahualli-monkey.jpg"
           }
         ],
         "overflow": false,
-        "route": "/ecuador/blog/best-time-to-see-wildlife-in-the-ecuador-amazon/",
+        "route": "/ecuador/blog/tena-or-misahualli-which-is-better/",
         "width": 1440
       },
       {
@@ -164,19 +167,19 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
+            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+            "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-hoatzin-gallagher.jpg"
+            "src": "/assets/images/ecuador/misahualli-monkey.jpg"
           }
         ],
         "overflow": false,
-        "route": "/ecuador/blog/best-time-to-see-wildlife-in-the-ecuador-amazon/",
+        "route": "/ecuador/blog/tena-or-misahualli-which-is-better/",
         "width": 390
       },
       {
@@ -184,46 +187,20 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
+            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+            "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-hoatzin-gallagher.jpg"
+            "src": "/assets/images/ecuador/misahualli-monkey.jpg"
           }
         ],
         "overflow": false,
-        "route": "/es/ecuador/blog/mejor-epoca-para-ver-fauna-en-la-amazonia-del-ecuador/",
+        "route": "/es/ecuador/blog/tena-o-misahualli-cual-es-mejor/",
         "width": 390
-      },
-      {
-        "factYs": [
-          -2061.4609375,
-          -2061.4609375,
-          -2061.4609375,
-          -2061.4609375
-        ],
-        "headerTop": 0,
-        "images": [
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-woolly-monkey.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-hoatzin-gallagher.jpg"
-          }
-        ],
-        "overflow": false,
-        "route": "/es/ecuador/blog/mejor-epoca-para-ver-fauna-en-la-amazonia-del-ecuador/",
-        "width": 1440
       },
       {
         "factYs": [
@@ -236,112 +213,38 @@
         "images": [
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/misahualli-confluence.jpg"
+            "src": "/assets/images/ecuador/tena-river-faessler.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
+            "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
           },
           {
             "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
+            "src": "/assets/images/ecuador/misahualli-monkey.jpg"
           }
         ],
         "overflow": false,
-        "route": "/ecuador/blog/what-is-it-like-to-stay-in-an-amazon-lodge/",
-        "width": 1440
-      },
-      {
-        "headerTop": 0,
-        "images": [
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/misahualli-confluence.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
-          }
-        ],
-        "overflow": false,
-        "route": "/ecuador/blog/what-is-it-like-to-stay-in-an-amazon-lodge/",
-        "width": 390
-      },
-      {
-        "headerTop": 0,
-        "images": [
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/misahualli-confluence.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
-          }
-        ],
-        "overflow": false,
-        "route": "/es/ecuador/blog/como-es-alojarse-en-un-lodge-amazonico/",
-        "width": 390
-      },
-      {
-        "factYs": [
-          -2061.4609375,
-          -2061.4609375,
-          -2061.4609375,
-          -2061.4609375
-        ],
-        "headerTop": 0,
-        "images": [
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/misahualli-confluence.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/cuyabeno-canoe-river.jpg"
-          },
-          {
-            "loaded": true,
-            "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
-          }
-        ],
-        "overflow": false,
-        "route": "/es/ecuador/blog/como-es-alojarse-en-un-lodge-amazonico/",
+        "route": "/es/ecuador/blog/tena-o-misahualli-cual-es-mejor/",
         "width": 1440
       }
     ],
     "screenshots": [
-      "planning/ai-os/evidence/wildlife-en-desktop.png",
-      "planning/ai-os/evidence/wildlife-en-mobile.png",
-      "planning/ai-os/evidence/wildlife-es-desktop.png",
-      "planning/ai-os/evidence/wildlife-es-mobile.png",
-      "planning/ai-os/evidence/experience-en-desktop.png",
-      "planning/ai-os/evidence/experience-en-mobile.png",
-      "planning/ai-os/evidence/experience-es-desktop.png",
-      "planning/ai-os/evidence/experience-es-mobile.png"
+      "planning/ai-os/evidence/gateway-en-desktop.png",
+      "planning/ai-os/evidence/gateway-en-mobile.png",
+      "planning/ai-os/evidence/gateway-es-desktop.png",
+      "planning/ai-os/evidence/gateway-es-mobile.png"
     ],
     "checks": [
-      "Four EN/ES routes at both viewport widths",
-      "All photos loaded; no horizontal overflow; header sticky",
-      "Desktop fact label baselines aligned",
-      "Hamburger opens via Enter and closes via Escape",
-      "Main FAQ toggles via Enter",
-      "Six distinct scenes, none from preceding two batches, no frogs",
-      "Unauthenticated Access redirect 302; authenticated readback passed"
+      "EN/ES at desktop/mobile; images loaded; no overflow",
+      "Sticky header and aligned desktop fact labels",
+      "English hamburger Enter/Escape and Spanish FAQ Enter passed",
+      "Three distinct cleared scenes; none from preceding two batches",
+      "Protected staging 302 unauthenticated; authenticated browser readback"
     ],
     "limits": [
-      "Full accessibility and measured performance pending",
-      "Contact endpoint absent",
-      "Twelve earlier visual catch-up reviews pending",
-      "Fast-scroll desktop turtle initially undecoded; subsequent screenshot visibly confirmed"
+      "Full accessibility and measured performance remain pending",
+      "Contact delivery endpoint absent"
     ]
   },
   "template": {
@@ -383,7 +286,10 @@
     "pair_032",
     "pair_033",
     "pair_034",
-    "pair_035"
+    "pair_035",
+    "pair_036",
+    "pair_010",
+    "pair_011"
   ],
   "advice_monitor": {
     "interval_hours": 24,

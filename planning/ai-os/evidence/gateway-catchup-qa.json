@@ -1,0 +1,209 @@
+{
+  "deployment": "3efc8507",
+  "date": "2026-10-05",
+  "pairs": [
+    "pair_010",
+    "pair_011"
+  ],
+  "measurements": [
+    {
+      "factYs": [
+        -1987.7265625,
+        -1987.7265625,
+        -1987.7265625,
+        -1987.7265625
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-city.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/amazon-tours-from-quito/",
+      "width": 1440
+    },
+    {
+      "factYs": [
+        -1921.2890625,
+        -1921.2890625,
+        -1921.2890625,
+        -1921.2890625
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-city.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/tours-a-la-amazonia-desde-quito/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-city.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/amazon-tours-from-quito/",
+      "width": 390
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-canopy-patricio-gaibor.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/cuyabeno-lagoon-masha-buschujewa.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/puyo-city.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/tours-a-la-amazonia-desde-quito/",
+      "width": 390
+    },
+    {
+      "factYs": [
+        -1921.2890625,
+        -1921.2890625,
+        -1921.2890625,
+        -1921.2890625
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/3-day-amazon-tour/",
+      "width": 1440
+    },
+    {
+      "factYs": [
+        -1921.2890625,
+        -1921.2890625,
+        -1921.2890625,
+        -1921.2890625
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-3-dias-en-la-amazonia/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/3-day-amazon-tour/",
+      "width": 390
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-forest-jay.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-sunset-lauren-whitehurst.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/yasuni-river-turtle.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/tour-de-3-dias-en-la-amazonia/",
+      "width": 390
+    }
+  ],
+  "screenshots": [
+    "planning/ai-os/evidence/quito-en-desktop.png",
+    "planning/ai-os/evidence/quito-en-mobile.png",
+    "planning/ai-os/evidence/quito-es-desktop.png",
+    "planning/ai-os/evidence/quito-es-mobile.png",
+    "planning/ai-os/evidence/three-en-desktop.png",
+    "planning/ai-os/evidence/three-en-mobile.png",
+    "planning/ai-os/evidence/three-es-desktop.png",
+    "planning/ai-os/evidence/three-es-mobile.png"
+  ],
+  "status": "initial_desktop_mobile_visual_checks_pass",
+  "scope": "Visual catch-up; earlier editorial records retained; no new draft calls",
+  "limits": [
+    "Initial visual checks only; full keyboard/accessibility/performance pending"
+  ]
+}

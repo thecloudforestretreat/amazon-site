@@ -1,12 +1,14 @@
-"""Build reviewed wildlife-timing and lodge-experience articles; no model calls or deploy."""
+"""Build reviewed Ecuador article batches; no model calls or deploy."""
 from pathlib import Path
-import json,html,re,hashlib
+import json,html,re,hashlib,sys
+batch=sys.argv[1] if len(sys.argv)>1 else "experience"
+assert batch in ["experience","gateway"]
 root=Path(__file__).resolve().parents[2]; esc=html.escape
 data={d['slug']:d for d in json.loads((root/'src/data/ecuador-destinations.json').read_text())}
 def hero(d):
  return dict(src=d['image'],width=d['imageWidth'],height=d['imageHeight'],altEn=d['imageAltEn'],altEs=d['imageAltEs'],credit=d['imageCredit'].removeprefix('Photo: '),source=d['imageSource'],license=d.get('imageLicenseLabel','CC BY 2.0' if d.get('imageLicense') else ''),licenseUrl=d.get('imageLicense',''))
-configs=json.loads((root/'planning/ai-os/experience-batch-config.json').read_text())
-copy=json.loads((root/'planning/ai-os/experience-batch-content.json').read_text())
+configs=json.loads((root/f'planning/ai-os/{batch}-batch-config.json').read_text())
+copy=json.loads((root/f'planning/ai-os/{batch}-batch-content.json').read_text())
 for cfg in configs:
  job=cfg['job'];runs=list((root/f'planning/ai-os/runs/{job}').glob('*/draft.json'));assert len(runs)==1,runs
  draft=json.loads((runs[0].parent/'reviewed.json').read_text())
@@ -56,4 +58,4 @@ for cfg in configs:
   s+=sources+'</main>{{ETA_FOOTER}}</body></html>\n'
   dest=root/f'src/pages/{lang}/ecuador/{cfg[lang]}/index.html';dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(s)
   (runs[0].parent/f'reviewed-{lang}.json').write_text(json.dumps(draft[lang],ensure_ascii=False,indent=2)+'\n')
-(root/'planning/ai-os/evidence/experience-images.json').write_text(json.dumps({'date':'2026-10-05','photos':{c['job']:c['photos'] for c in configs}},ensure_ascii=False,indent=2)+'\n')
+(root/f'planning/ai-os/evidence/{batch}-images.json').write_text(json.dumps({'date':'2026-10-05','photos':{c['job']:c['photos'] for c in configs}},ensure_ascii=False,indent=2)+'\n')

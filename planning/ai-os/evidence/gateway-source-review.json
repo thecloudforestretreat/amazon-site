@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-05",
+  "reviewed": true,
+  "sources": [
+    [
+      "GAD Puerto Misahuallí: geographical context (2011)",
+      "https://gadprpuertomisahualli.gob.ec/napo/?p=101"
+    ],
+    [
+      "Prefectura de Napo: Misahuallí central park",
+      "https://napo.travel/parque-central-de-misahualli/"
+    ],
+    [
+      "Gobernación de Napo: regional places",
+      "https://www.gobernacionnapo.gob.ec/new/lugares-turisticos-de-la-provincia/"
+    ]
+  ],
+  "claims": [
+    "Puerto Misahualli belongs to Tena canton, Napo, beside the Napo River",
+    "Provincial tourism documents capuchin monkeys in Misahualli central park"
+  ],
+  "limits": [
+    "Geographical page 2011 used only for stable location",
+    "No current transport timing, availabilities, sighting guarantees or property claims",
+    "Failed Napo.Travel Tena fetch excluded from evidence"
+  ],
+  "image_review": "All three actual scenes inspected; Tena river/town, Misahualli riverbank bridge, monkeys in built setting"
+}

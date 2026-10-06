@@ -22,11 +22,17 @@
     "inference_retries": 0,
     "cloud_worker_tokens": 0
   },
-  "checkpoint": "Deployed to protected staging; static QA passed; live visual review blocked; do not report full completion",
+  "checkpoint": "Deployed; initial technical and visual catch-up passed; full launch QA pending",
   "links": {
     "quito_en": "https://staging.experiencetheamazon.com/ecuador/amazon-tours-from-quito/?review=2893a4d3",
     "quito_es": "https://staging.experiencetheamazon.com/es/ecuador/tours-a-la-amazonia-desde-quito/?review=2893a4d3",
     "three_day_en": "https://staging.experiencetheamazon.com/ecuador/3-day-amazon-tour/?review=2893a4d3",
     "three_day_es": "https://staging.experiencetheamazon.com/es/ecuador/tour-de-3-dias-en-la-amazonia/?review=2893a4d3"
+  },
+  "visual_catchup": {
+    "deployment": "3efc8507",
+    "date": "2026-10-05",
+    "passed": true,
+    "evidence": "planning/ai-os/evidence/gateway-catchup-qa.json"
   }
 }

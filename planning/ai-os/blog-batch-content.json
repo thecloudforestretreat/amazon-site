@@ -33,12 +33,12 @@
       "cards": [
         [
           "Yasuní or Cuyabeno?",
-          "Start with our first comparison article. It sets the regional context beside practical questions about activities, guiding, comfort and access. Use it to understand what should be compared, then ask providers for the actual details of the proposals you are considering.",
+          "Compare regional setting, guiding, activities and access, then ask providers for the precise details of your proposed stay.",
           "blog/yasuni-vs-cuyabeno"
         ],
         [
           "How long should you stay?",
-          "Use the duration article to compare three, four and five days through nights, arrival and departure periods and full activities. Read the actual schedule against your priorities and onward plans, then continue to the individual duration guides.",
+          "Compare three, four and five days through arrival, departure and full activity periods. Read the actual schedule alongside your priorities.",
           "blog/how-many-days-do-you-need-in-the-ecuador-amazon"
         ],
         [
@@ -60,6 +60,16 @@
           "What is lodge life like?",
           "Picture arrival, guided outings, meals, quiet time and departure before choosing a stay.",
           "blog/what-is-it-like-to-stay-in-an-amazon-lodge"
+        ],
+        [
+          "Tena or Misahuallí?",
+          "Compare the exact base, activities and complete journey in this new article.",
+          "blog/tena-or-misahualli-which-is-better"
+        ],
+        [
+          "Still have a question?",
+          "Use the FAQ guide to clarify your next planning decision.",
+          "faqs"
         ]
       ],
       "faqs": [
@@ -122,12 +132,12 @@
       "cards": [
         [
           "¿Yasuní o Cuyabeno?",
-          "Empieza por la primera comparación. Relaciona contexto regional con actividades, guía, comodidad y acceso. Úsala para entender qué debes comparar y solicita después a los proveedores los detalles reales de las propuestas que estás considerando.",
+          "Compara entorno, acompañamiento, actividades y acceso; después pide los detalles concretos de la estancia propuesta.",
           "blog/yasuni-vs-cuyabeno"
         ],
         [
           "¿Cuánto tiempo quedarte?",
-          "Usa el artículo de duración para comparar tres, cuatro y cinco días mediante noches, llegada, salida y actividades completas. Lee el programa según tus prioridades y planes posteriores y continúa a las guías de cada duración.",
+          "Compara tres, cuatro y cinco días mediante llegada, salida y periodos completos de actividad. Relaciona el horario con tus prioridades.",
           "blog/cuantos-dias-necesitas-en-la-amazonia-del-ecuador"
         ],
         [
@@ -149,6 +159,16 @@
           "¿Cómo es la vida en un alojamiento?",
           "Imagina la llegada, excursiones, comidas, descanso y salida antes de elegir.",
           "blog/como-es-alojarse-en-un-lodge-amazonico"
+        ],
+        [
+          "¿Tena o Misahuallí?",
+          "Compara la base concreta, actividades y viaje completo en este artículo.",
+          "blog/tena-o-misahualli-cual-es-mejor"
+        ],
+        [
+          "¿Quedan preguntas?",
+          "Consulta la guía de preguntas para aclarar tu siguiente decisión.",
+          "preguntas-frecuentes"
         ]
       ],
       "faqs": [

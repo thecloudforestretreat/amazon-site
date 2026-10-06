@@ -1,7 +1,7 @@
 {
   "job": "three-day-format",
   "model": "qwen3.5:9b",
-  "status": "editorially_reviewed_deployed_visual_review_blocked",
+  "status": "editorial_reviewed_deployed_initial_visual_pass_full_qa_pending",
   "seconds": 70.79,
   "prompt_eval_count": 364,
   "eval_count": 1757,
@@ -15,7 +15,9 @@
   "reviewed_flags": [],
   "reviewed_sha256": "f004562325aeeafad62f88c362dd02ffff20a8fb0f67382ccae2a587b0433ad0",
   "deployment": "2893a4d3",
-  "visual_review": "Pending: browser admin-enforced policy could not be verified",
+  "visual_review": "EN/ES desktop/mobile catch-up passed October 5, 2026",
   "promotion": "Substantial supervisor rewrite; raw local draft never published",
-  "raw_draft_sha256": "66516e148b88cd7ccc5bbbe751eafaab91333edf1c7aa6278c151b25ede7adbc"
+  "raw_draft_sha256": "66516e148b88cd7ccc5bbbe751eafaab91333edf1c7aa6278c151b25ede7adbc",
+  "visual_review_deployment": "3efc8507",
+  "visual_evidence": "planning/ai-os/evidence/gateway-catchup-qa.json"
 }

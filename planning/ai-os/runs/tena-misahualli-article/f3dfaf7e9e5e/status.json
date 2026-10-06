@@ -1,0 +1,19 @@
+{
+  "job": "tena-misahualli-article",
+  "model": "qwen3.5:9b",
+  "status": "editorial_reviewed_deployed_initial_visual_pass_full_qa_pending",
+  "review_flags": [],
+  "seconds": 39.01,
+  "prompt_eval_count": 209,
+  "eval_count": 857,
+  "cloud_worker_tokens": 0,
+  "cache_hit": false,
+  "deployment": "3efc8507",
+  "raw_review_flags": [
+    "presumed_lights_out",
+    "literal_spanish_failure"
+  ],
+  "reviewed_flags": [],
+  "promotion": "Substantial supervisor rewrite; raw retained; bounded local questions only",
+  "reviewed_sha256": "af7a358a5d428628ce8a077db6b6ea4f301832f0a85fe9abcab002fc5e2e2df4"
+}

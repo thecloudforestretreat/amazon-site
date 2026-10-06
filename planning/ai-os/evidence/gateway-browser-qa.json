@@ -1,0 +1,120 @@
+{
+  "deployment": "3efc8507",
+  "date": "2026-10-05",
+  "status": "initial_desktop_mobile_visual_and_interaction_checks_pass",
+  "widths": [
+    1440,
+    390
+  ],
+  "measurements": [
+    {
+      "factYs": [
+        -2120,
+        -2120,
+        -2120,
+        -2120
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-monkey.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/blog/tena-or-misahualli-which-is-better/",
+      "width": 1440
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-monkey.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/ecuador/blog/tena-or-misahualli-which-is-better/",
+      "width": 390
+    },
+    {
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-monkey.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/blog/tena-o-misahualli-cual-es-mejor/",
+      "width": 390
+    },
+    {
+      "factYs": [
+        -2120,
+        -2120,
+        -2120,
+        -2120
+      ],
+      "headerTop": 0,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/tena-river-faessler.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-napo-bridge.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/ecuador/misahualli-monkey.jpg"
+        }
+      ],
+      "overflow": false,
+      "route": "/es/ecuador/blog/tena-o-misahualli-cual-es-mejor/",
+      "width": 1440
+    }
+  ],
+  "screenshots": [
+    "planning/ai-os/evidence/gateway-en-desktop.png",
+    "planning/ai-os/evidence/gateway-en-mobile.png",
+    "planning/ai-os/evidence/gateway-es-desktop.png",
+    "planning/ai-os/evidence/gateway-es-mobile.png"
+  ],
+  "checks": [
+    "EN/ES at desktop/mobile; images loaded; no overflow",
+    "Sticky header and aligned desktop fact labels",
+    "English hamburger Enter/Escape and Spanish FAQ Enter passed",
+    "Three distinct cleared scenes; none from preceding two batches",
+    "Protected staging 302 unauthenticated; authenticated browser readback"
+  ],
+  "limits": [
+    "Full accessibility and measured performance remain pending",
+    "Contact delivery endpoint absent"
+  ]
+}

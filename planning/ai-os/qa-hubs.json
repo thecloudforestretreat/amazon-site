@@ -2,28 +2,28 @@
   "ecuador": {
     "pair_id": "pair_003",
     "language": "en",
-    "main_words": 1868,
+    "main_words": 1887,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
       "/assets/images/ecuador/misahualli-boat.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "3f7e6f5ff82593370421d2f1ad80a2b8fcd9d741e22d964007b21fe0d90e2471",
+    "sha256": "a44762f3fa9055b73735fb596d998d5d8dfd8f41ebc380c971efaed9558f4b3e",
     "errors": [],
     "passed": true
   },
   "es/ecuador": {
     "pair_id": "pair_003",
     "language": "es",
-    "main_words": 1872,
+    "main_words": 1890,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/yasuni-oxbow-geoff-gallice.jpg",
       "/assets/images/ecuador/misahualli-boat.jpg",
       "/assets/images/ecuador/tena-forest-jay.jpg"
     ],
-    "sha256": "0e6dedefb5652551826a74564345c8455cc9d2821c42320830f77d3f40401070",
+    "sha256": "8a2fe4a420f3d9a67e95231066cf4228f216664f5d5b1b1b99079a73f56c9a00",
     "errors": [],
     "passed": true
   },
@@ -562,28 +562,28 @@
   "ecuador/blog": {
     "pair_id": "pair_030",
     "language": "en",
-    "main_words": 1344,
+    "main_words": 1341,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/napo-forest-grzywa.jpg",
       "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg",
       "/assets/images/ecuador/yasuni-manakin.jpg"
     ],
-    "sha256": "cc6d182fe816d7f3bc61d272c65be2de4901e43a0860fb1fdea9655b3765d858",
+    "sha256": "83cf420f92a8282f6b94a70a3a26bea221064ed4675550f86a6e138189360405",
     "errors": [],
     "passed": true
   },
   "es/ecuador/blog": {
     "pair_id": "pair_030",
     "language": "es",
-    "main_words": 1317,
+    "main_words": 1315,
     "faq_count": 6,
     "photos": [
       "/assets/images/ecuador/napo-forest-grzywa.jpg",
       "/assets/images/ecuador/cuyabeno-kapok-bellers.jpg",
       "/assets/images/ecuador/yasuni-manakin.jpg"
     ],
-    "sha256": "25e9ca193c23977f4c750a00486d1fe43eb12d67934c8494c74743a1bf0ce38d",
+    "sha256": "9930338639a3c9b499f2cfd0805534f8bd09c43cb7fa6168760c95b71be8393c",
     "errors": [],
     "passed": true
   },
@@ -724,6 +724,34 @@
       "/assets/images/ecuador/yasuni-river-turtle.jpg"
     ],
     "sha256": "29860b6f2b67b7142ea40e367901f205f9e3f97e6d5197e582453de09542dbf0",
+    "errors": [],
+    "passed": true
+  },
+  "ecuador/blog/tena-or-misahualli-which-is-better": {
+    "pair_id": "pair_036",
+    "language": "en",
+    "main_words": 1712,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/tena-river-faessler.jpg",
+      "/assets/images/ecuador/misahualli-napo-bridge.jpg",
+      "/assets/images/ecuador/misahualli-monkey.jpg"
+    ],
+    "sha256": "e1cbc54b85300588b15d9a52f1a967c3943b5cea5758baddef7604a72f23e5c3",
+    "errors": [],
+    "passed": true
+  },
+  "es/ecuador/blog/tena-o-misahualli-cual-es-mejor": {
+    "pair_id": "pair_036",
+    "language": "es",
+    "main_words": 1683,
+    "faq_count": 6,
+    "photos": [
+      "/assets/images/ecuador/tena-river-faessler.jpg",
+      "/assets/images/ecuador/misahualli-napo-bridge.jpg",
+      "/assets/images/ecuador/misahualli-monkey.jpg"
+    ],
+    "sha256": "034efe65b16f5f22666b7adb15e7792e7e0ca62b20b93f35aa05d42659ec3bda",
     "errors": [],
     "passed": true
   }

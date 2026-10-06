@@ -1,0 +1,46 @@
+{
+  "status": "deployed_initial_visual_and_technical_checks_pass_full_launch_qa_pending",
+  "deployment": "3efc8507",
+  "pairs": [
+    "pair_036"
+  ],
+  "visual_catchup_pairs": [
+    "pair_010",
+    "pair_011"
+  ],
+  "progress": "32/34 Ecuador pairs staged (94.1%); 22 initial visual pass, 10 earlier visual reviews pending; not launch completion",
+  "local_usage": {
+    "model": "qwen3.5:9b",
+    "calls": 1,
+    "prompt_tokens": 209,
+    "output_tokens": 857,
+    "total_tokens": 1066,
+    "seconds": 39.01,
+    "inference_retries": 0,
+    "cache_hits": 0,
+    "bounded_initial_draft_calls_local_percent": 100,
+    "overall_local_cloud_percent": "Unmeasured; substantial supervisor writing, source verification, design and QA excluded from local metrics"
+  },
+  "rollback": {
+    "deployment": "04e4580d",
+    "local_commit": "b31a2f7"
+  },
+  "verification": {
+    "compiled_pages": 74,
+    "audited_routes": 54,
+    "format_regression_tests": 12,
+    "protection": "302; authenticated readback passed"
+  },
+  "opportunities": [
+    "Continue remaining 10 earlier visual audits",
+    "Reviews need genuine customer material; contact needs functioning endpoint",
+    "Full launch accessibility and measured performance pending"
+  ],
+  "improvements": [
+    "Shared parameterized article builder and batch audit preserve separate evidence",
+    "Observed lights-out and literal Spanish briefing failures added to regression gate",
+    "Two previously blocked visual-review pairs now verified"
+  ],
+  "browser_evidence": "planning/ai-os/evidence/gateway-browser-qa.json",
+  "next": "Continue earlier visual reviews for four/five-day pairs; prepare reviews/contact only with real inputs"
+}
