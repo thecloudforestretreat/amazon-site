@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-07",
+  "environment": "protected staging",
+  "country": "peru",
+  "test_marker": "PERU STAGING QA",
+  "submission_status": "queued",
+  "visible_result": "Your request has been queued for our team. Thank you.",
+  "names_auto_capitalized": true,
+  "dates": [
+    "2026-11-15",
+    "2026-11-19"
+  ],
+  "guests": 2,
+  "privacy_acknowledgment_checked": true,
+  "turnstile": "Automatic widget verification succeeded; no challenge solved or bypassed",
+  "provider_log_review": "Brevo Amazon-subject filter reviewed and refreshed; no matching Peru event visible at time of review",
+  "inbox_delivery": "Not confirmed",
+  "evidence": "planning/ai-os/evidence/peru-inquiry-qa-success.png",
+  "browser_status": "Access restored using currently available in-app browser"
+}

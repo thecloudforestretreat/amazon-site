@@ -1,5 +1,5 @@
 {
-  "status": "technical_pass_release_blocked",
+  "status": "technical_pass_visual_and_inbox_confirmation_pending",
   "review_date": "2026-10-07",
   "deployment": "9f17b511",
   "content_pairs": 12,
@@ -9,9 +9,9 @@
   "faq_visible_schema_matches": 96,
   "max_click_depth_from_language_hub": 1,
   "contact_tests_passed": 17,
-  "live_contact_delivery_this_review": "Not tested; unit tests use mocked Turnstile and Brevo",
-  "visual_review": "Blocked: admin-enforced browser policy cannot be verified; no workaround attempted",
-  "protected_staging_readback": "Pending browser access; noindex build configuration retained",
+  "live_contact_delivery_this_review": "Real Peru submission accepted and queued; provider delivery and inbox receipt not yet confirmed",
+  "visual_review": "Browser access restored; country-wide desktop/mobile review pending",
+  "protected_staging_readback": "Contact page read successfully; full Peru page readback pending",
   "production_activation": "Not performed; current production build remains Ecuador only",
   "remaining_gates": [
     "Desktop/mobile visual review of deployed Peru pages",
