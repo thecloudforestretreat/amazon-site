@@ -47,12 +47,13 @@
   ],
   "qa": "Desktop 1440px and mobile 390px; all images loaded, no overflow, sticky header; keyboard mobile menu tested",
   "rollback": "9df47740-cdac-4ce5-a998-aae65c16fa8b",
-  "latest_staging_deployment": "641bb85c",
+  "latest_staging_deployment": "80454c1d",
   "protected_readback": "Authenticated custom-domain readback passed; unauthenticated request redirected to Cloudflare Access",
   "final_revision": "c2c998c",
   "remaining_gates": [
     "Remaining ten bilingual pairs",
     "Full country inlink audit after routes exist",
     "Country release QA and owner review"
-  ]
+  ],
+  "requirements_review": "planning/ai-os/bolivia-requirements-review.json"
 }

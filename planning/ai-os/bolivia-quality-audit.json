@@ -1,0 +1,115 @@
+{
+  "pages_audited": 4,
+  "errors": [],
+  "pages": [
+    {
+      "route": "/bolivia/",
+      "main_words": 1213,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/bolivia/plan-your-amazon-trip/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/bolivia/plan-your-amazon-trip/",
+        "/contact/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/bolivia.css?v=bb090c8e31a8"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/bolivia/plan-your-amazon-trip/",
+      "main_words": 1183,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/bolivia/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/bolivia/",
+        "/contact/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/bolivia.css?v=bb090c8e31a8"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/bolivia/",
+      "main_words": 1191,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/bolivia/planifica-tu-viaje-a-la-amazonia/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/contacto/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/bolivia.css?v=bb090c8e31a8"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+      "main_words": 1154,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/bolivia/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/bolivia/",
+        "/es/contacto/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/bolivia.css?v=bb090c8e31a8"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    }
+  ],
+  "limits": [
+    "Content counts do not prove editorial quality",
+    "Staging intentionally blocked from indexing; production eligibility requires country release",
+    "No live rankings, AI citations or field Core Web Vitals assessed"
+  ]
+}

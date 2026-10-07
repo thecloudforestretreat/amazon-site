@@ -1,0 +1,55 @@
+{
+  "review_date": "2026-10-07",
+  "status": "current_batch_meets_established_batch_gates",
+  "baseline": [
+    "planning/ai-os/peru-content-quality-review.json",
+    "scripts/qa-peru.py",
+    "planning/ai-os/peru-batch1-link-qa.json"
+  ],
+  "checks": {
+    "shared_css": "Same core.css and editorial.css; both country wrappers import amazon-guide.css",
+    "content": "Nine original topic sections plus direct-answer summary, landscape comparison cards and four FAQs; editorial review includes destination distinctions and practical decisions",
+    "images": "Three geographically reviewed, licensed and unique scenes per page",
+    "metadata": "Unique titles/descriptions; correct canonicals and reciprocal EN/ES hreflang; WebPage/BreadcrumbList/FAQPage; visible answers match schema",
+    "links": "Existing sibling links now included in relevant paragraphs; no broken routes or anchors",
+    "visual": "All four routes at 1440px and 390px: no overflow, loaded images, sticky header, equal desktop card heights; Spanish keyboard menu and FAQ tested",
+    "regression": "All 24 Peru pages pass unchanged technical gates"
+  },
+  "metrics": {
+    "bolivia_pages": 4,
+    "main_word_range": [
+      1154,
+      1213
+    ],
+    "bolivia_inlink_range": [
+      1,
+      1
+    ],
+    "peru_inlink_range": [
+      7,
+      12
+    ]
+  },
+  "fixes": [
+    "Spanish breadcrumb and navigation label artifacts",
+    "Contextual in-paragraph links",
+    "Landscape comparison cards",
+    "Shorter search titles/descriptions",
+    "QA guard for copied geography labels and schema mismatch"
+  ],
+  "remaining_country_release_gates": [
+    "Ten remaining bilingual pairs",
+    "Expanded contextual country inlink network; current one referring page per route matches Peru first-batch baseline, not complete country coverage",
+    "Full-country editorial/visual and production eligibility review"
+  ],
+  "limits": [
+    "Counts are coverage signals, not proof of quality",
+    "Technical SEO/AEO/geographic clarity checked; rankings, AI citations and field Core Web Vitals not measured",
+    "Staging intentionally protected and noindex; no production deployment performed"
+  ],
+  "deployment": "80454c1d",
+  "evidence": [
+    "planning/ai-os/bolivia-quality-audit.json",
+    "planning/ai-os/bolivia-requirements-visual-qa.json"
+  ]
+}

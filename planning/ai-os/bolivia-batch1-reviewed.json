@@ -32,8 +32,8 @@
       "en": {
         "slug": "",
         "h1": "Bolivian Amazon: forest, rivers & pampas",
-        "title": "Bolivian Amazon: forest, rivers & pampas | Experience The Amazon",
-        "description": "Two distinct landscapes, one personal choice. Explore how to choose between Madidi and the Yacuma pampas—or combine them at a pace that leaves room to enjoy both.",
+        "title": "Bolivian Amazon Travel | Madidi, Pampas & Trip Planning",
+        "description": "Compare Madidi rainforest and the Yacuma pampas. Plan your pace, accommodation and transfers for a thoughtful journey through the Bolivian Amazon.",
         "lede": "Two distinct landscapes, one personal choice. Explore how to choose between Madidi and the Yacuma pampas—or combine them at a pace that leaves room to enjoy both.",
         "type": "country-hub",
         "pair_id": "pair_038",
@@ -148,13 +148,37 @@
             "WCS Bolivia: Pampas del Yacuma",
             "https://bolivia.wcs.org/en-us/Landscapes/Madidi-Tambopata/Pampas-del-Yacuma.aspx"
           ]
+        ],
+        "choices_heading": "Compare the settings",
+        "choices": [
+          [
+            "Madidi forest",
+            "For a forest-focused stay with walking, river travel and patient observation. Confirm the specific area, overnight base and activities in the proposal.",
+            "#section-1"
+          ],
+          [
+            "Pampas del Yacuma",
+            "For a flooded-savanna setting that differs from the forest. Ask how the route and outings respond to conditions during your travel dates.",
+            "#section-2"
+          ],
+          [
+            "Forest and pampas",
+            "For experiencing both settings within one journey. Compare the changeover and usable exploration time in each before choosing a combined route.",
+            "#section-4"
+          ]
+        ],
+        "context_links": [
+          [
+            "Bolivia planning guide",
+            "/bolivia/plan-your-amazon-trip/"
+          ]
         ]
       },
       "es": {
         "slug": "",
         "h1": "Amazonía boliviana: selva, ríos y pampas",
-        "title": "Amazonía boliviana: selva, ríos y pampas | Experience The Amazon",
-        "description": "Dos paisajes distintos, una decisión personal. Descubre cómo elegir entre Madidi y las pampas del Yacuma, o combinar ambos con un ritmo que permita disfrutarlos.",
+        "title": "Amazonía boliviana | Madidi, pampas y planificación",
+        "description": "Compara la selva de Madidi y las pampas del Yacuma. Organiza el ritmo, el alojamiento y los traslados de tu viaje a la Amazonía boliviana.",
         "lede": "Dos paisajes distintos, una decisión personal. Descubre cómo elegir entre Madidi y las pampas del Yacuma, o combinar ambos con un ritmo que permita disfrutarlos.",
         "type": "country-hub",
         "pair_id": "pair_038",
@@ -258,16 +282,40 @@
         "scope": "Orientación revisada el 7 de octubre de 2026. Las fuentes respaldan la distinción regional entre selva y sabanas inundables. Confirma rutas, servicios e inclusiones actuales antes de reservar.",
         "sources": [
           [
-            "Rurrenabaque–Madidi–Pampas destination council",
+            "Consejo de Turismo Rurrenabaque–Madidi–Pampas",
             "https://rurrenabaquemadidipampas.com.bo/inicio"
           ],
           [
             "Identidad Madidi / Wildlife Conservation Society",
-            "https://madidiid.org/en/turismo/"
+            "https://madidiid.org/turismo/"
           ],
           [
             "WCS Bolivia: Pampas del Yacuma",
-            "https://bolivia.wcs.org/en-us/Landscapes/Madidi-Tambopata/Pampas-del-Yacuma.aspx"
+            "https://bolivia.wcs.org/es-es/Paisajes/Madidi-Tambopata/Pampas-del-Yacuma.aspx"
+          ]
+        ],
+        "choices_heading": "Compara los ambientes",
+        "choices": [
+          [
+            "Selva de Madidi",
+            "Para explorar el bosque con caminatas, recorridos fluviales y observación pausada. Confirma el área concreta, el alojamiento y las actividades de la propuesta.",
+            "#section-1"
+          ],
+          [
+            "Pampas del Yacuma",
+            "Para conocer un paisaje de sabanas inundables distinto de la selva. Consulta cómo se adaptan la ruta y las salidas a las condiciones de tus fechas.",
+            "#section-2"
+          ],
+          [
+            "Selva y pampas",
+            "Para comparar ambos ambientes en un mismo viaje. Revisa el traslado entre estancias y el tiempo aprovechable en cada una antes de elegir la combinación.",
+            "#section-4"
+          ]
+        ],
+        "context_links": [
+          [
+            "guía de planificación de Bolivia",
+            "/es/bolivia/planifica-tu-viaje-a-la-amazonia/"
           ]
         ]
       }
@@ -276,7 +324,7 @@
       "en": {
         "slug": "plan-your-amazon-trip",
         "h1": "Plan your Bolivian Amazon journey",
-        "title": "Plan your Bolivian Amazon journey | Experience The Amazon",
+        "title": "Bolivia Amazon Trip Planning | Forest & Pampas",
         "description": "Turn your interests into a clear route: compare forest and pampas, map the transfers and choose your overnight experience before booking.",
         "lede": "Turn your interests into a clear route: compare forest and pampas, map the transfers and choose your overnight experience before booking.",
         "type": "planning-guide",
@@ -392,12 +440,36 @@
             "WCS Bolivia: Pampas del Yacuma",
             "https://bolivia.wcs.org/en-us/Landscapes/Madidi-Tambopata/Pampas-del-Yacuma.aspx"
           ]
+        ],
+        "choices_heading": "Compare the settings",
+        "choices": [
+          [
+            "Madidi forest",
+            "For a forest-focused stay with walking, river travel and patient observation. Confirm the specific area, overnight base and activities in the proposal.",
+            "#section-1"
+          ],
+          [
+            "Pampas del Yacuma",
+            "For a flooded-savanna setting that differs from the forest. Ask how the route and outings respond to conditions during your travel dates.",
+            "#section-1"
+          ],
+          [
+            "Forest and pampas",
+            "For experiencing both settings within one journey. Compare the changeover and usable exploration time in each before choosing a combined route.",
+            "#section-1"
+          ]
+        ],
+        "context_links": [
+          [
+            "country overview",
+            "/bolivia/"
+          ]
         ]
       },
       "es": {
         "slug": "planifica-tu-viaje-a-la-amazonia",
         "h1": "Planifica tu viaje a la Amazonía boliviana",
-        "title": "Planifica tu viaje a la Amazonía boliviana | Experience The Amazon",
+        "title": "Planifica tu viaje a la Amazonía boliviana | Guía",
         "description": "Convierte tus intereses en una ruta clara: compara selva y pampas, organiza los traslados y elige el alojamiento antes de reservar.",
         "lede": "Convierte tus intereses en una ruta clara: compara selva y pampas, organiza los traslados y elige el alojamiento antes de reservar.",
         "type": "planning-guide",
@@ -502,16 +574,40 @@
         "scope": "Orientación revisada el 7 de octubre de 2026. Las fuentes respaldan la distinción regional entre selva y sabanas inundables. Confirma rutas, servicios e inclusiones actuales antes de reservar.",
         "sources": [
           [
-            "Rurrenabaque–Madidi–Pampas destination council",
+            "Consejo de Turismo Rurrenabaque–Madidi–Pampas",
             "https://rurrenabaquemadidipampas.com.bo/inicio"
           ],
           [
             "Identidad Madidi / Wildlife Conservation Society",
-            "https://madidiid.org/en/turismo/"
+            "https://madidiid.org/turismo/"
           ],
           [
             "WCS Bolivia: Pampas del Yacuma",
-            "https://bolivia.wcs.org/en-us/Landscapes/Madidi-Tambopata/Pampas-del-Yacuma.aspx"
+            "https://bolivia.wcs.org/es-es/Paisajes/Madidi-Tambopata/Pampas-del-Yacuma.aspx"
+          ]
+        ],
+        "choices_heading": "Compara los ambientes",
+        "choices": [
+          [
+            "Selva de Madidi",
+            "Para explorar el bosque con caminatas, recorridos fluviales y observación pausada. Confirma el área concreta, el alojamiento y las actividades de la propuesta.",
+            "#section-1"
+          ],
+          [
+            "Pampas del Yacuma",
+            "Para conocer un paisaje de sabanas inundables distinto de la selva. Consulta cómo se adaptan la ruta y las salidas a las condiciones de tus fechas.",
+            "#section-1"
+          ],
+          [
+            "Selva y pampas",
+            "Para comparar ambos ambientes en un mismo viaje. Revisa el traslado entre estancias y el tiempo aprovechable en cada una antes de elegir la combinación.",
+            "#section-1"
+          ]
+        ],
+        "context_links": [
+          [
+            "panorama general de Bolivia",
+            "/es/bolivia/"
           ]
         ]
       }

@@ -1,0 +1,138 @@
+[
+  {
+    "route": "/bolivia/",
+    "cardHeights": [
+      220,
+      220,
+      220
+    ],
+    "cardWidths": [
+      377.333984375,
+      377.333984375,
+      377.333984375
+    ],
+    "headerTop": 0,
+    "imagesLoaded": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "/es/bolivia/",
+    "cardHeights": [
+      220,
+      220,
+      220
+    ],
+    "cardWidths": [
+      377.333984375,
+      377.333984375,
+      377.333984375
+    ],
+    "headerTop": 0,
+    "imagesLoaded": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "/bolivia/plan-your-amazon-trip/",
+    "cardHeights": [
+      220,
+      220,
+      220
+    ],
+    "cardWidths": [
+      377.333984375,
+      377.333984375,
+      377.333984375
+    ],
+    "headerTop": 0,
+    "imagesLoaded": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+    "cardHeights": [
+      220,
+      220,
+      220
+    ],
+    "cardWidths": [
+      377.333984375,
+      377.333984375,
+      377.333984375
+    ],
+    "headerTop": 0,
+    "imagesLoaded": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "/bolivia/",
+    "cardHeights": [
+      184.74609375,
+      184.74609375,
+      184.74609375
+    ],
+    "cardWidths": [
+      365.99609375,
+      365.99609375,
+      365.99609375
+    ],
+    "headerTop": 0,
+    "imagesLoaded": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "route": "/es/bolivia/",
+    "cardHeights": [
+      184.74609375,
+      184.74609375,
+      184.74609375
+    ],
+    "cardWidths": [
+      365.99609375,
+      365.99609375,
+      365.99609375
+    ],
+    "headerTop": 0,
+    "imagesLoaded": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "route": "/bolivia/plan-your-amazon-trip/",
+    "cardHeights": [
+      184.74609375,
+      184.74609375,
+      184.74609375
+    ],
+    "cardWidths": [
+      365.99609375,
+      365.99609375,
+      365.99609375
+    ],
+    "headerTop": 0,
+    "imagesLoaded": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "route": "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+    "cardHeights": [
+      184.74609375,
+      184.74609375,
+      184.74609375
+    ],
+    "cardWidths": [
+      365.99609375,
+      365.99609375,
+      365.99609375
+    ],
+    "headerTop": 0,
+    "imagesLoaded": true,
+    "overflow": false,
+    "width": 390
+  }
+]
