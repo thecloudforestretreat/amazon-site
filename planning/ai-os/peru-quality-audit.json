@@ -1,0 +1,253 @@
+{
+  "pages_audited": 8,
+  "errors": [],
+  "pages": [
+    {
+      "route": "/es/peru/",
+      "main_words": 1701,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/es/peru/tambopata/",
+        "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+        "/es/peru/iquitos/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/peru/iquitos/",
+        "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+        "/es/peru/tambopata/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 4,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/peru/iquitos/",
+      "main_words": 1061,
+      "h2_sections": 9,
+      "main_content_inlinks": [
+        "/es/peru/",
+        "/es/peru/tambopata/",
+        "/es/peru/planifica-tu-viaje-a-la-amazonia/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/contacto/",
+        "/es/peru/",
+        "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+        "/es/peru/tambopata/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+      "main_words": 1434,
+      "h2_sections": 12,
+      "main_content_inlinks": [
+        "/es/peru/",
+        "/es/peru/tambopata/",
+        "/es/peru/iquitos/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/contacto/",
+        "/es/peru/",
+        "/es/peru/iquitos/",
+        "/es/peru/tambopata/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 4,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/peru/tambopata/",
+      "main_words": 960,
+      "h2_sections": 9,
+      "main_content_inlinks": [
+        "/es/peru/",
+        "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+        "/es/peru/iquitos/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/contacto/",
+        "/es/peru/",
+        "/es/peru/iquitos/",
+        "/es/peru/planifica-tu-viaje-a-la-amazonia/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 2,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/peru/",
+      "main_words": 1733,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/peru/tambopata/",
+        "/peru/plan-your-amazon-trip/",
+        "/peru/iquitos/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/peru/iquitos/",
+        "/peru/plan-your-amazon-trip/",
+        "/peru/tambopata/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 4,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/peru/iquitos/",
+      "main_words": 1142,
+      "h2_sections": 9,
+      "main_content_inlinks": [
+        "/peru/",
+        "/peru/tambopata/",
+        "/peru/plan-your-amazon-trip/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/contact/",
+        "/peru/",
+        "/peru/plan-your-amazon-trip/",
+        "/peru/tambopata/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/peru/plan-your-amazon-trip/",
+      "main_words": 1486,
+      "h2_sections": 12,
+      "main_content_inlinks": [
+        "/peru/",
+        "/peru/tambopata/",
+        "/peru/iquitos/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/contact/",
+        "/peru/",
+        "/peru/iquitos/",
+        "/peru/tambopata/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 4,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/peru/tambopata/",
+      "main_words": 1046,
+      "h2_sections": 9,
+      "main_content_inlinks": [
+        "/peru/",
+        "/peru/plan-your-amazon-trip/",
+        "/peru/iquitos/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/contact/",
+        "/peru/",
+        "/peru/iquitos/",
+        "/peru/plan-your-amazon-trip/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 2,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    }
+  ],
+  "limits": [
+    "Content counts do not prove editorial quality",
+    "Staging intentionally blocked from indexing; production eligibility requires country release",
+    "No live rankings, AI citations or field Core Web Vitals assessed"
+  ],
+  "deployment": "5eab01c1",
+  "deployment_url": "https://5eab01c1.amazon-site-staging.pages.dev",
+  "deployed_visual_readback": "Blocked: browser admin policy verification unavailable; no workaround attempted",
+  "review_status": "Technical audit passed; deployed desktop/mobile visual review pending"
+}
