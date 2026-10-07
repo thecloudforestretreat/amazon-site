@@ -1,5 +1,5 @@
 {
-  "status": "batch4_deployed_visual_review_pending",
+  "status": "batch5_deployed_visual_review_pending",
   "batch_size_pairs": 2,
   "target_pairs": 12,
   "launch_scope": [
@@ -17,8 +17,8 @@
     "Packing"
   ],
   "active_batch": [
-    "bolivia_combined_001",
-    "bolivia_accommodation_001"
+    "bolivia_timing_001",
+    "bolivia_wildlife_001"
   ],
   "production_release": "Not authorized until country complete and reviewed",
   "sitemap_boundary": "Original sitemap contained Bolivia hub pair_038 only; owner authorized new country work. This defines the initial 12-pair launch scope.",
@@ -44,23 +44,23 @@
       "https://bolivia.wcs.org/en-us/Landscapes/Madidi-Tambopata/Pampas-del-Yacuma.aspx"
     ]
   ],
-  "progress": "8/12 bilingual pairs built (66.7%); 6/12 fully visually reviewed; batch4 protected staging deployment complete, desktop/mobile browser QA pending",
+  "progress": "10/12 bilingual pairs built (83.3%); 6/12 fully visually reviewed; batches4\u20135 protected staging deployment complete, desktop/mobile browser QA pending",
   "next_batch": [
-    "Timing",
-    "Wildlife"
+    "Access",
+    "Packing"
   ],
-  "qa": "Technical QA passed: 116 compiled pages, 16 Bolivia pages zero audit errors; batch4 visual review blocked by browser admin policy availability",
-  "rollback": "00ef3682",
-  "latest_staging_deployment": "fabd654e",
-  "protected_readback": "Batch4 authenticated browser readback pending; browser admin-enforced policy could not be verified",
+  "qa": "120 compiled pages validated; 20 Bolivia pages zero audit errors, 1253\u20131349 main words, nine country referring pages each; batches4\u20135 visual QA pending browser policy recovery",
+  "rollback": "fabd654e",
+  "latest_staging_deployment": "88d8c842",
+  "protected_readback": "Unauthenticated Access 302 confirmed; authenticated readback blocked by unavailable admin-policy verification",
   "remaining_gates": [
-    "Batch4 authenticated desktop/mobile visual and interaction QA",
-    "Four remaining bilingual pairs",
+    "Batch4 and batch5 authenticated desktop/mobile visual and interaction QA",
+    "Access and packing bilingual pairs",
     "Full country editorial, contextual link and release QA",
     "Owner review before production"
   ],
   "requirements_review": "planning/ai-os/bolivia-requirements-review.json",
-  "current_reviewed_checkpoint": "planning/ai-os/bolivia-batch4-reviewed.json",
+  "current_reviewed_checkpoint": "planning/ai-os/bolivia-batch5-reviewed.json",
   "built_pairs": [
     "pair_038",
     "bolivia_planning_001",
@@ -69,6 +69,8 @@
     "bolivia_pampas_001",
     "bolivia_comparison_001",
     "bolivia_combined_001",
-    "bolivia_accommodation_001"
+    "bolivia_accommodation_001",
+    "bolivia_timing_001",
+    "bolivia_wildlife_001"
   ]
 }

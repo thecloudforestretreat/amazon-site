@@ -1,0 +1,38 @@
+{
+  "status": "deployed_visual_review_pending",
+  "deployment": "88d8c842",
+  "rollback": "fabd654e",
+  "date": "2026-10-07",
+  "pairs": [
+    "bolivia_timing_001",
+    "bolivia_wildlife_001"
+  ],
+  "checks": [
+    "120 compiled HTML pages validated",
+    "20 Bolivia pages: zero technical audit errors; nine country main-content referring pages per route",
+    "Shared global/editorial/amazon-guide CSS unchanged; no page-specific inline styling",
+    "Three distinct scenes per new page; attribution/license/source ledger retained",
+    "Reciprocal EN/ES pairing, canonical/title/description metadata and FAQ visible/schema parity validated",
+    "All internal routes and anchors audited"
+  ],
+  "visual_review": {
+    "status": "pending",
+    "reason": "Admin-enforced browser policy verification unavailable; no indirect workaround attempted",
+    "carryover": "Batch4 also remains pending",
+    "attempts_this_turn": 2
+  },
+  "sources": [
+    "https://rurrenabaquemadidipampas.com.bo/planificacion/clima",
+    "https://bolivia.wcs.org/en-us/Landscapes/Madidi-Tambopata/Pampas-del-Yacuma.aspx",
+    "https://madidiid.org/en/turismo/"
+  ],
+  "facts_review": "Regional warmer/cooler pattern and sures sourced to destination council; flood ecology and recorded species sourced to WCS; no forecast, sightings or fixed schedules promised",
+  "local_usage": "94 prompt + 99 output = 193 measured local tokens; zero retries, zero cached tokens; overall cloud/local percentage unavailable",
+  "workflow": "Retained explicit feature_sides layout contract and repeatable cumulative checkpoint; no unrelated workflow changes",
+  "production_release": false,
+  "protected_staging_check": {
+    "unauthenticated_http_status": 302,
+    "access_preserved": true,
+    "authenticated_visual_readback": "blocked_by_browser_policy_check"
+  }
+}

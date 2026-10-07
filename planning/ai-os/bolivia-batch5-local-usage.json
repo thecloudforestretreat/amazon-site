@@ -1,0 +1,21 @@
+{
+  "model": "qwen3.5:9b",
+  "created_at": "2026-10-07T20:59:17.821405Z",
+  "message": {
+    "role": "assistant",
+    "content": "{\n  \"timing\": \"Elige fechas alrededor del viaje que deseas. Compara las condiciones del bosque y la pampa, la flexibilidad del transporte y el tiempo útil de exploración en lugar de perseguir un mes perfecto garantizado.\",\n  \"wildlife\": \"Deja espacio para notar más. Explora los paisajes forestales y fluviales de Bolivia con guías pacientes, expectativas realistas y respeto por los animales en su hábitat.\"\n}"
+  },
+  "done": true,
+  "done_reason": "stop",
+  "total_duration": 10539530750,
+  "load_duration": 5582032000,
+  "prompt_eval_count": 94,
+  "prompt_eval_cached_count": 0,
+  "prompt_eval_duration": 260312000,
+  "eval_count": 99,
+  "eval_duration": 4687804000,
+  "seconds": 10.56,
+  "retries": 0,
+  "sandbox_network_retry": 0,
+  "review_result": "Supervisor reviewed both introductions; edited literal phrasing for natural Spanish and retained no added facts."
+}

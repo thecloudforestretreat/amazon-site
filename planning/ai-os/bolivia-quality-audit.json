@@ -1,14 +1,16 @@
 {
-  "pages_audited": 16,
+  "pages_audited": 20,
   "errors": [],
   "pages": [
     {
       "route": "/bolivia/",
-      "main_words": 1278,
+      "main_words": 1304,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/forest-or-pampas/",
+        "/bolivia/best-time-to-visit/",
         "/bolivia/plan-your-amazon-trip/",
+        "/bolivia/wildlife/",
         "/bolivia/rurrenabaque/",
         "/bolivia/amazon-accommodation/",
         "/bolivia/pampas-del-yacuma/",
@@ -18,12 +20,14 @@
       "main_content_outlinks": [
         "/",
         "/bolivia/amazon-accommodation/",
+        "/bolivia/best-time-to-visit/",
         "/bolivia/forest-and-pampas-tours/",
         "/bolivia/forest-or-pampas/",
         "/bolivia/madidi/",
         "/bolivia/pampas-del-yacuma/",
         "/bolivia/plan-your-amazon-trip/",
         "/bolivia/rurrenabaque/",
+        "/bolivia/wildlife/",
         "/contact/"
       ],
       "css": [
@@ -42,12 +46,14 @@
     },
     {
       "route": "/bolivia/amazon-accommodation/",
-      "main_words": 1289,
+      "main_words": 1315,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/",
         "/bolivia/forest-or-pampas/",
+        "/bolivia/best-time-to-visit/",
         "/bolivia/plan-your-amazon-trip/",
+        "/bolivia/wildlife/",
         "/bolivia/rurrenabaque/",
         "/bolivia/pampas-del-yacuma/",
         "/bolivia/forest-and-pampas-tours/",
@@ -56,12 +62,56 @@
       "main_content_outlinks": [
         "/",
         "/bolivia/",
+        "/bolivia/best-time-to-visit/",
         "/bolivia/forest-and-pampas-tours/",
         "/bolivia/forest-or-pampas/",
         "/bolivia/madidi/",
         "/bolivia/pampas-del-yacuma/",
         "/bolivia/plan-your-amazon-trip/",
         "/bolivia/rurrenabaque/",
+        "/bolivia/wildlife/",
+        "/contact/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/bolivia.css?v=bb090c8e31a8"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/bolivia/best-time-to-visit/",
+      "main_words": 1315,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/bolivia/",
+        "/bolivia/forest-or-pampas/",
+        "/bolivia/plan-your-amazon-trip/",
+        "/bolivia/wildlife/",
+        "/bolivia/rurrenabaque/",
+        "/bolivia/amazon-accommodation/",
+        "/bolivia/pampas-del-yacuma/",
+        "/bolivia/forest-and-pampas-tours/",
+        "/bolivia/madidi/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/bolivia/",
+        "/bolivia/amazon-accommodation/",
+        "/bolivia/forest-and-pampas-tours/",
+        "/bolivia/forest-or-pampas/",
+        "/bolivia/madidi/",
+        "/bolivia/pampas-del-yacuma/",
+        "/bolivia/plan-your-amazon-trip/",
+        "/bolivia/rurrenabaque/",
+        "/bolivia/wildlife/",
         "/contact/"
       ],
       "css": [
@@ -80,12 +130,14 @@
     },
     {
       "route": "/bolivia/forest-and-pampas-tours/",
-      "main_words": 1281,
+      "main_words": 1307,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/",
         "/bolivia/forest-or-pampas/",
+        "/bolivia/best-time-to-visit/",
         "/bolivia/plan-your-amazon-trip/",
+        "/bolivia/wildlife/",
         "/bolivia/rurrenabaque/",
         "/bolivia/amazon-accommodation/",
         "/bolivia/pampas-del-yacuma/",
@@ -95,11 +147,13 @@
         "/",
         "/bolivia/",
         "/bolivia/amazon-accommodation/",
+        "/bolivia/best-time-to-visit/",
         "/bolivia/forest-or-pampas/",
         "/bolivia/madidi/",
         "/bolivia/pampas-del-yacuma/",
         "/bolivia/plan-your-amazon-trip/",
         "/bolivia/rurrenabaque/",
+        "/bolivia/wildlife/",
         "/contact/"
       ],
       "css": [
@@ -118,11 +172,13 @@
     },
     {
       "route": "/bolivia/forest-or-pampas/",
-      "main_words": 1284,
+      "main_words": 1310,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/",
+        "/bolivia/best-time-to-visit/",
         "/bolivia/plan-your-amazon-trip/",
+        "/bolivia/wildlife/",
         "/bolivia/rurrenabaque/",
         "/bolivia/amazon-accommodation/",
         "/bolivia/pampas-del-yacuma/",
@@ -133,11 +189,13 @@
         "/",
         "/bolivia/",
         "/bolivia/amazon-accommodation/",
+        "/bolivia/best-time-to-visit/",
         "/bolivia/forest-and-pampas-tours/",
         "/bolivia/madidi/",
         "/bolivia/pampas-del-yacuma/",
         "/bolivia/plan-your-amazon-trip/",
         "/bolivia/rurrenabaque/",
+        "/bolivia/wildlife/",
         "/contact/"
       ],
       "css": [
@@ -156,12 +214,14 @@
     },
     {
       "route": "/bolivia/madidi/",
-      "main_words": 1293,
+      "main_words": 1319,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/",
         "/bolivia/forest-or-pampas/",
+        "/bolivia/best-time-to-visit/",
         "/bolivia/plan-your-amazon-trip/",
+        "/bolivia/wildlife/",
         "/bolivia/rurrenabaque/",
         "/bolivia/amazon-accommodation/",
         "/bolivia/pampas-del-yacuma/",
@@ -171,11 +231,13 @@
         "/",
         "/bolivia/",
         "/bolivia/amazon-accommodation/",
+        "/bolivia/best-time-to-visit/",
         "/bolivia/forest-and-pampas-tours/",
         "/bolivia/forest-or-pampas/",
         "/bolivia/pampas-del-yacuma/",
         "/bolivia/plan-your-amazon-trip/",
         "/bolivia/rurrenabaque/",
+        "/bolivia/wildlife/",
         "/contact/"
       ],
       "css": [
@@ -194,12 +256,14 @@
     },
     {
       "route": "/bolivia/pampas-del-yacuma/",
-      "main_words": 1285,
+      "main_words": 1311,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/",
         "/bolivia/forest-or-pampas/",
+        "/bolivia/best-time-to-visit/",
         "/bolivia/plan-your-amazon-trip/",
+        "/bolivia/wildlife/",
         "/bolivia/rurrenabaque/",
         "/bolivia/amazon-accommodation/",
         "/bolivia/forest-and-pampas-tours/",
@@ -209,11 +273,13 @@
         "/",
         "/bolivia/",
         "/bolivia/amazon-accommodation/",
+        "/bolivia/best-time-to-visit/",
         "/bolivia/forest-and-pampas-tours/",
         "/bolivia/forest-or-pampas/",
         "/bolivia/madidi/",
         "/bolivia/plan-your-amazon-trip/",
         "/bolivia/rurrenabaque/",
+        "/bolivia/wildlife/",
         "/contact/"
       ],
       "css": [
@@ -232,11 +298,13 @@
     },
     {
       "route": "/bolivia/plan-your-amazon-trip/",
-      "main_words": 1264,
+      "main_words": 1290,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/",
         "/bolivia/forest-or-pampas/",
+        "/bolivia/best-time-to-visit/",
+        "/bolivia/wildlife/",
         "/bolivia/rurrenabaque/",
         "/bolivia/amazon-accommodation/",
         "/bolivia/pampas-del-yacuma/",
@@ -247,11 +315,13 @@
         "/",
         "/bolivia/",
         "/bolivia/amazon-accommodation/",
+        "/bolivia/best-time-to-visit/",
         "/bolivia/forest-and-pampas-tours/",
         "/bolivia/forest-or-pampas/",
         "/bolivia/madidi/",
         "/bolivia/pampas-del-yacuma/",
         "/bolivia/rurrenabaque/",
+        "/bolivia/wildlife/",
         "/contact/"
       ],
       "css": [
@@ -270,12 +340,14 @@
     },
     {
       "route": "/bolivia/rurrenabaque/",
-      "main_words": 1299,
+      "main_words": 1325,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/",
         "/bolivia/forest-or-pampas/",
+        "/bolivia/best-time-to-visit/",
         "/bolivia/plan-your-amazon-trip/",
+        "/bolivia/wildlife/",
         "/bolivia/amazon-accommodation/",
         "/bolivia/pampas-del-yacuma/",
         "/bolivia/forest-and-pampas-tours/",
@@ -285,11 +357,55 @@
         "/",
         "/bolivia/",
         "/bolivia/amazon-accommodation/",
+        "/bolivia/best-time-to-visit/",
         "/bolivia/forest-and-pampas-tours/",
         "/bolivia/forest-or-pampas/",
         "/bolivia/madidi/",
         "/bolivia/pampas-del-yacuma/",
         "/bolivia/plan-your-amazon-trip/",
+        "/bolivia/wildlife/",
+        "/contact/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/bolivia.css?v=bb090c8e31a8"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/bolivia/wildlife/",
+      "main_words": 1321,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/bolivia/",
+        "/bolivia/forest-or-pampas/",
+        "/bolivia/best-time-to-visit/",
+        "/bolivia/plan-your-amazon-trip/",
+        "/bolivia/rurrenabaque/",
+        "/bolivia/amazon-accommodation/",
+        "/bolivia/pampas-del-yacuma/",
+        "/bolivia/forest-and-pampas-tours/",
+        "/bolivia/madidi/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/bolivia/",
+        "/bolivia/amazon-accommodation/",
+        "/bolivia/best-time-to-visit/",
+        "/bolivia/forest-and-pampas-tours/",
+        "/bolivia/forest-or-pampas/",
+        "/bolivia/madidi/",
+        "/bolivia/pampas-del-yacuma/",
+        "/bolivia/plan-your-amazon-trip/",
+        "/bolivia/rurrenabaque/",
         "/contact/"
       ],
       "css": [
@@ -308,12 +424,14 @@
     },
     {
       "route": "/es/bolivia/",
-      "main_words": 1261,
+      "main_words": 1289,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/selva-o-pampas/",
         "/es/bolivia/alojamientos-amazonicos/",
+        "/es/bolivia/fauna/",
         "/es/bolivia/tours-de-selva-y-pampas/",
+        "/es/bolivia/mejor-epoca-para-visitar/",
         "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
         "/es/bolivia/rurrenabaque/",
         "/es/bolivia/pampas-del-yacuma/",
@@ -322,7 +440,9 @@
       "main_content_outlinks": [
         "/es/",
         "/es/bolivia/alojamientos-amazonicos/",
+        "/es/bolivia/fauna/",
         "/es/bolivia/madidi/",
+        "/es/bolivia/mejor-epoca-para-visitar/",
         "/es/bolivia/pampas-del-yacuma/",
         "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
         "/es/bolivia/rurrenabaque/",
@@ -346,12 +466,14 @@
     },
     {
       "route": "/es/bolivia/alojamientos-amazonicos/",
-      "main_words": 1228,
+      "main_words": 1256,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/",
         "/es/bolivia/selva-o-pampas/",
+        "/es/bolivia/fauna/",
         "/es/bolivia/tours-de-selva-y-pampas/",
+        "/es/bolivia/mejor-epoca-para-visitar/",
         "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
         "/es/bolivia/rurrenabaque/",
         "/es/bolivia/pampas-del-yacuma/",
@@ -360,7 +482,51 @@
       "main_content_outlinks": [
         "/es/",
         "/es/bolivia/",
+        "/es/bolivia/fauna/",
         "/es/bolivia/madidi/",
+        "/es/bolivia/mejor-epoca-para-visitar/",
+        "/es/bolivia/pampas-del-yacuma/",
+        "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/bolivia/rurrenabaque/",
+        "/es/bolivia/selva-o-pampas/",
+        "/es/bolivia/tours-de-selva-y-pampas/",
+        "/es/contacto/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/bolivia.css?v=bb090c8e31a8"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/bolivia/fauna/",
+      "main_words": 1269,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/bolivia/",
+        "/es/bolivia/selva-o-pampas/",
+        "/es/bolivia/alojamientos-amazonicos/",
+        "/es/bolivia/tours-de-selva-y-pampas/",
+        "/es/bolivia/mejor-epoca-para-visitar/",
+        "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/bolivia/rurrenabaque/",
+        "/es/bolivia/pampas-del-yacuma/",
+        "/es/bolivia/madidi/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/bolivia/",
+        "/es/bolivia/alojamientos-amazonicos/",
+        "/es/bolivia/madidi/",
+        "/es/bolivia/mejor-epoca-para-visitar/",
         "/es/bolivia/pampas-del-yacuma/",
         "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
         "/es/bolivia/rurrenabaque/",
@@ -384,13 +550,15 @@
     },
     {
       "route": "/es/bolivia/madidi/",
-      "main_words": 1264,
+      "main_words": 1292,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/",
         "/es/bolivia/selva-o-pampas/",
         "/es/bolivia/alojamientos-amazonicos/",
+        "/es/bolivia/fauna/",
         "/es/bolivia/tours-de-selva-y-pampas/",
+        "/es/bolivia/mejor-epoca-para-visitar/",
         "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
         "/es/bolivia/rurrenabaque/",
         "/es/bolivia/pampas-del-yacuma/"
@@ -399,6 +567,50 @@
         "/es/",
         "/es/bolivia/",
         "/es/bolivia/alojamientos-amazonicos/",
+        "/es/bolivia/fauna/",
+        "/es/bolivia/mejor-epoca-para-visitar/",
+        "/es/bolivia/pampas-del-yacuma/",
+        "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/bolivia/rurrenabaque/",
+        "/es/bolivia/selva-o-pampas/",
+        "/es/bolivia/tours-de-selva-y-pampas/",
+        "/es/contacto/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/bolivia.css?v=bb090c8e31a8"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/bolivia/mejor-epoca-para-visitar/",
+      "main_words": 1253,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/bolivia/",
+        "/es/bolivia/selva-o-pampas/",
+        "/es/bolivia/alojamientos-amazonicos/",
+        "/es/bolivia/fauna/",
+        "/es/bolivia/tours-de-selva-y-pampas/",
+        "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/bolivia/rurrenabaque/",
+        "/es/bolivia/pampas-del-yacuma/",
+        "/es/bolivia/madidi/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/bolivia/",
+        "/es/bolivia/alojamientos-amazonicos/",
+        "/es/bolivia/fauna/",
+        "/es/bolivia/madidi/",
         "/es/bolivia/pampas-del-yacuma/",
         "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
         "/es/bolivia/rurrenabaque/",
@@ -422,13 +634,15 @@
     },
     {
       "route": "/es/bolivia/pampas-del-yacuma/",
-      "main_words": 1321,
+      "main_words": 1349,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/",
         "/es/bolivia/selva-o-pampas/",
         "/es/bolivia/alojamientos-amazonicos/",
+        "/es/bolivia/fauna/",
         "/es/bolivia/tours-de-selva-y-pampas/",
+        "/es/bolivia/mejor-epoca-para-visitar/",
         "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
         "/es/bolivia/rurrenabaque/",
         "/es/bolivia/madidi/"
@@ -437,7 +651,9 @@
         "/es/",
         "/es/bolivia/",
         "/es/bolivia/alojamientos-amazonicos/",
+        "/es/bolivia/fauna/",
         "/es/bolivia/madidi/",
+        "/es/bolivia/mejor-epoca-para-visitar/",
         "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
         "/es/bolivia/rurrenabaque/",
         "/es/bolivia/selva-o-pampas/",
@@ -460,13 +676,15 @@
     },
     {
       "route": "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
-      "main_words": 1243,
+      "main_words": 1271,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/",
         "/es/bolivia/selva-o-pampas/",
         "/es/bolivia/alojamientos-amazonicos/",
+        "/es/bolivia/fauna/",
         "/es/bolivia/tours-de-selva-y-pampas/",
+        "/es/bolivia/mejor-epoca-para-visitar/",
         "/es/bolivia/rurrenabaque/",
         "/es/bolivia/pampas-del-yacuma/",
         "/es/bolivia/madidi/"
@@ -475,7 +693,9 @@
         "/es/",
         "/es/bolivia/",
         "/es/bolivia/alojamientos-amazonicos/",
+        "/es/bolivia/fauna/",
         "/es/bolivia/madidi/",
+        "/es/bolivia/mejor-epoca-para-visitar/",
         "/es/bolivia/pampas-del-yacuma/",
         "/es/bolivia/rurrenabaque/",
         "/es/bolivia/selva-o-pampas/",
@@ -498,13 +718,15 @@
     },
     {
       "route": "/es/bolivia/rurrenabaque/",
-      "main_words": 1282,
+      "main_words": 1310,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/",
         "/es/bolivia/selva-o-pampas/",
         "/es/bolivia/alojamientos-amazonicos/",
+        "/es/bolivia/fauna/",
         "/es/bolivia/tours-de-selva-y-pampas/",
+        "/es/bolivia/mejor-epoca-para-visitar/",
         "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
         "/es/bolivia/pampas-del-yacuma/",
         "/es/bolivia/madidi/"
@@ -513,7 +735,9 @@
         "/es/",
         "/es/bolivia/",
         "/es/bolivia/alojamientos-amazonicos/",
+        "/es/bolivia/fauna/",
         "/es/bolivia/madidi/",
+        "/es/bolivia/mejor-epoca-para-visitar/",
         "/es/bolivia/pampas-del-yacuma/",
         "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
         "/es/bolivia/selva-o-pampas/",
@@ -536,12 +760,14 @@
     },
     {
       "route": "/es/bolivia/selva-o-pampas/",
-      "main_words": 1308,
+      "main_words": 1336,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/",
         "/es/bolivia/alojamientos-amazonicos/",
+        "/es/bolivia/fauna/",
         "/es/bolivia/tours-de-selva-y-pampas/",
+        "/es/bolivia/mejor-epoca-para-visitar/",
         "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
         "/es/bolivia/rurrenabaque/",
         "/es/bolivia/pampas-del-yacuma/",
@@ -551,7 +777,9 @@
         "/es/",
         "/es/bolivia/",
         "/es/bolivia/alojamientos-amazonicos/",
+        "/es/bolivia/fauna/",
         "/es/bolivia/madidi/",
+        "/es/bolivia/mejor-epoca-para-visitar/",
         "/es/bolivia/pampas-del-yacuma/",
         "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
         "/es/bolivia/rurrenabaque/",
@@ -574,12 +802,14 @@
     },
     {
       "route": "/es/bolivia/tours-de-selva-y-pampas/",
-      "main_words": 1246,
+      "main_words": 1274,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/",
         "/es/bolivia/selva-o-pampas/",
         "/es/bolivia/alojamientos-amazonicos/",
+        "/es/bolivia/fauna/",
+        "/es/bolivia/mejor-epoca-para-visitar/",
         "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
         "/es/bolivia/rurrenabaque/",
         "/es/bolivia/pampas-del-yacuma/",
@@ -589,7 +819,9 @@
         "/es/",
         "/es/bolivia/",
         "/es/bolivia/alojamientos-amazonicos/",
+        "/es/bolivia/fauna/",
         "/es/bolivia/madidi/",
+        "/es/bolivia/mejor-epoca-para-visitar/",
         "/es/bolivia/pampas-del-yacuma/",
         "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
         "/es/bolivia/rurrenabaque/",
