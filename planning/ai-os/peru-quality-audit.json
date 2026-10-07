@@ -247,7 +247,7 @@
     "No live rankings, AI citations or field Core Web Vitals assessed"
   ],
   "deployment": "5eab01c1",
-  "deployment_url": "https://5eab01c1.amazon-site-staging.pages.dev",
-  "deployed_visual_readback": "Blocked: browser admin policy verification unavailable; no workaround attempted",
-  "review_status": "Technical audit passed; deployed desktop/mobile visual review pending"
+  "review_status": "Technical audit passed; deployed desktop/mobile visual review pending",
+  "visual_retry": "2026-10-07: browser admin policy verification unavailable; no workaround attempted",
+  "answer_schema_check": "All 32 FAQ questions and answers match visible content; EN/ES/x-default hreflang present on all eight pages"
 }
