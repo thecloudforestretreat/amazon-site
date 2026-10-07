@@ -450,5 +450,18 @@
       "pacaya-samiria-forest-canopy",
       "amazon-turtle-butterflies-wide"
     ]
+  },
+  "deployment": "9df47740",
+  "verification": {
+    "compiled_pages": 102,
+    "peru_pages": 24,
+    "technical_errors": [],
+    "visual_spot_checks": [
+      "English Peru hub desktop",
+      "Spanish wildlife mobile"
+    ],
+    "custom_domain_readback": "New optimized hero loaded; no horizontal overflow in spot checks",
+    "access": "Unauthenticated custom domain redirects to Access (302)",
+    "full_country_visual_qa": "Pending launch review"
   }
 }
