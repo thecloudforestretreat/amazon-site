@@ -1,17 +1,51 @@
 {
-  "pages_audited": 4,
+  "pages_audited": 8,
   "errors": [],
   "pages": [
     {
       "route": "/bolivia/",
-      "main_words": 1213,
+      "main_words": 1222,
       "h2_sections": 14,
       "main_content_inlinks": [
-        "/bolivia/plan-your-amazon-trip/"
+        "/bolivia/plan-your-amazon-trip/",
+        "/bolivia/rurrenabaque/",
+        "/bolivia/madidi/"
       ],
       "main_content_outlinks": [
         "/",
+        "/bolivia/madidi/",
         "/bolivia/plan-your-amazon-trip/",
+        "/bolivia/rurrenabaque/",
+        "/contact/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/bolivia.css?v=bb090c8e31a8"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/bolivia/madidi/",
+      "main_words": 1237,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/bolivia/",
+        "/bolivia/plan-your-amazon-trip/",
+        "/bolivia/rurrenabaque/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/bolivia/",
+        "/bolivia/plan-your-amazon-trip/",
+        "/bolivia/rurrenabaque/",
         "/contact/"
       ],
       "css": [
@@ -30,14 +64,48 @@
     },
     {
       "route": "/bolivia/plan-your-amazon-trip/",
-      "main_words": 1183,
+      "main_words": 1208,
       "h2_sections": 14,
       "main_content_inlinks": [
-        "/bolivia/"
+        "/bolivia/",
+        "/bolivia/rurrenabaque/",
+        "/bolivia/madidi/"
       ],
       "main_content_outlinks": [
         "/",
         "/bolivia/",
+        "/bolivia/madidi/",
+        "/bolivia/rurrenabaque/",
+        "/contact/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/bolivia.css?v=bb090c8e31a8"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/bolivia/rurrenabaque/",
+      "main_words": 1243,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/bolivia/",
+        "/bolivia/plan-your-amazon-trip/",
+        "/bolivia/madidi/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/bolivia/",
+        "/bolivia/madidi/",
+        "/bolivia/plan-your-amazon-trip/",
         "/contact/"
       ],
       "css": [
@@ -56,14 +124,48 @@
     },
     {
       "route": "/es/bolivia/",
-      "main_words": 1191,
+      "main_words": 1200,
       "h2_sections": 14,
       "main_content_inlinks": [
-        "/es/bolivia/planifica-tu-viaje-a-la-amazonia/"
+        "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/bolivia/rurrenabaque/",
+        "/es/bolivia/madidi/"
       ],
       "main_content_outlinks": [
         "/es/",
+        "/es/bolivia/madidi/",
         "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/bolivia/rurrenabaque/",
+        "/es/contacto/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/bolivia.css?v=bb090c8e31a8"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/bolivia/madidi/",
+      "main_words": 1203,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/bolivia/",
+        "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/bolivia/rurrenabaque/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/bolivia/",
+        "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/bolivia/rurrenabaque/",
         "/es/contacto/"
       ],
       "css": [
@@ -82,14 +184,48 @@
     },
     {
       "route": "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
-      "main_words": 1154,
+      "main_words": 1182,
       "h2_sections": 14,
       "main_content_inlinks": [
-        "/es/bolivia/"
+        "/es/bolivia/",
+        "/es/bolivia/rurrenabaque/",
+        "/es/bolivia/madidi/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/bolivia/",
+        "/es/bolivia/madidi/",
+        "/es/bolivia/rurrenabaque/",
+        "/es/contacto/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/bolivia.css?v=bb090c8e31a8"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/bolivia/rurrenabaque/",
+      "main_words": 1221,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/bolivia/",
+        "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/bolivia/madidi/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/bolivia/",
+        "/es/bolivia/madidi/",
+        "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
         "/es/contacto/"
       ],
       "css": [

@@ -1,0 +1,44 @@
+{
+  "status": "passed_protected_staging",
+  "deployment": "4262422e",
+  "rollback": "80454c1d",
+  "new_pairs": [
+    "bolivia_rurrenabaque_001",
+    "bolivia_madidi_001"
+  ],
+  "new_routes": [
+    "/bolivia/rurrenabaque/",
+    "/es/bolivia/rurrenabaque/",
+    "/bolivia/madidi/",
+    "/es/bolivia/madidi/"
+  ],
+  "technical_audit": "planning/ai-os/bolivia-quality-audit.json",
+  "visual_audit": "planning/ai-os/bolivia-batch2-visual-qa.json",
+  "facts_review": "Municipal tourism portal, destination council and Identidad Madidi; no transport timetable, price or wildlife guarantee invented",
+  "image_review": "Two new geographically verified licensed scenes; three distinct images per page; authors, licenses and change records retained",
+  "interaction_review": [
+    "EN\u2192ES paired route navigation",
+    "Madidi\u2192Rurrenabaque sibling navigation",
+    "EN/ES keyboard mobile hamburger open/close",
+    "Spanish FAQ keyboard expansion"
+  ],
+  "workflow_improvement": {
+    "observed_failure": "Initial desktop full-page captures were taken before a lazy-loaded photo had painted; one subsequent distant-section capture also missed a lazy-loaded photo",
+    "change": "Visit each feature heading to bring its image into the viewport, observe state, verify complete and naturalWidth, then capture; re-take initial affected captures",
+    "initial_observations_retained": [
+      "Desktop Rurrenabaque EN/ES sunset image initially loaded=false",
+      "Desktop Madidi EN full-page image blank despite loaded flag; corrected by visiting its feature section"
+    ],
+    "rollback_evidence": "No CSS or production change was needed; previous staging deployment retained"
+  },
+  "local_worker_usage": {
+    "model": "qwen3.5:9b",
+    "task": "Two bounded Spanish introductions",
+    "prompt_tokens": 131,
+    "output_tokens": 104,
+    "retries": 0,
+    "review": "Both drafts edited; geographic naming and natural Spanish corrected",
+    "cloud_usage": "Not metered in comparable units; no overall local/cloud percentage claimed"
+  },
+  "launch_status": "Staging content progress only; Bolivia not launched"
+}

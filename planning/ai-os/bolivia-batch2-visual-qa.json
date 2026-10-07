@@ -1,0 +1,202 @@
+[
+  {
+    "route": "/bolivia/rurrenabaque/",
+    "cardHeights": [
+      163.90625,
+      163.90625,
+      163.90625
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/rurrenabaque-panorama.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/hero.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi-sunset.jpg"
+      }
+    ],
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "/es/bolivia/rurrenabaque/",
+    "cardHeights": [
+      163.90625,
+      163.90625,
+      163.90625
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/rurrenabaque-panorama.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/hero.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi-sunset.jpg"
+      }
+    ],
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "/bolivia/madidi/",
+    "cardHeights": [
+      191.953125,
+      191.953125,
+      191.953125
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi-sunset.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/rurrenabaque-panorama.jpg"
+      }
+    ],
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "/es/bolivia/madidi/",
+    "cardHeights": [
+      191.953125,
+      191.953125,
+      191.953125
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi-sunset.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/rurrenabaque-panorama.jpg"
+      }
+    ],
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "/bolivia/rurrenabaque/",
+    "cardHeights": [
+      128.65234375,
+      128.65234375,
+      128.65234375
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/rurrenabaque-panorama.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/hero.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi-sunset.jpg"
+      }
+    ],
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "route": "/es/bolivia/rurrenabaque/",
+    "cardHeights": [
+      128.65234375,
+      128.65234375,
+      128.65234375
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/rurrenabaque-panorama.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/hero.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi-sunset.jpg"
+      }
+    ],
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "route": "/bolivia/madidi/",
+    "cardHeights": [
+      128.65234375,
+      156.69921875,
+      128.65234375
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi-sunset.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/rurrenabaque-panorama.jpg"
+      }
+    ],
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "route": "/es/bolivia/madidi/",
+    "cardHeights": [
+      156.69921875,
+      128.65234375,
+      156.69921875
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi-sunset.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/rurrenabaque-panorama.jpg"
+      }
+    ],
+    "overflow": false,
+    "width": 390
+  }
+]

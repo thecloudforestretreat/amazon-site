@@ -1,0 +1,20 @@
+{
+  "model": "qwen3.5:9b",
+  "created_at": "2026-10-07T20:05:14.732785Z",
+  "message": {
+    "role": "assistant",
+    "content": "{\n  \"rurrenabaque\": \"Un punto de partida ribereño para tu viaje al Amazonas boliviano. Conecta la estancia en el pueblo con la experiencia del bosque o las pampas que realmente deseas, y haz que cada traslado cuente.\",\n  \"madidi\": \"Sigue el bosque a un ritmo más lento. Elige una base específica para pasar la noche, comprende el viaje en río y deja tiempo para caminatas guiadas y observación paciente.\"\n}"
+  },
+  "done": true,
+  "done_reason": "stop",
+  "total_duration": 10470873250,
+  "load_duration": 5839039084,
+  "prompt_eval_count": 131,
+  "prompt_eval_cached_count": 0,
+  "prompt_eval_duration": 240245000,
+  "eval_count": 104,
+  "eval_duration": 4386301000,
+  "seconds": 10.48,
+  "retries": 0,
+  "review_result": "Supervisor edited both introductions for natural Spanish and regional naming; no new facts accepted."
+}

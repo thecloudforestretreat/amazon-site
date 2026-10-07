@@ -34,5 +34,35 @@
     "modifications": "Proportional web resize; CSS display crop",
     "geography_review": "Source description and visible pixels reviewed",
     "review_date": "2026-10-07"
+  },
+  "rurrenabaque-panorama": {
+    "file": "src/assets/images/bolivia/rurrenabaque-panorama.jpg",
+    "key": "rurrenabaque-panorama",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Rurrenabaque_ciudad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Rurrenabaque_ciudad.jpg",
+    "label": "Rodrigo Mariaca",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "View of the city of Rurrenabaque from the viewpoint of La Cruz, the Beni river and in the background the city of San Buenaventura",
+    "width": 1800,
+    "height": 1350,
+    "modifications": "Proportional web resize and JPEG optimization; copyright and modifications retained in EXIF",
+    "geography_review": "Source description and visible pixels reviewed",
+    "review_date": "2026-10-07"
+  },
+  "madidi-tuichi-sunset": {
+    "file": "src/assets/images/bolivia/madidi-tuichi-sunset.jpg",
+    "key": "madidi-tuichi-sunset",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Atardecer_en_el_r%C3%ADo_Tuichi%2C_en_el_Parque_Nacional_Madidi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Atardecer_en_el_r%C3%ADo_Tuichi,_en_el_Parque_Nacional_Madidi.jpg",
+    "label": "Puya Raimondi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Parque Nacional y Área Natural de Manejo Integrado Madidi",
+    "width": 1800,
+    "height": 1200,
+    "modifications": "Proportional web resize and JPEG optimization; copyright and modifications retained in EXIF",
+    "geography_review": "Source description and visible pixels reviewed",
+    "review_date": "2026-10-07"
   }
 }

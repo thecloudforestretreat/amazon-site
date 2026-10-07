@@ -1,0 +1,13 @@
+{
+  "trigger": "Observed lazy-image screenshot timing during Bolivia batch 2",
+  "required_steps": [
+    "Navigate to the route and read current state",
+    "Set a requested responsive viewport and verify actual innerWidth",
+    "Visit every feature heading to bring the associated image into view",
+    "Observe state and verify each image complete with naturalWidth > 0",
+    "Capture the visible feature section and then full-page layout",
+    "Check overflow, sticky header, card alignment, language switching, FAQ and keyboard menu",
+    "Retain initial failures and corrective retakes in batch QA record"
+  ],
+  "scope": "Visual QA for future country-guide batches; does not change editorial or release gates"
+}
