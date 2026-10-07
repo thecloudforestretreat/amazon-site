@@ -1,0 +1,161 @@
+{
+  "deployment": "6cafb6c1",
+  "rollback": "6757ef3b",
+  "date": "2026-10-07",
+  "checks": [
+    {
+      "route": "/bolivia/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/bolivia/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/bolivia/plan-your-amazon-trip/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/bolivia/rurrenabaque/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/bolivia/rurrenabaque/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/bolivia/madidi/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/bolivia/madidi/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/bolivia/pampas-del-yacuma/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/bolivia/pampas-del-yacuma/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/bolivia/forest-or-pampas/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/bolivia/selva-o-pampas/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/bolivia/forest-and-pampas-tours/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/bolivia/tours-de-selva-y-pampas/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/bolivia/amazon-accommodation/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/bolivia/alojamientos-amazonicos/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/bolivia/best-time-to-visit/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/bolivia/mejor-epoca-para-visitar/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/bolivia/wildlife/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/bolivia/fauna/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/bolivia/how-to-get-there/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/bolivia/como-llegar/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/bolivia/packing-list/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/bolivia/que-llevar/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/sitemap.xml",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/robots.txt",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/ecuador/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/peru/",
+      "status": 200,
+      "issues": []
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "HTTP readback is not desktop/mobile visual review or live inquiry delivery verification"
+  ]
+}

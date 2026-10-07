@@ -1,5 +1,5 @@
 {
-  "status": "images_deployed_technical_pass_final_visual_review_pending",
+  "status": "production_live_http_verified_visual_delivery_unverified",
   "batch_size_pairs": 2,
   "target_pairs": 12,
   "launch_scope": [
@@ -20,7 +20,13 @@
     "bolivia_access_001",
     "bolivia_packing_001"
   ],
-  "production_release": "Not authorized until country complete and reviewed",
+  "production_release": {
+    "deployment": "6cafb6c1",
+    "rollback": "6757ef3b",
+    "owner_authorized": true,
+    "date": "2026-10-07",
+    "unverified_tests_retained": true
+  },
   "sitemap_boundary": "Original sitemap contained Bolivia hub pair_038 only; owner authorized new country work. This defines the initial 12-pair launch scope.",
   "completed_pairs": [
     "pair_038",
@@ -44,7 +50,7 @@
       "https://bolivia.wcs.org/en-us/Landscapes/Madidi-Tambopata/Pampas-del-Yacuma.aspx"
     ]
   ],
-  "progress": "12/12 bilingual pairs updated with owner imagery; technical QA 24/24 passed; current image deployment visual review 0/24 pending browser recovery",
+  "progress": "12/12 bilingual pairs live; 24 country routes verified by public HTTP; updated imagery desktop/mobile and real Bolivia inquiry delivery remain unverified",
   "next_batch": [],
   "qa": "124 compiled pages validated; 24 Bolivia pages zero audit errors, 1282\u20131400 main words, eleven country referring pages each; visual QA pending",
   "rollback": "fe7acaaf",

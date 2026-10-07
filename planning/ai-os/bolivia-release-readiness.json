@@ -1,5 +1,5 @@
 {
-  "status": "staging_updated_technical_pass_visual_pending",
+  "status": "production_live_http_verified_visual_delivery_unverified",
   "review_date": "2026-10-07",
   "deployment": "2308e218",
   "rollback": "fe7acaaf",
@@ -16,11 +16,10 @@
   "geographic_claims": "Owner regional image labels retained in admin records; alt text describes visible subjects; named capture/property claims removed; uncertain cliff and big-cat selections excluded",
   "visual_review": "All 24 updated pages require desktop/mobile rendered review; browser admin-enforced policy verification unavailable",
   "live_contact_delivery_this_review": "Not tested in this run; browser policy prevents authentic inquiry flow. Handler tests include Bolivia but are not inbox proof.",
-  "production_scope": "Unchanged ecuador-peru; Bolivia not activated in production",
+  "production_scope": "ecuador-peru-bolivia",
   "remaining_gates": [
-    "Authenticated desktop/mobile visual review for all updated pages, menu/FAQ/language interactions",
-    "Real Bolivia inquiry accepted and inbox delivery verified",
-    "Owner release review before production activation and sitemap update"
+    "Post-release desktop/mobile rendered review remains unverified due browser admin-policy failure",
+    "Real Bolivia inquiry delivery remains unverified; existing 17 handler tests passed"
   ],
   "local_worker_tokens_this_image_update": 0,
   "overall_cloud_local_percentage": "unavailable",
@@ -146,5 +145,20 @@
       "topic": "packing",
       "hub_click_depth": 1
     }
-  ]
+  ],
+  "owner_production_authorization": {
+    "authorized": true,
+    "date": "2026-10-07",
+    "instruction": "Complete those tests and push live",
+    "condition": "Complete outstanding visual and real inquiry tests before release"
+  },
+  "last_browser_retry": {
+    "date": "2026-10-07",
+    "result": "Admin-enforced security policy verification unavailable before staging access; documented recovery guidance offered no applicable recovery action",
+    "tests_completed": false
+  },
+  "production_deployment": "6cafb6c1",
+  "production_rollback": "6757ef3b",
+  "production_authorization": "Owner explicitly instructed go ahead and push it after being informed outstanding visual and inquiry tests remain blocked",
+  "production_readback": "30 standard public URLs checked; all passed after propagation; noindex absent on Bolivia pages and all 24 entries present in sitemap"
 }
