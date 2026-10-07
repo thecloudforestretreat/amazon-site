@@ -1,0 +1,191 @@
+{
+  "status": "technical_pass_release_blocked",
+  "review_date": "2026-10-07",
+  "deployment": "59307af9",
+  "content_pairs": 12,
+  "content_pages": 24,
+  "technical_audit_errors": [],
+  "reciprocal_language_pairs_verified": 12,
+  "faq_visible_schema_matches": 96,
+  "max_click_depth_from_language_hub": 1,
+  "contact_tests_passed": 17,
+  "live_contact_delivery_this_review": "Not tested; unit tests use mocked Turnstile and Brevo",
+  "visual_review": "Blocked: admin-enforced browser policy cannot be verified; no workaround attempted",
+  "protected_staging_readback": "Pending browser access; noindex build configuration retained",
+  "production_activation": "Not performed; current production build remains Ecuador only",
+  "remaining_gates": [
+    "Desktop/mobile visual review of deployed Peru pages",
+    "Deployed contact form submission and inbox delivery confirmation",
+    "Production scope/navigation/sitemap activation and post-release verification after QA approval"
+  ],
+  "pages": [
+    {
+      "route": "/es/peru/",
+      "language": "es",
+      "hub_click_depth": 0,
+      "counterpart": "/peru/",
+      "production_canonical": "https://experiencetheamazon.com/es/peru/"
+    },
+    {
+      "route": "/es/peru/alojamientos-amazonicos/",
+      "language": "es",
+      "hub_click_depth": 1,
+      "counterpart": "/peru/amazon-lodges/",
+      "production_canonical": "https://experiencetheamazon.com/es/peru/alojamientos-amazonicos/"
+    },
+    {
+      "route": "/es/peru/como-llegar/",
+      "language": "es",
+      "hub_click_depth": 1,
+      "counterpart": "/peru/getting-there/",
+      "production_canonical": "https://experiencetheamazon.com/es/peru/como-llegar/"
+    },
+    {
+      "route": "/es/peru/comparar-regiones-amazonicas/",
+      "language": "es",
+      "hub_click_depth": 1,
+      "counterpart": "/peru/compare-amazon-regions/",
+      "production_canonical": "https://experiencetheamazon.com/es/peru/comparar-regiones-amazonicas/"
+    },
+    {
+      "route": "/es/peru/fauna/",
+      "language": "es",
+      "hub_click_depth": 1,
+      "counterpart": "/peru/wildlife/",
+      "production_canonical": "https://experiencetheamazon.com/es/peru/fauna/"
+    },
+    {
+      "route": "/es/peru/iquitos/",
+      "language": "es",
+      "hub_click_depth": 1,
+      "counterpart": "/peru/iquitos/",
+      "production_canonical": "https://experiencetheamazon.com/es/peru/iquitos/"
+    },
+    {
+      "route": "/es/peru/manu/",
+      "language": "es",
+      "hub_click_depth": 1,
+      "counterpart": "/peru/manu/",
+      "production_canonical": "https://experiencetheamazon.com/es/peru/manu/"
+    },
+    {
+      "route": "/es/peru/mejor-epoca-para-visitar/",
+      "language": "es",
+      "hub_click_depth": 1,
+      "counterpart": "/peru/best-time-to-visit/",
+      "production_canonical": "https://experiencetheamazon.com/es/peru/mejor-epoca-para-visitar/"
+    },
+    {
+      "route": "/es/peru/pacaya-samiria/",
+      "language": "es",
+      "hub_click_depth": 1,
+      "counterpart": "/peru/pacaya-samiria/",
+      "production_canonical": "https://experiencetheamazon.com/es/peru/pacaya-samiria/"
+    },
+    {
+      "route": "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+      "language": "es",
+      "hub_click_depth": 1,
+      "counterpart": "/peru/plan-your-amazon-trip/",
+      "production_canonical": "https://experiencetheamazon.com/es/peru/planifica-tu-viaje-a-la-amazonia/"
+    },
+    {
+      "route": "/es/peru/que-llevar/",
+      "language": "es",
+      "hub_click_depth": 1,
+      "counterpart": "/peru/packing-list/",
+      "production_canonical": "https://experiencetheamazon.com/es/peru/que-llevar/"
+    },
+    {
+      "route": "/es/peru/tambopata/",
+      "language": "es",
+      "hub_click_depth": 1,
+      "counterpart": "/peru/tambopata/",
+      "production_canonical": "https://experiencetheamazon.com/es/peru/tambopata/"
+    },
+    {
+      "route": "/peru/",
+      "language": "en",
+      "hub_click_depth": 0,
+      "counterpart": "/es/peru/",
+      "production_canonical": "https://experiencetheamazon.com/peru/"
+    },
+    {
+      "route": "/peru/amazon-lodges/",
+      "language": "en",
+      "hub_click_depth": 1,
+      "counterpart": "/es/peru/alojamientos-amazonicos/",
+      "production_canonical": "https://experiencetheamazon.com/peru/amazon-lodges/"
+    },
+    {
+      "route": "/peru/best-time-to-visit/",
+      "language": "en",
+      "hub_click_depth": 1,
+      "counterpart": "/es/peru/mejor-epoca-para-visitar/",
+      "production_canonical": "https://experiencetheamazon.com/peru/best-time-to-visit/"
+    },
+    {
+      "route": "/peru/compare-amazon-regions/",
+      "language": "en",
+      "hub_click_depth": 1,
+      "counterpart": "/es/peru/comparar-regiones-amazonicas/",
+      "production_canonical": "https://experiencetheamazon.com/peru/compare-amazon-regions/"
+    },
+    {
+      "route": "/peru/getting-there/",
+      "language": "en",
+      "hub_click_depth": 1,
+      "counterpart": "/es/peru/como-llegar/",
+      "production_canonical": "https://experiencetheamazon.com/peru/getting-there/"
+    },
+    {
+      "route": "/peru/iquitos/",
+      "language": "en",
+      "hub_click_depth": 1,
+      "counterpart": "/es/peru/iquitos/",
+      "production_canonical": "https://experiencetheamazon.com/peru/iquitos/"
+    },
+    {
+      "route": "/peru/manu/",
+      "language": "en",
+      "hub_click_depth": 1,
+      "counterpart": "/es/peru/manu/",
+      "production_canonical": "https://experiencetheamazon.com/peru/manu/"
+    },
+    {
+      "route": "/peru/pacaya-samiria/",
+      "language": "en",
+      "hub_click_depth": 1,
+      "counterpart": "/es/peru/pacaya-samiria/",
+      "production_canonical": "https://experiencetheamazon.com/peru/pacaya-samiria/"
+    },
+    {
+      "route": "/peru/packing-list/",
+      "language": "en",
+      "hub_click_depth": 1,
+      "counterpart": "/es/peru/que-llevar/",
+      "production_canonical": "https://experiencetheamazon.com/peru/packing-list/"
+    },
+    {
+      "route": "/peru/plan-your-amazon-trip/",
+      "language": "en",
+      "hub_click_depth": 1,
+      "counterpart": "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+      "production_canonical": "https://experiencetheamazon.com/peru/plan-your-amazon-trip/"
+    },
+    {
+      "route": "/peru/tambopata/",
+      "language": "en",
+      "hub_click_depth": 1,
+      "counterpart": "/es/peru/tambopata/",
+      "production_canonical": "https://experiencetheamazon.com/peru/tambopata/"
+    },
+    {
+      "route": "/peru/wildlife/",
+      "language": "en",
+      "hub_click_depth": 1,
+      "counterpart": "/es/peru/fauna/",
+      "production_canonical": "https://experiencetheamazon.com/peru/wildlife/"
+    }
+  ]
+}

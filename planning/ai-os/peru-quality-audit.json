@@ -983,6 +983,5 @@
     "No live rankings, AI citations or field Core Web Vitals assessed"
   ],
   "deployment": "59307af9",
-  "deployment_url": "https://59307af9.amazon-site-staging.pages.dev",
-  "deployed_readback": "Pending browser security-policy verification; Wrangler deployment confirmed"
+  "deployed_readback": "Pending admin-enforced browser policy verification"
 }

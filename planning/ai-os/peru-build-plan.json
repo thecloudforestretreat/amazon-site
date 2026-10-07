@@ -40,13 +40,10 @@
   "release_status": "Initial content scope complete on staging; country-wide desktop/mobile visual review, protected deployed readback and live form/release testing remain pending.",
   "latest_staging_deployment": "59307af9",
   "active_batch": {
-    "number": 6,
-    "pairs": [
-      "peru_access_001",
-      "peru_packing_001"
-    ],
-    "status": "deployed_technical_pass_visual_pending",
-    "scope": "Named access sequences and practical route-specific packing"
+    "number": 7,
+    "scope": "Country-wide release QA",
+    "status": "technical_pass_browser_and_live_delivery_pending",
+    "evidence": "planning/ai-os/peru-release-readiness.json"
   },
   "launch_scope": {
     "defined": "2026-10-07",
