@@ -11,3 +11,15 @@
 .peru-cta a:focus-visible{outline-color:var(--eta-gold-200);outline-offset:5px;border-radius:4px}
 .peru-cta>.eta-button+p{max-width:none;margin:28px 0 0;padding-top:18px;border-top:1px solid rgba(237,242,230,.25);line-height:1.8}
 @media(max-width:600px){.peru-cta>.eta-button{width:100%}.peru-cta>.eta-button+p{margin-top:24px;padding-top:14px}}
+
+/* Match the established destination rhythm; avoid stacked section/answer margins. */
+html[data-country="peru"] .eta-article-hero{padding-block:clamp(32px,5vw,64px)}
+html[data-country="peru"] main>.eta-section{padding-block:clamp(28px,4vw,48px)}
+html[data-country="peru"] main>.eta-section:not(.eta-section--mist)+.eta-section:not(.eta-section--mist){padding-top:0}
+html[data-country="peru"] .eta-reading h2,.peru-feature h2{font-size:clamp(1.65rem,2.5vw,2.35rem);line-height:1.16;margin-bottom:16px}
+html[data-country="peru"] .eta-reading>p:last-child,.peru-feature>div>p:last-child{margin-bottom:0}
+.peru-answer{margin-block:0}
+.peru-answer>p:last-child{margin-bottom:0}
+.peru-cta{padding:clamp(24px,3vw,36px)}
+.peru-cta>.eta-button+p{margin-top:20px;padding-top:12px;line-height:1.5}
+@media(min-width:901px){.peru-cta{display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:40px;align-items:center}.peru-cta>h2,.peru-cta>p{grid-column:1}.peru-cta>p{margin-bottom:0}.peru-cta>.eta-button{grid-column:2;grid-row:1 / 3;justify-self:end}.peru-cta>.eta-button+p{grid-column:1 / -1}}
