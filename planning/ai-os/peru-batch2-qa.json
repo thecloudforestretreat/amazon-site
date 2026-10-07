@@ -1,0 +1,79 @@
+{
+  "pages": [
+    {
+      "language": "en",
+      "slug": "iquitos",
+      "approx_words": 1094,
+      "images": [
+        "/assets/images/peru/hero.jpg",
+        "/assets/images/peru/pacaya-samiria.jpg",
+        "/assets/images/peru/allpahuayo-mishana.jpg"
+      ]
+    },
+    {
+      "language": "en",
+      "slug": "tambopata",
+      "approx_words": 997,
+      "images": [
+        "/assets/images/peru/tambopata-river.jpg",
+        "/assets/images/peru/tambopata-macaws.jpg"
+      ]
+    },
+    {
+      "language": "es",
+      "slug": "iquitos",
+      "approx_words": 1017,
+      "images": [
+        "/assets/images/peru/hero.jpg",
+        "/assets/images/peru/pacaya-samiria.jpg",
+        "/assets/images/peru/allpahuayo-mishana.jpg"
+      ]
+    },
+    {
+      "language": "es",
+      "slug": "tambopata",
+      "approx_words": 916,
+      "images": [
+        "/assets/images/peru/tambopata-river.jpg",
+        "/assets/images/peru/tambopata-macaws.jpg"
+      ]
+    }
+  ],
+  "local_worker": {
+    "model": "qwen3.5:9b",
+    "prompt_tokens": 73,
+    "output_tokens": 94,
+    "retries": 1,
+    "cache_hits": 0,
+    "publication": "Rejected; inappropriate swimming and human mud-licking questions; supervisor authored published copy"
+  },
+  "technical": "86 pages pass validation; bilingual navigation correction verified",
+  "visual": "EN desktop and ES mobile hero reviewed at 1280 and 390; sticky header and no mobile overflow",
+  "production": "unchanged",
+  "deployment": "646c5b26",
+  "rollback": "4854bd89",
+  "authenticated_readback": "All four headings, image counts and language counterparts verified",
+  "main_content_inlinks": {
+    "/peru/iquitos/": [
+      "/peru/",
+      "/peru/tambopata/",
+      "/peru/plan-your-amazon-trip/"
+    ],
+    "/es/peru/iquitos/": [
+      "/es/peru/",
+      "/es/peru/tambopata/",
+      "/es/peru/planifica-tu-viaje-a-la-amazonia/"
+    ],
+    "/peru/tambopata/": [
+      "/peru/",
+      "/peru/plan-your-amazon-trip/",
+      "/peru/iquitos/"
+    ],
+    "/es/peru/tambopata/": [
+      "/es/peru/",
+      "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+      "/es/peru/iquitos/"
+    ]
+  },
+  "visual_interior": "Iquitos desktop alternating image/text and Tambopata ES mobile FAQ reviewed"
+}

@@ -1,5 +1,5 @@
 {
-  "status": "first_two_pairs_on_protected_staging",
+  "status": "four_pairs_on_protected_staging",
   "scope": "Peru staging only; country release after reviewed bilingual content, imagery, technical and visual QA and live-test readiness",
   "batch_size_pairs": 2,
   "first_batch": [
@@ -22,8 +22,14 @@
   },
   "sitemap_boundary": "Saved sitemap includes Peru hub pair_037 only; full Peru cluster must be designed explicitly before new routes are published",
   "next_batch_proposal": [
-    "Iquitos and Loreto destination EN/ES",
-    "Tambopata destination EN/ES"
+    "Manu destination EN/ES",
+    "Peru regional comparison EN/ES"
   ],
-  "quality_gate": "Ecuador-level topic coverage and destination-specific usefulness required; see peru-content-quality-review.json. First two pairs expanded after owner rejected thin draft."
+  "quality_gate": "Ecuador-level topic coverage and destination-specific usefulness required; see peru-content-quality-review.json. First two pairs expanded after owner rejected thin draft.",
+  "completed_staging_pairs": [
+    "pair_037",
+    "peru_planning_001",
+    "peru_iquitos_001",
+    "peru_tambopata_001"
+  ]
 }
