@@ -1,0 +1,17 @@
+{
+  "model": "qwen3.5:9b",
+  "created_at": "2026-10-07T13:57:32.99317Z",
+  "message": {
+    "role": "assistant",
+    "content": "{\"0\": \"Elige primero un sector de visitantes\", \"1\": \"Calcula el tiempo de exploración, no solo las noches\", \"2\": \"La ubicación precede a la habitación\", \"3\": \"Un refugio: volver a una base establecida\", \"4\": \"Un barco para pernoctar: comprende la vida a bordo\", \"5\": \"Camping: evalúa el montaje específico\"}"
+  },
+  "done": true,
+  "done_reason": "stop",
+  "total_duration": 9807010750,
+  "load_duration": 4852356709,
+  "prompt_eval_count": 99,
+  "prompt_eval_cached_count": 0,
+  "prompt_eval_duration": 290972000,
+  "eval_count": 88,
+  "eval_duration": 4658228000
+}

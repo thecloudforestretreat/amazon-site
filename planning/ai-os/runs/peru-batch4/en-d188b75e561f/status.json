@@ -1,0 +1,10 @@
+{
+  "model": "qwen3.5:9b",
+  "prompt_eval_count": 453,
+  "eval_count": 5116,
+  "seconds": 257.54,
+  "cache_hit": false,
+  "attempts": 1,
+  "status": "rejected",
+  "editorial_review": "Unsupported facilities, safety and permit assertions; 6 object sections plus malformed FAQ elements instead of 9 arrays; excess repetition. No draft prose published."
+}

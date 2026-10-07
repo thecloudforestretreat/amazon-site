@@ -1,0 +1,67 @@
+{
+  "status": "technical_pass_visual_pending",
+  "new_pages": [
+    {
+      "route": "/es/peru/alojamientos-amazonicos/",
+      "visible_faq_matches": 4,
+      "html_sha256": "01929809324f0f3912267bbf7b8d3ebc729b0eb93765287b18c3a4bfec541d0d"
+    },
+    {
+      "route": "/es/peru/pacaya-samiria/",
+      "visible_faq_matches": 4,
+      "html_sha256": "a8d0faa25af0e97a32e05dc3639f1c93e9051f40702a3d7519a24465dac88ed6"
+    },
+    {
+      "route": "/peru/amazon-lodges/",
+      "visible_faq_matches": 4,
+      "html_sha256": "a68570c35e632f32ed8a734964d803e81c409f51755f6505551fefd2fadffb27"
+    },
+    {
+      "route": "/peru/pacaya-samiria/",
+      "visible_faq_matches": 4,
+      "html_sha256": "6066524a3e03e1ee701295027029e385f752e716bc64941e563b15475173ba0a"
+    }
+  ],
+  "all_peru_pages_audited": 16,
+  "pairs_on_staging_after_deployment": 8,
+  "rollback_deployment": "b776cdc6",
+  "errors": [],
+  "local_usage": [
+    {
+      "run": "planning/ai-os/runs/peru-batch4/headings-schema",
+      "prompt": 99,
+      "output": 88,
+      "status": "reviewed_with_edits"
+    },
+    {
+      "run": "planning/ai-os/runs/peru-batch4/en-d188b75e561f",
+      "prompt": 453,
+      "output": 5116,
+      "status": "rejected"
+    }
+  ],
+  "local_total_tokens": 5756,
+  "local_attempts": 2,
+  "cache_hits": 0,
+  "cloud_supervisor_usage": "Not metered; no overall percentage claimed",
+  "regression_check": {
+    "actual_rejected_local_drafts": [
+      {
+        "draft": "pacaya",
+        "reason": "Section must contain heading and two text paragraphs"
+      },
+      {
+        "draft": "accommodation",
+        "reason": "Section must contain heading and two text paragraphs"
+      }
+    ],
+    "reviewed_pages_passed": 4
+  },
+  "workflow_improvement": "Schema-constrained bounded translation and strict section/FAQ renderer validation added after observed long-draft structural and factual failure; raw rejected draft retained",
+  "editorial_review": "EN/ES facts and conditional wording reviewed; no named property inventory, prices, wildlife promises or blanket facility claims",
+  "visual_review": "Browser admin security-policy verification unavailable; no alternate access attempted",
+  "production_status": "Peru remains excluded from Ecuador production release",
+  "deployment": "3a11f4ac",
+  "deployment_url": "https://3a11f4ac.amazon-site-staging.pages.dev",
+  "deployed_readback": "Pending browser security-policy verification; deployment success confirmed by Wrangler"
+}

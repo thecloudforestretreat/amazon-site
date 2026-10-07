@@ -1,23 +1,27 @@
 {
-  "pages_audited": 12,
+  "pages_audited": 16,
   "errors": [],
   "pages": [
     {
       "route": "/es/peru/",
-      "main_words": 1727,
-      "h2_sections": 14,
+      "main_words": 1752,
+      "h2_sections": 15,
       "main_content_inlinks": [
+        "/es/peru/alojamientos-amazonicos/",
         "/es/peru/tambopata/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
         "/es/peru/iquitos/",
         "/es/peru/manu/",
+        "/es/peru/pacaya-samiria/",
         "/es/peru/comparar-regiones-amazonicas/"
       ],
       "main_content_outlinks": [
         "/es/",
+        "/es/peru/alojamientos-amazonicos/",
         "/es/peru/comparar-regiones-amazonicas/",
         "/es/peru/iquitos/",
         "/es/peru/manu/",
+        "/es/peru/pacaya-samiria/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
         "/es/peru/tambopata/"
       ],
@@ -36,22 +40,62 @@
       "issues": []
     },
     {
-      "route": "/es/peru/comparar-regiones-amazonicas/",
-      "main_words": 1396,
+      "route": "/es/peru/alojamientos-amazonicos/",
+      "main_words": 1295,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/peru/",
         "/es/peru/tambopata/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
         "/es/peru/iquitos/",
-        "/es/peru/manu/"
+        "/es/peru/manu/",
+        "/es/peru/pacaya-samiria/",
+        "/es/peru/comparar-regiones-amazonicas/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/contacto/",
         "/es/peru/",
+        "/es/peru/comparar-regiones-amazonicas/",
+        "/es/peru/iquitos/",
+        "/es/peru/pacaya-samiria/",
+        "/es/peru/planifica-tu-viaje-a-la-amazonia/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/peru/comparar-regiones-amazonicas/",
+      "main_words": 1421,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/peru/",
+        "/es/peru/alojamientos-amazonicos/",
+        "/es/peru/tambopata/",
+        "/es/peru/planifica-tu-viaje-a-la-amazonia/",
         "/es/peru/iquitos/",
         "/es/peru/manu/",
+        "/es/peru/pacaya-samiria/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/contacto/",
+        "/es/peru/",
+        "/es/peru/alojamientos-amazonicos/",
+        "/es/peru/iquitos/",
+        "/es/peru/manu/",
+        "/es/peru/pacaya-samiria/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
         "/es/peru/tambopata/"
       ],
@@ -71,21 +115,25 @@
     },
     {
       "route": "/es/peru/iquitos/",
-      "main_words": 1087,
-      "h2_sections": 10,
+      "main_words": 1112,
+      "h2_sections": 11,
       "main_content_inlinks": [
         "/es/peru/",
+        "/es/peru/alojamientos-amazonicos/",
         "/es/peru/tambopata/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
         "/es/peru/manu/",
+        "/es/peru/pacaya-samiria/",
         "/es/peru/comparar-regiones-amazonicas/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/contacto/",
         "/es/peru/",
+        "/es/peru/alojamientos-amazonicos/",
         "/es/peru/comparar-regiones-amazonicas/",
         "/es/peru/manu/",
+        "/es/peru/pacaya-samiria/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
         "/es/peru/tambopata/"
       ],
@@ -105,8 +153,8 @@
     },
     {
       "route": "/es/peru/manu/",
-      "main_words": 1303,
-      "h2_sections": 13,
+      "main_words": 1322,
+      "h2_sections": 14,
       "main_content_inlinks": [
         "/es/peru/",
         "/es/peru/tambopata/",
@@ -118,6 +166,7 @@
         "/es/",
         "/es/contacto/",
         "/es/peru/",
+        "/es/peru/alojamientos-amazonicos/",
         "/es/peru/comparar-regiones-amazonicas/",
         "/es/peru/iquitos/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
@@ -138,23 +187,61 @@
       "issues": []
     },
     {
-      "route": "/es/peru/planifica-tu-viaje-a-la-amazonia/",
-      "main_words": 1460,
+      "route": "/es/peru/pacaya-samiria/",
+      "main_words": 1317,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/peru/",
-        "/es/peru/tambopata/",
+        "/es/peru/alojamientos-amazonicos/",
+        "/es/peru/planifica-tu-viaje-a-la-amazonia/",
         "/es/peru/iquitos/",
-        "/es/peru/manu/",
         "/es/peru/comparar-regiones-amazonicas/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/contacto/",
         "/es/peru/",
+        "/es/peru/alojamientos-amazonicos/",
+        "/es/peru/comparar-regiones-amazonicas/",
+        "/es/peru/iquitos/",
+        "/es/peru/planifica-tu-viaje-a-la-amazonia/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+      "main_words": 1485,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/peru/",
+        "/es/peru/alojamientos-amazonicos/",
+        "/es/peru/tambopata/",
+        "/es/peru/iquitos/",
+        "/es/peru/manu/",
+        "/es/peru/pacaya-samiria/",
+        "/es/peru/comparar-regiones-amazonicas/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/contacto/",
+        "/es/peru/",
+        "/es/peru/alojamientos-amazonicos/",
         "/es/peru/comparar-regiones-amazonicas/",
         "/es/peru/iquitos/",
         "/es/peru/manu/",
+        "/es/peru/pacaya-samiria/",
         "/es/peru/tambopata/"
       ],
       "css": [
@@ -173,8 +260,8 @@
     },
     {
       "route": "/es/peru/tambopata/",
-      "main_words": 986,
-      "h2_sections": 10,
+      "main_words": 1005,
+      "h2_sections": 11,
       "main_content_inlinks": [
         "/es/peru/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
@@ -186,6 +273,7 @@
         "/es/",
         "/es/contacto/",
         "/es/peru/",
+        "/es/peru/alojamientos-amazonicos/",
         "/es/peru/comparar-regiones-amazonicas/",
         "/es/peru/iquitos/",
         "/es/peru/manu/",
@@ -207,20 +295,24 @@
     },
     {
       "route": "/peru/",
-      "main_words": 1760,
-      "h2_sections": 14,
+      "main_words": 1782,
+      "h2_sections": 15,
       "main_content_inlinks": [
         "/peru/tambopata/",
         "/peru/plan-your-amazon-trip/",
         "/peru/iquitos/",
+        "/peru/amazon-lodges/",
         "/peru/manu/",
+        "/peru/pacaya-samiria/",
         "/peru/compare-amazon-regions/"
       ],
       "main_content_outlinks": [
         "/",
+        "/peru/amazon-lodges/",
         "/peru/compare-amazon-regions/",
         "/peru/iquitos/",
         "/peru/manu/",
+        "/peru/pacaya-samiria/",
         "/peru/plan-your-amazon-trip/",
         "/peru/tambopata/"
       ],
@@ -239,22 +331,62 @@
       "issues": []
     },
     {
-      "route": "/peru/compare-amazon-regions/",
-      "main_words": 1403,
+      "route": "/peru/amazon-lodges/",
+      "main_words": 1326,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/peru/",
         "/peru/tambopata/",
         "/peru/plan-your-amazon-trip/",
         "/peru/iquitos/",
-        "/peru/manu/"
+        "/peru/manu/",
+        "/peru/pacaya-samiria/",
+        "/peru/compare-amazon-regions/"
       ],
       "main_content_outlinks": [
         "/",
         "/contact/",
         "/peru/",
+        "/peru/compare-amazon-regions/",
+        "/peru/iquitos/",
+        "/peru/pacaya-samiria/",
+        "/peru/plan-your-amazon-trip/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/peru/compare-amazon-regions/",
+      "main_words": 1425,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/peru/",
+        "/peru/tambopata/",
+        "/peru/plan-your-amazon-trip/",
+        "/peru/iquitos/",
+        "/peru/amazon-lodges/",
+        "/peru/manu/",
+        "/peru/pacaya-samiria/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/contact/",
+        "/peru/",
+        "/peru/amazon-lodges/",
         "/peru/iquitos/",
         "/peru/manu/",
+        "/peru/pacaya-samiria/",
         "/peru/plan-your-amazon-trip/",
         "/peru/tambopata/"
       ],
@@ -274,21 +406,25 @@
     },
     {
       "route": "/peru/iquitos/",
-      "main_words": 1169,
-      "h2_sections": 10,
+      "main_words": 1191,
+      "h2_sections": 11,
       "main_content_inlinks": [
         "/peru/",
         "/peru/tambopata/",
         "/peru/plan-your-amazon-trip/",
+        "/peru/amazon-lodges/",
         "/peru/manu/",
+        "/peru/pacaya-samiria/",
         "/peru/compare-amazon-regions/"
       ],
       "main_content_outlinks": [
         "/",
         "/contact/",
         "/peru/",
+        "/peru/amazon-lodges/",
         "/peru/compare-amazon-regions/",
         "/peru/manu/",
+        "/peru/pacaya-samiria/",
         "/peru/plan-your-amazon-trip/",
         "/peru/tambopata/"
       ],
@@ -308,8 +444,8 @@
     },
     {
       "route": "/peru/manu/",
-      "main_words": 1311,
-      "h2_sections": 13,
+      "main_words": 1328,
+      "h2_sections": 14,
       "main_content_inlinks": [
         "/peru/",
         "/peru/tambopata/",
@@ -321,6 +457,7 @@
         "/",
         "/contact/",
         "/peru/",
+        "/peru/amazon-lodges/",
         "/peru/compare-amazon-regions/",
         "/peru/iquitos/",
         "/peru/plan-your-amazon-trip/",
@@ -341,23 +478,61 @@
       "issues": []
     },
     {
-      "route": "/peru/plan-your-amazon-trip/",
-      "main_words": 1513,
+      "route": "/peru/pacaya-samiria/",
+      "main_words": 1295,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/peru/",
-        "/peru/tambopata/",
+        "/peru/plan-your-amazon-trip/",
         "/peru/iquitos/",
-        "/peru/manu/",
+        "/peru/amazon-lodges/",
         "/peru/compare-amazon-regions/"
       ],
       "main_content_outlinks": [
         "/",
         "/contact/",
         "/peru/",
+        "/peru/amazon-lodges/",
+        "/peru/compare-amazon-regions/",
+        "/peru/iquitos/",
+        "/peru/plan-your-amazon-trip/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/peru/plan-your-amazon-trip/",
+      "main_words": 1535,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/peru/",
+        "/peru/tambopata/",
+        "/peru/iquitos/",
+        "/peru/amazon-lodges/",
+        "/peru/manu/",
+        "/peru/pacaya-samiria/",
+        "/peru/compare-amazon-regions/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/contact/",
+        "/peru/",
+        "/peru/amazon-lodges/",
         "/peru/compare-amazon-regions/",
         "/peru/iquitos/",
         "/peru/manu/",
+        "/peru/pacaya-samiria/",
         "/peru/tambopata/"
       ],
       "css": [
@@ -376,8 +551,8 @@
     },
     {
       "route": "/peru/tambopata/",
-      "main_words": 1073,
-      "h2_sections": 10,
+      "main_words": 1090,
+      "h2_sections": 11,
       "main_content_inlinks": [
         "/peru/",
         "/peru/plan-your-amazon-trip/",
@@ -389,6 +564,7 @@
         "/",
         "/contact/",
         "/peru/",
+        "/peru/amazon-lodges/",
         "/peru/compare-amazon-regions/",
         "/peru/iquitos/",
         "/peru/manu/",
@@ -414,6 +590,7 @@
     "Staging intentionally blocked from indexing; production eligibility requires country release",
     "No live rankings, AI citations or field Core Web Vitals assessed"
   ],
-  "deployment": "b776cdc6",
-  "review_status": "Technical pass; deployed visual review pending"
+  "deployment": "3a11f4ac",
+  "deployment_url": "https://3a11f4ac.amazon-site-staging.pages.dev",
+  "deployed_readback": "Pending browser security-policy verification; deployment success confirmed by Wrangler"
 }

@@ -1,0 +1,11 @@
+{
+  "model": "qwen3.5:9b",
+  "prompt_eval_count": 99,
+  "eval_count": 88,
+  "seconds": 9.82,
+  "attempts": 1,
+  "cache_hit": false,
+  "status": "reviewed_with_edits",
+  "workflow_improvement": "Explicit JSON Schema and bounded heading-only translation after unsafe long-draft failure",
+  "editorial_review": "Structure valid; two headings useful with edits, four awkward translations rejected. No lodging or safety facts generated."
+}

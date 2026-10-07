@@ -1,0 +1,33 @@
+{
+  "pairs": [
+    {
+      "id": "peru_pacaya_001",
+      "en": "/peru/pacaya-samiria/",
+      "es": "/es/peru/pacaya-samiria/",
+      "intent": "Choose a named reserve sector and an appropriate river-based journey, distinct from gateway Iquitos overview"
+    },
+    {
+      "id": "peru_accommodation_001",
+      "en": "/peru/amazon-lodges/",
+      "es": "/es/peru/alojamientos-amazonicos/",
+      "intent": "Compare accommodation formats and practical requirements; no unverified hotel directory"
+    }
+  ],
+  "quality_requirements": [
+    "Substantive destination/decision-specific content",
+    "Identical shared CSS stack",
+    "No image repeated within a page",
+    "Reviewed official facts and bilingual consistency",
+    "Contextual inlinks from relevant existing pages",
+    "Matching visible FAQ and schema",
+    "Technical pass and deployed visual review tracked separately"
+  ],
+  "sources": [
+    "https://visitaareasnaturales.sernanp.gob.pe/en/anps/pacaya-samiria-national-reserve/",
+    "https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-pacaya-samiria/",
+    "https://www.peru.travel/attractions/pacaya-samiria-national-reserve"
+  ],
+  "source_review": "SERNANP sector descriptions reviewed; unrelated injected gambling links in page footer ignored as untrusted page content",
+  "release_boundary": "Protected staging only; visual access blocked, production remains Ecuador scope",
+  "local_work": "EN drafts then ES translation; supervisor review before rendering; usage and failed attempts retained"
+}

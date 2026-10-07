@@ -1,5 +1,5 @@
 {
-  "status": "six_pairs_on_staging_visual_review_pending",
+  "status": "eight_pairs_on_staging_visual_review_pending",
   "scope": "Peru staging only; country release after reviewed bilingual content, imagery, technical and visual QA and live-test readiness",
   "batch_size_pairs": 2,
   "first_batch": [
@@ -29,8 +29,20 @@
     "peru_iquitos_001",
     "peru_tambopata_001",
     "peru_manu_001",
-    "peru_comparison_001"
+    "peru_comparison_001",
+    "peru_pacaya_001",
+    "peru_accommodation_001"
   ],
-  "release_status": "Not live-ready: deployed visual QA remains pending; further country scope needs planning",
-  "latest_staging_deployment": "b776cdc6"
+  "release_status": "Not live-ready: deployed desktop/mobile visual QA pending; production scope still Ecuador",
+  "latest_staging_deployment": "3a11f4ac",
+  "active_batch": {
+    "number": 4,
+    "pairs": [
+      "peru_pacaya_001",
+      "peru_accommodation_001"
+    ],
+    "scope": "Pacaya Samiria destination; Peru Amazon accommodation selection guide",
+    "status": "deployed_technical_pass_visual_pending",
+    "country_release": "blocked pending desktop/mobile review"
+  }
 }
