@@ -9,13 +9,12 @@
   "faq_visible_schema_matches": 96,
   "max_click_depth_from_language_hub": 1,
   "contact_tests_passed": 17,
-  "live_contact_delivery_this_review": "Real Peru submission accepted and queued; provider delivery and inbox receipt not yet confirmed",
+  "live_contact_delivery_this_review": "Real Peru staging inquiry accepted; owner confirmed inbox delivery October 7",
   "visual_review": "Browser access restored; country-wide desktop/mobile review pending",
   "protected_staging_readback": "Contact page read successfully; full Peru page readback pending",
   "production_activation": "Not performed; current production build remains Ecuador only",
   "remaining_gates": [
     "Desktop/mobile visual review of deployed Peru pages",
-    "Deployed contact form submission and inbox delivery confirmation",
     "Production scope/navigation/sitemap activation and post-release verification after QA approval"
   ],
   "pages": [
