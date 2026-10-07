@@ -1,0 +1,11 @@
+{
+  "deployment": "2d9c6907",
+  "rollback": "01c83e81",
+  "issue": "Global green anchor color inherited inside dark Peru CTA",
+  "fix": "Cluster-specific light link colors, hover/focus states, button separation, compact heading and mobile full-width button",
+  "normal_link_contrast": 13.71,
+  "hover_link_contrast": 12.47,
+  "peru_pages_technical_pass": 20,
+  "compiled_pages_validated": 98,
+  "visual_review": "Pending: admin-enforced browser policy unavailable; no workaround attempted"
+}

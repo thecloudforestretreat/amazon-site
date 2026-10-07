@@ -36,7 +36,7 @@
     "peru_wildlife_001"
   ],
   "release_status": "Not live-ready: deployed desktop/mobile visual QA pending; production scope still Ecuador",
-  "latest_staging_deployment": "01c83e81",
+  "latest_staging_deployment": "2d9c6907",
   "active_batch": {
     "number": 5,
     "pairs": [
@@ -63,5 +63,11 @@
       "Live form test and country-specific production sitemap/canonicals/navigation review before release"
     ],
     "content_progress": "10/12 pairs (83.3%); 20/24 pages; not a live-readiness percentage"
+  },
+  "css_correction": {
+    "issue": "Dark related links on dark CTA background and inadequate button/link spacing, identified in owner screenshot",
+    "scope": "Shared Peru cluster CSS; applies to all 20 pages",
+    "deployment": "2d9c6907",
+    "visual_review": "Pending browser security-policy verification"
   }
 }
