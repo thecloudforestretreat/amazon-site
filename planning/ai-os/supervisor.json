@@ -54,12 +54,7 @@
     "Desktop/mobile visual QA",
     "Protected staging deployment and readback"
   ],
-  "blockers": [
-    {
-      "code": "git_push_approval",
-      "detail": "Automatic approval review rejected GitHub data egress; explicit owner approval for the staged source and workflow records is pending."
-    }
-  ],
+  "blockers": [],
   "source_of_truth": {
     "sheet": "https://docs.google.com/spreadsheets/d/1LJi_VxoNEOE7cK4_wgQJB8VCohI_-T6xq_IBvmy39v4/edit?gid=1742626874",
     "tab": "experiencetheamazon_enriched"
@@ -71,9 +66,8 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Confirm owner received staging test inquiry",
-    "Finalize privacy/operator details",
-    "Complete Ecuador launch QA"
+    "Monitor launched homepage and Ecuador; no additional production changes without scope",
+    "Plan substantive Peru bilingual country cluster on protected staging"
   ],
   "future_batches": [
     "Reviews deferred by owner; exclude from Ecuador launch",
@@ -84,19 +78,18 @@
   "ai_os_command": "/Users/jpg/AI/ai-os/.venv/bin/ai-os amazon",
   "next_batch_candidates": [],
   "local_worker_run_complete": true,
-  "git_status": "Committed locally; remote push blocked by automatic approval review",
+  "git_status": "Staging branch pushed successfully",
   "quality_hold": {
     "released_by_owner": true,
     "date": "2026-10-05",
     "scope": "Owner explicitly authorized staging release and proceeding on October 5; pending visual checks stay recorded"
   },
   "deployment": {
-    "id": "39628056",
+    "id": "0141b143",
     "project": "amazon-site-staging",
     "branch": "staging",
-    "url": "https://39628056.amazon-site-staging.pages.dev",
-    "protected_domain_check": "302 unauthenticated Access redirect; authenticated browser verified",
-    "date": "2026-10-06"
+    "date": "2026-10-06",
+    "protected_domain_check": "302 unauthenticated Access redirect"
   },
   "browser_checks": {
     "date": "2026-10-05",
@@ -448,8 +441,15 @@
     "planned_required_pairs": 33,
     "content_pairs_staged": 32,
     "contact_pair_implemented": true,
-    "contact_delivery_verified": false,
+    "contact_delivery_verified": true,
     "reviews_deferred": true,
     "evidence": "planning/ai-os/ecuador-launch-readiness.json"
+  },
+  "public_launch": {
+    "deployment": "0a27264b",
+    "date": "2026-10-06",
+    "owner_authorized": true,
+    "sitemap_submitted": true,
+    "inbox_delivery_confirmed": true
   }
 }

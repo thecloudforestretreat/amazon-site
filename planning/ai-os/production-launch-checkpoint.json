@@ -11,10 +11,10 @@
   "coming_soon_cards": 7,
   "production_secret_names_inspected": true,
   "production_secrets_present": true,
-  "public_contact_endpoint": "Existing landing-page HTML; new handler not deployed",
+  "public_contact_endpoint": "Production JSON readiness: enabled true",
   "pending": [
-    "Owner confirms production launch test arrived in inbox",
-    "Broader post-launch monitoring; automated route audit received HTTP 403"
+    "Confirm corrected signature appearance in received message",
+    "Broader post-launch accessibility and performance monitoring"
   ],
   "production_deployed": true,
   "public_operator": {
@@ -23,17 +23,24 @@
     "personal_name_published": false
   },
   "policy_pages_updated": 4,
-  "production_deployment": "98c17db1",
+  "production_deployment": "0a27264b",
   "rollback_deployment": "33596ef5-3ce0-41fd-b56c-7e83c71ab42f",
   "release_static_qa_passed": true,
   "public_homepage_verified": true,
   "production_contact_enabled": true,
   "production_inquiry_test": "Turnstile server verification passed; Brevo accepted; UI queued",
-  "inbox_delivery_confirmed": false,
+  "inbox_delivery_confirmed": true,
   "sitemap_submission": "Google Search Console: Sitemap submitted successfully",
   "spanish_mobile": {
     "width": 390,
     "overflow": false,
     "hero_loaded": true
-  }
+  },
+  "inbox_confirmation": "Owner confirmed production launch inquiry arrived October 6; signature corrected afterward",
+  "signature": {
+    "production_deployment": "0a27264b",
+    "staging_deployment": "0141b143",
+    "test": "Production submission queued; received-email appearance not yet independently verified"
+  },
+  "staging_protection": "302 unauthenticated Access redirect"
 }
