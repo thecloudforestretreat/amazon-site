@@ -1,0 +1,150 @@
+{
+  "status": "staging_updated_technical_pass_visual_pending",
+  "review_date": "2026-10-07",
+  "deployment": "2308e218",
+  "rollback": "fe7acaaf",
+  "content_pairs": 12,
+  "content_pages": 24,
+  "distinct_selected_scenes": 28,
+  "technical_audit_errors": [],
+  "reciprocal_language_pairs_verified": 12,
+  "faq_visible_schema_matches": 96,
+  "max_click_depth_from_language_hub": 1,
+  "contact_handler_tests_passed": 17,
+  "image_promotion_checks": "24 pages, dimensions/assets/hash mapping and three distinct scenes per page verified; original and web assets retained",
+  "css": "Shared core/editorial/amazon-guide CSS unchanged; alternating sides preserved",
+  "geographic_claims": "Owner regional image labels retained in admin records; alt text describes visible subjects; named capture/property claims removed; uncertain cliff and big-cat selections excluded",
+  "visual_review": "All 24 updated pages require desktop/mobile rendered review; browser admin-enforced policy verification unavailable",
+  "live_contact_delivery_this_review": "Not tested in this run; browser policy prevents authentic inquiry flow. Handler tests include Bolivia but are not inbox proof.",
+  "production_scope": "Unchanged ecuador-peru; Bolivia not activated in production",
+  "remaining_gates": [
+    "Authenticated desktop/mobile visual review for all updated pages, menu/FAQ/language interactions",
+    "Real Bolivia inquiry accepted and inbox delivery verified",
+    "Owner release review before production activation and sitemap update"
+  ],
+  "local_worker_tokens_this_image_update": 0,
+  "overall_cloud_local_percentage": "unavailable",
+  "protected_staging_readback": "Unauthenticated Access redirect verified separately; authenticated rendering blocked",
+  "pages": [
+    {
+      "route": "/bolivia/",
+      "topic": "hub",
+      "hub_click_depth": 0
+    },
+    {
+      "route": "/es/bolivia/",
+      "topic": "hub",
+      "hub_click_depth": 0
+    },
+    {
+      "route": "/bolivia/plan-your-amazon-trip/",
+      "topic": "planning",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+      "topic": "planning",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/bolivia/rurrenabaque/",
+      "topic": "rurrenabaque",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/es/bolivia/rurrenabaque/",
+      "topic": "rurrenabaque",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/bolivia/madidi/",
+      "topic": "madidi",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/es/bolivia/madidi/",
+      "topic": "madidi",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/bolivia/pampas-del-yacuma/",
+      "topic": "pampas",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/es/bolivia/pampas-del-yacuma/",
+      "topic": "pampas",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/bolivia/forest-or-pampas/",
+      "topic": "comparison",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/es/bolivia/selva-o-pampas/",
+      "topic": "comparison",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/bolivia/forest-and-pampas-tours/",
+      "topic": "combined",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/es/bolivia/tours-de-selva-y-pampas/",
+      "topic": "combined",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/bolivia/amazon-accommodation/",
+      "topic": "accommodation",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/es/bolivia/alojamientos-amazonicos/",
+      "topic": "accommodation",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/bolivia/best-time-to-visit/",
+      "topic": "timing",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/es/bolivia/mejor-epoca-para-visitar/",
+      "topic": "timing",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/bolivia/wildlife/",
+      "topic": "wildlife",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/es/bolivia/fauna/",
+      "topic": "wildlife",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/bolivia/how-to-get-there/",
+      "topic": "access",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/es/bolivia/como-llegar/",
+      "topic": "access",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/bolivia/packing-list/",
+      "topic": "packing",
+      "hub_click_depth": 1
+    },
+    {
+      "route": "/es/bolivia/que-llevar/",
+      "topic": "packing",
+      "hub_click_depth": 1
+    }
+  ]
+}

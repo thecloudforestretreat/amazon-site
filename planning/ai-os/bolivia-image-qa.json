@@ -1,0 +1,251 @@
+{
+  "pages_checked": 24,
+  "errors": [],
+  "pages": [
+    {
+      "route": "/bolivia/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-aerial.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-canoe-bow-forest-river.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-capybaras-grassy-riverbank.webp"
+      ],
+      "hub_click_depth": 0,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/es/bolivia/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-aerial.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-canoe-bow-forest-river.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-capybaras-grassy-riverbank.webp"
+      ],
+      "hub_click_depth": 0,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/bolivia/plan-your-amazon-trip/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-canoe-bow-river-blue-sky.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-travelers-forest-trail.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-thatched-hammock-shelter.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-canoe-bow-river-blue-sky.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-travelers-forest-trail.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-thatched-hammock-shelter.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/bolivia/rurrenabaque/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-riverfront-landing-boats.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-wooden-boats-riverfront.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-riverfront-wide-clouds.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/es/bolivia/rurrenabaque/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-riverfront-landing-boats.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-wooden-boats-riverfront.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-riverfront-wide-clouds.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/bolivia/madidi/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-sunset.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-channel.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-rainforest-walk-rain-ponchos.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/es/bolivia/madidi/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-sunset.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-channel.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-rainforest-walk-rain-ponchos.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/bolivia/pampas-del-yacuma/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-pampas-wetland-aerial.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-capybaras-grassy-riverbank.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-canoe-bow-forest-river.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/es/bolivia/pampas-del-yacuma/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-pampas-wetland-aerial.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-capybaras-grassy-riverbank.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-canoe-bow-forest-river.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/bolivia/forest-or-pampas/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-green-bank.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-pampas-wetland-aerial.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-river-dolphin-surfacing.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/es/bolivia/selva-o-pampas/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-green-bank.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-pampas-wetland-aerial.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-river-dolphin-surfacing.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/bolivia/forest-and-pampas-tours/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-river-boat-mountain-backdrop.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-wetland-sunset-traveler.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-forest-lodge-cabins.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/es/bolivia/tours-de-selva-y-pampas/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-river-boat-mountain-backdrop.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-wetland-sunset-traveler.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-forest-lodge-cabins.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/bolivia/amazon-accommodation/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-thatched-cabin-forest-path.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-thatched-hammock-shelter.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-forest-lodge-cabins.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/es/bolivia/alojamientos-amazonicos/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-thatched-cabin-forest-path.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-thatched-hammock-shelter.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-forest-lodge-cabins.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/bolivia/best-time-to-visit/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-river-sunset-boat-silhouette.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-canoe-paddler-forest-channel.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-night-sky-trees-camp.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/es/bolivia/mejor-epoca-para-visitar/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-river-sunset-boat-silhouette.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-canoe-paddler-forest-channel.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-night-sky-trees-camp.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/bolivia/wildlife/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-small-monkeys-pair.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-caiman-water-closeup.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-macaws-in-flight.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/es/bolivia/fauna/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-small-monkeys-pair.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-caiman-water-closeup.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-macaws-in-flight.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/bolivia/how-to-get-there/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-boats-shaded-riverbank.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-river-valley-settlement.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-travelers-inflatable-boat-forest.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/es/bolivia/como-llegar/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-boats-shaded-riverbank.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-river-valley-settlement.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-travelers-inflatable-boat-forest.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/bolivia/packing-list/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-travelers-forest-trail.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-rainforest-walk-rain-ponchos.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-canoe-paddler-forest-channel.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    },
+    {
+      "route": "/es/bolivia/que-llevar/",
+      "assets": [
+        "/assets/images/pages/countries/bolivia/optimized/amazon-travelers-forest-trail.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-rainforest-walk-rain-ponchos.webp",
+        "/assets/images/pages/countries/bolivia/optimized/amazon-canoe-paddler-forest-channel.webp"
+      ],
+      "hub_click_depth": 1,
+      "matched_language_selection": true
+    }
+  ],
+  "limits": [
+    "Hash checks detect byte duplicates; scene uniqueness also requires human review",
+    "Static dimensions and metadata checks are not rendered desktop/mobile QA",
+    "No live inquiry submission or inbox delivery performed in this run"
+  ]
+}

@@ -1,0 +1,543 @@
+{
+  "review_date": "2026-10-07",
+  "rights": "Owner supplied Adobe Express assets, same authorized workflow as Ecuador/Peru",
+  "scene_policy": "Distinct scene per page; same set shared between languages; cross-page reuse permitted",
+  "images": {
+    "amazon-boats-shaded-riverbank": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-boats-shaded-riverbank.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "cb72ebc16f7a2db30073519f7e5fd2f83add02ba1ffbd05360e4005bc1a60c09",
+      "web_sha256": "27d409e66d3d790e8a105f159fd1cf9d3e85357c462fda5765408b22bc939558",
+      "original_bytes": 318054,
+      "web_bytes": 191102,
+      "alt": {
+        "en": "Boats moored beneath trees along a riverbank",
+        "es": "Embarcaciones amarradas bajo árboles en la orilla"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-caiman-water-closeup": {
+      "width": 1280,
+      "height": 1600,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-caiman-water-closeup.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "9b3b96b218d6a345ce9cabca377df846ed576374c3e455d8cd0dbf1ee0228430",
+      "web_sha256": "24e5cc35e2a630125d3d37006be87020955f6d2d46f24fc4c408405d5d32b356",
+      "original_bytes": 229021,
+      "web_bytes": 175894,
+      "alt": {
+        "en": "Close view of a caiman at the water surface",
+        "es": "Primer plano de un caimán en la superficie del agua"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-canoe-bow-forest-river": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-canoe-bow-forest-river.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "308a470179a2255011978fddad7e71909de2958b8de5f0ec31f98bc5691bcf98",
+      "web_sha256": "3fd0698d7112301bb6bbd94c6da2debd14b299fb722f27f3a74b28eac6e614ab",
+      "original_bytes": 325196,
+      "web_bytes": 201554,
+      "alt": {
+        "en": "View from a canoe along a forest-lined river",
+        "es": "Vista desde una canoa en un río rodeado de bosque"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-canoe-bow-river-blue-sky": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-canoe-bow-river-blue-sky.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "eb0987f01ee8725f14bfc027459cb9c6c8aa1e523f0a9ee9cef6fd1f006c7c16",
+      "web_sha256": "b80ebc8705be4ce0981cb56b867336ebfda09de3965933bcb9446d364650ee30",
+      "original_bytes": 308974,
+      "web_bytes": 192610,
+      "alt": {
+        "en": "Canoe bow on a river beneath a blue sky",
+        "es": "Proa de canoa en un río bajo cielo azul"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-canoe-paddler-forest-channel": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-canoe-paddler-forest-channel.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "51c5cb3cf6828a4b43a18cf47a6099e6a5325ab117f0a4d6aeed04f9735778b5",
+      "web_sha256": "6fb5afd0ca021810a9491b70517374ae546475e7154dca92c578026538ababb9",
+      "original_bytes": 446561,
+      "web_bytes": 296768,
+      "alt": {
+        "en": "Traveler paddling a canoe through a green river channel",
+        "es": "Viajero remando en canoa por un canal rodeado de vegetación"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-capybaras-grassy-riverbank": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-capybaras-grassy-riverbank.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "433ce82c022c92527f8a5965f52b8364a366100efe74af77c89a6a11ca744a9e",
+      "web_sha256": "2863309a4ac4ca6de1254dbf4e694ac5d473d66e064f54df17572750d7bc8b04",
+      "original_bytes": 400559,
+      "web_bytes": 267338,
+      "alt": {
+        "en": "Capybaras resting on a grassy riverbank",
+        "es": "Capibaras descansando en una orilla cubierta de hierba"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-forest-lodge-cabins": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-lodge-cabins.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "55fd8d9db56a35c6ca14961b965eae0a4e3c1899602b2f516d362143bc326652",
+      "web_sha256": "17f1d31f83d22ff45001857fc0e3c97f8cbf8586024159fc9a02254ccef3d1a2",
+      "original_bytes": 465783,
+      "web_bytes": 330230,
+      "alt": {
+        "en": "Thatched cabins beside tropical forest",
+        "es": "Cabañas con techos vegetales junto al bosque tropical"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-forest-river-aerial": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-aerial.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "25fdbaac484995f9de40d64e3334022af4578b8584ddf44d0eae688523ba3d97",
+      "web_sha256": "3acf7d2822a7a986c4e6466f9551f2ac1ef3594975e7d799297620527c36df75",
+      "original_bytes": 413373,
+      "web_bytes": 268828,
+      "alt": {
+        "en": "A winding river surrounded by tropical forest",
+        "es": "Río sinuoso rodeado de bosque tropical"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-forest-river-channel": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-channel.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "26fc7f3acb97ef3ebb20601be3e1936abd5dacf94d5512733f3821f39b590562",
+      "web_sha256": "86ee2b866c5376b71f445a987aed66705faefd05f2cbd869f0ba201df71b3ba6",
+      "original_bytes": 311342,
+      "web_bytes": 189574,
+      "alt": {
+        "en": "River channel between wooded banks",
+        "es": "Canal fluvial entre orillas arboladas"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-forest-river-green-bank": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-green-bank.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "60f113fe0a60811cf2f40f3373267f90ce1a9e113200bdec2c3c81319943c1c0",
+      "web_sha256": "6e509e2f675ce1bcbc41bffc726d044c75aa710fa9c73e54846beb50bea82b31",
+      "original_bytes": 529383,
+      "web_bytes": 365076,
+      "alt": {
+        "en": "Still river water bordered by dense green vegetation",
+        "es": "Agua tranquila rodeada de vegetación densa"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-forest-river-sunset": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-sunset.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "1bfd90ab7caece29793539505b2a45970100c256b824da89bb35b4204fcedc5d",
+      "web_sha256": "1207b7ec779a5932e6a719caa8ef65c7f07dd2dae9b7bf01f37f1853059451eb",
+      "original_bytes": 256042,
+      "web_bytes": 141608,
+      "alt": {
+        "en": "Sunset reflected in a river beside forest",
+        "es": "Atardecer reflejado en un río junto al bosque"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-macaws-in-flight": {
+      "width": 1280,
+      "height": 1600,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-macaws-in-flight.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "82d58f5b49cb5bf966d6dea475a78706f5329dd7c6874a360de3ce2cf848e4e1",
+      "web_sha256": "b4baaf108be2a1643a1d416aef8fbd8cbfa0a731bc166413c9b4ed942f41bea4",
+      "original_bytes": 126325,
+      "web_bytes": 83978,
+      "alt": {
+        "en": "Colorful macaws flying past green foliage",
+        "es": "Guacamayos de colores volando frente a la vegetación"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-night-sky-trees-camp": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-night-sky-trees-camp.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "e1e23900ce1147e304430ae4fed3818ae8c945427e2c2ea4378955d5ac5d33c3",
+      "web_sha256": "18664feef44012adc542168a8fb5c2b97a04a5de005029bc503b18e5b484b5fa",
+      "original_bytes": 290933,
+      "web_bytes": 175620,
+      "alt": {
+        "en": "Starry night above trees and a warmly lit camp",
+        "es": "Cielo estrellado sobre árboles y un campamento iluminado"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-pampas-wetland-aerial": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-pampas-wetland-aerial.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "c7963952dbf9bd10cd4cdfc3776700b511c3c81ab6cb5a2a4d32d567e54e1e61",
+      "web_sha256": "1e9ba60a36640943a9fd13900aa288febccbd52c9db7590f8d2c42900318e2a8",
+      "original_bytes": 525666,
+      "web_bytes": 362000,
+      "alt": {
+        "en": "Aerial view of open wetlands with scattered trees",
+        "es": "Vista aérea de humedales abiertos con árboles dispersos"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-rainforest-walk-rain-ponchos": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-rainforest-walk-rain-ponchos.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "5acc9cc8a7b2359875c3272561e152fd30eb04699d2ea9991a8417d4a312c936",
+      "web_sha256": "38788f9c28a168f260d0be5538cf2b24a0a8610eb8e86a04ecdc4f13dc8a7824",
+      "original_bytes": 325800,
+      "web_bytes": 205576,
+      "alt": {
+        "en": "Travelers wearing rain ponchos on a forest walk",
+        "es": "Viajeros con ponchos de lluvia caminando por el bosque"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-river-boat-mountain-backdrop": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-river-boat-mountain-backdrop.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "85495cfbe57255c13baa4ce4904bd4dd3201126ea2e07c9fbba089e3048652c2",
+      "web_sha256": "a41d6dcdb19c5f9759415854016d3a2838dc45f869ebce65b85e2cadfda9b30a",
+      "original_bytes": 263258,
+      "web_bytes": 148398,
+      "alt": {
+        "en": "Long river boat with forested hills behind it",
+        "es": "Embarcación fluvial con colinas arboladas al fondo"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-river-dolphin-surfacing": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-river-dolphin-surfacing.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "295c7bda93ea308ebf9a7f7c348bc76c3f54abe44db224151c73d809b7817c43",
+      "web_sha256": "ddd12bbabc551624a055c12ac372aa6700b808e43b0ba2905dd781e98dff3b3f",
+      "original_bytes": 301941,
+      "web_bytes": 182350,
+      "alt": {
+        "en": "River dolphin breaking the water surface",
+        "es": "Delfín de río asomando sobre el agua"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-river-sunset-boat-silhouette": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-river-sunset-boat-silhouette.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "1813841089868a2ec5e0ad4c5233f185a0c624fe91fb6e2fcd0f84c7a7f0db92",
+      "web_sha256": "9b63eb41c671228d63147f7ff6b1e73e7ea76fcab844ddf9d62d4307eb2f51a7",
+      "original_bytes": 207254,
+      "web_bytes": 112862,
+      "alt": {
+        "en": "Boat silhouetted on a river beneath an orange sunset",
+        "es": "Silueta de embarcación en un río al atardecer"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-river-valley-settlement": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-river-valley-settlement.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "061672e240cde168bab3cb4ef97d2968b5f2578a3ca5d70e920f76eca59249f2",
+      "web_sha256": "f4717f1170f86bfed4e2826a45bef808f0e5600d205ee45591aae63060a19977",
+      "original_bytes": 259443,
+      "web_bytes": 150662,
+      "alt": {
+        "en": "Riverside settlement beneath wooded hills",
+        "es": "Asentamiento junto al río bajo colinas arboladas"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-riverfront-landing-boats": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-riverfront-landing-boats.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "54079fe3596c0a707de7957ac24f64d4b6421aa5db1ecea033f86b3d7d77178c",
+      "web_sha256": "e12740fcd31052cf8f6d1715e037d6094053f7e7adf0509d178aaf6a1390c6dd",
+      "original_bytes": 296227,
+      "web_bytes": 181706,
+      "alt": {
+        "en": "Boats and buildings beside a river landing",
+        "es": "Embarcaciones y edificios junto a un embarcadero"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-riverfront-wide-clouds": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-riverfront-wide-clouds.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "3feeb356ce262ce3b4feaf5a9f9186b3ac7292ed795875ae61db68b97909d73e",
+      "web_sha256": "dd8b61dd587b3914238f4d7b2cb384365227850d6f1f1efcc913d74088d225e8",
+      "original_bytes": 280673,
+      "web_bytes": 166648,
+      "alt": {
+        "en": "Wide riverfront beneath a sky filled with clouds",
+        "es": "Orilla amplia bajo un cielo cubierto de nubes"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-small-monkeys-pair": {
+      "width": 1280,
+      "height": 1600,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-small-monkeys-pair.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "7498d6ee621cab64d0807d713a35584241994b7a39ae281cced9fc11820db7bd",
+      "web_sha256": "f9e39893d267e654aedd43050ce21d340f436e8b7f5d9504f512ee4226c07cf9",
+      "original_bytes": 164505,
+      "web_bytes": 116268,
+      "alt": {
+        "en": "Two small monkeys together on a branch",
+        "es": "Dos monos pequeños juntos sobre una rama"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-thatched-cabin-forest-path": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-thatched-cabin-forest-path.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "b85dafa02b28255645c9f56d4c74a736d790b8e154362aabf6827f5b44b5585c",
+      "web_sha256": "11e1976e4459f41423b2082805386e3beef20c6616db0c43f04dd3aa9888daff",
+      "original_bytes": 659195,
+      "web_bytes": 458272,
+      "alt": {
+        "en": "Thatched cabin reached by a path through greenery",
+        "es": "Cabaña de techo vegetal junto a un sendero entre vegetación"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-thatched-cabins-walkway": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-thatched-cabins-walkway.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "8849ded17af56085659130738ad863e40eefd631d1e2135bd6e15e498ac25bc2",
+      "web_sha256": "42fba9860ff8e1380f513d2726e35cac9f45990c3248c5ec108693bb6e283bf5",
+      "original_bytes": 581416,
+      "web_bytes": 391750,
+      "alt": {
+        "en": "Raised cabins connected by a walkway",
+        "es": "Cabañas elevadas junto a una pasarela"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-thatched-hammock-shelter": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-thatched-hammock-shelter.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "4952cb2f95f925efa19652fda7803c265e17da71e09e80cc74a3de2fae9471de",
+      "web_sha256": "43f5742b8fe1771f4bafb76454e4ce41cd0d5ac98a61946ec255fc2c0899152e",
+      "original_bytes": 446588,
+      "web_bytes": 301092,
+      "alt": {
+        "en": "Hammock beneath a thatched shelter surrounded by greenery",
+        "es": "Hamaca bajo un refugio de techo vegetal rodeado de vegetación"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-travelers-forest-trail": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-travelers-forest-trail.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "5ba0a869d87c409be0dd587404aa3cf3d5c8a966e20741217c55833a8fe88f9b",
+      "web_sha256": "2c37578da69a60a711ad46c44d32869629977230190daf996c12d9b6a545db35",
+      "original_bytes": 613053,
+      "web_bytes": 467672,
+      "alt": {
+        "en": "Travelers walking along a forest trail",
+        "es": "Viajeros caminando por un sendero del bosque"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-travelers-inflatable-boat-forest": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-travelers-inflatable-boat-forest.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "70c7610df5dd40fa88db92923b276863dde812731a46fd62c294f3d991d01d8c",
+      "web_sha256": "b3da10df77809cfdd362f6cc651423c1c93f6eede7f6e3cfa6f5af3c32a155a0",
+      "original_bytes": 180693,
+      "web_bytes": 101150,
+      "alt": {
+        "en": "Travelers paddling an inflatable boat along a forest waterway",
+        "es": "Viajeros remando en una embarcación inflable entre bosque"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-wetland-sunset-traveler": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-wetland-sunset-traveler.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "431a0c95e9160665bbd4882e44980251846257ec769309d1db1bfe0c13214d51",
+      "web_sha256": "ada436adabf87c618bc862d242d48ade596944dce782a13c7f9da572a03712e5",
+      "original_bytes": 131046,
+      "web_bytes": 68748,
+      "alt": {
+        "en": "Traveler standing in shallow water at sunset",
+        "es": "Viajero en agua poco profunda al atardecer"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-wooden-boats-riverfront": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-wooden-boats-riverfront.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "2a75ef4c9958f8821ffa21e0f5b3c516a14b68479a0ba85b734da1245ee8173c",
+      "web_sha256": "c332e843c5f39c28dd519314197234c08be05de18f5e94f5149523dbdfaaf74d",
+      "original_bytes": 336395,
+      "web_bytes": 202658,
+      "alt": {
+        "en": "Colorful wooden boats moored beside the river",
+        "es": "Embarcaciones de madera de colores junto al río"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    }
+  },
+  "pages": {
+    "hub": [
+      "forest-river-aerial",
+      "canoe-bow-forest-river",
+      "capybaras-grassy-riverbank"
+    ],
+    "planning": [
+      "canoe-bow-river-blue-sky",
+      "travelers-forest-trail",
+      "thatched-hammock-shelter"
+    ],
+    "rurrenabaque": [
+      "riverfront-landing-boats",
+      "wooden-boats-riverfront",
+      "riverfront-wide-clouds"
+    ],
+    "madidi": [
+      "forest-river-sunset",
+      "forest-river-channel",
+      "rainforest-walk-rain-ponchos"
+    ],
+    "pampas": [
+      "pampas-wetland-aerial",
+      "capybaras-grassy-riverbank",
+      "canoe-bow-forest-river"
+    ],
+    "comparison": [
+      "forest-river-green-bank",
+      "pampas-wetland-aerial",
+      "river-dolphin-surfacing"
+    ],
+    "combined": [
+      "river-boat-mountain-backdrop",
+      "wetland-sunset-traveler",
+      "forest-lodge-cabins"
+    ],
+    "accommodation": [
+      "thatched-cabin-forest-path",
+      "thatched-hammock-shelter",
+      "forest-lodge-cabins"
+    ],
+    "timing": [
+      "river-sunset-boat-silhouette",
+      "canoe-paddler-forest-channel",
+      "night-sky-trees-camp"
+    ],
+    "wildlife": [
+      "small-monkeys-pair",
+      "caiman-water-closeup",
+      "macaws-in-flight"
+    ],
+    "access": [
+      "boats-shaded-riverbank",
+      "river-valley-settlement",
+      "travelers-inflatable-boat-forest"
+    ],
+    "packing": [
+      "travelers-forest-trail",
+      "rainforest-walk-rain-ponchos",
+      "canoe-paddler-forest-channel"
+    ]
+  },
+  "unselected": [
+    "amazon-river-valley-cliff-overlook.jpg: exact geographic context uncertain",
+    "amazon-spotted-big-cat-portrait.jpg: species/context uncertain",
+    "Additional unused assets retained unchanged"
+  ],
+  "upload_duplicate": "amazon-forest-river-aerial (1).jpg retained in source folder but not referenced",
+  "visual_qa": "pending browser security-policy recovery",
+  "original_total_bytes": 9994699,
+  "web_total_bytes": 6497992,
+  "scene_review": "Contact sheets visually reviewed; cabin views 75 and 78 treated as same scene and not placed on same page. Uncertain location/species assets unused."
+}

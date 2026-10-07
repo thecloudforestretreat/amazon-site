@@ -1,5 +1,5 @@
 {
-  "status": "batch6_deployed_visual_review_pending",
+  "status": "images_deployed_technical_pass_final_visual_review_pending",
   "batch_size_pairs": 2,
   "target_pairs": 12,
   "launch_scope": [
@@ -44,19 +44,19 @@
       "https://bolivia.wcs.org/en-us/Landscapes/Madidi-Tambopata/Pampas-del-Yacuma.aspx"
     ]
   ],
-  "progress": "12/12 bilingual pairs built (100% content); 6/12 fully visually reviewed; batches4\u20136 desktop/mobile QA pending browser policy recovery",
+  "progress": "12/12 bilingual pairs updated with owner imagery; technical QA 24/24 passed; current image deployment visual review 0/24 pending browser recovery",
   "next_batch": [],
   "qa": "124 compiled pages validated; 24 Bolivia pages zero audit errors, 1282\u20131400 main words, eleven country referring pages each; visual QA pending",
-  "rollback": "88d8c842",
-  "latest_staging_deployment": "fe7acaaf",
+  "rollback": "fe7acaaf",
+  "latest_staging_deployment": "2308e218",
   "protected_readback": "Unauthenticated Access 302 confirmed; authenticated browser review blocked by unavailable admin-policy verification",
   "remaining_gates": [
-    "Batches4\u20136 authenticated desktop/mobile visual and interaction QA",
-    "Full country editorial and release QA including inquiry flow and production scope/sitemap review",
-    "Owner review before production"
+    "Authenticated desktop/mobile visual review for all updated pages, menu/FAQ/language interactions",
+    "Real Bolivia inquiry accepted and inbox delivery verified",
+    "Owner release review before production activation and sitemap update"
   ],
   "requirements_review": "planning/ai-os/bolivia-requirements-review.json",
-  "current_reviewed_checkpoint": "planning/ai-os/bolivia-batch6-reviewed.json",
+  "current_reviewed_checkpoint": "planning/ai-os/bolivia-images-reviewed.json",
   "built_pairs": [
     "pair_038",
     "bolivia_planning_001",
@@ -70,5 +70,6 @@
     "bolivia_wildlife_001",
     "bolivia_access_001",
     "bolivia_packing_001"
-  ]
+  ],
+  "release_readiness": "planning/ai-os/bolivia-release-readiness.json"
 }

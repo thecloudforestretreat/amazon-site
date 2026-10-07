@@ -4,7 +4,7 @@
   "pages": [
     {
       "route": "/bolivia/",
-      "main_words": 1332,
+      "main_words": 1331,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/forest-or-pampas/",
@@ -50,7 +50,7 @@
     },
     {
       "route": "/bolivia/amazon-accommodation/",
-      "main_words": 1343,
+      "main_words": 1340,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/",
@@ -96,7 +96,7 @@
     },
     {
       "route": "/bolivia/best-time-to-visit/",
-      "main_words": 1343,
+      "main_words": 1340,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/",
@@ -142,7 +142,7 @@
     },
     {
       "route": "/bolivia/forest-and-pampas-tours/",
-      "main_words": 1335,
+      "main_words": 1332,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/",
@@ -188,7 +188,7 @@
     },
     {
       "route": "/bolivia/forest-or-pampas/",
-      "main_words": 1338,
+      "main_words": 1336,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/",
@@ -234,7 +234,7 @@
     },
     {
       "route": "/bolivia/how-to-get-there/",
-      "main_words": 1348,
+      "main_words": 1345,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/",
@@ -280,7 +280,7 @@
     },
     {
       "route": "/bolivia/madidi/",
-      "main_words": 1347,
+      "main_words": 1344,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/",
@@ -326,7 +326,7 @@
     },
     {
       "route": "/bolivia/packing-list/",
-      "main_words": 1400,
+      "main_words": 1399,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/",
@@ -372,7 +372,7 @@
     },
     {
       "route": "/bolivia/pampas-del-yacuma/",
-      "main_words": 1339,
+      "main_words": 1325,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/",
@@ -418,7 +418,7 @@
     },
     {
       "route": "/bolivia/plan-your-amazon-trip/",
-      "main_words": 1319,
+      "main_words": 1318,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/",
@@ -464,7 +464,7 @@
     },
     {
       "route": "/bolivia/rurrenabaque/",
-      "main_words": 1353,
+      "main_words": 1351,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/",
@@ -510,7 +510,7 @@
     },
     {
       "route": "/bolivia/wildlife/",
-      "main_words": 1349,
+      "main_words": 1336,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/bolivia/",
@@ -556,7 +556,7 @@
     },
     {
       "route": "/es/bolivia/",
-      "main_words": 1318,
+      "main_words": 1316,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/selva-o-pampas/",
@@ -602,7 +602,7 @@
     },
     {
       "route": "/es/bolivia/alojamientos-amazonicos/",
-      "main_words": 1285,
+      "main_words": 1274,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/",
@@ -648,7 +648,7 @@
     },
     {
       "route": "/es/bolivia/como-llegar/",
-      "main_words": 1308,
+      "main_words": 1304,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/",
@@ -694,7 +694,7 @@
     },
     {
       "route": "/es/bolivia/fauna/",
-      "main_words": 1298,
+      "main_words": 1287,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/",
@@ -740,7 +740,7 @@
     },
     {
       "route": "/es/bolivia/madidi/",
-      "main_words": 1321,
+      "main_words": 1318,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/",
@@ -786,7 +786,7 @@
     },
     {
       "route": "/es/bolivia/mejor-epoca-para-visitar/",
-      "main_words": 1282,
+      "main_words": 1278,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/",
@@ -832,7 +832,7 @@
     },
     {
       "route": "/es/bolivia/pampas-del-yacuma/",
-      "main_words": 1378,
+      "main_words": 1369,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/",
@@ -878,7 +878,7 @@
     },
     {
       "route": "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
-      "main_words": 1300,
+      "main_words": 1298,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/",
@@ -924,7 +924,7 @@
     },
     {
       "route": "/es/bolivia/que-llevar/",
-      "main_words": 1322,
+      "main_words": 1320,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/",
@@ -970,7 +970,7 @@
     },
     {
       "route": "/es/bolivia/rurrenabaque/",
-      "main_words": 1339,
+      "main_words": 1336,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/",
@@ -1016,7 +1016,7 @@
     },
     {
       "route": "/es/bolivia/selva-o-pampas/",
-      "main_words": 1365,
+      "main_words": 1362,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/",
@@ -1062,7 +1062,7 @@
     },
     {
       "route": "/es/bolivia/tours-de-selva-y-pampas/",
-      "main_words": 1303,
+      "main_words": 1299,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/bolivia/",
