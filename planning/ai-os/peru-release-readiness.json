@@ -1,7 +1,7 @@
 {
-  "status": "technical_pass_visual_and_inbox_confirmation_pending",
+  "status": "staging_qa_pass_production_activation_pending",
   "review_date": "2026-10-07",
-  "deployment": "9f17b511",
+  "deployment": "9df47740",
   "content_pairs": 12,
   "content_pages": 24,
   "technical_audit_errors": [],
@@ -10,12 +10,11 @@
   "max_click_depth_from_language_hub": 1,
   "contact_tests_passed": 17,
   "live_contact_delivery_this_review": "Real Peru staging inquiry accepted; owner confirmed inbox delivery October 7",
-  "visual_review": "Browser access restored; country-wide desktop/mobile review pending",
-  "protected_staging_readback": "Contact page read successfully; full Peru page readback pending",
+  "visual_review": "24 pages at desktop 1440 and mobile 390; full-page layout captures reviewed; no horizontal overflow; sticky header; all content images loaded; keyboard hamburger and FAQ checks passed",
+  "protected_staging_readback": "All 24 Peru routes reviewed in authenticated browser on protected custom domain",
   "production_activation": "Not performed; current production build remains Ecuador only",
   "remaining_gates": [
-    "Desktop/mobile visual review of deployed Peru pages",
-    "Production scope/navigation/sitemap activation and post-release verification after QA approval"
+    "Production scope/navigation/sitemap activation and post-release verification"
   ],
   "pages": [
     {
@@ -192,5 +191,6 @@
     "Gold CTA hover uses dark text on pale gold; normal, hover and focus remain readable",
     "Button keyboard-focus radius retained"
   ],
-  "review_scope": "Technical checks across 24 pages; source CSS responsive/cascade review and guide structure review. Browser visual review remains blocked."
+  "review_scope": "Content structure, internal links, image scene uniqueness, full-page responsive layout review and form regression checks. No claim of field performance or ranking guarantees.",
+  "visual_evidence": "planning/ai-os/evidence/peru-final-qa/results.json"
 }

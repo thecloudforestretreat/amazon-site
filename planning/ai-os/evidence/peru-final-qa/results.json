@@ -1,0 +1,1115 @@
+[
+  {
+    "route": "/es/peru/",
+    "width": 1440,
+    "file": "desktop-0.png",
+    "css": [
+      "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+      "/assets/css/core.css?v=f235948f527a",
+      "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+      "/assets/css/clusters/peru.css?v=88b2aa22c37d"
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-river-forest-aerial.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-canoe-river-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-capybaras-riverbank.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-macaws-clay-lick.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/alojamientos-amazonicos/",
+    "width": 1440,
+    "file": "desktop-1.png",
+    "css": [
+      "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+      "/assets/css/core.css?v=f235948f527a",
+      "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+      "/assets/css/clusters/peru.css?v=88b2aa22c37d"
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-forest-lodge-aerial.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-riverside-thatched-lodge.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-river-lodge-and-gardens.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/como-llegar/",
+    "width": 1440,
+    "file": "desktop-2.png",
+    "css": [
+      "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+      "/assets/css/core.css?v=f235948f527a",
+      "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+      "/assets/css/clusters/peru.css?v=88b2aa22c37d"
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-forest-river-canoe.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-canoe-river-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-guided-canoe-journey.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/comparar-regiones-amazonicas/",
+    "width": 1440,
+    "file": "desktop-3.png",
+    "css": [
+      "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+      "/assets/css/core.css?v=f235948f527a",
+      "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+      "/assets/css/clusters/peru.css?v=88b2aa22c37d"
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-forest-reflections.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-forest-river-canoe.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-macaws-in-flight.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-capybaras-riverbank.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/fauna/",
+    "width": 1440,
+    "file": "desktop-4.png",
+    "css": [
+      "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+      "/assets/css/core.css?v=f235948f527a",
+      "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+      "/assets/css/clusters/peru.css?v=88b2aa22c37d"
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-monkey-branch-wide.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-macaws-clay-lick.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-otter-wide.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/iquitos/",
+    "width": 1440,
+    "file": "desktop-5.png",
+    "css": [
+      "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+      "/assets/css/core.css?v=f235948f527a",
+      "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+      "/assets/css/clusters/peru.css?v=88b2aa22c37d"
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-forest-river-canoe.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-river-forest-aerial.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-giant-water-lilies.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/manu/",
+    "width": 1440,
+    "file": "desktop-6.png",
+    "css": [
+      "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+      "/assets/css/core.css?v=f235948f527a",
+      "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+      "/assets/css/clusters/peru.css?v=88b2aa22c37d"
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-forest-moon-and-birds.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-guided-canoe-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-monkey-in-trees.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/mejor-epoca-para-visitar/",
+    "width": 1440,
+    "file": "desktop-7.png",
+    "css": [
+      "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+      "/assets/css/core.css?v=f235948f527a",
+      "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+      "/assets/css/clusters/peru.css?v=88b2aa22c37d"
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-sunset.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-forest-reflections.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-forest-moon-and-birds.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/pacaya-samiria/",
+    "width": 1440,
+    "file": "desktop-8.png",
+    "css": [
+      "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+      "/assets/css/core.css?v=f235948f527a",
+      "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+      "/assets/css/clusters/peru.css?v=88b2aa22c37d"
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-river-reflections.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-forest-canopy.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-riverside-lodge.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+    "width": 1440,
+    "file": "desktop-9.png",
+    "css": [
+      "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+      "/assets/css/core.css?v=f235948f527a",
+      "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+      "/assets/css/clusters/peru.css?v=88b2aa22c37d"
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-sunset.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-guided-canoe-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-riverside-thatched-lodge.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-turtle-butterflies-wide.webp"
+      }
+    ],
+    "overflow": false,
+    "followup": "All four images verified loaded after complete desktop scroll"
+  },
+  {
+    "route": "/es/peru/que-llevar/",
+    "width": 1440,
+    "file": "desktop-10.png",
+    "css": [
+      "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+      "/assets/css/core.css?v=f235948f527a",
+      "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+      "/assets/css/clusters/peru.css?v=88b2aa22c37d"
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-forest-canoe.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-forest-canopy.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-turtle-butterflies-wide.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/tambopata/",
+    "width": 1440,
+    "file": "desktop-11.png",
+    "css": [
+      "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+      "/assets/css/core.css?v=f235948f527a",
+      "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+      "/assets/css/clusters/peru.css?v=88b2aa22c37d"
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-canoe-river-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-macaws-in-flight.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/",
+    "width": 1440,
+    "file": "desktop-12.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-river-forest-aerial.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-canoe-river-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-capybaras-riverbank.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-macaws-clay-lick.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/amazon-lodges/",
+    "width": 1440,
+    "file": "desktop-13.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-forest-lodge-aerial.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-riverside-thatched-lodge.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-river-lodge-and-gardens.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/best-time-to-visit/",
+    "width": 1440,
+    "file": "desktop-14.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-sunset.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-forest-reflections.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-forest-moon-and-birds.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/compare-amazon-regions/",
+    "width": 1440,
+    "file": "desktop-15.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-forest-reflections.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-forest-river-canoe.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-macaws-in-flight.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-capybaras-riverbank.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/getting-there/",
+    "width": 1440,
+    "file": "desktop-16.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-forest-river-canoe.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-canoe-river-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-guided-canoe-journey.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/iquitos/",
+    "width": 1440,
+    "file": "desktop-17.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-forest-river-canoe.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-river-forest-aerial.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-giant-water-lilies.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/manu/",
+    "width": 1440,
+    "file": "desktop-18.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-forest-moon-and-birds.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-guided-canoe-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-monkey-in-trees.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/pacaya-samiria/",
+    "width": 1440,
+    "file": "desktop-19.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-river-reflections.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-forest-canopy.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-riverside-lodge.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/packing-list/",
+    "width": 1440,
+    "file": "desktop-20.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-forest-canoe.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-forest-canopy.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-turtle-butterflies-wide.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/plan-your-amazon-trip/",
+    "width": 1440,
+    "file": "desktop-21.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-sunset.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-guided-canoe-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-riverside-thatched-lodge.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-turtle-butterflies-wide.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/tambopata/",
+    "width": 1440,
+    "file": "desktop-22.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-canoe-river-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-macaws-in-flight.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/wildlife/",
+    "width": 1440,
+    "file": "desktop-23.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-monkey-branch-wide.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-macaws-clay-lick.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-otter-wide.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/",
+    "width": 390,
+    "file": "mobile-0.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-river-forest-aerial.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-canoe-river-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-capybaras-riverbank.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-macaws-clay-lick.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/alojamientos-amazonicos/",
+    "width": 390,
+    "file": "mobile-1.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-forest-lodge-aerial.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-riverside-thatched-lodge.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-river-lodge-and-gardens.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/como-llegar/",
+    "width": 390,
+    "file": "mobile-2.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-forest-river-canoe.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-canoe-river-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-guided-canoe-journey.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/comparar-regiones-amazonicas/",
+    "width": 390,
+    "file": "mobile-3.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-forest-reflections.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-forest-river-canoe.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-macaws-in-flight.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-capybaras-riverbank.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/fauna/",
+    "width": 390,
+    "file": "mobile-4.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-monkey-branch-wide.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-macaws-clay-lick.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-otter-wide.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/iquitos/",
+    "width": 390,
+    "file": "mobile-5.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-forest-river-canoe.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-river-forest-aerial.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-giant-water-lilies.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/manu/",
+    "width": 390,
+    "file": "mobile-6.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-forest-moon-and-birds.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-guided-canoe-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-monkey-in-trees.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/mejor-epoca-para-visitar/",
+    "width": 390,
+    "file": "mobile-7.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-sunset.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-forest-reflections.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-forest-moon-and-birds.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/pacaya-samiria/",
+    "width": 390,
+    "file": "mobile-8.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-river-reflections.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-forest-canopy.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-riverside-lodge.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+    "width": 390,
+    "file": "mobile-9.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-sunset.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-guided-canoe-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-riverside-thatched-lodge.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-turtle-butterflies-wide.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/que-llevar/",
+    "width": 390,
+    "file": "mobile-10.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-forest-canoe.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-forest-canopy.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-turtle-butterflies-wide.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/es/peru/tambopata/",
+    "width": 390,
+    "file": "mobile-11.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-canoe-river-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-macaws-in-flight.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/",
+    "width": 390,
+    "file": "mobile-12.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-river-forest-aerial.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-canoe-river-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-capybaras-riverbank.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-macaws-clay-lick.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/amazon-lodges/",
+    "width": 390,
+    "file": "mobile-13.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-forest-lodge-aerial.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-riverside-thatched-lodge.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-river-lodge-and-gardens.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/best-time-to-visit/",
+    "width": 390,
+    "file": "mobile-14.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-sunset.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-forest-reflections.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-forest-moon-and-birds.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/compare-amazon-regions/",
+    "width": 390,
+    "file": "mobile-15.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-forest-reflections.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-forest-river-canoe.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-macaws-in-flight.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-capybaras-riverbank.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/getting-there/",
+    "width": 390,
+    "file": "mobile-16.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-forest-river-canoe.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-canoe-river-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-guided-canoe-journey.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/iquitos/",
+    "width": 390,
+    "file": "mobile-17.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-forest-river-canoe.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-river-forest-aerial.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-giant-water-lilies.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/manu/",
+    "width": 390,
+    "file": "mobile-18.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-forest-moon-and-birds.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-guided-canoe-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-monkey-in-trees.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/pacaya-samiria/",
+    "width": 390,
+    "file": "mobile-19.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-river-reflections.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-forest-canopy.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-riverside-lodge.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/packing-list/",
+    "width": 390,
+    "file": "mobile-20.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-forest-canoe.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-forest-canopy.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-turtle-butterflies-wide.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/plan-your-amazon-trip/",
+    "width": 390,
+    "file": "mobile-21.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-river-sunset.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/manu-guided-canoe-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/iquitos-riverside-thatched-lodge.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-turtle-butterflies-wide.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/tambopata/",
+    "width": 390,
+    "file": "mobile-22.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-canoe-river-journey.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/tambopata-macaws-in-flight.webp"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "route": "/peru/wildlife/",
+    "width": 390,
+    "file": "mobile-23.png",
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-monkey-branch-wide.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-macaws-clay-lick.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pages/countries/peru/optimized/amazon-otter-wide.webp"
+      }
+    ],
+    "overflow": false
+  }
+]
