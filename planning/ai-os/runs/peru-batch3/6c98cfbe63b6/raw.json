@@ -1,0 +1,17 @@
+{
+  "model": "qwen3.5:9b",
+  "created_at": "2026-10-07T13:31:39.610362Z",
+  "message": {
+    "role": "assistant",
+    "content": "{\"Choose your Peru Amazon region\": \"Elige tu región de la Amazonía peruana\", \"Manu: from mountain forest to Amazon rivers\": \"Manu: desde el bosque montañoso hasta los ríos amazónicos\", \"Compare useful time, not advertised days\": \"Compara el tiempo útil, no los días anunciados\", \"Understand the visitor route\": \"Entiende la ruta del visitante\", \"Wildlife observation without guarantees\": \"Observación de vida silvestre sin garantías\"}"
+  },
+  "done": true,
+  "done_reason": "stop",
+  "total_duration": 11099364625,
+  "load_duration": 6596514750,
+  "prompt_eval_count": 78,
+  "prompt_eval_cached_count": 0,
+  "prompt_eval_duration": 218206000,
+  "eval_count": 104,
+  "eval_duration": 4281120000
+}

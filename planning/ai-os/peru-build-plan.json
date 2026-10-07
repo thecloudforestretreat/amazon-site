@@ -1,5 +1,5 @@
 {
-  "status": "four_pairs_on_protected_staging",
+  "status": "six_pairs_on_staging_visual_review_pending",
   "scope": "Peru staging only; country release after reviewed bilingual content, imagery, technical and visual QA and live-test readiness",
   "batch_size_pairs": 2,
   "first_batch": [
@@ -21,15 +21,16 @@
     "Manu": "https://visitaareasnaturales.sernanp.gob.pe/en/anps/manu-national-park/"
   },
   "sitemap_boundary": "Saved sitemap includes Peru hub pair_037 only; full Peru cluster must be designed explicitly before new routes are published",
-  "next_batch_proposal": [
-    "Manu destination EN/ES",
-    "Peru regional comparison EN/ES"
-  ],
+  "next_batch_proposal": [],
   "quality_gate": "Ecuador-level topic coverage and destination-specific usefulness required; see peru-content-quality-review.json. First two pairs expanded after owner rejected thin draft.",
   "completed_staging_pairs": [
     "pair_037",
     "peru_planning_001",
     "peru_iquitos_001",
-    "peru_tambopata_001"
-  ]
+    "peru_tambopata_001",
+    "peru_manu_001",
+    "peru_comparison_001"
+  ],
+  "release_status": "Not live-ready: deployed visual QA remains pending; further country scope needs planning",
+  "latest_staging_deployment": "b776cdc6"
 }

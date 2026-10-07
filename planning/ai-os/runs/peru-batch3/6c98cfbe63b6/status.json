@@ -1,0 +1,10 @@
+{
+  "model": "qwen3.5:9b",
+  "prompt_eval_count": 78,
+  "eval_count": 104,
+  "seconds": 11.11,
+  "cache_hit": false,
+  "attempts": 1,
+  "status": "reviewed",
+  "editorial_review": "Spanish heading translations reviewed; selected wording adapted for natural travel copy. Output object differed from requested array; no direct publication."
+}

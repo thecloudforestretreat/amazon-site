@@ -1,0 +1,23 @@
+{
+  "review_date": "2026-10-07",
+  "geographic_pixels_reviewed": true,
+  "assets": {
+    "manu-cloud-forest.jpg": {
+      "source": "https://commons.wikimedia.org/wiki/File:Manu_cloud_forest.jpg",
+      "author": "Ludovico Alcorta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "derivative_license": "CC BY-SA 4.0",
+      "changes": "Resized JPEG to 1800x1200; CSS display crop",
+      "observed": "Mountain slopes and forest, not an enclosed dense lowland forest"
+    },
+    "manu-howler.jpg": {
+      "source": "https://commons.wikimedia.org/wiki/File:Red_howler_monkey_Manu_national_park.jpg",
+      "author": "Jason Rothmeyer",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "changes": "Resized JPEG to 1800x1199; CSS display crop",
+      "observed": "Red howler monkey resting on a branch; no species-subtype claim due conflicting Commons taxonomy"
+    }
+  }
+}

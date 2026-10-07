@@ -1,19 +1,57 @@
 {
-  "pages_audited": 8,
+  "pages_audited": 12,
   "errors": [],
   "pages": [
     {
       "route": "/es/peru/",
-      "main_words": 1701,
-      "h2_sections": 13,
+      "main_words": 1727,
+      "h2_sections": 14,
       "main_content_inlinks": [
         "/es/peru/tambopata/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
-        "/es/peru/iquitos/"
+        "/es/peru/iquitos/",
+        "/es/peru/manu/",
+        "/es/peru/comparar-regiones-amazonicas/"
       ],
       "main_content_outlinks": [
         "/es/",
+        "/es/peru/comparar-regiones-amazonicas/",
         "/es/peru/iquitos/",
+        "/es/peru/manu/",
+        "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+        "/es/peru/tambopata/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 4,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/peru/comparar-regiones-amazonicas/",
+      "main_words": 1396,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/es/peru/",
+        "/es/peru/tambopata/",
+        "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+        "/es/peru/iquitos/",
+        "/es/peru/manu/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/contacto/",
+        "/es/peru/",
+        "/es/peru/iquitos/",
+        "/es/peru/manu/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
         "/es/peru/tambopata/"
       ],
@@ -33,17 +71,55 @@
     },
     {
       "route": "/es/peru/iquitos/",
-      "main_words": 1061,
-      "h2_sections": 9,
+      "main_words": 1087,
+      "h2_sections": 10,
       "main_content_inlinks": [
         "/es/peru/",
         "/es/peru/tambopata/",
-        "/es/peru/planifica-tu-viaje-a-la-amazonia/"
+        "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+        "/es/peru/manu/",
+        "/es/peru/comparar-regiones-amazonicas/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/contacto/",
         "/es/peru/",
+        "/es/peru/comparar-regiones-amazonicas/",
+        "/es/peru/manu/",
+        "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+        "/es/peru/tambopata/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/peru/manu/",
+      "main_words": 1303,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/es/peru/",
+        "/es/peru/tambopata/",
+        "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+        "/es/peru/iquitos/",
+        "/es/peru/comparar-regiones-amazonicas/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/contacto/",
+        "/es/peru/",
+        "/es/peru/comparar-regiones-amazonicas/",
+        "/es/peru/iquitos/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
         "/es/peru/tambopata/"
       ],
@@ -63,18 +139,22 @@
     },
     {
       "route": "/es/peru/planifica-tu-viaje-a-la-amazonia/",
-      "main_words": 1434,
-      "h2_sections": 12,
+      "main_words": 1460,
+      "h2_sections": 13,
       "main_content_inlinks": [
         "/es/peru/",
         "/es/peru/tambopata/",
-        "/es/peru/iquitos/"
+        "/es/peru/iquitos/",
+        "/es/peru/manu/",
+        "/es/peru/comparar-regiones-amazonicas/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/contacto/",
         "/es/peru/",
+        "/es/peru/comparar-regiones-amazonicas/",
         "/es/peru/iquitos/",
+        "/es/peru/manu/",
         "/es/peru/tambopata/"
       ],
       "css": [
@@ -93,18 +173,22 @@
     },
     {
       "route": "/es/peru/tambopata/",
-      "main_words": 960,
-      "h2_sections": 9,
+      "main_words": 986,
+      "h2_sections": 10,
       "main_content_inlinks": [
         "/es/peru/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
-        "/es/peru/iquitos/"
+        "/es/peru/iquitos/",
+        "/es/peru/manu/",
+        "/es/peru/comparar-regiones-amazonicas/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/contacto/",
         "/es/peru/",
+        "/es/peru/comparar-regiones-amazonicas/",
         "/es/peru/iquitos/",
+        "/es/peru/manu/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/"
       ],
       "css": [
@@ -123,16 +207,54 @@
     },
     {
       "route": "/peru/",
-      "main_words": 1733,
-      "h2_sections": 13,
+      "main_words": 1760,
+      "h2_sections": 14,
       "main_content_inlinks": [
         "/peru/tambopata/",
         "/peru/plan-your-amazon-trip/",
-        "/peru/iquitos/"
+        "/peru/iquitos/",
+        "/peru/manu/",
+        "/peru/compare-amazon-regions/"
       ],
       "main_content_outlinks": [
         "/",
+        "/peru/compare-amazon-regions/",
         "/peru/iquitos/",
+        "/peru/manu/",
+        "/peru/plan-your-amazon-trip/",
+        "/peru/tambopata/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 4,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/peru/compare-amazon-regions/",
+      "main_words": 1403,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/peru/",
+        "/peru/tambopata/",
+        "/peru/plan-your-amazon-trip/",
+        "/peru/iquitos/",
+        "/peru/manu/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/contact/",
+        "/peru/",
+        "/peru/iquitos/",
+        "/peru/manu/",
         "/peru/plan-your-amazon-trip/",
         "/peru/tambopata/"
       ],
@@ -152,17 +274,55 @@
     },
     {
       "route": "/peru/iquitos/",
-      "main_words": 1142,
-      "h2_sections": 9,
+      "main_words": 1169,
+      "h2_sections": 10,
       "main_content_inlinks": [
         "/peru/",
         "/peru/tambopata/",
-        "/peru/plan-your-amazon-trip/"
+        "/peru/plan-your-amazon-trip/",
+        "/peru/manu/",
+        "/peru/compare-amazon-regions/"
       ],
       "main_content_outlinks": [
         "/",
         "/contact/",
         "/peru/",
+        "/peru/compare-amazon-regions/",
+        "/peru/manu/",
+        "/peru/plan-your-amazon-trip/",
+        "/peru/tambopata/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/peru/manu/",
+      "main_words": 1311,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/peru/",
+        "/peru/tambopata/",
+        "/peru/plan-your-amazon-trip/",
+        "/peru/iquitos/",
+        "/peru/compare-amazon-regions/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/contact/",
+        "/peru/",
+        "/peru/compare-amazon-regions/",
+        "/peru/iquitos/",
         "/peru/plan-your-amazon-trip/",
         "/peru/tambopata/"
       ],
@@ -182,18 +342,22 @@
     },
     {
       "route": "/peru/plan-your-amazon-trip/",
-      "main_words": 1486,
-      "h2_sections": 12,
+      "main_words": 1513,
+      "h2_sections": 13,
       "main_content_inlinks": [
         "/peru/",
         "/peru/tambopata/",
-        "/peru/iquitos/"
+        "/peru/iquitos/",
+        "/peru/manu/",
+        "/peru/compare-amazon-regions/"
       ],
       "main_content_outlinks": [
         "/",
         "/contact/",
         "/peru/",
+        "/peru/compare-amazon-regions/",
         "/peru/iquitos/",
+        "/peru/manu/",
         "/peru/tambopata/"
       ],
       "css": [
@@ -212,18 +376,22 @@
     },
     {
       "route": "/peru/tambopata/",
-      "main_words": 1046,
-      "h2_sections": 9,
+      "main_words": 1073,
+      "h2_sections": 10,
       "main_content_inlinks": [
         "/peru/",
         "/peru/plan-your-amazon-trip/",
-        "/peru/iquitos/"
+        "/peru/iquitos/",
+        "/peru/manu/",
+        "/peru/compare-amazon-regions/"
       ],
       "main_content_outlinks": [
         "/",
         "/contact/",
         "/peru/",
+        "/peru/compare-amazon-regions/",
         "/peru/iquitos/",
+        "/peru/manu/",
         "/peru/plan-your-amazon-trip/"
       ],
       "css": [
@@ -246,8 +414,6 @@
     "Staging intentionally blocked from indexing; production eligibility requires country release",
     "No live rankings, AI citations or field Core Web Vitals assessed"
   ],
-  "deployment": "5eab01c1",
-  "review_status": "Technical audit passed; deployed desktop/mobile visual review pending",
-  "visual_retry": "2026-10-07: browser admin policy verification unavailable; no workaround attempted",
-  "answer_schema_check": "All 32 FAQ questions and answers match visible content; EN/ES/x-default hreflang present on all eight pages"
+  "deployment": "b776cdc6",
+  "review_status": "Technical pass; deployed visual review pending"
 }

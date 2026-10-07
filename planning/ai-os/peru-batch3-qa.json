@@ -1,0 +1,48 @@
+{
+  "status": "technical_pass_visual_pending",
+  "new_pages": [
+    {
+      "route": "/es/peru/comparar-regiones-amazonicas/",
+      "visible_faq_matches": 4
+    },
+    {
+      "route": "/es/peru/manu/",
+      "visible_faq_matches": 4
+    },
+    {
+      "route": "/peru/compare-amazon-regions/",
+      "visible_faq_matches": 4
+    },
+    {
+      "route": "/peru/manu/",
+      "visible_faq_matches": 4
+    }
+  ],
+  "country_pairs_on_staging": 6,
+  "all_peru_pages_audited": 12,
+  "errors": [],
+  "production_exclusion_verified": true,
+  "visual_review": "Blocked by browser admin policy verification unavailable; no workaround attempted",
+  "facts_reviewed": [
+    "https://www.peru.travel/attractions/manu-national-park",
+    "https://www.peru.travel/destinations/loreto",
+    "https://www.peru.travel/es/destinos/madre-de-dios",
+    "https://www.peru.travel/attractions/tambopata-national-reserve"
+  ],
+  "failed_fetches": [
+    "SERNANP English Manu and Tambopata pages timed out; not marked reviewed"
+  ],
+  "rollback_deployment": "5eab01c1",
+  "improvement": "Corrected HTML width/height to match actual Peru image dimensions after detecting inherited 1800x1350 attributes on 1400x900 Iquitos image. Reusable CSS/link/schema/content audit covers expanded cluster.",
+  "local_usage": "See planning/ai-os/runs/peru-batch3; cloud supervisor usage not metered, no overall percentage claimed",
+  "deployment": "b776cdc6",
+  "deployment_url": "https://b776cdc6.amazon-site-staging.pages.dev",
+  "deployed_readback": "Pending browser policy verification; upload success is not a deployed visual review",
+  "local_tokens": {
+    "prompt": 78,
+    "output": 104,
+    "total": 182,
+    "attempts": 1,
+    "cache_hits": 0
+  }
+}
