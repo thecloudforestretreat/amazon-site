@@ -1,0 +1,472 @@
+{
+  "artifact": "dist-ecuador",
+  "pages_audited": 66,
+  "broken_routes": [],
+  "orphans": [],
+  "without_main_content_inlinks": [],
+  "max_click_depth": 2,
+  "pages": [
+    {
+      "route": "/ecuador/",
+      "incoming_pages": 37,
+      "main_content_incoming_pages": 32,
+      "main_content_outgoing_pages": 34,
+      "click_depth": 1
+    },
+    {
+      "route": "/ecuador/3-day-amazon-tour/",
+      "incoming_pages": 7,
+      "main_content_incoming_pages": 7,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/4-day-amazon-tour/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/5-day-amazon-tour/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/amazon-birdwatching-tour/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/amazon-canoe-tour/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 1
+    },
+    {
+      "route": "/ecuador/amazon-lodges/",
+      "incoming_pages": 37,
+      "main_content_incoming_pages": 14,
+      "main_content_outgoing_pages": 13,
+      "click_depth": 1
+    },
+    {
+      "route": "/ecuador/amazon-tours-from-quito/",
+      "incoming_pages": 2,
+      "main_content_incoming_pages": 2,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/amazon-vs-galapagos/",
+      "incoming_pages": 2,
+      "main_content_incoming_pages": 2,
+      "main_content_outgoing_pages": 6,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/amazon-wildlife-tour/",
+      "incoming_pages": 5,
+      "main_content_incoming_pages": 5,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 1
+    },
+    {
+      "route": "/ecuador/animals-of-the-ecuador-amazon/",
+      "incoming_pages": 6,
+      "main_content_incoming_pages": 6,
+      "main_content_outgoing_pages": 6,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/best-time-to-visit-the-ecuador-amazon/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/birds-of-the-ecuador-amazon/",
+      "incoming_pages": 6,
+      "main_content_incoming_pages": 6,
+      "main_content_outgoing_pages": 5,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/blog/",
+      "incoming_pages": 7,
+      "main_content_incoming_pages": 7,
+      "main_content_outgoing_pages": 16,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/blog/best-amazon-lodges-in-ecuador/",
+      "incoming_pages": 5,
+      "main_content_incoming_pages": 5,
+      "main_content_outgoing_pages": 9,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/blog/best-time-to-see-wildlife-in-the-ecuador-amazon/",
+      "incoming_pages": 4,
+      "main_content_incoming_pages": 4,
+      "main_content_outgoing_pages": 10,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/blog/how-many-days-do-you-need-in-the-ecuador-amazon/",
+      "incoming_pages": 8,
+      "main_content_incoming_pages": 8,
+      "main_content_outgoing_pages": 9,
+      "click_depth": 1
+    },
+    {
+      "route": "/ecuador/blog/tena-or-misahualli-which-is-better/",
+      "incoming_pages": 2,
+      "main_content_incoming_pages": 2,
+      "main_content_outgoing_pages": 9,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/blog/what-is-it-like-to-stay-in-an-amazon-lodge/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 10,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/blog/yasuni-vs-cuyabeno/",
+      "incoming_pages": 5,
+      "main_content_incoming_pages": 5,
+      "main_content_outgoing_pages": 10,
+      "click_depth": 1
+    },
+    {
+      "route": "/ecuador/contact/",
+      "incoming_pages": 1,
+      "main_content_incoming_pages": 1,
+      "main_content_outgoing_pages": 1,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/cuyabeno/",
+      "incoming_pages": 26,
+      "main_content_incoming_pages": 26,
+      "main_content_outgoing_pages": 8,
+      "click_depth": 1
+    },
+    {
+      "route": "/ecuador/family-amazon-tour/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 1
+    },
+    {
+      "route": "/ecuador/faqs/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/how-to-get-to-the-ecuador-amazon/",
+      "incoming_pages": 10,
+      "main_content_incoming_pages": 10,
+      "main_content_outgoing_pages": 8,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/is-the-ecuador-amazon-safe/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/misahualli/",
+      "incoming_pages": 7,
+      "main_content_incoming_pages": 7,
+      "main_content_outgoing_pages": 8,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/plan-your-amazon-trip/",
+      "incoming_pages": 8,
+      "main_content_incoming_pages": 8,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 1
+    },
+    {
+      "route": "/ecuador/private-amazon-tour/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 1
+    },
+    {
+      "route": "/ecuador/puyo/",
+      "incoming_pages": 19,
+      "main_content_incoming_pages": 19,
+      "main_content_outgoing_pages": 8,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/tena/",
+      "incoming_pages": 21,
+      "main_content_incoming_pages": 21,
+      "main_content_outgoing_pages": 8,
+      "click_depth": 1
+    },
+    {
+      "route": "/ecuador/what-to-pack-for-the-amazon/",
+      "incoming_pages": 4,
+      "main_content_incoming_pages": 4,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 2
+    },
+    {
+      "route": "/ecuador/yasuni/",
+      "incoming_pages": 25,
+      "main_content_incoming_pages": 25,
+      "main_content_outgoing_pages": 8,
+      "click_depth": 1
+    },
+    {
+      "route": "/es/ecuador/",
+      "incoming_pages": 37,
+      "main_content_incoming_pages": 32,
+      "main_content_outgoing_pages": 34,
+      "click_depth": 1
+    },
+    {
+      "route": "/es/ecuador/amazonia-vs-galapagos/",
+      "incoming_pages": 2,
+      "main_content_incoming_pages": 2,
+      "main_content_outgoing_pages": 6,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/animales-de-la-amazonia-ecuatoriana/",
+      "incoming_pages": 6,
+      "main_content_incoming_pages": 6,
+      "main_content_outgoing_pages": 6,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/aves-de-la-amazonia-ecuatoriana/",
+      "incoming_pages": 6,
+      "main_content_incoming_pages": 6,
+      "main_content_outgoing_pages": 5,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/blog/",
+      "incoming_pages": 7,
+      "main_content_incoming_pages": 7,
+      "main_content_outgoing_pages": 16,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/blog/como-es-alojarse-en-un-lodge-amazonico/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 10,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/blog/cuantos-dias-necesitas-en-la-amazonia-del-ecuador/",
+      "incoming_pages": 8,
+      "main_content_incoming_pages": 8,
+      "main_content_outgoing_pages": 9,
+      "click_depth": 1
+    },
+    {
+      "route": "/es/ecuador/blog/mejor-epoca-para-ver-fauna-en-la-amazonia-del-ecuador/",
+      "incoming_pages": 4,
+      "main_content_incoming_pages": 4,
+      "main_content_outgoing_pages": 10,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/blog/mejores-lodges-en-la-amazonia-del-ecuador/",
+      "incoming_pages": 5,
+      "main_content_incoming_pages": 5,
+      "main_content_outgoing_pages": 9,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/blog/tena-o-misahualli-cual-es-mejor/",
+      "incoming_pages": 2,
+      "main_content_incoming_pages": 2,
+      "main_content_outgoing_pages": 9,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/blog/yasuni-vs-cuyabeno/",
+      "incoming_pages": 5,
+      "main_content_incoming_pages": 5,
+      "main_content_outgoing_pages": 10,
+      "click_depth": 1
+    },
+    {
+      "route": "/es/ecuador/como-llegar-a-la-amazonia-ecuatoriana/",
+      "incoming_pages": 10,
+      "main_content_incoming_pages": 10,
+      "main_content_outgoing_pages": 8,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/contacto/",
+      "incoming_pages": 1,
+      "main_content_incoming_pages": 1,
+      "main_content_outgoing_pages": 1,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/cuyabeno/",
+      "incoming_pages": 26,
+      "main_content_incoming_pages": 26,
+      "main_content_outgoing_pages": 8,
+      "click_depth": 1
+    },
+    {
+      "route": "/es/ecuador/es-segura-la-amazonia-ecuatoriana/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/lodges-en-la-amazonia/",
+      "incoming_pages": 37,
+      "main_content_incoming_pages": 14,
+      "main_content_outgoing_pages": 13,
+      "click_depth": 1
+    },
+    {
+      "route": "/es/ecuador/mejor-epoca-para-visitar-la-amazonia-ecuatoriana/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/misahualli/",
+      "incoming_pages": 7,
+      "main_content_incoming_pages": 7,
+      "main_content_outgoing_pages": 8,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/planifica-tu-viaje-a-la-amazonia/",
+      "incoming_pages": 8,
+      "main_content_incoming_pages": 8,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 1
+    },
+    {
+      "route": "/es/ecuador/preguntas-frecuentes/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/puyo/",
+      "incoming_pages": 19,
+      "main_content_incoming_pages": 19,
+      "main_content_outgoing_pages": 8,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/que-llevar-a-la-amazonia/",
+      "incoming_pages": 4,
+      "main_content_incoming_pages": 4,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/tena/",
+      "incoming_pages": 21,
+      "main_content_incoming_pages": 21,
+      "main_content_outgoing_pages": 8,
+      "click_depth": 1
+    },
+    {
+      "route": "/es/ecuador/tour-de-3-dias-en-la-amazonia/",
+      "incoming_pages": 7,
+      "main_content_incoming_pages": 7,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/tour-de-4-dias-en-la-amazonia/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/tour-de-5-dias-en-la-amazonia/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/tour-de-avistamiento-de-aves-en-la-amazonia/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/tour-de-fauna-en-la-amazonia/",
+      "incoming_pages": 5,
+      "main_content_incoming_pages": 5,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 1
+    },
+    {
+      "route": "/es/ecuador/tour-en-canoa-por-la-amazonia/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 1
+    },
+    {
+      "route": "/es/ecuador/tour-familiar-a-la-amazonia/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 1
+    },
+    {
+      "route": "/es/ecuador/tour-privado-a-la-amazonia/",
+      "incoming_pages": 3,
+      "main_content_incoming_pages": 3,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 1
+    },
+    {
+      "route": "/es/ecuador/tours-a-la-amazonia-desde-quito/",
+      "incoming_pages": 2,
+      "main_content_incoming_pages": 2,
+      "main_content_outgoing_pages": 7,
+      "click_depth": 2
+    },
+    {
+      "route": "/es/ecuador/yasuni/",
+      "incoming_pages": 25,
+      "main_content_incoming_pages": 25,
+      "main_content_outgoing_pages": 8,
+      "click_depth": 1
+    }
+  ]
+}

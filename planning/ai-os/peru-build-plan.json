@@ -1,0 +1,19 @@
+{
+  "status": "started_architecture_and_release_gates",
+  "scope": "Peru staging only; country release after reviewed bilingual content, imagery, technical and visual QA and live-test readiness",
+  "batch_size_pairs": 2,
+  "first_batch": [
+    "Expand existing Peru country hub EN/ES",
+    "Peru trip-planning guide EN/ES; route to be checked against sitemap before authoring"
+  ],
+  "release_link_gates": [
+    "No broken internal routes or anchors",
+    "No indexable orphan pages",
+    "Every content page has relevant main-content inlinks and outlinks",
+    "Country hub and sibling links match intent",
+    "Bilingual counterparts and localized contact CTA",
+    "Country hubs reachable from homepage only at release"
+  ],
+  "local_workers": "Bounded Ollama drafts; supervisor factual and editorial review required",
+  "public_status": "Coming soon; no production exposure until country release"
+}
