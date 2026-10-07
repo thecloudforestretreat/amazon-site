@@ -7,7 +7,8 @@ const scriptDir = path.dirname(fileURLToPath(import.meta.url));
 const rootDir = path.resolve(scriptDir, "..");
 const sourceDir = path.join(rootDir, "src");
 const ecuadorRelease = process.env.ETA_SCOPE === "ecuador";
-const outputDir = path.join(rootDir, ecuadorRelease ? "dist-ecuador" : "dist");
+const peruRelease = process.env.ETA_SCOPE === "ecuador-peru";
+const outputDir = path.join(rootDir, ecuadorRelease ? "dist-ecuador" : peruRelease ? "dist-release" : "dist");
 const environment = process.env.ETA_ENV === "production" ? "production" : "staging";
 
 const coreCssFiles = [
@@ -56,6 +57,7 @@ async function compilePages() {
   for (const page of pages) {
     const relative = path.relative(pagesDir, page);
     if (ecuadorRelease && /^(?:en|es)\/(?:peru|bolivia)\//.test(relative)) continue;
+    if (peruRelease && /^(?:en|es)\/bolivia\//.test(relative)) continue;
     const language = relative.split(path.sep)[0] === "es" ? "es" : "en";
     const outputRelative = language === "es" ? relative : relative.replace(/^en\//, "");
     const destination = path.join(outputDir, outputRelative);
@@ -214,7 +216,7 @@ await compilePages();
 await compileEcuadorDestinations();
 await writeRuntimeConfig();
 await writeEnvironmentFiles();
-if (ecuadorRelease) {
+if (ecuadorRelease || peruRelease) {
   const files = (await listFiles(outputDir)).filter(file => file.endsWith(".html"));
   const indexable = [];
   for (const file of files) {

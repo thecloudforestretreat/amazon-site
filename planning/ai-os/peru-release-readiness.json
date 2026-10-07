@@ -1,5 +1,5 @@
 {
-  "status": "staging_qa_pass_production_activation_pending",
+  "status": "production_live_verified",
   "review_date": "2026-10-07",
   "deployment": "9df47740",
   "content_pairs": 12,
@@ -12,10 +12,8 @@
   "live_contact_delivery_this_review": "Real Peru staging inquiry accepted; owner confirmed inbox delivery October 7",
   "visual_review": "24 pages at desktop 1440 and mobile 390; full-page layout captures reviewed; no horizontal overflow; sticky header; all content images loaded; keyboard hamburger and FAQ checks passed",
   "protected_staging_readback": "All 24 Peru routes reviewed in authenticated browser on protected custom domain",
-  "production_activation": "Not performed; current production build remains Ecuador only",
-  "remaining_gates": [
-    "Production scope/navigation/sitemap activation and post-release verification"
-  ],
+  "production_activation": "Peru activated October 7, 2026; deployment f4f4b6e7",
+  "remaining_gates": [],
   "pages": [
     {
       "route": "/es/peru/",
@@ -192,5 +190,160 @@
     "Button keyboard-focus radius retained"
   ],
   "review_scope": "Content structure, internal links, image scene uniqueness, full-page responsive layout review and form regression checks. No claim of field performance or ranking guarantees.",
-  "visual_evidence": "planning/ai-os/evidence/peru-final-qa/results.json"
+  "visual_evidence": "planning/ai-os/evidence/peru-final-qa/results.json",
+  "production_deployment": "f4f4b6e7",
+  "rollback_deployment": "a552b84f-1427-4e1d-87ef-b98613fc559c",
+  "production_readback": {
+    "pages": [
+      {
+        "route": "/es/peru/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/es/peru/alojamientos-amazonicos/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/es/peru/como-llegar/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/es/peru/comparar-regiones-amazonicas/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/es/peru/fauna/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/es/peru/iquitos/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/es/peru/manu/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/es/peru/mejor-epoca-para-visitar/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/es/peru/pacaya-samiria/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/es/peru/que-llevar/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/es/peru/tambopata/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/peru/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/peru/amazon-lodges/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/peru/best-time-to-visit/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/peru/compare-amazon-regions/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/peru/getting-there/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/peru/iquitos/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/peru/manu/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/peru/pacaya-samiria/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/peru/packing-list/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/peru/plan-your-amazon-trip/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/peru/tambopata/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      },
+      {
+        "route": "/peru/wildlife/",
+        "indexable": true,
+        "images_new": true,
+        "canonical": true
+      }
+    ],
+    "sitemap_urls": 100,
+    "peru_sitemap_urls": 24,
+    "contact_enabled": true,
+    "home_peru_link": true
+  },
+  "sitemap_status": "Published updated sitemap at existing previously submitted URL; no new Search Console submission in this turn"
 }

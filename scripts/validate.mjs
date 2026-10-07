@@ -3,7 +3,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const rootDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const outputDir = path.join(rootDir, "dist");
+const outputDir = path.resolve(rootDir, process.env.ETA_OUTPUT || "dist");
 
 async function listFiles(directory) {
   const entries = await readdir(directory, { withFileTypes: true });
