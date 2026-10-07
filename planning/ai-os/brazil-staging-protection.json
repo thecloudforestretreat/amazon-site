@@ -1,0 +1,31 @@
+{
+  "unauthenticated_checks": [
+    {
+      "route": "/brazil/",
+      "method": "HEAD",
+      "status": 302,
+      "access_login_redirect": true
+    },
+    {
+      "route": "/es/brazil/",
+      "method": "HEAD",
+      "status": 302,
+      "access_login_redirect": true
+    },
+    {
+      "route": "/brazil/plan-your-amazon-trip/",
+      "method": "HEAD",
+      "status": 302,
+      "access_login_redirect": true
+    },
+    {
+      "route": "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+      "method": "HEAD",
+      "status": 302,
+      "access_login_redirect": true
+    }
+  ],
+  "earlier_python_get_checks": "403; not accepted as successful page readback",
+  "authenticated_readback": "Unverified: browser security policy verification unavailable",
+  "deployment": "a72cc1af"
+}

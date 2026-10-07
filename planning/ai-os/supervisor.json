@@ -1,7 +1,7 @@
 {
   "project": "experience-the-amazon",
   "branch": "staging",
-  "scope": "Ecuador launch preparation; other country hubs remain development work",
+  "scope": "Brazil staging development; homepage, Ecuador, Peru and Bolivia already released with retained release evidence",
   "supervision": {
     "kind": "thread heartbeat",
     "automation_id": "amazon-staging-supervisor",
@@ -66,8 +66,8 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Monitor launched homepage and Ecuador; no additional production changes without scope",
-    "Plan substantive Peru bilingual country cluster on protected staging"
+    "Review Brazil first pair set on protected staging; retain visual policy blocker",
+    "Continue two-pair Brazil batches after owner steering; no production release without authorization"
   ],
   "future_batches": [
     "Reviews deferred by owner; exclude from Ecuador launch",
@@ -111,8 +111,8 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "Ecuador contact activation",
-    "Ecuador completion QA"
+    "Brazil overview EN/ES",
+    "Brazil trip-planning EN/ES"
   ],
   "batch_status": "Owner confirmed inbox delivery; branded HTML signature with Instagram deployed",
   "batch_browser_checks": {
@@ -451,5 +451,7 @@
     "owner_authorized": true,
     "sitemap_submitted": true,
     "inbox_delivery_confirmed": true
-  }
+  },
+  "active_country": "brazil",
+  "active_country_state": "planning/ai-os/brazil-progress.json"
 }

@@ -1,0 +1,26 @@
+{
+  "runs": [
+    {
+      "topic": "hub",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 1656,
+      "output_tokens": 2079,
+      "seconds": 92.6,
+      "retries": 0,
+      "cache_hits": null
+    },
+    {
+      "topic": "planning",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 1633,
+      "output_tokens": 2033,
+      "seconds": 84.76,
+      "retries": 0,
+      "cache_hits": null
+    }
+  ],
+  "cloud_percentage": "Unavailable: no comparable cloud token meter",
+  "total_local_tokens": 7401,
+  "total_local_output_tokens": 4112,
+  "role": "Spanish draft translation; supervisor authored English and reviewed/revised Spanish"
+}

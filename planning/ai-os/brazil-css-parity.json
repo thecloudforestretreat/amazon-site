@@ -1,0 +1,5 @@
+{
+  "check": "Removing only Brazil selector aliases recovers previous shared stylesheet byte for byte",
+  "passed": true,
+  "limits": "Static equivalence does not replace browser rendering review"
+}

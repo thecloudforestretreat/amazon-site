@@ -1,0 +1,58 @@
+"""Render supervisor-reviewed bilingual Brazil editorial checkpoints; never deploy."""
+import json,html,sys
+from pathlib import Path
+R=Path(__file__).resolve().parents[2]
+e=lambda x:html.escape(str(x),quote=True)
+def validate_page(d):
+ if len(d.get('sections',[]))!=9:raise ValueError('Nine reviewed sections required')
+ for row in d['sections']:
+  if not isinstance(row,list) or len(row)!=3 or not all(isinstance(v,str) and v.strip() for v in row):raise ValueError('Section must contain heading and two text paragraphs')
+ for key in ['quick','cta']:
+  if not isinstance(d.get(key),list) or len(d[key])!=2 or not all(isinstance(v,str) for v in d[key]):raise ValueError('Invalid '+key)
+ if len(d.get('faqs',[]))!=4 or any(not isinstance(v,list) or len(v)!=2 or not all(isinstance(s,str) for s in v) for v in d['faqs']):raise ValueError('Four question/answer pairs required')
+def render(checkpoint):
+ spec=json.loads(Path(checkpoint).read_text())
+ if spec.get('editorial_status')!='reviewed':raise ValueError('Supervisor-reviewed checkpoint required')
+ for topic,langs in spec['pages'].items():
+  for lang,d in langs.items():
+   validate_page(d)
+   es=lang=='es';base='/es/brazil/' if es else '/brazil/';r=base+(d['slug']+'/' if d['slug'] else '');other='en' if es else 'es';pair=('/brazil/' if es else '/es/brazil/')+(langs[other]['slug']+'/' if langs[other]['slug'] else '');url='https://experiencetheamazon.com'+r
+   crumbs=[('Inicio' if es else 'Home','/es/' if es else '/'),('Amazonía brasileña' if es else 'Brazilian Amazon',base),(d['h1'],r)]
+   def photo(key,alt,hero=False):
+    im=spec['images'][key];a='fetchpriority="high"' if hero else 'loading="lazy"'
+    portrait=' brazil-photo--wildlife' if im['height']>im['width'] else ''
+    src=im.get('src','/assets/images/brazil/'+key+'.jpg')
+    caption='' if im.get('attribution_required') is False else f'<figcaption><a href="{im["source"]}">{e(im["label"])}</a> · <a href="{im["license_url"]}">{e(im["license"])}</a></figcaption>'
+    return f'<figure class="brazil-photo{portrait}"><img src="{e(src)}" width="{im["width"]}" height="{im["height"]}" alt="{e(alt)}" {a} decoding="async">{caption}</figure>'
+   breadcrumb='<nav class="brazil-breadcrumb eta-shell" aria-label="'+('Ruta de navegación' if es else 'Breadcrumb')+'">'+'<span aria-hidden="true">›</span>'.join(f'<span aria-current="page">{e(n)}</span>' if i==2 else f'<a href="{u}">{e(n)}</a>' for i,(n,u) in enumerate(crumbs))+'</nav>'
+   nav='<nav class="brazil-nav eta-shell" aria-label="'+('Guías de Brasil' if es else 'Brazil guides')+'">'+''.join(f'<a href="{u}">{e(n)}</a>' for u,n in d['links'] if u!=r)+'</nav>'
+   contact='/es/contacto/' if es else '/contact/'
+   body=breadcrumb+nav+'<section class="eta-article-hero"><div class="eta-shell brazil-hero"><div><p class="eta-kicker">'+('AMAZONÍA BRASILEÑA' if es else 'BRAZILIAN AMAZON')+f'</p><h1>{e(d["h1"])}</h1><p class="eta-lede">{e(d["lede"])}</p><a class="eta-button eta-button--gold" href="{contact}" data-cta-id="brazil_inquiry" data-module-id="brazil_editorial">'+('Planifica este viaje' if es else 'Plan this journey')+'</a></div>'+photo(d['hero'][0],d['hero'][1],True)+'</div></section>'
+   body+='<section class="eta-section--tight"><div class="eta-shell brazil-answer"><p class="eta-kicker">'+('DE UN VISTAZO' if es else 'AT A GLANCE')+f'</p><h2>{e(d["quick"][0])}</h2><p>{e(d["quick"][1])}</p></div></section>'
+   if d.get('choices'):
+    body+='<section class="eta-section"><div class="eta-shell"><h2>'+e(d['choices_heading'])+'</h2><div class="brazil-region-grid">'+''.join('<article class="brazil-card"><h3><a href="'+e(c[2])+'">'+e(c[0])+'</a></h3><p>'+e(c[1])+'</p></article>' for c in d['choices'])+'</div></div></section>'
+   linked=set()
+   def paragraph(value):
+    value=e(value)
+    for phrase,target in d.get('context_links',[]):
+     if phrase not in linked and e(phrase) in value:
+      value=value.replace(e(phrase),'<a href="'+e(target)+'">'+e(phrase)+'</a>',1);linked.add(phrase)
+    return '<p>'+value+'</p>'
+   for i,(heading,*paras) in enumerate(d['sections']):
+    text=f'<h2 id="'+('regions' if topic=='hub' and i==0 else 'section-'+str(i))+f'">{e(heading)}</h2>'+''.join(paragraph(p) for p in paras)
+    if str(i) in d['features']:
+     key,alt=d['features'][str(i)];body+='<section class="eta-section eta-section--mist"><div class="eta-shell brazil-feature'+(' brazil-feature--reverse' if (d.get('feature_sides',{}).get(str(i))=='right' if str(i) in d.get('feature_sides',{}) else i%2 or str(i) in d.get('reverse_features',[])) else '')+'">'+photo(key,alt)+'<div>'+text+'</div></div></section>'
+    else:body+='<section class="eta-section"><div class="eta-shell eta-reading">'+text+'</div></section>'
+   body+='<section class="eta-section"><div class="eta-shell eta-reading brazil-faq"><h2>'+('Preguntas frecuentes' if es else 'Planning questions')+'</h2>'+''.join(f'<details><summary>{e(q)}</summary><p>{e(a)}</p></details>' for q,a in d['faqs'])+'</div></section>'
+   body+=f'<section class="eta-section"><div class="eta-shell brazil-cta"><h2>{e(d["cta"][0])}</h2><p>{e(d["cta"][1])}</p><a class="eta-button eta-button--gold" href="{contact}" data-cta-id="brazil_inquiry" data-module-id="brazil_editorial">'+('Comparte tus planes' if es else 'Share your plans')+'</a><p>'+' · '.join(f'<a href="{u}">{e(n)}</a>' for u,n in d['links'] if u!=r)+'</p></div></section>'
+   body+='<section class="eta-section--tight"><div class="eta-shell eta-reading"><h2>'+('Fuentes y alcance' if es else 'Sources & scope')+f'</h2><p>{e(d["scope"])}</p><ul>'+''.join(f'<li><a href="{u}">{e(n)}</a></li>' for n,u in d['sources'])+'</ul></div></section>'
+   graph=[{'@type':'WebPage','@id':url+'#page','url':url,'name':d['h1'],'description':d['description'],'inLanguage':lang,'dateModified':spec['review_date'],'publisher':{'@type':'Organization','name':'Experience The Amazon','url':'https://experiencetheamazon.com/'},'breadcrumb':{'@id':url+'#breadcrumb'},'primaryImageOfPage':{'@type':'ImageObject','url':'https://experiencetheamazon.com'+spec['images'][d['hero'][0]].get('src','/assets/images/brazil/'+d['hero'][0]+'.jpg')}},{'@type':'BreadcrumbList','@id':url+'#breadcrumb','itemListElement':[{'@type':'ListItem','position':i+1,'name':n,'item':'https://experiencetheamazon.com'+u} for i,(n,u) in enumerate(crumbs)]},{'@type':'FAQPage','@id':url+'#questions','inLanguage':lang,'mainEntity':[{'@type':'Question','name':q,'acceptedAnswer':{'@type':'Answer','text':a}} for q,a in d['faqs']]}]
+   head=f'<meta charset="utf-8"><title>{e(d["title"])}</title><meta name="description" content="{e(d["description"])}"><link rel="canonical" href="{url}">'
+   for l,t in [('en',('/brazil/'+(langs['en']['slug']+'/' if langs['en']['slug'] else ''))),('es',('/es/brazil/'+(langs['es']['slug']+'/' if langs['es']['slug'] else ''))),('x-default',('/brazil/'+(langs['en']['slug']+'/' if langs['en']['slug'] else '')))]:head+=f'<link rel="alternate" hreflang="{l}" href="https://experiencetheamazon.com{t}">'
+   head+='{{ETA_HEAD}}<link rel="stylesheet" href="/assets/css/clusters/editorial.css"><link rel="stylesheet" href="/assets/css/clusters/brazil.css">'
+   for prop,value in [('type','website'),('title',d['title']),('description',d['description']),('url',url),('image','https://experiencetheamazon.com'+spec['images'][d['hero'][0]].get('src','/assets/images/brazil/'+d['hero'][0]+'.jpg')),('locale','es_ES' if es else 'en_US')]:head+=f'<meta property="og:{prop}" content="{e(value)}">'
+   head+='<meta name="twitter:card" content="summary_large_image"><script type="application/ld+json">'+json.dumps({'@context':'https://schema.org','@graph':graph},ensure_ascii=False)+'</script>'
+   p=R/'src/pages'/lang/'brazil'/d['slug']/'index.html';p.parent.mkdir(parents=True,exist_ok=True)
+   p.write_text(f'<!doctype html><html lang="{lang}" data-language-pair="{pair}" data-page-id="brazil_{topic}_{lang}" data-pair-id="{d.get('pair_id','brazil_'+topic+'_001')}" data-page-type="{d["type"]}" data-country="brazil" data-topic-cluster="brazil-amazon" data-funnel-stage="consideration"><head>'+head+'</head><body>{{ETA_HEADER}}<main id="main-content">'+body+'</main>{{ETA_FOOTER}}</body></html>')
+if __name__=='__main__':
+ render(sys.argv[1])

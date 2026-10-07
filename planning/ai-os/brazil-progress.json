@@ -1,0 +1,76 @@
+{
+  "country": "brazil",
+  "date": "2026-10-07",
+  "owner_authorized": "First Brazil staging batch following owner acceptance of next-country recommendation",
+  "stage": "two_pairs_deployed_technical_checks_pass_visual_qa_pending",
+  "deployment": "a72cc1af",
+  "previous_staging_deployment": "2308e218",
+  "pairs": [
+    {
+      "topic": "overview",
+      "en": "https://staging.experiencetheamazon.com/brazil/",
+      "es": "https://staging.experiencetheamazon.com/es/brazil/"
+    },
+    {
+      "topic": "trip planning",
+      "en": "https://staging.experiencetheamazon.com/brazil/plan-your-amazon-trip/",
+      "es": "https://staging.experiencetheamazon.com/es/brazil/planifica-tu-viaje-a-la-amazonia/"
+    }
+  ],
+  "progress": {
+    "staged_pairs": 2,
+    "staged_pages": 4,
+    "live_brazil_pages": 0,
+    "launch_verified_pairs": 0,
+    "next_batch_candidates": [
+      "Manaus",
+      "Rio Negro"
+    ],
+    "remaining_cluster_candidates": [
+      "Anavilhanas",
+      "Santarém and Alter do Chão",
+      "forest lodges",
+      "river journeys",
+      "timing",
+      "wildlife",
+      "access",
+      "packing"
+    ],
+    "candidate_total_pairs": 12,
+    "scope_note": "Remaining topics are proposed cluster candidates, not a claim of completed or authorized release"
+  },
+  "qa": {
+    "compiled_site_pages": 128,
+    "brazil_pages_audited": 4,
+    "audit_errors": 0,
+    "words": [
+      1306,
+      1515
+    ],
+    "distinct_images_per_page": 3,
+    "handler_tests": 17,
+    "real_brazil_inquiry_delivery": "not tested",
+    "css_parity": "Brazil aliases only; existing declarations identical",
+    "production_scope_containment": "124 pages validated; zero Brazil routes/sitemap entries; artifact not deployed",
+    "protection": "4 HEAD checks:302 Cloudflare Access redirects",
+    "authenticated_readback": "not verified",
+    "visual_review": "blocked: browser admin security policy verification unavailable"
+  },
+  "image_status": "Licensed owner stock used only as clearly identified illustrations; verified Brazil capture imagery remains a launch requirement",
+  "local_usage_file": "brazil-batch1-local-usage.json",
+  "editorial_checkpoint": "brazil-batch1-reviewed.json",
+  "production_authorized": false,
+  "workflow_improvements": [
+    "Added Brazil to existing CSS selector groups including compact spacing and dark CTA contrast, without altering established declarations",
+    "Added explicit Brazil exclusions to existing country production scopes and validated an isolated output artifact",
+    "Reviewed local translation before rendering; corrected literal and inconsistent Spanish",
+    "Rejected an image with a visible Bolivian flag from Brazil selection"
+  ],
+  "rollback": "Previous staging deployment 2308e218; source parent 67361f0",
+  "limits": [
+    "No desktop/mobile screenshots due browser policy blocker",
+    "No live SEO rankings/AEO citations/Core Web Vitals measured",
+    "Contextual inlinks grow with future cluster pages; current pair links to each other",
+    "Cloud/local token percentages unavailable"
+  ]
+}
