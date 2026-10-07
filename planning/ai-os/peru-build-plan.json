@@ -38,7 +38,7 @@
     "peru_packing_001"
   ],
   "release_status": "Initial content scope complete on staging; country-wide desktop/mobile visual review, protected deployed readback and live form/release testing remain pending.",
-  "latest_staging_deployment": "59307af9",
+  "latest_staging_deployment": "9f17b511",
   "active_batch": {
     "number": 7,
     "scope": "Country-wide release QA",

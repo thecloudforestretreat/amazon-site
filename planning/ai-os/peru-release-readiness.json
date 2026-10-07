@@ -1,7 +1,7 @@
 {
   "status": "technical_pass_release_blocked",
   "review_date": "2026-10-07",
-  "deployment": "59307af9",
+  "deployment": "9f17b511",
   "content_pairs": 12,
   "content_pages": 24,
   "technical_audit_errors": [],
@@ -187,5 +187,11 @@
       "counterpart": "/es/peru/fauna/",
       "production_canonical": "https://experiencetheamazon.com/peru/wildlife/"
     }
-  ]
+  ],
+  "css_review_fixes": [
+    "Tablet reading-column gutters preserved at 601–796px widths",
+    "Gold CTA hover uses dark text on pale gold; normal, hover and focus remain readable",
+    "Button keyboard-focus radius retained"
+  ],
+  "review_scope": "Technical checks across 24 pages; source CSS responsive/cascade review and guide structure review. Browser visual review remains blocked."
 }
