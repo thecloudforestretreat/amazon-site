@@ -94,5 +94,35 @@
     "modifications": "Proportional web resize and JPEG optimization; adaptation licensed CC BY-SA 4.0, attribution retained in EXIF",
     "geography_review": "Yacuma source title/caption/category and visible pixels reviewed",
     "review_date": "2026-10-07"
+  },
+  "chalalan-lake": {
+    "key": "chalalan-lake",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Chalalan_Lake_-_Bolivia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Chalalan_Lake_-_Bolivia.jpg",
+    "label": "Arthur Chapman",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "description": "Chalalan Lake, Madidi National Park, Tuichi River, Bolivia from the Chalalan Lodge Jetty. Photographed on 26 November 2008",
+    "file": "src/assets/images/bolivia/chalalan-lake.jpg",
+    "width": 1800,
+    "height": 1200,
+    "modifications": "Proportional web resize and JPEG optimization; attribution/license/source retained in EXIF; adapted image under source license",
+    "geography_review": "Chalalán/Madidi source description and visible pixels reviewed",
+    "review_date": "2026-10-07"
+  },
+  "chalalan-hoatzin": {
+    "key": "chalalan-hoatzin",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hoatzin_%28Chalalan%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Hoatzin_(Chalalan).jpg",
+    "label": "Rodrigo Mariaca",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Hoatzin Opisthocomus hoazin. Picture taken at Chalalán Eco Lodge, Madidi National Park, Bolivia. Photo: Rodrigo Mariaca.",
+    "file": "src/assets/images/bolivia/chalalan-hoatzin.jpg",
+    "width": 1800,
+    "height": 1350,
+    "modifications": "Proportional web resize and JPEG optimization; attribution/license/source retained in EXIF; adapted image under source license",
+    "geography_review": "Chalalán/Madidi source description and visible pixels reviewed",
+    "review_date": "2026-10-07"
   }
 }

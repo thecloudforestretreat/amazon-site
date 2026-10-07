@@ -1,0 +1,36 @@
+{
+  "status": "deployed_visual_review_pending",
+  "deployment": "fabd654e",
+  "rollback": "00ef3682",
+  "date": "2026-10-07",
+  "pairs": [
+    "bolivia_combined_001",
+    "bolivia_accommodation_001"
+  ],
+  "checks": [
+    "116 compiled HTML pages validated",
+    "16 Bolivia pages: zero technical audit errors; 1228\u20131321 main words; seven other country referring pages per route",
+    "Global core/editorial/amazon-guide CSS reused unchanged",
+    "Three distinct scenes per new page; source/rights/pixels reviewed; explicit alternating feature sides",
+    "Reciprocal bilingual routes, canonical metadata, visible FAQ/schema parity, internal routes and anchors audited",
+    "Unauthenticated staging request returned HTTP 302; Access protection remains active"
+  ],
+  "visual_review": {
+    "status": "pending",
+    "reason": "Browser security check unavailable: admin-enforced policy could not be verified; no workaround attempted",
+    "attempts": 2
+  },
+  "imagery": "New Chalal\u00e1n lake CC BY 2.0 and hoatzin CC BY-SA 4.0; source attribution, license links, adapted metadata retained",
+  "local_usage": "106 prompt + 107 output = 213 measured local tokens; 0 retries and 0 cache hits; overall local/cloud percentage unavailable",
+  "workflow_improvement": "Explicit feature_sides extends prior override so first photo may be left independently of section parity; existing checkpoints retain their placement",
+  "sources": [
+    "https://madidiid.org/en/turismo/",
+    "https://rurrenabaquemadidipampas.com.bo/inicio",
+    "https://bolivia.wcs.org/en-us/Landscapes/Madidi-Tambopata/Pampas-del-Yacuma.aspx"
+  ],
+  "remaining": [
+    "Authenticated visual QA and menu/FAQ/language navigation",
+    "Four pairs and final country release review"
+  ],
+  "production_release": false
+}

@@ -1,5 +1,5 @@
 {
-  "status": "batch3_reviewed_staging",
+  "status": "batch4_deployed_visual_review_pending",
   "batch_size_pairs": 2,
   "target_pairs": 12,
   "launch_scope": [
@@ -17,8 +17,8 @@
     "Packing"
   ],
   "active_batch": [
-    "bolivia_pampas_001",
-    "bolivia_comparison_001"
+    "bolivia_combined_001",
+    "bolivia_accommodation_001"
   ],
   "production_release": "Not authorized until country complete and reviewed",
   "sitemap_boundary": "Original sitemap contained Bolivia hub pair_038 only; owner authorized new country work. This defines the initial 12-pair launch scope.",
@@ -44,20 +44,31 @@
       "https://bolivia.wcs.org/en-us/Landscapes/Madidi-Tambopata/Pampas-del-Yacuma.aspx"
     ]
   ],
-  "progress": "6/12 bilingual pairs (50%); twelve pages on protected staging, country not launch ready",
+  "progress": "8/12 bilingual pairs built (66.7%); 6/12 fully visually reviewed; batch4 protected staging deployment complete, desktop/mobile browser QA pending",
   "next_batch": [
-    "Combined forest and pampas journeys",
-    "Accommodation"
+    "Timing",
+    "Wildlife"
   ],
-  "qa": "Desktop 1440px and mobile 390px; all images loaded, no overflow, sticky header; keyboard mobile menu tested",
-  "rollback": "4262422e",
-  "latest_staging_deployment": "00ef3682",
-  "protected_readback": "Authenticated custom-domain readback passed; unauthenticated request redirected to Cloudflare Access",
+  "qa": "Technical QA passed: 116 compiled pages, 16 Bolivia pages zero audit errors; batch4 visual review blocked by browser admin policy availability",
+  "rollback": "00ef3682",
+  "latest_staging_deployment": "fabd654e",
+  "protected_readback": "Batch4 authenticated browser readback pending; browser admin-enforced policy could not be verified",
   "remaining_gates": [
-    "Six remaining bilingual pairs",
+    "Batch4 authenticated desktop/mobile visual and interaction QA",
+    "Four remaining bilingual pairs",
     "Full country editorial, contextual link and release QA",
     "Owner review before production"
   ],
   "requirements_review": "planning/ai-os/bolivia-requirements-review.json",
-  "current_reviewed_checkpoint": "planning/ai-os/bolivia-batch3-reviewed.json"
+  "current_reviewed_checkpoint": "planning/ai-os/bolivia-batch4-reviewed.json",
+  "built_pairs": [
+    "pair_038",
+    "bolivia_planning_001",
+    "bolivia_rurrenabaque_001",
+    "bolivia_madidi_001",
+    "bolivia_pampas_001",
+    "bolivia_comparison_001",
+    "bolivia_combined_001",
+    "bolivia_accommodation_001"
+  ]
 }
