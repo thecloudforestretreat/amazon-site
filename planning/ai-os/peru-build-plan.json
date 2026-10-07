@@ -24,5 +24,6 @@
   "next_batch_proposal": [
     "Iquitos and Loreto destination EN/ES",
     "Tambopata destination EN/ES"
-  ]
+  ],
+  "quality_gate": "Ecuador-level topic coverage and destination-specific usefulness required; see peru-content-quality-review.json. First two pairs expanded after owner rejected thin draft."
 }

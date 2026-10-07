@@ -1,0 +1,48 @@
+{
+  "reason": "Owner identified thin Peru content compared with Ecuador",
+  "pages": [
+    {
+      "source": "src/pages/en/peru/index.html",
+      "approx_words": 1455,
+      "section_headings": 9,
+      "distinct_images": 3
+    },
+    {
+      "source": "src/pages/es/peru/index.html",
+      "approx_words": 1427,
+      "section_headings": 9,
+      "distinct_images": 3
+    },
+    {
+      "source": "src/pages/en/peru/plan-your-amazon-trip/index.html",
+      "approx_words": 1310,
+      "section_headings": 9,
+      "distinct_images": 3
+    },
+    {
+      "source": "src/pages/es/peru/planifica-tu-viaje-a-la-amazonia/index.html",
+      "approx_words": 1258,
+      "section_headings": 9,
+      "distinct_images": 3
+    }
+  ],
+  "checks": [
+    "82 compiled pages validate",
+    "Regional claims grounded in PROMPERU and SERNANP",
+    "EN/ES expansion reviewed",
+    "Desktop/mobile card layout checked"
+  ],
+  "ongoing_gate": [
+    "Compare topic coverage against Ecuador counterpart before deployment",
+    "Require destination-specific substance, useful comparisons, logistics/pacing, practical planning, FAQs where relevant",
+    "Do not treat word count as quality proof",
+    "Country launch requires complete destination cluster and contextual link review"
+  ],
+  "local_usage": "No local model call this revision; supervisor authored and translated expansion",
+  "deployment": {
+    "id": "8fb30898",
+    "scope": "protected staging",
+    "readback": "All four routes verified: nine content section headings, three unique images each",
+    "rollback": "790fd9bf"
+  }
+}
