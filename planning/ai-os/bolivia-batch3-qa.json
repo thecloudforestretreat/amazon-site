@@ -1,0 +1,37 @@
+{
+  "status": "reviewed_protected_staging",
+  "deployment": "00ef3682",
+  "rollback": "4262422e",
+  "date": "2026-10-07",
+  "pairs": [
+    "bolivia_pampas_001",
+    "bolivia_comparison_001"
+  ],
+  "checks": [
+    "112 compiled pages validated",
+    "12 Bolivia pages: zero technical audit errors; 1213\u20131291 main words; five referring country pages each",
+    "Four new pages reviewed at actual 1440px desktop and 390px mobile",
+    "All images loaded; three distinct scenes per page; alternating desktop feature placement",
+    "Shared core/editorial/amazon-guide CSS; aligned desktop card headings and equal card heights",
+    "No horizontal overflow; sticky header at top 0 on desktop/mobile",
+    "Spanish keyboard hamburger open/close, FAQ expand, English language pairing and country navigation passed",
+    "Unauthenticated staging route returned Cloudflare Access 302; authenticated browser readback passed"
+  ],
+  "sources": [
+    "https://bolivia.wcs.org/en-us/Landscapes/Madidi-Tambopata/Pampas-del-Yacuma.aspx",
+    "https://rurrenabaquemadidipampas.com.bo/inicio",
+    "https://madidiid.org/en/turismo/"
+  ],
+  "imagery": "Added source-reviewed capybara and bird scenes from Yacuma; CC BY-SA 4.0 with attribution and license links plus adaptation evidence in EXIF/rights ledger",
+  "local_usage": "123 prompt + 118 output = 241 measured tokens, 0 model retries, 0 cached tokens; one sandbox network retry before inference; cloud token denominator unavailable",
+  "observed_fixes": [
+    "Pampas feature indices both even produced same desktop side; renderer now accepts explicit reverse_features override while preserving earlier pages",
+    "First custom-domain navigation briefly showed fallback homepage during propagation; refreshed and confirmed exact destination title/content before QA",
+    "Mobile language link named English, rather than desktop EN; tested actual visible mobile control"
+  ],
+  "workflow_improvement": "Explicit feature-side override prevents same-side feature placement when section selection changes; saved checkpoint retains layout intent",
+  "limits": [
+    "Bolivia remains staging only; six pairs and final country QA remain",
+    "Counts and schema do not guarantee rankings, AI citations or field Core Web Vitals"
+  ]
+}

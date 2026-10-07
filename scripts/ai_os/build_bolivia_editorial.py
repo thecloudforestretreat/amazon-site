@@ -39,7 +39,7 @@ def render(checkpoint):
    for i,(heading,*paras) in enumerate(d['sections']):
     text=f'<h2 id="'+('regions' if topic=='hub' and i==0 else 'section-'+str(i))+f'">{e(heading)}</h2>'+''.join(paragraph(p) for p in paras)
     if str(i) in d['features']:
-     key,alt=d['features'][str(i)];body+='<section class="eta-section eta-section--mist"><div class="eta-shell bolivia-feature'+(' bolivia-feature--reverse' if i%2 else '')+'">'+photo(key,alt)+'<div>'+text+'</div></div></section>'
+     key,alt=d['features'][str(i)];body+='<section class="eta-section eta-section--mist"><div class="eta-shell bolivia-feature'+(' bolivia-feature--reverse' if i%2 or str(i) in d.get('reverse_features',[]) else '')+'">'+photo(key,alt)+'<div>'+text+'</div></div></section>'
     else:body+='<section class="eta-section"><div class="eta-shell eta-reading">'+text+'</div></section>'
    body+='<section class="eta-section"><div class="eta-shell eta-reading bolivia-faq"><h2>'+('Preguntas frecuentes' if es else 'Planning questions')+'</h2>'+''.join(f'<details><summary>{e(q)}</summary><p>{e(a)}</p></details>' for q,a in d['faqs'])+'</div></section>'
    body+=f'<section class="eta-section"><div class="eta-shell bolivia-cta"><h2>{e(d["cta"][0])}</h2><p>{e(d["cta"][1])}</p><a class="eta-button eta-button--gold" href="{contact}" data-cta-id="bolivia_inquiry" data-module-id="bolivia_editorial">'+('Comparte tus planes' if es else 'Share your plans')+'</a><p>'+' · '.join(f'<a href="{u}">{e(n)}</a>' for u,n in d['links'] if u!=r)+'</p></div></section>'

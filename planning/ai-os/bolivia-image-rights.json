@@ -64,5 +64,35 @@
     "modifications": "Proportional web resize and JPEG optimization; copyright and modifications retained in EXIF",
     "geography_review": "Source description and visible pixels reviewed",
     "review_date": "2026-10-07"
+  },
+  "yacuma-capybara": {
+    "key": "yacuma-capybara",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Capibara_sobre_Rios_Yacuma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Capibara_sobre_Rios_Yacuma.jpg",
+    "label": "Lizethleonllanos",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Especie de Roedor Gigante, tiene la particularidad de ser un gran nadador",
+    "file": "src/assets/images/bolivia/yacuma-capybara.jpg",
+    "width": 1800,
+    "height": 1013,
+    "modifications": "Proportional web resize and JPEG optimization; adaptation licensed CC BY-SA 4.0, attribution retained in EXIF",
+    "geography_review": "Yacuma source title/caption/category and visible pixels reviewed",
+    "review_date": "2026-10-07"
+  },
+  "yacuma-bird": {
+    "key": "yacuma-bird",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Pampas_del_Yacuma_Beni_Bolivia_bird.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Pampas_del_Yacuma_Beni_Bolivia_bird.png",
+    "label": "Atordoya",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Pampas del Yacuma Beni Bolivia",
+    "file": "src/assets/images/bolivia/yacuma-bird.jpg",
+    "width": 1536,
+    "height": 1024,
+    "modifications": "Proportional web resize and JPEG optimization; adaptation licensed CC BY-SA 4.0, attribution retained in EXIF",
+    "geography_review": "Yacuma source title/caption/category and visible pixels reviewed",
+    "review_date": "2026-10-07"
   }
 }

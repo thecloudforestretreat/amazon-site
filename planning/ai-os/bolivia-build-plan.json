@@ -1,5 +1,5 @@
 {
-  "status": "batch2_reviewed_staging",
+  "status": "batch3_reviewed_staging",
   "batch_size_pairs": 2,
   "target_pairs": 12,
   "launch_scope": [
@@ -17,8 +17,8 @@
     "Packing"
   ],
   "active_batch": [
-    "bolivia_rurrenabaque_001",
-    "bolivia_madidi_001"
+    "bolivia_pampas_001",
+    "bolivia_comparison_001"
   ],
   "production_release": "Not authorized until country complete and reviewed",
   "sitemap_boundary": "Original sitemap contained Bolivia hub pair_038 only; owner authorized new country work. This defines the initial 12-pair launch scope.",
@@ -26,7 +26,9 @@
     "pair_038",
     "bolivia_planning_001",
     "bolivia_rurrenabaque_001",
-    "bolivia_madidi_001"
+    "bolivia_madidi_001",
+    "bolivia_pampas_001",
+    "bolivia_comparison_001"
   ],
   "sources": [
     [
@@ -42,21 +44,20 @@
       "https://bolivia.wcs.org/en-us/Landscapes/Madidi-Tambopata/Pampas-del-Yacuma.aspx"
     ]
   ],
-  "progress": "4/12 bilingual pairs (33.3%); eight pages on protected staging, country not launch ready",
+  "progress": "6/12 bilingual pairs (50%); twelve pages on protected staging, country not launch ready",
   "next_batch": [
-    "Pampas del Yacuma",
-    "Forest versus pampas"
+    "Combined forest and pampas journeys",
+    "Accommodation"
   ],
   "qa": "Desktop 1440px and mobile 390px; all images loaded, no overflow, sticky header; keyboard mobile menu tested",
-  "rollback": "80454c1d",
-  "latest_staging_deployment": "4262422e",
+  "rollback": "4262422e",
+  "latest_staging_deployment": "00ef3682",
   "protected_readback": "Authenticated custom-domain readback passed; unauthenticated request redirected to Cloudflare Access",
-  "final_revision": "c2c998c",
   "remaining_gates": [
-    "Eight remaining bilingual pairs",
-    "Full country contextual link audit",
-    "Country release editorial and desktop/mobile QA; owner review before production"
+    "Six remaining bilingual pairs",
+    "Full country editorial, contextual link and release QA",
+    "Owner review before production"
   ],
   "requirements_review": "planning/ai-os/bolivia-requirements-review.json",
-  "current_reviewed_checkpoint": "planning/ai-os/bolivia-batch2-reviewed.json"
+  "current_reviewed_checkpoint": "planning/ai-os/bolivia-batch3-reviewed.json"
 }

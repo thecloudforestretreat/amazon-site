@@ -1,0 +1,362 @@
+[
+  {
+    "cards": [
+      {
+        "headingY": -2064.033203125,
+        "height": 163.90625
+      },
+      {
+        "headingY": -2064.033203125,
+        "height": 163.90625
+      },
+      {
+        "headingY": -2064.033203125,
+        "height": 163.90625
+      }
+    ],
+    "featureOrder": [
+      {
+        "imageX": 130,
+        "reverse": false,
+        "textX": 747.998046875
+      },
+      {
+        "imageX": 747.998046875,
+        "reverse": true,
+        "textX": 130
+      }
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/pampas-yacuma.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/yacuma-capybara.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/yacuma-bird.jpg"
+      }
+    ],
+    "overflow": false,
+    "route": "/bolivia/pampas-del-yacuma/",
+    "width": 1440
+  },
+  {
+    "cards": [
+      {
+        "headingY": -2022.236328125,
+        "height": 191.953125
+      },
+      {
+        "headingY": -2022.236328125,
+        "height": 191.953125
+      },
+      {
+        "headingY": -2022.236328125,
+        "height": 191.953125
+      }
+    ],
+    "featureOrder": [
+      {
+        "imageX": 130,
+        "reverse": false,
+        "textX": 747.998046875
+      },
+      {
+        "imageX": 747.998046875,
+        "reverse": true,
+        "textX": 130
+      }
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/pampas-yacuma.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/yacuma-capybara.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/yacuma-bird.jpg"
+      }
+    ],
+    "overflow": false,
+    "route": "/es/bolivia/pampas-del-yacuma/",
+    "width": 1440
+  },
+  {
+    "cards": [
+      {
+        "headingY": -1121.533203125,
+        "height": 198.466796875
+      },
+      {
+        "headingY": -1121.533203125,
+        "height": 198.466796875
+      },
+      {
+        "headingY": -1121.533203125,
+        "height": 198.466796875
+      }
+    ],
+    "featureOrder": [
+      {
+        "imageX": 130,
+        "reverse": false,
+        "textX": 747.998046875
+      },
+      {
+        "imageX": 747.998046875,
+        "reverse": true,
+        "textX": 130
+      }
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/pampas-yacuma.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/yacuma-capybara.jpg"
+      }
+    ],
+    "overflow": false,
+    "route": "/bolivia/forest-or-pampas/",
+    "width": 1440
+  },
+  {
+    "cards": [
+      {
+        "headingY": -1051.611328125,
+        "height": 198.466796875
+      },
+      {
+        "headingY": -1051.611328125,
+        "height": 198.466796875
+      },
+      {
+        "headingY": -1051.611328125,
+        "height": 198.466796875
+      }
+    ],
+    "featureOrder": [
+      {
+        "imageX": 130,
+        "reverse": false,
+        "textX": 747.998046875
+      },
+      {
+        "imageX": 747.998046875,
+        "reverse": true,
+        "textX": 130
+      }
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/pampas-yacuma.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/yacuma-capybara.jpg"
+      }
+    ],
+    "overflow": false,
+    "route": "/es/bolivia/selva-o-pampas/",
+    "width": 1440
+  },
+  {
+    "cards": [
+      {
+        "height": 128.65234375,
+        "width": 365.99609375
+      },
+      {
+        "height": 128.65234375,
+        "width": 365.99609375
+      },
+      {
+        "height": 128.65234375,
+        "width": 365.99609375
+      }
+    ],
+    "featureOrder": [
+      {
+        "imageY": -2356.904296875,
+        "textY": -2026.416015625
+      },
+      {
+        "imageY": 61.025390625,
+        "textY": 391.513671875
+      }
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/pampas-yacuma.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/yacuma-capybara.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/yacuma-bird.jpg"
+      }
+    ],
+    "overflow": false,
+    "route": "/bolivia/pampas-del-yacuma/",
+    "width": 390
+  },
+  {
+    "cards": [
+      {
+        "height": 128.65234375,
+        "width": 365.99609375
+      },
+      {
+        "height": 128.65234375,
+        "width": 365.99609375
+      },
+      {
+        "height": 156.69921875,
+        "width": 365.99609375
+      }
+    ],
+    "featureOrder": [
+      {
+        "imageY": -2273.310546875,
+        "textY": -1942.822265625
+      },
+      {
+        "imageY": 60.478515625,
+        "textY": 390.966796875
+      }
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/pampas-yacuma.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/yacuma-capybara.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/yacuma-bird.jpg"
+      }
+    ],
+    "overflow": false,
+    "route": "/es/bolivia/pampas-del-yacuma/",
+    "width": 390
+  },
+  {
+    "cards": [
+      {
+        "height": 128.65234375,
+        "width": 365.99609375
+      },
+      {
+        "height": 128.65234375,
+        "width": 365.99609375
+      },
+      {
+        "height": 128.65234375,
+        "width": 365.99609375
+      }
+    ],
+    "featureOrder": [
+      {
+        "imageY": -812.841796875,
+        "textY": -482.353515625
+      },
+      {
+        "imageY": 60.517578125,
+        "textY": 391.005859375
+      }
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/pampas-yacuma.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/yacuma-capybara.jpg"
+      }
+    ],
+    "overflow": false,
+    "route": "/bolivia/forest-or-pampas/",
+    "width": 390
+  },
+  {
+    "cards": [
+      {
+        "height": 128.65234375,
+        "width": 365.99609375
+      },
+      {
+        "height": 128.65234375,
+        "width": 365.99609375
+      },
+      {
+        "height": 128.65234375,
+        "width": 365.99609375
+      }
+    ],
+    "featureOrder": [
+      {
+        "imageY": -784.482421875,
+        "textY": -453.994140625
+      },
+      {
+        "imageY": 60.830078125,
+        "textY": 391.318359375
+      }
+    ],
+    "headerTop": 0,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/pampas-yacuma.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/yacuma-capybara.jpg"
+      }
+    ],
+    "overflow": false,
+    "route": "/es/bolivia/selva-o-pampas/",
+    "width": 390
+  }
+]
