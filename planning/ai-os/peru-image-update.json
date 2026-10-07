@@ -1,0 +1,454 @@
+{
+  "review_date": "2026-10-07",
+  "rights": "Owner supplied under paid Adobe Express plan; authorization confirmed in this conversation",
+  "location": "Regional filenames supplied by owner; alt text describes visible scenes without claiming independently verified capture locations",
+  "scene_policy": "One distinct source scene per page; English and Spanish share selections",
+  "images": {
+    "amazon-caiman-portrait": {
+      "width": 1600,
+      "height": 2000,
+      "original_bytes": 1093267,
+      "web_bytes": 702630,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-caiman-portrait.webp"
+    },
+    "amazon-caiman-wide": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 673731,
+      "web_bytes": 397442,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-caiman-wide.webp"
+    },
+    "amazon-cultural-portrait": {
+      "width": 2400,
+      "height": 1600,
+      "original_bytes": 951237,
+      "web_bytes": 475164,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-cultural-portrait.webp"
+    },
+    "amazon-forest-lodge-aerial": {
+      "width": 1600,
+      "height": 2000,
+      "original_bytes": 1560635,
+      "web_bytes": 1090386,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-forest-lodge-aerial.webp",
+      "alt": {
+        "en": "Aerial view of cabins in a forest clearing",
+        "es": "Vista aérea de cabañas en un claro del bosque"
+      }
+    },
+    "amazon-jaguar-portrait": {
+      "width": 1600,
+      "height": 2000,
+      "original_bytes": 1530720,
+      "web_bytes": 1042258,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-jaguar-portrait.webp"
+    },
+    "amazon-jaguar-wide": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 1051337,
+      "web_bytes": 720482,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-jaguar-wide.webp"
+    },
+    "amazon-macaws-clay-lick": {
+      "width": 2400,
+      "height": 1600,
+      "original_bytes": 1829114,
+      "web_bytes": 1239296,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-macaws-clay-lick.webp",
+      "alt": {
+        "en": "Colorful macaws gathered on a clay bank",
+        "es": "Guacamayos de colores reunidos en una pared de arcilla"
+      }
+    },
+    "amazon-monkey-branch-landscape": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 711111,
+      "web_bytes": 422266,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-monkey-branch-landscape.webp"
+    },
+    "amazon-monkey-branch-portrait": {
+      "width": 1600,
+      "height": 2000,
+      "original_bytes": 1270241,
+      "web_bytes": 835964,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-monkey-branch-portrait.webp"
+    },
+    "amazon-monkey-branch-wide": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 711111,
+      "web_bytes": 422266,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-monkey-branch-wide.webp",
+      "alt": {
+        "en": "Monkey resting on a branch among leaves",
+        "es": "Mono descansando sobre una rama entre hojas"
+      }
+    },
+    "amazon-otter-portrait": {
+      "width": 1600,
+      "height": 2000,
+      "original_bytes": 1051839,
+      "web_bytes": 638206,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-otter-portrait.webp"
+    },
+    "amazon-otter-wide": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 681298,
+      "web_bytes": 411704,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-otter-wide.webp",
+      "alt": {
+        "en": "Otter resting on a log beside the water",
+        "es": "Nutria descansando sobre un tronco junto al agua"
+      }
+    },
+    "amazon-red-faced-monkey-portrait": {
+      "width": 1600,
+      "height": 2000,
+      "original_bytes": 751875,
+      "web_bytes": 302580,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-red-faced-monkey-portrait.webp"
+    },
+    "amazon-red-faced-monkey-wide": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 435375,
+      "web_bytes": 158560,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-red-faced-monkey-wide.webp"
+    },
+    "amazon-river-forest-canoe": {
+      "width": 2400,
+      "height": 1600,
+      "original_bytes": 1261421,
+      "web_bytes": 766964,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-river-forest-canoe.webp",
+      "alt": {
+        "en": "Travelers in a canoe beside a forest riverbank",
+        "es": "Viajeros en canoa junto a una orilla boscosa"
+      }
+    },
+    "amazon-river-forest-reflections": {
+      "width": 2400,
+      "height": 1600,
+      "original_bytes": 1243374,
+      "web_bytes": 789240,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-river-forest-reflections.webp",
+      "alt": {
+        "en": "Green riverside forest reflected in still water",
+        "es": "Bosque ribereño verde reflejado en aguas tranquilas"
+      }
+    },
+    "amazon-river-sunset": {
+      "width": 2400,
+      "height": 1600,
+      "original_bytes": 1035223,
+      "web_bytes": 574072,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-river-sunset.webp",
+      "alt": {
+        "en": "Sunset reflected in a quiet forest river",
+        "es": "Atardecer reflejado en un río tranquilo rodeado de bosque"
+      }
+    },
+    "amazon-riverside-cabins-portrait": {
+      "width": 1600,
+      "height": 2000,
+      "original_bytes": 1614568,
+      "web_bytes": 1093002,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-riverside-cabins-portrait.webp"
+    },
+    "amazon-riverside-lodge-balcony-portrait": {
+      "width": 1600,
+      "height": 2000,
+      "original_bytes": 1581817,
+      "web_bytes": 1099910,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-riverside-lodge-balcony-portrait.webp"
+    },
+    "amazon-snake-portrait": {
+      "width": 1600,
+      "height": 2000,
+      "original_bytes": 470524,
+      "web_bytes": 218740,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-snake-portrait.webp"
+    },
+    "amazon-snake-wide": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 288171,
+      "web_bytes": 139418,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-snake-wide.webp"
+    },
+    "amazon-tarantula-portrait": {
+      "width": 1600,
+      "height": 2000,
+      "original_bytes": 507915,
+      "web_bytes": 197262,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-tarantula-portrait.webp"
+    },
+    "amazon-tarantula-wide": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 335393,
+      "web_bytes": 133876,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-tarantula-wide.webp"
+    },
+    "amazon-thatched-lodge-aerial-portrait": {
+      "width": 1600,
+      "height": 2000,
+      "original_bytes": 1585709,
+      "web_bytes": 1118632,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-thatched-lodge-aerial-portrait.webp"
+    },
+    "amazon-turtle-butterflies-landscape": {
+      "width": 2400,
+      "height": 1600,
+      "original_bytes": 1018964,
+      "web_bytes": 518698,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-turtle-butterflies-landscape.webp"
+    },
+    "amazon-turtle-butterflies-portrait": {
+      "width": 1600,
+      "height": 2000,
+      "original_bytes": 948465,
+      "web_bytes": 530028,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-turtle-butterflies-portrait.webp"
+    },
+    "amazon-turtle-butterflies-wide": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 531898,
+      "web_bytes": 245244,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-turtle-butterflies-wide.webp",
+      "alt": {
+        "en": "Turtle on a log with butterflies beside the water",
+        "es": "Tortuga sobre un tronco con mariposas junto al agua"
+      }
+    },
+    "iquitos-forest-river-canoe": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 1145894,
+      "web_bytes": 796854,
+      "src": "/assets/images/pages/countries/peru/optimized/iquitos-forest-river-canoe.webp",
+      "alt": {
+        "en": "Small canoe beside dense riverside forest",
+        "es": "Canoa pequeña junto a un bosque ribereño denso"
+      }
+    },
+    "iquitos-giant-water-lilies": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 828759,
+      "web_bytes": 493562,
+      "src": "/assets/images/pages/countries/peru/optimized/iquitos-giant-water-lilies.webp",
+      "alt": {
+        "en": "Giant water lily leaves on a forest pond",
+        "es": "Hojas de nenúfares gigantes en una laguna del bosque"
+      }
+    },
+    "iquitos-river-forest-aerial": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 1255069,
+      "web_bytes": 843358,
+      "src": "/assets/images/pages/countries/peru/optimized/iquitos-river-forest-aerial.webp",
+      "alt": {
+        "en": "Aerial view of a winding river surrounded by forest",
+        "es": "Vista aérea de un río sinuoso rodeado de bosque"
+      }
+    },
+    "iquitos-riverside-thatched-lodge": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 899379,
+      "web_bytes": 584126,
+      "src": "/assets/images/pages/countries/peru/optimized/iquitos-riverside-thatched-lodge.webp",
+      "alt": {
+        "en": "Thatched lodge beside a wetland waterway",
+        "es": "Alojamiento con techo de palma junto a un humedal"
+      }
+    },
+    "manu-capybaras-riverbank": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 479079,
+      "web_bytes": 238802,
+      "src": "/assets/images/pages/countries/peru/optimized/manu-capybaras-riverbank.webp",
+      "alt": {
+        "en": "Capybaras resting on a sandy riverbank",
+        "es": "Capibaras descansando en una orilla arenosa"
+      }
+    },
+    "manu-forest-moon-and-birds": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 522337,
+      "web_bytes": 261210,
+      "src": "/assets/images/pages/countries/peru/optimized/manu-forest-moon-and-birds.webp",
+      "alt": {
+        "en": "Birds above the forest canopy beneath the moon",
+        "es": "Aves sobre el dosel del bosque bajo la luna"
+      }
+    },
+    "manu-guided-canoe-journey": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 690341,
+      "web_bytes": 379670,
+      "src": "/assets/images/pages/countries/peru/optimized/manu-guided-canoe-journey.webp",
+      "alt": {
+        "en": "Travelers on a canoe journey through a forest waterway",
+        "es": "Viajeros en canoa por un curso de agua del bosque"
+      }
+    },
+    "manu-monkey-in-trees": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 430772,
+      "web_bytes": 155744,
+      "src": "/assets/images/pages/countries/peru/optimized/manu-monkey-in-trees.webp",
+      "alt": {
+        "en": "Monkey moving along branches in the forest",
+        "es": "Mono entre las ramas del bosque"
+      }
+    },
+    "pacaya-samiria-forest-canopy": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 1014863,
+      "web_bytes": 640508,
+      "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-forest-canopy.webp",
+      "alt": {
+        "en": "Dense green forest canopy and branches",
+        "es": "Dosel de bosque verde denso y ramas"
+      }
+    },
+    "pacaya-samiria-river-lodge-and-gardens": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 1013513,
+      "web_bytes": 690874,
+      "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-river-lodge-and-gardens.webp",
+      "alt": {
+        "en": "Thatched lodge and gardens beside a river",
+        "es": "Alojamiento con techo de palma y jardines junto a un río"
+      }
+    },
+    "pacaya-samiria-river-reflections": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 834892,
+      "web_bytes": 525338,
+      "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-river-reflections.webp",
+      "alt": {
+        "en": "Forest and clouds reflected in a calm river",
+        "es": "Bosque y nubes reflejados en un río tranquilo"
+      }
+    },
+    "pacaya-samiria-riverside-lodge": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 1039472,
+      "web_bytes": 704708,
+      "src": "/assets/images/pages/countries/peru/optimized/pacaya-samiria-riverside-lodge.webp",
+      "alt": {
+        "en": "Thatched wooden lodge beside the water",
+        "es": "Alojamiento de madera con techo de palma junto al agua"
+      }
+    },
+    "tambopata-canoe-river-journey": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 748177,
+      "web_bytes": 445468,
+      "src": "/assets/images/pages/countries/peru/optimized/tambopata-canoe-river-journey.webp",
+      "alt": {
+        "en": "View from a canoe along a forest-lined river",
+        "es": "Vista desde una canoa en un río rodeado de bosque"
+      }
+    },
+    "tambopata-macaws-in-flight": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 695635,
+      "web_bytes": 376064,
+      "src": "/assets/images/pages/countries/peru/optimized/tambopata-macaws-in-flight.webp",
+      "alt": {
+        "en": "Macaws flying in front of green forest",
+        "es": "Guacamayos volando frente al bosque verde"
+      }
+    },
+    "tambopata-otter-in-water": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 734890,
+      "web_bytes": 446920,
+      "src": "/assets/images/pages/countries/peru/optimized/tambopata-otter-in-water.webp"
+    }
+  },
+  "pages": {
+    "/peru/": [
+      "iquitos-river-forest-aerial",
+      "tambopata-canoe-river-journey",
+      "manu-capybaras-riverbank",
+      "amazon-macaws-clay-lick"
+    ],
+    "/peru/plan-your-amazon-trip/": [
+      "amazon-river-sunset",
+      "manu-guided-canoe-journey",
+      "iquitos-riverside-thatched-lodge",
+      "amazon-turtle-butterflies-wide"
+    ],
+    "/peru/iquitos/": [
+      "iquitos-forest-river-canoe",
+      "iquitos-river-forest-aerial",
+      "iquitos-giant-water-lilies"
+    ],
+    "/peru/tambopata/": [
+      "tambopata-canoe-river-journey",
+      "tambopata-macaws-in-flight"
+    ],
+    "/peru/manu/": [
+      "manu-forest-moon-and-birds",
+      "manu-guided-canoe-journey",
+      "manu-monkey-in-trees"
+    ],
+    "/peru/compare-amazon-regions/": [
+      "amazon-river-forest-reflections",
+      "iquitos-forest-river-canoe",
+      "tambopata-macaws-in-flight",
+      "manu-capybaras-riverbank"
+    ],
+    "/peru/pacaya-samiria/": [
+      "pacaya-samiria-river-reflections",
+      "pacaya-samiria-forest-canopy",
+      "pacaya-samiria-riverside-lodge"
+    ],
+    "/peru/amazon-lodges/": [
+      "amazon-forest-lodge-aerial",
+      "iquitos-riverside-thatched-lodge",
+      "pacaya-samiria-river-lodge-and-gardens"
+    ],
+    "/peru/best-time-to-visit/": [
+      "amazon-river-sunset",
+      "amazon-river-forest-reflections",
+      "manu-forest-moon-and-birds"
+    ],
+    "/peru/wildlife/": [
+      "amazon-monkey-branch-wide",
+      "amazon-macaws-clay-lick",
+      "amazon-otter-wide"
+    ],
+    "/peru/getting-there/": [
+      "iquitos-forest-river-canoe",
+      "tambopata-canoe-river-journey",
+      "manu-guided-canoe-journey"
+    ],
+    "/peru/packing-list/": [
+      "amazon-river-forest-canoe",
+      "pacaya-samiria-forest-canopy",
+      "amazon-turtle-butterflies-wide"
+    ]
+  }
+}

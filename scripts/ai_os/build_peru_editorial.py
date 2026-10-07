@@ -43,4 +43,8 @@ def render(checkpoint):
    head+='<meta name="twitter:card" content="summary_large_image"><script type="application/ld+json">'+json.dumps({'@context':'https://schema.org','@graph':graph},ensure_ascii=False)+'</script>'
    p=R/'src/pages'/lang/'peru'/d['slug']/'index.html';p.parent.mkdir(parents=True,exist_ok=True)
    p.write_text(f'<!doctype html><html lang="{lang}" data-language-pair="{pair}" data-page-id="peru_{topic}_{lang}" data-pair-id="peru_{topic}_001" data-page-type="{d["type"]}" data-country="peru" data-topic-cluster="peru-amazon" data-funnel-stage="consideration"><head>'+head+'</head><body>{{ETA_HEADER}}<main id="main-content">'+body+'</main>{{ETA_FOOTER}}</body></html>')
-if __name__=='__main__':render(sys.argv[1])
+if __name__=='__main__':
+ render(sys.argv[1])
+ # Reapply owner image selections after regenerating editorial content.
+ from apply_peru_images import apply
+ apply()

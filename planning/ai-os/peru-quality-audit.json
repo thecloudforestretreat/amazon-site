@@ -4,7 +4,7 @@
   "pages": [
     {
       "route": "/es/peru/",
-      "main_words": 1842,
+      "main_words": 1814,
       "h2_sections": 17,
       "main_content_inlinks": [
         "/es/peru/alojamientos-amazonicos/",
@@ -49,7 +49,7 @@
     },
     {
       "route": "/es/peru/alojamientos-amazonicos/",
-      "main_words": 1342,
+      "main_words": 1318,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/peru/",
@@ -88,7 +88,7 @@
     },
     {
       "route": "/es/peru/como-llegar/",
-      "main_words": 1379,
+      "main_words": 1359,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/peru/",
@@ -126,7 +126,7 @@
     },
     {
       "route": "/es/peru/comparar-regiones-amazonicas/",
-      "main_words": 1421,
+      "main_words": 1398,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/peru/",
@@ -165,7 +165,7 @@
     },
     {
       "route": "/es/peru/fauna/",
-      "main_words": 1460,
+      "main_words": 1435,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/peru/",
@@ -203,7 +203,7 @@
     },
     {
       "route": "/es/peru/iquitos/",
-      "main_words": 1202,
+      "main_words": 1177,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/peru/",
@@ -247,7 +247,7 @@
     },
     {
       "route": "/es/peru/manu/",
-      "main_words": 1412,
+      "main_words": 1395,
       "h2_sections": 16,
       "main_content_inlinks": [
         "/es/peru/",
@@ -289,7 +289,7 @@
     },
     {
       "route": "/es/peru/mejor-epoca-para-visitar/",
-      "main_words": 1440,
+      "main_words": 1418,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/peru/",
@@ -327,7 +327,7 @@
     },
     {
       "route": "/es/peru/pacaya-samiria/",
-      "main_words": 1407,
+      "main_words": 1383,
       "h2_sections": 15,
       "main_content_inlinks": [
         "/es/peru/",
@@ -367,7 +367,7 @@
     },
     {
       "route": "/es/peru/planifica-tu-viaje-a-la-amazonia/",
-      "main_words": 1575,
+      "main_words": 1547,
       "h2_sections": 16,
       "main_content_inlinks": [
         "/es/peru/",
@@ -411,7 +411,7 @@
     },
     {
       "route": "/es/peru/que-llevar/",
-      "main_words": 1396,
+      "main_words": 1370,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/peru/",
@@ -449,7 +449,7 @@
     },
     {
       "route": "/es/peru/tambopata/",
-      "main_words": 1095,
+      "main_words": 1081,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/peru/",
@@ -491,7 +491,7 @@
     },
     {
       "route": "/peru/",
-      "main_words": 1864,
+      "main_words": 1836,
       "h2_sections": 17,
       "main_content_inlinks": [
         "/peru/tambopata/",
@@ -536,7 +536,7 @@
     },
     {
       "route": "/peru/amazon-lodges/",
-      "main_words": 1369,
+      "main_words": 1345,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/peru/",
@@ -575,7 +575,7 @@
     },
     {
       "route": "/peru/best-time-to-visit/",
-      "main_words": 1411,
+      "main_words": 1389,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/peru/",
@@ -613,7 +613,7 @@
     },
     {
       "route": "/peru/compare-amazon-regions/",
-      "main_words": 1425,
+      "main_words": 1402,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/peru/",
@@ -652,7 +652,7 @@
     },
     {
       "route": "/peru/getting-there/",
-      "main_words": 1383,
+      "main_words": 1363,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/peru/",
@@ -690,7 +690,7 @@
     },
     {
       "route": "/peru/iquitos/",
-      "main_words": 1273,
+      "main_words": 1248,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/peru/",
@@ -734,7 +734,7 @@
     },
     {
       "route": "/peru/manu/",
-      "main_words": 1410,
+      "main_words": 1393,
       "h2_sections": 16,
       "main_content_inlinks": [
         "/peru/",
@@ -776,7 +776,7 @@
     },
     {
       "route": "/peru/pacaya-samiria/",
-      "main_words": 1377,
+      "main_words": 1353,
       "h2_sections": 15,
       "main_content_inlinks": [
         "/peru/",
@@ -816,7 +816,7 @@
     },
     {
       "route": "/peru/packing-list/",
-      "main_words": 1440,
+      "main_words": 1414,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/peru/",
@@ -854,7 +854,7 @@
     },
     {
       "route": "/peru/plan-your-amazon-trip/",
-      "main_words": 1617,
+      "main_words": 1589,
       "h2_sections": 16,
       "main_content_inlinks": [
         "/peru/",
@@ -898,7 +898,7 @@
     },
     {
       "route": "/peru/tambopata/",
-      "main_words": 1172,
+      "main_words": 1158,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/peru/",
@@ -940,7 +940,7 @@
     },
     {
       "route": "/peru/wildlife/",
-      "main_words": 1442,
+      "main_words": 1417,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/peru/",
@@ -981,7 +981,5 @@
     "Content counts do not prove editorial quality",
     "Staging intentionally blocked from indexing; production eligibility requires country release",
     "No live rankings, AI citations or field Core Web Vitals assessed"
-  ],
-  "deployment": "9f17b511",
-  "deployed_readback": "Pending browser policy verification; Wrangler deployment confirmed"
+  ]
 }
