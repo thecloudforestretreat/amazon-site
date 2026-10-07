@@ -1,0 +1,51 @@
+{
+  "status": "deployed_visual_review_pending",
+  "date": "2026-10-07",
+  "pairs": [
+    "bolivia_access_001",
+    "bolivia_packing_001"
+  ],
+  "rollback": "88d8c842",
+  "checks": [
+    "124 compiled HTML pages validated",
+    "24 Bolivia pages: zero technical audit errors; eleven country main-content referring pages per route",
+    "Shared global/editorial/amazon-guide CSS retained; no inline page styling",
+    "Three distinct previously licensed geographically reviewed scenes per page",
+    "Reciprocal EN/ES links, metadata, FAQ parity, internal routes and anchors validated"
+  ],
+  "visual_review": {
+    "status": "pending",
+    "reason": "Admin-enforced browser policy check unavailable; no workaround attempted",
+    "carryover_batches": [
+      4,
+      5
+    ],
+    "attempts_this_turn": 1
+  },
+  "sources": [
+    "https://rurrenabaquemadidipampas.com.bo/planificacion/como-llegar",
+    "https://rurrenabaquemadidipampas.com.bo/planificacion/recomendaciones-al-viajero",
+    "https://rurrenabaquemadidipampas.com.bo/planificacion/clima"
+  ],
+  "editorial_review": "Access source includes obsolete-looking airline/schedule/fare details: omitted from current claims. Rurrenabaque gateway and La Paz air/road context retained; current services require direct confirmation. Packing recommendations separated from medical/entry requirements. Both languages supervisor reviewed.",
+  "local_usage": {
+    "model": "qwen3.5:9b",
+    "prompt_tokens": 101,
+    "output_tokens": 105,
+    "measured_total": 206,
+    "retries": 0,
+    "cache_hit": false,
+    "overall_cloud_local_percentage": "unavailable"
+  },
+  "production_release": false,
+  "word_range": [
+    1282,
+    1400
+  ],
+  "deployment": "fe7acaaf",
+  "protected_staging_check": {
+    "unauthenticated_http_status": 302,
+    "access_preserved": true,
+    "authenticated_visual_readback": "blocked_by_browser_policy_check"
+  }
+}
