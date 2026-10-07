@@ -1,5 +1,5 @@
 {
-  "status": "ten_pairs_on_staging_visual_review_pending",
+  "status": "initial_twelve_pairs_on_staging_release_qa_pending",
   "scope": "Peru staging only; country release after reviewed bilingual content, imagery, technical and visual QA and live-test readiness",
   "batch_size_pairs": 2,
   "first_batch": [
@@ -33,28 +33,27 @@
     "peru_pacaya_001",
     "peru_accommodation_001",
     "peru_timing_001",
-    "peru_wildlife_001"
+    "peru_wildlife_001",
+    "peru_access_001",
+    "peru_packing_001"
   ],
-  "release_status": "Not live-ready: deployed desktop/mobile visual QA pending; production scope still Ecuador",
-  "latest_staging_deployment": "5fc3a8ef",
+  "release_status": "Initial content scope complete on staging; country-wide desktop/mobile visual review, protected deployed readback and live form/release testing remain pending.",
+  "latest_staging_deployment": "59307af9",
   "active_batch": {
-    "number": 5,
+    "number": 6,
     "pairs": [
-      "peru_timing_001",
-      "peru_wildlife_001"
+      "peru_access_001",
+      "peru_packing_001"
     ],
     "status": "deployed_technical_pass_visual_pending",
-    "scope": "Timing by named region and route; wildlife/habitat observation without sighting promises"
+    "scope": "Named access sequences and practical route-specific packing"
   },
   "launch_scope": {
     "defined": "2026-10-07",
     "basis": "Supervisor-defined initial country launch scope in response to owner request for overall progress; original sitemap contained only the country hub",
     "target_pairs": 12,
     "target_pages": 24,
-    "remaining_pairs": [
-      "peru_access_001",
-      "peru_packing_001"
-    ],
+    "remaining_pairs": [],
     "content_progress_before_batch5": "8/12 pairs (66.7%); not a live-readiness percentage",
     "release_gates": [
       "All 12 pairs reviewed bilingual editorial and technical checks",
@@ -62,7 +61,7 @@
       "Protected staging readback",
       "Live form test and country-specific production sitemap/canonicals/navigation review before release"
     ],
-    "content_progress": "10/12 pairs (83.3%); 20/24 pages; not a live-readiness percentage"
+    "content_progress": "12/12 pairs (100%); 24/24 pages; initial content scope only, not live readiness"
   },
   "css_correction": {
     "issue": "Dark related links on dark CTA background and inadequate button/link spacing, identified in owner screenshot",
@@ -77,6 +76,7 @@
     "section_padding": "28–48px, down from global 40–72px; adjacent plain text sections avoid duplicate top padding",
     "summary": "Removed additional 32px vertical margins",
     "cta": "24–36px internal padding; desktop action alongside text; mobile single column",
-    "visual_status": "Pending browser verification; CSS comparison and technical checks only"
+    "visual_status": "Pending browser verification; CSS comparison and technical checks only",
+    "owner_review": "Owner authorized proceeding October 7; established styles retained for batch6"
   }
 }

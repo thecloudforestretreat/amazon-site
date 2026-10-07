@@ -1,0 +1,42 @@
+{
+  "status": "technical_pass_visual_pending",
+  "new_pages": [
+    {
+      "route": "/peru/getting-there/",
+      "visible_faq_matches": 4,
+      "html_sha256": "80a577b62795b57fec651c083a9b048196cd77219bd3c8005a660b49b9aba5ed"
+    },
+    {
+      "route": "/peru/packing-list/",
+      "visible_faq_matches": 4,
+      "html_sha256": "e079b4565d79f065c6ea6a5cd44496bcbbf0b785b20332956c3d39c9f8e1d22b"
+    },
+    {
+      "route": "/es/peru/como-llegar/",
+      "visible_faq_matches": 4,
+      "html_sha256": "42057b93756f2417874cad7cf82072b4a5a65ebf778e29e790e18f5d7bb67bb3"
+    },
+    {
+      "route": "/es/peru/que-llevar/",
+      "visible_faq_matches": 4,
+      "html_sha256": "b6c4268f6372d5f3bbe308202d2746b25b24c2cea4cdd36e1e43e14def9d8d3b"
+    }
+  ],
+  "all_peru_pages_audited": 24,
+  "pairs_after_deployment": 12,
+  "visible_faq_matches_all_peru": 96,
+  "rollback_deployment": "5fc3a8ef",
+  "local_total_tokens": 197,
+  "local_attempts": 1,
+  "cache_hits": 0,
+  "cloud_usage": "Not metered; no reliable overall percentage",
+  "css": "Same core/editorial/Peru stack; approved spacing correction inherited",
+  "editorial_review": "Named access sectors checked against official references; actionable operator-specific packing; no fabricated timetables, inventory or medical prescriptions",
+  "images": "Three distinct rights-recorded local images per page; EN/ES share assets",
+  "visual_review": "Pending browser admin-policy verification",
+  "production_status": "Peru remains excluded from production release",
+  "errors": [],
+  "deployment": "59307af9",
+  "deployment_url": "https://59307af9.amazon-site-staging.pages.dev",
+  "deployed_readback": "Pending browser security-policy verification; Wrangler deployment confirmed"
+}

@@ -1,0 +1,21 @@
+{
+  "model": "qwen3.5:9b",
+  "prompt_eval_count": 98,
+  "eval_count": 99,
+  "seconds": 10.55,
+  "attempts": 1,
+  "cache_hit": false,
+  "status": "reviewed_with_edits",
+  "workflow_improvement": "Explicit JSON Schema and bounded heading-only translation after unsafe long-draft failure",
+  "accepted_with_edits": [
+    "3"
+  ],
+  "rejected": [
+    "0",
+    "1",
+    "2",
+    "4",
+    "5"
+  ],
+  "review": "Accessible-bag heading adapted; remaining translations replaced for consistent informal voice and precise route terminology. No model-generated facts used."
+}

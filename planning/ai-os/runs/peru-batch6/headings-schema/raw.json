@@ -1,0 +1,17 @@
+{
+  "model": "qwen3.5:9b",
+  "created_at": "2026-10-07T14:35:13.689402Z",
+  "message": {
+    "role": "assistant",
+    "content": "{\"0\": \"Mantenga la transferencia desde el punto de partida y el bosque separados\", \"1\": \"Confirme su regreso antes de reservar el siguiente tramo del viaje\", \"2\": \"Empaque para el trayecto, no solo para el destino\", \"3\": \"Mantenga los artículos esenciales a mano\", \"4\": \"Verifique qué suministra la compañía\", \"5\": \"Deje el equipaje innecesario en el punto de partida\"}"
+  },
+  "done": true,
+  "done_reason": "stop",
+  "total_duration": 10542416041,
+  "load_duration": 6333501583,
+  "prompt_eval_count": 98,
+  "prompt_eval_cached_count": 0,
+  "prompt_eval_duration": 256474000,
+  "eval_count": 99,
+  "eval_duration": 3936934000
+}

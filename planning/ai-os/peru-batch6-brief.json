@@ -1,0 +1,28 @@
+{
+  "pairs": [
+    {
+      "id": "peru_access_001",
+      "en": "/peru/getting-there/",
+      "es": "/es/peru/como-llegar/"
+    },
+    {
+      "id": "peru_packing_001",
+      "en": "/peru/packing-list/",
+      "es": "/es/peru/que-llevar/"
+    }
+  ],
+  "quality_requirements": [
+    "Approved shared CSS spacing and CTA",
+    "Nine useful sections plus direct answer and four matching FAQs",
+    "No duplicate image within page",
+    "Relevant incoming contextual links from seven existing pairs",
+    "Reviewed official access facts; provider-specific practical preparation"
+  ],
+  "sources_reviewed": "2026-10-07",
+  "sources": [
+    "https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-tambopata/",
+    "https://visitaareasnaturales.sernanp.gob.pe/en/anps/pacaya-samiria-national-reserve/",
+    "https://www.peru.travel/attractions/manu-national-park"
+  ],
+  "release_boundary": "Protected staging only; complete initial content scope is not live-release approval"
+}
