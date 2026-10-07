@@ -1,0 +1,69 @@
+{
+  "local_draft_review": "Rejected publication: invented already-received quotes, assumed community shuttle and first-person booking service; Spanish changed boats to buses",
+  "promotion": "Supervisor rewrite; raw local preserved",
+  "local_usage": {
+    "model": "qwen3.5:9b",
+    "prompt_tokens": 103,
+    "output_tokens": 748,
+    "attempts": 1,
+    "cache_hit": false
+  },
+  "images": {
+    "iquitos": [
+      "hero.jpg",
+      "Iquitos \u00b7 Redbaobab",
+      "https://commons.wikimedia.org/wiki/File:Iquitos_Peru_01.jpg",
+      "CC BY 4.0",
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "tambopata": [
+      "tambopata-river.jpg",
+      "Tambopata \u00b7 PalestinaPeru",
+      "https://commons.wikimedia.org/wiki/File:TambopataRiver.JPG",
+      "Public domain",
+      "https://commons.wikimedia.org/wiki/File:TambopataRiver.JPG"
+    ],
+    "manu": [
+      "manu-river.jpg",
+      "Manu \u00b7 Erfil",
+      "https://commons.wikimedia.org/wiki/File:Manu_River_2012-1.jpg",
+      "CC BY-SA 4.0",
+      "https://creativecommons.org/licenses/by-sa/4.0/"
+    ]
+  },
+  "routes": {
+    "en": [
+      "/peru/",
+      "/peru/plan-your-amazon-trip/"
+    ],
+    "es": [
+      "/es/peru/",
+      "/es/peru/planifica-tu-viaje-a-la-amazonia/"
+    ]
+  },
+  "pending": [],
+  "production": "unchanged; Peru remains coming soon",
+  "visual_qa": {
+    "viewports": [
+      390,
+      1280
+    ],
+    "reviewed": [
+      "EN/ES hub heroes",
+      "EN/ES planning heroes",
+      "regional cards",
+      "planning cards",
+      "mobile menu open/close"
+    ],
+    "fix": "Shared subgrid aligns regional card headings and paragraph starts on desktop",
+    "result": "pass"
+  },
+  "workflow_improvement": "Next local draft briefs must prohibit invented received quotes, operational claims and first-person bookings; review translation transport nouns before promotion.",
+  "deployment": {
+    "id": "790fd9bf",
+    "environment": "protected staging",
+    "authenticated_readback": "All four headings, titles and three image slots verified",
+    "unauthenticated": "302 to Cloudflare Access login",
+    "rollback": "73c0d667"
+  }
+}

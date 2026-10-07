@@ -1,0 +1,16 @@
+{
+  "geographic_pixels_reviewed": true,
+  "assets": {
+    "tambopata-river.jpg": {
+      "creator": "PalestinaPeru",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:TambopataRiver.JPG"
+    },
+    "manu-river.jpg": {
+      "creator": "Erfil",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Manu_River_2012-1.jpg"
+    }
+  },
+  "processing": "Resized to 1800px JPEG; CSS display crop. Attribution and source/license links retained on pages; Manu derivative shared under CC BY-SA 4.0."
+}

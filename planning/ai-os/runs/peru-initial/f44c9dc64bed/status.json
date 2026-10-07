@@ -1,0 +1,10 @@
+{
+  "status": "awaiting_editorial_review",
+  "model": "qwen3.5:9b",
+  "prompt_eval_count": 103,
+  "eval_count": 748,
+  "seconds": 34.1,
+  "cache_hit": false,
+  "attempts": 1,
+  "cloud_worker_tokens": 0
+}

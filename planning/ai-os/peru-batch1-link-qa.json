@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "route": "/peru/",
+      "main_content_incoming": [
+        "/peru/plan-your-amazon-trip/"
+      ],
+      "images": [
+        "/assets/images/peru/hero.jpg",
+        "/assets/images/peru/tambopata-river.jpg",
+        "/assets/images/peru/manu-river.jpg"
+      ],
+      "duplicate_images": false
+    },
+    {
+      "route": "/es/peru/",
+      "main_content_incoming": [
+        "/es/peru/planifica-tu-viaje-a-la-amazonia/"
+      ],
+      "images": [
+        "/assets/images/peru/hero.jpg",
+        "/assets/images/peru/tambopata-river.jpg",
+        "/assets/images/peru/manu-river.jpg"
+      ],
+      "duplicate_images": false
+    },
+    {
+      "route": "/peru/plan-your-amazon-trip/",
+      "main_content_incoming": [
+        "/peru/"
+      ],
+      "images": [
+        "/assets/images/peru/tambopata-river.jpg",
+        "/assets/images/peru/manu-river.jpg",
+        "/assets/images/peru/hero.jpg"
+      ],
+      "duplicate_images": false
+    },
+    {
+      "route": "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+      "main_content_incoming": [
+        "/es/peru/"
+      ],
+      "images": [
+        "/assets/images/peru/tambopata-river.jpg",
+        "/assets/images/peru/manu-river.jpg",
+        "/assets/images/peru/hero.jpg"
+      ],
+      "duplicate_images": false
+    }
+  ],
+  "errors": []
+}
