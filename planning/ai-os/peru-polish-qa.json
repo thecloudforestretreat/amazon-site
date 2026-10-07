@@ -1,0 +1,40 @@
+{
+  "pages": [
+    {
+      "route": "/peru/",
+      "unique_images": 4,
+      "anchors": "pass"
+    },
+    {
+      "route": "/es/peru/",
+      "unique_images": 4,
+      "anchors": "pass"
+    },
+    {
+      "route": "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+      "unique_images": 4,
+      "anchors": "pass"
+    },
+    {
+      "route": "/peru/plan-your-amazon-trip/",
+      "unique_images": 4,
+      "anchors": "pass"
+    }
+  ],
+  "changes": [
+    "Regional route comparison",
+    "Named reserve experiences from SERNANP",
+    "Licensed geographically verified wildlife imagery",
+    "Editorial rows replace four dense card sections",
+    "Hub section navigation"
+  ],
+  "sources": [
+    "https://visitaareasnaturales.sernanp.gob.pe/en/anps/tambopata-national-reserve/",
+    "https://visitaareasnaturales.sernanp.gob.pe/en/anps/manu-national-park/"
+  ],
+  "technical": "82 pages validate; four unique Peru images per route; route and anchor check pass",
+  "visual": "EN planning desktop editorial rows and ES hub mobile wildlife reviewed",
+  "rollback": "8fb30898",
+  "deployment": "4854bd89",
+  "readback": "All four authenticated staging routes contain four images and six editorial rows"
+}
