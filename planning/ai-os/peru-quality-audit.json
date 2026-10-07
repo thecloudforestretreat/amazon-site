@@ -1,14 +1,16 @@
 {
-  "pages_audited": 16,
+  "pages_audited": 20,
   "errors": [],
   "pages": [
     {
       "route": "/es/peru/",
-      "main_words": 1752,
-      "h2_sections": 15,
+      "main_words": 1795,
+      "h2_sections": 16,
       "main_content_inlinks": [
         "/es/peru/alojamientos-amazonicos/",
+        "/es/peru/fauna/",
         "/es/peru/tambopata/",
+        "/es/peru/mejor-epoca-para-visitar/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
         "/es/peru/iquitos/",
         "/es/peru/manu/",
@@ -19,8 +21,10 @@
         "/es/",
         "/es/peru/alojamientos-amazonicos/",
         "/es/peru/comparar-regiones-amazonicas/",
+        "/es/peru/fauna/",
         "/es/peru/iquitos/",
         "/es/peru/manu/",
+        "/es/peru/mejor-epoca-para-visitar/",
         "/es/peru/pacaya-samiria/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
         "/es/peru/tambopata/"
@@ -83,6 +87,7 @@
         "/es/peru/",
         "/es/peru/alojamientos-amazonicos/",
         "/es/peru/tambopata/",
+        "/es/peru/mejor-epoca-para-visitar/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
         "/es/peru/iquitos/",
         "/es/peru/manu/",
@@ -114,12 +119,50 @@
       "issues": []
     },
     {
+      "route": "/es/peru/fauna/",
+      "main_words": 1460,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/es/peru/",
+        "/es/peru/tambopata/",
+        "/es/peru/mejor-epoca-para-visitar/",
+        "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+        "/es/peru/iquitos/",
+        "/es/peru/manu/",
+        "/es/peru/pacaya-samiria/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/contacto/",
+        "/es/peru/",
+        "/es/peru/iquitos/",
+        "/es/peru/manu/",
+        "/es/peru/mejor-epoca-para-visitar/",
+        "/es/peru/pacaya-samiria/",
+        "/es/peru/tambopata/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
       "route": "/es/peru/iquitos/",
-      "main_words": 1112,
-      "h2_sections": 11,
+      "main_words": 1155,
+      "h2_sections": 12,
       "main_content_inlinks": [
         "/es/peru/",
         "/es/peru/alojamientos-amazonicos/",
+        "/es/peru/fauna/",
         "/es/peru/tambopata/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
         "/es/peru/manu/",
@@ -132,7 +175,9 @@
         "/es/peru/",
         "/es/peru/alojamientos-amazonicos/",
         "/es/peru/comparar-regiones-amazonicas/",
+        "/es/peru/fauna/",
         "/es/peru/manu/",
+        "/es/peru/mejor-epoca-para-visitar/",
         "/es/peru/pacaya-samiria/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
         "/es/peru/tambopata/"
@@ -153,10 +198,11 @@
     },
     {
       "route": "/es/peru/manu/",
-      "main_words": 1322,
-      "h2_sections": 14,
+      "main_words": 1365,
+      "h2_sections": 15,
       "main_content_inlinks": [
         "/es/peru/",
+        "/es/peru/fauna/",
         "/es/peru/tambopata/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
         "/es/peru/iquitos/",
@@ -168,7 +214,46 @@
         "/es/peru/",
         "/es/peru/alojamientos-amazonicos/",
         "/es/peru/comparar-regiones-amazonicas/",
+        "/es/peru/fauna/",
         "/es/peru/iquitos/",
+        "/es/peru/mejor-epoca-para-visitar/",
+        "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+        "/es/peru/tambopata/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/peru/mejor-epoca-para-visitar/",
+      "main_words": 1440,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/es/peru/",
+        "/es/peru/fauna/",
+        "/es/peru/tambopata/",
+        "/es/peru/planifica-tu-viaje-a-la-amazonia/",
+        "/es/peru/iquitos/",
+        "/es/peru/manu/",
+        "/es/peru/pacaya-samiria/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/contacto/",
+        "/es/peru/",
+        "/es/peru/comparar-regiones-amazonicas/",
+        "/es/peru/fauna/",
+        "/es/peru/pacaya-samiria/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
         "/es/peru/tambopata/"
       ],
@@ -188,11 +273,13 @@
     },
     {
       "route": "/es/peru/pacaya-samiria/",
-      "main_words": 1317,
-      "h2_sections": 13,
+      "main_words": 1360,
+      "h2_sections": 14,
       "main_content_inlinks": [
         "/es/peru/",
         "/es/peru/alojamientos-amazonicos/",
+        "/es/peru/fauna/",
+        "/es/peru/mejor-epoca-para-visitar/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
         "/es/peru/iquitos/",
         "/es/peru/comparar-regiones-amazonicas/"
@@ -203,7 +290,9 @@
         "/es/peru/",
         "/es/peru/alojamientos-amazonicos/",
         "/es/peru/comparar-regiones-amazonicas/",
+        "/es/peru/fauna/",
         "/es/peru/iquitos/",
+        "/es/peru/mejor-epoca-para-visitar/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/"
       ],
       "css": [
@@ -222,12 +311,13 @@
     },
     {
       "route": "/es/peru/planifica-tu-viaje-a-la-amazonia/",
-      "main_words": 1485,
-      "h2_sections": 14,
+      "main_words": 1528,
+      "h2_sections": 15,
       "main_content_inlinks": [
         "/es/peru/",
         "/es/peru/alojamientos-amazonicos/",
         "/es/peru/tambopata/",
+        "/es/peru/mejor-epoca-para-visitar/",
         "/es/peru/iquitos/",
         "/es/peru/manu/",
         "/es/peru/pacaya-samiria/",
@@ -239,8 +329,10 @@
         "/es/peru/",
         "/es/peru/alojamientos-amazonicos/",
         "/es/peru/comparar-regiones-amazonicas/",
+        "/es/peru/fauna/",
         "/es/peru/iquitos/",
         "/es/peru/manu/",
+        "/es/peru/mejor-epoca-para-visitar/",
         "/es/peru/pacaya-samiria/",
         "/es/peru/tambopata/"
       ],
@@ -260,10 +352,12 @@
     },
     {
       "route": "/es/peru/tambopata/",
-      "main_words": 1005,
-      "h2_sections": 11,
+      "main_words": 1048,
+      "h2_sections": 12,
       "main_content_inlinks": [
         "/es/peru/",
+        "/es/peru/fauna/",
+        "/es/peru/mejor-epoca-para-visitar/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/",
         "/es/peru/iquitos/",
         "/es/peru/manu/",
@@ -275,8 +369,10 @@
         "/es/peru/",
         "/es/peru/alojamientos-amazonicos/",
         "/es/peru/comparar-regiones-amazonicas/",
+        "/es/peru/fauna/",
         "/es/peru/iquitos/",
         "/es/peru/manu/",
+        "/es/peru/mejor-epoca-para-visitar/",
         "/es/peru/planifica-tu-viaje-a-la-amazonia/"
       ],
       "css": [
@@ -295,12 +391,14 @@
     },
     {
       "route": "/peru/",
-      "main_words": 1782,
-      "h2_sections": 15,
+      "main_words": 1821,
+      "h2_sections": 16,
       "main_content_inlinks": [
         "/peru/tambopata/",
+        "/peru/best-time-to-visit/",
         "/peru/plan-your-amazon-trip/",
         "/peru/iquitos/",
+        "/peru/wildlife/",
         "/peru/amazon-lodges/",
         "/peru/manu/",
         "/peru/pacaya-samiria/",
@@ -309,12 +407,14 @@
       "main_content_outlinks": [
         "/",
         "/peru/amazon-lodges/",
+        "/peru/best-time-to-visit/",
         "/peru/compare-amazon-regions/",
         "/peru/iquitos/",
         "/peru/manu/",
         "/peru/pacaya-samiria/",
         "/peru/plan-your-amazon-trip/",
-        "/peru/tambopata/"
+        "/peru/tambopata/",
+        "/peru/wildlife/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -367,12 +467,50 @@
       "issues": []
     },
     {
+      "route": "/peru/best-time-to-visit/",
+      "main_words": 1411,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/peru/",
+        "/peru/tambopata/",
+        "/peru/plan-your-amazon-trip/",
+        "/peru/iquitos/",
+        "/peru/wildlife/",
+        "/peru/manu/",
+        "/peru/pacaya-samiria/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/contact/",
+        "/peru/",
+        "/peru/compare-amazon-regions/",
+        "/peru/pacaya-samiria/",
+        "/peru/plan-your-amazon-trip/",
+        "/peru/tambopata/",
+        "/peru/wildlife/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
       "route": "/peru/compare-amazon-regions/",
       "main_words": 1425,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/peru/",
         "/peru/tambopata/",
+        "/peru/best-time-to-visit/",
         "/peru/plan-your-amazon-trip/",
         "/peru/iquitos/",
         "/peru/amazon-lodges/",
@@ -406,12 +544,13 @@
     },
     {
       "route": "/peru/iquitos/",
-      "main_words": 1191,
-      "h2_sections": 11,
+      "main_words": 1230,
+      "h2_sections": 12,
       "main_content_inlinks": [
         "/peru/",
         "/peru/tambopata/",
         "/peru/plan-your-amazon-trip/",
+        "/peru/wildlife/",
         "/peru/amazon-lodges/",
         "/peru/manu/",
         "/peru/pacaya-samiria/",
@@ -422,11 +561,13 @@
         "/contact/",
         "/peru/",
         "/peru/amazon-lodges/",
+        "/peru/best-time-to-visit/",
         "/peru/compare-amazon-regions/",
         "/peru/manu/",
         "/peru/pacaya-samiria/",
         "/peru/plan-your-amazon-trip/",
-        "/peru/tambopata/"
+        "/peru/tambopata/",
+        "/peru/wildlife/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -444,13 +585,14 @@
     },
     {
       "route": "/peru/manu/",
-      "main_words": 1328,
-      "h2_sections": 14,
+      "main_words": 1367,
+      "h2_sections": 15,
       "main_content_inlinks": [
         "/peru/",
         "/peru/tambopata/",
         "/peru/plan-your-amazon-trip/",
         "/peru/iquitos/",
+        "/peru/wildlife/",
         "/peru/compare-amazon-regions/"
       ],
       "main_content_outlinks": [
@@ -458,10 +600,12 @@
         "/contact/",
         "/peru/",
         "/peru/amazon-lodges/",
+        "/peru/best-time-to-visit/",
         "/peru/compare-amazon-regions/",
         "/peru/iquitos/",
         "/peru/plan-your-amazon-trip/",
-        "/peru/tambopata/"
+        "/peru/tambopata/",
+        "/peru/wildlife/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -479,12 +623,14 @@
     },
     {
       "route": "/peru/pacaya-samiria/",
-      "main_words": 1295,
-      "h2_sections": 13,
+      "main_words": 1334,
+      "h2_sections": 14,
       "main_content_inlinks": [
         "/peru/",
+        "/peru/best-time-to-visit/",
         "/peru/plan-your-amazon-trip/",
         "/peru/iquitos/",
+        "/peru/wildlife/",
         "/peru/amazon-lodges/",
         "/peru/compare-amazon-regions/"
       ],
@@ -493,9 +639,11 @@
         "/contact/",
         "/peru/",
         "/peru/amazon-lodges/",
+        "/peru/best-time-to-visit/",
         "/peru/compare-amazon-regions/",
         "/peru/iquitos/",
-        "/peru/plan-your-amazon-trip/"
+        "/peru/plan-your-amazon-trip/",
+        "/peru/wildlife/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -513,11 +661,12 @@
     },
     {
       "route": "/peru/plan-your-amazon-trip/",
-      "main_words": 1535,
-      "h2_sections": 14,
+      "main_words": 1574,
+      "h2_sections": 15,
       "main_content_inlinks": [
         "/peru/",
         "/peru/tambopata/",
+        "/peru/best-time-to-visit/",
         "/peru/iquitos/",
         "/peru/amazon-lodges/",
         "/peru/manu/",
@@ -529,11 +678,13 @@
         "/contact/",
         "/peru/",
         "/peru/amazon-lodges/",
+        "/peru/best-time-to-visit/",
         "/peru/compare-amazon-regions/",
         "/peru/iquitos/",
         "/peru/manu/",
         "/peru/pacaya-samiria/",
-        "/peru/tambopata/"
+        "/peru/tambopata/",
+        "/peru/wildlife/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -551,12 +702,14 @@
     },
     {
       "route": "/peru/tambopata/",
-      "main_words": 1090,
-      "h2_sections": 11,
+      "main_words": 1129,
+      "h2_sections": 12,
       "main_content_inlinks": [
         "/peru/",
+        "/peru/best-time-to-visit/",
         "/peru/plan-your-amazon-trip/",
         "/peru/iquitos/",
+        "/peru/wildlife/",
         "/peru/manu/",
         "/peru/compare-amazon-regions/"
       ],
@@ -565,10 +718,12 @@
         "/contact/",
         "/peru/",
         "/peru/amazon-lodges/",
+        "/peru/best-time-to-visit/",
         "/peru/compare-amazon-regions/",
         "/peru/iquitos/",
         "/peru/manu/",
-        "/peru/plan-your-amazon-trip/"
+        "/peru/plan-your-amazon-trip/",
+        "/peru/wildlife/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -583,6 +738,43 @@
         "WebPage"
       ],
       "issues": []
+    },
+    {
+      "route": "/peru/wildlife/",
+      "main_words": 1442,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/peru/",
+        "/peru/tambopata/",
+        "/peru/best-time-to-visit/",
+        "/peru/plan-your-amazon-trip/",
+        "/peru/iquitos/",
+        "/peru/manu/",
+        "/peru/pacaya-samiria/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/contact/",
+        "/peru/",
+        "/peru/best-time-to-visit/",
+        "/peru/iquitos/",
+        "/peru/manu/",
+        "/peru/pacaya-samiria/",
+        "/peru/tambopata/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/peru.css?v=7cac56f16fb0"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
     }
   ],
   "limits": [
@@ -590,7 +782,7 @@
     "Staging intentionally blocked from indexing; production eligibility requires country release",
     "No live rankings, AI citations or field Core Web Vitals assessed"
   ],
-  "deployment": "3a11f4ac",
-  "deployment_url": "https://3a11f4ac.amazon-site-staging.pages.dev",
-  "deployed_readback": "Pending browser security-policy verification; deployment success confirmed by Wrangler"
+  "deployment": "01c83e81",
+  "deployment_url": "https://01c83e81.amazon-site-staging.pages.dev",
+  "deployed_readback": "Pending browser policy verification; Wrangler deployment completed successfully"
 }

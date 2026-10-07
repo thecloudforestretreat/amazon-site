@@ -1,0 +1,21 @@
+{
+  "model": "qwen3.5:9b",
+  "prompt_eval_count": 101,
+  "eval_count": 93,
+  "seconds": 10.61,
+  "attempts": 1,
+  "cache_hit": false,
+  "status": "reviewed_with_edits",
+  "workflow_improvement": "Explicit JSON Schema and bounded heading-only translation after unsafe long-draft failure",
+  "accepted_with_edits": [
+    "3",
+    "4"
+  ],
+  "rejected": [
+    "0",
+    "1",
+    "2",
+    "5"
+  ],
+  "review": "Two concise headings adapted; four translations replaced for natural Spanish. No generated facts used."
+}

@@ -1,5 +1,5 @@
 {
-  "status": "eight_pairs_on_staging_visual_review_pending",
+  "status": "ten_pairs_on_staging_visual_review_pending",
   "scope": "Peru staging only; country release after reviewed bilingual content, imagery, technical and visual QA and live-test readiness",
   "batch_size_pairs": 2,
   "first_batch": [
@@ -31,18 +31,37 @@
     "peru_manu_001",
     "peru_comparison_001",
     "peru_pacaya_001",
-    "peru_accommodation_001"
+    "peru_accommodation_001",
+    "peru_timing_001",
+    "peru_wildlife_001"
   ],
   "release_status": "Not live-ready: deployed desktop/mobile visual QA pending; production scope still Ecuador",
-  "latest_staging_deployment": "3a11f4ac",
+  "latest_staging_deployment": "01c83e81",
   "active_batch": {
-    "number": 4,
+    "number": 5,
     "pairs": [
-      "peru_pacaya_001",
-      "peru_accommodation_001"
+      "peru_timing_001",
+      "peru_wildlife_001"
     ],
-    "scope": "Pacaya Samiria destination; Peru Amazon accommodation selection guide",
     "status": "deployed_technical_pass_visual_pending",
-    "country_release": "blocked pending desktop/mobile review"
+    "scope": "Timing by named region and route; wildlife/habitat observation without sighting promises"
+  },
+  "launch_scope": {
+    "defined": "2026-10-07",
+    "basis": "Supervisor-defined initial country launch scope in response to owner request for overall progress; original sitemap contained only the country hub",
+    "target_pairs": 12,
+    "target_pages": 24,
+    "remaining_pairs": [
+      "peru_access_001",
+      "peru_packing_001"
+    ],
+    "content_progress_before_batch5": "8/12 pairs (66.7%); not a live-readiness percentage",
+    "release_gates": [
+      "All 12 pairs reviewed bilingual editorial and technical checks",
+      "Country-wide desktop/mobile visual review",
+      "Protected staging readback",
+      "Live form test and country-specific production sitemap/canonicals/navigation review before release"
+    ],
+    "content_progress": "10/12 pairs (83.3%); 20/24 pages; not a live-readiness percentage"
   }
 }

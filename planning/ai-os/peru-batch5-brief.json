@@ -1,0 +1,32 @@
+{
+  "pairs": [
+    {
+      "id": "peru_timing_001",
+      "en": "/peru/best-time-to-visit/",
+      "es": "/es/peru/mejor-epoca-para-visitar/"
+    },
+    {
+      "id": "peru_wildlife_001",
+      "en": "/peru/wildlife/",
+      "es": "/es/peru/fauna/"
+    }
+  ],
+  "quality_requirements": [
+    "Same global/editorial/Peru CSS",
+    "Nine substantive sections plus direct answer and four FAQs per language",
+    "No image repeated on same page",
+    "Reviewed official factual examples; named route rather than generic national weather promises",
+    "Relevant main-content inlinks and sibling links"
+  ],
+  "sources_reviewed_on": "2026-10-07",
+  "sources": [
+    "https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-tambopata/",
+    "https://visitaareasnaturales.sernanp.gob.pe/en/anps/pacaya-samiria-national-reserve/",
+    "https://www.peru.travel/attractions/manu-national-park",
+    "https://www.peru.travel/destinations/loreto"
+  ],
+  "failed_sources": [
+    "SERNANP Manu English fetch timeout; PROMPERU used for landscape range instead"
+  ],
+  "release_boundary": "Protected staging only; country-wide visual QA pending"
+}

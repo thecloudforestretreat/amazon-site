@@ -20,7 +20,8 @@ def render(checkpoint):
    crumbs=[('Inicio' if es else 'Home','/es/' if es else '/'),('Amazonía peruana' if es else 'Peruvian Amazon',base),(d['h1'],r)]
    def photo(key,alt,hero=False):
     im=spec['images'][key];a='fetchpriority="high"' if hero else 'loading="lazy"'
-    return f'<figure class="peru-photo"><img src="/assets/images/peru/{key}.jpg" width="{im["width"]}" height="{im["height"]}" alt="{e(alt)}" {a} decoding="async"><figcaption><a href="{im["source"]}">{e(im["label"])}</a> · <a href="{im["license_url"]}">{e(im["license"])}</a></figcaption></figure>'
+    portrait=' peru-photo--wildlife' if im['height']>im['width'] else ''
+    return f'<figure class="peru-photo{portrait}"><img src="/assets/images/peru/{key}.jpg" width="{im["width"]}" height="{im["height"]}" alt="{e(alt)}" {a} decoding="async"><figcaption><a href="{im["source"]}">{e(im["label"])}</a> · <a href="{im["license_url"]}">{e(im["license"])}</a></figcaption></figure>'
    breadcrumb='<nav class="peru-breadcrumb eta-shell" aria-label="'+('Ruta de navegación' if es else 'Breadcrumb')+'">'+'<span aria-hidden="true">›</span>'.join(f'<span aria-current="page">{e(n)}</span>' if i==2 else f'<a href="{u}">{e(n)}</a>' for i,(n,u) in enumerate(crumbs))+'</nav>'
    nav='<nav class="peru-nav eta-shell" aria-label="'+('Guías de Perú' if es else 'Peru guides')+'">'+''.join(f'<a href="{u}">{e(n)}</a>' for u,n in d['links'] if u!=r)+'</nav>'
    contact='/es/contacto/' if es else '/contact/'

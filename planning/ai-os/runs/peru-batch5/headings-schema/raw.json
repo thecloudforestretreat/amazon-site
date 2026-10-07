@@ -1,0 +1,17 @@
+{
+  "model": "qwen3.5:9b",
+  "created_at": "2026-10-07T14:11:09.774487Z",
+  "message": {
+    "role": "assistant",
+    "content": "{\"0\": \"Ajusta tus fechas a una ruta con nombre\", \"1\": \"La precipitación y el nivel del río son preguntas distintas\", \"2\": \"Planifica en función del hábitat, no de una lista de avistamientos\", \"3\": \"Observa sin alterar el encuentro\", \"4\": \"Deja espacio para otra mañana tranquila\", \"5\": \"Elige una guía que se adapte a tus intereses\"}"
+  },
+  "done": true,
+  "done_reason": "stop",
+  "total_duration": 10592283459,
+  "load_duration": 6086165209,
+  "prompt_eval_count": 101,
+  "prompt_eval_cached_count": 0,
+  "prompt_eval_duration": 298898000,
+  "eval_count": 93,
+  "eval_duration": 4200586000
+}

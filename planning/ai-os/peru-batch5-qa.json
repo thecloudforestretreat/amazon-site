@@ -1,0 +1,41 @@
+{
+  "status": "technical_pass_visual_pending",
+  "new_pages": [
+    {
+      "route": "/peru/best-time-to-visit/",
+      "visible_faq_matches": 4,
+      "html_sha256": "6ce3b235acf016781564cd7aa8402d820d7405760f5c15a7ab046173664c19d0"
+    },
+    {
+      "route": "/peru/wildlife/",
+      "visible_faq_matches": 4,
+      "html_sha256": "495312d2e5154be8a959260c0e83cfad8791a9d6e70188ee3c2ca8b07040f741"
+    },
+    {
+      "route": "/es/peru/fauna/",
+      "visible_faq_matches": 4,
+      "html_sha256": "939fcfa1eac8dd2859ec9064f55eed624332274f092f7ca66405008adc855410"
+    },
+    {
+      "route": "/es/peru/mejor-epoca-para-visitar/",
+      "visible_faq_matches": 4,
+      "html_sha256": "76294baf684389f639df83306a7012e64df26582a1c3da61492cd22febb0b5f3"
+    }
+  ],
+  "all_peru_pages_audited": 20,
+  "pairs_on_staging_after_deployment": 10,
+  "rollback_deployment": "3a11f4ac",
+  "errors": [],
+  "local_total_tokens": 194,
+  "local_attempts": 1,
+  "cache_hits": 0,
+  "cloud_supervisor_usage": "Not metered; no overall percentage claimed",
+  "visible_faq_matches_all_peru": 80,
+  "editorial_review": "Reviewed region-specific seasons, habitat examples, no sightings promises or unverified operating inventory",
+  "visual_review": "Browser admin security-policy verification unavailable; no indirect access attempted",
+  "production_status": "Peru excluded from Ecuador production release",
+  "workflow_improvement": "Reused reviewed renderer; bounded local schema translation prevented repeat of batch4 long-draft failure; preserve portrait bird image framing through existing cluster CSS",
+  "deployment": "01c83e81",
+  "deployment_url": "https://01c83e81.amazon-site-staging.pages.dev",
+  "deployed_readback": "Pending browser policy verification; Wrangler deployment completed successfully"
+}
