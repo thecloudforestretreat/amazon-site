@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-07",
+  "observed_failure": "Owner reported Brazil CSS broken relative to prior country pages",
+  "identified_delivery_defect": "Versioned country wrapper imported unversioned shared guide stylesheet; nested shared changes did not change wrapper URL",
+  "fix": "Inline shared guide CSS into compiled Peru/Bolivia/Brazil country stylesheets before content hashing",
+  "deployment": "3da7d87b",
+  "rollback": "a72cc1af",
+  "brazil_css_hash": "f560c9754f9c",
+  "tests": {
+    "css_bundle_and_hash_regression": 3,
+    "site_validation_pages": 128,
+    "brazil_content_audit_pages": 4,
+    "brazil_content_errors": 0
+  },
+  "visual_confirmation": "Unverified: browser admin policy verification unavailable",
+  "local_llm_tokens": 0,
+  "workflow": "New regression test checks full delivered CSS and actual HTML version hashes in both languages"
+}

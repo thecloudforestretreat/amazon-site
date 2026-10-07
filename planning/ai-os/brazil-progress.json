@@ -3,7 +3,7 @@
   "date": "2026-10-07",
   "owner_authorized": "First Brazil staging batch following owner acceptance of next-country recommendation",
   "stage": "two_pairs_deployed_technical_checks_pass_visual_qa_pending",
-  "deployment": "a72cc1af",
+  "deployment": "3da7d87b",
   "previous_staging_deployment": "2308e218",
   "pairs": [
     {
@@ -54,7 +54,8 @@
     "production_scope_containment": "124 pages validated; zero Brazil routes/sitemap entries; artifact not deployed",
     "protection": "4 HEAD checks:302 Cloudflare Access redirects",
     "authenticated_readback": "not verified",
-    "visual_review": "blocked: browser admin security policy verification unavailable"
+    "visual_review": "blocked: browser admin security policy verification unavailable",
+    "css_delivery_regression_tests": 3
   },
   "image_status": "Licensed owner stock used only as clearly identified illustrations; verified Brazil capture imagery remains a launch requirement",
   "local_usage_file": "brazil-batch1-local-usage.json",
@@ -72,5 +73,6 @@
     "No live SEO rankings/AEO citations/Core Web Vitals measured",
     "Contextual inlinks grow with future cluster pages; current pair links to each other",
     "Cloud/local token percentages unavailable"
-  ]
+  ],
+  "css_delivery_fix": "planning/ai-os/brazil-css-delivery-fix.json"
 }

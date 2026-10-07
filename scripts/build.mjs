@@ -183,6 +183,17 @@ async function buildCss() {
   await mkdir(outputCssDir, { recursive: true });
   await writeFile(outputCssDir + "/core.css", coreCss.join("\n\n"));
   await copyIfPresent(path.join(cssDir, "clusters"), path.join(outputCssDir, "clusters"));
+  // Bundle the shared guide rules into each country stylesheet. Versioning only
+  // an @import wrapper leaves its nested stylesheet stale in browser caches.
+  const sharedGuideCss = await readFile(path.join(cssDir, "clusters", "amazon-guide.css"), "utf8");
+  for (const country of ["peru", "bolivia", "brazil"]) {
+    const wrapper = await readFile(path.join(cssDir, "clusters", `${country}.css`), "utf8");
+    if (wrapper.trim() !== '@import url("./amazon-guide.css");') {
+      throw new Error(`Unexpected ${country} CSS wrapper; review shared guide bundling`);
+    }
+    await writeFile(path.join(outputCssDir, "clusters", `${country}.css`), sharedGuideCss);
+  }
+
 }
 
 async function writeEnvironmentFiles() {
