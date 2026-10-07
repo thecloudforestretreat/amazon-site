@@ -1,0 +1,520 @@
+{
+  "editorial_status": "reviewed",
+  "review_date": "2026-10-07",
+  "images": {
+    "hero": {
+      "width": 1400,
+      "height": 950,
+      "label": "EEJCC",
+      "source": "https://commons.wikimedia.org/wiki/File:R%C3%ADo_Beni_cerca_de_Rurrenabaque.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "pampas-yacuma": {
+      "width": 1800,
+      "height": 1200,
+      "label": "Gabrarq77",
+      "source": "https://commons.wikimedia.org/wiki/File:Las_Pampas,_Santa_Rosa_de_Yacuma.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "madidi-tuichi": {
+      "width": 1800,
+      "height": 1200,
+      "label": "Arthur Chapman",
+      "source": "https://commons.wikimedia.org/wiki/File:Cliffs_along_Tuichi_River,_Bolivia.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/"
+    }
+  },
+  "pages": {
+    "hub": {
+      "en": {
+        "slug": "",
+        "h1": "Bolivian Amazon: forest, rivers & pampas",
+        "title": "Bolivian Amazon: forest, rivers & pampas | Experience The Amazon",
+        "description": "Two distinct landscapes, one personal choice. Explore how to choose between Madidi and the Yacuma pampas—or combine them at a pace that leaves room to enjoy both.",
+        "lede": "Two distinct landscapes, one personal choice. Explore how to choose between Madidi and the Yacuma pampas—or combine them at a pace that leaves room to enjoy both.",
+        "type": "country-hub",
+        "pair_id": "pair_038",
+        "hero": [
+          "hero",
+          "Boats beside the Beni River near Rurrenabaque"
+        ],
+        "features": {
+          "1": [
+            "madidi-tuichi",
+            "Cliffs and forest beside the Tuichi River in Madidi"
+          ],
+          "4": [
+            "pampas-yacuma",
+            "View from a boat on the Yacuma River at Santa Rosa de Yacuma"
+          ]
+        },
+        "sections": [
+          [
+            "Two landscapes, two ways to explore",
+            "The Rurrenabaque–Madidi–Pampas destination brings rainforest and flooded savannas into the same regional journey. That makes it useful for travelers deciding what kind of Amazon experience they want. Start with your interests: forest walks, time on the river, open landscapes or a thoughtful combination.",
+            "Choose a setting before choosing a package. A photograph of a boat does not explain the habitat, the transfer or the overnight experience. Ask for a route that names the places you will visit and separates arrival time from time spent exploring."
+          ],
+          [
+            "Madidi: make room for the forest",
+            "Madidi is one of the protected areas within this regional destination. If your interest is the forest, ask how the proposed stay balances walking, river travel and quiet observation. A forest itinerary should explain what happens beyond reaching the accommodation, including the activities available when conditions change.",
+            "Describe your walking comfort honestly. Request the typical terrain, the expected pace, the option to shorten an outing and the guide arrangements. Comparing these details is more useful than choosing a trip because its activity list is longer. A slower outing can suit someone who wants to notice small details."
+          ],
+          [
+            "Pampas del Yacuma: understand the setting",
+            "WCS describes Pampas del Yacuma as a protected flooded-savanna landscape whose ecology is shaped by annual flooding. It is a different setting from a forest stay. Use that distinction to ask how the route, observation opportunities and daily activities respond to conditions at the time of your visit.",
+            "Do not choose the pampas from an animal checklist alone. Ask about respectful viewing, distance from animals, group size and the time available to observe without rushing. Treat sightings as possibilities rather than promises, and select a guide who can explain the landscape even on a quieter day."
+          ],
+          [
+            "Rurrenabaque is a starting point, not the whole trip",
+            "Rurrenabaque belongs to the wider destination alongside neighboring municipalities and protected areas. When comparing proposals, distinguish the town stop from the experience outside town. A trip described simply as “Rurrenabaque” needs a clearer explanation of where you sleep and which landscapes you actually visit.",
+            "Request a written arrival-to-departure outline. Identify who meets you, where the first night takes place and which transfers are included. Confirm the current transport arrangements directly before committing to connected bookings; this guide does not publish a timetable or assume a particular service is operating."
+          ],
+          [
+            "Combine forest and pampas with a clear purpose",
+            "A combined journey can make sense when both environments matter to you. The question is whether the available time allows a worthwhile stay in each. Ask the planner to show the changeover between the two experiences instead of hiding it inside an activity list.",
+            "If a combination leaves very little observation time, prioritize the setting you care about most. Compare two versions of the same trip: a focused stay and a combined stay. Look at time exploring, time transferring and the number of accommodation changes before deciding which version offers better value for you."
+          ],
+          [
+            "Choose your overnight experience",
+            "Accommodation is part of the Amazon experience rather than a detail to settle at the end. Ask each provider to describe the room, bathroom arrangement, electricity availability, meals and the practical conditions after dark. Photographs are helpful, but a written description is easier to compare.",
+            "Explain which comforts are essential and which you can be flexible about. If you are traveling with children or someone with specific access needs, discuss those requirements before selecting a remote stay. Do not assume that two similarly priced proposals provide the same level of privacy, support or flexibility."
+          ],
+          [
+            "Travel with respect for place and people",
+            "The regional destination includes Indigenous territories as well as protected landscapes. Cultural encounters should be described in terms of the host community, its participation and what it has chosen to share. Ask how permission, photography and payment are handled rather than treating a community visit as an automatic extra.",
+            "For wildlife, favor observation that avoids handling, feeding or staging encounters. Give your guide room to set limits and explain them. Responsible behavior also includes keeping noise low, following the agreed route and recognizing that the experience depends on a living landscape rather than a guaranteed performance."
+          ],
+          [
+            "Compare proposals on the same basis",
+            "A useful quote separates accommodation, meals, guiding, transfers and any entry or activity charges. Ask which items are included and which remain payable locally. Compare the same room arrangement and group format before judging the headline price.",
+            "Cancellation terms, changes caused by conditions and the handling of missed connections should be clear before payment. Keep important confirmations in writing. This guide helps organize the questions; it does not replace current provider details or promise availability for a specific date."
+          ],
+          [
+            "Turn your interests into a workable route",
+            "Begin with your dates, the number of travelers and the environments that interest you most. Add your preferred pace and the comforts you need. These choices give a planner a practical starting point without requiring you to know every detail of the region.",
+            "Use the Bolivia planning guide to turn that outline into questions about transfers, overnight stays and observation time. Then share your plans through the inquiry form. A good proposal should help you understand the trade-offs, not simply offer more activities for the same number of days."
+          ]
+        ],
+        "quick": [
+          "Choose the landscape; compare the complete route",
+          "Forest, pampas or both: choose around your interests, then compare exploration time, transfers and accommodation."
+        ],
+        "links": [
+          [
+            "/bolivia/",
+            "Bolivia overview"
+          ],
+          [
+            "/bolivia/plan-your-amazon-trip/",
+            "Plan your journey"
+          ]
+        ],
+        "faqs": [
+          [
+            "Should I choose Madidi or the pampas?",
+            "Start with the setting you want: a forest-focused stay or a flooded-savanna experience. Compare activities, transfers and overnight arrangements before choosing."
+          ],
+          [
+            "Can I combine both environments?",
+            "You can request a combined proposal. Compare the time available in each setting and the changeover with a focused stay before deciding."
+          ],
+          [
+            "Are wildlife sightings guaranteed?",
+            "No. Treat wildlife as an observation opportunity rather than a promise, and choose respectful guiding that avoids feeding or handling animals."
+          ],
+          [
+            "Is this a bookable package?",
+            "This is a planning guide. Current routes, availability, prices and inclusions need confirmation in a specific proposal."
+          ]
+        ],
+        "cta": [
+          "Build a journey at your pace",
+          "Share your dates, interests and preferences to explore the options clearly."
+        ],
+        "scope": "Editorial review: October 7, 2026. Sources support the regional distinction between rainforest and flooded savannas. Confirm current routes, services and inclusions before booking.",
+        "sources": [
+          [
+            "Rurrenabaque–Madidi–Pampas destination council",
+            "https://rurrenabaquemadidipampas.com.bo/inicio"
+          ],
+          [
+            "Identidad Madidi / Wildlife Conservation Society",
+            "https://madidiid.org/en/turismo/"
+          ],
+          [
+            "WCS Bolivia: Pampas del Yacuma",
+            "https://bolivia.wcs.org/en-us/Landscapes/Madidi-Tambopata/Pampas-del-Yacuma.aspx"
+          ]
+        ]
+      },
+      "es": {
+        "slug": "",
+        "h1": "Amazonía boliviana: selva, ríos y pampas",
+        "title": "Amazonía boliviana: selva, ríos y pampas | Experience The Amazon",
+        "description": "Dos paisajes distintos, una decisión personal. Descubre cómo elegir entre Madidi y las pampas del Yacuma, o combinar ambos con un ritmo que permita disfrutarlos.",
+        "lede": "Dos paisajes distintos, una decisión personal. Descubre cómo elegir entre Madidi y las pampas del Yacuma, o combinar ambos con un ritmo que permita disfrutarlos.",
+        "type": "country-hub",
+        "pair_id": "pair_038",
+        "hero": [
+          "hero",
+          "Embarcaciones junto al río Beni cerca de Rurrenabaque"
+        ],
+        "features": {
+          "1": [
+            "madidi-tuichi",
+            "Acantilados y bosque junto al río Tuichi en Madidi"
+          ],
+          "4": [
+            "pampas-yacuma",
+            "Vista desde una embarcación en el río Yacuma, Santa Rosa de Yacuma"
+          ]
+        },
+        "sections": [
+          [
+            "Dos paisajes, dos formas de explorar",
+            "El destino Rurrenabaque–Madidi–Pampas reúne selva y sabanas inundables en un mismo viaje regional. Es una buena referencia para decidir qué experiencia amazónica buscas: caminatas en el bosque, tiempo en el río, paisajes abiertos o una combinación bien organizada.",
+            "Elige el entorno antes que el paquete. Una fotografía de una embarcación no explica el hábitat, el traslado ni el alojamiento. Pide una ruta que identifique los lugares de visita y separe el tiempo de llegada del tiempo dedicado a explorar."
+          ],
+          [
+            "Madidi: dale tiempo al bosque",
+            "Madidi es una de las áreas protegidas del destino regional. Si te interesa la selva, pregunta cómo se reparten las caminatas, los recorridos fluviales y la observación tranquila. El itinerario debe explicar qué sucede después de llegar al alojamiento y qué alternativas hay si cambian las condiciones.",
+            "Describe con sinceridad tu comodidad al caminar. Consulta el terreno habitual, el ritmo, la posibilidad de acortar una salida y la organización de los guías. Estos detalles ayudan más que una larga lista de actividades. Una salida pausada puede encajar mejor con quien quiere observar los pequeños detalles."
+          ],
+          [
+            "Pampas del Yacuma: comprende el entorno",
+            "WCS describe Pampas del Yacuma como un paisaje protegido de sabanas inundables cuya ecología depende de las inundaciones anuales. Es un entorno distinto de una estancia en el bosque. Pregunta cómo se adaptan la ruta, la observación y las actividades a las condiciones de tus fechas.",
+            "No elijas las pampas solo por una lista de animales. Consulta cómo se mantiene una observación respetuosa, la distancia a la fauna, el tamaño del grupo y el tiempo para mirar sin prisas. Considera los avistamientos como posibilidades, no promesas, y busca un guía que también explique el paisaje en un día tranquilo."
+          ],
+          [
+            "Rurrenabaque es un punto de partida",
+            "Rurrenabaque forma parte de un destino más amplio, con municipios vecinos y áreas protegidas. Al comparar propuestas, distingue la estancia en el pueblo de la experiencia fuera de él. Un viaje anunciado simplemente como “Rurrenabaque” necesita explicar dónde dormirás y qué paisajes visitarás realmente.",
+            "Pide un esquema escrito desde la llegada hasta la salida. Identifica quién te recibe, dónde pasas la primera noche y qué traslados se incluyen. Confirma directamente el transporte vigente antes de reservar conexiones: esta guía no publica horarios ni presupone que un servicio concreto esté funcionando."
+          ],
+          [
+            "Combina selva y pampas con un propósito claro",
+            "Un viaje combinado puede tener sentido si ambos ambientes te interesan. Lo importante es saber si el tiempo disponible permite disfrutar cada uno. Pide que se explique el cambio entre experiencias, en lugar de ocultarlo dentro de una lista de actividades.",
+            "Si la combinación deja poco tiempo para observar, prioriza el entorno que más te importa. Compara dos versiones: una estancia concentrada y otra combinada. Revisa el tiempo de exploración, los traslados y los cambios de alojamiento antes de decidir qué opción aporta más valor a tu viaje."
+          ],
+          [
+            "Elige cómo quieres alojarte",
+            "El alojamiento forma parte de la experiencia amazónica. Pide una descripción de la habitación, el baño, la electricidad, las comidas y las condiciones prácticas al anochecer. Las fotografías ayudan, pero una explicación escrita facilita la comparación.",
+            "Indica qué comodidades son esenciales y en cuáles puedes ser flexible. Si viajas con niños o con alguien que necesita apoyo de accesibilidad, consulta esos requisitos antes de elegir una estancia alejada. Dos propuestas con precios similares pueden ofrecer niveles distintos de privacidad, asistencia y flexibilidad."
+          ],
+          [
+            "Viaja con respeto por el lugar y sus habitantes",
+            "El destino regional incluye territorios indígenas y paisajes protegidos. Los encuentros culturales deben explicar qué comunidad recibe a los visitantes, cómo participa y qué decide compartir. Pregunta por los permisos, las fotografías y los pagos, sin considerar la visita comunitaria como un extra automático.",
+            "Para observar fauna, evita manipular animales, alimentarlos o preparar encuentros artificiales. Permite que el guía establezca límites y los explique. También ayuda mantener poco ruido, seguir la ruta acordada y recordar que se visita un paisaje vivo, no una exhibición con resultados garantizados."
+          ],
+          [
+            "Compara propuestas con los mismos criterios",
+            "Una cotización útil separa alojamiento, comidas, guías, traslados y entradas o actividades adicionales. Pregunta qué está incluido y qué se paga aparte. Compara la misma distribución de habitaciones y el mismo tipo de grupo antes de valorar el precio anunciado.",
+            "Antes de pagar, aclara las cancelaciones, los cambios por condiciones locales y las conexiones perdidas. Conserva las confirmaciones importantes por escrito. Esta guía organiza las preguntas, pero no sustituye la información vigente del proveedor ni promete disponibilidad para una fecha concreta."
+          ],
+          [
+            "Convierte tus intereses en una ruta viable",
+            "Empieza por las fechas, el número de viajeros y los ambientes que más te interesan. Añade el ritmo deseado y las comodidades necesarias. Con esta información puedes iniciar la planificación sin conocer todos los detalles de la región.",
+            "Utiliza la guía de planificación de Bolivia para convertir esa idea en preguntas sobre traslados, alojamiento y tiempo de observación. Después comparte tus planes mediante el formulario. Una buena propuesta explica las decisiones del viaje, en lugar de añadir actividades al mismo número de días."
+          ]
+        ],
+        "quick": [
+          "Elige el paisaje; compara la ruta completa",
+          "Selva, pampas o ambas: decide según tus intereses y compara el tiempo de exploración, los traslados y el alojamiento."
+        ],
+        "links": [
+          [
+            "/es/bolivia/",
+            "Panorama de Bolivia"
+          ],
+          [
+            "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+            "Planifica tu viaje"
+          ]
+        ],
+        "faqs": [
+          [
+            "¿Elijo Madidi o las pampas?",
+            "Empieza por el entorno: una estancia centrada en el bosque o una experiencia de sabana inundable. Compara actividades, traslados y alojamiento antes de decidir."
+          ],
+          [
+            "¿Puedo combinar ambos ambientes?",
+            "Puedes solicitar una propuesta combinada. Compara el tiempo en cada entorno y el traslado entre ellos con una estancia concentrada."
+          ],
+          [
+            "¿Están garantizados los avistamientos?",
+            "No. La fauna ofrece oportunidades de observación, no promesas. Elige guías respetuosos que eviten alimentar o manipular animales."
+          ],
+          [
+            "¿Esta guía es un paquete reservable?",
+            "Es una guía de planificación. Las rutas, disponibilidad, precios e inclusiones se confirman mediante una propuesta concreta."
+          ]
+        ],
+        "cta": [
+          "Diseña un viaje a tu ritmo",
+          "Comparte tus fechas, intereses y preferencias para explorar las opciones con claridad."
+        ],
+        "scope": "Orientación revisada el 7 de octubre de 2026. Las fuentes respaldan la distinción regional entre selva y sabanas inundables. Confirma rutas, servicios e inclusiones actuales antes de reservar.",
+        "sources": [
+          [
+            "Rurrenabaque–Madidi–Pampas destination council",
+            "https://rurrenabaquemadidipampas.com.bo/inicio"
+          ],
+          [
+            "Identidad Madidi / Wildlife Conservation Society",
+            "https://madidiid.org/en/turismo/"
+          ],
+          [
+            "WCS Bolivia: Pampas del Yacuma",
+            "https://bolivia.wcs.org/en-us/Landscapes/Madidi-Tambopata/Pampas-del-Yacuma.aspx"
+          ]
+        ]
+      }
+    },
+    "planning": {
+      "en": {
+        "slug": "plan-your-amazon-trip",
+        "h1": "Plan your Bolivian Amazon journey",
+        "title": "Plan your Bolivian Amazon journey | Experience The Amazon",
+        "description": "Turn your interests into a clear route: compare forest and pampas, map the transfers and choose your overnight experience before booking.",
+        "lede": "Turn your interests into a clear route: compare forest and pampas, map the transfers and choose your overnight experience before booking.",
+        "type": "planning-guide",
+        "pair_id": "bolivia_planning_001",
+        "hero": [
+          "pampas-yacuma",
+          "View from a boat on the Yacuma River at Santa Rosa de Yacuma"
+        ],
+        "features": {
+          "1": [
+            "madidi-tuichi",
+            "Cliffs and forest beside the Tuichi River in Madidi"
+          ],
+          "4": [
+            "hero",
+            "Boats beside the Beni River near Rurrenabaque"
+          ]
+        },
+        "sections": [
+          [
+            "Begin with your priorities",
+            "Write down the experience you most want from Bolivia’s Amazon region: time in rainforest, flooded-savanna landscapes or a combination. Then identify the pace that suits your group. Photography, walking and quiet observation often need a different daily rhythm from a trip focused on sampling several activities.",
+            "Share these priorities before asking for a price. A planner can only make useful trade-offs when they know what matters to you. Name one or two essentials and explain what is flexible, whether that is the room style, the number of locations or the order of the journey."
+          ],
+          [
+            "Choose forest, pampas or a combination",
+            "The regional tourism destination connects rainforest with flooded savannas, but the two should not be treated as interchangeable activities. Ask for the actual setting of each overnight stop. A route label is less useful than knowing where you will spend most of your time.",
+            "For a combination, request a separate outline for each part and for the changeover. Compare it with a focused stay. If the combined route adds substantial movement while shortening the experience you most value, concentrating on one setting may be the better choice for this visit."
+          ],
+          [
+            "Build the calendar around usable time",
+            "Start with confirmed arrival and departure arrangements, then identify the time genuinely available for exploration. A calendar day containing a major transfer is not the same as a full day at your destination. Ask the provider to show the first and last activities you can realistically join.",
+            "Leave some flexibility around important onward connections and ask what happens if an arrival changes. Rather than accepting a universal minimum number of days, compare the usable time in the routes you are considering. The right duration depends on the setting, transfers, activities and pace you choose."
+          ],
+          [
+            "Clarify every handover",
+            "List each point where responsibility changes: arrival pickup, travel to accommodation, activity departures and the return connection. Confirm the meeting place, contact method and what is included at each stage. This makes it easier to understand the whole journey without guessing from a package title.",
+            "Ask for current transport details directly. Keep essential contacts available offline and agree how you will communicate if plans change. Do not build a tight connection around an unconfirmed timetable or an estimated transfer quoted without reference to your particular route and dates."
+          ],
+          [
+            "Match accommodation to your needs",
+            "Ask for the room and bathroom arrangement, the practical availability of electricity, meals and drinking water, and any limits that affect your stay. If privacy or a particular comfort is important, have it confirmed before payment. A general description such as “comfortable lodge” is not a specification.",
+            "Discuss dietary needs, mobility considerations and traveling with children early. Ask how activities can be adapted and what support is actually available. Choose the format that suits your group rather than assuming that a remote setting, a higher price or an attractive photograph guarantees the right experience."
+          ],
+          [
+            "Give observation enough space",
+            "Wildlife interests can shape a route without becoming a list of guaranteed sightings. Tell the planner whether you prefer birds, broader animal observation, forest details or photography. Ask how the guide balances your interests with the conditions encountered on the day.",
+            "Compare group size, guiding arrangements and the flexibility to linger. Ask whether photography changes the schedule or requires a private format. Avoid proposals built around feeding, handling or staged encounters. The aim is a patient, respectful experience even when the animals you hoped to see remain out of view."
+          ],
+          [
+            "Check the quote beyond the headline",
+            "Compare accommodation nights, meals, guiding, transfers, group format and extra charges line by line. Ask whether a quoted amount applies to each person or the whole group. Request payment and cancellation terms in writing and identify any items that remain outside the quoted total.",
+            "Consider the cost of the full journey, including overnight stops around the main experience. A cheaper package can be a poor fit if it removes the observation time or comfort that matters most to you. Use the same travel dates and requirements when asking providers for comparable proposals."
+          ],
+          [
+            "Prepare for the route you actually booked",
+            "Ask the provider for a route-specific packing list and any luggage limits. Plan for footwear and clothing suited to the activities described, protection for equipment and a way to keep essential documents and contacts accessible. Confirm what the provider supplies before buying or carrying duplicate items.",
+            "For personal health questions, use qualified professional advice rather than a generic packing guide. For entry requirements and current travel advice, check official sources applicable to your nationality and itinerary before booking. A tourism description cannot establish whether a particular journey is suitable for you."
+          ],
+          [
+            "Send a brief that can become a proposal",
+            "Include your start and end dates, number of guests and preferred environment. Explain your pace, accommodation priorities and the activity you would most regret missing. If you are still deciding between forest and pampas, say so; you can compare options before committing to one.",
+            "Use the country overview to revisit the main landscape choices, then send your outline through the inquiry form. Ask for a proposal that explains the route and its assumptions. Before booking, resolve the unanswered questions about current arrangements, inclusions and what happens if conditions change."
+          ]
+        ],
+        "quick": [
+          "Choose the landscape; compare the complete route",
+          "Forest, pampas or both: choose around your interests, then compare exploration time, transfers and accommodation."
+        ],
+        "links": [
+          [
+            "/bolivia/",
+            "Bolivia overview"
+          ],
+          [
+            "/bolivia/plan-your-amazon-trip/",
+            "Plan your journey"
+          ]
+        ],
+        "faqs": [
+          [
+            "How many days should I allow?",
+            "Compare usable exploration time after transfers. There is no single duration that suits every forest, pampas or combined route."
+          ],
+          [
+            "What should I include in an inquiry?",
+            "Your dates, guest count, preferred environment, pace and accommodation needs help shape a useful proposal."
+          ],
+          [
+            "What should a quote explain?",
+            "It should identify accommodation, meals, guiding, transfers, group format, extra charges and payment or cancellation terms."
+          ],
+          [
+            "Should I confirm transport before booking?",
+            "Yes. Check current arrangements and the full arrival-to-departure sequence directly before committing to connected bookings."
+          ]
+        ],
+        "cta": [
+          "Build a journey at your pace",
+          "Share your dates, interests and preferences to explore the options clearly."
+        ],
+        "scope": "Editorial review: October 7, 2026. Sources support the regional distinction between rainforest and flooded savannas. Confirm current routes, services and inclusions before booking.",
+        "sources": [
+          [
+            "Rurrenabaque–Madidi–Pampas destination council",
+            "https://rurrenabaquemadidipampas.com.bo/inicio"
+          ],
+          [
+            "Identidad Madidi / Wildlife Conservation Society",
+            "https://madidiid.org/en/turismo/"
+          ],
+          [
+            "WCS Bolivia: Pampas del Yacuma",
+            "https://bolivia.wcs.org/en-us/Landscapes/Madidi-Tambopata/Pampas-del-Yacuma.aspx"
+          ]
+        ]
+      },
+      "es": {
+        "slug": "planifica-tu-viaje-a-la-amazonia",
+        "h1": "Planifica tu viaje a la Amazonía boliviana",
+        "title": "Planifica tu viaje a la Amazonía boliviana | Experience The Amazon",
+        "description": "Convierte tus intereses en una ruta clara: compara selva y pampas, organiza los traslados y elige el alojamiento antes de reservar.",
+        "lede": "Convierte tus intereses en una ruta clara: compara selva y pampas, organiza los traslados y elige el alojamiento antes de reservar.",
+        "type": "planning-guide",
+        "pair_id": "bolivia_planning_001",
+        "hero": [
+          "pampas-yacuma",
+          "Vista desde una embarcación en el río Yacuma, Santa Rosa de Yacuma"
+        ],
+        "features": {
+          "1": [
+            "madidi-tuichi",
+            "Acantilados y bosque junto al río Tuichi en Madidi"
+          ],
+          "4": [
+            "hero",
+            "Embarcaciones junto al río Beni cerca de Rurrenabaque"
+          ]
+        },
+        "sections": [
+          [
+            "Empieza por tus prioridades",
+            "Anota qué buscas en la Amazonía boliviana: tiempo en la selva, paisajes de sabana inundable o una combinación. Define también el ritmo del grupo. La fotografía, las caminatas y la observación tranquila pueden necesitar una organización diferente de un viaje que reúne varias actividades.",
+            "Comparte estas prioridades antes de pedir un precio. Para proponer decisiones útiles, quien organiza el viaje necesita saber qué te importa. Señala uno o dos requisitos esenciales y explica qué puede cambiar: el alojamiento, el número de lugares o el orden del recorrido."
+          ],
+          [
+            "Elige selva, pampas o una combinación",
+            "El destino turístico regional conecta selva y sabanas inundables, pero no son experiencias intercambiables. Pregunta por el entorno real de cada alojamiento. El nombre del circuito ayuda menos que saber dónde pasarás la mayor parte del tiempo.",
+            "Para combinar ambientes, pide un esquema de cada parte y del traslado entre ellas. Compáralo con una estancia concentrada. Si la combinación añade movimiento y reduce la experiencia que más valoras, centrarse en un solo entorno puede ser la mejor decisión para esta visita."
+          ],
+          [
+            "Organiza el calendario con tiempo aprovechable",
+            "Empieza por la llegada y la salida confirmadas y calcula el tiempo real para explorar. Un día con un traslado importante no equivale a un día completo en el destino. Pregunta qué actividades podrás realizar realmente al principio y al final.",
+            "Deja flexibilidad cerca de conexiones importantes y consulta qué sucede si cambia la llegada. En lugar de aceptar un número mínimo universal de días, compara el tiempo aprovechable de cada propuesta. La duración adecuada depende del entorno, los traslados, las actividades y el ritmo elegido."
+          ],
+          [
+            "Aclara cada punto de encuentro",
+            "Enumera los momentos en que cambia la responsabilidad: recogida al llegar, traslado al alojamiento, salidas de actividades y conexión de regreso. Confirma el punto de encuentro, el contacto y lo incluido en cada etapa. Así puedes entender el viaje completo sin adivinarlo por el nombre del paquete.",
+            "Consulta directamente los detalles actuales del transporte. Guarda los contactos esenciales para usarlos sin conexión y acuerda cómo comunicar cambios. Evita organizar una conexión ajustada con un horario sin confirmar o una estimación que no corresponda a tu ruta y fechas."
+          ],
+          [
+            "Ajusta el alojamiento a tus necesidades",
+            "Pregunta por la habitación, el baño, la disponibilidad práctica de electricidad, las comidas, el agua potable y las limitaciones de la estancia. Si necesitas privacidad o una comodidad concreta, confírmala antes de pagar. “Alojamiento cómodo” no describe por sí solo las condiciones.",
+            "Habla pronto sobre alimentación, movilidad y viajes con niños. Consulta cómo se adaptan las actividades y qué apoyo está realmente disponible. Elige el formato adecuado para el grupo, sin suponer que el aislamiento, un precio mayor o una buena fotografía garantizan la experiencia que necesitas."
+          ],
+          [
+            "Dale espacio a la observación",
+            "Tus intereses en fauna pueden orientar la ruta sin convertirse en avistamientos garantizados. Indica si prefieres aves, observación general de animales, detalles del bosque o fotografía. Pregunta cómo adapta el guía estos intereses a las condiciones del día.",
+            "Compara el tamaño del grupo, la organización de los guías y la flexibilidad para detenerse. Consulta si la fotografía requiere otro horario o una salida privada. Evita propuestas con alimentación, manipulación o encuentros preparados. Busca una experiencia paciente y respetuosa aunque no aparezcan los animales que esperabas."
+          ],
+          [
+            "Revisa más que el precio anunciado",
+            "Compara noches, comidas, guías, traslados, tipo de grupo y cargos adicionales. Pregunta si el importe corresponde a cada persona o al grupo completo. Pide por escrito las condiciones de pago y cancelación e identifica lo que queda fuera del total.",
+            "Considera el viaje completo, incluidas las noches alrededor de la experiencia principal. Un paquete más barato puede encajar peor si elimina el tiempo de observación o la comodidad que valoras. Usa las mismas fechas y requisitos para obtener propuestas comparables."
+          ],
+          [
+            "Prepárate para la ruta que reservaste",
+            "Pide una lista de equipaje específica y consulta sus límites. Organiza calzado y ropa según las actividades previstas, protección para el equipo y acceso a documentos y contactos esenciales. Confirma qué proporciona el operador antes de comprar o llevar artículos duplicados.",
+            "Para cuestiones de salud personal, consulta a un profesional cualificado. Antes de reservar, revisa los requisitos de entrada y las recomendaciones oficiales aplicables a tu nacionalidad e itinerario. Una descripción turística no determina si un viaje concreto es adecuado para ti."
+          ],
+          [
+            "Envía una idea que pueda convertirse en propuesta",
+            "Incluye fecha de inicio y final, número de viajeros y entorno preferido. Explica el ritmo, las prioridades de alojamiento y la actividad que más te importa. Si todavía dudas entre selva y pampas, indícalo: puedes comparar opciones antes de elegir.",
+            "Vuelve al panorama general de Bolivia para revisar los paisajes y envía tu idea mediante el formulario. Pide una propuesta que explique la ruta y sus supuestos. Antes de reservar, resuelve las dudas sobre condiciones actuales, inclusiones y posibles cambios."
+          ]
+        ],
+        "quick": [
+          "Elige el paisaje; compara la ruta completa",
+          "Selva, pampas o ambas: decide según tus intereses y compara el tiempo de exploración, los traslados y el alojamiento."
+        ],
+        "links": [
+          [
+            "/es/bolivia/",
+            "Panorama de Bolivia"
+          ],
+          [
+            "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+            "Planifica tu viaje"
+          ]
+        ],
+        "faqs": [
+          [
+            "¿Cuántos días necesito?",
+            "Compara el tiempo aprovechable después de los traslados. No existe una duración única para todas las rutas de selva, pampas o combinadas."
+          ],
+          [
+            "¿Qué incluyo en la consulta?",
+            "Las fechas, el número de viajeros, el ambiente preferido, el ritmo y las necesidades de alojamiento ayudan a preparar una propuesta útil."
+          ],
+          [
+            "¿Qué debe explicar la cotización?",
+            "Alojamiento, comidas, guías, traslados, tipo de grupo, cargos adicionales y condiciones de pago o cancelación."
+          ],
+          [
+            "¿Confirmo el transporte antes de reservar?",
+            "Sí. Revisa directamente las condiciones actuales y todo el recorrido de llegada y salida antes de reservar conexiones."
+          ]
+        ],
+        "cta": [
+          "Diseña un viaje a tu ritmo",
+          "Comparte tus fechas, intereses y preferencias para explorar las opciones con claridad."
+        ],
+        "scope": "Orientación revisada el 7 de octubre de 2026. Las fuentes respaldan la distinción regional entre selva y sabanas inundables. Confirma rutas, servicios e inclusiones actuales antes de reservar.",
+        "sources": [
+          [
+            "Rurrenabaque–Madidi–Pampas destination council",
+            "https://rurrenabaquemadidipampas.com.bo/inicio"
+          ],
+          [
+            "Identidad Madidi / Wildlife Conservation Society",
+            "https://madidiid.org/en/turismo/"
+          ],
+          [
+            "WCS Bolivia: Pampas del Yacuma",
+            "https://bolivia.wcs.org/en-us/Landscapes/Madidi-Tambopata/Pampas-del-Yacuma.aspx"
+          ]
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "hero": {
+    "width": 1400,
+    "height": 950,
+    "label": "EEJCC",
+    "source": "https://commons.wikimedia.org/wiki/File:R%C3%ADo_Beni_cerca_de_Rurrenabaque.jpg",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "file": "src/assets/images/bolivia/hero.jpg",
+    "modifications": "Proportional web resize; CSS display crop",
+    "geography_review": "Source description and visible pixels reviewed",
+    "review_date": "2026-10-07"
+  },
+  "pampas-yacuma": {
+    "width": 1800,
+    "height": 1200,
+    "label": "Gabrarq77",
+    "source": "https://commons.wikimedia.org/wiki/File:Las_Pampas,_Santa_Rosa_de_Yacuma.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "file": "src/assets/images/bolivia/pampas-yacuma.jpg",
+    "modifications": "Proportional web resize; CSS display crop",
+    "geography_review": "Source description and visible pixels reviewed",
+    "review_date": "2026-10-07"
+  },
+  "madidi-tuichi": {
+    "width": 1800,
+    "height": 1200,
+    "label": "Arthur Chapman",
+    "source": "https://commons.wikimedia.org/wiki/File:Cliffs_along_Tuichi_River,_Bolivia.jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "file": "src/assets/images/bolivia/madidi-tuichi.jpg",
+    "modifications": "Proportional web resize; CSS display crop",
+    "geography_review": "Source description and visible pixels reviewed",
+    "review_date": "2026-10-07"
+  }
+}

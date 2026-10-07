@@ -1,0 +1,30 @@
+[
+  {
+    "path": "dist/bolivia/index.html",
+    "words": 1139,
+    "unique_images": 3,
+    "faqs": 4,
+    "canonical": "https://experiencetheamazon.com/bolivia/"
+  },
+  {
+    "path": "dist/bolivia/plan-your-amazon-trip/index.html",
+    "words": 1109,
+    "unique_images": 3,
+    "faqs": 4,
+    "canonical": "https://experiencetheamazon.com/bolivia/plan-your-amazon-trip/"
+  },
+  {
+    "path": "dist/es/bolivia/index.html",
+    "words": 1106,
+    "unique_images": 3,
+    "faqs": 4,
+    "canonical": "https://experiencetheamazon.com/es/bolivia/"
+  },
+  {
+    "path": "dist/es/bolivia/planifica-tu-viaje-a-la-amazonia/index.html",
+    "words": 1069,
+    "unique_images": 3,
+    "faqs": 4,
+    "canonical": "https://experiencetheamazon.com/es/bolivia/planifica-tu-viaje-a-la-amazonia/"
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "status": "initial_twelve_pairs_on_staging_release_qa_pending",
+  "status": "production_live_verified",
   "scope": "Peru staging only; country release after reviewed bilingual content, imagery, technical and visual QA and live-test readiness",
   "batch_size_pairs": 2,
   "first_batch": [
@@ -15,7 +15,7 @@
     "Country hubs reachable from homepage only at release"
   ],
   "local_workers": "Bounded Ollama drafts; supervisor factual and editorial review required",
-  "public_status": "Coming soon; no production exposure until country release",
+  "public_status": "Live",
   "source_map": {
     "Tambopata": "https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-tambopata/",
     "Manu": "https://visitaareasnaturales.sernanp.gob.pe/en/anps/manu-national-park/"
@@ -37,7 +37,7 @@
     "peru_access_001",
     "peru_packing_001"
   ],
-  "release_status": "Initial content scope complete on staging; country-wide desktop/mobile visual review, protected deployed readback and live form/release testing remain pending.",
+  "release_status": "Released and verified; see peru-release-readiness.json",
   "latest_staging_deployment": "9f17b511",
   "active_batch": {
     "number": 7,
@@ -75,5 +75,6 @@
     "cta": "24–36px internal padding; desktop action alongside text; mobile single column",
     "visual_status": "Pending browser verification; CSS comparison and technical checks only",
     "owner_review": "Owner authorized proceeding October 7; established styles retained for batch6"
-  }
+  },
+  "production_deployment": "f4f4b6e7"
 }

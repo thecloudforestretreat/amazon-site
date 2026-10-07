@@ -1,0 +1,50 @@
+{
+  "status": "batch1_reviewed_staging",
+  "batch_size_pairs": 2,
+  "target_pairs": 12,
+  "launch_scope": [
+    "Country overview",
+    "Trip planning",
+    "Rurrenabaque",
+    "Madidi",
+    "Pampas del Yacuma",
+    "Forest versus pampas",
+    "Combined forest and pampas journeys",
+    "Accommodation",
+    "Timing",
+    "Wildlife",
+    "Access",
+    "Packing"
+  ],
+  "active_batch": [
+    "pair_038",
+    "bolivia_planning_001"
+  ],
+  "production_release": "Not authorized until country complete and reviewed",
+  "sitemap_boundary": "Original sitemap contained Bolivia hub pair_038 only; owner authorized new country work. This defines the initial 12-pair launch scope.",
+  "completed_pairs": [
+    "pair_038",
+    "bolivia_planning_001"
+  ],
+  "sources": [
+    [
+      "Rurrenabaque\u2013Madidi\u2013Pampas destination council",
+      "https://rurrenabaquemadidipampas.com.bo/inicio"
+    ],
+    [
+      "Identidad Madidi / Wildlife Conservation Society",
+      "https://madidiid.org/en/turismo/"
+    ],
+    [
+      "WCS Bolivia: Pampas del Yacuma",
+      "https://bolivia.wcs.org/en-us/Landscapes/Madidi-Tambopata/Pampas-del-Yacuma.aspx"
+    ]
+  ],
+  "progress": "2/12 bilingual pairs; country not launch ready",
+  "next_batch": [
+    "Rurrenabaque",
+    "Madidi"
+  ],
+  "qa": "Desktop 1440px and mobile 390px; all images loaded, no overflow, sticky header; keyboard mobile menu tested",
+  "rollback": "9df47740-cdac-4ce5-a998-aae65c16fa8b"
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "route": "/bolivia/",
+    "view": "mobile",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/hero.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/pampas-yacuma.jpg"
+      }
+    ],
+    "overflow": false,
+    "stickyTop": 0,
+    "width": 390
+  },
+  {
+    "route": "/es/bolivia/",
+    "view": "mobile",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/hero.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/pampas-yacuma.jpg"
+      }
+    ],
+    "overflow": false,
+    "stickyTop": 0,
+    "width": 390
+  },
+  {
+    "route": "/bolivia/plan-your-amazon-trip/",
+    "view": "mobile",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/pampas-yacuma.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/hero.jpg"
+      }
+    ],
+    "overflow": false,
+    "stickyTop": 0,
+    "width": 390
+  },
+  {
+    "route": "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+    "view": "mobile",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/pampas-yacuma.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/hero.jpg"
+      }
+    ],
+    "overflow": false,
+    "stickyTop": 0,
+    "width": 390
+  },
+  {
+    "route": "/bolivia/",
+    "view": "desktop",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/hero.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/pampas-yacuma.jpg"
+      }
+    ],
+    "overflow": false,
+    "stickyTop": 0,
+    "width": 1440
+  },
+  {
+    "route": "/es/bolivia/",
+    "view": "desktop",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/hero.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/pampas-yacuma.jpg"
+      }
+    ],
+    "overflow": false,
+    "stickyTop": 0,
+    "width": 1440
+  },
+  {
+    "route": "/bolivia/plan-your-amazon-trip/",
+    "view": "desktop",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/pampas-yacuma.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/hero.jpg"
+      }
+    ],
+    "overflow": false,
+    "stickyTop": 0,
+    "width": 1440
+  },
+  {
+    "route": "/es/bolivia/planifica-tu-viaje-a-la-amazonia/",
+    "view": "desktop",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/pampas-yacuma.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/madidi-tuichi.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/bolivia/hero.jpg"
+      }
+    ],
+    "overflow": false,
+    "stickyTop": 0,
+    "width": 1440
+  }
+]
