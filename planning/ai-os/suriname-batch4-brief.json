@@ -1,0 +1,16 @@
+{
+  "topics": [
+    "Rainforest accommodation",
+    "Community stays"
+  ],
+  "batch_size_pairs": 2,
+  "structure": {
+    "sections": 9,
+    "paragraphs_per_section": 2,
+    "faqs": 4
+  },
+  "sources": "suriname-batch4-source-review.json",
+  "rollback_deployment": "4ecb1250",
+  "deployment_scope": "Protected staging only",
+  "css": "Existing shared core/editorial/Suriname cluster; no CSS changes"
+}

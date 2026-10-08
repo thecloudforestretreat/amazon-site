@@ -1,0 +1,14 @@
+{
+  "status": "EN/ES supervisor reviewed",
+  "review_date": "2026-10-08",
+  "sources": "suriname-batch4-source-review.json",
+  "english": "Supervisor-authored decision guidance; no property recommendation, amenities or ownership assumed",
+  "spanish": "Local translations reviewed against English; corrected hospitalizada, transfer, ownership implications and accommodation terminology",
+  "raw_output_retained": true,
+  "local_retries": 0,
+  "cache_hits": 0,
+  "limits": [
+    "Browser policy prevents agent visual review and authenticated readback",
+    "No production release"
+  ]
+}

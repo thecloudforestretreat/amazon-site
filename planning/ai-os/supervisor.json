@@ -66,8 +66,8 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Review Suriname batch3 protected staging",
-    "Next batch candidates: rainforest accommodation and community stays",
+    "Review Suriname batch4 protected staging",
+    "Next batch candidates: river journeys and wildlife",
     "Retain Guyana production verification hold; no heartbeat production deployment"
   ],
   "future_batches": [
@@ -112,7 +112,7 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": "Suriname batch 2: Paramaribo and Upper Suriname",
-  "batch_status": "6 of 12 Suriname bilingual pairs staged; technical passed, visual/readback pending",
+  "batch_status": "8 of 12 Suriname bilingual pairs staged; technical passed, visual/readback pending",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",

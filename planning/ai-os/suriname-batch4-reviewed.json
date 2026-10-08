@@ -1,0 +1,741 @@
+{
+  "editorial_status": "reviewed",
+  "review_date": "2026-10-08",
+  "images": {
+    "amazon-forest-canoe-bow-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-forest-canoe-bow-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "5d74cddf67f036d0fe65044bf09c05ccd2352960dcb25b47ac831b9fb583643f"
+    },
+    "amazon-wooden-canoes-riverbank": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-wooden-canoes-riverbank.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "81e0ad56c85c2348710769d5fa9421e652dea9b7ee3c80b9ba9249304d07528b"
+    },
+    "amazon-rainforest-walk-traveler": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-rainforest-walk-traveler.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "cbf7ca9da828d289b62bfb0b2131d6be383d8af77355342665bf047971d3b6e7"
+    },
+    "amazon-forest-buttress-tree-hiker-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-forest-buttress-tree-hiker-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "2f414af8e0d165e636fb6480106701316e22d712fdca6d679bd3cf2168a724e5"
+    },
+    "amazon-canoe-group-lake-journey": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-canoe-group-lake-journey.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "da66207331cffb985492857cc246b422dfad57c6a979593883782a13ddb4e594"
+    }
+  },
+  "pages": {
+    "rainforest-accommodation": {
+      "en": {
+        "h1": "Rainforest accommodation in Suriname: choose the right base",
+        "title": "Suriname Rainforest Accommodation | Compare Your Stay",
+        "description": "Compare Suriname rainforest accommodation by region, transfers, room facilities, meals and activities. Choose a base that fits your travel priorities.",
+        "lede": "A good rainforest stay starts with the right location and an honest description of daily life at the base. Compare the journey, sleeping arrangements and activities together. Decide what comfort means for your party before choosing nights in the forest or beside a river.",
+        "quick": [
+          "How should you compare rainforest stays?",
+          "Choose the region first, then compare the specific accommodation and transport. Ask about sleeping arrangements, bathrooms, meals, power and included guiding. A lodge label does not establish comfort, community ownership or access to an activity. Use current information for the exact property and room you are considering, and allow enough time at the base after transfers."
+        ],
+        "sections": [
+          [
+            "Start with the region, not the room photograph",
+            "Use the Suriname rainforest overview to choose the landscape and activities that matter before comparing rooms. An Upper Suriname river stay, a Brownsberg forest base and a Brokopondo lake stay serve different priorities. A visit connected with Central Suriname Nature Reserve also needs its own route and overnight arrangement. The same attractive room description cannot tell you whether the location supports the experience you want or how much travel it involves.",
+            "Ask a proposal to name the region, accommodation and activities separately. If walking is the main interest, establish the actual outing and how it connects with the base. For a slower river stay, find out how much time remains after arrival and before departure. Compare one well-chosen base with a route that changes accommodation, taking account of the extra packing and handovers rather than counting nights as if they were identical."
+          ],
+          [
+            "Read the complete journey to the front door",
+            "For an Upper Suriname stay, national tourism guidance describes the road-and-boat connection through Atjoni. Use the Upper Suriname guide to understand that route, then ask where your particular accommodation fits. Confirm every meeting point, who handles the onward connection and whether luggage moves with you. A transfer into a region is not the same as delivery to the booked accommodation, so the final leg should be stated clearly.",
+            "For any other base, ask the provider to describe the actual journey without assuming it uses the same transport. Discuss vehicle or boat arrangements, current luggage limits and the plan if a connection changes. Compare departure and arrival estimates with the time available for activities and rest. A property that looks nearby on a map may still require a different transfer chain; choose the stay with the route in view."
+          ],
+          [
+            "Define the sleeping arrangement precisely",
+            "Ask whether the booking is for a private room, a shared sleeping space or another arrangement. Establish the beds, bedding, bathroom location and who shares any facilities. Request current photographs of the accommodation type being offered, not only its most attractive room. If you need a particular layout for children, companions or mobility, explain that before considering a room as suitable. A category name cannot resolve these details for you.",
+            "Compare rest and privacy with the amount of time you expect to spend at the base. Some travelers mainly need a place to sleep between activities; others want a comfortable space for quiet afternoons. Ask about common areas and the walking route between the room, dining area and activity departure point. Make needs such as a private bathroom or fewer steps explicit so the proposed stay can be assessed against them."
+          ],
+          [
+            "Check the practical facilities that affect your stay",
+            "Ask how power, lighting and charging work at the proposed accommodation, including any limits that affect equipment. Confirm whether connectivity is available and suitable for your intended use, without assuming continuous internet from a general property description. If working during the trip is essential, discuss that requirement before choosing an inland base. An attractive setting does not establish whether a particular device or work schedule can be supported.",
+            "Ask where wet belongings can be kept and whether there is room for your luggage. Clarify water arrangements, the facilities used for washing and any items the provider asks guests to bring. Keep the questions tied to your own needs rather than an imagined checklist of luxury services. Current answers help you pack appropriately and decide whether the experience appeals to you, while avoiding surprise expectations about the accommodation."
+          ],
+          [
+            "Understand meals and dietary arrangements",
+            "Establish which meals are included, how meal times relate to outings and what is available on transfer days. Ask whether a picnic or other meal away from the base is part of the proposed activity. Do not treat full board as a complete description of every day. The proposal should show where you eat during arrival, departure and longer outings, especially if the journey uses more than one transport provider.",
+            "Tell the planner about dietary requirements early and ask the accommodation provider to confirm what can be offered. Describe the requirement clearly rather than relying on a broad label that could be interpreted differently. If a requirement cannot be accommodated, discuss another base or plan before booking. Avoid assuming that food availability, refrigeration or cooking arrangements are identical across properties; a confirmed answer for the specific stay matters most."
+          ],
+          [
+            "Separate the room booking from the activity plan",
+            "Ask whether guiding and outings are included with the accommodation or booked separately. Identify the activity, duration, group arrangement and where it begins. A riverfront stay does not automatically include a canoe outing, and a forest setting does not establish which guided walk is available. If the same activity is listed by the transport provider and accommodation, clarify who delivers it so the proposal does not count it twice.",
+            "Discuss the balance of scheduled outings and unstructured time. Some travelers want a full activity plan; others want room to rest or observe the surroundings at a slower pace. Ask how plans change when an outing cannot take place and whether alternatives affect the price. Treat wildlife sightings as uncertain, while checking the guiding and observation time that can actually be described. The accommodation and activities should work as one realistic itinerary."
+          ],
+          [
+            "Distinguish hospitality from ownership claims",
+            "A stay near a community, a locally staffed property and a community-owned business are different descriptions. If ownership or direct local benefit is important to your choice, ask who operates the accommodation and what information supports the claim. Do not infer ownership from decoration, a village name or a photograph. Use the community stays guide to think through hosting, consent and how any visits are arranged alongside the overnight stay.",
+            "Ask which interactions are specifically offered and who welcomes visitors. A room booking should not be interpreted as permission to enter homes or photograph residents. If an itinerary includes a hosted visit, clarify the activity and payment arrangements without assuming every resident participates. You can choose a nature-focused stay when no community visit is confirmed; meaningful hospitality does not require an invented cultural program to justify the location."
+          ],
+          [
+            "Choose nights around useful time at the base",
+            "Compare the hours available after arrival and before departure rather than counting only overnight stays. A short booking can feel rushed when much of both days is taken by transfers. Ask which activities realistically fit and how much time remains for settling in. On a longer stay, discuss whether the program provides variety at one base or whether changing locations would add a distinct experience worth the extra journey.",
+            "Use the Paramaribo gateway guide to connect the inland booking with your city stay and flights. Consider the final return arrangement as carefully as the arrival, including any contingency recommended by the provider. Avoid committing every spare hour to an outing before the transport chain is understood. The right duration leaves time for your priorities, comfortable rest and the practical journey back, rather than promising more than the schedule supports."
+          ],
+          [
+            "Send a brief that makes accommodation comparisons useful",
+            "To plan your Suriname rainforest trip, provide dates, party size, intended region and the activities that matter most. List the facilities you need, those you prefer and those you can be flexible about. Add dietary requirements, walking comfort and equipment that might affect transfers or charging. This makes the comparison about suitable stays rather than a vague request for the best lodge, which means different things to different travelers.",
+            "Request the exact accommodation type, included meals, transfer arrangements and activity plan in the proposal. Check availability, cancellation terms and any details still awaiting confirmation before booking. An inquiry does not reserve a property or establish its services. A clear choice should leave you knowing where you will stay, how you reach it and which arrangements support the kind of rainforest visit you want."
+          ]
+        ],
+        "faqs": [
+          [
+            "Does a rainforest lodge always have private bathrooms?",
+            "No category name establishes the facilities of a specific room. Ask for the bathroom arrangement, what is shared and current details for the accommodation type being offered."
+          ],
+          [
+            "Are excursions included in the room price?",
+            "Only if the proposal explicitly includes them. Confirm each outing, guiding arrangement and meal or transfer associated with it. A riverside or forest location does not establish an activity package."
+          ],
+          [
+            "How do I choose between a river and forest base?",
+            "Start with the activity you most want, then compare the actual route, accommodation and time at the base. Upper Suriname, Brownsberg, Brokopondo and a reserve itinerary are distinct choices with different arrangements to confirm."
+          ],
+          [
+            "Can a lodge description prove community ownership?",
+            "No. Ask who operates the accommodation and what supports any ownership or benefit claim. Location near a village, local employment and community ownership are different things."
+          ]
+        ],
+        "cta": [
+          "Choose a stay around your priorities",
+          "Share your dates, preferred region and essential room facilities. Add the activities and comfort level you want so we can discuss the details a suitable stay needs to confirm."
+        ],
+        "slug": "rainforest-accommodation",
+        "type": "planning_guide",
+        "pair_id": "suriname_rainforest-accommodation_001",
+        "links": [
+          [
+            "/suriname/",
+            "Suriname overview"
+          ],
+          [
+            "/suriname/plan-your-rainforest-trip/",
+            "Plan your trip"
+          ],
+          [
+            "/suriname/paramaribo/",
+            "Paramaribo"
+          ],
+          [
+            "/suriname/upper-suriname/",
+            "Upper Suriname"
+          ],
+          [
+            "/suriname/brownsberg-brokopondo/",
+            "Brownsberg & Brokopondo"
+          ],
+          [
+            "/suriname/central-suriname-nature-reserve/",
+            "Central Suriname Nature Reserve"
+          ],
+          [
+            "/suriname/rainforest-accommodation/",
+            "Rainforest accommodation"
+          ],
+          [
+            "/suriname/community-stays/",
+            "Community stays"
+          ],
+          [
+            "/contact/",
+            "Share your plans"
+          ]
+        ],
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Suriname Travel — Sipaliwini",
+            "https://suriname.travel/sipaliwini/"
+          ],
+          [
+            "Suriname Travel — transport",
+            "https://suriname.travel/transport-in-suriname/"
+          ],
+          [
+            "Suriname Travel — accommodation directory",
+            "https://suriname.travel/hotels-en-resorts/"
+          ]
+        ],
+        "scope": "Guide reviewed October 8, 2026. Confirm accommodation, hosts, visits and transfers for your itinerary. Images illustrate forest and river settings without identifying particular properties or communities.",
+        "hero": [
+          "amazon-canoe-group-lake-journey",
+          "Travelers in a canoe on calm water"
+        ],
+        "features": {
+          "1": [
+            "amazon-wooden-canoes-riverbank",
+            "Wooden canoes beside a riverbank"
+          ],
+          "4": [
+            "amazon-rainforest-walk-traveler",
+            "Traveler walking along a forest path"
+          ]
+        },
+        "context_links": [
+          [
+            "Suriname rainforest overview",
+            "/suriname/"
+          ],
+          [
+            "Upper Suriname guide",
+            "/suriname/upper-suriname/"
+          ],
+          [
+            "plan your Suriname rainforest trip",
+            "/suriname/plan-your-rainforest-trip/"
+          ],
+          [
+            "community stays guide",
+            "/suriname/community-stays/"
+          ]
+        ]
+      },
+      "es": {
+        "h1": "Alojamiento en la selva de Suriname: elija la base adecuada",
+        "title": "Alojamientos en la selva de Suriname | Guía para elegir",
+        "description": "Compare alojamientos en la selva de Suriname: ubicación, traslados, habitaciones, comidas y actividades. Elija una estancia acorde con sus prioridades.",
+        "lede": "Una buena estancia en la selva comienza con la ubicación correcta y una descripción honesta de la vida diaria en la base. Compare el viaje, los arreglos para dormir y las actividades juntos. Decida qué significa comodidad para su grupo antes de elegir noches en el bosque o junto a un río.",
+        "quick": [
+          "¿Cómo debe comparar las estancias en la selva?",
+          "Elija primero la región, luego compare el alojamiento específico y el transporte. Pregunte sobre los arreglos para dormir, baños, comidas, electricidad y guías incluidos. Una etiqueta de lodge no establece comodidad, propiedad comunitaria ni acceso a una actividad. Utilice información actual para la propiedad y habitación exactas que considere, y permita suficiente tiempo en la base después de los traslados."
+        ],
+        "cta": [
+          "Elija una estancia alrededor de sus prioridades",
+          "Comparta sus fechas, región preferida e instalaciones esenciales de la habitación. Agregue las actividades y nivel de comodidad que desea para que podamos discutir los detalles que necesita confirmar una estancia adecuada."
+        ],
+        "faqs": [
+          [
+            "¿Un lodge de selva siempre tiene baños privados?",
+            "No, el nombre de la categoría no establece las instalaciones de una habitación específica. Pregunte por el distribución y uso del baño, qué se comparte y los detalles actuales del tipo de alojamiento ofrecido."
+          ],
+          [
+            "¿Están incluidas las excursiones en el precio de la habitación?",
+            "Solo si la propuesta las incluye explícitamente. Confirme cada salida, arreglo de guía y comida o traslado asociado con ella. Una ubicación ribereña o forestal no establece un paquete de actividades."
+          ],
+          [
+            "¿Cómo elijo entre una base fluvial y una forestal?",
+            "Comience con la actividad que más desea, luego compare la ruta real, el alojamiento y el tiempo en la base. Alto Suriname, Brownsberg, Brokopondo y un itinerario de reserva son opciones distintas con arreglos diferentes a confirmar."
+          ],
+          [
+            "¿Puede una descripción de lodge probar la propiedad comunitaria?",
+            "No. Pregunte quién opera el alojamiento y qué respalda cualquier afirmación de propiedad o beneficio. La ubicación cerca de un pueblo, el empleo local y la propiedad comunitaria son cosas diferentes."
+          ]
+        ],
+        "sections": [
+          [
+            "Comience con la región, no con la fotografía de la habitación",
+            "Consulte la guía de Suriname. Utilice la visión general de la selva de Suriname para elegir el paisaje y las actividades que importan antes de comparar habitaciones. Una estancia en un río de Alto Suriname, una base forestal en Brownsberg y una estancia junto al lago de Brokopondo sirven prioridades diferentes. Una visita conectada con la Reserva Natural de Suriname Central también necesita su propia ruta y arreglo de alojamiento. La misma descripción atractiva de habitación no puede decirle si la ubicación apoya la experiencia que desea o cuánto viaje implica.",
+            "Solicite una propuesta para nombrar la región, el alojamiento y las actividades por separado. Si caminar es el principal interés, establezca la salida real y cómo se conecta con la base. Para una estancia más lenta en un río, averigüe cuánto tiempo queda después de la llegada y antes de la partida. Compare una base bien elegida con una ruta que cambia de alojamiento, teniendo en cuenta el equipaje extra y los traslados en lugar de contar las noches como si fueran idénticas."
+          ],
+          [
+            "Lea el viaje completo hasta la puerta",
+            "Consulte la guía del Alto Suriname. Para una estancia en Alto Suriname, la guía de turismo nacional describe la conexión por carretera y bote a través de Atjoni. Utilice la guía de Alto Suriname para entender esa ruta, luego pregunte cómo se conecta su alojamiento concreto. Confirme cada punto de encuentro, quién maneja la conexión posterior y si el equipaje se mueve con usted. Un traslado a una región no es lo mismo que la llegada al alojamiento reservado, por lo que el último tramo debe declararse claramente.",
+            "Para cualquier otra base, pida al proveedor que describa el viaje real sin asumir que usa el mismo transporte. Discuta los arreglos de vehículo o barco, límites actuales de equipaje y el plan si cambia una conexión. Compare las estimaciones de salida y llegada con el tiempo disponible para actividades y descanso. Una propiedad que parece cercana en un mapa aún puede requerir una cadena de traslados diferente; elija la estancia con la ruta en mente."
+          ],
+          [
+            "Defina el arreglo para dormir con precisión",
+            "Pregunte si la reserva es para una habitación privada, un espacio compartido para dormir u otro arreglo. Establezca las camas, la ropa de cama, la ubicación del baño y quién comparte cualquier instalación. Solicite fotografías actuales del tipo de alojamiento ofrecido, no solo su habitación más atractiva. Si necesita un diseño particular para niños, compañeros o movilidad, explíquelo antes de considerar una habitación como adecuada. Un nombre de categoría no puede resolver estos detalles para usted.",
+            "Compare el descanso y la privacidad con la cantidad de tiempo que espera pasar en la base. Algunos viajeros principalmente necesitan un lugar para dormir entre actividades; otros quieren un espacio cómodo para tardes tranquilas. Pregunte sobre áreas comunes y la ruta de caminata entre la habitación, el área de comedor y el punto de salida de las actividades. Haga explícitas necesidades como un baño privado o menos escaleras para que la propuesta pueda evaluarse según ellas."
+          ],
+          [
+            "Verifique las instalaciones prácticas que afectan su estancia",
+            "Pregunte cómo funciona la electricidad, iluminación y carga en el alojamiento propuesto, incluyendo cualquier límite que afecte al equipo. Confirme si está disponible la conectividad y es adecuada para su uso previsto, sin asumir internet continuo desde una descripción general de la propiedad. Si trabajar durante el viaje es esencial, discuta ese requisito antes de elegir una base interior. Un entorno atractivo no establece si un dispositivo o horario laboral específico se puede cumplir.",
+            "Pregunte dónde se pueden guardar los objetos mojados y si hay espacio para su equipaje. Aclare los arreglos de agua, las instalaciones utilizadas para lavarse y cualquier artículo que el proveedor pida a los huéspedes que traigan. Mantenga las preguntas vinculadas a sus propias necesidades en lugar de una lista imaginaria de servicios de lujo. Las respuestas actuales le ayudan a empacar apropiadamente y decidir si la experiencia le atrae, evitando expectativas equivocadas sobre el alojamiento."
+          ],
+          [
+            "Entienda los arreglos de comidas y necesidades alimentarias",
+            "Establezca qué comidas están incluidas, cómo se relacionan los horarios de las comidas con las salidas y qué hay disponible en los días de traslado. Pregunte si un picnic u otra comida fuera de la base es parte de la actividad propuesta. No trate la pensión completa como una descripción completa de cada día. La propuesta debe mostrar dónde come durante la llegada, la partida y las salidas más largas, especialmente si el viaje usa más de un proveedor de transporte.",
+            "Informe al planificador sobre los necesidades alimentarias temprano y pida al proveedor del alojamiento que confirme qué se puede ofrecer. Describa el requisito claramente en lugar de depender de una etiqueta amplia que podría interpretarse de manera diferente. Si no se puede acomodar un requisito, discuta otra base o plan antes de reservar. Evite asumir que la disponibilidad de alimentos, refrigeración o arreglos de cocina son idénticos en todas las propiedades; lo más importante es una respuesta confirmada para la estancia específica."
+          ],
+          [
+            "Separe la reserva de la habitación del plan de actividades",
+            "Pregunte si la guía y las salidas están incluidas con el alojamiento o se reservan por separado. Identifique la actividad, duración, arreglo del grupo y dónde comienza. Una estancia frente al río no incluye automáticamente una salida en canoa, y un entorno forestal no establece qué caminata guiada está disponible. Si la misma actividad es listada por el proveedor de transporte y el alojamiento, aclare quién la realiza para que la propuesta no la cuente dos veces.",
+            "Discuta el equilibrio entre salidas programadas y tiempo no estructurado. Algunos viajeros quieren un plan de actividades completo; otros quieren espacio para descansar u observar el entorno a un ritmo más lento. Pregunte cómo cambian los planes cuando una salida no puede tener lugar y si las alternativas afectan el precio. Trate los avistamientos de vida silvestre como inciertos, mientras verifica el tiempo de guía y observación que realmente se puede describir. El alojamiento y las actividades deben funcionar como un itinerario realista."
+          ],
+          [
+            "Distinga la hospitalidad de las afirmaciones de propiedad",
+            "Consulte la guía de estancias comunitarias. Una estancia cerca de una comunidad, una propiedad con personal local y un negocio propiedad de la comunidad son descripciones diferentes. Si la propiedad o el beneficio directo local es importante para su elección, pregunte quién opera el alojamiento y qué información respalda la afirmación. No infiera la propiedad desde la decoración, un nombre de pueblo o una fotografía. Utilice la guía de estancias comunitarias para pensar en la hospitalidad, el consentimiento y cómo se organiza cualquier visita junto con la estancia nocturna.",
+            "Pregunte qué interacciones se ofrecen específicamente y quién recibe a los visitantes. Una reserva de habitación no debe interpretarse como permiso para entrar a casas o fotografiar residentes. Si un itinerario incluye una visita con anfitriones, aclare la actividad y los arreglos de pago sin asumir que todos los residentes participan. Puede elegir una estancia centrada en la naturaleza cuando no se confirma una visita comunitaria; la hospitalidad significativa no requiere un programa cultural inventado para justificar la ubicación."
+          ],
+          [
+            "Elija noches alrededor del tiempo útil en la base",
+            "Compare las horas disponibles después de la llegada y antes de la partida en lugar de contar solo las estancias nocturnas. Una reserva corta puede sentirse apresurada cuando gran parte de ambos días se toma por traslados. Pregunte qué actividades encajan realísticamente y cuánto tiempo queda para instalarse. En una estancia más larga, discuta si el programa ofrece variedad en una base o si cambiar ubicaciones agregaría una experiencia distinta que valga el viaje extra.",
+            "Utilice la guía de Paramaribo para conectar la reserva interior con su estancia en la ciudad y los vuelos. Considere el arreglo de retorno final tan cuidadosamente como la llegada, incluyendo cualquier contingencia recomendada por el proveedor. Evite comprometer cada hora libre con una salida antes de entender la secuencia de traslados. La duración correcta deja tiempo para sus prioridades, descanso cómodo y el viaje práctico de regreso, en lugar de prometer más de lo que apoya el horario."
+          ],
+          [
+            "Comparta sus prioridades que haga útiles las comparaciones de alojamiento",
+            "Para planificar su viaje a la selva de Suriname, considere lo siguiente. Para planificar su viaje a la selva de Suriname, proporcione fechas, tamaño del grupo, región prevista y las actividades que importan más. Liste las instalaciones que necesita, las que prefiere y en las que puede ser flexible. Agregue necesidades alimentarias, comodidad para caminar y equipo que podría afectar los traslados o la carga. Esto hace que la comparación sea sobre estancias adecuadas en lugar de una solicitud vaga del mejor lodge, lo cual significa cosas diferentes para viajeros diferentes.",
+            "Solicite el tipo exacto de alojamiento, comidas incluidas, arreglos de traslado y plan de actividades en la propuesta. Verifique disponibilidad, términos de cancelación y cualquier detalle que aún espere confirmación antes de reservar. Una consulta no reserva una propiedad ni establece sus servicios. Una elección clara debe dejarle sabiendo dónde se quedará, cómo llegará y qué arreglos apoyan el tipo de visita a la selva que desea."
+          ]
+        ],
+        "slug": "alojamientos-en-la-selva",
+        "type": "planning_guide",
+        "pair_id": "suriname_rainforest-accommodation_001",
+        "links": [
+          [
+            "/es/suriname/",
+            "Guía de Suriname"
+          ],
+          [
+            "/es/suriname/planifica-tu-viaje-a-la-selva/",
+            "Planifique su viaje"
+          ],
+          [
+            "/es/suriname/paramaribo/",
+            "Paramaribo"
+          ],
+          [
+            "/es/suriname/alto-suriname/",
+            "Alto Suriname"
+          ],
+          [
+            "/es/suriname/brownsberg-brokopondo/",
+            "Brownsberg y Brokopondo"
+          ],
+          [
+            "/es/suriname/reserva-natural-de-suriname-central/",
+            "Reserva Natural de Suriname Central"
+          ],
+          [
+            "/es/suriname/alojamientos-en-la-selva/",
+            "Alojamientos en la selva"
+          ],
+          [
+            "/es/suriname/estancias-comunitarias/",
+            "Estancias comunitarias"
+          ],
+          [
+            "/es/contacto/",
+            "Comparta sus planes"
+          ]
+        ],
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Suriname Travel — Sipaliwini",
+            "https://suriname.travel/sipaliwini/"
+          ],
+          [
+            "Suriname Travel — transport",
+            "https://suriname.travel/transport-in-suriname/"
+          ],
+          [
+            "Suriname Travel — accommodation directory",
+            "https://suriname.travel/hotels-en-resorts/"
+          ]
+        ],
+        "scope": "Guía revisada el 8 de octubre de 2026. Confirme el alojamiento, los anfitriones, las visitas y los traslados para su itinerario. Las imágenes ilustran entornos de bosque y río, sin identificar alojamientos o comunidades concretos.",
+        "hero": [
+          "amazon-canoe-group-lake-journey",
+          "Viajeros en una canoa sobre aguas tranquilas"
+        ],
+        "features": {
+          "1": [
+            "amazon-wooden-canoes-riverbank",
+            "Canoas de madera junto a la orilla de un río"
+          ],
+          "4": [
+            "amazon-rainforest-walk-traveler",
+            "Viajero caminando por un sendero del bosque"
+          ]
+        },
+        "context_links": [
+          [
+            "guía de Suriname",
+            "/es/suriname/"
+          ],
+          [
+            "guía del Alto Suriname",
+            "/es/suriname/alto-suriname/"
+          ],
+          [
+            "planificar su viaje a la selva de Suriname",
+            "/es/suriname/planifica-tu-viaje-a-la-selva/"
+          ],
+          [
+            "guía de estancias comunitarias",
+            "/es/suriname/estancias-comunitarias/"
+          ]
+        ]
+      }
+    },
+    "community-stays": {
+      "en": {
+        "h1": "Community stays in Suriname: plan with hosts, not assumptions",
+        "title": "Suriname Community Stays | Hosting and Visit Planning",
+        "description": "Plan community stays in Suriname with clear hosting, accommodation, consent and transport arrangements. Compare visits with overnight stays before booking.",
+        "lede": "A thoughtful community stay begins with a specific invitation, clear hosting arrangements and respect for everyday life. Decide whether you want an overnight stay, a hosted visit or a nature-focused base with a separately arranged encounter. Each needs its own description and confirmation.",
+        "quick": [
+          "What makes a community stay clear and respectful?",
+          "Identify the host, accommodation and visit arrangements before booking. Ask who welcomes guests, what is offered and how payment is handled. Staying near a community does not establish community ownership or permission to visit homes. Confirm photography expectations, suitable activities and the practical transport chain. Let the hosting arrangement guide the visit rather than assuming access to everyday or private spaces."
+        ],
+        "sections": [
+          [
+            "Distinguish an overnight stay from a hosted visit",
+            "A community stay should describe where you sleep and how hosting works; a hosted visit should describe the invitation and activity. These can be parts of one itinerary, but neither automatically implies the other. Ask whether the proposal includes accommodation within a community, a nearby property or a daytime visit from another base. Clear wording makes it possible to choose the experience you actually want without relying on a broad cultural label.",
+            "Decide how much of the trip you want to focus on hosting and how much on forest or river activities. A short visit can be meaningful when its purpose and arrangements are understood. An overnight stay may offer a different pace, but its details still need confirmation. Avoid treating a longer stay as proof of deeper access to private life; the hosts' invitation and preferences determine what is appropriate."
+          ],
+          [
+            "Place Upper Suriname in the itinerary",
+            "National tourism guidance describes Atjoni as a road-to-boat connection for Upper Suriname. The Upper Suriname guide helps place a potential stay in that route, but the final destination and hosting arrangement need to be identified separately. Ask where you meet the host or accommodation representative, how the boat connection is coordinated and what is included. A region name does not tell you which community or property the proposal uses.",
+            "Do not assume all visits in Suriname follow that same route or offer the same experience. For any other proposed area, ask for its own travel chain, invitation and accommodation details. Compare the useful time with hosts after arrival and before departure, rather than adding an encounter to a transfer day without checking feasibility. A well-paced itinerary allows time to settle in and understand the visit before beginning activities."
+          ],
+          [
+            "Know who is hosting and operating the stay",
+            "Ask who operates the accommodation, who organizes visits and who guides the activities. If the proposal uses terms such as community-owned or community-led, request a clear explanation of what those terms mean for that particular booking. A local guide, nearby village and locally staffed property are valuable but different facts. The accommodation should be described accurately without assigning an ownership structure that has not been confirmed.",
+            "If direct local benefit is important to you, ask how the booking and any activity payments are handled. Seek a straightforward explanation rather than an unsupported promise about percentages or how every payment is distributed. Tell the planner what matters in your choice so the conversation can check the relevant details. Clear responsibilities also help when you need to ask a practical question during the stay or resolve a change."
+          ],
+          [
+            "Let hosts define the appropriate visit",
+            "Ask what guests are invited to do, which spaces are appropriate to enter and whether any parts of the proposed visit require separate permission. Daily life continues while travelers are present. A stay does not make homes, private gatherings or workspaces attractions available on demand. Choose activities that the hosts specifically offer, and allow them to explain what fits the timing and context of the visit.",
+            "If your interests include craft, food or history, describe them as interests that need to be matched with a confirmed invitation. Do not ask a planner to promise ceremonies or personal encounters simply to fill the itinerary. A nature walk, conversation or quiet time at the base can be worthwhile when it is genuinely offered. The quality of the visit depends on clear expectations and willing participation rather than a long list of cultural activities."
+          ],
+          [
+            "Ask before making photographs or recordings",
+            "Discuss photography expectations with the host or guide before the visit begins. Ask permission from the person you wish to photograph rather than treating a general welcome as blanket consent. Accept a refusal without turning it into a negotiation. Buildings, objects, conversations and gatherings can also have expectations that need checking. A travel photograph is optional; respect for the people involved remains part of the visit even when you leave without that image.",
+            "Tell the planner if photography or video is a major purpose of your trip, including any intended public or commercial use. That gives the hosting arrangement a chance to consider the request beforehand. Avoid presenting children or residents as props in a travel story. When sharing an image, keep its description accurate and avoid assigning a community, activity or personal story that the host has not identified for you."
+          ],
+          [
+            "Choose accommodation with practical expectations",
+            "Use the rainforest accommodation guide to compare sleeping arrangements, bathrooms, meals and power for the proposed stay. Ask which facilities are shared and whether the room type is the one shown in current photographs. Tell the planner about dietary needs, mobility or equipment before deciding the accommodation is suitable. Community hosting and room facilities are related parts of a booking, but one does not establish the other.",
+            "Ask about the route between sleeping areas, meals and activity departure points. Clarify what guests should bring and how wet belongings or luggage are handled. Decide which facilities are essential and where you are comfortable being flexible. A respectful stay does not require hiding practical questions; clear answers help hosts and guests understand each other and avoid expectations that the actual accommodation cannot support."
+          ],
+          [
+            "Consider Pikin Slee as a specific cultural interest",
+            "National tourism guidance identifies the Saamaka Museum in Pikin Slee and credits its creation to the Totomboti art collective. If that museum interests you, ask whether a visit can be arranged for your dates and how it fits the proposed route. Confirm the opening, guiding and transport arrangements for the actual visit. A named museum provides a specific topic for inquiry, without implying access to unrelated private activities.",
+            "Use a museum visit to learn through the interpretation that is offered, rather than expecting one stop to explain every community or individual. Ask what language is available and how much time the plan allows. Distinguish the museum arrangement from the accommodation and any other hosting. Avoid promising ceremonies or encounters that are not part of the confirmed visit; a focused cultural interest is more useful than a generic checklist."
+          ],
+          [
+            "Balance hosted time with river and forest activities",
+            "Ask the itinerary to show hosted visits, nature outings and rest separately. Confirm whether the same guide handles different activities or whether a handover is part of the day. A river transfer is not automatically an excursion, and an overnight stay does not establish a guided forest walk. Clear descriptions make it easier to see whether the plan has enough time for the experiences you value without overloading the host or traveler.",
+            "Consult the Suriname rainforest overview when comparing this route with other inland options. If your main priority is wildlife observation or walking, choose an appropriate nature itinerary and add only visits that are specifically offered. If hosting is the priority, leave room for the agreed pace rather than treating every moment as an activity to be delivered. A balanced plan respects both the traveler's interests and the hosts' arrangements."
+          ],
+          [
+            "Send an inquiry that respects the invitation",
+            "To plan your Suriname rainforest trip, share dates, party size, accommodation needs and the kind of hosting you hope to experience. Include language preferences, dietary requirements and any photography intentions. Say whether you want an overnight stay or a hosted daytime visit. These details help assess a suitable arrangement without assuming that a particular community, host or activity is available simply because it appears in a guide.",
+            "Request a proposal identifying the accommodation, host or activity organizer, transport, meals and payments that are included. Ask which details still require confirmation and how changes or cancellations are handled. An inquiry does not establish an invitation or reserve a stay. The goal is a visit with a clear welcome, practical arrangements and enough time to learn through what the hosts choose to share."
+          ]
+        ],
+        "faqs": [
+          [
+            "Is a stay near a village automatically community-owned?",
+            "No. Location, staffing and ownership are separate facts. Ask who operates the accommodation and what supports any community-owned or community-led description in the proposal."
+          ],
+          [
+            "Does an overnight stay include visits to homes?",
+            "Only when a specific visit is offered and permission is confirmed. An accommodation booking does not establish access to private spaces, gatherings or everyday activities."
+          ],
+          [
+            "Can I photograph residents during a visit?",
+            "Discuss expectations in advance and ask permission from the person involved. Accept refusals. Explain public or commercial use beforehand rather than assuming that a general welcome covers photography or recording."
+          ],
+          [
+            "Can the Saamaka Museum be included?",
+            "Treat it as a specific request for current confirmation. Ask about opening, guiding and transport for your dates, and distinguish the museum visit from your accommodation and other hosting arrangements."
+          ]
+        ],
+        "cta": [
+          "Build a visit around a clear welcome",
+          "Share the kind of stay or hosted visit you are considering, your dates and practical needs. We can discuss the arrangements and invitations that need confirmation."
+        ],
+        "slug": "community-stays",
+        "type": "planning_guide",
+        "pair_id": "suriname_community-stays_001",
+        "links": [
+          [
+            "/suriname/",
+            "Suriname overview"
+          ],
+          [
+            "/suriname/plan-your-rainforest-trip/",
+            "Plan your trip"
+          ],
+          [
+            "/suriname/paramaribo/",
+            "Paramaribo"
+          ],
+          [
+            "/suriname/upper-suriname/",
+            "Upper Suriname"
+          ],
+          [
+            "/suriname/brownsberg-brokopondo/",
+            "Brownsberg & Brokopondo"
+          ],
+          [
+            "/suriname/central-suriname-nature-reserve/",
+            "Central Suriname Nature Reserve"
+          ],
+          [
+            "/suriname/rainforest-accommodation/",
+            "Rainforest accommodation"
+          ],
+          [
+            "/suriname/community-stays/",
+            "Community stays"
+          ],
+          [
+            "/contact/",
+            "Share your plans"
+          ]
+        ],
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Suriname Travel — Sipaliwini",
+            "https://suriname.travel/sipaliwini/"
+          ],
+          [
+            "Suriname Travel — transport",
+            "https://suriname.travel/transport-in-suriname/"
+          ],
+          [
+            "Suriname Travel — accommodation directory",
+            "https://suriname.travel/hotels-en-resorts/"
+          ]
+        ],
+        "scope": "Guide reviewed October 8, 2026. Confirm accommodation, hosts, visits and transfers for your itinerary. Images illustrate forest and river settings without identifying particular properties or communities.",
+        "hero": [
+          "amazon-forest-canoe-bow-wide",
+          "View from a canoe toward forest-lined water"
+        ],
+        "features": {
+          "1": [
+            "amazon-forest-buttress-tree-hiker-wide",
+            "Hiker beside the roots of a large forest tree"
+          ],
+          "4": [
+            "amazon-wooden-canoes-riverbank",
+            "Wooden canoes beside a riverbank"
+          ]
+        },
+        "context_links": [
+          [
+            "Suriname rainforest overview",
+            "/suriname/"
+          ],
+          [
+            "Upper Suriname guide",
+            "/suriname/upper-suriname/"
+          ],
+          [
+            "plan your Suriname rainforest trip",
+            "/suriname/plan-your-rainforest-trip/"
+          ],
+          [
+            "rainforest accommodation guide",
+            "/suriname/rainforest-accommodation/"
+          ]
+        ]
+      },
+      "es": {
+        "h1": "Estancias comunitarias en Suriname: planifique con anfitriones, no con suposiciones",
+        "title": "Estancias comunitarias en Suriname | Visitas y alojamiento",
+        "description": "Planifique estancias comunitarias en Suriname con anfitriones, alojamiento, visitas y traslados claros. Compare una visita con una estancia antes de reservar.",
+        "lede": "Una estancia comunitaria bien planificada comienza con una invitación específica, arreglos de hospedaje claros y respeto por la vida cotidiana. Decida si desea una pernoctación, una visita con anfitriones o una base centrada en la naturaleza con un encuentro organizado por separado. Cada opción requiere su propia descripción y confirmación.",
+        "quick": [
+          "¿Qué hace que una estancia comunitaria sea clara y respetuosa?",
+          "Identifique al anfitrión, el alojamiento y los arreglos de la visita antes de reservar. Pregunte quién recibe a los huéspedes, qué se ofrece y cómo se maneja el pago. El hecho de alojarse cerca de una comunidad no significa que el alojamiento sea propiedad de la comunidad ni permiso para visitar hogares. Confirme las expectativas sobre fotografía, actividades adecuadas y la secuencia de traslados práctica. Deje que el acuerdo con los anfitriones guíe la visita en lugar de asumir acceso a espacios cotidianos o privados."
+        ],
+        "cta": [
+          "Construya una visita alrededor de una bienvenida clara",
+          "Comparta el tipo de estancia o visita con anfitriones que está considerando, sus fechas y necesidades prácticas. Podemos discutir los arreglos e invitaciones que requieren confirmación."
+        ],
+        "faqs": [
+          [
+            "¿Una estancia cerca de un pueblo es automáticamente propiedad comunitaria?",
+            "No. La ubicación, el personal y la propiedad son hechos separados. Pregunte quién opera el alojamiento y qué respalda cualquier descripción de propiedad o liderazgo comunitario en la propuesta."
+          ],
+          [
+            "¿Una pernoctación incluye visitas a hogares?",
+            "Solo cuando se ofrece una visita específica y se confirma el permiso. Una reserva de alojamiento no otorga acceso a espacios privados, reuniones o actividades cotidianas."
+          ],
+          [
+            "¿Puedo fotografiar a los residentes durante una visita?",
+            "Discuta las expectativas con anticipación y solicite permiso a la persona involucrada. Acepte los rechazos. Explique el uso público o comercial con antelación en lugar de asumir que una bienvenida general cubre la fotografía o grabación."
+          ],
+          [
+            "¿Puede incluirse el Museo Saamaka?",
+            "Trátelo como una solicitud específica para confirmación actual. Pregunte sobre la apertura, la guía y el transporte para sus fechas, y distinga la visita al museo de su alojamiento y otros arreglos de hospedaje."
+          ]
+        ],
+        "sections": [
+          [
+            "Distinga entre una pernoctación y una visita con anfitriones",
+            "Consulte la guía de Suriname. Una estancia comunitaria debe describir dónde duerme y cómo funciona el hospedaje; una visita con anfitriones debe describir la invitación y la actividad. Estas pueden ser parte de un itinerario, pero ninguna implica automáticamente a la otra. Pregunte si la propuesta incluye alojamiento dentro de una comunidad, una propiedad cercana o una visita diurna desde otra base. Una redacción clara permite elegir la experiencia que realmente desea sin depender de una etiqueta cultural amplia.",
+            "Decida cuánto del viaje desea centrar en el hospedaje y cuánto en actividades forestales o fluviales. Una visita corta puede ser significativa cuando se comprenden su propósito y arreglos. Una pernoctación puede ofrecer un ritmo diferente, pero sus detalles aún requieren confirmación. Evite tratar una estancia más larga como prueba de un acceso más profundo a la vida privada; las invitaciones y preferencias de los anfitriones determinan lo apropiado."
+          ],
+          [
+            "Coloque Alto Suriname en el itinerario",
+            "Consulte la guía del Alto Suriname. La guía nacional de turismo describe Atjoni como una conexión por carretera y lancha para Alto Suriname. La guía de Alto Suriname ayuda a colocar una posible estancia en esa ruta, pero el destino final y el acuerdo con los anfitriones deben identificarse por separado. Pregunte dónde se encuentra con el anfitrión o representante del alojamiento, cómo se coordina la conexión en lancha y qué incluye. Un nombre de región no le dice qué comunidad o propiedad utiliza la propuesta.",
+            "No asuma que todas las visitas en Suriname siguen esa misma ruta o ofrecen la misma experiencia. Para cualquier otra área propuesta, solicite su propia cadena de viaje, invitación y detalles de alojamiento. Compare el tiempo útil con los anfitriones después de la llegada y antes de la partida, en lugar de agregar un encuentro a un día de traslado sin verificar la viabilidad. Un itinerario bien equilibrado permite tiempo para asentarse y comprender la visita antes de comenzar las actividades."
+          ],
+          [
+            "Conozca quién hospeda y opera la estancia",
+            "Pregunte quién opera el alojamiento, quién organiza las visitas y quién guía las actividades. Si la propuesta utiliza términos como propiedad comunitaria o dirigida por la comunidad, solicite una explicación clara de lo que significan para esa reserva específica. Un guía local, un pueblo cercano y una propiedad con personal local son hechos valiosos pero diferentes. El alojamiento debe describirse con precisión sin asignar una estructura de propiedad no confirmada.",
+            "Si el beneficio local directo es importante para usted, pregunte cómo se manejan la reserva y los pagos por actividades. Busque una explicación directa en lugar de promesas no respaldadas sobre porcentajes o cómo se distribuyen todos los pagos. Dígale al planificador qué le importa en su elección para que la conversación pueda verificar los detalles relevantes. Las responsabilidades claras también ayudan cuando necesita hacer una pregunta práctica durante la estancia o resolver un cambio."
+          ],
+          [
+            "Deje que los anfitriones definan la visita apropiada",
+            "Pregunte qué se invita a los huéspedes a hacer, a qué espacios es apropiado entrar y si alguna parte de la visita propuesta requiere permiso separado. La vida cotidiana continúa mientras están presentes los viajeros. Una estancia no pone a disposición hogares, reuniones privadas o espacios de trabajo como atracciones bajo demanda. Elija actividades que los anfitriones ofrecen específicamente y permita que expliquen qué encaja con el horario y contexto de la visita.",
+            "Si sus intereses incluyen artesanía, comida o historia, descríbalos como intereses que deben coincidir con una invitación confirmada. No pida a un planificador que prometa ceremonias o encuentros personales simplemente para llenar el itinerario. Un paseo por la naturaleza, una conversación o tiempo tranquilo en la base pueden ser valiosos cuando se ofrecen genuinamente. La calidad de la visita depende de expectativas claras y participación voluntaria en lugar de una larga lista de actividades culturales."
+          ],
+          [
+            "Pregunte antes de hacer fotografías o grabaciones",
+            "Discuta las expectativas sobre fotografía con el anfitrión o guía antes de comenzar la visita. Solicite permiso a la persona que desea fotografiar en lugar de tratar una bienvenida general como consentimiento generalizado. Acepte un rechazo sin convertirlo en una negociación. Edificios, objetos, conversaciones y reuniones también pueden tener expectativas que deben verificarse. Una fotografía de viaje es opcional; el respeto por las personas involucradas sigue siendo parte de la visita incluso si se va sin esa imagen.",
+            "Dígale al planificador si la fotografía o video es un propósito principal de su viaje, incluido cualquier uso público o comercial. Eso le da a la organización de hospedaje la oportunidad de considerar la solicitud con anticipación. Evite presentar a niños o residentes como accesorios en una historia de viaje. Al compartir una imagen, mantenga su descripción precisa y evite asignar una comunidad, actividad o historia personal que el anfitrión no haya identificado para usted."
+          ],
+          [
+            "Elija alojamiento con expectativas prácticas",
+            "Consulte la guía de alojamientos en la selva. Utilice la guía de alojamiento de selva para comparar distribución para dormir, baños, comidas y energía eléctrica para la estancia propuesta. Pregunte qué instalaciones son compartidas y si el tipo de habitación es el que se muestra en las fotografías actuales. Dígale al planificador sobre necesidades alimentarias, movilidad o equipo antes de decidir que el alojamiento es adecuado. El hospedaje comunitario y las instalaciones de la habitación son partes relacionadas de una reserva, pero una no establece a la otra.",
+            "Pregunte sobre la ruta entre áreas de sueño, comidas y puntos de salida de actividades. Aclare qué deben llevar los huéspedes y cómo se manejan los objetos mojados o el equipaje. Decida qué instalaciones son esenciales y dónde está cómodo siendo flexible. Una estancia respetuosa no requiere ocultar preguntas prácticas; las respuestas claras ayudan a anfitriones y huéspedes a entenderse mutuamente y evitar expectativas que el alojamiento real no puede satisfacer."
+          ],
+          [
+            "Considere Pikin Slee como un interés cultural específico",
+            "La guía nacional de turismo identifica el Museo Saamaka en Pikin Slee y acredita su creación al colectivo artístico Totomboti. Si ese museo le interesa, pregunte si se puede organizar una visita para sus fechas y cómo encaja en la ruta propuesta. Confirme los arreglos de apertura, guía y transporte para la visita real. Un museo concreto proporciona un tema específico para consultar, sin implicar acceso a actividades privadas no relacionadas.",
+            "Utilice una visita al museo para aprender a través de la interpretación que se ofrece, en lugar de esperar que una parada explique cada comunidad o individuo. Pregunte qué idioma está disponible y cuánto tiempo permite el plan. Distinga el arreglo del museo del alojamiento y cualquier otro hospedaje. Evite prometer ceremonias o encuentros que no formen parte de la visita confirmada; un interés cultural enfocado es más útil que una lista genérica."
+          ],
+          [
+            "Equilibre tiempo con los anfitriones con actividades fluviales y forestales",
+            "Pida al itinerario que muestre visitas con anfitriones, salidas a la naturaleza y descanso por separado. Confirme si el mismo guía maneja diferentes actividades o si hay un cambio de responsable durante el día. Una traslado fluvial no es automáticamente una excursión, y una pernoctación no establece un paseo forestal servicio de guía. Descripciones claras facilitan ver si el plan tiene suficiente tiempo para las experiencias que valora sin sobrecargar al anfitrión o viajero.",
+            "Consulte la visión general de la selva de Suriname al comparar esta ruta con otras opciones interiores. Si su prioridad principal es la observación de vida silvestre o caminar, elija un itinerario de naturaleza adecuado y agregue solo visitas que se ofrecen específicamente. Si el hospedaje es la prioridad, deje espacio para el ritmo acordado en lugar de tratar cada momento como una actividad que debe proporcionarse. Un plan equilibrado respeta tanto los intereses del viajero como los arreglos de los anfitriones."
+          ],
+          [
+            "Envíe una consulta que respete la invitación",
+            "Para planificar su viaje a la selva de Suriname, considere lo siguiente. Para planificar su viaje a la selva de Suriname, comparta fechas, tamaño del grupo, necesidades de alojamiento y el tipo de hospedaje que espera experimentar. Incluya preferencias de idioma, necesidades alimentarias e intenciones sobre fotografía. Diga si desea una pernoctación o una visita diurna con anfitriones. Estos detalles ayudan a evaluar un arreglo adecuado sin asumir que una comunidad, anfitrión o actividad específicos están disponibles simplemente porque aparecen en una guía.",
+            "Solicite una propuesta que identifique el alojamiento, anfitrión u organizador de actividades, transporte, comidas y pagos incluidos. Pregunte qué detalles aún requieren confirmación y cómo se manejan los cambios o cancelaciones. Una consulta no establece una invitación ni reserva una estancia. El objetivo es una visita con una bienvenida clara, arreglos prácticos y suficiente tiempo para aprender a través de lo que los anfitriones eligen compartir."
+          ]
+        ],
+        "slug": "estancias-comunitarias",
+        "type": "planning_guide",
+        "pair_id": "suriname_community-stays_001",
+        "links": [
+          [
+            "/es/suriname/",
+            "Guía de Suriname"
+          ],
+          [
+            "/es/suriname/planifica-tu-viaje-a-la-selva/",
+            "Planifique su viaje"
+          ],
+          [
+            "/es/suriname/paramaribo/",
+            "Paramaribo"
+          ],
+          [
+            "/es/suriname/alto-suriname/",
+            "Alto Suriname"
+          ],
+          [
+            "/es/suriname/brownsberg-brokopondo/",
+            "Brownsberg y Brokopondo"
+          ],
+          [
+            "/es/suriname/reserva-natural-de-suriname-central/",
+            "Reserva Natural de Suriname Central"
+          ],
+          [
+            "/es/suriname/alojamientos-en-la-selva/",
+            "Alojamientos en la selva"
+          ],
+          [
+            "/es/suriname/estancias-comunitarias/",
+            "Estancias comunitarias"
+          ],
+          [
+            "/es/contacto/",
+            "Comparta sus planes"
+          ]
+        ],
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Suriname Travel — Sipaliwini",
+            "https://suriname.travel/sipaliwini/"
+          ],
+          [
+            "Suriname Travel — transport",
+            "https://suriname.travel/transport-in-suriname/"
+          ],
+          [
+            "Suriname Travel — accommodation directory",
+            "https://suriname.travel/hotels-en-resorts/"
+          ]
+        ],
+        "scope": "Guía revisada el 8 de octubre de 2026. Confirme el alojamiento, los anfitriones, las visitas y los traslados para su itinerario. Las imágenes ilustran entornos de bosque y río, sin identificar alojamientos o comunidades concretos.",
+        "hero": [
+          "amazon-forest-canoe-bow-wide",
+          "Vista desde una canoa hacia un río rodeado de bosque"
+        ],
+        "features": {
+          "1": [
+            "amazon-forest-buttress-tree-hiker-wide",
+            "Caminante junto a las raíces de un gran árbol del bosque"
+          ],
+          "4": [
+            "amazon-wooden-canoes-riverbank",
+            "Canoas de madera junto a la orilla de un río"
+          ]
+        },
+        "context_links": [
+          [
+            "guía de Suriname",
+            "/es/suriname/"
+          ],
+          [
+            "guía del Alto Suriname",
+            "/es/suriname/alto-suriname/"
+          ],
+          [
+            "planificar su viaje a la selva de Suriname",
+            "/es/suriname/planifica-tu-viaje-a-la-selva/"
+          ],
+          [
+            "guía de alojamientos en la selva",
+            "/es/suriname/alojamientos-en-la-selva/"
+          ]
+        ]
+      }
+    }
+  }
+}

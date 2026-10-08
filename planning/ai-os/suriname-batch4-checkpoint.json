@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-08",
+  "deployment": "aecd0dfd",
+  "rollback_deployment": "4ecb1250",
+  "new_pairs": 2,
+  "new_pages": 4,
+  "total_pairs": 8,
+  "total_pages": 16,
+  "compiled_pages_validated": 212,
+  "country_qa_errors": [],
+  "css_contact_regression_tests": 26,
+  "main_word_range": [
+    1701,
+    2375
+  ],
+  "protection_checks": [
+    {
+      "route": "/suriname/rainforest-accommodation/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/suriname/alojamientos-en-la-selva/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/suriname/community-stays/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/suriname/estancias-comunitarias/",
+      "status": 302,
+      "access_redirect": true
+    }
+  ],
+  "authenticated_readback": "Pending; browser admin-policy verification unavailable",
+  "visual_review": "Pending; no agent desktop/mobile measurements claimed",
+  "production_containment": "172 live-scope pages validated; Suriname excluded",
+  "production_deployed": false,
+  "observed_failure": "Assembly helper syntax error corrected; full build and country QA rerun successfully"
+}

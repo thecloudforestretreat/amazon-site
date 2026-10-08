@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-08",
+  "sources": [
+    {
+      "url": "https://suriname.travel/sipaliwini/",
+      "reviewed_claims": [
+        "Atjoni road-to-boat connection for Upper Suriname",
+        "Pikin Slee Saamaka Museum created by Totomboti collective"
+      ]
+    },
+    {
+      "url": "https://suriname.travel/transport-in-suriname/",
+      "reviewed_claims": [
+        "road/boat connection to Upper Suriname; specific booking inclusions require confirmation"
+      ]
+    },
+    {
+      "url": "https://suriname.travel/hotels-en-resorts/",
+      "reviewed_claims": [
+        "National accommodation directory; no property endorsement, availability or facility claim derived"
+      ]
+    }
+  ],
+  "failed_fetches": [
+    {
+      "url": "https://suriname.travel/accommodations/",
+      "result": "Unavailable; resolved directory link through primary navigation; not marked reviewed"
+    }
+  ],
+  "limits": [
+    "No universal property amenities, ownership, ceremony access, fees or availability claims",
+    "Owner-licensed neutral forest and river illustrations; no unverified community/property image identification"
+  ]
+}

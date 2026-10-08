@@ -1,0 +1,25 @@
+{
+  "model": "qwen3.5:9b",
+  "runs": [
+    {
+      "topic": "rainforest-accommodation",
+      "prompt_tokens": 2088,
+      "output_tokens": 2646,
+      "seconds": 115.35,
+      "retries": 0,
+      "cache_hits": 0,
+      "shape_pass": true
+    },
+    {
+      "topic": "community-stays",
+      "prompt_tokens": 2058,
+      "output_tokens": 2607,
+      "seconds": 108.23,
+      "retries": 0,
+      "cache_hits": 0,
+      "shape_pass": true
+    }
+  ],
+  "workflow_change": "Strict JSON schema with exact array lengths introduced after observed batch1 translation shape drift; raw results retained.",
+  "total_local_tokens": 9399
+}

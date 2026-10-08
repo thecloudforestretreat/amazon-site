@@ -5,9 +5,9 @@
   "batch_size_pairs": 2,
   "planned_pairs": 12,
   "planned_pages": 24,
-  "staged_pairs": 6,
-  "staged_pages": 12,
-  "status": "batch3_staged_technical_pass_visual_pending",
+  "staged_pairs": 8,
+  "staged_pages": 16,
+  "status": "batch4_staged_technical_pass_visual_pending",
   "topics": [
     "Overview",
     "Trip planning",
@@ -23,8 +23,8 @@
     "Packing and seasonal preparation"
   ],
   "active_batch": [
-    "Brownsberg and Brokopondo",
-    "Central Suriname Nature Reserve"
+    "Rainforest accommodation",
+    "Community stays"
   ],
   "quality_gates": [
     "Reviewed EN/ES content",
@@ -35,10 +35,10 @@
     "Protected staging readback"
   ],
   "production_authorized": false,
-  "deployment": "4ecb1250",
+  "deployment": "aecd0dfd",
   "next_batch": [
-    "Rainforest accommodation",
-    "Community stays"
+    "River journeys",
+    "Wildlife"
   ],
-  "local_tokens_recorded": 38019
+  "local_tokens_recorded": 47418
 }
