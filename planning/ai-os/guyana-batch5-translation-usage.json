@@ -1,0 +1,25 @@
+{
+  "runs": [
+    {
+      "topic": "best-time-to-visit",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2627,
+      "output_tokens": 3595,
+      "seconds": 156.66,
+      "retries": 0,
+      "cache_hits": 0,
+      "done_reason": "stop"
+    },
+    {
+      "topic": "wildlife",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2596,
+      "output_tokens": 3261,
+      "seconds": 138.55,
+      "retries": 0,
+      "cache_hits": 0,
+      "done_reason": "stop"
+    }
+  ],
+  "total_local_tokens": 12079
+}

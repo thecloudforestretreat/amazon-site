@@ -1,0 +1,37 @@
+{
+  "review_date": "2026-10-08",
+  "status": "Bilingual editorial review complete",
+  "sources": [
+    {
+      "url": "https://guyanatourism.com/travel-tips/",
+      "claims": [
+        "Distinct coastal and interior calendar",
+        "Coast drier mid-January–May, mid-July–mid-November; wetter May–mid-July, mid-November–mid-January",
+        "Interior drier January–early May, September–December; wetter mid-May–August"
+      ],
+      "limits": "Broad seasonal guidance, not forecast or guaranteed operating conditions"
+    },
+    {
+      "url": "https://hydromet.gov.gy/weather/seasonal-outlook/",
+      "claims": [
+        "Official seasonal outlook index exists, including October–December 2026"
+      ],
+      "limits": "Linked outlook forecasts not interpreted or claimed reviewed"
+    },
+    {
+      "url": "https://visitrupununi.com/discover-rupununi/",
+      "claims": [
+        "Forest, river, wetland and savannah regional contexts; listed wildlife examples giant otter, black caiman, giant anteater and jaguar"
+      ],
+      "limits": "Regional occurrence, not guaranteed sightings"
+    },
+    {
+      "url": "https://iwokramariverlodge.com/",
+      "claims": [
+        "Official lodge describes birding and wildlife activities"
+      ],
+      "limits": "No current nest activity, availability or species guarantees asserted"
+    }
+  ],
+  "bilingual_review": "All nine sections and four FAQs preserved; seasonal ranges checked against official tourism guidance; Spanish grammar, guiding terminology, captions and contextual routes corrected; no wildlife guarantees or unreviewed forecast claims"
+}

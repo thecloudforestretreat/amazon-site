@@ -1,0 +1,26 @@
+{
+  "deployment": "432bcce1",
+  "method": "curl HEAD",
+  "checks": [
+    {
+      "route": "/guyana/best-time-to-visit/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/guyana/mejor-epoca-para-visitar/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/guyana/wildlife/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/guyana/fauna/",
+      "status": 302,
+      "access_redirect": true
+    }
+  ]
+}

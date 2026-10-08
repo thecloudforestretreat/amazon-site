@@ -1,10 +1,10 @@
 {
-  "pages_audited": 16,
+  "pages_audited": 20,
   "errors": [],
   "pages": [
     {
       "route": "/es/guyana/",
-      "main_words": 1881,
+      "main_words": 1950,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/",
@@ -12,6 +12,8 @@
         "/es/guyana/rupununi/",
         "/es/guyana/viajes-fluviales/",
         "/es/guyana/alojamientos-en-la-selva/",
+        "/es/guyana/fauna/",
+        "/es/guyana/mejor-epoca-para-visitar/",
         "/es/guyana/estancias-comunitarias/",
         "/es/guyana/iwokrama/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/"
@@ -22,8 +24,10 @@
         "/es/contacto/",
         "/es/guyana/alojamientos-en-la-selva/",
         "/es/guyana/estancias-comunitarias/",
+        "/es/guyana/fauna/",
         "/es/guyana/georgetown/",
         "/es/guyana/iwokrama/",
+        "/es/guyana/mejor-epoca-para-visitar/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/",
         "/es/guyana/rupununi/",
         "/es/guyana/viajes-fluviales/",
@@ -45,13 +49,15 @@
     },
     {
       "route": "/es/guyana/alojamientos-en-la-selva/",
-      "main_words": 1960,
+      "main_words": 2029,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/guyana/",
         "/es/guyana/georgetown/",
         "/es/guyana/rupununi/",
         "/es/guyana/viajes-fluviales/",
+        "/es/guyana/fauna/",
+        "/es/guyana/mejor-epoca-para-visitar/",
         "/es/guyana/estancias-comunitarias/",
         "/es/guyana/iwokrama/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/"
@@ -61,8 +67,10 @@
         "/es/contacto/",
         "/es/guyana/",
         "/es/guyana/estancias-comunitarias/",
+        "/es/guyana/fauna/",
         "/es/guyana/georgetown/",
         "/es/guyana/iwokrama/",
+        "/es/guyana/mejor-epoca-para-visitar/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/",
         "/es/guyana/rupununi/",
         "/es/guyana/viajes-fluviales/"
@@ -83,7 +91,7 @@
     },
     {
       "route": "/es/guyana/estancias-comunitarias/",
-      "main_words": 1746,
+      "main_words": 1815,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/guyana/",
@@ -91,6 +99,8 @@
         "/es/guyana/rupununi/",
         "/es/guyana/viajes-fluviales/",
         "/es/guyana/alojamientos-en-la-selva/",
+        "/es/guyana/fauna/",
+        "/es/guyana/mejor-epoca-para-visitar/",
         "/es/guyana/iwokrama/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/"
       ],
@@ -99,8 +109,52 @@
         "/es/contacto/",
         "/es/guyana/",
         "/es/guyana/alojamientos-en-la-selva/",
+        "/es/guyana/fauna/",
         "/es/guyana/georgetown/",
         "/es/guyana/iwokrama/",
+        "/es/guyana/mejor-epoca-para-visitar/",
+        "/es/guyana/planifica-tu-viaje-a-la-selva/",
+        "/es/guyana/rupununi/",
+        "/es/guyana/viajes-fluviales/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/guyana.css?v=20f736e973de"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/guyana/fauna/",
+      "main_words": 2033,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/es/guyana/",
+        "/es/guyana/georgetown/",
+        "/es/guyana/rupununi/",
+        "/es/guyana/viajes-fluviales/",
+        "/es/guyana/alojamientos-en-la-selva/",
+        "/es/guyana/mejor-epoca-para-visitar/",
+        "/es/guyana/estancias-comunitarias/",
+        "/es/guyana/iwokrama/",
+        "/es/guyana/planifica-tu-viaje-a-la-selva/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/contacto/",
+        "/es/guyana/",
+        "/es/guyana/alojamientos-en-la-selva/",
+        "/es/guyana/estancias-comunitarias/",
+        "/es/guyana/georgetown/",
+        "/es/guyana/iwokrama/",
+        "/es/guyana/mejor-epoca-para-visitar/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/",
         "/es/guyana/rupununi/",
         "/es/guyana/viajes-fluviales/"
@@ -121,13 +175,15 @@
     },
     {
       "route": "/es/guyana/georgetown/",
-      "main_words": 1855,
+      "main_words": 1924,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/guyana/",
         "/es/guyana/rupununi/",
         "/es/guyana/viajes-fluviales/",
         "/es/guyana/alojamientos-en-la-selva/",
+        "/es/guyana/fauna/",
+        "/es/guyana/mejor-epoca-para-visitar/",
         "/es/guyana/estancias-comunitarias/",
         "/es/guyana/iwokrama/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/"
@@ -138,7 +194,9 @@
         "/es/guyana/",
         "/es/guyana/alojamientos-en-la-selva/",
         "/es/guyana/estancias-comunitarias/",
+        "/es/guyana/fauna/",
         "/es/guyana/iwokrama/",
+        "/es/guyana/mejor-epoca-para-visitar/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/",
         "/es/guyana/rupununi/",
         "/es/guyana/viajes-fluviales/"
@@ -159,7 +217,7 @@
     },
     {
       "route": "/es/guyana/iwokrama/",
-      "main_words": 1764,
+      "main_words": 1833,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/guyana/",
@@ -167,6 +225,8 @@
         "/es/guyana/rupununi/",
         "/es/guyana/viajes-fluviales/",
         "/es/guyana/alojamientos-en-la-selva/",
+        "/es/guyana/fauna/",
+        "/es/guyana/mejor-epoca-para-visitar/",
         "/es/guyana/estancias-comunitarias/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/"
       ],
@@ -176,7 +236,51 @@
         "/es/guyana/",
         "/es/guyana/alojamientos-en-la-selva/",
         "/es/guyana/estancias-comunitarias/",
+        "/es/guyana/fauna/",
         "/es/guyana/georgetown/",
+        "/es/guyana/mejor-epoca-para-visitar/",
+        "/es/guyana/planifica-tu-viaje-a-la-selva/",
+        "/es/guyana/rupununi/",
+        "/es/guyana/viajes-fluviales/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/guyana.css?v=20f736e973de"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/guyana/mejor-epoca-para-visitar/",
+      "main_words": 2007,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/es/guyana/",
+        "/es/guyana/georgetown/",
+        "/es/guyana/rupununi/",
+        "/es/guyana/viajes-fluviales/",
+        "/es/guyana/alojamientos-en-la-selva/",
+        "/es/guyana/fauna/",
+        "/es/guyana/estancias-comunitarias/",
+        "/es/guyana/iwokrama/",
+        "/es/guyana/planifica-tu-viaje-a-la-selva/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/contacto/",
+        "/es/guyana/",
+        "/es/guyana/alojamientos-en-la-selva/",
+        "/es/guyana/estancias-comunitarias/",
+        "/es/guyana/fauna/",
+        "/es/guyana/georgetown/",
+        "/es/guyana/iwokrama/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/",
         "/es/guyana/rupununi/",
         "/es/guyana/viajes-fluviales/"
@@ -197,7 +301,7 @@
     },
     {
       "route": "/es/guyana/planifica-tu-viaje-a-la-selva/",
-      "main_words": 1891,
+      "main_words": 1960,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/guyana/",
@@ -205,6 +309,8 @@
         "/es/guyana/rupununi/",
         "/es/guyana/viajes-fluviales/",
         "/es/guyana/alojamientos-en-la-selva/",
+        "/es/guyana/fauna/",
+        "/es/guyana/mejor-epoca-para-visitar/",
         "/es/guyana/estancias-comunitarias/",
         "/es/guyana/iwokrama/"
       ],
@@ -215,8 +321,10 @@
         "/es/guyana/",
         "/es/guyana/alojamientos-en-la-selva/",
         "/es/guyana/estancias-comunitarias/",
+        "/es/guyana/fauna/",
         "/es/guyana/georgetown/",
         "/es/guyana/iwokrama/",
+        "/es/guyana/mejor-epoca-para-visitar/",
         "/es/guyana/rupununi/",
         "/es/guyana/viajes-fluviales/",
         "/es/peru/"
@@ -237,13 +345,15 @@
     },
     {
       "route": "/es/guyana/rupununi/",
-      "main_words": 1773,
+      "main_words": 1842,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/guyana/",
         "/es/guyana/georgetown/",
         "/es/guyana/viajes-fluviales/",
         "/es/guyana/alojamientos-en-la-selva/",
+        "/es/guyana/fauna/",
+        "/es/guyana/mejor-epoca-para-visitar/",
         "/es/guyana/estancias-comunitarias/",
         "/es/guyana/iwokrama/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/"
@@ -254,8 +364,10 @@
         "/es/guyana/",
         "/es/guyana/alojamientos-en-la-selva/",
         "/es/guyana/estancias-comunitarias/",
+        "/es/guyana/fauna/",
         "/es/guyana/georgetown/",
         "/es/guyana/iwokrama/",
+        "/es/guyana/mejor-epoca-para-visitar/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/",
         "/es/guyana/viajes-fluviales/"
       ],
@@ -275,13 +387,15 @@
     },
     {
       "route": "/es/guyana/viajes-fluviales/",
-      "main_words": 1931,
+      "main_words": 2000,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/guyana/",
         "/es/guyana/georgetown/",
         "/es/guyana/rupununi/",
         "/es/guyana/alojamientos-en-la-selva/",
+        "/es/guyana/fauna/",
+        "/es/guyana/mejor-epoca-para-visitar/",
         "/es/guyana/estancias-comunitarias/",
         "/es/guyana/iwokrama/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/"
@@ -292,8 +406,10 @@
         "/es/guyana/",
         "/es/guyana/alojamientos-en-la-selva/",
         "/es/guyana/estancias-comunitarias/",
+        "/es/guyana/fauna/",
         "/es/guyana/georgetown/",
         "/es/guyana/iwokrama/",
+        "/es/guyana/mejor-epoca-para-visitar/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/",
         "/es/guyana/rupununi/"
       ],
@@ -313,22 +429,25 @@
     },
     {
       "route": "/guyana/",
-      "main_words": 1578,
+      "main_words": 1617,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/",
         "/guyana/georgetown/",
         "/guyana/rupununi/",
         "/guyana/river-journeys/",
+        "/guyana/best-time-to-visit/",
         "/guyana/community-stays/",
         "/guyana/rainforest-accommodation/",
         "/guyana/iwokrama/",
-        "/guyana/plan-your-rainforest-trip/"
+        "/guyana/plan-your-rainforest-trip/",
+        "/guyana/wildlife/"
       ],
       "main_content_outlinks": [
         "/",
         "/colombia/",
         "/contact/",
+        "/guyana/best-time-to-visit/",
         "/guyana/community-stays/",
         "/guyana/georgetown/",
         "/guyana/iwokrama/",
@@ -336,6 +455,7 @@
         "/guyana/rainforest-accommodation/",
         "/guyana/river-journeys/",
         "/guyana/rupununi/",
+        "/guyana/wildlife/",
         "/peru/"
       ],
       "css": [
@@ -353,28 +473,74 @@
       "issues": []
     },
     {
-      "route": "/guyana/community-stays/",
-      "main_words": 1524,
+      "route": "/guyana/best-time-to-visit/",
+      "main_words": 1716,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/guyana/",
         "/guyana/georgetown/",
         "/guyana/rupununi/",
         "/guyana/river-journeys/",
+        "/guyana/community-stays/",
         "/guyana/rainforest-accommodation/",
         "/guyana/iwokrama/",
-        "/guyana/plan-your-rainforest-trip/"
+        "/guyana/plan-your-rainforest-trip/",
+        "/guyana/wildlife/"
       ],
       "main_content_outlinks": [
         "/",
         "/contact/",
         "/guyana/",
+        "/guyana/community-stays/",
         "/guyana/georgetown/",
         "/guyana/iwokrama/",
         "/guyana/plan-your-rainforest-trip/",
         "/guyana/rainforest-accommodation/",
         "/guyana/river-journeys/",
-        "/guyana/rupununi/"
+        "/guyana/rupununi/",
+        "/guyana/wildlife/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/guyana.css?v=20f736e973de"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/guyana/community-stays/",
+      "main_words": 1563,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/guyana/",
+        "/guyana/georgetown/",
+        "/guyana/rupununi/",
+        "/guyana/river-journeys/",
+        "/guyana/best-time-to-visit/",
+        "/guyana/rainforest-accommodation/",
+        "/guyana/iwokrama/",
+        "/guyana/plan-your-rainforest-trip/",
+        "/guyana/wildlife/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/contact/",
+        "/guyana/",
+        "/guyana/best-time-to-visit/",
+        "/guyana/georgetown/",
+        "/guyana/iwokrama/",
+        "/guyana/plan-your-rainforest-trip/",
+        "/guyana/rainforest-accommodation/",
+        "/guyana/river-journeys/",
+        "/guyana/rupununi/",
+        "/guyana/wildlife/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -392,27 +558,31 @@
     },
     {
       "route": "/guyana/georgetown/",
-      "main_words": 1558,
+      "main_words": 1597,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/guyana/",
         "/guyana/rupununi/",
         "/guyana/river-journeys/",
+        "/guyana/best-time-to-visit/",
         "/guyana/community-stays/",
         "/guyana/rainforest-accommodation/",
         "/guyana/iwokrama/",
-        "/guyana/plan-your-rainforest-trip/"
+        "/guyana/plan-your-rainforest-trip/",
+        "/guyana/wildlife/"
       ],
       "main_content_outlinks": [
         "/",
         "/contact/",
         "/guyana/",
+        "/guyana/best-time-to-visit/",
         "/guyana/community-stays/",
         "/guyana/iwokrama/",
         "/guyana/plan-your-rainforest-trip/",
         "/guyana/rainforest-accommodation/",
         "/guyana/river-journeys/",
-        "/guyana/rupununi/"
+        "/guyana/rupununi/",
+        "/guyana/wildlife/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -430,27 +600,31 @@
     },
     {
       "route": "/guyana/iwokrama/",
-      "main_words": 1510,
+      "main_words": 1549,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/guyana/",
         "/guyana/georgetown/",
         "/guyana/rupununi/",
         "/guyana/river-journeys/",
+        "/guyana/best-time-to-visit/",
         "/guyana/community-stays/",
         "/guyana/rainforest-accommodation/",
-        "/guyana/plan-your-rainforest-trip/"
+        "/guyana/plan-your-rainforest-trip/",
+        "/guyana/wildlife/"
       ],
       "main_content_outlinks": [
         "/",
         "/contact/",
         "/guyana/",
+        "/guyana/best-time-to-visit/",
         "/guyana/community-stays/",
         "/guyana/georgetown/",
         "/guyana/plan-your-rainforest-trip/",
         "/guyana/rainforest-accommodation/",
         "/guyana/river-journeys/",
-        "/guyana/rupununi/"
+        "/guyana/rupununi/",
+        "/guyana/wildlife/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -468,28 +642,32 @@
     },
     {
       "route": "/guyana/plan-your-rainforest-trip/",
-      "main_words": 1588,
+      "main_words": 1627,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/guyana/",
         "/guyana/georgetown/",
         "/guyana/rupununi/",
         "/guyana/river-journeys/",
+        "/guyana/best-time-to-visit/",
         "/guyana/community-stays/",
         "/guyana/rainforest-accommodation/",
-        "/guyana/iwokrama/"
+        "/guyana/iwokrama/",
+        "/guyana/wildlife/"
       ],
       "main_content_outlinks": [
         "/",
         "/colombia/",
         "/contact/",
         "/guyana/",
+        "/guyana/best-time-to-visit/",
         "/guyana/community-stays/",
         "/guyana/georgetown/",
         "/guyana/iwokrama/",
         "/guyana/rainforest-accommodation/",
         "/guyana/river-journeys/",
         "/guyana/rupununi/",
+        "/guyana/wildlife/",
         "/peru/"
       ],
       "css": [
@@ -508,27 +686,31 @@
     },
     {
       "route": "/guyana/rainforest-accommodation/",
-      "main_words": 1656,
+      "main_words": 1695,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/guyana/",
         "/guyana/georgetown/",
         "/guyana/rupununi/",
         "/guyana/river-journeys/",
+        "/guyana/best-time-to-visit/",
         "/guyana/community-stays/",
         "/guyana/iwokrama/",
-        "/guyana/plan-your-rainforest-trip/"
+        "/guyana/plan-your-rainforest-trip/",
+        "/guyana/wildlife/"
       ],
       "main_content_outlinks": [
         "/",
         "/contact/",
         "/guyana/",
+        "/guyana/best-time-to-visit/",
         "/guyana/community-stays/",
         "/guyana/georgetown/",
         "/guyana/iwokrama/",
         "/guyana/plan-your-rainforest-trip/",
         "/guyana/river-journeys/",
-        "/guyana/rupununi/"
+        "/guyana/rupununi/",
+        "/guyana/wildlife/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -546,27 +728,31 @@
     },
     {
       "route": "/guyana/river-journeys/",
-      "main_words": 1676,
+      "main_words": 1715,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/guyana/",
         "/guyana/georgetown/",
         "/guyana/rupununi/",
+        "/guyana/best-time-to-visit/",
         "/guyana/community-stays/",
         "/guyana/rainforest-accommodation/",
         "/guyana/iwokrama/",
-        "/guyana/plan-your-rainforest-trip/"
+        "/guyana/plan-your-rainforest-trip/",
+        "/guyana/wildlife/"
       ],
       "main_content_outlinks": [
         "/",
         "/contact/",
         "/guyana/",
+        "/guyana/best-time-to-visit/",
         "/guyana/community-stays/",
         "/guyana/georgetown/",
         "/guyana/iwokrama/",
         "/guyana/plan-your-rainforest-trip/",
         "/guyana/rainforest-accommodation/",
-        "/guyana/rupununi/"
+        "/guyana/rupununi/",
+        "/guyana/wildlife/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -584,12 +770,56 @@
     },
     {
       "route": "/guyana/rupununi/",
-      "main_words": 1526,
+      "main_words": 1565,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/guyana/",
         "/guyana/georgetown/",
         "/guyana/river-journeys/",
+        "/guyana/best-time-to-visit/",
+        "/guyana/community-stays/",
+        "/guyana/rainforest-accommodation/",
+        "/guyana/iwokrama/",
+        "/guyana/plan-your-rainforest-trip/",
+        "/guyana/wildlife/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/contact/",
+        "/guyana/",
+        "/guyana/best-time-to-visit/",
+        "/guyana/community-stays/",
+        "/guyana/georgetown/",
+        "/guyana/iwokrama/",
+        "/guyana/plan-your-rainforest-trip/",
+        "/guyana/rainforest-accommodation/",
+        "/guyana/river-journeys/",
+        "/guyana/wildlife/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/guyana.css?v=20f736e973de"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/guyana/wildlife/",
+      "main_words": 1692,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/guyana/",
+        "/guyana/georgetown/",
+        "/guyana/rupununi/",
+        "/guyana/river-journeys/",
+        "/guyana/best-time-to-visit/",
         "/guyana/community-stays/",
         "/guyana/rainforest-accommodation/",
         "/guyana/iwokrama/",
@@ -599,12 +829,14 @@
         "/",
         "/contact/",
         "/guyana/",
+        "/guyana/best-time-to-visit/",
         "/guyana/community-stays/",
         "/guyana/georgetown/",
         "/guyana/iwokrama/",
         "/guyana/plan-your-rainforest-trip/",
         "/guyana/rainforest-accommodation/",
-        "/guyana/river-journeys/"
+        "/guyana/river-journeys/",
+        "/guyana/rupununi/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
