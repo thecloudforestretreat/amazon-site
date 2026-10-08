@@ -2,101 +2,203 @@
   "editorial_status": "reviewed",
   "review_date": "2026-10-08",
   "images": {
-    "amazon-river-canoe-aerial": {
-      "src": "/assets/images/pages/countries/brazil/optimized/amazon-river-canoe-aerial.webp",
+    "leticia-colombia-border-direction-sign-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/leticia-colombia-border-direction-sign-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "9706a51eb9df2b14f9d80d73e57f29be70e101cf84c8a2e2b855b1bda724cc43"
+    },
+    "amazon-red-macaws-under-thatched-roof-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-red-macaws-under-thatched-roof-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "f7735c2b55700cd1ed350ef139908894da0a2541f86b3c011731ef9b5d2cc930"
+    },
+    "amazon-meandering-river-aerial-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-meandering-river-aerial-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "c6546f300e37a65a07cac13d516b286c00c43dbd1812354b1eeacd6087249dd1"
+    },
+    "amazon-forest-buttress-tree-hiker-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-forest-buttress-tree-hiker-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "2f414af8e0d165e636fb6480106701316e22d712fdca6d679bd3cf2168a724e5"
+    },
+    "amazon-forest-canoe-bow-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-forest-canoe-bow-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "5d74cddf67f036d0fe65044bf09c05ccd2352960dcb25b47ac831b9fb583643f"
+    },
+    "amazon-riverside-houses-canoe-travelers": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-houses-canoe-travelers.webp",
       "width": 1800,
       "height": 1200,
-      "alt": {
-        "en": "A small canoe on a broad forest-lined river",
-        "es": "Canoa pequeña en un río amplio rodeado de bosque"
-      },
       "attribution_required": false,
-      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
-      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
-      "original_sha256": "26b33e2ec42e4dc57078b544300135bd21935c8b119d9ced274f345735162ec0",
-      "web_sha256": "2c824e544debf5ec678e62665e06fb969d3bfe0a851dad7fe2c2a2ac38c1b614",
-      "original_bytes": 363258,
-      "web_bytes": 264580
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "c14bc7039ac65660ccb759932a2aaa09446c95e7dc52d7b7a16ab05bf68a9209"
     },
-    "amazon-guided-boat-excursion": {
-      "src": "/assets/images/pages/countries/brazil/optimized/amazon-guided-boat-excursion.webp",
+    "leticia-tabatinga-iquitos-direction-signs": {
+      "src": "/assets/images/pages/countries/colombia/optimized/leticia-tabatinga-iquitos-direction-signs.webp",
       "width": 1800,
       "height": 1200,
-      "alt": {
-        "en": "Travelers on a boat excursion along a forest river",
-        "es": "Viajeros en una excursión en embarcación por un río junto al bosque"
-      },
       "attribution_required": false,
-      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
-      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
-      "original_sha256": "5f74914182bee3a0ac70a5ca5b2eabef4e9c03b9b0bcbc80caeabd175c55a44b",
-      "web_sha256": "0ed71e923f93211af1a0ac5d47a559065c094dc4c832785ddc14618f23665f1f",
-      "original_bytes": 316368,
-      "web_bytes": 202552
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "65b3dfaad25e66b4840b38fd9f11a763d0e07130c3042ddb80677c5f0b2ad976"
     },
-    "amazon-forest-island-channels-aerial": {
-      "src": "/assets/images/pages/countries/brazil/optimized/amazon-forest-island-channels-aerial.webp",
+    "amazon-riverside-harbor-canoes": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-harbor-canoes.webp",
       "width": 1800,
       "height": 1200,
-      "alt": {
-        "en": "Forest-covered islands separated by dark river channels",
-        "es": "Islas cubiertas de bosque separadas por canales fluviales oscuros"
-      },
       "attribution_required": false,
-      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
-      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
-      "original_sha256": "cf89c0af136837a31eb9d92e79db30d4f621405ee7219a863ff612b42396ef63",
-      "web_sha256": "f47b1ea9681739a8bf2bb3c6aca5f2b4c7a337f5eb2d23d4f5594eb0b904c8ce",
-      "original_bytes": 634815,
-      "web_bytes": 524420
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "306456ac24e5cd183f10d1d8dd180e57be3a701c95c6a0f505fc4343827b4018"
     },
-    "amazon-lodge-reflection": {
-      "src": "/assets/images/pages/countries/brazil/optimized/amazon-lodge-reflection.webp",
+    "amazon-riverside-town-and-forest-view": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-town-and-forest-view.webp",
       "width": 1800,
       "height": 1200,
-      "alt": {
-        "en": "A thatched lodge reflected in calm water, illustrative accommodation photograph",
-        "es": "Lodge con techo de paja reflejado en aguas tranquilas, fotografía ilustrativa de alojamiento"
-      },
       "attribution_required": false,
-      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
-      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
-      "original_sha256": "1d1296a0282d7f2e1a3e7fa23cd393098729201800a772af58a33d586c74d825",
-      "web_sha256": "fcde1b69f92a3720517186bb7ba757699f555c5011862548e8675f37d94df1a8",
-      "original_bytes": 691711,
-      "web_bytes": 515560
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "7976d853227666cb56379c73509401e8cbce62193c80eb972601c6fb4ef6c9f2"
     },
-    "sloth-in-tree-portrait": {
-      "src": "/assets/images/pages/countries/brazil/optimized/sloth-in-tree-portrait.webp",
-      "width": 1440,
-      "height": 1800,
-      "alt": {
-        "en": "A sloth hanging from a tree branch",
-        "es": "Perezoso colgado de una rama"
-      },
-      "attribution_required": false,
-      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
-      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
-      "original_sha256": "c89192a7c86820379f60fa20343fb3b95a3c5b0a47c43648f4fefbb651b4c439",
-      "web_sha256": "40a7313e307d0c280fbf898ddf2a0cb9b02242a1a2a76c586c2204750c9070e0",
-      "original_bytes": 429838,
-      "web_bytes": 409496
-    },
-    "amazon-river-palm-forest": {
-      "src": "/assets/images/pages/countries/brazil/optimized/amazon-river-palm-forest.webp",
+    "amazon-river-and-town-aerial": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-river-and-town-aerial.webp",
       "width": 1800,
       "height": 1200,
-      "alt": {
-        "en": "Palms and dense forest along a riverbank",
-        "es": "Palmeras y bosque denso junto a la orilla de un río"
-      },
       "attribution_required": false,
-      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
-      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
-      "original_sha256": "b1be430192a6e7d2a6f87feb13dd7bc6bdb89b0983d5c48a005356db5807741f",
-      "web_sha256": "ab9feee6239a89246f52c0eb2beba9343c94a8bd572d457d0b639618521db197",
-      "original_bytes": 659469,
-      "web_bytes": 508908
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "49e955c22842faa8ceb957a91d13ac0da6e15ad40b04c6fc36719c55bc488826"
+    },
+    "amazon-village-raised-wooden-walkway": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-village-raised-wooden-walkway.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "3aff028da8964a9d485d5977e0985c66ad8d5894f6ecd4bc22ccc684f31e1b0c"
+    },
+    "amazon-rainforest-walk-traveler": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-rainforest-walk-traveler.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "cbf7ca9da828d289b62bfb0b2131d6be383d8af77355342665bf047971d3b6e7"
+    },
+    "amazon-village-wooden-house-path": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-village-wooden-house-path.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "3221726059505de3b312f9ef077e707fc8435a93c58a6252cedbef85c6063d7b"
+    },
+    "amazon-cultural-crafts-display": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-cultural-crafts-display.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "b1dd3bae7f67382376912a814d8d7fc3d83ecdbf46fcfb43a09c3e45d0157c64"
+    },
+    "tropical-thatched-lodge-hammock-deck": {
+      "src": "/assets/images/pages/countries/colombia/optimized/tropical-thatched-lodge-hammock-deck.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "39dca7d4bd263af53f028c29370ffbbb4dff742582ea70fd76659b3be4239620"
+    },
+    "forest-lakeside-lodge-reflection": {
+      "src": "/assets/images/pages/countries/colombia/optimized/forest-lakeside-lodge-reflection.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "92f0d9cfcbebf7fe84771819ecc8fc6d6a7be6fcb63c49ff28fdff3e855e0945"
+    },
+    "amazon-riverside-houses-solo-canoe": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-houses-solo-canoe.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "4bd9bea9268cbc0bcc2386d65c5cee66a7ed7ebd17a447b4841ca9547da61624"
+    },
+    "amazon-canoe-group-lake-journey": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-canoe-group-lake-journey.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "da66207331cffb985492857cc246b422dfad57c6a979593883782a13ddb4e594"
+    },
+    "amazon-wooden-canoes-riverbank": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-wooden-canoes-riverbank.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "81e0ad56c85c2348710769d5fa9421e652dea9b7ee3c80b9ba9249304d07528b"
+    },
+    "amazon-monkey-on-tree-portrait": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-monkey-on-tree-portrait.webp",
+      "width": 1200,
+      "height": 1500,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "44859842ae4884f5f074597ec825949e5b2bf52841f38c018c5df93983bac3ef"
+    },
+    "jaguar-resting-paws-portrait": {
+      "src": "/assets/images/pages/countries/colombia/optimized/jaguar-resting-paws-portrait.webp",
+      "width": 1200,
+      "height": 1500,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "7d1cfd98f1f1f8b693e74735230399e78bab94006002f812a27c6c888047cb8d"
+    },
+    "jaguar-in-foliage-portrait": {
+      "src": "/assets/images/pages/countries/colombia/optimized/jaguar-in-foliage-portrait.webp",
+      "width": 1200,
+      "height": 1500,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "01a4707d5d87b51646cbe6aba2da7a0992ef39ad3b8b0ef3b5264c8ee65c36be"
     }
   },
   "pages": {
@@ -105,17 +207,17 @@
         "type": "destination-guide",
         "pair_id": "colombia_leticia_001",
         "hero": [
-          "amazon-river-canoe-aerial",
-          "A small canoe on a broad forest-lined river"
+          "leticia-colombia-border-direction-sign-wide",
+          "Sign welcoming visitors to Leticia with directions toward Colombia, Brazil and Peru"
         ],
         "features": {
           "1": [
-            "amazon-guided-boat-excursion",
-            "Travelers on a boat excursion along a forest river"
+            "leticia-tabatinga-iquitos-direction-signs",
+            "Direction signs for Leticia, Tabatinga and Iquitos"
           ],
           "4": [
-            "amazon-river-palm-forest",
-            "Palms and dense forest along a riverbank"
+            "amazon-riverside-harbor-canoes",
+            "Canoes and boats gathered at a riverside harbor"
           ]
         },
         "feature_sides": {
@@ -342,17 +444,17 @@
         "type": "destination-guide",
         "pair_id": "colombia_leticia_001",
         "hero": [
-          "amazon-river-canoe-aerial",
-          "Una pequeña canoa en un amplio río bordeado de bosque"
+          "leticia-colombia-border-direction-sign-wide",
+          "Letrero de bienvenida a Leticia con direcciones hacia Colombia, Brasil y Perú"
         ],
         "features": {
           "1": [
-            "amazon-guided-boat-excursion",
-            "Viajeros en una excursión en bote a lo largo de un río boscoso"
+            "leticia-tabatinga-iquitos-direction-signs",
+            "Letreros de dirección hacia Leticia, Tabatinga e Iquitos"
           ],
           "4": [
-            "amazon-river-palm-forest",
-            "Palmeras y bosque denso junto a la orilla de un río"
+            "amazon-riverside-harbor-canoes",
+            "Canoas y embarcaciones reunidas en un puerto fluvial"
           ]
         },
         "feature_sides": {
@@ -581,17 +683,17 @@
         "type": "destination-guide",
         "pair_id": "colombia_puerto-narino_001",
         "hero": [
-          "amazon-forest-island-channels-aerial",
-          "Forest-covered islands separated by dark river channels"
+          "amazon-riverside-town-and-forest-view",
+          "River beside a town and leafy forest canopy"
         ],
         "features": {
           "1": [
-            "amazon-lodge-reflection",
-            "A thatched lodge reflected in calm water, illustrative accommodation photograph"
+            "amazon-river-and-town-aerial",
+            "Aerial view of a riverside town and broad river"
           ],
           "4": [
-            "sloth-in-tree-portrait",
-            "A sloth hanging from a tree branch"
+            "amazon-village-raised-wooden-walkway",
+            "Raised wooden walkway through a green village landscape"
           ]
         },
         "feature_sides": {
@@ -818,17 +920,17 @@
         "type": "destination-guide",
         "pair_id": "colombia_puerto-narino_001",
         "hero": [
-          "amazon-forest-island-channels-aerial",
-          "Islas cubiertas de bosque separadas por canales oscuros del río"
+          "amazon-riverside-town-and-forest-view",
+          "Río junto a un poblado y un dosel de bosque frondoso"
         ],
         "features": {
           "1": [
-            "amazon-lodge-reflection",
-            "Un lodge con techo de palma reflejado en el agua tranquila, fotografía ilustrativa del alojamiento"
+            "amazon-river-and-town-aerial",
+            "Vista aérea de un poblado ribereño y un río amplio"
           ],
           "4": [
-            "sloth-in-tree-portrait",
-            "Un perezoso colgado de una rama"
+            "amazon-village-raised-wooden-walkway",
+            "Pasarela elevada de madera entre la vegetación de un poblado"
           ]
         },
         "feature_sides": {

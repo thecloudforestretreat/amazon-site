@@ -2,7 +2,7 @@
   "country": "colombia",
   "date": "2026-10-08",
   "owner_authorized": true,
-  "scope": "Protected staging; no Colombia production authorization",
+  "scope": "Owner authorized Colombia production release; pending rendered and authenticated staging QA",
   "planned_pairs": 12,
   "planned_pages": 24,
   "batch_size_pairs": 2,
@@ -10,7 +10,7 @@
     "Colombia overview",
     "Trip planning",
     "Leticia",
-    "Puerto Nariño",
+    "Puerto Nari\u00f1o",
     "Amacayacu",
     "Tarapoto lakes",
     "Amazon accommodation",
@@ -25,11 +25,11 @@
     "Trip planning"
   ],
   "staged_pairs": 12,
-  "status": "all_twelve_pairs_staged_technical_pass_release_holds",
+  "status": "images_updated_technical_pass_visual_review_blocked",
   "quality_standard": "Same shared CSS, meaningful bilingual content, contextual internal links, reviewed facts and licensed imagery; no repeated scene within a page",
   "staged_pages": 24,
-  "deployment": "831f0904",
-  "previous_staging_deployment": "ecf99752",
+  "deployment": "430fe721",
+  "previous_staging_deployment": "831f0904",
   "qa": {
     "compiled_site_pages": 172,
     "country_pages": 24,
@@ -42,19 +42,20 @@
     "distinct_images_per_page": 3,
     "access_redirects": 4,
     "production_containment_pass": true,
-    "visual_review": "Blocked: browser admin-enforced policy could not be verified; no workaround used",
+    "visual_review": "Blocked: browser admin-enforced policy could not be verified",
     "authenticated_readback": "Pending",
-    "image_review": "Visible subjects reviewed; destination-specific imagery pending before release",
+    "image_review": "Owner upload applied; six unsuitable or uncertain candidates excluded; 72 placements verified",
     "main_content_inlink_range": [
       11,
       12
-    ]
+    ],
+    "contact_tests": 20
   },
   "local_tokens_recorded": 69401,
   "next_batch": [],
   "second_batch": [
     "Leticia",
-    "Puerto Nariño"
+    "Puerto Nari\u00f1o"
   ],
   "third_batch": [
     "Amacayacu",
@@ -73,5 +74,5 @@
     "How to get there",
     "Packing"
   ],
-  "next_step": "Destination imagery, rendered and authenticated QA, then full-country release review"
+  "next_step": "Complete desktop/mobile visual review and authenticated staging readback, then owner-authorized production release"
 }

@@ -1,0 +1,90 @@
+{
+  "status": "protected_staging_deployed_technical_pass_visual_blocked",
+  "source_commit": "12bfe2c",
+  "mapping": {
+    "hub": [
+      "amazon-meandering-river-aerial-wide",
+      "leticia-colombia-border-direction-sign-wide",
+      "amazon-monkey-on-tree-portrait"
+    ],
+    "planning": [
+      "amazon-canoe-group-lake-journey",
+      "amazon-rainforest-walk-traveler",
+      "amazon-wooden-canoes-riverbank"
+    ],
+    "leticia": [
+      "leticia-colombia-border-direction-sign-wide",
+      "leticia-tabatinga-iquitos-direction-signs",
+      "amazon-riverside-harbor-canoes"
+    ],
+    "puerto-narino": [
+      "amazon-riverside-town-and-forest-view",
+      "amazon-river-and-town-aerial",
+      "amazon-village-raised-wooden-walkway"
+    ],
+    "amacayacu": [
+      "amazon-forest-buttress-tree-hiker-wide",
+      "amazon-rainforest-walk-traveler",
+      "amazon-cultural-crafts-display"
+    ],
+    "accommodation": [
+      "forest-lakeside-lodge-reflection",
+      "tropical-thatched-lodge-hammock-deck",
+      "amazon-village-wooden-house-path"
+    ],
+    "river": [
+      "amazon-canoe-group-lake-journey",
+      "amazon-riverside-houses-canoe-travelers",
+      "amazon-wooden-canoes-riverbank"
+    ],
+    "timing": [
+      "amazon-forest-canoe-bow-wide",
+      "amazon-meandering-river-aerial-wide",
+      "amazon-riverside-houses-solo-canoe"
+    ],
+    "wildlife": [
+      "jaguar-in-foliage-portrait",
+      "amazon-monkey-on-tree-portrait",
+      "amazon-red-macaws-under-thatched-roof-wide"
+    ],
+    "access": [
+      "leticia-tabatinga-iquitos-direction-signs",
+      "amazon-riverside-harbor-canoes",
+      "amazon-riverside-houses-solo-canoe"
+    ],
+    "packing": [
+      "amazon-rainforest-walk-traveler",
+      "amazon-forest-canoe-bow-wide",
+      "tropical-thatched-lodge-hammock-deck"
+    ],
+    "tarapoto": [
+      "amazon-forest-canoe-bow-wide",
+      "amazon-canoe-group-lake-journey",
+      "forest-lakeside-lodge-reflection"
+    ]
+  },
+  "excluded": [
+    "tropical-hillside-lake-covered-boat",
+    "tropical-hillside-river-canoe",
+    "tropical-lake-view-traveler-on-dock",
+    "orange-frog-on-leaves-portrait",
+    "multicolored-bill-toucan-portrait",
+    "green-bird-on-branch-portrait"
+  ],
+  "excluded_reason": "Hillside geography or species suitability uncertain; not used for Colombia Amazon claims",
+  "pages": 24,
+  "pairs": 12,
+  "visual_review": "Browser admin-enforced policy unavailable; pending",
+  "production_authorized": true,
+  "deployment": "430fe721",
+  "rollback": "831f0904",
+  "qa": {
+    "compiled_pages": 172,
+    "colombia_pages": 24,
+    "errors": 0,
+    "shared_css_tests": 4,
+    "contact_tests": 20,
+    "all_72_placements_colombia_uploads": true,
+    "unique_assets_per_page": 3
+  }
+}
