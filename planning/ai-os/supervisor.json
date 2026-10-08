@@ -1,7 +1,7 @@
 {
   "project": "experience-the-amazon",
   "branch": "staging",
-  "scope": "Homepage, Ecuador, Peru, Bolivia and Brazil live after owner-authorized releases; Brazil visual/inbox QA pending",
+  "scope": "Homepage, Ecuador, Peru, Bolivia and Brazil live; Colombia staging authorized",
   "supervision": {
     "kind": "thread heartbeat",
     "automation_id": "amazon-staging-supervisor",
@@ -66,8 +66,9 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Confirm new guest acknowledgment reaches inbox after real submission",
-    "Then begin prepared Colombia overview and trip planning EN/ES"
+    "Develop Colombia overview and trip planning EN/ES with local bounded drafting",
+    "Review facts/images, shared CSS and technical/visual QA before protected staging promotion",
+    "Keep Colombia excluded from production until country QA and separate owner release approval"
   ],
   "future_batches": [
     "Reviews deferred by owner; exclude from Ecuador launch",
@@ -111,10 +112,10 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "Access EN/ES",
-    "Packing EN/ES"
+    "Colombia overview",
+    "Trip planning"
   ],
-  "batch_status": "Brazil live; owner visual and admin inbox confirmed. Guest acknowledgment implemented production 2c3f98fb; real guest inbox confirmation pending.",
+  "batch_status": "Colombia first two-pair batch authorized; Brazil owner acceptance recorded",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",
@@ -452,6 +453,6 @@
     "sitemap_submitted": true,
     "inbox_delivery_confirmed": true
   },
-  "active_country": "brazil",
-  "active_country_state": "planning/ai-os/brazil-progress.json"
+  "active_country": "colombia",
+  "active_country_state": "planning/ai-os/colombia-progress.json"
 }

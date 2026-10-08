@@ -1,0 +1,30 @@
+{
+  "country": "colombia",
+  "date": "2026-10-08",
+  "owner_authorized": true,
+  "scope": "Protected staging; no Colombia production authorization",
+  "planned_pairs": 12,
+  "planned_pages": 24,
+  "batch_size_pairs": 2,
+  "topics": [
+    "Colombia overview",
+    "Trip planning",
+    "Leticia",
+    "Puerto Nariño",
+    "Amacayacu",
+    "Tarapoto lakes",
+    "Amazon accommodation",
+    "River journeys",
+    "Best time to visit",
+    "Wildlife",
+    "How to get there",
+    "Packing"
+  ],
+  "first_batch": [
+    "Colombia overview",
+    "Trip planning"
+  ],
+  "staged_pairs": 0,
+  "status": "first_batch_started_source_and_local_drafting",
+  "quality_standard": "Same shared CSS, meaningful bilingual content, contextual internal links, reviewed facts and licensed imagery; no repeated scene within a page"
+}

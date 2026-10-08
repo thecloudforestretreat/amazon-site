@@ -1,6 +1,6 @@
 {
   "country": "colombia",
-  "status": "prepared_pending_brazil_inbox_confirmation",
+  "status": "authorized_ready_for_local_draft",
   "authorization": "Owner asked to finish Brazil QA and move to next country October 8, 2026; Colombia follows homepage order",
   "batch_size_pairs": 2,
   "first_batch": [
@@ -63,5 +63,5 @@
     "Technical and rendered desktop/mobile QA; protected staging readback",
     "Production scope must continue excluding Colombia until separately approved"
   ],
-  "note": "Research and brief only; new pages not started while Brazil delivery QA remains unresolved."
+  "note": "Owner authorized Colombia development October 8, 2026; protected staging only."
 }

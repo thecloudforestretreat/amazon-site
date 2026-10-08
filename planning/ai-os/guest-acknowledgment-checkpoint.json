@@ -15,5 +15,10 @@
   "live_ui_endpoint_verified": true,
   "real_admin_delivery": "Owner confirmed Brazil admin email arrived October 8, 2026",
   "guest_inbox_delivery": "Pending real submission and owner confirmation; browser admin policy unavailable",
-  "local_worker_tokens": 0
+  "local_worker_tokens": 0,
+  "owner_acceptance": {
+    "date": "2026-10-08",
+    "statement": "ok perfect, lets push all live and proceed to next country",
+    "status": "Guest-confirmation implementation accepted; no independent provider delivery log collected"
+  }
 }
