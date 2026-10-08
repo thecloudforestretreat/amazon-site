@@ -1,6 +1,6 @@
 {
   "editorial_status": "reviewed",
-  "review_date": "2026-10-07",
+  "review_date": "2026-10-08",
   "images": {
     "amazon-forest-river-aerial": {
       "width": 1600,
@@ -114,6 +114,14 @@
           [
             "/brazil/river-journeys/",
             "River journeys"
+          ],
+          [
+            "/brazil/best-time-to-visit/",
+            "Choose your dates"
+          ],
+          [
+            "/brazil/wildlife/",
+            "Wildlife observation"
           ]
         ],
         "context_links": [
@@ -148,6 +156,14 @@
           [
             "Brazil river journey guide",
             "/brazil/river-journeys/"
+          ],
+          [
+            "Brazil timing guide",
+            "/brazil/best-time-to-visit/"
+          ],
+          [
+            "Brazil wildlife guide",
+            "/brazil/wildlife/"
           ]
         ],
         "feature_sides": {
@@ -281,7 +297,7 @@
           [
             "Turn the gateway into a complete plan",
             "Use the Brazil planning guide to connect your available dates with a realistic number of city and forest days. Share your arrival details, traveler count, interests and the comforts you need. Mention already booked connections so the proposal can take account of the commitments you cannot easily change.",
-            "Compare a city-plus-lodge version with a city-plus-river version if you are unsure. Ask both to show the overnight locations, transfers, usable activity time and total inclusions. The better option is the one that makes your priorities practical, not necessarily the one with the most stops or the shortest time in town. Compare the Anavilhanas guide for an archipelago-focused stay, or the Alter do Chão guide for a river-and-village option in the Tapajós region. Treat these regions as alternatives with their own connection plans. The Brazil lodge guide helps compare a fixed overnight base, while the Brazil river journey guide explains route choices and life aboard. Assess both formats by exploration time and the daily comfort you need."
+            "Compare a city-plus-lodge version with a city-plus-river version if you are unsure. Ask both to show the overnight locations, transfers, usable activity time and total inclusions. The better option is the one that makes your priorities practical, not necessarily the one with the most stops or the shortest time in town. Compare the Anavilhanas guide for an archipelago-focused stay, or the Alter do Chão guide for a river-and-village option in the Tapajós region. Treat these regions as alternatives with their own connection plans. The Brazil lodge guide helps compare a fixed overnight base, while the Brazil river journey guide explains route choices and life aboard. Assess both formats by exploration time and the daily comfort you need. Use the Brazil timing guide to choose your dates and the Brazil wildlife guide to frame observation expectations."
           ]
         ]
       },
@@ -319,6 +335,14 @@
           [
             "/es/brazil/viajes-fluviales/",
             "Viajes fluviales"
+          ],
+          [
+            "/es/brazil/mejor-epoca-para-visitar/",
+            "Cuándo viajar"
+          ],
+          [
+            "/es/brazil/fauna/",
+            "Observación de fauna"
           ]
         ],
         "context_links": [
@@ -357,6 +381,14 @@
           [
             "guía de viajes fluviales de Brasil",
             "/es/brazil/viajes-fluviales/"
+          ],
+          [
+            "guía de temporadas de Brasil",
+            "/es/brazil/mejor-epoca-para-visitar/"
+          ],
+          [
+            "guía de fauna de Brasil",
+            "/es/brazil/fauna/"
           ]
         ],
         "feature_sides": {
@@ -490,7 +522,7 @@
           [
             "Convierte la llegada en un plan completo",
             "Usa la guía de planificación de Brasil para conectar tus fechas disponibles con un número realista de días urbanos y forestales. Comparte tus detalles de llegada, número de viajeros, intereses y las comodidades que necesitas. Menciona conexiones ya reservadas para que la propuesta pueda tener en cuenta los compromisos que no puedes cambiar fácilmente.",
-            "Si tienes dudas, compara una propuesta de ciudad y lodge con otra de ciudad y recorrido fluvial. Pide que ambas indiquen dónde dormirás, los traslados, el tiempo para realizar actividades y los servicios incluidos. Elige la que haga viables tus prioridades, en lugar de valorar únicamente la cantidad de paradas o reducir al mínimo el tiempo en Manaus. Compara la guía de Anavilhanas para una estancia centrada en el archipiélago, o la guía de Alter do Chão para una opción de río y pueblo en la región del Tapajós. Trata estas regiones como alternativas que necesitan su propio plan de conexiones. La guía de lodges de Brasil ayuda a comparar un alojamiento fijo, mientras que la guía de viajes fluviales de Brasil explica las decisiones sobre la ruta y la vida a bordo. Evalúa ambos formatos según el tiempo para explorar y la comodidad que necesitas."
+            "Si tienes dudas, compara una propuesta de ciudad y lodge con otra de ciudad y recorrido fluvial. Pide que ambas indiquen dónde dormirás, los traslados, el tiempo para realizar actividades y los servicios incluidos. Elige la que haga viables tus prioridades, en lugar de valorar únicamente la cantidad de paradas o reducir al mínimo el tiempo en Manaus. Compara la guía de Anavilhanas para una estancia centrada en el archipiélago, o la guía de Alter do Chão para una opción de río y pueblo en la región del Tapajós. Trata estas regiones como alternativas que necesitan su propio plan de conexiones. La guía de lodges de Brasil ayuda a comparar un alojamiento fijo, mientras que la guía de viajes fluviales de Brasil explica las decisiones sobre la ruta y la vida a bordo. Evalúa ambos formatos según el tiempo para explorar y la comodidad que necesitas. Consulta la guía de temporadas de Brasil para elegir tus fechas y la guía de fauna de Brasil para ajustar las expectativas de observación."
           ]
         ]
       }
@@ -530,6 +562,14 @@
           [
             "/brazil/river-journeys/",
             "River journeys"
+          ],
+          [
+            "/brazil/best-time-to-visit/",
+            "Choose your dates"
+          ],
+          [
+            "/brazil/wildlife/",
+            "Wildlife observation"
           ]
         ],
         "context_links": [
@@ -564,6 +604,14 @@
           [
             "Brazil river journey guide",
             "/brazil/river-journeys/"
+          ],
+          [
+            "Brazil timing guide",
+            "/brazil/best-time-to-visit/"
+          ],
+          [
+            "Brazil wildlife guide",
+            "/brazil/wildlife/"
           ]
         ],
         "feature_sides": {
@@ -693,7 +741,7 @@
           [
             "Put your priorities into the next conversation",
             "Use the Brazil planning guide to organize dates, traveler count, overnight preferences and any essential comfort or access requirements. Add the observation interests that would make the journey memorable. You do not need to choose every stop in advance, but a clear outline makes the initial proposal more useful.",
-            "Request a focused lodge-based version and a vessel-based version if you are undecided. Compare their exploration time, movement and daily living arrangements before adding another region. A thoughtful Rio Negro journey should explain how the route supports your interests and where flexibility is possible, rather than simply offering the longest list of included activities. Compare the Anavilhanas guide for an archipelago-focused stay, or the Alter do Chão guide for a river-and-village option in the Tapajós region. Treat these regions as alternatives with their own connection plans. The Brazil lodge guide helps compare a fixed overnight base, while the Brazil river journey guide explains route choices and life aboard. Assess both formats by exploration time and the daily comfort you need."
+            "Request a focused lodge-based version and a vessel-based version if you are undecided. Compare their exploration time, movement and daily living arrangements before adding another region. A thoughtful Rio Negro journey should explain how the route supports your interests and where flexibility is possible, rather than simply offering the longest list of included activities. Compare the Anavilhanas guide for an archipelago-focused stay, or the Alter do Chão guide for a river-and-village option in the Tapajós region. Treat these regions as alternatives with their own connection plans. The Brazil lodge guide helps compare a fixed overnight base, while the Brazil river journey guide explains route choices and life aboard. Assess both formats by exploration time and the daily comfort you need. Use the Brazil timing guide to choose your dates and the Brazil wildlife guide to frame observation expectations."
           ]
         ]
       },
@@ -731,6 +779,14 @@
           [
             "/es/brazil/viajes-fluviales/",
             "Viajes fluviales"
+          ],
+          [
+            "/es/brazil/mejor-epoca-para-visitar/",
+            "Cuándo viajar"
+          ],
+          [
+            "/es/brazil/fauna/",
+            "Observación de fauna"
           ]
         ],
         "context_links": [
@@ -769,6 +825,14 @@
           [
             "guía de viajes fluviales de Brasil",
             "/es/brazil/viajes-fluviales/"
+          ],
+          [
+            "guía de temporadas de Brasil",
+            "/es/brazil/mejor-epoca-para-visitar/"
+          ],
+          [
+            "guía de fauna de Brasil",
+            "/es/brazil/fauna/"
           ]
         ],
         "feature_sides": {
@@ -898,7 +962,7 @@
           [
             "Pon tus prioridades en la próxima conversación",
             "Usa la guía de planificación de Brasil para organizar tus fechas, el número de viajeros y el alojamiento que prefieres. Añade las necesidades esenciales de comodidad o accesibilidad y los intereses de observación que harían memorable el viaje. No necesitas decidir cada parada antes de consultar, pero un esquema claro ayuda a recibir una propuesta más útil.",
-            "Si tienes dudas, pide una propuesta con base en un lodge y otra a bordo de una embarcación. Compara el tiempo para explorar, los desplazamientos y la vida diaria antes de añadir otra región. Una ruta bien pensada por el Rio Negro explica cómo encaja con tus intereses y qué flexibilidad ofrece, en lugar de presentar únicamente una lista más larga de actividades. Compara la guía de Anavilhanas para una estancia centrada en el archipiélago, o la guía de Alter do Chão para una opción de río y pueblo en la región del Tapajós. Trata estas regiones como alternativas que necesitan su propio plan de conexiones. La guía de lodges de Brasil ayuda a comparar un alojamiento fijo, mientras que la guía de viajes fluviales de Brasil explica las decisiones sobre la ruta y la vida a bordo. Evalúa ambos formatos según el tiempo para explorar y la comodidad que necesitas."
+            "Si tienes dudas, pide una propuesta con base en un lodge y otra a bordo de una embarcación. Compara el tiempo para explorar, los desplazamientos y la vida diaria antes de añadir otra región. Una ruta bien pensada por el Rio Negro explica cómo encaja con tus intereses y qué flexibilidad ofrece, en lugar de presentar únicamente una lista más larga de actividades. Compara la guía de Anavilhanas para una estancia centrada en el archipiélago, o la guía de Alter do Chão para una opción de río y pueblo en la región del Tapajós. Trata estas regiones como alternativas que necesitan su propio plan de conexiones. La guía de lodges de Brasil ayuda a comparar un alojamiento fijo, mientras que la guía de viajes fluviales de Brasil explica las decisiones sobre la ruta y la vida a bordo. Evalúa ambos formatos según el tiempo para explorar y la comodidad que necesitas. Consulta la guía de temporadas de Brasil para elegir tus fechas y la guía de fauna de Brasil para ajustar las expectativas de observación."
           ]
         ]
       }

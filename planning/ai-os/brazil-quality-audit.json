@@ -1,16 +1,18 @@
 {
-  "pages_audited": 16,
+  "pages_audited": 20,
   "errors": [],
   "pages": [
     {
       "route": "/brazil/",
-      "main_words": 1423,
+      "main_words": 1453,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/brazil/manaus/",
         "/brazil/rio-negro/",
         "/brazil/river-journeys/",
+        "/brazil/best-time-to-visit/",
         "/brazil/plan-your-amazon-trip/",
+        "/brazil/wildlife/",
         "/brazil/anavilhanas/",
         "/brazil/amazon-lodges/",
         "/brazil/alter-do-chao/"
@@ -21,10 +23,12 @@
         "/brazil/alter-do-chao/",
         "/brazil/amazon-lodges/",
         "/brazil/anavilhanas/",
+        "/brazil/best-time-to-visit/",
         "/brazil/manaus/",
         "/brazil/plan-your-amazon-trip/",
         "/brazil/rio-negro/",
         "/brazil/river-journeys/",
+        "/brazil/wildlife/",
         "/contact/",
         "/ecuador/",
         "/peru/"
@@ -45,14 +49,16 @@
     },
     {
       "route": "/brazil/alter-do-chao/",
-      "main_words": 1536,
+      "main_words": 1566,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/brazil/",
         "/brazil/manaus/",
         "/brazil/rio-negro/",
         "/brazil/river-journeys/",
+        "/brazil/best-time-to-visit/",
         "/brazil/plan-your-amazon-trip/",
+        "/brazil/wildlife/",
         "/brazil/anavilhanas/",
         "/brazil/amazon-lodges/"
       ],
@@ -61,10 +67,12 @@
         "/brazil/",
         "/brazil/amazon-lodges/",
         "/brazil/anavilhanas/",
+        "/brazil/best-time-to-visit/",
         "/brazil/manaus/",
         "/brazil/plan-your-amazon-trip/",
         "/brazil/rio-negro/",
         "/brazil/river-journeys/",
+        "/brazil/wildlife/",
         "/contact/"
       ],
       "css": [
@@ -83,14 +91,16 @@
     },
     {
       "route": "/brazil/amazon-lodges/",
-      "main_words": 1505,
+      "main_words": 1535,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/brazil/",
         "/brazil/manaus/",
         "/brazil/rio-negro/",
         "/brazil/river-journeys/",
+        "/brazil/best-time-to-visit/",
         "/brazil/plan-your-amazon-trip/",
+        "/brazil/wildlife/",
         "/brazil/anavilhanas/",
         "/brazil/alter-do-chao/"
       ],
@@ -99,10 +109,12 @@
         "/brazil/",
         "/brazil/alter-do-chao/",
         "/brazil/anavilhanas/",
+        "/brazil/best-time-to-visit/",
         "/brazil/manaus/",
         "/brazil/plan-your-amazon-trip/",
         "/brazil/rio-negro/",
         "/brazil/river-journeys/",
+        "/brazil/wildlife/",
         "/contact/"
       ],
       "css": [
@@ -121,14 +133,16 @@
     },
     {
       "route": "/brazil/anavilhanas/",
-      "main_words": 1475,
+      "main_words": 1505,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/brazil/",
         "/brazil/manaus/",
         "/brazil/rio-negro/",
         "/brazil/river-journeys/",
+        "/brazil/best-time-to-visit/",
         "/brazil/plan-your-amazon-trip/",
+        "/brazil/wildlife/",
         "/brazil/amazon-lodges/",
         "/brazil/alter-do-chao/"
       ],
@@ -137,10 +151,54 @@
         "/brazil/",
         "/brazil/alter-do-chao/",
         "/brazil/amazon-lodges/",
+        "/brazil/best-time-to-visit/",
         "/brazil/manaus/",
         "/brazil/plan-your-amazon-trip/",
         "/brazil/rio-negro/",
         "/brazil/river-journeys/",
+        "/brazil/wildlife/",
+        "/contact/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/brazil.css?v=f560c9754f9c"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/brazil/best-time-to-visit/",
+      "main_words": 1485,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/brazil/",
+        "/brazil/manaus/",
+        "/brazil/rio-negro/",
+        "/brazil/river-journeys/",
+        "/brazil/plan-your-amazon-trip/",
+        "/brazil/wildlife/",
+        "/brazil/anavilhanas/",
+        "/brazil/amazon-lodges/",
+        "/brazil/alter-do-chao/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/brazil/",
+        "/brazil/alter-do-chao/",
+        "/brazil/amazon-lodges/",
+        "/brazil/anavilhanas/",
+        "/brazil/manaus/",
+        "/brazil/plan-your-amazon-trip/",
+        "/brazil/rio-negro/",
+        "/brazil/river-journeys/",
+        "/brazil/wildlife/",
         "/contact/"
       ],
       "css": [
@@ -159,13 +217,15 @@
     },
     {
       "route": "/brazil/manaus/",
-      "main_words": 1505,
+      "main_words": 1535,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/brazil/",
         "/brazil/rio-negro/",
         "/brazil/river-journeys/",
+        "/brazil/best-time-to-visit/",
         "/brazil/plan-your-amazon-trip/",
+        "/brazil/wildlife/",
         "/brazil/anavilhanas/",
         "/brazil/amazon-lodges/",
         "/brazil/alter-do-chao/"
@@ -176,9 +236,11 @@
         "/brazil/alter-do-chao/",
         "/brazil/amazon-lodges/",
         "/brazil/anavilhanas/",
+        "/brazil/best-time-to-visit/",
         "/brazil/plan-your-amazon-trip/",
         "/brazil/rio-negro/",
         "/brazil/river-journeys/",
+        "/brazil/wildlife/",
         "/contact/"
       ],
       "css": [
@@ -197,13 +259,15 @@
     },
     {
       "route": "/brazil/plan-your-amazon-trip/",
-      "main_words": 1406,
+      "main_words": 1436,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/brazil/",
         "/brazil/manaus/",
         "/brazil/rio-negro/",
         "/brazil/river-journeys/",
+        "/brazil/best-time-to-visit/",
+        "/brazil/wildlife/",
         "/brazil/anavilhanas/",
         "/brazil/amazon-lodges/",
         "/brazil/alter-do-chao/"
@@ -215,9 +279,11 @@
         "/brazil/alter-do-chao/",
         "/brazil/amazon-lodges/",
         "/brazil/anavilhanas/",
+        "/brazil/best-time-to-visit/",
         "/brazil/manaus/",
         "/brazil/rio-negro/",
         "/brazil/river-journeys/",
+        "/brazil/wildlife/",
         "/contact/",
         "/ecuador/",
         "/peru/"
@@ -238,13 +304,15 @@
     },
     {
       "route": "/brazil/rio-negro/",
-      "main_words": 1479,
+      "main_words": 1509,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/brazil/",
         "/brazil/manaus/",
         "/brazil/river-journeys/",
+        "/brazil/best-time-to-visit/",
         "/brazil/plan-your-amazon-trip/",
+        "/brazil/wildlife/",
         "/brazil/anavilhanas/",
         "/brazil/amazon-lodges/",
         "/brazil/alter-do-chao/"
@@ -255,9 +323,11 @@
         "/brazil/alter-do-chao/",
         "/brazil/amazon-lodges/",
         "/brazil/anavilhanas/",
+        "/brazil/best-time-to-visit/",
         "/brazil/manaus/",
         "/brazil/plan-your-amazon-trip/",
         "/brazil/river-journeys/",
+        "/brazil/wildlife/",
         "/contact/"
       ],
       "css": [
@@ -276,12 +346,56 @@
     },
     {
       "route": "/brazil/river-journeys/",
-      "main_words": 1522,
+      "main_words": 1552,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/brazil/",
         "/brazil/manaus/",
         "/brazil/rio-negro/",
+        "/brazil/best-time-to-visit/",
+        "/brazil/plan-your-amazon-trip/",
+        "/brazil/wildlife/",
+        "/brazil/anavilhanas/",
+        "/brazil/amazon-lodges/",
+        "/brazil/alter-do-chao/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/brazil/",
+        "/brazil/alter-do-chao/",
+        "/brazil/amazon-lodges/",
+        "/brazil/anavilhanas/",
+        "/brazil/best-time-to-visit/",
+        "/brazil/manaus/",
+        "/brazil/plan-your-amazon-trip/",
+        "/brazil/rio-negro/",
+        "/brazil/wildlife/",
+        "/contact/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/brazil.css?v=f560c9754f9c"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/brazil/wildlife/",
+      "main_words": 1480,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/brazil/",
+        "/brazil/manaus/",
+        "/brazil/rio-negro/",
+        "/brazil/river-journeys/",
+        "/brazil/best-time-to-visit/",
         "/brazil/plan-your-amazon-trip/",
         "/brazil/anavilhanas/",
         "/brazil/amazon-lodges/",
@@ -293,9 +407,11 @@
         "/brazil/alter-do-chao/",
         "/brazil/amazon-lodges/",
         "/brazil/anavilhanas/",
+        "/brazil/best-time-to-visit/",
         "/brazil/manaus/",
         "/brazil/plan-your-amazon-trip/",
         "/brazil/rio-negro/",
+        "/brazil/river-journeys/",
         "/contact/"
       ],
       "css": [
@@ -314,13 +430,15 @@
     },
     {
       "route": "/es/brazil/",
-      "main_words": 1635,
+      "main_words": 1671,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/brazil/manaus/",
         "/es/brazil/rio-negro/",
         "/es/brazil/viajes-fluviales/",
         "/es/brazil/lodges-en-la-amazonia/",
+        "/es/brazil/fauna/",
+        "/es/brazil/mejor-epoca-para-visitar/",
         "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
         "/es/brazil/anavilhanas/",
         "/es/brazil/alter-do-chao/"
@@ -330,8 +448,10 @@
         "/es/bolivia/",
         "/es/brazil/alter-do-chao/",
         "/es/brazil/anavilhanas/",
+        "/es/brazil/fauna/",
         "/es/brazil/lodges-en-la-amazonia/",
         "/es/brazil/manaus/",
+        "/es/brazil/mejor-epoca-para-visitar/",
         "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
         "/es/brazil/rio-negro/",
         "/es/brazil/viajes-fluviales/",
@@ -355,7 +475,7 @@
     },
     {
       "route": "/es/brazil/alter-do-chao/",
-      "main_words": 1791,
+      "main_words": 1827,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/brazil/",
@@ -363,6 +483,8 @@
         "/es/brazil/rio-negro/",
         "/es/brazil/viajes-fluviales/",
         "/es/brazil/lodges-en-la-amazonia/",
+        "/es/brazil/fauna/",
+        "/es/brazil/mejor-epoca-para-visitar/",
         "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
         "/es/brazil/anavilhanas/"
       ],
@@ -371,8 +493,10 @@
         "/es/bolivia/",
         "/es/brazil/",
         "/es/brazil/anavilhanas/",
+        "/es/brazil/fauna/",
         "/es/brazil/lodges-en-la-amazonia/",
         "/es/brazil/manaus/",
+        "/es/brazil/mejor-epoca-para-visitar/",
         "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
         "/es/brazil/rio-negro/",
         "/es/brazil/viajes-fluviales/",
@@ -396,7 +520,7 @@
     },
     {
       "route": "/es/brazil/anavilhanas/",
-      "main_words": 1670,
+      "main_words": 1706,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/brazil/",
@@ -404,6 +528,8 @@
         "/es/brazil/rio-negro/",
         "/es/brazil/viajes-fluviales/",
         "/es/brazil/lodges-en-la-amazonia/",
+        "/es/brazil/fauna/",
+        "/es/brazil/mejor-epoca-para-visitar/",
         "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
         "/es/brazil/alter-do-chao/"
       ],
@@ -412,8 +538,10 @@
         "/es/bolivia/",
         "/es/brazil/",
         "/es/brazil/alter-do-chao/",
+        "/es/brazil/fauna/",
         "/es/brazil/lodges-en-la-amazonia/",
         "/es/brazil/manaus/",
+        "/es/brazil/mejor-epoca-para-visitar/",
         "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
         "/es/brazil/rio-negro/",
         "/es/brazil/viajes-fluviales/",
@@ -436,14 +564,16 @@
       "issues": []
     },
     {
-      "route": "/es/brazil/lodges-en-la-amazonia/",
-      "main_words": 1686,
+      "route": "/es/brazil/fauna/",
+      "main_words": 1549,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/brazil/",
         "/es/brazil/manaus/",
         "/es/brazil/rio-negro/",
         "/es/brazil/viajes-fluviales/",
+        "/es/brazil/lodges-en-la-amazonia/",
+        "/es/brazil/mejor-epoca-para-visitar/",
         "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
         "/es/brazil/anavilhanas/",
         "/es/brazil/alter-do-chao/"
@@ -453,7 +583,51 @@
         "/es/brazil/",
         "/es/brazil/alter-do-chao/",
         "/es/brazil/anavilhanas/",
+        "/es/brazil/lodges-en-la-amazonia/",
         "/es/brazil/manaus/",
+        "/es/brazil/mejor-epoca-para-visitar/",
+        "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+        "/es/brazil/rio-negro/",
+        "/es/brazil/viajes-fluviales/",
+        "/es/contacto/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/brazil.css?v=f560c9754f9c"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/brazil/lodges-en-la-amazonia/",
+      "main_words": 1722,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/brazil/",
+        "/es/brazil/manaus/",
+        "/es/brazil/rio-negro/",
+        "/es/brazil/viajes-fluviales/",
+        "/es/brazil/fauna/",
+        "/es/brazil/mejor-epoca-para-visitar/",
+        "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+        "/es/brazil/anavilhanas/",
+        "/es/brazil/alter-do-chao/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/brazil/",
+        "/es/brazil/alter-do-chao/",
+        "/es/brazil/anavilhanas/",
+        "/es/brazil/fauna/",
+        "/es/brazil/manaus/",
+        "/es/brazil/mejor-epoca-para-visitar/",
         "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
         "/es/brazil/rio-negro/",
         "/es/brazil/viajes-fluviales/",
@@ -475,13 +649,15 @@
     },
     {
       "route": "/es/brazil/manaus/",
-      "main_words": 1654,
+      "main_words": 1690,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/brazil/",
         "/es/brazil/rio-negro/",
         "/es/brazil/viajes-fluviales/",
         "/es/brazil/lodges-en-la-amazonia/",
+        "/es/brazil/fauna/",
+        "/es/brazil/mejor-epoca-para-visitar/",
         "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
         "/es/brazil/anavilhanas/",
         "/es/brazil/alter-do-chao/"
@@ -491,7 +667,51 @@
         "/es/brazil/",
         "/es/brazil/alter-do-chao/",
         "/es/brazil/anavilhanas/",
+        "/es/brazil/fauna/",
         "/es/brazil/lodges-en-la-amazonia/",
+        "/es/brazil/mejor-epoca-para-visitar/",
+        "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+        "/es/brazil/rio-negro/",
+        "/es/brazil/viajes-fluviales/",
+        "/es/contacto/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/brazil.css?v=f560c9754f9c"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/brazil/mejor-epoca-para-visitar/",
+      "main_words": 1512,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/brazil/",
+        "/es/brazil/manaus/",
+        "/es/brazil/rio-negro/",
+        "/es/brazil/viajes-fluviales/",
+        "/es/brazil/lodges-en-la-amazonia/",
+        "/es/brazil/fauna/",
+        "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+        "/es/brazil/anavilhanas/",
+        "/es/brazil/alter-do-chao/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/brazil/",
+        "/es/brazil/alter-do-chao/",
+        "/es/brazil/anavilhanas/",
+        "/es/brazil/fauna/",
+        "/es/brazil/lodges-en-la-amazonia/",
+        "/es/brazil/manaus/",
         "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
         "/es/brazil/rio-negro/",
         "/es/brazil/viajes-fluviales/",
@@ -513,7 +733,7 @@
     },
     {
       "route": "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
-      "main_words": 1586,
+      "main_words": 1622,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/brazil/",
@@ -521,6 +741,8 @@
         "/es/brazil/rio-negro/",
         "/es/brazil/viajes-fluviales/",
         "/es/brazil/lodges-en-la-amazonia/",
+        "/es/brazil/fauna/",
+        "/es/brazil/mejor-epoca-para-visitar/",
         "/es/brazil/anavilhanas/",
         "/es/brazil/alter-do-chao/"
       ],
@@ -530,8 +752,10 @@
         "/es/brazil/",
         "/es/brazil/alter-do-chao/",
         "/es/brazil/anavilhanas/",
+        "/es/brazil/fauna/",
         "/es/brazil/lodges-en-la-amazonia/",
         "/es/brazil/manaus/",
+        "/es/brazil/mejor-epoca-para-visitar/",
         "/es/brazil/rio-negro/",
         "/es/brazil/viajes-fluviales/",
         "/es/contacto/",
@@ -554,13 +778,15 @@
     },
     {
       "route": "/es/brazil/rio-negro/",
-      "main_words": 1621,
+      "main_words": 1657,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/brazil/",
         "/es/brazil/manaus/",
         "/es/brazil/viajes-fluviales/",
         "/es/brazil/lodges-en-la-amazonia/",
+        "/es/brazil/fauna/",
+        "/es/brazil/mejor-epoca-para-visitar/",
         "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
         "/es/brazil/anavilhanas/",
         "/es/brazil/alter-do-chao/"
@@ -570,8 +796,10 @@
         "/es/brazil/",
         "/es/brazil/alter-do-chao/",
         "/es/brazil/anavilhanas/",
+        "/es/brazil/fauna/",
         "/es/brazil/lodges-en-la-amazonia/",
         "/es/brazil/manaus/",
+        "/es/brazil/mejor-epoca-para-visitar/",
         "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
         "/es/brazil/viajes-fluviales/",
         "/es/contacto/"
@@ -592,13 +820,15 @@
     },
     {
       "route": "/es/brazil/viajes-fluviales/",
-      "main_words": 1565,
+      "main_words": 1601,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/brazil/",
         "/es/brazil/manaus/",
         "/es/brazil/rio-negro/",
         "/es/brazil/lodges-en-la-amazonia/",
+        "/es/brazil/fauna/",
+        "/es/brazil/mejor-epoca-para-visitar/",
         "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
         "/es/brazil/anavilhanas/",
         "/es/brazil/alter-do-chao/"
@@ -608,8 +838,10 @@
         "/es/brazil/",
         "/es/brazil/alter-do-chao/",
         "/es/brazil/anavilhanas/",
+        "/es/brazil/fauna/",
         "/es/brazil/lodges-en-la-amazonia/",
         "/es/brazil/manaus/",
+        "/es/brazil/mejor-epoca-para-visitar/",
         "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
         "/es/brazil/rio-negro/",
         "/es/contacto/"

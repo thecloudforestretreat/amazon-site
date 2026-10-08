@@ -1,0 +1,1010 @@
+{
+  "editorial_status": "reviewed",
+  "review_date": "2026-10-08",
+  "images": {
+    "amazon-forest-river-aerial": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-aerial.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "25fdbaac484995f9de40d64e3334022af4578b8584ddf44d0eae688523ba3d97",
+      "web_sha256": "3acf7d2822a7a986c4e6466f9551f2ac1ef3594975e7d799297620527c36df75",
+      "original_bytes": 413373,
+      "web_bytes": 268828,
+      "alt": {
+        "en": "A winding river surrounded by tropical forest",
+        "es": "Río sinuoso rodeado de bosque tropical"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-macaws-in-flight": {
+      "width": 1280,
+      "height": 1600,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-macaws-in-flight.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "82d58f5b49cb5bf966d6dea475a78706f5329dd7c6874a360de3ce2cf848e4e1",
+      "web_sha256": "b4baaf108be2a1643a1d416aef8fbd8cbfa0a731bc166413c9b4ed942f41bea4",
+      "original_bytes": 126325,
+      "web_bytes": 83978,
+      "alt": {
+        "en": "Colorful macaws flying past green foliage",
+        "es": "Guacamayos de colores volando frente a la vegetación"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-forest-river-channel": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-channel.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "26fc7f3acb97ef3ebb20601be3e1936abd5dacf94d5512733f3821f39b590562",
+      "web_sha256": "86ee2b866c5376b71f445a987aed66705faefd05f2cbd869f0ba201df71b3ba6",
+      "original_bytes": 311342,
+      "web_bytes": 189574,
+      "alt": {
+        "en": "River channel between wooded banks",
+        "es": "Canal fluvial entre orillas arboladas"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-small-monkeys-pair": {
+      "width": 1280,
+      "height": 1600,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-small-monkeys-pair.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "7498d6ee621cab64d0807d713a35584241994b7a39ae281cced9fc11820db7bd",
+      "web_sha256": "f9e39893d267e654aedd43050ce21d340f436e8b7f5d9504f512ee4226c07cf9",
+      "original_bytes": 164505,
+      "web_bytes": 116268,
+      "alt": {
+        "en": "Two small monkeys together on a branch",
+        "es": "Dos monos pequeños juntos sobre una rama"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "manaus-rio-negro": {
+      "src": "/assets/images/brazil/manaus-rio-negro.jpg",
+      "width": 1800,
+      "height": 1321,
+      "source": "https://commons.wikimedia.org/wiki/File:Manaus_-_View_from_River.jpg",
+      "label": "P. Hughes; resized for web",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "location_evidence": "View of the outskirts of Manaus, from Rio Negro, Brazil",
+      "attribution_required": true
+    },
+    "amazon-forest-river-sunset": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-sunset.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "1bfd90ab7caece29793539505b2a45970100c256b824da89bb35b4204fcedc5d",
+      "web_sha256": "1207b7ec779a5932e6a719caa8ef65c7f07dd2dae9b7bf01f37f1853059451eb",
+      "original_bytes": 256042,
+      "web_bytes": 141608,
+      "alt": {
+        "en": "Sunset reflected in a river beside forest",
+        "es": "Atardecer reflejado en un río junto al bosque"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-thatched-hammock-shelter": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-thatched-hammock-shelter.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "4952cb2f95f925efa19652fda7803c265e17da71e09e80cc74a3de2fae9471de",
+      "web_sha256": "43f5742b8fe1771f4bafb76454e4ce41cd0d5ac98a61946ec255fc2c0899152e",
+      "original_bytes": 446588,
+      "web_bytes": 301092,
+      "alt": {
+        "en": "Hammock beneath a thatched shelter surrounded by greenery",
+        "es": "Hamaca bajo un refugio de techo vegetal rodeado de vegetación"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-caiman-water-closeup": {
+      "width": 1280,
+      "height": 1600,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-caiman-water-closeup.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "9b3b96b218d6a345ce9cabca377df846ed576374c3e455d8cd0dbf1ee0228430",
+      "web_sha256": "24e5cc35e2a630125d3d37006be87020955f6d2d46f24fc4c408405d5d32b356",
+      "original_bytes": 229021,
+      "web_bytes": 175894,
+      "alt": {
+        "en": "Close view of a caiman at the water surface",
+        "es": "Primer plano de un caimán en la superficie del agua"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-river-dolphin-surfacing": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-river-dolphin-surfacing.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "295c7bda93ea308ebf9a7f7c348bc76c3f54abe44db224151c73d809b7817c43",
+      "web_sha256": "ddd12bbabc551624a055c12ac372aa6700b808e43b0ba2905dd781e98dff3b3f",
+      "original_bytes": 301941,
+      "web_bytes": 182350,
+      "alt": {
+        "en": "River dolphin breaking the water surface",
+        "es": "Delfín de río asomando sobre el agua"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    }
+  },
+  "pages": {
+    "timing": {
+      "en": {
+        "type": "planning-guide",
+        "links": [
+          [
+            "/brazil/",
+            "Brazil overview"
+          ],
+          [
+            "/brazil/plan-your-amazon-trip/",
+            "Plan your journey"
+          ],
+          [
+            "/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/brazil/rio-negro/",
+            "Rio Negro"
+          ],
+          [
+            "/brazil/anavilhanas/",
+            "Anavilhanas"
+          ],
+          [
+            "/brazil/alter-do-chao/",
+            "Santarém & Alter do Chão"
+          ],
+          [
+            "/brazil/amazon-lodges/",
+            "Amazon lodges"
+          ],
+          [
+            "/brazil/river-journeys/",
+            "River journeys"
+          ],
+          [
+            "/brazil/best-time-to-visit/",
+            "Choose your dates"
+          ],
+          [
+            "/brazil/wildlife/",
+            "Wildlife observation"
+          ]
+        ],
+        "context_links": [
+          [
+            "Brazil overview",
+            "/brazil/"
+          ],
+          [
+            "Brazil planning guide",
+            "/brazil/plan-your-amazon-trip/"
+          ],
+          [
+            "Manaus guide",
+            "/brazil/manaus/"
+          ],
+          [
+            "Rio Negro guide",
+            "/brazil/rio-negro/"
+          ],
+          [
+            "Anavilhanas guide",
+            "/brazil/anavilhanas/"
+          ],
+          [
+            "Alter do Chão guide",
+            "/brazil/alter-do-chao/"
+          ],
+          [
+            "Brazil lodge guide",
+            "/brazil/amazon-lodges/"
+          ],
+          [
+            "Brazil river journey guide",
+            "/brazil/river-journeys/"
+          ],
+          [
+            "Brazil timing guide",
+            "/brazil/best-time-to-visit/"
+          ],
+          [
+            "Brazil wildlife guide",
+            "/brazil/wildlife/"
+          ]
+        ],
+        "feature_sides": {
+          "2": "left",
+          "5": "right"
+        },
+        "scope": "Editorial review: October 8, 2026. Official sources support the regional context; the planning comparisons are editorial guidance. Seasonal descriptions are not forecasts, and species records do not establish sighting likelihood. Licensed stock photographs illustrate Amazon environments and wildlife; they do not document a particular Brazilian location or promised encounter. Confirm current conditions, access and arrangements for your dates.",
+        "slug": "best-time-to-visit",
+        "pair_id": "brazil_timing_001",
+        "h1": "When to visit the Brazilian Amazon: choose for your experience",
+        "title": "Best Time to Visit the Brazilian Amazon | Regional Guide",
+        "description": "Choose dates for Rio Negro forest journeys or Alter do Chão beaches. Compare water levels, trip formats and flexibility without treating seasons as forecasts.",
+        "lede": "Start with the landscape you want to experience. River levels, regional differences and your preferred travel style matter more than a single best-month label.",
+        "hero": [
+          "amazon-forest-river-aerial",
+          "Tropical forest and winding river, illustrative photograph"
+        ],
+        "features": {
+          "2": [
+            "amazon-forest-river-channel",
+            "Forest-lined river channel, illustrative photograph"
+          ],
+          "5": [
+            "amazon-forest-river-sunset",
+            "Evening light over a forest river, illustrative photograph"
+          ]
+        },
+        "quick": [
+          "Choose the region, then the season, then verify the dates",
+          "Higher and lower water create different experiences around Anavilhanas. Visit Brasil associates Alter do Chão’s emerging beaches with August–December. Neither description guarantees the conditions of a particular departure."
+        ],
+        "choices_heading": "Which experience matters most?",
+        "choices": [
+          [
+            "Flooded forest and channels",
+            "Discuss higher-water outings and actual access around your chosen base.",
+            "#section-2"
+          ],
+          [
+            "Alter do Chão beaches",
+            "Use the regional beach window as a starting point, then check current conditions.",
+            "#section-3"
+          ],
+          [
+            "Observation and a slower pace",
+            "Prioritize guiding and time in the field alongside the calendar.",
+            "#section-5"
+          ]
+        ],
+        "cta": [
+          "Find dates that serve the journey you want",
+          "Tell us your available travel window and the experiences you would least want to miss."
+        ],
+        "sources": [
+          [
+            "Visit Brasil: Alter do Chão seasonal beach context",
+            "https://www.visitbrasil.com/location/alter-do-chao/"
+          ],
+          [
+            "Visit Brasil: higher- and lower-water Anavilhanas landscapes",
+            "https://feel.visitbrasil.com/en/anavilhanas-itinerary/"
+          ]
+        ],
+        "faqs": [
+          [
+            "Is there one best month for the whole Brazilian Amazon?",
+            "No single month answers every regional and activity preference. Choose the region and experiences first, then verify local conditions for your travel window."
+          ],
+          [
+            "When is the beach season at Alter do Chão?",
+            "Visit Brasil describes August–December as the broad period when its freshwater beaches emerge. Treat that as regional planning context and confirm actual conditions for your dates."
+          ],
+          [
+            "Does lower water guarantee better wildlife sightings?",
+            "No. A water-level description is not a sighting forecast. Ask about the habitats reached, guiding and observation time available on the proposed route."
+          ],
+          [
+            "Can I plan a trip with fixed holiday dates?",
+            "Yes. Share the dates before selecting a particular activity or accommodation. Compare the experiences realistically available in that window and the alternatives if conditions change."
+          ]
+        ],
+        "sections": [
+          [
+            "Start with the experience rather than the month",
+            "Use the Brazil overview to choose the region that belongs in your journey. Write down whether your priority is flooded forest, river beaches, wildlife observation or relaxed time at a lodge. Those interests lead to different questions; a broad recommendation for Amazon travel cannot tell you which outing will suit your own group.",
+            "Separate essential experiences from welcome extras. If one beach or type of forest outing is the main reason for traveling, say so before comparing dates. If your aim is a varied introduction, choose a program with several ways to explore. This makes the discussion more useful than asking for the best season without explaining what you hope to do."
+          ],
+          [
+            "Keep regional calendars separate",
+            "Use the Rio Negro guide for the Manaus-region setting and the Alter do Chão guide for the Tapajós alternative. Do not apply a beach-season description from one region to every forest lodge or river route in Brazil. A calendar can introduce a conversation, but the actual place and activity must remain visible in the plan.",
+            "Ask the provider to describe the conditions relevant to its own outings, not simply whether the month is good. Request examples of what a typical day might include and what could be different on your dates. Keep these answers attached to the named itinerary so a general seasonal description does not become an assumed inclusion."
+          ],
+          [
+            "Understand what higher and lower water change",
+            "The Anavilhanas guide helps place the seasonal comparison in a specific archipelago. Visit Brasil describes flooded forests and channels during higher water and emerging river beaches in the lower-water season. Use that distinction to discuss the kind of landscape you want to experience rather than assume that one state is universally better.",
+            "Ask which excursions are offered from the chosen base and whether access changes the length or nature of the outing. Compare time traveling with time exploring. A photograph of a boat among trees is not proof that the same channel will be accessible on your dates, just as a beach photograph does not promise exposed sand throughout a departure."
+          ],
+          [
+            "Use Alter do Chão’s beach window carefully",
+            "Visit Brasil places Alter do Chão’s broad freshwater-beach period in August–December. If beaches are your priority, begin your date discussion there and ask about current local conditions before committing. This is a regional description, not a prediction of water levels, a guarantee of a particular beach or a statement that all other months are unsuitable.",
+            "Compare what the proposed stay offers beyond its best-known image. Ask about the activities available if a favored beach is not accessible and whether the alternatives fit your interests. A flexible program should name worthwhile options rather than rely on a vague promise of another excursion. Keep any special expectations clear in the booking conversation."
+          ],
+          [
+            "Let your travel format inform the date decision",
+            "The Brazil lodge guide helps you compare a settled stay, while the Brazil river journey guide explains the questions for life aboard. Ask how each option adapts its outings to conditions. Compare the surrounding areas reached, daily comfort and flexibility rather than assume that a boat or lodge automatically solves seasonal uncertainty.",
+            "Review arrival and departure days too. Use the Manaus guide when that city is your starting point and leave enough room for the connections in the proposal. A date window that looks generous on a calendar may allow less forest time once transfers are included. Ask for the complete sequence before deciding how many nights to book."
+          ],
+          [
+            "Plan observation around time and guiding",
+            "Use the Brazil wildlife guide to explain the birds, mammals or forest details that interest you. Ask what habitats the program reaches and how much time it leaves for patient observation. Avoid choosing a month because of an unsupported promise that a named animal will be easy to find; conservation records and visitor encounters are different kinds of information.",
+            "For photography, discuss longer stops, small-group outings and the flexibility to return to an area when appropriate. Ask how the schedule accommodates changing light or an interrupted excursion, without expecting the guide to manufacture an encounter. A good plan can preserve meaningful observation even when a particular animal or weather condition does not match the image you had in mind."
+          ],
+          [
+            "Work constructively with fixed holiday dates",
+            "Share fixed flights, school holidays or work commitments early. Then compare the available regional experiences within that window rather than trying to force one iconic scene into the trip. Decide whether the travel dates or the particular activity are less flexible. That helps establish useful alternatives before you pay for connected arrangements.",
+            "Ask for the itinerary in enough detail to assess meals, rest, walks and boat outings. Keep the effort suited to your group and avoid filling every hour as compensation for uncertainty. If the timing of an activity remains provisional, ask when it will be confirmed and what the alternative would mean for the overall experience and price."
+          ],
+          [
+            "Check current arrangements before booking",
+            "Request a recent account of the conditions relevant to the actual route, along with any access limitations affecting your main interests. Ask who will confirm the final excursion plan and when. A general destination guide cannot replace that conversation; it also cannot establish an operator’s current availability or the suitability of a vessel for a specific route.",
+            "Read the payment, cancellation and itinerary-change terms. Clarify what happens if an activity cannot take place and whether transfers or accommodation would also change. Make the preferred outcome clear while allowing sensible alternatives. These practical answers are more useful than a confident seasonal label with no explanation of what happens when conditions differ."
+          ],
+          [
+            "Turn the seasonal discussion into a clear brief",
+            "Use the Brazil planning guide to share your possible dates, group size, preferred pace and two or three priorities. Say whether your travel window can move and whether beaches, forest navigation or wildlife observation carry the most weight. Ask for options that explain their seasonal fit rather than simply repeating a recommended month.",
+            "Compare the full proposals: arrival connections, nights in the region, excursion time, accommodation and alternatives. Choose the plan that makes your priorities practical within the available window. The aim is to understand why those dates and that route work together, while leaving space for the river and forest to be experienced as they are."
+          ]
+        ]
+      },
+      "es": {
+        "type": "planning-guide",
+        "links": [
+          [
+            "/es/brazil/",
+            "Panorama de Brasil"
+          ],
+          [
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+            "Planifica tu viaje"
+          ],
+          [
+            "/es/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/es/brazil/rio-negro/",
+            "Rio Negro"
+          ],
+          [
+            "/es/brazil/anavilhanas/",
+            "Anavilhanas"
+          ],
+          [
+            "/es/brazil/alter-do-chao/",
+            "Santarém y Alter do Chão"
+          ],
+          [
+            "/es/brazil/lodges-en-la-amazonia/",
+            "Lodges amazónicos"
+          ],
+          [
+            "/es/brazil/viajes-fluviales/",
+            "Viajes fluviales"
+          ],
+          [
+            "/es/brazil/mejor-epoca-para-visitar/",
+            "Cuándo viajar"
+          ],
+          [
+            "/es/brazil/fauna/",
+            "Observación de fauna"
+          ]
+        ],
+        "context_links": [
+          [
+            "panorama de Brasil",
+            "/es/brazil/"
+          ],
+          [
+            "guía de planificación de Brasil",
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/"
+          ],
+          [
+            "guía de Manaus",
+            "/es/brazil/manaus/"
+          ],
+          [
+            "guía del Rio Negro",
+            "/es/brazil/rio-negro/"
+          ],
+          [
+            "guía de Anavilhanas",
+            "/es/brazil/anavilhanas/"
+          ],
+          [
+            "guía de Alter do Chão",
+            "/es/brazil/alter-do-chao/"
+          ],
+          [
+            "guía de lodges de Brasil",
+            "/es/brazil/lodges-en-la-amazonia/"
+          ],
+          [
+            "guía de viajes fluviales de Brasil",
+            "/es/brazil/viajes-fluviales/"
+          ],
+          [
+            "guía de temporadas de Brasil",
+            "/es/brazil/mejor-epoca-para-visitar/"
+          ],
+          [
+            "guía de fauna de Brasil",
+            "/es/brazil/fauna/"
+          ]
+        ],
+        "feature_sides": {
+          "2": "left",
+          "5": "right"
+        },
+        "scope": "Revisión editorial: 8 de octubre de 2026. Las fuentes oficiales respaldan el contexto regional; las comparaciones son orientación para planificar. Las temporadas no son pronósticos y los registros de especies no indican la probabilidad de avistamiento. Las fotografías de archivo autorizadas son ilustrativas; no documentan una ubicación brasileña ni un encuentro prometido. Confirma las condiciones, el acceso y los servicios para tus fechas.",
+        "slug": "mejor-epoca-para-visitar",
+        "pair_id": "brazil_timing_001",
+        "h1": "Cuándo visitar la Amazonía brasileña: elige según tus intereses",
+        "title": "Mejor época para visitar la Amazonía brasileña",
+        "description": "Elige fechas para el Rio Negro o las playas de Alter do Chão. Compara niveles del agua, formatos de viaje y alternativas sin confundir temporadas con pronósticos.",
+        "lede": "Empieza por el paisaje que quieres conocer. El nivel del río, la región y tu forma de viajar importan más que una recomendación de un solo mes.",
+        "hero": [
+          "amazon-forest-river-aerial",
+          "Bosque tropical y río sinuoso, fotografía ilustrativa"
+        ],
+        "features": {
+          "2": [
+            "amazon-forest-river-channel",
+            "Canal fluvial rodeado de bosque, fotografía ilustrativa"
+          ],
+          "5": [
+            "amazon-forest-river-sunset",
+            "Luz del atardecer sobre un río, fotografía ilustrativa"
+          ]
+        },
+        "quick": [
+          "Elige la región y la temporada; después confirma las condiciones",
+          "El agua alta y baja ofrecen paisajes distintos en Anavilhanas. Visit Brasil sitúa la aparición de las playas de Alter do Chão entre agosto y diciembre. Ninguna descripción garantiza las condiciones de una salida concreta."
+        ],
+        "choices_heading": "¿Qué experiencia es tu prioridad?",
+        "choices": [
+          [
+            "Bosque inundado y canales",
+            "Pregunta por las excursiones de agua alta y el acceso desde tu alojamiento.",
+            "#section-2"
+          ],
+          [
+            "Playas de Alter do Chão",
+            "Parte del período regional de playas y confirma las condiciones actuales.",
+            "#section-3"
+          ],
+          [
+            "Observación sin prisas",
+            "Valora el guía y el tiempo para observar junto con las fechas.",
+            "#section-5"
+          ]
+        ],
+        "cta": [
+          "Encuentra fechas que encajen con tu viaje",
+          "Cuéntanos cuándo puedes viajar y qué experiencias son más importantes para ti."
+        ],
+        "sources": [
+          [
+            "Visit Brasil: temporada de playas de Alter do Chão",
+            "https://www.visitbrasil.com/location/alter-do-chao/"
+          ],
+          [
+            "Visit Brasil: paisajes de agua alta y baja en Anavilhanas",
+            "https://feel.visitbrasil.com/en/anavilhanas-itinerary/"
+          ]
+        ],
+        "faqs": [
+          [
+            "¿Hay un mes ideal para toda la Amazonía brasileña?",
+            "Un solo mes no responde a todas las preferencias y diferencias regionales. Elige primero la región y las experiencias; después confirma las condiciones locales para tus fechas."
+          ],
+          [
+            "¿Cuándo es la temporada de playas de Alter do Chão?",
+            "Visit Brasil describe agosto–diciembre como el período general de aparición de las playas de agua dulce. Úsalo como referencia regional y confirma las condiciones para tus fechas."
+          ],
+          [
+            "¿El agua baja garantiza mejores avistamientos?",
+            "No. El nivel del agua no permite pronosticar un avistamiento. Pregunta por los hábitats, los guías y el tiempo de observación de la ruta propuesta."
+          ],
+          [
+            "¿Puedo organizar un viaje con fechas fijas?",
+            "Sí. Comparte las fechas antes de elegir una actividad o alojamiento. Compara las experiencias disponibles en ese período y las alternativas si cambian las condiciones."
+          ]
+        ],
+        "sections": [
+          [
+            "Empieza por la experiencia, no por el mes",
+            "Consulta el panorama de Brasil para elegir la región de tu viaje. Anota si te interesan más el bosque inundado, las playas fluviales, la fauna o una estancia tranquila en un lodge. Cada prioridad lleva a preguntas distintas. Una recomendación general sobre la Amazonía no basta para saber qué excursión encaja con tu grupo.",
+            "Distingue las experiencias esenciales de las que serían un buen complemento. Si una playa o un tipo de navegación es el principal motivo del viaje, dilo antes de comparar fechas. Si buscas una introducción variada, elige un programa con distintas formas de explorar. Así podrás valorar las temporadas en función de lo que realmente quieres hacer."
+          ],
+          [
+            "Compara cada región con su propio calendario",
+            "La guía del Rio Negro presenta el entorno de la región de Manaus; la guía de Alter do Chão explica la alternativa del Tapajós. No apliques la temporada de playas de una región a todos los lodges y recorridos fluviales de Brasil. Las fechas deben relacionarse con un lugar y una actividad concretos.",
+            "Pide al proveedor que explique las condiciones que afectan a sus excursiones, en lugar de limitarse a decir que el mes es bueno. Solicita un ejemplo de día y pregunta qué podría cambiar durante tu estancia. Conserva esas respuestas junto al itinerario para no dar por incluida una actividad basándote únicamente en una descripción de la temporada."
+          ],
+          [
+            "Entiende las diferencias entre agua alta y baja",
+            "La guía de Anavilhanas sitúa la comparación en un archipiélago específico. Visit Brasil describe bosques inundados y canales durante el agua alta, y playas que aparecen en la temporada de agua baja. Esa diferencia sirve para hablar del paisaje que prefieres, sin considerar una situación mejor para todos los viajeros.",
+            "Pregunta qué excursiones se ofrecen desde tu alojamiento y cómo el acceso afecta a su duración. Compara el tiempo de traslado con el tiempo para explorar. Una fotografía de una embarcación entre árboles no confirma que ese canal sea accesible durante tu estancia. Del mismo modo, una imagen de playa no garantiza arena al descubierto en cada salida."
+          ],
+          [
+            "Usa con criterio la temporada de playas de Alter do Chão",
+            "Visit Brasil sitúa entre agosto y diciembre el período general de playas de agua dulce de Alter do Chão. Si son tu prioridad, empieza por esas fechas y consulta las condiciones locales antes de reservar. Es una referencia regional: no predice niveles del agua ni garantiza una playa concreta, y tampoco descarta todos los demás meses.",
+            "Compara lo que ofrece la estancia además de su imagen más conocida. Pregunta qué actividades habría si tu playa preferida no fuera accesible y si esas alternativas te interesan. Un programa flexible debería explicar opciones concretas, en lugar de prometer simplemente otra excursión. Deja claras tus expectativas especiales al hablar de la reserva."
+          ],
+          [
+            "Relaciona las fechas con tu forma de viajar",
+            "La guía de lodges de Brasil ayuda a comparar una estancia en un alojamiento fijo; la guía de viajes fluviales de Brasil presenta las preguntas para la vida a bordo. Consulta cómo adapta cada opción sus excursiones a las condiciones. Valora las zonas que alcanza, la comodidad diaria y las alternativas, sin asumir que una embarcación resuelve cualquier incertidumbre.",
+            "Revisa también los días de llegada y salida. Si Manaus es tu punto de partida, consulta la guía de Manaus y deja tiempo para las conexiones de la propuesta. Un período aparentemente amplio puede permitir menos tiempo en el bosque cuando incluyes los traslados. Pide la secuencia completa antes de decidir cuántas noches reservar."
+          ],
+          [
+            "Reserva tiempo para observar con buenos guías",
+            "Usa la guía de fauna de Brasil para explicar qué aves, mamíferos o detalles del bosque te interesan. Pregunta por los hábitats del programa y el tiempo para observar sin prisas. Evita elegir un mes basándote en una promesa sin respaldo de encontrar un animal: los registros de conservación no equivalen a encuentros de visitantes.",
+            "Para fotografía, conversa sobre paradas más largas, grupos pequeños y la posibilidad de regresar a una zona cuando sea adecuado. Pregunta cómo se adapta el horario a la luz o a una excursión interrumpida, sin esperar un encuentro preparado. Una buena planificación permite seguir observando y aprendiendo aunque un animal o las condiciones meteorológicas no coincidan con lo imaginado."
+          ],
+          [
+            "Aprovecha bien unas vacaciones con fechas fijas",
+            "Comparte desde el principio los vuelos ya reservados, las vacaciones escolares o los compromisos laborales. Después compara las experiencias disponibles en ese período, en vez de intentar encajar una escena concreta a cualquier precio. Decide si puedes cambiar las fechas o si prefieres adaptar alguna actividad. Así tendrás alternativas antes de pagar otros servicios.",
+            "Solicita un itinerario suficientemente detallado para valorar comidas, descanso, caminatas y salidas en embarcación. Mantén un esfuerzo adecuado para tu grupo y evita llenar cada hora para compensar la incertidumbre. Si una actividad es provisional, pregunta cuándo se confirmará y cómo afectaría su alternativa al conjunto del viaje y al precio."
+          ],
+          [
+            "Confirma las condiciones y los servicios antes de reservar",
+            "Solicita información reciente sobre la ruta concreta y las limitaciones de acceso que afectan a tus prioridades. Pregunta quién confirmará el programa final de excursiones y cuándo. Una guía general no sustituye esa conversación ni acredita la disponibilidad actual del operador o la idoneidad de una embarcación para un recorrido específico.",
+            "Lee las condiciones de pago, cancelación y cambios de itinerario. Aclara qué ocurre si una actividad no puede realizarse y si también cambiarían los traslados o el alojamiento. Explica tu preferencia y valora alternativas razonables. Estas respuestas ayudan más que una recomendación tajante de temporada que no explica qué sucede cuando las condiciones son distintas."
+          ],
+          [
+            "Convierte tus prioridades en una solicitud clara",
+            "La guía de planificación de Brasil te ayuda a compartir fechas posibles, número de viajeros, ritmo y dos o tres prioridades. Indica si puedes mover el viaje y cuánto te importan las playas, la navegación entre el bosque o la fauna. Pide opciones que expliquen por qué encajan con la temporada, no una simple repetición de un mes recomendado.",
+            "Compara las propuestas completas: conexiones de llegada, noches en la región, tiempo de excursión, alojamiento y alternativas. Elige la que permita disfrutar de tus prioridades en el período disponible. El objetivo es entender cómo encajan esas fechas y esa ruta, dejando espacio para conocer el río y el bosque tal como los encuentres."
+          ]
+        ]
+      }
+    },
+    "wildlife": {
+      "en": {
+        "type": "planning-guide",
+        "links": [
+          [
+            "/brazil/",
+            "Brazil overview"
+          ],
+          [
+            "/brazil/plan-your-amazon-trip/",
+            "Plan your journey"
+          ],
+          [
+            "/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/brazil/rio-negro/",
+            "Rio Negro"
+          ],
+          [
+            "/brazil/anavilhanas/",
+            "Anavilhanas"
+          ],
+          [
+            "/brazil/alter-do-chao/",
+            "Santarém & Alter do Chão"
+          ],
+          [
+            "/brazil/amazon-lodges/",
+            "Amazon lodges"
+          ],
+          [
+            "/brazil/river-journeys/",
+            "River journeys"
+          ],
+          [
+            "/brazil/best-time-to-visit/",
+            "Choose your dates"
+          ],
+          [
+            "/brazil/wildlife/",
+            "Wildlife observation"
+          ]
+        ],
+        "context_links": [
+          [
+            "Brazil overview",
+            "/brazil/"
+          ],
+          [
+            "Brazil planning guide",
+            "/brazil/plan-your-amazon-trip/"
+          ],
+          [
+            "Manaus guide",
+            "/brazil/manaus/"
+          ],
+          [
+            "Rio Negro guide",
+            "/brazil/rio-negro/"
+          ],
+          [
+            "Anavilhanas guide",
+            "/brazil/anavilhanas/"
+          ],
+          [
+            "Alter do Chão guide",
+            "/brazil/alter-do-chao/"
+          ],
+          [
+            "Brazil lodge guide",
+            "/brazil/amazon-lodges/"
+          ],
+          [
+            "Brazil river journey guide",
+            "/brazil/river-journeys/"
+          ],
+          [
+            "Brazil timing guide",
+            "/brazil/best-time-to-visit/"
+          ],
+          [
+            "Brazil wildlife guide",
+            "/brazil/wildlife/"
+          ]
+        ],
+        "feature_sides": {
+          "2": "left",
+          "5": "right"
+        },
+        "scope": "Editorial review: October 8, 2026. Official sources support the regional context; the planning comparisons are editorial guidance. Seasonal descriptions are not forecasts, and species records do not establish sighting likelihood. Licensed stock photographs illustrate Amazon environments and wildlife; they do not document a particular Brazilian location or promised encounter. Confirm current conditions, access and arrangements for your dates.",
+        "slug": "wildlife",
+        "pair_id": "brazil_wildlife_001",
+        "h1": "Brazil Amazon wildlife: plan for patient observation",
+        "title": "Brazil Amazon Wildlife | Birds, Mammals & Guiding",
+        "description": "Plan Brazilian Amazon wildlife observation around habitats, guiding and realistic expectations. Explore birds and mammals without guaranteed sightings.",
+        "lede": "Look beyond a checklist. Give birds, river mammals and forest detail the time and space that make observation rewarding.",
+        "hero": [
+          "amazon-macaws-in-flight",
+          "Two macaws in flight, illustrative wildlife photograph"
+        ],
+        "features": {
+          "2": [
+            "amazon-river-dolphin-surfacing",
+            "River dolphin at the water surface, illustrative wildlife photograph"
+          ],
+          "5": [
+            "amazon-caiman-water-closeup",
+            "Close view of a caiman in water, illustrative wildlife photograph"
+          ]
+        },
+        "quick": [
+          "Choose habitats and guiding, not guaranteed encounters",
+          "ICMBio lists pink river dolphin, giant otter, Amazonian manatee and jaguar among threatened species protected in Anavilhanas. That conservation record does not establish how likely a visitor is to see them."
+        ],
+        "choices_heading": "Give your main interest a clear place in the plan",
+        "choices": [
+          [
+            "Bird observation",
+            "Ask about relevant guiding, habitats and time for identification.",
+            "#section-1"
+          ],
+          [
+            "River mammals",
+            "Compare the observation approach and realistic local expectations.",
+            "#section-2"
+          ],
+          [
+            "Forest discovery",
+            "Leave room for tracks, sounds and smaller details as well as visible animals.",
+            "#section-3"
+          ]
+        ],
+        "cta": [
+          "Shape a trip around what you want to notice",
+          "Share your interests, experience with wildlife trips and the time you would like to spend observing."
+        ],
+        "sources": [
+          [
+            "ICMBio: Anavilhanas protected threatened species",
+            "https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/amazonia/lista-de-ucs/parna-de-anavilhanas"
+          ],
+          [
+            "Amazonastur: official tourism guide, observation and protected-area practice",
+            "https://www.amazonastur.am.gov.br/wp-content/uploads/2020/02/Amazonas_Guia_Turistico_Digital-ptBR_.pdf"
+          ]
+        ],
+        "faqs": [
+          [
+            "Are wildlife sightings guaranteed?",
+            "No. Choose habitats, guiding and observation time rather than a promise of a named animal. Ask what the outing offers if that species does not appear."
+          ],
+          [
+            "Does a protected species list tell me what I will see?",
+            "No. ICMBio’s Anavilhanas list establishes conservation context. It does not give visitor sighting probabilities or confirm an animal’s presence on an individual excursion."
+          ],
+          [
+            "Can beginners enjoy a wildlife-focused trip?",
+            "Yes. Explain your interests and preferred pace, and ask for interpretation that suits your experience. You do not need an expert species list to benefit from thoughtful guiding."
+          ],
+          [
+            "Should I choose a lodge or a boat for wildlife?",
+            "Compare the habitats each program reaches, guiding and time for observation. The accommodation format alone does not establish better wildlife encounters."
+          ]
+        ],
+        "sections": [
+          [
+            "Choose the setting and the observation approach",
+            "The Brazil overview helps you decide which regional experience fits your trip. Begin with habitats and time available rather than a long list of animals. Ask which forest and river environments the proposed outings actually reach and how the guide interprets them. Keep the answer connected to the named route, not a description of the entire Amazon.",
+            "Use the Anavilhanas guide and Rio Negro guide for context around the Manaus region, or the Alter do Chão guide when considering the Tapajós alternative. Do not assume that programs in different regions offer identical encounters. A useful comparison explains the observation opportunities and their limits without transferring a species promise from one destination to another."
+          ],
+          [
+            "Give birds their own time in the itinerary",
+            "If birds are your main interest, say whether you want a general introduction, photography or more detailed identification. Ask about the guide’s relevant experience and whether the outing allows longer stops. A broad nature excursion can be enjoyable, but it may not follow the pace or interpretation that a traveler primarily interested in birds expects.",
+            "Clarify what equipment is supplied and what you should bring. Ask whether binoculars are shared and whether the group can remain together comfortably while people observe at different speeds. Avoid judging a program only by the number of species in promotional material. Compare the habitats reached, the guiding approach and the time actually set aside for observation."
+          ],
+          [
+            "Distinguish river mammals from guaranteed encounters",
+            "ICMBio includes pink river dolphin, giant otter and Amazonian manatee on its list of threatened species protected in Anavilhanas. That is valuable conservation context, not an excursion checklist. Ask your guide which river-mammal observations are realistic on the proposed outings, while keeping the possibility of no sighting part of the plan.",
+            "Choose observation that gives animals space and avoids feeding, touching or staged interactions. Ask how the boat approaches an encounter and when the guide decides to move away. Evaluate the overall outing, including river interpretation and habitat, rather than paying for a close-contact experience that turns a wild animal into the centerpiece of a manufactured scene."
+          ],
+          [
+            "Treat forest mammals and their signs with patience",
+            "A forest outing can be meaningful even when an animal remains out of view. Ask how the guide helps you notice sounds, tracks and movement while explaining uncertainty honestly. Keep identification separate from speculation: a sound or sign should not automatically become a confirmed sighting. An interested beginner can learn a great deal from this slower approach.",
+            "ICMBio also lists jaguar among the threatened species protected in Anavilhanas. Do not interpret that record as a reason to expect a jaguar encounter on a short visit. If one animal is central to your interests, ask for a realistic discussion of the actual program before booking. Avoid proposals that imply certainty merely by displaying a dramatic stock photograph."
+          ],
+          [
+            "Include more than the most famous animals",
+            "Tell the guide if reptiles, insects, plants or the relationships between them interest you alongside mammals and birds. A varied outing can offer more ways to notice the forest than a search centered on one hoped-for animal. Ask which activities suit your group and how interpretation changes between a walk and a smaller-boat excursion.",
+            "If an evening activity is offered, confirm its duration, level of effort and return arrangements. Ask how animals are observed without handling or disturbance. Keep the excursion description specific rather than assume every stay includes the same activities. You can prefer daylight outings and still request a thoughtful natural-history program suited to your comfort."
+          ],
+          [
+            "Make the viewing ethic part of your choice",
+            "The official Amazonas tourism guide advises visitors to observe wildlife from a distance, stay on trails and remove their waste in protected areas. Ask the provider how its outings put those principles into practice. A responsible approach should be understandable before departure, not left as a general sustainability claim in the brochure.",
+            "Discuss photography, group movement and what happens when an animal changes its behavior or moves away. Do not request feeding or handling to improve a photograph. Accept a guide’s decision to stop an approach, and avoid treating distance as a failure of service. The quality of the encounter includes how the group behaves, not only how close the camera gets."
+          ],
+          [
+            "Compare observation time at a lodge and aboard",
+            "Use the Brazil lodge guide and Brazil river journey guide to compare the two travel formats. Ask which environments each reaches and how a sample day divides outings, transfers, meals and rest. A moving route can be appealing, while a fixed stay may offer a settled routine. Neither format alone proves more wildlife or better interpretation.",
+            "For photography or focused bird observation, ask whether additional time can be arranged without displacing other travelers’ interests. Clarify shared versus private guiding and any extra cost. Compare the quality of time in the field rather than simply adding nights. More time is helpful only when the program gives it a clear role in the experience."
+          ],
+          [
+            "Plan dates and equipment around the actual outings",
+            "The Brazil timing guide helps separate regional seasons from sighting predictions. Explain your available dates and ask how the proposed activities fit them. Use the Manaus guide to plan connections when that is your starting point, keeping arrival and departure days distinct from full observation days in the forest or on the river.",
+            "Ask about protection for camera equipment, carrying arrangements during walks and charging at the accommodation. Discuss essential needs before arrival, particularly if your preferred equipment is heavy or requires regular charging. Keep the kit manageable enough to observe comfortably. The guide should know your priorities without having to reconstruct them from the gear you bring."
+          ],
+          [
+            "Write a brief that leaves room for discovery",
+            "Use the Brazil planning guide to share your interests, experience level, preferred pace and any specific photographic goals. Mention whether birds, mammals or a broad introduction matter most. Ask for a program that explains habitats, guiding and observation time, with a clear answer about what remains worthwhile when one hoped-for animal does not appear.",
+            "Keep expectations curious rather than transactional. Compare the excursion format, group size, language support and complete inclusions before booking. A rewarding wildlife trip gives you enough time to notice and understand what is present. Choose the plan that supports that process without turning conservation records, stock images or a species list into promises the forest cannot make."
+          ]
+        ]
+      },
+      "es": {
+        "type": "planning-guide",
+        "links": [
+          [
+            "/es/brazil/",
+            "Panorama de Brasil"
+          ],
+          [
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+            "Planifica tu viaje"
+          ],
+          [
+            "/es/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/es/brazil/rio-negro/",
+            "Rio Negro"
+          ],
+          [
+            "/es/brazil/anavilhanas/",
+            "Anavilhanas"
+          ],
+          [
+            "/es/brazil/alter-do-chao/",
+            "Santarém y Alter do Chão"
+          ],
+          [
+            "/es/brazil/lodges-en-la-amazonia/",
+            "Lodges amazónicos"
+          ],
+          [
+            "/es/brazil/viajes-fluviales/",
+            "Viajes fluviales"
+          ],
+          [
+            "/es/brazil/mejor-epoca-para-visitar/",
+            "Cuándo viajar"
+          ],
+          [
+            "/es/brazil/fauna/",
+            "Observación de fauna"
+          ]
+        ],
+        "context_links": [
+          [
+            "panorama de Brasil",
+            "/es/brazil/"
+          ],
+          [
+            "guía de planificación de Brasil",
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/"
+          ],
+          [
+            "guía de Manaus",
+            "/es/brazil/manaus/"
+          ],
+          [
+            "guía del Rio Negro",
+            "/es/brazil/rio-negro/"
+          ],
+          [
+            "guía de Anavilhanas",
+            "/es/brazil/anavilhanas/"
+          ],
+          [
+            "guía de Alter do Chão",
+            "/es/brazil/alter-do-chao/"
+          ],
+          [
+            "guía de lodges de Brasil",
+            "/es/brazil/lodges-en-la-amazonia/"
+          ],
+          [
+            "guía de viajes fluviales de Brasil",
+            "/es/brazil/viajes-fluviales/"
+          ],
+          [
+            "guía de temporadas de Brasil",
+            "/es/brazil/mejor-epoca-para-visitar/"
+          ],
+          [
+            "guía de fauna de Brasil",
+            "/es/brazil/fauna/"
+          ]
+        ],
+        "feature_sides": {
+          "2": "left",
+          "5": "right"
+        },
+        "scope": "Revisión editorial: 8 de octubre de 2026. Las fuentes oficiales respaldan el contexto regional; las comparaciones son orientación para planificar. Las temporadas no son pronósticos y los registros de especies no indican la probabilidad de avistamiento. Las fotografías de archivo autorizadas son ilustrativas; no documentan una ubicación brasileña ni un encuentro prometido. Confirma las condiciones, el acceso y los servicios para tus fechas.",
+        "slug": "fauna",
+        "pair_id": "brazil_wildlife_001",
+        "h1": "Fauna de la Amazonía brasileña: observa sin prisas",
+        "title": "Fauna de la Amazonía brasileña | Aves y mamíferos",
+        "description": "Planifica la observación de fauna en la Amazonía brasileña según los hábitats, los guías y expectativas realistas. Aves y mamíferos sin avistamientos garantizados.",
+        "lede": "Mira más allá de una lista de especies. Dedica tiempo y espacio a las aves, los mamíferos fluviales y los detalles del bosque.",
+        "hero": [
+          "amazon-macaws-in-flight",
+          "Dos guacamayos en vuelo, fotografía ilustrativa"
+        ],
+        "features": {
+          "2": [
+            "amazon-river-dolphin-surfacing",
+            "Delfín de río en la superficie, fotografía ilustrativa"
+          ],
+          "5": [
+            "amazon-caiman-water-closeup",
+            "Primer plano de un caimán en el agua, fotografía ilustrativa"
+          ]
+        },
+        "quick": [
+          "Elige hábitats y buenos guías, no encuentros garantizados",
+          "El ICMBio incluye al delfín rosado, la nutria gigante, el manatí amazónico y el jaguar entre las especies amenazadas protegidas en Anavilhanas. Ese registro de conservación no indica la probabilidad de que un visitante los vea."
+        ],
+        "choices_heading": "Da espacio a tu principal interés",
+        "choices": [
+          [
+            "Observación de aves",
+            "Pregunta por los guías, los hábitats y el tiempo para identificar aves.",
+            "#section-1"
+          ],
+          [
+            "Mamíferos fluviales",
+            "Compara la forma de observar y las expectativas realistas del lugar.",
+            "#section-2"
+          ],
+          [
+            "Descubrir el bosque",
+            "Deja espacio para rastros, sonidos y detalles, además de los animales visibles.",
+            "#section-3"
+          ]
+        ],
+        "cta": [
+          "Organiza el viaje según lo que quieres descubrir",
+          "Comparte tus intereses, tu experiencia en viajes de fauna y cuánto tiempo quieres dedicar a observar."
+        ],
+        "sources": [
+          [
+            "ICMBio: especies amenazadas protegidas en Anavilhanas",
+            "https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/amazonia/lista-de-ucs/parna-de-anavilhanas"
+          ],
+          [
+            "Amazonastur: guía oficial, observación y visita de áreas protegidas",
+            "https://www.amazonastur.am.gov.br/wp-content/uploads/2020/02/Amazonas_Guia_Turistico_Digital-ptBR_.pdf"
+          ]
+        ],
+        "faqs": [
+          [
+            "¿Se garantizan los avistamientos?",
+            "No. Elige hábitats, guías y tiempo para observar, en lugar de una promesa de ver un animal concreto. Pregunta qué ofrece la excursión si esa especie no aparece."
+          ],
+          [
+            "¿Una lista de especies protegidas indica qué voy a ver?",
+            "No. La lista del ICMBio sobre Anavilhanas aporta contexto de conservación. No indica probabilidades de avistamiento ni confirma un encuentro durante una excursión."
+          ],
+          [
+            "¿Puede disfrutar un principiante de un viaje centrado en fauna?",
+            "Sí. Explica tus intereses y tu ritmo, y pide una interpretación adecuada a tu experiencia. No necesitas una lista especializada de especies para aprender con un buen guía."
+          ],
+          [
+            "¿Es mejor un lodge o una embarcación para observar fauna?",
+            "Compara los hábitats de cada programa, los guías y el tiempo de observación. El tipo de alojamiento por sí solo no garantiza mejores encuentros."
+          ]
+        ],
+        "sections": [
+          [
+            "Elige el entorno y la forma de observar",
+            "El panorama de Brasil ayuda a decidir qué región encaja con tu viaje. Empieza por los hábitats y el tiempo disponible, no por una larga lista de animales. Pregunta qué entornos del bosque y del río alcanzan las excursiones y cómo los explica el guía. Relaciona la respuesta con la ruta concreta, en lugar de una descripción de toda la Amazonía.",
+            "Consulta la guía de Anavilhanas y la guía del Rio Negro para la región de Manaus, o la guía de Alter do Chão si consideras el Tapajós. No supongas que programas de regiones distintas ofrecen encuentros idénticos. Una comparación útil explica oportunidades y límites, sin trasladar una promesa de avistamiento de un destino a otro."
+          ],
+          [
+            "Reserva tiempo específico para las aves",
+            "Si las aves son tu prioridad, explica si buscas una introducción general, fotografía o identificación más detallada. Pregunta por la experiencia del guía y la posibilidad de hacer paradas largas. Una excursión general de naturaleza puede ser agradable, pero no siempre tiene el ritmo ni el enfoque que espera una persona especialmente interesada en aves.",
+            "Aclara qué equipo se proporciona y qué debes llevar. Pregunta si los binoculares son compartidos y cómo se organiza el grupo cuando sus integrantes observan a ritmos distintos. No valores un programa únicamente por el número de especies de su publicidad. Compara los hábitats, la forma de guiar y el tiempo que realmente dedica a observar."
+          ],
+          [
+            "Distingue los mamíferos fluviales de las promesas de encuentro",
+            "El ICMBio incluye al delfín rosado, la nutria gigante y el manatí amazónico en la lista de especies amenazadas protegidas en Anavilhanas. Es información de conservación, no una lista de animales que verás en una excursión. Pregunta al guía qué observaciones son realistas en el programa, manteniendo la posibilidad de no encontrar esos animales.",
+            "Elige una forma de observar que dé espacio a los animales y evite alimentarlos, tocarlos o preparar interacciones. Pregunta cómo se aproxima la embarcación y cuándo decide alejarse el guía. Valora la excursión completa, con su interpretación del río y del hábitat, en lugar de buscar una experiencia de contacto que convierta al animal en parte de una escena preparada."
+          ],
+          [
+            "Observa con paciencia los mamíferos del bosque y sus señales",
+            "Una salida al bosque puede aportar mucho aunque un animal permanezca fuera de la vista. Pregunta cómo ayuda el guía a reconocer sonidos, rastros y movimientos, explicando las dudas con honestidad. Distingue la identificación de la suposición: un sonido o una huella no debería convertirse automáticamente en un avistamiento confirmado. También un principiante puede aprender con este enfoque.",
+            "El ICMBio incluye además al jaguar entre las especies amenazadas protegidas en Anavilhanas. Ese registro no justifica esperar un encuentro en una visita corta. Si un animal concreto es esencial para ti, pide una valoración realista del programa antes de reservar. Evita propuestas que sugieran certeza simplemente por mostrar una fotografía llamativa de archivo."
+          ],
+          [
+            "Incluye más que los animales más conocidos",
+            "Explica al guía si te interesan los reptiles, los insectos, las plantas y las relaciones entre ellos, además de aves y mamíferos. Una excursión variada abre más oportunidades de descubrir el bosque que una búsqueda centrada en un solo animal. Pregunta qué actividades encajan con tu grupo y cómo cambia la interpretación entre una caminata y una salida en embarcación pequeña.",
+            "Si se ofrece una actividad nocturna, confirma duración, esfuerzo y regreso. Pregunta cómo se observan los animales sin manipularlos ni molestarlos. Revisa la excursión concreta, sin asumir que todas las estancias incluyen las mismas actividades. Puedes preferir las salidas de día y pedir un programa de historia natural interesante que se adapte a tu comodidad."
+          ],
+          [
+            "Valora también cómo se realiza la observación",
+            "La guía oficial de turismo de Amazonas aconseja observar la fauna a distancia, permanecer en los senderos y retirar los residuos de las áreas protegidas. Pregunta cómo aplica el proveedor esos principios. La forma responsable de visitar debe quedar clara antes de salir, en lugar de depender de una afirmación general de sostenibilidad en un folleto.",
+            "Conversa sobre fotografía, movimiento del grupo y qué ocurre cuando un animal cambia su comportamiento o se aleja. No pidas que lo alimenten o manipulen para mejorar una imagen. Acepta que el guía detenga una aproximación y no consideres la distancia un fallo del servicio. La calidad del encuentro incluye el comportamiento del grupo, no solo la cercanía de la cámara."
+          ],
+          [
+            "Compara el tiempo de observación en un lodge y a bordo",
+            "La guía de lodges de Brasil y la guía de viajes fluviales de Brasil permiten comparar ambos formatos. Pregunta qué ambientes alcanza cada uno y cómo se reparten excursiones, traslados, comidas y descanso en un día típico. Una ruta en movimiento puede atraer a tu grupo; una estancia fija puede ofrecer una rutina tranquila. Ninguna demuestra por sí sola más fauna o mejor interpretación.",
+            "Para fotografía u observación de aves, pregunta si se puede dedicar tiempo adicional sin desplazar los intereses de otros viajeros. Aclara si los guías son compartidos o privados y qué costo extra habría. Compara la calidad del tiempo de observación en lugar de añadir noches sin más. El tiempo adicional debe tener una función clara en la experiencia."
+          ],
+          [
+            "Organiza fechas y equipo según las excursiones",
+            "La guía de temporadas de Brasil ayuda a distinguir las estaciones regionales de las predicciones de avistamiento. Comparte tus fechas y pregunta cómo encajan las actividades. Consulta la guía de Manaus si ese es tu punto de llegada y distingue los días de traslado de los días completos de observación en el bosque o el río.",
+            "Pregunta cómo proteger y transportar el equipo fotográfico durante las caminatas y cómo recargarlo en el alojamiento. Habla de tus necesidades antes de llegar, especialmente si el equipo pesa mucho o necesita carga frecuente. Lleva una cantidad manejable para observar con comodidad. El guía debería conocer tus prioridades sin tener que deducirlas por el material que traes."
+          ],
+          [
+            "Prepara una solicitud que deje espacio para descubrir",
+            "Usa la guía de planificación de Brasil para compartir intereses, experiencia, ritmo y objetivos fotográficos. Indica si prefieres aves, mamíferos o una introducción variada. Pide un programa que explique hábitats, guías y tiempo de observación, y que aclare qué sigue siendo interesante cuando no aparece uno de los animales que esperabas encontrar.",
+            "Mantén la curiosidad y compara formato de excursión, tamaño del grupo, idioma y servicios incluidos antes de reservar. Un buen viaje de fauna te da tiempo para descubrir y comprender lo que está presente. Elige una propuesta que apoye ese proceso, sin convertir registros de conservación, imágenes de archivo o listas de especies en promesas que el bosque no puede cumplir."
+          ]
+        ]
+      }
+    }
+  },
+  "editorial_findings": [
+    "Local drafts reviewed against English and sources; literal phrasing and inconsistent pronouns corrected manually",
+    "No universal seasonal forecast or wildlife encounter guarantee",
+    "Three visibly distinct scenes per page; owner-authorized stock remains illustrative",
+    "Protected-area species list used for conservation context only",
+    "Wildlife raw draft omitted jaguar in quick answer, used incorrect Spanish animal genders and usted; corrected all against reviewed English source."
+  ]
+}

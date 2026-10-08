@@ -1,0 +1,31 @@
+{
+  "deployment": "f798509e",
+  "checks": [
+    {
+      "route": "/brazil/best-time-to-visit/",
+      "status": 302,
+      "access_hostname": "tcfr-mbw.cloudflareaccess.com",
+      "redirect_followed": false
+    },
+    {
+      "route": "/es/brazil/mejor-epoca-para-visitar/",
+      "status": 302,
+      "access_hostname": "tcfr-mbw.cloudflareaccess.com",
+      "redirect_followed": false
+    },
+    {
+      "route": "/brazil/wildlife/",
+      "status": 302,
+      "access_hostname": "tcfr-mbw.cloudflareaccess.com",
+      "redirect_followed": false
+    },
+    {
+      "route": "/es/brazil/fauna/",
+      "status": 302,
+      "access_hostname": "tcfr-mbw.cloudflareaccess.com",
+      "redirect_followed": false
+    }
+  ],
+  "authenticated_readback": "Not verified: browser security policy verification unavailable",
+  "visual_review": "Desktop/mobile pending; security controls not bypassed"
+}

@@ -1,6 +1,6 @@
 {
   "editorial_status": "reviewed",
-  "review_date": "2026-10-07",
+  "review_date": "2026-10-08",
   "images": {
     "amazon-forest-river-aerial": {
       "width": 1600,
@@ -146,6 +146,14 @@
           [
             "/brazil/river-journeys/",
             "River journeys"
+          ],
+          [
+            "/brazil/best-time-to-visit/",
+            "Choose your dates"
+          ],
+          [
+            "/brazil/wildlife/",
+            "Wildlife observation"
           ]
         ],
         "context_links": [
@@ -180,6 +188,14 @@
           [
             "Brazil river journey guide",
             "/brazil/river-journeys/"
+          ],
+          [
+            "Brazil timing guide",
+            "/brazil/best-time-to-visit/"
+          ],
+          [
+            "Brazil wildlife guide",
+            "/brazil/wildlife/"
           ]
         ],
         "feature_sides": {
@@ -309,7 +325,7 @@
           [
             "Ask for a proposal you can compare fairly",
             "Use the Brazil planning guide to share dates, traveler count, room preferences and your main interests. Request a proposal that names the property, room category, transfers, guiding, meals and exclusions. Compare the same arrangements between options, including any private activities or single-room requirements that change the price.",
-            "Read deposit, payment, cancellation and itinerary-change terms before booking connected travel. Clarify what happens if arrival delays affect the first transfer or outing. A useful quote should explain the complete stay rather than leave you to reconstruct it from photographs and a headline number of nights. Choose the option that makes your preferred pace and comfort practical."
+            "Read deposit, payment, cancellation and itinerary-change terms before booking connected travel. Clarify what happens if arrival delays affect the first transfer or outing. A useful quote should explain the complete stay rather than leave you to reconstruct it from photographs and a headline number of nights. Choose the option that makes your preferred pace and comfort practical. Use the Brazil timing guide to choose your dates and the Brazil wildlife guide to frame observation expectations."
           ]
         ]
       },
@@ -347,6 +363,14 @@
           [
             "/es/brazil/viajes-fluviales/",
             "Viajes fluviales"
+          ],
+          [
+            "/es/brazil/mejor-epoca-para-visitar/",
+            "Cuándo viajar"
+          ],
+          [
+            "/es/brazil/fauna/",
+            "Observación de fauna"
           ]
         ],
         "context_links": [
@@ -381,6 +405,14 @@
           [
             "guía de viajes fluviales de Brasil",
             "/es/brazil/viajes-fluviales/"
+          ],
+          [
+            "guía de temporadas de Brasil",
+            "/es/brazil/mejor-epoca-para-visitar/"
+          ],
+          [
+            "guía de fauna de Brasil",
+            "/es/brazil/fauna/"
           ]
         ],
         "feature_sides": {
@@ -510,7 +542,7 @@
           [
             "Pide una propuesta que puedas comparar equitativamente",
             "Usa la guía de planificación de Brasil para compartir fechas, número de viajeros, preferencias de habitación y tus principales intereses. Solicita una propuesta que nombre la propiedad, categoría de habitación, traslados, guía, comidas y exclusiones. Compara los mismos arreglos entre opciones, incluyendo cualquier actividad privada o requisitos de habitación individual que cambien el precio.",
-            "Lee los términos de depósito, pago, cancelación y cambio de itinerario antes de reservar viajes conectados. Aclara qué sucede si retrasos en la llegada afectan el primer traslado o salida. Una cotización útil debe explicar la estancia completa en lugar de dejarte reconstruirla desde fotografías y el número anunciado de noches. Elige la opción que hace práctico tu ritmo y comodidad que prefieress."
+            "Lee los términos de depósito, pago, cancelación y cambio de itinerario antes de reservar viajes conectados. Aclara qué sucede si retrasos en la llegada afectan el primer traslado o salida. Una cotización útil debe explicar la estancia completa en lugar de dejarte reconstruirla desde fotografías y el número anunciado de noches. Elige la opción que hace práctico tu ritmo y comodidad que prefieress. Consulta la guía de temporadas de Brasil para elegir tus fechas y la guía de fauna de Brasil para ajustar las expectativas de observación."
           ]
         ]
       }
@@ -550,6 +582,14 @@
           [
             "/brazil/river-journeys/",
             "River journeys"
+          ],
+          [
+            "/brazil/best-time-to-visit/",
+            "Choose your dates"
+          ],
+          [
+            "/brazil/wildlife/",
+            "Wildlife observation"
           ]
         ],
         "context_links": [
@@ -584,6 +624,14 @@
           [
             "Brazil river journey guide",
             "/brazil/river-journeys/"
+          ],
+          [
+            "Brazil timing guide",
+            "/brazil/best-time-to-visit/"
+          ],
+          [
+            "Brazil wildlife guide",
+            "/brazil/wildlife/"
           ]
         ],
         "feature_sides": {
@@ -713,7 +761,7 @@
           [
             "Read the full quote before committing",
             "Use the Brazil planning guide to organize dates, traveler count, cabin preferences and interests. Request the vessel name, cabin category, route outline, excursion format, crew and guiding arrangements, meals and transfers. Identify optional activities and costs outside the total. Compare like-for-like proposals before treating one headline price as better value.",
-            "Check payment, cancellation and route-change terms and the arrangements for delayed arrivals. Discuss what happens if the first departure is missed before booking a tight flight connection. A useful proposal explains how the route and life aboard fit your group. Choose the journey that gives your interests enough time and your essential comforts a clear answer."
+            "Check payment, cancellation and route-change terms and the arrangements for delayed arrivals. Discuss what happens if the first departure is missed before booking a tight flight connection. A useful proposal explains how the route and life aboard fit your group. Choose the journey that gives your interests enough time and your essential comforts a clear answer. Use the Brazil timing guide to choose your dates and the Brazil wildlife guide to frame observation expectations."
           ]
         ]
       },
@@ -751,6 +799,14 @@
           [
             "/es/brazil/viajes-fluviales/",
             "Viajes fluviales"
+          ],
+          [
+            "/es/brazil/mejor-epoca-para-visitar/",
+            "Cuándo viajar"
+          ],
+          [
+            "/es/brazil/fauna/",
+            "Observación de fauna"
           ]
         ],
         "context_links": [
@@ -785,6 +841,14 @@
           [
             "guía de viajes fluviales de Brasil",
             "/es/brazil/viajes-fluviales/"
+          ],
+          [
+            "guía de temporadas de Brasil",
+            "/es/brazil/mejor-epoca-para-visitar/"
+          ],
+          [
+            "guía de fauna de Brasil",
+            "/es/brazil/fauna/"
           ]
         ],
         "feature_sides": {
@@ -914,7 +978,7 @@
           [
             "Lee la propuesta completa antes de reservar",
             "Usa la guía de planificación de Brasil para organizar fechas, número de viajeros, preferencias de camarote e intereses. Solicita el nombre del barco, la categoría del camarote, la ruta, las excursiones, la tripulación, el servicio de guía, las comidas y los traslados. Identifica actividades opcionales y gastos adicionales. Compara servicios equivalentes antes de decidir por el precio anunciado.",
-            "Revisa las condiciones de pago, cancelación y cambios de ruta, además del plan para llegadas tardías. Aclara qué sucede si pierdes la salida antes de reservar una conexión aérea ajustada. Una propuesta útil explica cómo la ruta y la vida a bordo encajan con tu grupo. Elige un viaje que dé tiempo a tus intereses y respuestas claras sobre la comodidad que necesitas."
+            "Revisa las condiciones de pago, cancelación y cambios de ruta, además del plan para llegadas tardías. Aclara qué sucede si pierdes la salida antes de reservar una conexión aérea ajustada. Una propuesta útil explica cómo la ruta y la vida a bordo encajan con tu grupo. Elige un viaje que dé tiempo a tus intereses y respuestas claras sobre la comodidad que necesitas. Consulta la guía de temporadas de Brasil para elegir tus fechas y la guía de fauna de Brasil para ajustar las expectativas de observación."
           ]
         ]
       }

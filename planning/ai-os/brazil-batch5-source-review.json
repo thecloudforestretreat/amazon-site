@@ -1,0 +1,56 @@
+{
+  "review_date": "2026-10-08",
+  "sources": [
+    {
+      "url": "https://www.visitbrasil.com/location/alter-do-chao/",
+      "verified": "Direct page read",
+      "claims": [
+        "Broad August\u2013December beach emergence window; regional description, not forecast"
+      ],
+      "excluded": [
+        "Tourism superlatives",
+        "Operator packages",
+        "Universal Brazilian Amazon calendar"
+      ]
+    },
+    {
+      "url": "https://feel.visitbrasil.com/en/anavilhanas-itinerary/",
+      "verified": "Direct page read",
+      "claims": [
+        "Flooded forests/channels during higher water; emerging beaches in lower-water season"
+      ],
+      "excluded": [
+        "Advertised operator timetable",
+        "Birds-of-paradise claim",
+        "Dolphin-contact experience"
+      ]
+    },
+    {
+      "url": "https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/amazonia/lista-de-ucs/parna-de-anavilhanas",
+      "verified": "Official search result text; direct open timed out",
+      "claims": [
+        "Protected threatened species list includes pink river dolphin, giant otter, Amazonian manatee, jaguar"
+      ],
+      "qualification": "Conservation record only; no sighting likelihood inferred"
+    },
+    {
+      "url": "https://www.amazonastur.am.gov.br/wp-content/uploads/2020/02/Amazonas_Guia_Turistico_Digital-ptBR_.pdf",
+      "verified": "Saved prior full PDF review, stable visitor practice context",
+      "claims": [
+        "Observe at distance, stay on trails, remove waste"
+      ],
+      "qualification": "No current operator inventory or schedules inferred"
+    }
+  ],
+  "image_review": {
+    "animals": [
+      "amazon-macaws-in-flight",
+      "amazon-river-dolphin-surfacing",
+      "amazon-caiman-water-closeup"
+    ],
+    "rights": "Owner Adobe Express authorization retained",
+    "qualification": "Illustrative stock; no exact Brazil capture site claim",
+    "no_duplicate_scene_within_page": true
+  },
+  "visual_review": "Browser security policy verification unavailable; no workaround attempted"
+}

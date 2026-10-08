@@ -1,0 +1,27 @@
+{
+  "runs": [
+    {
+      "topic": "timing",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 1819,
+      "output_tokens": 2120,
+      "seconds": 94.22,
+      "retries": 0,
+      "cache_hits": null
+    },
+    {
+      "topic": "wildlife",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 1842,
+      "output_tokens": 2259,
+      "seconds": 92.81,
+      "retries": 0,
+      "cache_hits": null
+    }
+  ],
+  "cloud_percentage": "Unavailable: no comparable cloud token meter",
+  "total_local_tokens": 8040,
+  "retries": 0,
+  "cache_hits": "Not exposed by local API",
+  "promotion": "Local translation drafts reviewed and substantially polished before rendering; raw outputs retained."
+}

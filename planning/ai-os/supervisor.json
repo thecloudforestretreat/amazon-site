@@ -66,8 +66,8 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review of eight staged Brazil pairs; browser visual QA remains blocked",
-    "Next two-pair candidates: timing and wildlife; Brazil production release not authorized"
+    "Owner review of ten staged Brazil pairs; browser visual QA remains blocked",
+    "Next two-pair candidates: access and packing; Brazil production release not authorized"
   ],
   "future_batches": [
     "Reviews deferred by owner; exclude from Ecuador launch",
@@ -111,10 +111,10 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "Amazon lodges EN/ES",
-    "River journeys EN/ES"
+    "Best time to visit EN/ES",
+    "Wildlife EN/ES"
   ],
-  "batch_status": "Owner confirmed inbox delivery; branded HTML signature with Instagram deployed",
+  "batch_status": "Brazil batch5 deployed to protected staging f798509e; technical checks pass, desktop/mobile visual review pending",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",
