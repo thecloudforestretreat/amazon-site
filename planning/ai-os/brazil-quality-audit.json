@@ -1,19 +1,23 @@
 {
-  "pages_audited": 8,
+  "pages_audited": 12,
   "errors": [],
   "pages": [
     {
       "route": "/brazil/",
-      "main_words": 1333,
+      "main_words": 1379,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/brazil/manaus/",
         "/brazil/rio-negro/",
-        "/brazil/plan-your-amazon-trip/"
+        "/brazil/plan-your-amazon-trip/",
+        "/brazil/anavilhanas/",
+        "/brazil/alter-do-chao/"
       ],
       "main_content_outlinks": [
         "/",
         "/bolivia/",
+        "/brazil/alter-do-chao/",
+        "/brazil/anavilhanas/",
         "/brazil/manaus/",
         "/brazil/plan-your-amazon-trip/",
         "/brazil/rio-negro/",
@@ -36,17 +40,89 @@
       "issues": []
     },
     {
-      "route": "/brazil/manaus/",
-      "main_words": 1415,
+      "route": "/brazil/alter-do-chao/",
+      "main_words": 1492,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/brazil/",
+        "/brazil/manaus/",
         "/brazil/rio-negro/",
-        "/brazil/plan-your-amazon-trip/"
+        "/brazil/plan-your-amazon-trip/",
+        "/brazil/anavilhanas/"
       ],
       "main_content_outlinks": [
         "/",
         "/brazil/",
+        "/brazil/anavilhanas/",
+        "/brazil/manaus/",
+        "/brazil/plan-your-amazon-trip/",
+        "/brazil/rio-negro/",
+        "/contact/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/brazil.css?v=f560c9754f9c"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/brazil/anavilhanas/",
+      "main_words": 1431,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/brazil/",
+        "/brazil/manaus/",
+        "/brazil/rio-negro/",
+        "/brazil/plan-your-amazon-trip/",
+        "/brazil/alter-do-chao/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/brazil/",
+        "/brazil/alter-do-chao/",
+        "/brazil/manaus/",
+        "/brazil/plan-your-amazon-trip/",
+        "/brazil/rio-negro/",
+        "/contact/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/brazil.css?v=f560c9754f9c"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/brazil/manaus/",
+      "main_words": 1461,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/brazil/",
+        "/brazil/rio-negro/",
+        "/brazil/plan-your-amazon-trip/",
+        "/brazil/anavilhanas/",
+        "/brazil/alter-do-chao/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/brazil/",
+        "/brazil/alter-do-chao/",
+        "/brazil/anavilhanas/",
         "/brazil/plan-your-amazon-trip/",
         "/brazil/rio-negro/",
         "/contact/"
@@ -67,17 +143,21 @@
     },
     {
       "route": "/brazil/plan-your-amazon-trip/",
-      "main_words": 1316,
+      "main_words": 1362,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/brazil/",
         "/brazil/manaus/",
-        "/brazil/rio-negro/"
+        "/brazil/rio-negro/",
+        "/brazil/anavilhanas/",
+        "/brazil/alter-do-chao/"
       ],
       "main_content_outlinks": [
         "/",
         "/bolivia/",
         "/brazil/",
+        "/brazil/alter-do-chao/",
+        "/brazil/anavilhanas/",
         "/brazil/manaus/",
         "/brazil/rio-negro/",
         "/contact/",
@@ -100,16 +180,20 @@
     },
     {
       "route": "/brazil/rio-negro/",
-      "main_words": 1389,
+      "main_words": 1435,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/brazil/",
         "/brazil/manaus/",
-        "/brazil/plan-your-amazon-trip/"
+        "/brazil/plan-your-amazon-trip/",
+        "/brazil/anavilhanas/",
+        "/brazil/alter-do-chao/"
       ],
       "main_content_outlinks": [
         "/",
         "/brazil/",
+        "/brazil/alter-do-chao/",
+        "/brazil/anavilhanas/",
         "/brazil/manaus/",
         "/brazil/plan-your-amazon-trip/",
         "/contact/"
@@ -130,16 +214,94 @@
     },
     {
       "route": "/es/brazil/",
-      "main_words": 1523,
+      "main_words": 1580,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/brazil/manaus/",
         "/es/brazil/rio-negro/",
-        "/es/brazil/planifica-tu-viaje-a-la-amazonia/"
+        "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+        "/es/brazil/anavilhanas/",
+        "/es/brazil/alter-do-chao/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/bolivia/",
+        "/es/brazil/alter-do-chao/",
+        "/es/brazil/anavilhanas/",
+        "/es/brazil/manaus/",
+        "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+        "/es/brazil/rio-negro/",
+        "/es/contacto/",
+        "/es/ecuador/",
+        "/es/peru/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/brazil.css?v=f560c9754f9c"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/brazil/alter-do-chao/",
+      "main_words": 1736,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/brazil/",
+        "/es/brazil/manaus/",
+        "/es/brazil/rio-negro/",
+        "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+        "/es/brazil/anavilhanas/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/bolivia/",
+        "/es/brazil/",
+        "/es/brazil/anavilhanas/",
+        "/es/brazil/manaus/",
+        "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+        "/es/brazil/rio-negro/",
+        "/es/contacto/",
+        "/es/ecuador/",
+        "/es/peru/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/brazil.css?v=f560c9754f9c"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/brazil/anavilhanas/",
+      "main_words": 1615,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/brazil/",
+        "/es/brazil/manaus/",
+        "/es/brazil/rio-negro/",
+        "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+        "/es/brazil/alter-do-chao/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/bolivia/",
+        "/es/brazil/",
+        "/es/brazil/alter-do-chao/",
         "/es/brazil/manaus/",
         "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
         "/es/brazil/rio-negro/",
@@ -163,16 +325,20 @@
     },
     {
       "route": "/es/brazil/manaus/",
-      "main_words": 1542,
+      "main_words": 1599,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/brazil/",
         "/es/brazil/rio-negro/",
-        "/es/brazil/planifica-tu-viaje-a-la-amazonia/"
+        "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+        "/es/brazil/anavilhanas/",
+        "/es/brazil/alter-do-chao/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/brazil/",
+        "/es/brazil/alter-do-chao/",
+        "/es/brazil/anavilhanas/",
         "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
         "/es/brazil/rio-negro/",
         "/es/contacto/"
@@ -193,17 +359,21 @@
     },
     {
       "route": "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
-      "main_words": 1474,
+      "main_words": 1531,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/brazil/",
         "/es/brazil/manaus/",
-        "/es/brazil/rio-negro/"
+        "/es/brazil/rio-negro/",
+        "/es/brazil/anavilhanas/",
+        "/es/brazil/alter-do-chao/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/bolivia/",
         "/es/brazil/",
+        "/es/brazil/alter-do-chao/",
+        "/es/brazil/anavilhanas/",
         "/es/brazil/manaus/",
         "/es/brazil/rio-negro/",
         "/es/contacto/",
@@ -226,16 +396,20 @@
     },
     {
       "route": "/es/brazil/rio-negro/",
-      "main_words": 1509,
+      "main_words": 1566,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/brazil/",
         "/es/brazil/manaus/",
-        "/es/brazil/planifica-tu-viaje-a-la-amazonia/"
+        "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+        "/es/brazil/anavilhanas/",
+        "/es/brazil/alter-do-chao/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/brazil/",
+        "/es/brazil/alter-do-chao/",
+        "/es/brazil/anavilhanas/",
         "/es/brazil/manaus/",
         "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
         "/es/contacto/"

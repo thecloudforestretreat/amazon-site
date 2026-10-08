@@ -1,0 +1,26 @@
+{
+  "runs": [
+    {
+      "topic": "anavilhanas",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 1837,
+      "output_tokens": 2123,
+      "seconds": 93.6,
+      "retries": 0,
+      "cache_hits": null
+    },
+    {
+      "topic": "alter-do-chao",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 1842,
+      "output_tokens": 2167,
+      "seconds": 88.58,
+      "retries": 0,
+      "cache_hits": null
+    }
+  ],
+  "cloud_percentage": "Unavailable: no comparable cloud token meter",
+  "total_local_tokens": 7969,
+  "editorial_review": "Manual bilingual review after translation; raw output retained",
+  "sandbox_network_retry": 1
+}

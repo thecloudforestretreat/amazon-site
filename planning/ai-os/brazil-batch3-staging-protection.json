@@ -1,0 +1,27 @@
+{
+  "deployment": "d3eb5e53",
+  "checks": [
+    {
+      "route": "/brazil/anavilhanas/",
+      "status": 302,
+      "redirect_hostname": "tcfr-mbw.cloudflareaccess.com"
+    },
+    {
+      "route": "/es/brazil/anavilhanas/",
+      "status": 302,
+      "redirect_hostname": "tcfr-mbw.cloudflareaccess.com"
+    },
+    {
+      "route": "/brazil/alter-do-chao/",
+      "status": 302,
+      "redirect_hostname": "tcfr-mbw.cloudflareaccess.com"
+    },
+    {
+      "route": "/es/brazil/alter-do-chao/",
+      "status": 302,
+      "redirect_hostname": "tcfr-mbw.cloudflareaccess.com"
+    }
+  ],
+  "initial_urllib_attempt": "403; curl HEAD confirms Access 302 redirects; login not followed",
+  "authenticated_readback": "not verified: browser policy check unavailable"
+}

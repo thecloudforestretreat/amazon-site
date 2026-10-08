@@ -1,10 +1,10 @@
 {
   "country": "brazil",
   "date": "2026-10-07",
-  "owner_authorized": "Owner explicitly requested next two-pair batch on October 7",
-  "stage": "four_pairs_deployed_technical_checks_pass_visual_qa_pending",
-  "deployment": "1e929976",
-  "previous_staging_deployment": "3da7d87b",
+  "owner_authorized": "Owner requested next two-pair batch and progress report October 7",
+  "stage": "six_pairs_deployed_technical_checks_pass_visual_qa_pending",
+  "deployment": "d3eb5e53",
+  "previous_staging_deployment": "1e929976",
   "pairs": [
     {
       "topic": "overview",
@@ -25,20 +25,28 @@
       "topic": "Rio Negro",
       "en": "https://staging.experiencetheamazon.com/brazil/rio-negro/",
       "es": "https://staging.experiencetheamazon.com/es/brazil/rio-negro/"
+    },
+    {
+      "topic": "Anavilhanas",
+      "en": "https://staging.experiencetheamazon.com/brazil/anavilhanas/",
+      "es": "https://staging.experiencetheamazon.com/es/brazil/anavilhanas/"
+    },
+    {
+      "topic": "Santarém and Alter do Chão",
+      "en": "https://staging.experiencetheamazon.com/brazil/alter-do-chao/",
+      "es": "https://staging.experiencetheamazon.com/es/brazil/alter-do-chao/"
     }
   ],
   "progress": {
-    "staged_pairs": 4,
-    "staged_pages": 8,
+    "staged_pairs": 6,
+    "staged_pages": 12,
     "live_brazil_pages": 0,
     "launch_verified_pairs": 0,
     "next_batch_candidates": [
-      "Anavilhanas",
-      "Santarém and Alter do Chão"
+      "forest lodges",
+      "river journeys"
     ],
     "remaining_cluster_candidates": [
-      "Anavilhanas",
-      "Santarém and Alter do Chão",
       "forest lodges",
       "river journeys",
       "timing",
@@ -50,12 +58,12 @@
     "scope_note": "Remaining topics are proposed cluster candidates, not a claim of completed or authorized release"
   },
   "qa": {
-    "compiled_site_pages": 132,
-    "brazil_pages_audited": 8,
+    "compiled_site_pages": 136,
+    "brazil_pages_audited": 12,
     "audit_errors": 0,
     "words": [
-      1316,
-      1542
+      1362,
+      1736
     ],
     "distinct_images_per_page": 3,
     "handler_tests": 17,
@@ -66,11 +74,11 @@
     "authenticated_readback": "not verified",
     "visual_review": "blocked: browser admin security policy verification unavailable",
     "css_delivery_regression_tests": 3,
-    "minimum_paragraph_inlink_pages": 3
+    "minimum_paragraph_inlink_pages": 5
   },
   "image_status": "New documented Manaus/Rio Negro waterfront photo; licensed stock forest and wildlife remain illustrative. Final destination imagery review pending.",
-  "local_usage_file": "brazil-batch2-local-usage.json",
-  "editorial_checkpoint": "brazil-batch2-reviewed.json",
+  "local_usage_file": "brazil-batch3-local-usage.json",
+  "editorial_checkpoint": "brazil-batch3-reviewed.json",
   "production_authorized": false,
   "workflow_improvements": [
     "Added Brazil to existing CSS selector groups including compact spacing and dark CTA contrast, without altering established declarations",
@@ -78,7 +86,7 @@
     "Reviewed local translation before rendering; corrected literal and inconsistent Spanish",
     "Rejected an image with a visible Bolivian flag from Brazil selection"
   ],
-  "rollback": "Previous staging deployment 3da7d87b; source parent df27de3",
+  "rollback": "Previous staging deployment 1e929976; source parent de1cfd7",
   "limits": [
     "No desktop/mobile screenshots due browser policy blocker",
     "No live SEO rankings/AEO citations/Core Web Vitals measured",
@@ -89,5 +97,9 @@
     "brazil-batch2-contextual-links.json",
     "brazil-batch2-staging-protection.json",
     "brazil-manaus-image-license.json"
+  ],
+  "batch3_evidence": [
+    "brazil-batch3-contextual-links.json",
+    "brazil-batch3-staging-protection.json"
   ]
 }

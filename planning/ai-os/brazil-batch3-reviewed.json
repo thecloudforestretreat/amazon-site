@@ -1,0 +1,856 @@
+{
+  "editorial_status": "reviewed",
+  "review_date": "2026-10-07",
+  "images": {
+    "amazon-forest-river-aerial": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-aerial.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "25fdbaac484995f9de40d64e3334022af4578b8584ddf44d0eae688523ba3d97",
+      "web_sha256": "3acf7d2822a7a986c4e6466f9551f2ac1ef3594975e7d799297620527c36df75",
+      "original_bytes": 413373,
+      "web_bytes": 268828,
+      "alt": {
+        "en": "A winding river surrounded by tropical forest",
+        "es": "Río sinuoso rodeado de bosque tropical"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-macaws-in-flight": {
+      "width": 1280,
+      "height": 1600,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-macaws-in-flight.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "82d58f5b49cb5bf966d6dea475a78706f5329dd7c6874a360de3ce2cf848e4e1",
+      "web_sha256": "b4baaf108be2a1643a1d416aef8fbd8cbfa0a731bc166413c9b4ed942f41bea4",
+      "original_bytes": 126325,
+      "web_bytes": 83978,
+      "alt": {
+        "en": "Colorful macaws flying past green foliage",
+        "es": "Guacamayos de colores volando frente a la vegetación"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-forest-river-channel": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-channel.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "26fc7f3acb97ef3ebb20601be3e1936abd5dacf94d5512733f3821f39b590562",
+      "web_sha256": "86ee2b866c5376b71f445a987aed66705faefd05f2cbd869f0ba201df71b3ba6",
+      "original_bytes": 311342,
+      "web_bytes": 189574,
+      "alt": {
+        "en": "River channel between wooded banks",
+        "es": "Canal fluvial entre orillas arboladas"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-small-monkeys-pair": {
+      "width": 1280,
+      "height": 1600,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-small-monkeys-pair.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "7498d6ee621cab64d0807d713a35584241994b7a39ae281cced9fc11820db7bd",
+      "web_sha256": "f9e39893d267e654aedd43050ce21d340f436e8b7f5d9504f512ee4226c07cf9",
+      "original_bytes": 164505,
+      "web_bytes": 116268,
+      "alt": {
+        "en": "Two small monkeys together on a branch",
+        "es": "Dos monos pequeños juntos sobre una rama"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "manaus-rio-negro": {
+      "src": "/assets/images/brazil/manaus-rio-negro.jpg",
+      "width": 1800,
+      "height": 1321,
+      "source": "https://commons.wikimedia.org/wiki/File:Manaus_-_View_from_River.jpg",
+      "label": "P. Hughes; resized for web",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "location_evidence": "View of the outskirts of Manaus, from Rio Negro, Brazil",
+      "attribution_required": true
+    },
+    "amazon-forest-river-sunset": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-sunset.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "1bfd90ab7caece29793539505b2a45970100c256b824da89bb35b4204fcedc5d",
+      "web_sha256": "1207b7ec779a5932e6a719caa8ef65c7f07dd2dae9b7bf01f37f1853059451eb",
+      "original_bytes": 256042,
+      "web_bytes": 141608,
+      "alt": {
+        "en": "Sunset reflected in a river beside forest",
+        "es": "Atardecer reflejado en un río junto al bosque"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    }
+  },
+  "pages": {
+    "anavilhanas": {
+      "en": {
+        "type": "destination-guide",
+        "links": [
+          [
+            "/brazil/",
+            "Brazil overview"
+          ],
+          [
+            "/brazil/plan-your-amazon-trip/",
+            "Plan your journey"
+          ],
+          [
+            "/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/brazil/rio-negro/",
+            "Rio Negro"
+          ],
+          [
+            "/brazil/anavilhanas/",
+            "Anavilhanas"
+          ],
+          [
+            "/brazil/alter-do-chao/",
+            "Santarém & Alter do Chão"
+          ]
+        ],
+        "context_links": [
+          [
+            "Brazil overview",
+            "/brazil/"
+          ],
+          [
+            "Brazil planning guide",
+            "/brazil/plan-your-amazon-trip/"
+          ],
+          [
+            "Manaus guide",
+            "/brazil/manaus/"
+          ],
+          [
+            "Rio Negro guide",
+            "/brazil/rio-negro/"
+          ],
+          [
+            "Anavilhanas guide",
+            "/brazil/anavilhanas/"
+          ],
+          [
+            "Alter do Chão guide",
+            "/brazil/alter-do-chao/"
+          ]
+        ],
+        "feature_sides": {
+          "2": "left",
+          "5": "right"
+        },
+        "scope": "Editorial review: October 7, 2026. Regional setting checked against the official sources below. The comparisons are planning guidance, not confirmed packages. Licensed stock photographs illustrate Amazon forest and wildlife; they do not document a particular park, property or promised sighting. Confirm current routes and visiting arrangements for your dates.",
+        "hero": [
+          "amazon-forest-river-aerial",
+          "Illustrative river winding through Amazon forest"
+        ],
+        "features": {
+          "2": [
+            "amazon-forest-river-channel",
+            "Illustrative forest-lined Amazon river channel"
+          ],
+          "5": [
+            "amazon-macaws-in-flight",
+            "Macaws in flight, illustrative wildlife photograph"
+          ]
+        },
+        "slug": "anavilhanas",
+        "pair_id": "brazil_anavilhanas_001",
+        "h1": "Anavilhanas: forest islands, a slower river rhythm",
+        "title": "Anavilhanas Travel Guide | Novo Airão & Rio Negro",
+        "description": "Plan Anavilhanas from the Novo Airão region: compare overnight bases, river outings, forest time and practical connections through Manaus.",
+        "lede": "Give the archipelago time to unfold. Shape your stay around forest observation, river journeys and a base that makes those experiences practical.",
+        "quick": [
+          "Choose the base before filling the activity list",
+          "Anavilhanas is a Rio Negro river-island setting associated with Novo Airão. Compare where you sleep, how outings reach the archipelago and the time left after transfers."
+        ],
+        "choices_heading": "What would make this stay worthwhile?",
+        "choices": [
+          [
+            "Time on the river",
+            "Prioritize patient exploration of the island-and-channel landscape.",
+            "#section-2"
+          ],
+          [
+            "A settled overnight base",
+            "Compare location, comfort and guiding before choosing a lodge or town stay.",
+            "#section-3"
+          ],
+          [
+            "Forest and local knowledge",
+            "Leave space for walks and host-led encounters with clear visiting arrangements.",
+            "#section-5"
+          ]
+        ],
+        "cta": [
+          "Make space for the river, rather than another rushed stop",
+          "Share your dates, preferred comfort and interests so the base and outings work together."
+        ],
+        "sources": [
+          [
+            "Visit Brasil: Anavilhanas and Novo Airão",
+            "https://feel.visitbrasil.com/en/anavilhanas-itinerary/"
+          ],
+          [
+            "Brazil Ministry of Tourism: Amazon nature destinations",
+            "https://www.gov.br/turismo/pt-br/assuntos/noticias/destinos-revelam-a-diversidade-do-turismo-de-natureza-na-amazonia-brasileira"
+          ]
+        ],
+        "faqs": [
+          [
+            "Is Anavilhanas the same as any Rio Negro tour?",
+            "No. Ask which areas the itinerary visits. A general Rio Negro journey does not establish that the archipelago is included."
+          ],
+          [
+            "Where does Novo Airão fit?",
+            "Novo Airão is a regional base associated with Anavilhanas. Compare the location of your accommodation and the departure points for the specific outings you want."
+          ],
+          [
+            "Should I choose a day visit or an overnight stay?",
+            "Compare the whole transfer and activity schedule. An overnight stay may leave more time to explore, but its value depends on the base, guiding and your available dates."
+          ],
+          [
+            "Will every pictured channel or wildlife encounter be available?",
+            "No. Current river conditions and natural animal behavior affect outings. Ask for alternatives and choose observation without feeding, handling or staged encounters."
+          ]
+        ],
+        "sections": [
+          [
+            "Understand the setting before choosing a tour",
+            "Anavilhanas brings a forested river-island landscape into the Rio Negro regional choice. Novo Airão is the town associated with this setting in official tourism material. Start with that relationship, then ask a provider to identify the actual areas visited. A destination name on an itinerary is less useful than a clear description of the outings and overnight location.",
+            "Use the Rio Negro guide to compare the archipelago-focused stay with a broader river journey. Decide whether you want depth in one area or movement between bases. Neither approach is automatically better: the useful difference is how much time each leaves for observation, walking and the experiences that drew you here."
+          ],
+          [
+            "Connect Manaus and Novo Airão deliberately",
+            "The Manaus guide helps you decide how city time belongs around the regional transfer. Treat arrival, onward travel and the first outing as separate commitments. Request the collection place, the mode of travel and a realistic account of the day before assuming that a city arrival leaves room for an unhurried archipelago visit.",
+            "Ask who manages each connection and how a delayed arrival changes the plan. If a quoted stay begins with a long transfer, compare the exploration time remaining on that first day. Keep your return connection equally visible. A shorter list of activities with a comfortable arrival can be more satisfying than a schedule that depends on everything running perfectly."
+          ],
+          [
+            "Explore islands and channels with a purpose",
+            "The appeal of the archipelago is the relationship between water and forest, rather than one isolated viewpoint. Decide whether you would enjoy quiet observation, photography or a broader introductory outing. Explain those interests before choosing a group format. Time to stop and listen matters if your aim is to notice details rather than move quickly between landmarks.",
+            "Ask which part of the proposed outing is navigation and which part allows closer exploration. Compare seating, shade and the way passengers join smaller boats when relevant. A long boat day needs more than an attractive route name. It should give you a clear idea of the rhythm, the stops and the options if you prefer a shorter activity."
+          ],
+          [
+            "Choose the overnight location for the experience",
+            "A town stay and a forest lodge organize the day differently. Compare the departure point for outings, travel to meals and the ease of taking a break. A remote-looking photograph does not establish how isolated a property is, just as a town address does not explain how quickly its excursions reach the areas you want to explore.",
+            "Ask about room privacy, bathrooms, ventilation, electricity and meals. Make essential comfort or mobility requirements explicit before receiving a proposal. Then compare the guiding and excursion arrangements alongside the room. A more elaborate property is only useful when the location and daily experience fit your priorities as well as the accommodation."
+          ],
+          [
+            "Let conditions guide the itinerary",
+            "Official tourism descriptions distinguish flooded-forest and exposed-beach experiences as river conditions change. Treat that as a reason to ask better questions, not as a promise that a particular photograph will match your travel dates. Request a current description from the provider and an explanation of the activities suited to those conditions.",
+            "Keep alternatives that genuinely interest you in the plan. Ask how a changed route affects activity time and paid inclusions. Avoid building the entire stay around one landing place or one expected water level. A flexible itinerary can still be specific about the standard of guiding, the overnight base and the experiences it is designed to support."
+          ],
+          [
+            "Value observation beyond a hoped-for animal",
+            "A quieter outing can reveal sounds, tracks and habitat even when a particular animal stays out of view. Tell the guide whether birds, photography or general natural history matter most to you. Ask how the pace and interpretation change with those interests, and whether your group format permits patient stops without pressuring other travelers.",
+            "Choose viewing that avoids feeding, handling or staging animals for a photograph. Do not treat a long species list as evidence of sightings on your visit. Ask what a typical forest or river outing teaches and how the guide makes it worthwhile on quieter days. This gives you a more useful basis for comparison than an animal promise."
+          ],
+          [
+            "Arrange community visits with the hosts",
+            "If local cultural knowledge is part of your interest, ask who receives visitors and how the encounter is organized. Distinguish a host-led visit from an unnamed stop added to a general tour. The people welcoming you should decide what they share and which activities are appropriate, including whether photography is welcome.",
+            "Confirm group size, language support and what any payment includes. Leave room to purchase crafts on the hosts’ terms if that is offered, without assuming that every visit includes a workshop or performance. A meaningful encounter needs enough time for listening and exchange; fitting several communities into one day is not automatically a richer experience."
+          ],
+          [
+            "Compare guiding, access and total inclusions",
+            "Request an outline that separates transfers, guided excursions and independent time. Compare the same room arrangement and group size between proposals. Identify meals, additional outings and charges payable locally. This makes a town-based version and a lodge-based version easier to assess without mistaking different inclusions for a straightforward price difference.",
+            "Ask about steps, boarding arrangements and walking terrain for the actual activities proposed. General descriptions such as easy or adventurous are not precise enough for an access decision. Share the requirements that affect your participation and get practical answers before committing. Keep payment, cancellation and change terms alongside the itinerary rather than dealing with them after a connection is booked."
+          ],
+          [
+            "Build one coherent regional stay",
+            "Use the Brazil planning guide to connect your dates with the amount of time available after arrival and departure. Add preferred comfort, traveler count and your main observation interests. If you are still choosing between regions, the Brazil overview offers the wider context before you commit all your time to the Manaus area.",
+            "For a different river-and-village emphasis, compare the Alter do Chão guide rather than assuming another Amazon region will feel identical. Avoid adding it simply to lengthen a list of destinations: extra connections should support your interests. A good Anavilhanas proposal explains how the base, river outings and forest time form a stay you can enjoy at your preferred pace."
+          ]
+        ]
+      },
+      "es": {
+        "type": "destination-guide",
+        "links": [
+          [
+            "/es/brazil/anavilhanas/",
+            "Anavilhanas"
+          ],
+          [
+            "/es/brazil/alter-do-chao/",
+            "Santarém y Alter do Chão"
+          ],
+          [
+            "/es/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/es/brazil/rio-negro/",
+            "Rio Negro"
+          ],
+          [
+            "/es/brazil/",
+            "Panorama de Brasil"
+          ],
+          [
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+            "Planifica tu viaje"
+          ],
+          [
+            "/es/peru/",
+            "Amazonía peruana"
+          ],
+          [
+            "/es/ecuador/",
+            "Amazonía ecuatoriana"
+          ],
+          [
+            "/es/bolivia/",
+            "Amazonía boliviana"
+          ]
+        ],
+        "context_links": [
+          [
+            "guía de Anavilhanas",
+            "/es/brazil/anavilhanas/"
+          ],
+          [
+            "guía de Alter do Chão",
+            "/es/brazil/alter-do-chao/"
+          ],
+          [
+            "guía de Manaus",
+            "/es/brazil/manaus/"
+          ],
+          [
+            "guía del Rio Negro",
+            "/es/brazil/rio-negro/"
+          ],
+          [
+            "guía de planificación de Brasil",
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/"
+          ],
+          [
+            "panorama de Brasil",
+            "/es/brazil/"
+          ]
+        ],
+        "feature_sides": {
+          "2": "left",
+          "5": "right"
+        },
+        "scope": "Revisión editorial: 7 de octubre de 2026. Información regional contrastada con las fuentes oficiales indicadas. Las comparaciones son orientación para planificar, no paquetes confirmados. Las fotografías de archivo autorizadas ilustran paisajes y fauna amazónicos; no acreditan un parque, alojamiento ni avistamiento específico. Confirma las rutas y condiciones de visita para tus fechas.",
+        "hero": [
+          "amazon-forest-river-aerial",
+          "Río rodeado de bosque amazónico, imagen ilustrativa"
+        ],
+        "features": {
+          "2": [
+            "amazon-forest-river-channel",
+            "Canal rodeado de bosque amazónico, imagen ilustrativa"
+          ],
+          "5": [
+            "amazon-macaws-in-flight",
+            "Guacamayos en vuelo, imagen ilustrativa"
+          ]
+        },
+        "slug": "anavilhanas",
+        "pair_id": "brazil_anavilhanas_001",
+        "h1": "Anavilhanas: islas de bosque y un río sin prisas",
+        "title": "Guía de Anavilhanas | Novo Airão y Rio Negro",
+        "description": "Planifica Anavilhanas desde Novo Airão: compara alojamientos, salidas por el río, tiempo en el bosque y conexiones desde Manaus.",
+        "lede": "Dedica tiempo a descubrir el archipiélago. Combina observación del bosque, salidas por el río y un alojamiento que facilite las experiencias que buscas.",
+        "quick": [
+          "Elige el alojamiento antes de llenar la lista de actividades",
+          "Anavilhanas es un paisaje de islas del Rio Negro asociado a Novo Airão. Compara dónde dormirás, cómo llegarán las excursiones al archipiélago y el tiempo que queda después de los traslados."
+        ],
+        "choices_heading": "¿Qué haría que esta estancia valga la pena?",
+        "choices": [
+          [
+            "Tiempo en el río",
+            "Prioriza una exploración paciente del paisaje de islas y canales.",
+            "#section-2"
+          ],
+          [
+            "Un alojamiento bien ubicado",
+            "Compara ubicación, confort y servicio de guía antes de elegir un lodge o alojarte en un pueblo.",
+            "#section-3"
+          ],
+          [
+            "Bosque y conocimiento local",
+            "Deja espacio para caminatas y encuentros dirigidos por anfitriones con acuerdos de visita claros.",
+            "#section-5"
+          ]
+        ],
+        "cta": [
+          "Deja espacio para el río, en lugar de otra parada apresurada",
+          "Comparte tus fechas, la comodidad que buscas y tus intereses para coordinar el alojamiento con las excursiones."
+        ],
+        "sources": [
+          [
+            "Visit Brasil: Anavilhanas and Novo Airão",
+            "https://feel.visitbrasil.com/en/anavilhanas-itinerary/"
+          ],
+          [
+            "Brazil Ministry of Tourism: Amazon nature destinations",
+            "https://www.gov.br/turismo/pt-br/assuntos/noticias/destinos-revelam-a-diversidade-do-turismo-de-natureza-na-amazonia-brasileira"
+          ]
+        ],
+        "faqs": [
+          [
+            "¿Es Anavilhanas lo mismo que cualquier tour del Rio Negro?",
+            "No. Pregunta qué áreas visita el itinerario. Un viaje general del Rio Negro no establece que el archipiélago esté incluido."
+          ],
+          [
+            "¿Dónde encaja Novo Airão?",
+            "Novo Airão es una base regional asociada a Anavilhanas. Compara la ubicación de tu alojamiento y los puntos de partida para las salidas específicas que quieres."
+          ],
+          [
+            "¿Debería elegir una visita de día o una estancia nocturna?",
+            "Compara el horario completo de traslados y actividades. Una estancia nocturna puede dejar más tiempo para explorar, pero su valor depende del alojamiento, el servicio de guía y tus fechas disponibles."
+          ],
+          [
+            "¿Está disponible cada canal o encuentro con vida silvestre fotografiado?",
+            "No. Las condiciones del río y el comportamiento natural de los animales afectan las excursiones. Pide alternativas y elige observación sin alimentar ni manipular animales y sin encuentros preparados para visitantes."
+          ]
+        ],
+        "sections": [
+          [
+            "Entiende el entorno antes de elegir un tour",
+            "Anavilhanas ofrece un paisaje de islas cubiertas de bosque en la región del Rio Negro. Las fuentes turísticas oficiales lo relacionan con Novo Airão. A partir de esa ubicación, pide al proveedor que identifique las zonas concretas de las excursiones. El nombre del destino no sustituye una descripción clara de las salidas y del lugar donde dormirás.",
+            "Usa la guía del Rio Negro para comparar una estancia centrada en el archipiélago con un viaje fluvial más amplio. Decide si prefieres profundidad en un área o movimiento entre bases. Ningún enfoque es automáticamente mejor: la diferencia útil es cuánto tiempo deja cada opción para observar, caminar y las experiencias que te trajeron aquí."
+          ],
+          [
+            "Conecta Manaus y Novo Airão deliberadamente",
+            "La guía de Manaus te ayuda a decidir cuánto tiempo dedicar a la ciudad antes o después del traslado regional. Considera la llegada, el viaje hasta el alojamiento y la primera excursión como etapas distintas. Solicita el punto de recogida, el medio de transporte y un horario realista antes de dar por hecho que tendrás tiempo para una visita sin prisas.",
+            "Pregunta quién gestiona cada conexión y cómo cambia el plan si hay un retraso en la llegada. Si una estancia propuesta comienza con un traslado largo, compara el tiempo de exploración restante ese primer día. Mantén visible tu conexión de retorno. Una lista más corta de actividades con una llegada cómoda puede ser más satisfactoria que un horario que depende de que todo funcione perfectamente."
+          ],
+          [
+            "Explora islas y canales con propósito",
+            "El atractivo del archipiélago es la relación entre agua y bosque, más que un único mirador. Decide si disfrutarías de observación tranquila, fotografía o una salida introductoria más amplia. Expresa esos intereses antes de elegir el tipo de grupo. El tiempo para detenerse y escuchar importa si tu objetivo es observar detalles en lugar de moverte rápidamente entre puntos de interés.",
+            "Pregunta qué parte de la salida propuesta es navegación y qué parte permite una exploración más cercana. Compara asientos, sombra y la forma en que los pasajeros suben a las lanchas menores cuando corresponde. Un día largo en barco necesita más que un nombre de ruta atractivo. Debe darte una idea clara del ritmo, las paradas y las opciones si prefieres una actividad más corta."
+          ],
+          [
+            "Elige un alojamiento que facilite tus experiencias",
+            "Un alojamiento en pueblo y un lodge forestal organizan el día de forma diferente. Compara el punto de partida para las salidas, los desplazamientos para comer y la facilidad de tomar un descanso. Una fotografía que parece remota no establece qué tan aislada está una propiedad, así como una dirección en un pueblo no explica qué tan rápido llegan sus excursiones a las áreas que quieres explorar.",
+            "Pregunta sobre privacidad de habitaciones, baños, ventilación, electricidad y comidas. Haz explícitos los requisitos esenciales de confort o movilidad antes de recibir una propuesta. Luego compara el servicio de guía y las organización de las excursiones junto con la habitación. Una propiedad más elaborada solo es útil cuando la ubicación y la experiencia diaria se ajustan a tus prioridades tanto como el alojamiento."
+          ],
+          [
+            "Deja que las condiciones guíen el itinerario",
+            "Las descripciones turísticas oficiales distinguen experiencias de bosque inundado y playas expuestas según cambian las condiciones del río. Trata eso como una razón para hacer mejores preguntas, no como una promesa de que una fotografía particular coincidirá con tus fechas de viaje. Solicita una descripción actual del proveedor y una explicación de las actividades adecuadas a esas condiciones.",
+            "Mantén en el plan alternativas que genuinamente te interesen. Pregunta cómo afecta un cambio de ruta al tiempo de actividad e servicios pagados. Evita construir toda la estancia alrededor de un lugar de desembarque o un nivel de agua esperado. Un itinerario flexible aún puede ser específico sobre el estándar del servicio de guía, el alojamiento base y las experiencias que está diseñado para apoyar."
+          ],
+          [
+            "Valora la observación más allá de un animal esperado",
+            "Una salida más tranquila puede revelar sonidos, huellas y hábitat incluso cuando un animal particular se mantiene fuera de la vista. Dile al guía si aves, fotografía o historia natural general te interesan más. Pregunta cómo cambia el ritmo e interpretación con esos intereses y si tu tipo de grupo permite paradas sin prisas sin presionar a otros viajeros.",
+            "Elige observación que evite alimentar, manipular o provocar encuentros con animales para una fotografía. No trates una larga lista de especies como evidencia de avistamientos en tu visita. Pregunta qué enseña una típica salida forestal o fluvial y cómo el guía la hace valiosa en días tranquilos. Esto te da una base más útil para comparar que una promesa de animales."
+          ],
+          [
+            "Organiza visitas comunitarias con los anfitriones",
+            "Si el conocimiento cultural local es parte de tu interés, pregunta quién recibe visitantes y cómo se organiza el encuentro. Distingue una visita dirigida por anfitriones de una parada sin nombre añadida a un tour general. Las personas que te reciben deben decidir qué comparten y qué actividades son apropiadas, incluyendo si la fotografía es bienvenida.",
+            "Confirma tamaño del grupo, apoyo lingüístico e qué incluye el pago. Deja espacio para comprar artesanías bajo los condiciones de los anfitriones si se ofrece, sin asumir que cada visita incluye un taller o presentación. Un encuentro significativo necesita suficiente tiempo para escuchar e intercambiar; visitar varias comunidades en un día no es automáticamente una experiencia más rica."
+          ],
+          [
+            "Compara servicio de guía, acceso e inclusiones totales",
+            "Solicita un esquema que separe traslados, excursiones guiadas y tiempo independiente. Compara la misma disposición de habitaciones y tamaño de grupo entre propuestas. Identifica comidas, salidas adicionales y gastos que se pagan en el destino. Esto hace más fácil evaluar una versión basada en pueblo y una basada en lodge sin confundir inclusiones diferentes con una simple diferencia de precio.",
+            "Pregunta sobre escaleras, condiciones para subir al barco y terreno para caminar en las actividades propuestas. Descripciones generales como 'fácil' o 'aventurero' no son precisas para una decisión de acceso. Comparte los requisitos que afectan tu participación y obtén respuestas prácticas antes de comprometerte. Mantén términos de pago, cancelación y cambios junto con el itinerario en lugar de tratarlos después de reservar una conexión."
+          ],
+          [
+            "Construye una estancia regional coherente",
+            "Usa la guía de planificación de Brasil para conectar tus fechas con la cantidad de tiempo disponible tras la llegada y antes del regreso. Añade comodidad que prefieres, número de viajeros e intereses principales de observación. Si aún eliges entre regiones, el panorama de Brasil ofrece el contexto más amplio antes de comprometer todo tu tiempo al área de Manaus.",
+            "Para un énfasis diferente en río y pueblo, compara la guía de Alter do Chão en lugar de asumir que otra región amazónica se sentirá idéntica. Evita añadirla simplemente para alargar una lista de destinos: las conexiones adicionales deben responder a tus intereses. Una buena propuesta de Anavilhanas explica cómo el alojamiento base, las salidas fluviales y el tiempo en el bosque forman una estancia que puedes disfrutar a tu ritmo preferido."
+          ]
+        ]
+      }
+    },
+    "alter-do-chao": {
+      "en": {
+        "type": "destination-guide",
+        "links": [
+          [
+            "/brazil/",
+            "Brazil overview"
+          ],
+          [
+            "/brazil/plan-your-amazon-trip/",
+            "Plan your journey"
+          ],
+          [
+            "/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/brazil/rio-negro/",
+            "Rio Negro"
+          ],
+          [
+            "/brazil/anavilhanas/",
+            "Anavilhanas"
+          ],
+          [
+            "/brazil/alter-do-chao/",
+            "Santarém & Alter do Chão"
+          ]
+        ],
+        "context_links": [
+          [
+            "Brazil overview",
+            "/brazil/"
+          ],
+          [
+            "Brazil planning guide",
+            "/brazil/plan-your-amazon-trip/"
+          ],
+          [
+            "Manaus guide",
+            "/brazil/manaus/"
+          ],
+          [
+            "Rio Negro guide",
+            "/brazil/rio-negro/"
+          ],
+          [
+            "Anavilhanas guide",
+            "/brazil/anavilhanas/"
+          ],
+          [
+            "Alter do Chão guide",
+            "/brazil/alter-do-chao/"
+          ]
+        ],
+        "feature_sides": {
+          "2": "left",
+          "6": "right"
+        },
+        "scope": "Editorial review: October 7, 2026. Regional setting checked against the official sources below. The comparisons are planning guidance, not confirmed packages. Licensed stock photographs illustrate Amazon forest and wildlife; they do not document a particular park, property or promised sighting. Confirm current routes and visiting arrangements for your dates.",
+        "hero": [
+          "amazon-forest-river-sunset",
+          "Sunset over an Amazon river, illustrative photograph"
+        ],
+        "features": {
+          "2": [
+            "amazon-forest-river-aerial",
+            "River winding through forest, illustrative photograph"
+          ],
+          "6": [
+            "amazon-small-monkeys-pair",
+            "Two small monkeys, illustrative wildlife photograph"
+          ]
+        },
+        "slug": "alter-do-chao",
+        "pair_id": "brazil_alterdochao_001",
+        "h1": "Santarém & Alter do Chão: the Amazon at a gentler pace",
+        "title": "Alter do Chão Travel | Santarém & Tapajós Planning",
+        "description": "Compare Santarém and Alter do Chão stays, Tapajós river outings, seasonal beaches and community-led experiences with a practical travel plan.",
+        "lede": "Leave room for the village as well as the river. Balance relaxed time, forest outings and local knowledge in the Tapajós region.",
+        "quick": [
+          "A village stay can be part of a fuller Amazon journey",
+          "Santarém connects this regional choice; Alter do Chão adds a village base near the Tapajós. Beach conditions vary, so plan around more than one expected stretch of sand."
+        ],
+        "choices_heading": "Choose the balance that suits your trip",
+        "choices": [
+          [
+            "Village and river time",
+            "Keep room for relaxed days as well as planned boat outings.",
+            "#section-2"
+          ],
+          [
+            "Forest and community visits",
+            "Choose specific host-led experiences instead of an undefined cultural stop.",
+            "#section-5"
+          ],
+          [
+            "A wider regional route",
+            "Compare overnight movement and transfer time before adding more places.",
+            "#section-6"
+          ]
+        ],
+        "cta": [
+          "Find your balance of river time and exploration",
+          "Share your dates and whether beaches, forest observation or community-led visits matter most."
+        ],
+        "sources": [
+          [
+            "Visit Brasil: Alter do Chão",
+            "https://www.visitbrasil.com/location/alter-do-chao/"
+          ],
+          [
+            "Brazil Ministry of Tourism: Alter do Chão",
+            "https://www.gov.br/turismo/pt-br/assuntos/ultimas-noticia/alter-do-chao---259-anos"
+          ]
+        ],
+        "faqs": [
+          [
+            "Are Santarém and Alter do Chão the same place?",
+            "No. Alter do Chão is a village near Santarém. Confirm where you sleep and how the arrival transfer reaches that accommodation."
+          ],
+          [
+            "Can I count on the river beaches for my dates?",
+            "No. Their extent changes with river conditions. Check current information and keep other activities in your plan rather than relying on one beach photograph."
+          ],
+          [
+            "Does a village stay replace a forest lodge?",
+            "They offer different daily arrangements. Compare guided forest time, river outings and accommodation location instead of treating either label as a complete itinerary."
+          ],
+          [
+            "Can I include Tapajós or Arapiuns community visits?",
+            "Official tourism material describes community-led experiences in the region. Ask which hosts are receiving visitors and confirm the route, permissions and inclusions for your dates."
+          ]
+        ],
+        "sections": [
+          [
+            "Two names, different roles in your journey",
+            "Santarém is the arrival city named by official tourism information for this regional choice; Alter do Chão is a nearby village in Pará. Choose the overnight location deliberately. An airport arrival, a city stay and a village stay are different parts of a journey, even when a proposal groups them under a single destination heading. Santarém also offers a waterfront perspective on the meeting of the Tapajós and Amazon rivers; keep a city visit distinct from the transfer to the village.",
+            "Start with the Brazil overview if you are deciding what kind of Amazon experience to prioritize. This region can suit a balance of river scenery, village time and guided exploration. It should not be selected only because a beach photograph looks appealing: the daily rhythm, access and depth of the outings matter just as much as the landscape."
+          ],
+          [
+            "Make the arrival transfer part of the plan",
+            "Confirm how you travel from the Santarém arrival point to your accommodation and who handles that connection. Share the actual arrival time before accepting a first-day activity. Ask whether collection, luggage and check-in are included so the transition into the stay is clear rather than dependent on arrangements you discover after landing.",
+            "Keep departure day realistic as well. Discuss the return collection point and what happens if a river outing changes timing. Avoid placing a tightly timed onward booking immediately after an activity that depends on local conditions. The itinerary should distinguish a transfer day from a full exploration day, even when both count toward the advertised trip length."
+          ],
+          [
+            "Give the village and river their own time",
+            "An overnight village base can leave space for meals, independent time and planned outings without changing accommodation every day. Decide how much structure you prefer. Some travelers enjoy a guided day followed by a quieter one; others want several focused excursions. Explain that preference before filling the itinerary with activities merely because they are available. Local food is another reason to leave room in the village: official tourism information mentions tacacá, maniçoba and açaí. Ask about ingredients if you have dietary requirements rather than assuming every regional dish fits them.",
+            "Compare the accommodation’s location, room arrangement and access to the meeting points for outings. Ask how meals and transport work when they are not included. A slower day is valuable when it is intentional, rather than a gap caused by unclear arrangements. Leave room to enjoy local life without assuming that every hour needs an organized excursion."
+          ],
+          [
+            "Read beach imagery as a seasonal snapshot",
+            "Alter do Chão is known for freshwater beaches, whose exposed sand changes with river conditions. Official tourism material describes a seasonal beach period, but a broad calendar does not confirm conditions for one visit. Ask for current local information and avoid treating a dated photograph as a forecast of what you will find.",
+            "If beach time is central to your trip, discuss alternatives before booking. Compare a stay designed entirely around sand with one that also includes river scenery, forest walks or host-led experiences. That second version may offer more flexibility. Let the provider explain which options are practical for your dates rather than promising that every pictured stop is always available."
+          ],
+          [
+            "Choose river outings for more than distance",
+            "A river outing needs a purpose: landscape, observation, a community visit or time at selected stops. Ask what the route includes and how much of the day is navigation. More distance does not automatically create a better experience, particularly if it reduces the time available at the places that interest you most.",
+            "Discuss seating, shade, boarding and the group format. If you prefer a shorter day or need frequent breaks, make that clear early. Confirm how weather or changing conditions affect the route and return. Assess the actual outing rather than assuming that a general Tapajós description explains its effort, comfort or daily pace."
+          ],
+          [
+            "Put hosts at the center of community visits",
+            "Official tourism material describes community-led experiences along the Tapajós and Arapiuns. Treat these as specific encounters that need confirmation, not a generic cultural extra attached to every boat day. Ask which hosts receive visitors, what they choose to share and how the visit supports their own priorities.",
+            "Confirm language support, photography guidance and payment arrangements. Do not assume a workshop, performance or meal is included unless the hosts’ program says so. Leave enough time for listening rather than rushing between several communities. The quality of one well-arranged visit can matter more than the number of named stops in a proposal."
+          ],
+          [
+            "Combine forest and river time thoughtfully",
+            "A village-based trip and a forest-lodge stay can have different strengths. Compare how much guided forest time is actually included, what the walks involve and whether you return to the same accommodation. Explain whether photography, birds or a general introduction is your priority so the proposal can match observation time to your interests.",
+            "For a different regional emphasis, use the Anavilhanas guide and Rio Negro guide to compare archipelago-focused options. These are alternatives to assess, not nearby stops to add casually to a short stay. A route across regions needs its own transfer and connection plan. Choose additional movement only when the experience gained justifies the time it takes."
+          ],
+          [
+            "Assess comfort, access and inclusions clearly",
+            "Ask for room privacy, bathroom arrangements, ventilation and the location of common areas. Discuss walking terrain and boat boarding for the activities proposed. Labels such as relaxed or easy can conceal very different practical requirements. Share any essential access or comfort needs and request concrete answers before comparing headline prices.",
+            "Check which meals, transfers and guiding are included and which costs remain separate. Compare the same group and room arrangement between quotes. Read payment, cancellation and change terms before booking onward travel. A clear total and an honest description of the daily experience are more useful than an attractive initial price with essential arrangements left open."
+          ],
+          [
+            "Turn your interests into a workable stay",
+            "Use the Brazil planning guide to organize dates, traveler count, comfort preferences and priorities. Say whether you want mainly village and beach time, more forest observation or host-led encounters. Include already booked travel so the proposal can preserve the commitments that are hardest to change. You do not need to choose every stop before starting that conversation.",
+            "Request an outline showing overnight locations, transfers, guided days and independent time. If you are also considering Manaus, the Manaus guide helps compare a city-and-forest beginning with this village-and-river option. The better plan is the one that gives your chosen experiences enough room, rather than a route that collects destination names at the expense of time to enjoy them."
+          ]
+        ]
+      },
+      "es": {
+        "type": "destination-guide",
+        "links": [
+          [
+            "/es/brazil/anavilhanas/",
+            "Anavilhanas"
+          ],
+          [
+            "/es/brazil/alter-do-chao/",
+            "Santarém y Alter do Chão"
+          ],
+          [
+            "/es/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/es/brazil/rio-negro/",
+            "Rio Negro"
+          ],
+          [
+            "/es/brazil/",
+            "Panorama de Brasil"
+          ],
+          [
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+            "Planifica tu viaje"
+          ],
+          [
+            "/es/peru/",
+            "Amazonía peruana"
+          ],
+          [
+            "/es/ecuador/",
+            "Amazonía ecuatoriana"
+          ],
+          [
+            "/es/bolivia/",
+            "Amazonía boliviana"
+          ]
+        ],
+        "context_links": [
+          [
+            "guía de Anavilhanas",
+            "/es/brazil/anavilhanas/"
+          ],
+          [
+            "guía de Alter do Chão",
+            "/es/brazil/alter-do-chao/"
+          ],
+          [
+            "guía de Manaus",
+            "/es/brazil/manaus/"
+          ],
+          [
+            "guía del Rio Negro",
+            "/es/brazil/rio-negro/"
+          ],
+          [
+            "guía de planificación de Brasil",
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/"
+          ],
+          [
+            "panorama de Brasil",
+            "/es/brazil/"
+          ]
+        ],
+        "feature_sides": {
+          "2": "left",
+          "6": "right"
+        },
+        "scope": "Revisión editorial: 7 de octubre de 2026. Información regional contrastada con las fuentes oficiales indicadas. Las comparaciones son orientación para planificar, no paquetes confirmados. Las fotografías de archivo autorizadas ilustran paisajes y fauna amazónicos; no acreditan un parque, alojamiento ni avistamiento específico. Confirma las rutas y condiciones de visita para tus fechas.",
+        "hero": [
+          "amazon-forest-river-sunset",
+          "Atardecer sobre un río amazónico, imagen ilustrativa"
+        ],
+        "features": {
+          "2": [
+            "amazon-forest-river-aerial",
+            "Río rodeado de bosque, imagen ilustrativa"
+          ],
+          "6": [
+            "amazon-small-monkeys-pair",
+            "Dos monos pequeños, imagen ilustrativa"
+          ]
+        },
+        "slug": "alter-do-chao",
+        "pair_id": "brazil_alterdochao_001",
+        "h1": "Santarém y Alter do Chão: la Amazonía sin prisas",
+        "title": "Alter do Chão | Santarém y viajes por el Tapajós",
+        "description": "Compara estancias en Santarém y Alter do Chão, paseos por el Tapajós, playas estacionales y visitas organizadas por comunidades locales.",
+        "lede": "Dedica tiempo al pueblo y al río. Combina días tranquilos, excursiones al bosque y conocimiento local en la región del Tapajós.",
+        "quick": [
+          "Un alojamiento en el pueblo puede ser parte de un viaje más completo por la Amazonía",
+          "Santarém es el punto de llegada para esta región; Alter do Chão ofrece un alojamiento en un pueblo cercano al Tapajós. Las playas cambian con las condiciones del río: planifica más experiencias además del tiempo en la arena."
+        ],
+        "choices_heading": "Elige el equilibrio que se adapte a tu viaje",
+        "choices": [
+          [
+            "Tiempo en el pueblo y en el río",
+            "Deja espacio para días relajados además de las salidas en bote programadas.",
+            "#section-2"
+          ],
+          [
+            "Visitas al bosque y a la comunidad",
+            "Elige experiencias específicas lideradas por anfitriones en lugar de una parada cultural indefinida.",
+            "#section-5"
+          ],
+          [
+            "Una ruta regional más amplia",
+            "Compara los cambios de alojamiento y el tiempo de traslado antes de añadir otros lugares.",
+            "#section-6"
+          ]
+        ],
+        "cta": [
+          "Encuentra tu equilibrio entre tiempo en el río y exploración",
+          "Comparte tus fechas y si las playas, la observación de bosque o las visitas lideradas por la comunidad son lo que más importa."
+        ],
+        "sources": [
+          [
+            "Visit Brasil: Alter do Chão",
+            "https://www.visitbrasil.com/location/alter-do-chao/"
+          ],
+          [
+            "Brazil Ministry of Tourism: Alter do Chão",
+            "https://www.gov.br/turismo/pt-br/assuntos/ultimas-noticia/alter-do-chao---259-anos"
+          ]
+        ],
+        "faqs": [
+          [
+            "¿Son Santarém y Alter do Chão el mismo lugar?",
+            "No. Alter do Chão es un pueblo cercano a Santarém. Confirma dónde dormirás y cómo llegarás a ese alojamiento desde tu punto de llegada."
+          ],
+          [
+            "¿Puedo contar con las playas del río para mis fechas?",
+            "No. Su extensión cambia con las condiciones del río. Revisa la información actual y mantén otras actividades en tu plan en lugar de depender de una sola fotografía de playa."
+          ],
+          [
+            "¿Reemplaza una estancia en el pueblo a un lodge en el bosque?",
+            "Ofrecen arreglos diarios diferentes. Compara el tiempo servicio de guía en el bosque, las salidas por el río y la ubicación del alojamiento en lugar de tratar cualquiera de estas etiquetas como un itinerario completo."
+          ],
+          [
+            "¿Puedo incluir visitas a comunidades del Tapajós o Arapiuns?",
+            "La información turística oficial describe experiencias lideradas por la comunidad en la región. Pregunta qué anfitriones reciben visitantes y confirma la ruta, permisos e inclusiones para tus fechas."
+          ]
+        ],
+        "sections": [
+          [
+            "Dos nombres, roles diferentes en tu viaje",
+            "Santarém es la ciudad de llegada nombrada por la información turística oficial para esta opción regional; Alter do Chão es un pueblo cercano en Pará. Elige deliberadamente el lugar donde pasarás la noche. Una llegada al aeropuerto, una estancia en la ciudad y una estancia en el pueblo son partes diferentes de un viaje, incluso cuando una propuesta los agrupa bajo un solo título de destino. En Santarém también puedes contemplar desde la ribera el encuentro del Tapajós con el Amazonas; distingue una visita a la ciudad del traslado hasta el pueblo.",
+            "Comienza con la panorama de Brasil si estás decidiendo qué tipo de experiencia amazónica priorizar. Esta región puede adaptarse a un equilibrio entre paisajes fluviales, tiempo en el pueblo y exploración guiada. No debe seleccionarse solo porque una fotografía de playa parece atractiva: el ritmo diario, el acceso y la profundidad de las salidas importan tanto como el paisaje."
+          ],
+          [
+            "Haz que la traslado de llegada sea parte del plan",
+            "Confirma cómo te trasladarás desde el punto de llegada en Santarém hasta tu alojamiento y quién gestiona esa conexión. Comparte la hora real de llegada antes de aceptar una actividad para el primer día. Pregunta si se incluye la recogida, el traslado del equipaje y el registro en el alojamiento para que la transición hacia la estancia sea clara en lugar de depender de arreglos que descubras después de aterrizar.",
+            "Mantén también el día de salida realista. Discute el punto de recogida para el regreso y qué sucede si una salida por el río cambia su horario. Evita colocar una reserva con horarios ajustados inmediatamente después de una actividad que dependa de las condiciones locales. El itinerario debe distinguir un día de traslado de un día de exploración completa, incluso cuando ambos cuentan hacia la duración del viaje anunciado."
+          ],
+          [
+            "Da al pueblo y al río su propio tiempo",
+            "Alojarte en el pueblo puede dejar espacio para comidas, tiempo independiente y salidas programadas sin cambiar el alojamiento cada día. Decide cuánta estructura prefieres. Algunos viajeros disfrutan de un día servicio de guía seguido de uno más tranquilo; otros quieren varias excursiones enfocadas. Explica esa preferencia antes de llenar el itinerario con actividades solo porque están disponibles. La cocina local también invita a dedicar tiempo al pueblo: la información turística oficial menciona tacacá, maniçoba y açaí. Si tienes restricciones alimentarias, pregunta por los ingredientes en lugar de asumir que todos los platos regionales son adecuados para ti.",
+            "Compara la ubicación del alojamiento, la disposición de las habitaciones y el acceso a los puntos de encuentro para las salidas. Pregunta cómo funcionan las comidas y el transporte cuando no están incluidos. Un día más lento es valioso cuando es intencional, en lugar de ser un hueco causado por arreglos poco claros. Deja espacio para disfrutar de la vida local sin asumir que cada hora necesita una excursión organizada."
+          ],
+          [
+            "Lee las imágenes de playa como un imagen de una temporada concreta",
+            "Alter do Chão es conocido por sus playas de agua dulce, cuya arena expuesta cambia con las condiciones del río. La información turística oficial describe un periodo de playa estacional, pero un calendario amplio no confirma las condiciones para una visita específica. Pide información local actualizada y evita tratar una fotografía antigua como una predicción de lo que encontrarás.",
+            "Si el tiempo en la playa es central para tu viaje, discute alternativas antes de reservar. Compara una estancia diseñada enteramente alrededor de la arena con otra que también incluya paisajes fluviales, caminatas por el bosque o experiencias lideradas por anfitriones. Esa segunda versión puede ofrecer más flexibilidad. Deja que el proveedor explique qué opciones son prácticas para tus fechas en lugar de prometer que cada parada fotografiada siempre está disponible."
+          ],
+          [
+            "Elige salidas por el río por algo más que distancia",
+            "Una salida por el río necesita un propósito: paisaje, observación, visita a una comunidad o tiempo en paradas seleccionadas. Pregunta qué incluye la ruta y cuánto del día es navegación. Más distancia no crea automáticamente una mejor experiencia, especialmente si reduce el tiempo disponible en los lugares que más te interesan.",
+            "Discute asientos, sombra, embarque y tipo de grupo. Si prefieres un día más corto o necesitas pausas frecuentes, hazlo claro desde el principio. Confirma cómo afectan al recorrido y regreso las condiciones meteorológicas o cambiantes. Evalúa la salida real en lugar de asumir que una descripción general del Tapajós explica su esfuerzo, comodidad o ritmo diario."
+          ],
+          [
+            "Coloca a los anfitriones en el centro de las visitas comunitarias",
+            "La información turística oficial describe experiencias lideradas por la comunidad a lo largo del Tapajós y Arapiuns. Trata estas como encuentros específicos que necesitan confirmación, no como un extra cultural genérico adjunto a cada día en barco. Pregunta qué anfitriones reciben visitantes, qué eligen compartir y cómo la visita apoya sus propias prioridades.",
+            "Confirma el apoyo lingüístico, la guía para fotografía y los arreglos de pago. No asumas que un taller, presentación o comida están incluidos a menos que el programa de los anfitriones lo diga. Deja suficiente tiempo para escuchar en lugar de apresurarte entre varias comunidades. La calidad de una visita bien organizada puede importar más que el número de paradas nombradas en una propuesta."
+          ],
+          [
+            "Combina tiempo en bosque y en río con cuidado",
+            "Un viaje basado en un pueblo y una estancia en un lodge en el bosque pueden tener fortalezas diferentes. Compara cuánto tiempo servicio de guía en el bosque se incluye realmente, qué implican las caminatas y si regresas al mismo alojamiento. Explica si la fotografía, las aves o una introducción general es tu prioridad para que la propuesta ajuste el tiempo de observación a tus intereses.",
+            "Para un énfasis regional diferente, usa la guía de Anavilhanas y la guía del Rio Negro para comparar opciones centradas en el archipiélago. Estas son alternativas para evaluar, no paradas cercanas para añadir casualmente a una estancia corta. Una ruta entre regiones necesita su propio plan de traslado y conexión. Elige movimiento adicional solo cuando la experiencia ganada justifica el tiempo que toma."
+          ],
+          [
+            "Evalúa claramente comodidad, acceso e inclusiones",
+            "Pide privacidad de habitación, tipo de baño, ventilación y ubicación de áreas comunes. Discute el terreno para caminar y el embarque en bote para las actividades propuestas. Etiquetas como relajado o fácil pueden ocultar requisitos prácticos muy diferentes. Comparte cualquier necesidad esencial de acceso o comodidad y pide respuestas concretas antes de comparar precios anunciados.",
+            "Verifica qué comidas, traslados y guías están incluidos y qué costos permanecen separados. Compara el mismo grupo y disposición de habitaciones entre cotizaciones. Lee los términos de pago, cancelación y cambios antes de reservar viajes posteriores. Un total claro y una descripción honesta de la experiencia diaria son más útiles que un precio inicial atractivo con arreglos esenciales dejados abiertos."
+          ],
+          [
+            "Convierte tus intereses en una estancia viable",
+            "Usa la guía de planificación de Brasil para organizar fechas, número de viajeros, preferencias de comodidad y prioridades. Di si quieres principalmente tiempo en pueblo y playa, más observación de bosque o encuentros liderados por anfitriones. Incluye viajes ya reservados para que la propuesta pueda preservar los compromisos más difíciles de cambiar. No necesitas elegir cada parada antes de iniciar esa conversación.",
+            "Solicita un esquema que muestre lugares donde dormirás, traslados, días servicio de guías y tiempo independiente. Si también estás considerando Manaus, la guía de Manaus ayuda a comparar un comienzo ciudad-bosque con esta opción pueblo-río. El mejor plan es el que da suficiente espacio a tus experiencias elegidas, en lugar de una ruta que acumula destinos a expensas del tiempo para disfrutarlos."
+          ]
+        ]
+      }
+    }
+  },
+  "editorial_review_notes": [
+    "Regional facts checked against official tourism sources; no product schedules, prices or wildlife promises copied",
+    "Local Spanish output manually reviewed and literal phrasing corrected; raw translations retained",
+    "Three distinct scenes per page, illustrative stock scope; destination imagery and browser review pending"
+  ]
+}
