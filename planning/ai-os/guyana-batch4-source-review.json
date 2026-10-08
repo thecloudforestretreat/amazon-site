@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-08",
+  "reviewed_sources": [
+    "https://iwokramariverlodge.com/",
+    "https://iwokrama.org/",
+    "https://visitrupununi.com/discover-rupununi/"
+  ],
+  "claims": [
+    "Iwokrama River Lodge on the Essequibo, offering river excursions",
+    "Regional tourism listings name Rewa, Surama and Caiman House",
+    "Guyana geography retained as Guiana Shield, not all rivers Amazon basin"
+  ],
+  "limits": [
+    "No current availability, rates, connection times or facilities guaranteed",
+    "No affiliation or inventory claimed"
+  ],
+  "failed_fetches": [
+    "https://guyanatourism.com/accommodation/",
+    "https://guyanatourism.com/transportation/",
+    "https://visitrupununi.com/getting-here/"
+  ],
+  "status": "Bilingual review complete",
+  "bilingual_corrections": [
+    "Natural Spanish facilities and guiding terminology",
+    "Localized contextual routes",
+    "Restored image keys and feature-side control values translated by local worker",
+    "Removed untranslated English and corrected gender, grammar and vessel mistranslation"
+  ]
+}

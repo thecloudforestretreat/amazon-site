@@ -1,0 +1,36 @@
+{
+  "deployment": "9926f8f9",
+  "rollback": "765a9c08",
+  "date": "2026-10-08",
+  "new_pairs": 2,
+  "new_pages": 4,
+  "country_pairs": 8,
+  "country_pages": 16,
+  "compiled_staging_pages": 188,
+  "technical_errors": 0,
+  "css_contact_tests": 25,
+  "contextual_country_targets_per_new_page": 7,
+  "main_word_range": [
+    1510,
+    1960
+  ],
+  "country_inlink_range": [
+    7,
+    8
+  ],
+  "production_containment": "Passed: 172 compiled pages; Guyana excluded and existing live countries retained",
+  "local_tokens": 11593,
+  "cumulative_guyana_local_tokens": 41324,
+  "retries": 0,
+  "cache_hits": 0,
+  "image_reuse_owner_authorized": true,
+  "scene_repeats_per_page": 0,
+  "destination_imagery": "Generic illustrative library scenes reviewed; exact Guyana imagery confirmation remains release gate",
+  "visual_review": "Pending; existing browser admin-policy verification blocker retained, no bypass",
+  "authenticated_readback": "Pending; unauthenticated Access redirects passed for four routes",
+  "bilingual_review": "Nine substantive sections and four FAQs preserved for each language; full drafts reviewed and corrected",
+  "next_batch": [
+    "Best time to visit",
+    "Wildlife"
+  ]
+}

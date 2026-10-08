@@ -1,0 +1,26 @@
+{
+  "deployment": "9926f8f9",
+  "method": "curl HEAD",
+  "checks": [
+    {
+      "route": "/guyana/rainforest-accommodation/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/guyana/alojamientos-en-la-selva/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/guyana/river-journeys/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/guyana/viajes-fluviales/",
+      "status": 302,
+      "access_redirect": true
+    }
+  ]
+}

@@ -1,0 +1,954 @@
+{
+  "editorial_status": "reviewed",
+  "review_date": "2026-10-08",
+  "images": {
+    "leticia-colombia-border-direction-sign-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/leticia-colombia-border-direction-sign-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "9706a51eb9df2b14f9d80d73e57f29be70e101cf84c8a2e2b855b1bda724cc43"
+    },
+    "amazon-red-macaws-under-thatched-roof-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-red-macaws-under-thatched-roof-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "f7735c2b55700cd1ed350ef139908894da0a2541f86b3c011731ef9b5d2cc930"
+    },
+    "amazon-meandering-river-aerial-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-meandering-river-aerial-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "c6546f300e37a65a07cac13d516b286c00c43dbd1812354b1eeacd6087249dd1"
+    },
+    "amazon-forest-buttress-tree-hiker-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-forest-buttress-tree-hiker-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "2f414af8e0d165e636fb6480106701316e22d712fdca6d679bd3cf2168a724e5"
+    },
+    "amazon-forest-canoe-bow-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-forest-canoe-bow-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "5d74cddf67f036d0fe65044bf09c05ccd2352960dcb25b47ac831b9fb583643f"
+    },
+    "amazon-riverside-houses-canoe-travelers": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-houses-canoe-travelers.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "c14bc7039ac65660ccb759932a2aaa09446c95e7dc52d7b7a16ab05bf68a9209"
+    },
+    "leticia-tabatinga-iquitos-direction-signs": {
+      "src": "/assets/images/pages/countries/colombia/optimized/leticia-tabatinga-iquitos-direction-signs.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "65b3dfaad25e66b4840b38fd9f11a763d0e07130c3042ddb80677c5f0b2ad976"
+    },
+    "amazon-riverside-harbor-canoes": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-harbor-canoes.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "306456ac24e5cd183f10d1d8dd180e57be3a701c95c6a0f505fc4343827b4018"
+    },
+    "amazon-riverside-town-and-forest-view": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-town-and-forest-view.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "7976d853227666cb56379c73509401e8cbce62193c80eb972601c6fb4ef6c9f2"
+    },
+    "amazon-river-and-town-aerial": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-river-and-town-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "49e955c22842faa8ceb957a91d13ac0da6e15ad40b04c6fc36719c55bc488826"
+    },
+    "amazon-village-raised-wooden-walkway": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-village-raised-wooden-walkway.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "3aff028da8964a9d485d5977e0985c66ad8d5894f6ecd4bc22ccc684f31e1b0c"
+    },
+    "amazon-rainforest-walk-traveler": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-rainforest-walk-traveler.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "cbf7ca9da828d289b62bfb0b2131d6be383d8af77355342665bf047971d3b6e7"
+    },
+    "amazon-village-wooden-house-path": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-village-wooden-house-path.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "3221726059505de3b312f9ef077e707fc8435a93c58a6252cedbef85c6063d7b"
+    },
+    "amazon-cultural-crafts-display": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-cultural-crafts-display.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "b1dd3bae7f67382376912a814d8d7fc3d83ecdbf46fcfb43a09c3e45d0157c64"
+    },
+    "tropical-thatched-lodge-hammock-deck": {
+      "src": "/assets/images/pages/countries/colombia/optimized/tropical-thatched-lodge-hammock-deck.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "39dca7d4bd263af53f028c29370ffbbb4dff742582ea70fd76659b3be4239620"
+    },
+    "forest-lakeside-lodge-reflection": {
+      "src": "/assets/images/pages/countries/colombia/optimized/forest-lakeside-lodge-reflection.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "92f0d9cfcbebf7fe84771819ecc8fc6d6a7be6fcb63c49ff28fdff3e855e0945"
+    },
+    "amazon-riverside-houses-solo-canoe": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-houses-solo-canoe.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "4bd9bea9268cbc0bcc2386d65c5cee66a7ed7ebd17a447b4841ca9547da61624"
+    },
+    "amazon-canoe-group-lake-journey": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-canoe-group-lake-journey.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "da66207331cffb985492857cc246b422dfad57c6a979593883782a13ddb4e594"
+    },
+    "amazon-wooden-canoes-riverbank": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-wooden-canoes-riverbank.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "81e0ad56c85c2348710769d5fa9421e652dea9b7ee3c80b9ba9249304d07528b"
+    },
+    "amazon-monkey-on-tree-portrait": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-monkey-on-tree-portrait.webp",
+      "width": 1200,
+      "height": 1500,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "44859842ae4884f5f074597ec825949e5b2bf52841f38c018c5df93983bac3ef"
+    },
+    "jaguar-resting-paws-portrait": {
+      "src": "/assets/images/pages/countries/colombia/optimized/jaguar-resting-paws-portrait.webp",
+      "width": 1200,
+      "height": 1500,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "7d1cfd98f1f1f8b693e74735230399e78bab94006002f812a27c6c888047cb8d"
+    },
+    "jaguar-in-foliage-portrait": {
+      "src": "/assets/images/pages/countries/colombia/optimized/jaguar-in-foliage-portrait.webp",
+      "width": 1200,
+      "height": 1500,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "01a4707d5d87b51646cbe6aba2da7a0992ef39ad3b8b0ef3b5264c8ee65c36be"
+    },
+    "amazon-otter-wide": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 681298,
+      "web_bytes": 411704,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-otter-wide.webp",
+      "alt": {
+        "en": "Otter resting on a log beside the water",
+        "es": "Nutria descansando sobre un tronco junto al agua"
+      },
+      "attribution_required": false
+    }
+  },
+  "pages": {
+    "rainforest-accommodation": {
+      "en": {
+        "type": "planning-guide",
+        "pair_id": "guyana_rainforest_accommodation_001",
+        "hero": [
+          "tropical-thatched-lodge-hammock-deck",
+          "Hammock on a covered thatched deck"
+        ],
+        "features": {
+          "1": [
+            "forest-lakeside-lodge-reflection",
+            "Forest-side building reflected in calm water"
+          ],
+          "4": [
+            "amazon-village-wooden-house-path",
+            "Wooden house beside a grassy path"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Iwokrama River Lodge — official visitor information",
+            "https://iwokramariverlodge.com/"
+          ],
+          [
+            "Iwokrama International Centre",
+            "https://iwokrama.org/"
+          ],
+          [
+            "Visit Rupununi — regional experiences",
+            "https://visitrupununi.com/discover-rupununi/"
+          ]
+        ],
+        "scope": "Planning information reviewed October 8, 2026. Accommodation, activities, availability and transport require confirmation in an individual proposal. Guyana is part of the Guiana Shield; these guides do not classify all its rivers as Amazon-basin rivers.",
+        "slug": "rainforest-accommodation",
+        "h1": "Choose your rainforest accommodation in Guyana",
+        "title": "Guyana Rainforest Accommodation | Choose Your Base",
+        "description": "Compare Guyana rainforest accommodation by setting, guiding, room facilities, transfers and included services before choosing your overnight base.",
+        "lede": "Choose a base that gives you useful time outdoors and the comfort you need when you return.",
+        "quick": [
+          "How do I compare rainforest stays?",
+          "Compare the actual setting, room facilities, included guiding and complete transfer cost. Confirm current services in writing; a lodge label alone does not define the experience."
+        ],
+        "links": [
+          [
+            "/guyana/",
+            "Guyana overview"
+          ],
+          [
+            "/guyana/plan-your-rainforest-trip/",
+            "Guyana trip-planning guide"
+          ],
+          [
+            "/guyana/georgetown/",
+            "Georgetown gateway guide"
+          ],
+          [
+            "/guyana/iwokrama/",
+            "Iwokrama guide"
+          ],
+          [
+            "/guyana/rupununi/",
+            "Rupununi guide"
+          ],
+          [
+            "/guyana/community-stays/",
+            "community-stays guide"
+          ],
+          [
+            "/guyana/rainforest-accommodation/",
+            "rainforest-accommodation guide"
+          ],
+          [
+            "/guyana/river-journeys/",
+            "river-journeys guide"
+          ]
+        ],
+        "context_links": [
+          [
+            "Guyana overview",
+            "/guyana/"
+          ],
+          [
+            "Guyana trip-planning guide",
+            "/guyana/plan-your-rainforest-trip/"
+          ],
+          [
+            "Georgetown gateway guide",
+            "/guyana/georgetown/"
+          ],
+          [
+            "Iwokrama guide",
+            "/guyana/iwokrama/"
+          ],
+          [
+            "Rupununi guide",
+            "/guyana/rupununi/"
+          ],
+          [
+            "community-stays guide",
+            "/guyana/community-stays/"
+          ],
+          [
+            "rainforest-accommodation guide",
+            "/guyana/rainforest-accommodation/"
+          ],
+          [
+            "river-journeys guide",
+            "/guyana/river-journeys/"
+          ]
+        ],
+        "cta": [
+          "Choose a base that serves your journey",
+          "Tell us your interests, dates, room preferences and essential facilities so we can discuss suitable Guyana accommodation."
+        ],
+        "faqs": [
+          [
+            "Are all rainforest lodges the same kind of stay?",
+            "No. Compare the named base, landscape, room facilities, guiding and transfers. A lodge label does not establish a standard package."
+          ],
+          [
+            "Does a published property name mean a room is available?",
+            "No. Availability, room category and included services must be confirmed for your dates in an individual proposal."
+          ],
+          [
+            "Can I assume reliable internet and continuous power?",
+            "No. Ask about connectivity, electricity and charging at the specific property, especially if a facility is essential."
+          ],
+          [
+            "Should I stay at several lodges?",
+            "Add a base when it offers a meaningful difference and leaves useful time after travel. One longer stay can be better for focused observation."
+          ]
+        ],
+        "sections": [
+          [
+            "Choose the setting before comparing rooms",
+            "The overnight base shapes how much of the landscape you can experience without spending another day moving. Start with the Guyana overview to distinguish a forest stay around Iwokrama from the varied river, forest and savannah settings of the Rupununi. A room beside a river can have a different daily rhythm from accommodation used mainly as a starting point for road excursions. Ask where each proposed activity takes place, rather than assuming it begins directly outside your door.",
+            "Make a shortlist around the experience you want: shaded walks, river observation, birding or a community-hosted stay. Then compare the room and service details within that shortlist. An attractive photograph cannot establish access to a trail, the availability of a boat or the time needed to reach a viewing site. Request an explanation of the base’s role in the route and the usable mornings and afternoons it gives your group."
+          ],
+          [
+            "Distinguish named properties from broad accommodation types",
+            "Iwokrama River Lodge describes waterfront cabins on the Essequibo River and lists forest and river activities in its official visitor information. Visit Rupununi identifies community-tourism accommodation including Rewa, Surama and Caiman House at Yupukari. These are named starting points for research, not a promise that we hold rooms or that the same services are available at every property. Ask for the exact accommodation and room category in the proposed itinerary.",
+            "Use the Iwokrama guide and Rupununi guide to compare the surroundings before comparing a package total. If a proposal uses a general description such as eco-lodge, ask which property it means and who manages the stay. Keep any alternative accommodation clearly identified, with an explanation of how substitution would affect transfers, guiding and facilities. Availability must be checked for your actual dates before a particular stay is treated as confirmed."
+          ],
+          [
+            "Make room comfort a practical conversation",
+            "Describe what makes an overnight stay workable for you. Ask whether the quoted room has its own bathroom, how beds are arranged, what insect protection is provided and how ventilation is managed. Confirm hot-water arrangements if that is a priority. These questions should refer to the specific room offered, because a general accommodation description may cover several room types. Explain any need that affects comfort or sleep before choosing the itinerary.",
+            "Request current photographs or a precise facilities description where a feature is important to your decision. Do not infer air conditioning, continuous electricity or reliable internet from the word lodge. Ask about charging opportunities for cameras and other necessary equipment, and how any limitations are managed during the stay. If a facility is essential rather than merely preferred, make that clear and have the agreed arrangement included in the written proposal."
+          ],
+          [
+            "Compare guiding and activities as part of the stay",
+            "Accommodation is only one part of the experience. Ask which guided outings are included, whether guiding is shared with other guests and what an ordinary activity day involves. A listed boat excursion or trail walk does not tell you its purpose, pace or duration. Explain whether you are a general nature traveler, a dedicated birder or a photographer who wants time to remain at one place rather than moving quickly between stops.",
+            "Read the river-journeys guide when water-based activities matter to your choice. Compare the number of full activity days after arrival and before departure, rather than the number of nights alone. Ask who helps rearrange an outing when weather or local conditions change and which alternatives are possible. A useful proposal separates an included activity from an optional service and avoids presenting wildlife sightings as a guaranteed part of a room package."
+          ],
+          [
+            "Understand community-hosted arrangements",
+            "Community accommodation can give a journey a different purpose from a conventional room booking. The community-stays guide explains how to discuss hosts, activities, permissions and the local arrangements behind a stay. Ask who receives your reservation and who coordinates meals, guiding and transfers. Confirm what is actually included rather than assuming that every cultural activity is available whenever a guest requests it. The hosts should be able to define what they choose to share.",
+            "Explain dietary, mobility and other practical needs early, with enough detail for the hosts to answer realistically. Ask about paths, steps, boarding arrangements and the distance between the room and shared facilities if these affect your decision. Respect rules for photography and access to private or community spaces. Paying for accommodation does not make every person, event or location part of an activity program, and the written itinerary should reflect that distinction."
+          ],
+          [
+            "Count the complete cost of reaching the base",
+            "Compare accommodation after adding the services needed to reach it. The Georgetown gateway guide helps you consider coastal arrival, transit accommodation and the connection to the interior together. Ask where each transfer begins, who meets you and whether the final journey to the property is included. A room rate with several missing transport arrangements may not be cheaper than a proposal that includes the complete connection and the same amount of guiding.",
+            "Request a breakdown of lodging, meals, guiding, transfers, fees and optional charges using the same group size and room arrangement. Check whether a quoted transfer is shared or private and whether its timing works with your arrival. If a small-aircraft leg is proposed, obtain its baggage rules before planning equipment. Avoid comparing an accommodation-only price with a full itinerary total; the useful figure is the cost of the agreed journey, including the return."
+          ],
+          [
+            "Make meals and daily logistics clear",
+            "Ask which meals are included on arrival, departure and full activity days. An itinerary that begins after lunch may handle that day differently from a full-board overnight stay. Explain dietary requirements and ask what can be accommodated at the named base, rather than assuming that a request made at the last moment will be possible. Confirm drinking-water arrangements and how meals are organized when an outing takes you away from the property.",
+            "Discuss the everyday rhythm alongside the activity plan. An early start for birding or a longer excursion may change breakfast, lunch or rest arrangements, so ask how the guide and hosts coordinate them. Confirm how you receive essential itinerary information when connectivity is limited and whom you should contact if a transfer changes. Clear arrangements are more useful than a broad claim of personalized service that leaves important details to be resolved after arrival."
+          ],
+          [
+            "Review flexibility and booking terms before paying",
+            "Ask what becomes confirmed when you pay and which elements remain subject to availability or changing conditions. Read cancellation, amendment and substitution terms for both accommodation and transport. If the proposed property changes, understand how a replacement would affect the setting, room facilities and activities. Avoid treating a research shortlist as a reservation or assuming that a preliminary quote holds rooms indefinitely. Obtain the payment schedule and any stated quotation expiry.",
+            "Use the Guyana trip-planning guide to check the route as a whole before accepting the terms. Leave room for reasonable activity adjustments while keeping responsibility for lodging and transport explicit. Ask how additional costs would be discussed if a significant change becomes necessary. An understandable written proposal lets you judge comfort, experience and flexibility together; it should not depend on a chain of informal assumptions about what each supplier will provide."
+          ],
+          [
+            "Choose fewer bases when that improves the experience",
+            "A longer stay at one suitable base can preserve observation time and reduce packing, waiting and transfer demands. Add another accommodation only when it brings a different habitat, hosting arrangement or activity that matters to you. Count the mornings and afternoons left after the move. A varied route can be rewarding, but changing rooms repeatedly is not automatically a stronger journey, especially when your priorities need patience in one setting.",
+            "Share dates, guest count, room preferences, main interests and any essential facilities when requesting a proposal. Include your arrival and onward commitments if already booked. We can then discuss a route whose accommodation supports the experience rather than drives it. Confirm the named bases, included services and transport before payment. This guide is a comparison framework; current availability, property facilities and the terms for your group require individual confirmation."
+          ]
+        ]
+      },
+      "es": {
+        "type": "planning-guide",
+        "pair_id": "guyana_rainforest_accommodation_001",
+        "hero": [
+          "tropical-thatched-lodge-hammock-deck",
+          "Hamaca en una terraza cubierta con techo de paja"
+        ],
+        "features": {
+          "1": [
+            "forest-lakeside-lodge-reflection",
+            "Edificio junto al bosque reflejado en el agua tranquila"
+          ],
+          "4": [
+            "amazon-village-wooden-house-path",
+            "Casa de madera junto a un sendero herboso"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Iwokrama River Lodge — información oficial para visitantes",
+            "https://iwokramariverlodge.com/"
+          ],
+          [
+            "Centro Internacional Iwokrama",
+            "https://iwokrama.org/"
+          ],
+          [
+            "Visit Rupununi — experiencias regionales",
+            "https://visitrupununi.com/discover-rupununi/"
+          ]
+        ],
+        "scope": "Información de planificación revisada el 8 de octubre de 2026. El alojamiento, las actividades, la disponibilidad y el transporte requieren confirmación en una propuesta individual. Guyana forma parte del Escudo Guayanés; estas guías no clasifican todos sus ríos como ríos de la cuenca del Amazonas.",
+        "slug": "alojamientos-en-la-selva",
+        "h1": "Elige tu alojamiento en la selva de Guyana",
+        "title": "Alojamientos en la selva de Guyana | Elige tu base",
+        "description": "Compara alojamientos en la selva de Guyana: entorno, instalaciones, guías, traslados y servicios incluidos para elegir tu base.",
+        "lede": "Elige una base que te ofrezca tiempo aprovechable al aire libre y el confort que necesitas cuando regresas.",
+        "quick": [
+          "¿Cómo comparo las estancias en la selva?",
+          "Compara el entorno real, las instalaciones de la habitación, los servicios de guía incluidos y el costo total del traslado. Confirma los servicios actuales por escrito; la denominación de lodge no define la experiencia."
+        ],
+        "links": [
+          [
+            "/es/guyana/",
+            "guía de Guyana"
+          ],
+          [
+            "/es/guyana/planifica-tu-viaje-a-la-selva/",
+            "guía de planificación de viajes a Guyana"
+          ],
+          [
+            "/es/guyana/georgetown/",
+            "guía de acceso por Georgetown"
+          ],
+          [
+            "/es/guyana/iwokrama/",
+            "guía de Iwokrama"
+          ],
+          [
+            "/es/guyana/rupununi/",
+            "guía del Rupununi"
+          ],
+          [
+            "/es/guyana/estancias-comunitarias/",
+            "guía de estancias comunitarias"
+          ],
+          [
+            "/es/guyana/alojamientos-en-la-selva/",
+            "guía de alojamientos en la selva"
+          ],
+          [
+            "/es/guyana/viajes-fluviales/",
+            "guía de viajes fluviales"
+          ]
+        ],
+        "context_links": [
+          [
+            "guía de Guyana",
+            "/es/guyana/"
+          ],
+          [
+            "guía de planificación de viajes a Guyana",
+            "/es/guyana/planifica-tu-viaje-a-la-selva/"
+          ],
+          [
+            "guía de acceso por Georgetown",
+            "/es/guyana/georgetown/"
+          ],
+          [
+            "guía de Iwokrama",
+            "/es/guyana/iwokrama/"
+          ],
+          [
+            "guía del Rupununi",
+            "/es/guyana/rupununi/"
+          ],
+          [
+            "guía de estancias comunitarias",
+            "/es/guyana/estancias-comunitarias/"
+          ],
+          [
+            "guía de alojamientos en la selva",
+            "/es/guyana/alojamientos-en-la-selva/"
+          ],
+          [
+            "guía de viajes fluviales",
+            "/es/guyana/viajes-fluviales/"
+          ]
+        ],
+        "cta": [
+          "Elige una base que sirva a tu viaje",
+          "Cuéntanos tus intereses, fechas, preferencias de habitación y las instalaciones esenciales para que podamos discutir el alojamiento adecuado en Guyana."
+        ],
+        "faqs": [
+          [
+            "¿Son todos los lodges de la selva del mismo tipo de estancia?",
+            "No. Compara la base especificada, el paisaje, las instalaciones de la habitación, los servicios de guía y los traslados. La denominación de lodge no establece un paquete estándar."
+          ],
+          [
+            "¿Significa que se ha publicado el nombre de una propiedad que hay habitaciones disponibles?",
+            "No. La disponibilidad, la categoría de la habitación y los servicios incluidos deben confirmarse para tus fechas en una propuesta individual."
+          ],
+          [
+            "¿Puedo asumir internet confiable y energía continua?",
+            "No. Pregunta sobre la conectividad, la electricidad y la carga de dispositivos en la propiedad específica, especialmente si una instalación es esencial."
+          ],
+          [
+            "¿Debería alojarme en varios lodges?",
+            "Añade una base cuando ofrezca una diferencia significativa y deje tiempo aprovechable después del viaje. Una estancia más larga puede ser mejor para la observación enfocada."
+          ]
+        ],
+        "sections": [
+          [
+            "Elige el entorno antes de comparar habitaciones",
+            "La base para pernoctar determina cuánto paisaje puedes experimentar sin pasar otro día moviéndote. Comienza con la guía de Guyana para distinguir una estancia forestal alrededor de Iwokrama de los variados entornos fluviales, forestales y de sabana del Rupununi. Una habitación junto a un río puede tener un ritmo diario diferente al de un alojamiento usado principalmente como punto de partida para excursiones por carretera. Pregunta dónde se lleva a cabo cada actividad propuesta, en lugar de asumir que comienza directamente fuera de tu puerta.",
+            "Haz una lista corta alrededor de la experiencia que deseas: caminatas sombreadas, observación fluvial, avistamiento de aves o una estancia organizada por la comunidad. Luego compara los detalles de la habitación y el servicio dentro de esa lista corta. Una fotografía atractiva no garantiza el acceso a un sendero, la disponibilidad de un bote ni el tiempo necesario para llegar a un sitio de observación. Solicita una explicación del papel de la base en la ruta y las mañanas y tardes utilizables que ofrece a tu grupo."
+          ],
+          [
+            "Distingue propiedades específicas de tipos generales de alojamiento",
+            "Iwokrama River Lodge describe cabañas frente al agua en el río Essequibo e incluye actividades forestales y fluviales en su información oficial para visitantes. Visit Rupununi identifica el alojamiento de turismo comunitario, incluyendo Rewa, Surama y Caiman House en Yupukari. Estos son puntos de partida concretos para la investigación, no una promesa de que tenemos habitaciones o de que los mismos servicios están disponibles en cada propiedad. Pide la alojamiento exacto y la categoría de habitación en el itinerario propuesto.",
+            "Usa la guía de Iwokrama y la guía del Rupununi para comparar los alrededores antes de comparar el total del paquete. Si una propuesta utiliza una descripción general como eco-lodge, pregunta a qué propiedad se refiere y quién gestiona la estancia. Mantén cualquier alojamiento alternativo claramente identificado, con una explicación de cómo la sustitución afectaría los traslados, las guías y las instalaciones. La disponibilidad debe verificarse para tus fechas reales antes de tratar una estancia determinada como confirmada."
+          ],
+          [
+            "Haz del confort de la habitación una conversación práctica",
+            "Describe qué hace que una estancia con alojamiento sea viable para ti. Pregunta si la habitación cotizada tiene su propio baño, cómo están dispuestas las camas, qué protección contra insectos se proporciona y cómo se gestiona la ventilación. Confirma los arreglos para agua caliente si eso es una prioridad. Estas preguntas deben referirse a la habitación específica ofrecida, porque una descripción general de alojamiento puede cubrir varios tipos de habitación. Explica cualquier necesidad que afecte el confort o el sueño antes de elegir el itinerario.",
+            "Solicita fotografías actuales o una descripción precisa de las instalaciones cuando un rasgo es importante para tu decisión. No infieras aire acondicionado, electricidad continua o internet confiable solo por la palabra lodge. Pregunta sobre oportunidades de carga para cámaras y otro equipo necesario, y cómo se gestiona cualquier limitación durante la estancia. Si una instalación es esencial en lugar de simplemente preferida, hazlo claro e incluye el arreglo acordado en la propuesta por escrito."
+          ],
+          [
+            "Compara los servicios de guía y las actividades como parte de la estancia",
+            "El alojamiento es solo una parte de la experiencia. Pregunta qué salidas guiadas están incluidas, si los servicios de guía se comparten con otros huéspedes y qué implica un día de actividad ordinario. Una excursión en bote o caminata listada no te dice su propósito, ritmo ni duración. Explica si eres un viajero de naturaleza general, un observador de aves dedicado o un fotógrafo que quiere tiempo para permanecer en un lugar en lugar de moverse rápidamente entre paradas.",
+            "Lee la guía de viajes fluviales cuando las actividades acuáticas son importantes para tu elección. Compara el número de días completos de actividad después de la llegada y antes de la partida, en lugar del número de noches por sí solo. Pregunta quién ayuda a reorganizar una excursión cuando cambian el clima o las condiciones locales y cuáles son las alternativas posibles. Una propuesta útil separa una actividad incluida de un servicio opcional y evita presentar los avistamientos de vida silvestre como parte garantizada de un paquete de habitación."
+          ],
+          [
+            "Comprende los arreglos organizados por la comunidad",
+            "El alojamiento comunitario puede dar a un viaje un propósito diferente al de una reserva de habitación convencional. La guía de estancias comunitarias explica cómo discutir con los anfitriones, las actividades, los permisos y los arreglos locales detrás de una estancia. Pregunta quién recibe tu reserva y quién coordina las comidas, los servicios de guía y los traslados. Confirma qué está realmente incluido en lugar de asumir que cada actividad cultural está disponible siempre que un huésped lo solicite. Los anfitriones deben ser capaces de definir lo que eligen compartir.",
+            "Explica las necesidades dietéticas, de movilidad y otras prácticas temprano, con suficiente detalle para que los anfitriones respondan de forma realista. Pregunta sobre senderos, escalones, arreglos de embarque y la distancia entre la habitación y las instalaciones compartidas si esto afecta tu decisión. Respeta las reglas para la fotografía y el acceso a espacios privados o comunitarios. Pagar por el alojamiento no hace que cada persona, evento o ubicación sea parte del programa de actividades, y el itinerario escrito debe reflejar esa distinción."
+          ],
+          [
+            "Cuenta el costo total de llegar a la base",
+            "Compara el alojamiento después de agregar los servicios necesarios para llegar a él. La guía de acceso por Georgetown te ayuda a considerar la llegada costera, el alojamiento de tránsito y la conexión con el interior juntos. Pregunta dónde comienza cada traslado, quién te recibe y si el viaje final a la propiedad está incluido. Una tarifa de habitación con varios arreglos de transporte faltantes puede no ser más barata que una propuesta que incluye la conexión completa y la misma cantidad de servicios de guía.",
+            "Solicita un desglose de alojamiento, comidas, servicios de guía, traslados, tarifas y cargos opcionales usando el mismo tamaño de grupo y arreglo de habitación. Verifica si un traslado cotizado es compartido o privado y si su horario funciona con tu llegada. Si se propone una etapa en aeronave pequeña, obtén sus reglas de equipaje antes de planificar el equipo. Evita comparar un precio solo de alojamiento con el total de un itinerario completo; la cifra útil es el costo del viaje acordado, incluido el regreso."
+          ],
+          [
+            "Haz claras las comidas y la logística diaria",
+            "Pregunta qué comidas están incluidas en la llegada, la partida y los días completos de actividad. Un itinerario que comienza después del almuerzo puede manejar ese día de manera diferente a una estancia con alojamiento con pensión completa. Explica los requisitos dietéticos y pregunta qué necesidades se pueden atender en la base especificada, en lugar de asumir que una solicitud hecha en el último momento será posible. Confirma los arreglos para agua potable y cómo se organizan las comidas cuando una excursión te lleva lejos de la propiedad.",
+            "Discute el ritmo cotidiano junto con el plan de actividades. Un inicio temprano para avistamiento de aves o una excursión más larga puede cambiar el desayuno, el almuerzo o los arreglos de descanso, por lo que pregunta cómo coordinan esto el guía y los anfitriones. Confirma cómo recibes información esencial del itinerario cuando la conectividad es limitada y a quién debes contactar si cambia un traslado. Los arreglos claros son más útiles que una amplia afirmación de servicio personalizado que deja detalles importantes por resolver después de la llegada."
+          ],
+          [
+            "Revisa la flexibilidad y los términos de reserva antes de pagar",
+            "Pregunta qué se confirma cuando pagas y qué elementos siguen sujetos a disponibilidad o condiciones cambiantes. Lee las condiciones de cancelación, modificación y sustitución tanto para alojamiento como para transporte. Si la propiedad propuesta cambia, entiende cómo un reemplazo afectaría el entorno, las instalaciones de la habitación y las actividades. Evita tratar una lista corta de investigación como una reserva o asumir que una cotización preliminar mantiene habitaciones indefinidamente. Obtén el cronograma de pagos y cualquier fecha de caducidad declarada.",
+            "Usa la guía de planificación de viajes a Guyana para verificar la ruta en su conjunto antes de aceptar los términos. Deja espacio para ajustes razonables de actividades mientras mantienes explícita la responsabilidad por alojamiento y transporte. Pregunta cómo se discutirían costos adicionales si se vuelve necesaria un cambio significativo. Una propuesta escrita comprensible te permite juzgar confort, experiencia y flexibilidad juntos; no debe depender de una cadena de suposiciones informales sobre lo que proporcionará cada proveedor."
+          ],
+          [
+            "Elige menos bases cuando eso mejora la experiencia",
+            "Una estancia más larga en una base adecuada puede preservar el tiempo de observación y reducir las demandas de equipaje, espera y traslados. Añade otro alojamiento solo cuando traiga un hábitat diferente, un arreglo de hospedaje o una actividad que te importe. Cuente las mañanas y tardes que quedan después del movimiento. Una ruta variada puede ser gratificante, pero cambiar habitaciones repetidamente no es automáticamente una mejor experiencia de viaje, especialmente cuando tus prioridades necesitan paciencia en un entorno.",
+            "Comparte fechas, número de huéspedes, preferencias de habitación, intereses principales y cualquier instalación esencial al solicitar una propuesta. Incluye tus compromisos de llegada y salida si ya están reservados. Luego podemos discutir una ruta cuyo alojamiento apoye la experiencia en lugar de impulsarla. Confirma las bases especificadas, los servicios incluidos y el transporte antes del pago. Esta guía es un marco de comparación; la disponibilidad actual, las instalaciones de las propiedades y los términos para tu grupo requieren confirmación individual."
+          ]
+        ]
+      }
+    },
+    "river-journeys": {
+      "en": {
+        "type": "planning-guide",
+        "pair_id": "guyana_river_journeys_001",
+        "hero": [
+          "amazon-forest-canoe-bow-wide",
+          "View from a canoe toward forest-lined water"
+        ],
+        "features": {
+          "1": [
+            "amazon-wooden-canoes-riverbank",
+            "Wooden canoes beside a riverbank"
+          ],
+          "4": [
+            "amazon-riverside-houses-solo-canoe",
+            "Canoe near wooden riverside houses"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Iwokrama River Lodge — official visitor information",
+            "https://iwokramariverlodge.com/"
+          ],
+          [
+            "Iwokrama International Centre",
+            "https://iwokrama.org/"
+          ],
+          [
+            "Visit Rupununi — regional experiences",
+            "https://visitrupununi.com/discover-rupununi/"
+          ]
+        ],
+        "scope": "Planning information reviewed October 8, 2026. Accommodation, activities, availability and transport require confirmation in an individual proposal. Guyana is part of the Guiana Shield; these guides do not classify all its rivers as Amazon-basin rivers.",
+        "slug": "river-journeys",
+        "h1": "Plan a river journey in Guyana",
+        "title": "Guyana River Journeys | Boats, Bases & Trip Planning",
+        "description": "Plan Guyana river outings with clear bases, boat arrangements, guiding, transfer connections and realistic observation time.",
+        "lede": "Let the river be part of the experience, with a clear purpose for each outing and time to observe.",
+        "quick": [
+          "What should I confirm for a river outing?",
+          "Identify the waterway, departure base, purpose of the trip, boat and guide arrangements, return connection and alternatives for changing conditions. Distinguish an excursion from a transfer."
+        ],
+        "links": [
+          [
+            "/guyana/",
+            "Guyana overview"
+          ],
+          [
+            "/guyana/plan-your-rainforest-trip/",
+            "Guyana trip-planning guide"
+          ],
+          [
+            "/guyana/georgetown/",
+            "Georgetown gateway guide"
+          ],
+          [
+            "/guyana/iwokrama/",
+            "Iwokrama guide"
+          ],
+          [
+            "/guyana/rupununi/",
+            "Rupununi guide"
+          ],
+          [
+            "/guyana/community-stays/",
+            "community-stays guide"
+          ],
+          [
+            "/guyana/rainforest-accommodation/",
+            "rainforest-accommodation guide"
+          ],
+          [
+            "/guyana/river-journeys/",
+            "river-journeys guide"
+          ]
+        ],
+        "context_links": [
+          [
+            "Guyana overview",
+            "/guyana/"
+          ],
+          [
+            "Guyana trip-planning guide",
+            "/guyana/plan-your-rainforest-trip/"
+          ],
+          [
+            "Georgetown gateway guide",
+            "/guyana/georgetown/"
+          ],
+          [
+            "Iwokrama guide",
+            "/guyana/iwokrama/"
+          ],
+          [
+            "Rupununi guide",
+            "/guyana/rupununi/"
+          ],
+          [
+            "community-stays guide",
+            "/guyana/community-stays/"
+          ],
+          [
+            "rainforest-accommodation guide",
+            "/guyana/rainforest-accommodation/"
+          ],
+          [
+            "river-journeys guide",
+            "/guyana/river-journeys/"
+          ]
+        ],
+        "cta": [
+          "Give river time a clear place in your journey",
+          "Tell us which landscapes and activities draw you to Guyana, and we can discuss river outings that fit your route and pace."
+        ],
+        "faqs": [
+          [
+            "Is every river outing a transfer?",
+            "No. Ask whether the proposed boat leg is transport, an excursion or a combination, and how much time is available for observation."
+          ],
+          [
+            "Are Guyana’s rivers all in the Amazon basin?",
+            "No. Guyana is part of the Guiana Shield. Identify the actual waterway rather than assuming an Amazon-basin location."
+          ],
+          [
+            "Can a river trip guarantee wildlife sightings?",
+            "No. Suitable habitat, guiding and observation time support an experience, but conditions and wildlife behavior vary."
+          ],
+          [
+            "What should I confirm when traveling with children?",
+            "Discuss the vessel, boarding, seating, appropriate lifejackets, exposure and duration with the operator before booking the actual outing."
+          ]
+        ],
+        "sections": [
+          [
+            "Choose a waterway and a reason to travel",
+            "River travel can serve several purposes: reaching an overnight base, exploring a shoreline or spending time observing a particular habitat. Begin with the Guyana overview so the waterway fits a wider route rather than becoming a detached activity label. Guyana is part of the Guiana Shield; an itinerary should name its actual rivers without describing every waterway as part of the Amazon basin. Ask where the journey begins and ends and what you are meant to experience between those points.",
+            "Decide whether water-based travel is a main interest or a supporting part of the journey. A traveler seeking unhurried photography may want a different outing from someone mainly using a boat to reach accommodation. Describe that preference before comparing routes. A clear itinerary distinguishes navigation time, stops and observation time, making it easier to decide whether the proposed outing matches the pace you want rather than simply adding another mode of transport."
+          ],
+          [
+            "Separate river excursions from transfer legs",
+            "A boat transfer has a destination and a transport purpose; an excursion is planned around an experience. Some journeys combine the two, but the proposal should explain that combination. Ask whether the boat can pause for observation, whether a guide interprets the surroundings and what happens to luggage during stops. Do not assume that the transfer will provide the same conditions as a dedicated outing with time to watch quietly along a shoreline.",
+            "The rainforest-accommodation guide helps you connect the boat arrangement to the base where you sleep. Confirm which departure point serves the property and who coordinates the meeting. If a road or flight connection precedes the boat, identify the handover and any waiting arrangement. Review the return in the same detail. An attractive river leg should not leave the final connection to your room, or the route back to the coast, unclear."
+          ],
+          [
+            "Compare an Essequibo outing with regional river stays",
+            "Iwokrama River Lodge places its accommodation beside the Essequibo River and describes river excursions in its official visitor information. That offers a named starting point for comparing a forest stay with water-based activities. The Iwokrama guide explains the broader forest setting. Ask which excursion is proposed for your dates, how it fits around walks or other activities, and whether the departure and return allow enough time for the experience you want.",
+            "Visit Rupununi presents regional tourism through river, wetland, savannah and forest settings. Use the Rupununi guide to compare the actual overnight base and activity locations instead of treating every regional waterway as the same experience. A river-focused stay and a mixed-habitat itinerary have different priorities. Ask what each additional base contributes, which connections require a boat and whether another move gives you more useful time outdoors or simply adds a travel day."
+          ],
+          [
+            "Describe the observation experience you want",
+            "Tell the guide whether birds, landscapes, mammals or the general forest atmosphere are your main interest. This helps distinguish a broad introductory outing from focused observation. Ask how stops are chosen, how the boat is positioned and whether shared passengers have similar priorities. A route that covers more distance is not necessarily better for photography or watching wildlife. Time, viewing conditions and the guide’s approach can matter more than the length of the journey.",
+            "No itinerary can promise a particular animal encounter. Ask about suitable habitats and patient observation without expecting wildlife to follow a timetable. Follow the guide’s instructions on distance and disturbance, and do not request feeding, handling or close approaches for a photograph. If a conservation-related activity is mentioned, establish what visitors may appropriately do. Observing local work does not automatically mean participating in research or being allowed access to every site."
+          ],
+          [
+            "Confirm the boat arrangements before booking",
+            "Ask about the proposed vessel, seating, boarding and whether the outing is shared or private. Explain mobility needs and any concern about getting in or out of a boat so the operator can describe the actual arrangement. Confirm how appropriate lifejackets and operating procedures are handled, including suitable arrangements for children if they are traveling. Avoid assuming that an attractive photograph identifies the vessel that will be used for your group.",
+            "Discuss exposure to sun and rain, storage for equipment and how drinking water or food is carried for the particular outing. Ask what the guide recommends bringing and what the operator supplies. Treat any essential requirement as a booking question rather than something to discover at departure. A useful response is specific to the boat and route; a broad claim that an excursion suits everyone cannot substitute for an explanation of access and practical conditions."
+          ],
+          [
+            "Connect river time to community visits respectfully",
+            "A river route may include a community-hosted stay or an agreed visit, but the boat journey itself does not establish permission to enter private spaces. The community-stays guide explains how to discuss hosts, activities and photography in advance. Ask who has arranged the visit, what the hosts choose to share and which services are included. A settlement beside a waterway is a lived place, rather than an automatic sightseeing stop.",
+            "Confirm the purpose and timing of a visit without prescribing how the hosts should present it. Ask before photographing people, homes or activities, and respect any request not to record them. If crafts or another optional purchase are offered, keep that separate from the agreed transport and guiding charges. A thoughtful river journey gives space for the hosts’ choices and ordinary routines, rather than treating access as something guaranteed by the presence of a boat."
+          ],
+          [
+            "Allow for conditions without inventing a timetable",
+            "Water levels, weather and local operating conditions can affect a proposed river leg. Ask the operator how the actual route is assessed, what changes are realistic and who communicates them. A general seasonal label does not determine whether a particular excursion or connection will run as planned. Avoid copying a departure time or duration from an old itinerary and treating it as confirmed for your dates without checking the current arrangement.",
+            "Review which parts of the day are flexible and which connect with a fixed service. If an excursion must be shortened or changed, ask what alternatives can preserve the purpose of the visit. For transport legs, make the responsibility for onward coordination explicit. Flexibility is useful when it is understood in advance; it should not mean that a traveler is left to organize an unexpected final connection or resolve a significant change without assistance."
+          ],
+          [
+            "Protect the wider arrival and departure plan",
+            "The Georgetown gateway guide helps you consider the coastal arrival, any transit night and the complete interior connection. Do not isolate a river leg from the road or air arrangements around it. Identify the meeting point, baggage handover and destination for every travel day. If a carrier has baggage restrictions, confirm them before choosing how much equipment to bring, and ask whether the boat arrangement imposes any additional practical constraints.",
+            "Review the final river transfer and your international departure together. Ask what margin is recommended for the actual connections and how changes would be handled. There is no universal transfer duration or safe connection window that this guide can promise for every route. A proposal should explain its assumptions and identify any fixed commitments. Keeping the return clear protects the time spent exploring by avoiding an itinerary built around an unconfirmed last leg."
+          ],
+          [
+            "Build a river journey with enough useful time",
+            "Use the Guyana trip-planning guide to decide whether one base with several outings or a journey between bases best fits your interests. Count full activity periods after transfers, meals and rest. If the main purpose is observation, discuss repeated time in suitable habitat rather than a rapid sequence of stops. Compare included guiding, boats, meals and transfers using the same group size so a low starting price does not conceal missing services.",
+            "Share dates, guest count, main interests, preferred comfort and any mobility or equipment needs. Include firm arrival and departure commitments where applicable. Ask for the waterway, overnight bases, operating arrangements and included services to be named in the proposal. Current conditions and availability need individual confirmation. The aim is a journey whose river time feels purposeful and unhurried, with the practical connections clear enough for you to enjoy the landscape."
+          ]
+        ]
+      },
+      "es": {
+        "type": "planning-guide",
+        "pair_id": "guyana_river_journeys_001",
+        "hero": [
+          "amazon-forest-canoe-bow-wide",
+          "Vista desde una canoa hacia el agua bordeada de bosque"
+        ],
+        "features": {
+          "1": [
+            "amazon-wooden-canoes-riverbank",
+            "Canoas de madera junto a una orilla fluvial"
+          ],
+          "4": [
+            "amazon-riverside-houses-solo-canoe",
+            "Canoa cerca de casas de madera en la orilla del río"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Iwokrama River Lodge — información oficial para visitantes",
+            "https://iwokramariverlodge.com/"
+          ],
+          [
+            "Centro Internacional Iwokrama",
+            "https://iwokrama.org/"
+          ],
+          [
+            "Visit Rupununi — experiencias regionales",
+            "https://visitrupununi.com/discover-rupununi/"
+          ]
+        ],
+        "scope": "Información de planificación revisada el 8 de octubre de 2026. El alojamiento, actividades, disponibilidad y transporte requieren confirmación en una propuesta individual. Guyana forma parte del Escudo Guayanés; estas guías no clasifican todos sus ríos como ríos de la cuenca amazónica.",
+        "slug": "viajes-fluviales",
+        "h1": "Planifique un viaje fluvial en Guyana",
+        "title": "Viajes fluviales en Guyana | Barcos y planificación",
+        "description": "Planifica excursiones fluviales en Guyana con bases claras, barcos, guías, conexiones y tiempo suficiente para observar.",
+        "lede": "Deje que el río sea parte de la experiencia, con un propósito claro para cada salida y tiempo para observar.",
+        "quick": [
+          "¿Qué debo confirmar para una salida fluvial?",
+          "Identifique la vía acuática, base de partida, propósito del viaje, organización del barco y guía, conexión de retorno y alternativas para condiciones cambiantes. Distinga entre una excursión y un traslado."
+        ],
+        "links": [
+          [
+            "/es/guyana/",
+            "guía de Guyana"
+          ],
+          [
+            "/es/guyana/planifica-tu-viaje-a-la-selva/",
+            "guía de planificación de viajes a Guyana"
+          ],
+          [
+            "/es/guyana/georgetown/",
+            "guía de acceso por Georgetown"
+          ],
+          [
+            "/es/guyana/iwokrama/",
+            "guía de Iwokrama"
+          ],
+          [
+            "/es/guyana/rupununi/",
+            "guía del Rupununi"
+          ],
+          [
+            "/es/guyana/estancias-comunitarias/",
+            "guía de estancias comunitarias"
+          ],
+          [
+            "/es/guyana/alojamientos-en-la-selva/",
+            "guía de alojamientos en la selva"
+          ],
+          [
+            "/es/guyana/viajes-fluviales/",
+            "guía de viajes fluviales"
+          ]
+        ],
+        "context_links": [
+          [
+            "guía de Guyana",
+            "/es/guyana/"
+          ],
+          [
+            "guía de planificación de viajes a Guyana",
+            "/es/guyana/planifica-tu-viaje-a-la-selva/"
+          ],
+          [
+            "guía de acceso por Georgetown",
+            "/es/guyana/georgetown/"
+          ],
+          [
+            "guía de Iwokrama",
+            "/es/guyana/iwokrama/"
+          ],
+          [
+            "guía del Rupununi",
+            "/es/guyana/rupununi/"
+          ],
+          [
+            "guía de estancias comunitarias",
+            "/es/guyana/estancias-comunitarias/"
+          ],
+          [
+            "guía de alojamientos en la selva",
+            "/es/guyana/alojamientos-en-la-selva/"
+          ],
+          [
+            "guía de viajes fluviales",
+            "/es/guyana/viajes-fluviales/"
+          ]
+        ],
+        "cta": [
+          "Dé al río un lugar claro en su viaje",
+          "Cuéntenos qué paisajes y actividades le atraen a Guyana, y podemos discutir salidas fluviales que se ajusten a su ruta y ritmo."
+        ],
+        "faqs": [
+          [
+            "¿Es cada salida fluvial un traslado?",
+            "No. Pregunte si la travesía propuesta en barco es transporte, una excursión o una combinación, y cuánto tiempo hay disponible para observar."
+          ],
+          [
+            "¿Están todos los ríos de Guyana en la cuenca amazónica?",
+            "No. Guyana forma parte del Escudo Guayanés. Identifique la vía acuática real en lugar de asumir que se encuentra en la cuenca amazónica."
+          ],
+          [
+            "¿Puede un viaje fluvial garantizar avistamientos de vida silvestre?",
+            "No. Un hábitat adecuado, los servicios de guía y el tiempo de observación apoyan una experiencia, pero las condiciones y el comportamiento de la vida silvestre varían."
+          ],
+          [
+            "¿Qué debo confirmar al viajar con niños?",
+            "Discuta con el operador la embarcación, el embarque, los asientos, los chalecos salvavidas apropiados, la exposición y la duración antes de reservar la salida real."
+          ]
+        ],
+        "sections": [
+          [
+            "Elija una vía acuática y un motivo para viajar",
+            "El viaje fluvial puede servir varios propósitos: llegar a una base para pasar la noche, explorar una orilla o dedicar tiempo a observar un hábitat en particular. Comience con la guía de Guyana para que la vía acuática se ajuste a una ruta más amplia en lugar de convertirse en una etiqueta de actividad aislada. Guyana forma parte del Escudo Guayanés; un itinerario debe nombrar sus ríos reales sin describir cada vía acuática como parte de la cuenca amazónica. Pregunte dónde comienza y termina el viaje y qué se espera experimentar entre esos puntos.",
+            "Decida si el viaje en agua es un interés principal o una parte complementaria del viaje. Un viajero que busca fotografía relajada puede querer una salida diferente a alguien que usa principalmente un barco para llegar al alojamiento. Describa esa preferencia antes de comparar rutas. Un itinerario claro distingue el tiempo de navegación, las paradas y el tiempo de observación, lo que facilita decidir si la salida propuesta coincide con el ritmo que desea en lugar de simplemente agregar otro modo de transporte."
+          ],
+          [
+            "Separe las excursiones fluviales de los tramos de traslado",
+            "Un traslado en barco tiene un destino y un propósito de transporte; una excursión está planificada alrededor de una experiencia. Algunos viajes combinan ambas cosas, pero la propuesta debe explicar esa combinación. Pregunte si el barco puede detenerse para observar, si un guía interpreta el entorno y qué sucede con el equipaje durante las paradas. No asuma que el traslado proporcionará las mismas condiciones que una salida dedicada con tiempo para observar tranquilamente junto a una orilla.",
+            "La guía de alojamientos en la selva le ayuda a conectar la organización del barco con la base donde duerme. Confirme cuál es el punto de partida que sirve al establecimiento y quién coordina el encuentro. Si una conexión por carretera o vuelo precede al barco, identifique la entrega y cualquier arreglo de espera. Revise el retorno con el mismo detalle. Un tramo fluvial atractivo no debe dejar sin aclarar la conexión final a su habitación ni la ruta de regreso a la costa."
+          ],
+          [
+            "Compare una salida en el Essequibo con estancias fluviales regionales",
+            "Iwokrama River Lodge coloca su alojamiento junto al río Essequibo y describe las excursiones fluviales en su información oficial para visitantes. Eso ofrece un punto de partida concreto para comparar una estancia forestal con actividades acuáticas. La guía de Iwokrama explica el entorno forestal más amplio. Pregunte qué excursión se propone para sus fechas, cómo se ajusta a caminatas u otras actividades y si la salida y el retorno permiten suficiente tiempo para la experiencia que desea.",
+            "Visit Rupununi presenta el turismo regional a través de entornos fluviales, humedales, sabanas y bosques. Utilice la guía del Rupununi para comparar las bases reales para pasar la noche y las ubicaciones de las actividades en lugar de tratar cada vía acuática regional como la misma experiencia. Una estancia centrada en el río y un itinerario de hábitat mixto tienen prioridades diferentes. Pregunte qué aporta cada base adicional, qué conexiones requieren un barco y si otro movimiento le da más tiempo aprovechable al aire libre o simplemente agrega un día de viaje."
+          ],
+          [
+            "Describa la experiencia de observación que desea",
+            "Dígale al guía si las aves, los paisajes, los mamíferos o la atmósfera general del bosque son su principal interés. Esto ayuda a distinguir una salida introductoria amplia de una observación enfocada. Pregunte cómo se eligen las paradas, cómo se posiciona el barco y si los otros pasajeros tienen prioridades similares. Una ruta que cubre más distancia no es necesariamente mejor para la fotografía o para observar vida silvestre. El tiempo, las condiciones de visión y el enfoque del guía pueden importar más que la longitud del viaje.",
+            "Ningún itinerario puede prometer un encuentro con un animal en particular. Pregunte sobre hábitats adecuados y observación paciente sin esperar que la vida silvestre siga un horario. Siga las instrucciones del guía sobre distancia y perturbación, y no solicite alimentación, manipulación de animales o acercamientos excesivos para una fotografía. Si se menciona una actividad relacionada con la conservación, establezca qué pueden hacer apropiadamente los visitantes. Observar el trabajo local no significa automáticamente participar en investigaciones ni tener acceso a todos los sitios."
+          ],
+          [
+            "Confirme los arreglos del barco antes de reservar",
+            "Pregunte sobre la embarcación propuesta, los asientos, el abordaje y si la salida es compartida o privada. Explique las necesidades de movilidad y cualquier preocupación sobre subir o bajar del barco para que el operador pueda describir la organización real. Confirme cómo se manejan los chalecos salvavidas apropiados y los procedimientos operativos, incluyendo arreglos adecuados para niños si viajan. Evite asumir que una fotografía atractiva identifica la embarcación que se usará para su grupo.",
+            "Discuta la exposición al sol y la lluvia, el almacenamiento para el equipo y cómo se lleva agua potable o comida para la salida particular. Pregunte qué recomienda el guía y qué suministra el operador. Trate cualquier requisito esencial como una pregunta de reserva en lugar de algo que descubrir en el embarque. Una respuesta útil es específica del barco y la ruta; una afirmación general de que una excursión sirve a todos no puede sustituir una explicación del acceso y las condiciones prácticas."
+          ],
+          [
+            "Conecte el tiempo en el río con visitas comunitarias respetuosamente",
+            "Una ruta fluvial puede incluir una estancia organizada por una comunidad o una visita acordada, pero el viaje en barco por sí mismo no establece permiso para entrar en espacios privados. La guía de estancias comunitarias explica cómo discutir con los anfitriones las actividades y la fotografía con anticipación. Pregunte quién organizó la visita, qué eligen compartir los anfitriones y qué servicios están incluidos. Un asentamiento junto a una vía acuática es un lugar habitado, no una parada automática de turismo.",
+            "Confirme el propósito y la hora de una visita sin prescribir cómo deben presentarla los anfitriones. Pregunte antes de fotografiar personas, hogares o actividades, y respete cualquier solicitud de no registrarlos. Si se ofrecen artesanías u otra compra opcional, manténgalo separado de las tarifas acordadas de transporte y guía. Un viaje fluvial reflexivo da espacio para las elecciones de los anfitriones y sus rutinas ordinarias, en lugar de tratar el acceso como algo garantizado por la presencia de un barco."
+          ],
+          [
+            "Prevea cambios en las condiciones sin dar horarios por garantizados",
+            "Los niveles de agua, el clima y las condiciones locales de operación pueden afectar un tramo fluvial propuesto. Pregunte al operador cómo se evalúa la ruta real, qué cambios son realistas y quién los comunica. Una etiqueta estacional general no determina si una excursión o conexión particular funcionará según lo planeado. Evite copiar una hora de salida o duración de un itinerario antiguo y tratarla como confirmada para sus fechas sin verificar el arreglo actual.",
+            "Revise qué partes del día son flexibles y cuáles se conectan con un servicio fijo. Si una excursión debe acortarse o cambiarse, pregunte qué alternativas pueden preservar el propósito de la visita. Para los tramos de transporte, haga explícita la responsabilidad de la coordinación posterior. La flexibilidad es útil cuando se entiende con anticipación; no debe significar que un viajero quede a cargo de organizar una conexión final inesperada o resolver un cambio significativo sin asistencia."
+          ],
+          [
+            "Proteja el plan general de llegada y salida",
+            "La guía de acceso por Georgetown le ayuda a considerar la llegada costera, cualquier noche de tránsito y la conexión interior completa. No aísle un tramo fluvial de los arreglos por carretera o aire que lo rodean. Identifique el punto de encuentro, la entrega de equipaje y el destino para cada día de viaje. Si una aerolínea tiene restricciones de equipaje, confírmelas antes de elegir cuánto equipo llevar, y pregunte si la organización del barco impone alguna restricción práctica adicional.",
+            "Revise junto con el traslado fluvial final su salida internacional. Pregunte qué margen se recomienda para las conexiones reales y cómo se manejarían los cambios. No existe una duración universal de traslado ni una ventana de conexión segura que esta guía pueda prometer para cada ruta. Una propuesta debe explicar sus suposiciones e identificar cualquier compromiso fijo. Mantener el retorno claro protege el tiempo dedicado a explorar evitando un itinerario construido alrededor de un último tramo no confirmado."
+          ],
+          [
+            "Construya un viaje fluvial con suficiente tiempo aprovechable",
+            "Utilice la guía de planificación de viajes a Guyana para decidir si una base con varias salidas o un viaje entre bases se ajusta mejor a sus intereses. Cuente los períodos completos de actividad después de traslados, comidas y descanso. Si el propósito principal es la observación, discuta el tiempo repetido en hábitats adecuados en lugar de una secuencia rápida de paradas. Compare los servicios de guía incluidos, barcos, comidas y traslados usando el mismo tamaño de grupo para que un precio inicial bajo no oculte servicios faltantes.",
+            "Comparta fechas, número de huéspedes, intereses principales, comodidad preferida y cualquier necesidad de movilidad o equipo. Incluya compromisos firmes de llegada y salida cuando corresponda. Solicite que se nombren en la propuesta la vía acuática, bases para pasar la noche, arreglos operativos y servicios incluidos. Las condiciones actuales y la disponibilidad requieren confirmación individual. El objetivo es un viaje cuyo tiempo en el río se sienta propósito y relajado, con las conexiones prácticas lo suficientemente claras para que pueda disfrutar del paisaje."
+          ]
+        ]
+      }
+    }
+  }
+}
