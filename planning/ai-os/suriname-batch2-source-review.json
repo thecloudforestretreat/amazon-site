@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-08",
+  "sources": [
+    {
+      "url": "https://suriname.travel/paramaribo/",
+      "reviewed_claims": [
+        "Capital city on Suriname River; city history, food and museums",
+        "International arrival Johan Adolf Pengel; actual flight details not copied"
+      ]
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/940/",
+      "reviewed_claims": [
+        "Historic inner city UNESCO recognition; significance, no opening-hour claims"
+      ]
+    },
+    {
+      "url": "https://suriname.travel/transport-in-suriname/",
+      "reviewed_claims": [
+        "Paramaribo\u2013Atjoni road/boat framework; Zorg en Hoop interior air connections",
+        "No exact duration, cost or universal inclusions asserted"
+      ]
+    },
+    {
+      "url": "https://suriname.travel/sipaliwini/",
+      "reviewed_claims": [
+        "Atjoni river access; Pikin Slee Saamaka Museum created by Totomboti collective",
+        "Museum visit, opening and hosting arrangements need confirmation"
+      ]
+    }
+  ],
+  "editorial_review": "Supervisor-authored English; local Spanish requires full review before promotion",
+  "image_policy": "Generic owner-licensed forest and river illustrations; no unverified town, property or community imagery",
+  "limits": [
+    "No production authorization",
+    "No wildlife guarantee or medical/entry advice",
+    "No implied ceremony access or legal permit requirement"
+  ]
+}

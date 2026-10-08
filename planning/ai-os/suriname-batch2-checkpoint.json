@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-08",
+  "deployment": "660b0f26",
+  "rollback_deployment": "b6eb991d",
+  "new_pairs": 2,
+  "new_pages": 4,
+  "total_pairs": 4,
+  "total_pages": 8,
+  "compiled_pages_validated": 204,
+  "country_qa_errors": [],
+  "css_contact_regression_tests": 26,
+  "main_word_range": [
+    1918,
+    2328
+  ],
+  "main_inlink_range": [
+    3,
+    4
+  ],
+  "protection_checks": [
+    {
+      "route": "/suriname/paramaribo/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/suriname/paramaribo/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/suriname/upper-suriname/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/suriname/alto-suriname/",
+      "status": 302,
+      "access_redirect": true
+    }
+  ],
+  "authenticated_readback": "Pending; browser admin-policy verification unavailable",
+  "visual_review": "Pending; no agent desktop/mobile measurements claimed",
+  "production_containment": "172 live-scope pages validated; Suriname excluded",
+  "production_deployed": false
+}

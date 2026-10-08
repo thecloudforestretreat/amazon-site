@@ -1,17 +1,81 @@
 {
-  "pages_audited": 4,
+  "pages_audited": 8,
   "errors": [],
   "pages": [
     {
       "route": "/es/suriname/",
-      "main_words": 2075,
+      "main_words": 2084,
       "h2_sections": 13,
       "main_content_inlinks": [
+        "/es/suriname/paramaribo/",
+        "/es/suriname/planifica-tu-viaje-a-la-selva/",
+        "/es/suriname/alto-suriname/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/contacto/",
+        "/es/suriname/alto-suriname/",
+        "/es/suriname/paramaribo/",
+        "/es/suriname/planifica-tu-viaje-a-la-selva/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/suriname.css?v=b065ede556d7"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/suriname/alto-suriname/",
+      "main_words": 2213,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/es/suriname/",
+        "/es/suriname/paramaribo/",
         "/es/suriname/planifica-tu-viaje-a-la-selva/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/contacto/",
+        "/es/suriname/",
+        "/es/suriname/paramaribo/",
+        "/es/suriname/planifica-tu-viaje-a-la-selva/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/suriname.css?v=b065ede556d7"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/suriname/paramaribo/",
+      "main_words": 2328,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/es/suriname/",
+        "/es/suriname/planifica-tu-viaje-a-la-selva/",
+        "/es/suriname/alto-suriname/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/contacto/",
+        "/es/suriname/",
+        "/es/suriname/alto-suriname/",
         "/es/suriname/planifica-tu-viaje-a-la-selva/"
       ],
       "css": [
@@ -30,15 +94,19 @@
     },
     {
       "route": "/es/suriname/planifica-tu-viaje-a-la-selva/",
-      "main_words": 2117,
+      "main_words": 2125,
       "h2_sections": 13,
       "main_content_inlinks": [
-        "/es/suriname/"
+        "/es/suriname/",
+        "/es/suriname/paramaribo/",
+        "/es/suriname/alto-suriname/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/contacto/",
-        "/es/suriname/"
+        "/es/suriname/",
+        "/es/suriname/alto-suriname/",
+        "/es/suriname/paramaribo/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -56,16 +124,50 @@
     },
     {
       "route": "/suriname/",
-      "main_words": 1963,
+      "main_words": 1974,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/",
-        "/suriname/plan-your-rainforest-trip/"
+        "/suriname/paramaribo/",
+        "/suriname/plan-your-rainforest-trip/",
+        "/suriname/upper-suriname/"
       ],
       "main_content_outlinks": [
         "/",
         "/contact/",
-        "/suriname/plan-your-rainforest-trip/"
+        "/suriname/paramaribo/",
+        "/suriname/plan-your-rainforest-trip/",
+        "/suriname/upper-suriname/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/suriname.css?v=b065ede556d7"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/suriname/paramaribo/",
+      "main_words": 2008,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/suriname/",
+        "/suriname/plan-your-rainforest-trip/",
+        "/suriname/upper-suriname/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/contact/",
+        "/suriname/",
+        "/suriname/plan-your-rainforest-trip/",
+        "/suriname/upper-suriname/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -83,15 +185,49 @@
     },
     {
       "route": "/suriname/plan-your-rainforest-trip/",
-      "main_words": 1908,
+      "main_words": 1918,
       "h2_sections": 13,
       "main_content_inlinks": [
-        "/suriname/"
+        "/suriname/",
+        "/suriname/paramaribo/",
+        "/suriname/upper-suriname/"
       ],
       "main_content_outlinks": [
         "/",
         "/contact/",
-        "/suriname/"
+        "/suriname/",
+        "/suriname/paramaribo/",
+        "/suriname/upper-suriname/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/suriname.css?v=b065ede556d7"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/suriname/upper-suriname/",
+      "main_words": 2005,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/suriname/",
+        "/suriname/paramaribo/",
+        "/suriname/plan-your-rainforest-trip/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/contact/",
+        "/suriname/",
+        "/suriname/paramaribo/",
+        "/suriname/plan-your-rainforest-trip/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",

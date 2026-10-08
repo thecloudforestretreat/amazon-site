@@ -164,6 +164,14 @@
             "Plan your trip"
           ],
           [
+            "/suriname/paramaribo/",
+            "Paramaribo gateway"
+          ],
+          [
+            "/suriname/upper-suriname/",
+            "Upper Suriname"
+          ],
+          [
             "/contact/",
             "Share your plans"
           ]
@@ -172,6 +180,14 @@
           [
             "plan your Suriname rainforest trip",
             "/suriname/plan-your-rainforest-trip/"
+          ],
+          [
+            "Paramaribo",
+            "/suriname/paramaribo/"
+          ],
+          [
+            "Upper Suriname",
+            "/suriname/upper-suriname/"
           ]
         ],
         "hero": [
@@ -300,17 +316,33 @@
           ],
           [
             "/es/suriname/planifica-tu-viaje-a-la-selva/",
-            "Planifica tu viaje"
+            "Planifique su viaje"
+          ],
+          [
+            "/es/suriname/paramaribo/",
+            "Paramaribo"
+          ],
+          [
+            "/es/suriname/alto-suriname/",
+            "Alto Suriname"
           ],
           [
             "/es/contacto/",
-            "Comparte tus planes"
+            "Comparta sus planes"
           ]
         ],
         "context_links": [
           [
             "planificar tu viaje a la selva de Suriname",
             "/es/suriname/planifica-tu-viaje-a-la-selva/"
+          ],
+          [
+            "Paramaribo",
+            "/es/suriname/paramaribo/"
+          ],
+          [
+            "Alto Suriname",
+            "/es/suriname/alto-suriname/"
           ]
         ],
         "hero": [
@@ -444,6 +476,14 @@
             "Plan your trip"
           ],
           [
+            "/suriname/paramaribo/",
+            "Paramaribo gateway"
+          ],
+          [
+            "/suriname/upper-suriname/",
+            "Upper Suriname"
+          ],
+          [
             "/contact/",
             "Share your plans"
           ]
@@ -452,6 +492,14 @@
           [
             "Suriname rainforest overview",
             "/suriname/"
+          ],
+          [
+            "Paramaribo",
+            "/suriname/paramaribo/"
+          ],
+          [
+            "Upper Suriname",
+            "/suriname/upper-suriname/"
           ]
         ],
         "hero": [
@@ -580,17 +628,33 @@
           ],
           [
             "/es/suriname/planifica-tu-viaje-a-la-selva/",
-            "Planifica tu viaje"
+            "Planifique su viaje"
+          ],
+          [
+            "/es/suriname/paramaribo/",
+            "Paramaribo"
+          ],
+          [
+            "/es/suriname/alto-suriname/",
+            "Alto Suriname"
           ],
           [
             "/es/contacto/",
-            "Comparte tus planes"
+            "Comparta sus planes"
           ]
         ],
         "context_links": [
           [
             "guía de la selva de Suriname",
             "/es/suriname/"
+          ],
+          [
+            "Paramaribo",
+            "/es/suriname/paramaribo/"
+          ],
+          [
+            "Alto Suriname",
+            "/es/suriname/alto-suriname/"
           ]
         ],
         "hero": [

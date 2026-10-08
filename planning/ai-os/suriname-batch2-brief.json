@@ -1,0 +1,24 @@
+{
+  "batch_size_pairs": 2,
+  "topics": [
+    "Paramaribo gateway",
+    "Upper Suriname"
+  ],
+  "source_review": "suriname-batch2-source-review.json",
+  "structure": {
+    "sections": 9,
+    "paragraphs_per_section": 2,
+    "faqs": 4,
+    "quick_strings": 2,
+    "cta_strings": 2
+  },
+  "translation_schema_change": {
+    "trigger": "Batch1 local translation expanded arrays and split paragraphs",
+    "action": "Constrain local worker JSON schema to exact array lengths",
+    "validation": "Check actual results and review bilingual content; schema is not editorial verification",
+    "raw_output_retained": true
+  },
+  "render_template": "build_suriname_editorial.py; existing shared global/editorial/amazon-guide CSS",
+  "deployment_scope": "Protected staging only",
+  "rollback_deployment": "b6eb991d"
+}

@@ -1,0 +1,25 @@
+{
+  "model": "qwen3.5:9b",
+  "runs": [
+    {
+      "topic": "paramaribo",
+      "prompt_tokens": 2453,
+      "output_tokens": 3082,
+      "seconds": 132.7,
+      "retries": 0,
+      "cache_hits": 0,
+      "shape_pass": true
+    },
+    {
+      "topic": "upper-suriname",
+      "prompt_tokens": 2461,
+      "output_tokens": 3078,
+      "seconds": 126.18,
+      "retries": 0,
+      "cache_hits": 0,
+      "shape_pass": true
+    }
+  ],
+  "workflow_change": "Strict JSON schema with exact array lengths introduced after observed batch1 translation shape drift; raw results retained.",
+  "total_local_tokens": 11074
+}

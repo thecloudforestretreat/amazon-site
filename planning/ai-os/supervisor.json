@@ -66,9 +66,9 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Review Suriname first batch on protected staging",
-    "Next authorized batch candidates: Paramaribo gateway and Upper Suriname",
-    "Retain Guyana release check hold; do not deploy production from heartbeat"
+    "Review Suriname batch2 protected staging",
+    "Next batch candidates: Brownsberg/Brokopondo and Central Suriname Nature Reserve",
+    "Retain Guyana production verification hold; no heartbeat production deployment"
   ],
   "future_batches": [
     "Reviews deferred by owner; exclude from Ecuador launch",
@@ -111,8 +111,8 @@
     "measured_performance": "pending",
     "contact_delivery": "endpoint absent"
   },
-  "active_batch": "Suriname batch 1: overview and trip planning",
-  "batch_status": "2 of 12 Suriname bilingual pairs staged; technical passed, visual/readback pending",
+  "active_batch": "Suriname batch 2: Paramaribo and Upper Suriname",
+  "batch_status": "4 of 12 Suriname bilingual pairs staged; technical passed, visual/readback pending",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",

@@ -1,0 +1,669 @@
+{
+  "editorial_status": "reviewed",
+  "review_date": "2026-10-08",
+  "images": {
+    "amazon-forest-canoe-bow-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-forest-canoe-bow-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "5d74cddf67f036d0fe65044bf09c05ccd2352960dcb25b47ac831b9fb583643f"
+    },
+    "amazon-wooden-canoes-riverbank": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-wooden-canoes-riverbank.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "81e0ad56c85c2348710769d5fa9421e652dea9b7ee3c80b9ba9249304d07528b"
+    },
+    "amazon-rainforest-walk-traveler": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-rainforest-walk-traveler.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "cbf7ca9da828d289b62bfb0b2131d6be383d8af77355342665bf047971d3b6e7"
+    },
+    "amazon-forest-buttress-tree-hiker-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-forest-buttress-tree-hiker-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "2f414af8e0d165e636fb6480106701316e22d712fdca6d679bd3cf2168a724e5"
+    },
+    "amazon-canoe-group-lake-journey": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-canoe-group-lake-journey.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "da66207331cffb985492857cc246b422dfad57c6a979593883782a13ddb4e594"
+    }
+  },
+  "pages": {
+    "paramaribo": {
+      "en": {
+        "h1": "Paramaribo: your gateway to Suriname’s interior",
+        "title": "Paramaribo Travel | City Stay and Rainforest Connections",
+        "description": "Plan time in Paramaribo around your Suriname rainforest journey. Compare city stays, historic-center visits and practical connections to the interior.",
+        "lede": "Give Paramaribo a clear place in your rainforest itinerary: a comfortable arrival, time in the historic center and a well-organized onward connection. The city stay and inland journey should work together. Choose a base that suits your transport plans while leaving room to enjoy the capital at your own pace.",
+        "quick": [
+          "How should Paramaribo fit into a rainforest trip?",
+          "Use Paramaribo to connect your international arrival with the departure point for your inland route, rather than treating every arrival point as interchangeable. Allow time for a city visit if its history and food interest you. For Upper Suriname, check the road transfer to Atjoni and the onward boat handover. For an air-based interior route, confirm the specific departure airport and final connection. Choose the number of city nights after those arrangements are understood; there is no single schedule that suits every journey."
+        ],
+        "cta": [
+          "Make the city and forest part of one thoughtful journey",
+          "Tell us your arrival details, the interior region you are considering and how much city time you would enjoy. Add any walking, luggage or accommodation needs. We can discuss a route around those priorities; an inquiry does not confirm services or availability."
+        ],
+        "faqs": [
+          [
+            "Is arriving in Suriname the same as arriving at my city hotel?",
+            "No. Treat the international arrival, transfer to your accommodation and onward inland departure as separate steps. Confirm each meeting point, who is responsible and what happens if a connection changes. Avoid assuming that an international flight, city check-in and inland transfer can all fit into the same day."
+          ],
+          [
+            "What is worth including in a short city stay?",
+            "Consider a guided historic-center visit and time for the city’s food and riverfront setting. The historic inner city is UNESCO-listed. Ask about the actual walking route, stops and current opening arrangements for any museum or building you want to enter. A short stay works best with a few priorities rather than an overloaded list."
+          ],
+          [
+            "Should I stay near the inland departure point?",
+            "Compare proximity to the confirmed meeting point with comfort, rest and what you want to do in the city. Ask the transfer provider which location works for pickup. A convenient hotel address does not establish the timing or inclusions of the inland connection, so check the route and hotel booking together."
+          ],
+          [
+            "Can Paramaribo be combined with Upper Suriname?",
+            "It can be considered as a city-and-river itinerary, with the transport chain checked first. National tourism guidance describes road travel to Atjoni followed by a boat connection to Upper Suriname. Ask how much time the proposed transfer uses and how many full days remain at your inland base before deciding the number of nights."
+          ]
+        ],
+        "sections": [
+          [
+            "Give the city stay its own purpose",
+            "Decide whether Paramaribo is mainly an arrival base, a place to explore or a return stop before leaving Suriname. Those roles can require different choices of accommodation and pacing. If the city’s history interests you, reserve time for it in the plan rather than hoping to fit a visit between transfers. If rest is the priority, choose the first day around settling in and preparing for the next connection. A clear purpose makes it easier to compare proposed city stays.",
+            "Think about what each traveler needs after arriving. One person may enjoy a short walk; another may prefer time to recover before any scheduled activity. Ask whether a guided visit can be placed later rather than immediately after travel. Keep the first hotel night and the first interior departure aligned with the actual flight plan. You can then judge whether the city time is useful without assuming that every extra night adds the same value to the journey."
+          ],
+          [
+            "Understand the arrival and departure points",
+            "The national tourism guide identifies Johan Adolf Pengel International Airport as an international arrival point and describes Zorg en Hoop as a departure point for small-aircraft interior connections. They should not be treated as the same place or as automatic links to every rainforest destination. Ask your provider which arrival point, hotel and inland meeting point appear in your specific itinerary. Confirm the ground transfers between them rather than relying on the word airport to explain the whole connection.",
+            "For a road-and-river itinerary, the key handover is different again: national tourism guidance describes travel from Paramaribo to Atjoni before continuing by boat to Upper Suriname. Your chosen lodge or host determines the actual final connection. Request one summary covering meeting points, luggage and the person coordinating each leg. It should also explain how the next service learns of a delayed arrival. Clear handovers matter more than a route that only looks short on a map."
+          ],
+          [
+            "Make time for the historic inner city",
+            "Paramaribo’s historic inner city is recognized by UNESCO for its architectural and cultural significance. Treat a visit as an opportunity to understand the place rather than simply photograph a collection of buildings. Ask a local guide which route fits your interests and walking preferences. A visit centered on architecture, museum interpretation or everyday city life can have a different rhythm. Name the themes you care about so the proposed outing does not become an identical checklist for every traveler.",
+            "The tourism guide highlights places such as Fort Zeelandia and the city’s museums, but a landmark mention does not confirm current visitor hours or access to an interior. Ask what is included in the proposed visit, where tickets are needed and which stops may change. If you prefer a shorter outing, identify the essential stop and leave optional time around it. Confirm permissions for photographs in any interior or religious setting and follow the instructions given at the site."
+          ],
+          [
+            "Choose a hotel around the whole itinerary",
+            "Ask how the proposed city hotel works for arrival, inland pickup and your interests during the stay. Check the room type, bathroom, breakfast arrangements and check-in plan if your flight timing is unusual. A neighborhood or attractive photograph cannot answer those questions. Explain whether quiet rest, room sharing, step-free access or space to organize equipment matters. The right city base should support the next part of the journey without requiring you to overlook the comfort details that affect your group.",
+            "If you return to the same hotel after the forest, ask whether luggage storage is available, how it is arranged and what remains your responsibility. Check that both stays refer to the room category you expect. Travelers carrying photography equipment may prefer to organize bags before leaving rather than do it at the transport handover. If a city night is included in an itinerary quote, verify whether the hotel transfer and meals are also included or listed separately."
+          ],
+          [
+            "Leave room for food and everyday city life",
+            "The national tourism guide describes Paramaribo’s food scene as reflecting the city’s varied cultural influences. Instead of assuming a restaurant list suits every group, say whether you want a guided introduction, a relaxed meal or time to choose independently. Ask what a proposed food stop includes and whether dietary requests can be accommodated. A food-focused outing should explain the experience clearly without presenting every cuisine as available at every location or assuming a fixed menu will suit your preferences.",
+            "Meals can also help set a comfortable city pace. If an early inland pickup follows, discuss breakfast and a practical evening meal rather than planning a late finish automatically. Keep any independent dining plans separate from included meals so the quote is easy to read. For someone interested in local history, food and everyday conversations may complement a formal city visit, but they should not be treated as access to private life. Let the setting and the people involved guide the interaction."
+          ],
+          [
+            "Connect Paramaribo with the route you actually want",
+            "Use the Suriname rainforest overview to decide which interior experience the city stay supports. Upper Suriname introduces a road-and-river connection and locally arranged stays; other destinations have their own access plans. Ask what the next base adds to the journey and how many usable days remain once the transfers are counted. An itinerary should explain the relationship between the city and the forest, rather than combining them only because both names appear in a brochure.",
+            "Read the proposed departure day closely. Check where you meet, whether pickup is from your hotel, how bags are handled and what happens at the final handover. A city activity on the same day should only be included if it fits the confirmed schedule. Avoid relying on an assumed afternoon window after a transfer or a guaranteed early arrival. A calmer connection can protect the part of the trip you value most while keeping the city visit enjoyable."
+          ],
+          [
+            "Use city time to settle practical details",
+            "Before leaving for the interior, confirm the items that are harder to adjust during a transfer: luggage rules, dietary requests, balances due and the contact responsible for the next stage. Keep the route summary and key contacts available offline. Ask which essential items should travel with you rather than in a stored bag. For any entry or health question, consult the appropriate current official guidance or professional advice separately; a city itinerary is not a substitute for those checks.",
+            "If your group needs a particular piece of equipment or a service, confirm it before arrival instead of assuming it can be obtained locally at short notice. Ask what the accommodation supplies and what you are expected to bring. A useful city stop reduces last-minute uncertainty, but it should not become a scramble to fix decisions left open during planning. Set aside time to review the inland arrangements so everyone understands the meeting point, packing plan and expected activity pace."
+          ],
+          [
+            "Plan the return connection as carefully as the arrival",
+            "For the return from the forest, ask how the inland connection relates to your onward flight and what margin the provider recommends for that specific route. There is no universal buffer that makes every combination workable. Share fixed departure dates early and ask which arrangements can change if needed. If a return city night is proposed, understand its purpose: rest, time in Paramaribo or separation between independently operated services. Keep that reasoning visible when comparing itineraries.",
+            "Check where the inland journey ends, how you reach the hotel or airport and whether the final transfer is included. Ask who coordinates a change and how you are notified. If you want a last city visit, choose it around the confirmed return plan rather than treating it as guaranteed spare time. A simple route with a clear final handover can be preferable to an extra stop that makes the departure day harder to manage."
+          ],
+          [
+            "Send a city-and-forest inquiry with clear priorities",
+            "To plan your Suriname rainforest trip, include the city stay as part of the brief. Send flight dates, group size, the interior area you prefer and any city interests such as history, architecture or food. Explain how much walking you enjoy and what makes a comfortable hotel. Distinguish essential requirements from optional visits. That gives a planning conversation enough direction to compare city nights and inland time without committing you to a route that has not yet been checked.",
+            "Ask the proposal to separate the city accommodation, city activities, inland transfer and forest stay clearly. Look for actual meeting points, room categories, guiding and exclusions instead of assuming that the phrase complete itinerary covers every detail. An inquiry is a starting point, not a booking or a promise that an attraction is open. Compare the resulting route with your priorities and resolve the remaining questions before treating any service as confirmed."
+          ]
+        ],
+        "slug": "paramaribo",
+        "type": "destination_guide",
+        "pair_id": "suriname_paramaribo_001",
+        "links": [
+          [
+            "/suriname/",
+            "Suriname overview"
+          ],
+          [
+            "/suriname/plan-your-rainforest-trip/",
+            "Plan your trip"
+          ],
+          [
+            "/suriname/paramaribo/",
+            "Paramaribo gateway"
+          ],
+          [
+            "/suriname/upper-suriname/",
+            "Upper Suriname"
+          ],
+          [
+            "/contact/",
+            "Share your plans"
+          ]
+        ],
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Suriname Travel — Paramaribo",
+            "https://suriname.travel/paramaribo/"
+          ],
+          [
+            "UNESCO — Historic Inner City of Paramaribo",
+            "https://whc.unesco.org/en/list/940/"
+          ],
+          [
+            "Suriname Travel — transport",
+            "https://suriname.travel/transport-in-suriname/"
+          ],
+          [
+            "Suriname Travel — Sipaliwini",
+            "https://suriname.travel/sipaliwini/"
+          ]
+        ],
+        "scope": "Guide reviewed October 8, 2026. Confirm transfers, visits and accommodation for your itinerary. Images illustrate river and forest settings without identifying specific Suriname locations or properties.",
+        "hero": [
+          "amazon-canoe-group-lake-journey",
+          "Travelers in a canoe on calm water"
+        ],
+        "features": {
+          "1": [
+            "amazon-wooden-canoes-riverbank",
+            "Wooden canoes beside a riverbank"
+          ],
+          "4": [
+            "amazon-rainforest-walk-traveler",
+            "Traveler walking along a forest path"
+          ]
+        },
+        "context_links": [
+          [
+            "Suriname rainforest overview",
+            "/suriname/"
+          ],
+          [
+            "plan your Suriname rainforest trip",
+            "/suriname/plan-your-rainforest-trip/"
+          ]
+        ]
+      },
+      "es": {
+        "h1": "Paramaribo: su puerta de entrada al interior de Suriname",
+        "title": "Paramaribo | Ciudad y conexiones con la selva de Suriname",
+        "description": "Organice su estancia en Paramaribo y las conexiones con el interior de Suriname. Compare visitas al centro histórico, alojamiento y traslados.",
+        "lede": "Reserve un lugar claro para Paramaribo en su itinerario: una llegada cómoda, tiempo para conocer el centro histórico y una conexión bien organizada hacia el interior. La estancia en la ciudad y el viaje a la selva deben encajar. Elija una base que facilite los traslados y deje tiempo para disfrutar de la capital a su ritmo.",
+        "quick": [
+          "¿Cómo debería integrarse Paramaribo en un viaje por la selva?",
+          "Utilice Paramaribo para conectar su llegada internacional con el punto de partida de su ruta hacia el interior, en lugar de tratar cada punto de llegada como intercambiable. Permita tiempo para una visita a la ciudad si su historia y gastronomía le interesan. Para Alto Suriname, verifique el traslado terrestre a Atjoni y la conexión posterior en barco. Para una ruta basada en vuelos al interior, confirme el aeropuerto de salida específico y la conexión final. Elija el número de noches en la ciudad tras comprender esos arreglos; no existe un horario único que sirva para cada viaje."
+        ],
+        "cta": [
+          "Combine la ciudad y la selva en un viaje bien organizado",
+          "Comparta sus detalles de llegada, la región del interior que le interesa y cuánto tiempo desea pasar en la ciudad. Añada sus necesidades de alojamiento, equipaje y caminatas. Podemos valorar una ruta según esas prioridades; una consulta no confirma servicios ni disponibilidad."
+        ],
+        "faqs": [
+          [
+            "¿Llegar a Suriname es lo mismo que llegar al hotel de la ciudad?",
+            "No. Trate la llegada internacional, el traslado a su alojamiento y la salida posterior hacia el interior como pasos separados. Confirme cada punto de encuentro, quién es responsable y qué sucede si cambia una conexión. Evite asumir que un vuelo internacional, el check-in en la ciudad y el traslado al interior pueden organizarse todos en el mismo día."
+          ],
+          [
+            "¿Qué vale la pena incluir en una corta estancia en la ciudad?",
+            "Considere una visita guiada al centro histórico y tiempo para la gastronomía y el entorno ribereño de la ciudad. El centro histórico está listado por la UNESCO. Pregunte sobre la ruta de caminata real, las paradas y los arreglos actuales de apertura para cualquier museo o edificio que desee ingresar. Una corta estancia funciona mejor con unas pocas prioridades en lugar de una lista sobrecargada."
+          ],
+          [
+            "¿Debería alojarme cerca del punto de salida hacia el interior?",
+            "Compare la proximidad al punto de encuentro confirmado con el comodidad, el descanso y lo que desea hacer en la ciudad. Pregunte al proveedor de traslados qué ubicación funciona para la recogida. Una dirección de hotel conveniente no establece los horarios ni las inclusiones de la conexión al interior, por lo que verifique la ruta y la reserva del hotel juntos."
+          ],
+          [
+            "¿Puede combinarse Paramaribo con Alto Suriname?",
+            "Se puede considerar como un itinerario ciudad-río, verificando primero la cadena de transporte. La guía de turismo nacional describe el viaje terrestre a Atjoni seguido de una conexión en barco hacia Alto Suriname. Pregunte cuánto tiempo utiliza el traslado propuesto y cuántos días completos quedan en su base del interior antes de decidir el número de noches."
+          ]
+        ],
+        "sections": [
+          [
+            "Dé un propósito claro a la estancia en la ciudad",
+            "Decida si Paramaribo es principalmente una base de llegada, un lugar para explorar o una parada de retorno antes de salir de Suriname. Esos roles pueden requerir diferentes elecciones de alojamiento y ritmo. Si la historia de la ciudad le interesa, reserve tiempo para ello en el plan en lugar de esperar a encajar una visita entre traslados. Si el descanso es la prioridad, elija el primer día para instalarse y la preparación para la siguiente conexión. Un propósito claro facilita comparar las estancias en la ciudad propuestas.",
+            "Piense en lo que necesita cada viajero después de llegar. Una persona puede disfrutar de un corto paseo; otra puede preferir tiempo para recuperarse antes de cualquier actividad programada. Pregunte si una visita guiada puede colocarse más tarde que inmediatamente después del viaje. Mantenga la primera noche de hotel y la primera salida hacia el interior alineadas con el plan de vuelo real. Luego podrá juzgar si el tiempo en la ciudad es útil sin asumir que cada noche extra añade el mismo valor al viaje."
+          ],
+          [
+            "Entienda los puntos de llegada y salida",
+            "La guía de turismo nacional identifica el Aeropuerto Internacional Johan Adolf Pengel como un punto de llegada internacional y describe Zorg en Hoop como un punto de partida para conexiones al interior con pequeñas aeronaves. No deben tratarse como el mismo lugar ni como enlaces automáticos a cada destino de la selva. Pregunte a su proveedor qué punto de llegada, hotel y punto de encuentro hacia el interior aparecen en su itinerario específico. Confirme los traslados terrestres entre ellos en lugar de confiar en la palabra aeropuerto para explicar toda la conexión.",
+            "Para un itinerario de carretera y río, el cambio de transporte principal es diferente nuevamente: la guía de turismo nacional describe viajar desde Paramaribo a Atjoni antes de continuar en barco hacia Alto Suriname. Su lodge o anfitrión elegido determina la conexión final real. Solicite un resumen que cubra los puntos de encuentro, el equipaje y la persona que coordina cada tramo. También debe explicar cómo el siguiente servicio se entera de una llegada retrasada. Los cambios de transporte bien coordinados importan más que una ruta que solo parece corta en un mapa."
+          ],
+          [
+            "Reserve tiempo para el centro histórico",
+            "El centro histórico de Paramaribo es reconocido por la UNESCO por su importancia arquitectónica y cultural. Trate una visita como una oportunidad para comprender el lugar en lugar de simplemente fotografiar una colección de edificios. Pregunte a un guía local qué ruta se adapta a sus intereses y preferencias de caminata. Una visita centrada en arquitectura, interpretación de museos o vida cotidiana de la ciudad puede tener un ritmo diferente. Nombre los temas que le importan para que el paseo propuesto no se convierta en una lista de verificación idéntica para cada viajero.",
+            "La guía de turismo resalta lugares como Fort Zeelandia y los museos de la ciudad, pero una mención de un monumento no confirma las horarios actuales de visita ni el acceso a un interior. Pregunte qué incluye la visita propuesta, dónde se necesitan las entradas y qué paradas pueden cambiar. Si prefiere una salida más corta, identifique la parada esencial y deje tiempo opcional alrededor de ella. Confirme los permisos para fotografías en cualquier interior o entorno religioso y siga las instrucciones dadas en el sitio."
+          ],
+          [
+            "Elija un hotel según el itinerario completo",
+            "Pregunte cómo funciona el hotel propuesto en la ciudad para la llegada, la recogida hacia el interior y sus intereses durante la estancia. Verifique el tipo de habitación, baño, servicio de desayuno y plan de check-in si su horario de vuelo es inusual. Un barrio o fotografía atractiva no pueden responder esas preguntas. Explique si el descanso tranquilo, compartir habitación, acceso sin escalones o espacio para organizar equipo importa. La base en la ciudad correcta debe apoyar la siguiente parte del viaje sin que tenga que pasar por alto los detalles de comodidad que afectan a su grupo.",
+            "Si regresa al mismo hotel después de la selva, pregunte si hay almacenamiento de equipaje disponible, cómo se organiza y qué queda bajo su responsabilidad. Verifique que ambas estancias se refieren a la categoría de habitación que espera. Los viajeros que transportan equipo fotográfico pueden preferir organizar las maletas antes de salir en lugar de hacerlo en el cambio de transporte. Si una noche en la ciudad está incluida en una cotización de itinerario, verifique si el traslado al hotel y las comidas también están incluidas o listadas por separado."
+          ],
+          [
+            "Deje espacio para la comida y la vida cotidiana de la ciudad",
+            "La guía de turismo nacional describe la oferta gastronómica de Paramaribo como un reflejo de las diversas influencias culturales de la ciudad. En lugar de asumir que una lista de restaurantes se adapta a cada grupo, diga si desea una introducción guiada, una comida relajada o tiempo para elegir independientemente. Pregunte qué incluye una parada gastronómica propuesta y si se pueden acomodar solicitudes dietéticas. Una salida centrada en la comida debe explicar la experiencia claramente sin presentar cada cocina como disponible en cada ubicación ni asumir que un menú fijo servirá a sus preferencias.",
+            "Las comidas también pueden ayudar a establecer un ritmo cómodo en la ciudad. Si sigue una recogida temprana hacia el interior, comente el desayuno y una cena práctica en lugar de planificar automáticamente un final tardío. Mantenga los planes para comer por su cuenta separados de las comidas incluidas para que la cotización sea fácil de leer. Para alguien interesado en la historia local, la comida y las conversaciones cotidianas pueden complementar una visita formal a la ciudad, pero no deben tratarse como acceso a la vida privada. Deje que el entorno y las personas involucradas guíen la interacción."
+          ],
+          [
+            "Conecte Paramaribo con la ruta que realmente desea",
+            "Consulte la guía de Suriname. Utilice la guía de la selva de Suriname para decidir qué experiencia del interior apoya la estancia en la ciudad. Alto Suriname introduce una conexión por carretera y río y estancias organizadas localmente; otros destinos tienen sus propios planes de acceso. Pregunte qué añade la siguiente base al viaje y cuántos días disponibles para actividades quedan una vez contados los traslados. Un itinerario debe explicar la relación entre la ciudad y el bosque, en lugar de combinarlos solo porque ambos nombres aparecen en un folleto.",
+            "Lea con atención el día de salida propuesto. Verifique dónde se encuentra, si la recogida es desde su hotel, cómo se maneja el equipaje y qué sucede en el último cambio de transporte. Una actividad en la ciudad el mismo día solo debe incluirse si se ajusta al horario confirmado. Evite depender de una ventana de tarde asumida después de un traslado o una llegada temprana garantizada. Una conexión más tranquila puede proteger la parte del viaje que más valora sin restar comodidad a la visita a la ciudad."
+          ],
+          [
+            "Utilice el tiempo en la ciudad para resolver detalles prácticos",
+            "Antes de salir hacia el interior, confirme los detalles que son más difíciles de ajustar durante un traslado: reglas de equipaje, solicitudes dietéticas, saldos pendientes y el contacto responsable de la siguiente etapa. Mantenga disponible el resumen de ruta y contactos clave sin conexión. Pregunte qué artículos esenciales deben viajar con usted en lugar de en una maleta almacenada. Para cualquier pregunta de entrada o salud, consulte la orientación oficial actual apropiada o asesoramiento profesional por separado; un itinerario de ciudad no es sustituto de esas verificaciones.",
+            "Si su grupo necesita un equipo específico o un servicio, confírmelo antes de la llegada en lugar de asumir que estará disponible a última hora. Pregunte qué suministra el alojamiento y lo que se espera que traiga. Una parada en la ciudad útil reduce la incertidumbre de último minuto, pero no debe convertirse en una carrera para resolver decisiones pendientes durante la planificación. Reserve tiempo para revisar los arreglos hacia el interior para que todos conozcan el punto de encuentro, organización del equipaje y ritmo de actividad esperado."
+          ],
+          [
+            "Planee la conexión de retorno con el mismo cuidado que la llegada",
+            "Para el retorno desde la selva, pregunte cómo se relaciona la conexión del interior con su vuelo posterior y qué margen recomienda el proveedor para esa ruta específica. No existe un margen universal que haga viable cada combinación. Comparta las fechas de salida fijas temprano y pregunte qué arreglos pueden cambiar si es necesario. Si se propone una noche en la ciudad de retorno, entienda su propósito: descanso, tiempo en Paramaribo o separación entre servicios operados independientemente. Mantenga esa lógica visible al comparar itinerarios.",
+            "Verifique dónde termina el viaje hacia el interior, cómo llega al hotel o aeropuerto y si el traslado final está incluido. Pregunte quién coordina un cambio y cómo se le notifica. Si desea una última visita a la ciudad, elija alrededor del plan de retorno confirmado en lugar de tratarlo como tiempo libre garantizado. Una ruta simple con un último traslado bien organizado puede ser preferible a una parada extra que hace más difícil gestionar el día de salida."
+          ],
+          [
+            "Envíe una consulta ciudad-selva con prioridades claras",
+            "Para planificar su viaje a la selva de Suriname, Para planear su viaje por la selva de Suriname, incluya la estancia en la ciudad como parte del resumen. Envíe fechas de vuelo, número de viajeros, el área del interior que prefiere y cualquier interés en la ciudad como historia, arquitectura o comida. Explique cuánto caminar disfruta y qué necesita para estar cómodo en el hotel. Distinga los requisitos esenciales de las visitas opcionales. Eso da a una conversación de planificación suficiente dirección para comparar noches en la ciudad y tiempo en el interior sin comprometerlo con una ruta que aún no se ha verificado.",
+            "Pida a la propuesta que separe claramente el alojamiento en la ciudad, actividades en la ciudad, traslado al interior y estancia en el bosque. Busque puntos de encuentro reales, categorías de habitación, servicio de guía y exclusiones en lugar de asumir que la frase itinerario completo cubre cada detalle. Una consulta es un punto de partida, no una reserva ni una promesa de que una atracción está abierta. Compare la ruta resultante con sus prioridades y resuelva las preguntas restantes antes de tratar cualquier servicio como confirmado."
+          ]
+        ],
+        "slug": "paramaribo",
+        "type": "destination_guide",
+        "pair_id": "suriname_paramaribo_001",
+        "links": [
+          [
+            "/es/suriname/",
+            "Guía de Suriname"
+          ],
+          [
+            "/es/suriname/planifica-tu-viaje-a-la-selva/",
+            "Planifique su viaje"
+          ],
+          [
+            "/es/suriname/paramaribo/",
+            "Paramaribo"
+          ],
+          [
+            "/es/suriname/alto-suriname/",
+            "Alto Suriname"
+          ],
+          [
+            "/es/contacto/",
+            "Comparta sus planes"
+          ]
+        ],
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Suriname Travel — Paramaribo",
+            "https://suriname.travel/paramaribo/"
+          ],
+          [
+            "UNESCO — Historic Inner City of Paramaribo",
+            "https://whc.unesco.org/en/list/940/"
+          ],
+          [
+            "Suriname Travel — transport",
+            "https://suriname.travel/transport-in-suriname/"
+          ],
+          [
+            "Suriname Travel — Sipaliwini",
+            "https://suriname.travel/sipaliwini/"
+          ]
+        ],
+        "scope": "Guía revisada el 8 de octubre de 2026. Confirme los traslados, las visitas y el alojamiento para su itinerario. Las imágenes ilustran entornos de río y bosque sin identificar lugares o alojamientos específicos de Suriname.",
+        "hero": [
+          "amazon-canoe-group-lake-journey",
+          "Viajeros en una canoa sobre aguas tranquilas"
+        ],
+        "features": {
+          "1": [
+            "amazon-wooden-canoes-riverbank",
+            "Canoas de madera junto a la orilla de un río"
+          ],
+          "4": [
+            "amazon-rainforest-walk-traveler",
+            "Viajero caminando por un sendero del bosque"
+          ]
+        },
+        "context_links": [
+          [
+            "guía de Suriname",
+            "/es/suriname/"
+          ],
+          [
+            "planificar su viaje a la selva de Suriname",
+            "/es/suriname/planifica-tu-viaje-a-la-selva/"
+          ]
+        ]
+      }
+    },
+    "upper-suriname": {
+      "en": {
+        "h1": "Upper Suriname river journeys and locally hosted stays",
+        "title": "Upper Suriname Travel | River Journeys and Hosted Stays",
+        "description": "Explore Upper Suriname trip planning: the Atjoni boat connection, locally hosted stays, river activities and practical questions for a respectful journey.",
+        "lede": "Upper Suriname brings river travel, forest surroundings and locally arranged hospitality into one journey. Choose the base and the welcome offered before filling the itinerary with activities. The road-to-boat handover at Atjoni is part of the planning; so are comfort, guiding and respect for the people who host your visit.",
+        "quick": [
+          "What makes an Upper Suriname journey different?",
+          "A trip combines the access journey with time at a river base and the experiences agreed with local hosts. Tourism guidance describes the Paramaribo–Atjoni road connection followed by boat travel into Upper Suriname. A lodge stay, community visit and guided activity are separate arrangements that should be explained in the proposal. Compare usable days, the actual accommodation and what local participation involves. Choose a slower pace if conversation, photography or quiet observation matters more than moving between several bases."
+        ],
+        "cta": [
+          "Plan a river journey around your group and your hosts",
+          "Tell us your dates, group size and the balance of river time, walks and locally hosted experiences you want. Add any boat, mobility or accommodation concerns. We can discuss the route and the questions to resolve; availability and hosting arrangements still need confirmation."
+        ],
+        "faqs": [
+          [
+            "How do I reach Upper Suriname?",
+            "National tourism guidance describes road travel from Paramaribo to Atjoni followed by boat travel. The final destination and provider determine the actual handover and onward connection. Confirm the complete route, pickup, luggage rules and return plan for your dates rather than relying on a general duration or a map."
+          ],
+          [
+            "Is a lodge booking the same as booking a community visit?",
+            "No. Ask who operates the accommodation, which locally led activities are included and who agrees to receive visitors. A room reservation does not establish permission to enter private spaces, take photographs or attend events. The proposal should make hosting and activity arrangements clear, with local consent respected throughout."
+          ],
+          [
+            "Can I visit Pikin Slee and its museum?",
+            "The national tourism guide identifies the Saamaka Museum in Pikin Slee, created by the Totomboti art collective. If it interests you, ask whether a visit fits the chosen route and confirm current opening and hosting arrangements. Its presence in a guide does not make it an automatic inclusion in every Upper Suriname itinerary."
+          ],
+          [
+            "How should I compare two river-stay proposals?",
+            "Compare the base, room category, complete transfers, guiding, meals, activities and exclusions. Count full days separately from travel days. Ask how hosts participate and which visits require confirmation. A proposal with more stops is not necessarily better for your interests; patient time at one base may be more useful."
+          ]
+        ],
+        "sections": [
+          [
+            "Start with the kind of river stay you want",
+            "Decide whether the main interest is time on the water, guided walks, photography, locally hosted conversations or a quiet base surrounded by forest. Those priorities affect how you compare accommodation and activities. A journey focused on observation may need patient stops; a traveler interested in history may want time with a local interpreter. Describe what appeals to you instead of requesting every possible activity. That makes it easier to assess whether the proposed base supports the experience you actually want.",
+            "A river stay should also fit the people traveling. Explain comfort with boarding a boat, long seated transfers and uneven walking surfaces before the itinerary is drawn up. Ask what assistance is available without assuming it can be provided in every place. If members of the group have different interests, discuss whether the daily plan can allow rest or shorter outings. A suitable pace is not simply a matter of age or fitness; it depends on the specific journey and the group’s preferences."
+          ],
+          [
+            "Understand the Paramaribo–Atjoni–boat connection",
+            "Tourism transport guidance describes a road connection from Paramaribo to Atjoni, where travelers transfer to boats for Upper Suriname. Use that as a starting framework, not as a fixed schedule for every property. The destination determines the final boat leg and the arrangements at arrival. Ask where pickup takes place, who handles the change of transport and whether the entire chain appears in one quote. Confirm the return as well as the outward route before choosing the number of nights.",
+            "At a handover, clarity about bags and people matters. Ask which items should remain accessible, how luggage is protected from rain or splashes and what the provider requires for size or weight. If the journey includes a meal stop or other break, check whether it is part of the actual plan. Avoid assuming that a boat transfer also includes guided observation or sightseeing stops. A practical connection can still be an enjoyable part of the trip without being described as something it is not."
+          ],
+          [
+            "Choose a base for its hosting and everyday comfort",
+            "Compare the proposed accommodation through room arrangements, bathrooms, insect protection, drinking water, meals and charging opportunities. Ask for current photographs of the room category in the quote and an explanation of how activities depart from the base. A label such as river lodge or community stay does not establish a level of privacy or a facility. Explain what your group needs in concrete terms so comfort can be discussed before the final property is selected.",
+            "Ask who runs the stay, who welcomes guests and how local people guide or host activities. A base can involve different relationships between accommodation providers and nearby communities; do not assume one photograph or marketing label explains them. If you prefer time for conversations and a locally led walk, make that interest clear. If quiet rest is more important, discuss the daily rhythm instead. The proposal should describe the actual arrangements rather than ask you to infer them from the setting."
+          ],
+          [
+            "Let local hosts define the welcome",
+            "A respectful community visit begins with the welcome that hosts have agreed to offer. Ask which activities are locally led, who interprets when necessary and how the visit fits everyday routines. A community is not an open list of attractions. Private spaces, ceremonies and personal stories remain the choices of the people involved. Permission for one visit should not be treated as a general permission to enter other places or record everything that happens.",
+            "Discuss photographs before raising a camera, including how images may be used or shared. Accept a refusal without pressure and let your guide or host explain local expectations. Meaningful contact does not need a staged performance: time to listen and follow a host’s lead can be more valuable than adding an event. If a planned visit changes, ask how the itinerary responds while respecting that decision. The quality of the journey includes the relationship with hosts, not just the number of activities completed."
+          ],
+          [
+            "Consider Pikin Slee as a specific cultural stop",
+            "The tourism guide identifies the Saamaka Museum in Pikin Slee, created by the Totomboti art collective, as a place connected with Saamaka history and culture. If this is a priority, ask whether a visit fits the chosen base and transfer route. Confirm current opening arrangements, the form of interpretation and any visitor requirements. Do not assume that a museum mention includes unrestricted access to the surrounding village or participation in private events.",
+            "A cultural stop deserves time for explanation as well as transport. Ask what the visit focuses on and whether a local host or interpreter is part of the arrangement. Let the people presenting their history determine what they wish to share. If the museum cannot be included, discuss other locally agreed ways to learn rather than treating cultural experiences as interchangeable substitutes. The itinerary should show the actual purpose and conditions of the visit, so expectations remain respectful and realistic."
+          ],
+          [
+            "Separate river transfers from river activities",
+            "A boat leg may be a transport connection, a guided outing or a combination agreed in advance. Those uses can involve different stopping time, seating and attention from the guide. Ask which one appears in your itinerary and what the boat arrangement is for your group. If photography matters, discuss whether there is time to pause and how equipment can be handled without affecting boarding or the crew’s work. Avoid expecting every transfer to operate like a leisurely excursion.",
+            "For any proposed water activity, ask about the setting, supervision and conditions under which it runs. Do not infer suitability for swimming or independent paddling from a scenic photograph. Follow the provider’s instructions and discuss alternatives if an activity does not fit your group. Wildlife observation should allow for quiet stretches and uncertainty, with no particular encounter promised. The river’s landscape, the journey and time with your hosts can all matter even when the outing does not produce a specific sighting."
+          ],
+          [
+            "Balance forest walks with time at the base",
+            "Ask how the proposed walk is described in practical terms: surface, slopes, duration, rest opportunities and the option to turn back. Tell the guide if you prefer patient observation or if one traveler needs a shorter outing. A forest walk is not improved simply by making it longer. Confirm what suits the group and what can change with conditions. Treat walking and boat activities as parts of the same day, with enough space for meals, equipment and rest.",
+            "Time at the base can be worthwhile when it supports the purpose of the stay. Someone interested in photography may want to review and protect equipment; another traveler may prefer a quiet period after a transfer. Ask how flexible the daily plan is without assuming every activity can be rearranged. A slower day should be a deliberate choice, not a gap filled with a promised experience that has not been agreed. Compare the route according to how you want to spend the time."
+          ],
+          [
+            "Check inclusions and the number of usable days",
+            "Read the quote as a sequence: pickup, road transfer, boat connection, accommodation, guiding, meals and return. Ask which activities are included and which are optional or subject to separate confirmation. Count full days at the base separately from arrival and departure periods. If a proposal adds another base, ask what it contributes and how much time is used moving. Similar headlines do not establish equivalent journeys, particularly when transfer and hosting arrangements differ.",
+            "Check the room category, group arrangements and who coordinates the journey if something changes. Ask for payment and cancellation terms and an explanation of what happens when a planned connection or visit cannot take place. Keep the confirmed route and contact details available offline. Do not assume an all-inclusive description covers every drink, activity or transfer unless the proposal states it. A clear written account helps protect the time and experiences your group has chosen."
+          ],
+          [
+            "Link your river stay with the rest of Suriname",
+            "Use the Paramaribo gateway guide to organize the city stay and the connection into Upper Suriname. If you are comparing other interior regions, start with the Suriname rainforest overview and identify what a second area would add. Keep the return route aligned with fixed onward travel. A well-chosen river base can be the center of the itinerary, rather than one short stop among several places whose transfer demands have not been considered together.",
+            "To plan your Suriname rainforest trip, send dates, group size, the activities you value most and the comfort details that matter. Say whether Pikin Slee is an interest to explore, whether boat travel needs particular attention and how much walking you want. Separate essential needs from flexible preferences. An inquiry begins a planning conversation; it does not reserve a lodge or confirm a community visit. Evaluate the resulting proposal against your priorities before treating its arrangements as booked."
+          ]
+        ],
+        "slug": "upper-suriname",
+        "type": "destination_guide",
+        "pair_id": "suriname_upper-suriname_001",
+        "links": [
+          [
+            "/suriname/",
+            "Suriname overview"
+          ],
+          [
+            "/suriname/plan-your-rainforest-trip/",
+            "Plan your trip"
+          ],
+          [
+            "/suriname/paramaribo/",
+            "Paramaribo gateway"
+          ],
+          [
+            "/suriname/upper-suriname/",
+            "Upper Suriname"
+          ],
+          [
+            "/contact/",
+            "Share your plans"
+          ]
+        ],
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Suriname Travel — Paramaribo",
+            "https://suriname.travel/paramaribo/"
+          ],
+          [
+            "UNESCO — Historic Inner City of Paramaribo",
+            "https://whc.unesco.org/en/list/940/"
+          ],
+          [
+            "Suriname Travel — transport",
+            "https://suriname.travel/transport-in-suriname/"
+          ],
+          [
+            "Suriname Travel — Sipaliwini",
+            "https://suriname.travel/sipaliwini/"
+          ]
+        ],
+        "scope": "Guide reviewed October 8, 2026. Confirm transfers, visits and accommodation for your itinerary. Images illustrate river and forest settings without identifying specific Suriname locations or properties.",
+        "hero": [
+          "amazon-forest-canoe-bow-wide",
+          "View from a canoe toward forest-lined water"
+        ],
+        "features": {
+          "1": [
+            "amazon-forest-buttress-tree-hiker-wide",
+            "Hiker beside the roots of a large forest tree"
+          ],
+          "4": [
+            "amazon-wooden-canoes-riverbank",
+            "Wooden canoes beside a riverbank"
+          ]
+        },
+        "context_links": [
+          [
+            "Suriname rainforest overview",
+            "/suriname/"
+          ],
+          [
+            "plan your Suriname rainforest trip",
+            "/suriname/plan-your-rainforest-trip/"
+          ],
+          [
+            "Paramaribo gateway guide",
+            "/suriname/paramaribo/"
+          ]
+        ]
+      },
+      "es": {
+        "h1": "Viajes en el río Alto Suriname y estancias con anfitriones locales",
+        "title": "Alto Suriname | Viajes fluviales y estancias locales",
+        "description": "Planifique un viaje al Alto Suriname: conexión fluvial desde Atjoni, alojamiento, visitas con anfitriones locales y preguntas prácticas antes de reservar.",
+        "lede": "El Alto Suriname combina recorridos fluviales, paisajes de bosque y hospitalidad organizada localmente. Elija la base y las experiencias que ofrecen los anfitriones antes de llenar el itinerario de actividades. El cambio de carretera a barco en Atjoni forma parte de la planificación, junto con la comodidad, el servicio de guía y el respeto hacia quienes reciben su visita.",
+        "quick": [
+          "¿Qué hace diferente a un viaje al Alto Suriname?",
+          "Un viaje combina el trayecto de acceso con el tiempo en una base fluvial y las experiencias acordadas con anfitriones locales. La orientación turística describe la conexión por carretera Paramaribo–Atjoni seguida por el viaje en bote hacia el Alto Suriname. Una estancia en lodge, visita a la comunidad y actividad guiada son arreglos separados que deben explicarse en la propuesta. Compare los días disponibles para actividades, la alojamiento real y lo que implica la participación local. Elija un ritmo más lento si la conversación, la fotografía o la observación tranquila importan más que moverse entre varias bases."
+        ],
+        "cta": [
+          "Organice un viaje fluvial que tenga en cuenta a viajeros y anfitriones",
+          "Comparta sus fechas, número de viajeros y el equilibrio de recorridos fluviales, caminatas y experiencias locales que desea. Indique sus necesidades de movilidad, barcos o alojamiento. Podemos valorar la ruta y las preguntas pendientes; la disponibilidad y las visitas con anfitriones requieren confirmación."
+        ],
+        "faqs": [
+          [
+            "¿Cómo llego al Alto Suriname?",
+            "La orientación turística nacional describe el viaje en carretera desde Paramaribo hasta Atjoni seguido por el viaje en bote. El destino final y el proveedor determinan la traslado real y la conexión posterior. Confirme la ruta completa, recogida, reglas de equipaje y plan de retorno para sus fechas en lugar de depender de una duración general o un mapa."
+          ],
+          [
+            "¿Es reservar un lodge lo mismo que reservar una visita a una comunidad?",
+            "No. Pregunte quién opera la alojamiento, qué actividades dirigidas localmente están incluidas y quién acepta recibir visitantes. Una reserva de habitación no establece permiso para entrar en espacios privados, tomar fotografías o asistir a eventos. La propuesta debe dejar claros los arreglos de hospedaje y actividades, respetando el consentimiento local en todo momento."
+          ],
+          [
+            "¿Puedo visitar Pikin Slee y su museo?",
+            "La guía turística nacional identifica el Museo Saamaka en Pikin Slee, creado por el colectivo artístico Totomboti. Si le interesa, pregunte si una visita se ajusta a la ruta elegida y confirme los arreglos actuales de apertura y hospedaje. Su presencia en una guía no lo convierte en una inclusión automática en cada itinerario del Alto Suriname."
+          ],
+          [
+            "¿Cómo debo comparar dos propuestas de estancia fluvial?",
+            "Compare la base, categoría de habitación, traslados completos, guía, comidas, actividades y exclusiones. Cuente los días completos por separado de los días de viaje. Pregunte cómo participan los anfitriones y qué visitas requieren confirmación. Una propuesta con más paradas no es necesariamente mejor para sus intereses; el tiempo sin prisa en una base puede ser más útil."
+          ]
+        ],
+        "sections": [
+          [
+            "Comience con el tipo de estancia fluvial que desea",
+            "Decida si el interés principal es el tiempo en el agua, caminatas guiadas, fotografía, conversaciones con anfitriones locales o una base tranquila rodeada de bosque. Esas prioridades afectan cómo compara alojamiento y las actividades. Un viaje enfocado en la observación puede necesitar paradas sin prisa; un viajero interesado en la historia puede querer tiempo con un intérprete local. Describa qué le atrae en lugar de solicitar cada actividad posible. Eso facilita evaluar si la base propuesta apoya la experiencia que realmente desea.",
+            "Una estancia fluvial también debe ajustarse a las personas que viajan. Explique la comodidad con abordar un bote, traslados largos sentados y superficies de caminata irregulares antes de preparar el itinerario. Pregunte qué asistencia está disponible sin asumir que puede proporcionarse en cada lugar. Si los miembros del grupo tienen intereses diferentes, comente si el plan diario puede permitir descanso o salidas más cortas. Un ritmo adecuado no es simplemente una cuestión de edad o condición física; depende del viaje específico y las preferencias del grupo."
+          ],
+          [
+            "Entienda la conexión por carretera y barco Paramaribo–Atjoni",
+            "La orientación de transporte turístico describe una conexión por carretera desde Paramaribo hasta Atjoni, donde los viajeros pasan a barcos para el Alto Suriname. Úsela como marco inicial, no como horario fijo para cada propiedad. El destino determina el último tramo en bote y los arreglos al llegar. Pregunte dónde tiene lugar la recogida, quién maneja el cambio de transporte y si toda la cadena aparece en una sola cotización. Confirme el retorno además de la ruta de ida antes de elegir el número de noches.",
+            "En una traslado, la claridad sobre las maletas y las personas importa. Pregunte qué artículos deben permanecer accesibles, cómo se protege el equipaje contra la lluvia o salpicaduras y lo que requiere el proveedor para tamaño o peso. Si el viaje incluye una parada para comer u otro descanso, verifique si forma parte del plan real. Evite asumir que una traslado en bote también incluye observación guiada o paradas turísticas. Una conexión práctica puede ser aún una parte agradable del viaje sin ser descrita como algo que no es."
+          ],
+          [
+            "Elija una base por su hospedaje y comodidad cotidiana",
+            "Compare la alojamiento propuesta a través de arreglos de habitación, baños, protección contra insectos, agua potable, comidas y oportunidades de carga. Solicite fotografías actuales de la categoría de habitación en la cotización y una explicación de cómo las actividades parten de la base. Una etiqueta como lodge fluvial o estancia comunitaria no establece un nivel de privacidad ni una instalación. Explique qué necesita su grupo en términos concretos para que la comodidad se comente antes de seleccionar la propiedad final.",
+            "Pregunte quién gestiona la estancia, quién recibe a los huéspedes y cómo las personas locales guían o organizan actividades. Una base puede implicar diferentes relaciones entre proveedores de alojamiento y comunidades cercanas; no asuma que una fotografía o etiqueta de marketing lo explica todo. Si prefiere tiempo para conversaciones y una caminata dirigida localmente, explique ese interés con claridad. Si el descanso tranquilo es más importante, comente el ritmo diario en lugar de ello. La propuesta debe describir los arreglos reales en lugar de pedirle que los infiera del entorno."
+          ],
+          [
+            "Deje que los anfitriones locales definan la bienvenida",
+            "Una visita comunitaria respetuosa comienza con la bienvenida que los anfitriones han acordado ofrecer. Pregunte qué actividades están dirigidas por residentes, quién interpreta cuando es necesario y cómo la visita se ajusta a las rutinas diarias. Una comunidad no es una lista abierta de atracciones. Los espacios privados, ceremonias y historias personales permanecen como elección de las personas involucradas. El permiso para una visita no debe tratarse como un permiso general para entrar en otros lugares o registrar todo lo que ocurre.",
+            "Comente el uso de fotografías antes de levantar la cámara, incluyendo cómo pueden usarse o compartirse imágenes. Acepte un rechazo sin presión y deje que su guía o anfitrión explique las expectativas locales. El contacto significativo no necesita una actuación escenificada: el tiempo para escuchar y seguir la dirección de un anfitrión puede ser más valioso que añadir un evento. Si una visita planificada cambia, pregunte cómo responde el itinerario mientras se respeta esa decisión. La calidad del viaje incluye la relación con los anfitriones, no solo el número de actividades completadas."
+          ],
+          [
+            "Considere Pikin Slee como una parada cultural específica",
+            "La guía turística identifica el Museo Saamaka en Pikin Slee, creado por el colectivo artístico Totomboti, como un lugar conectado con la historia y cultura Saamaka. Si esto es una prioridad, pregunte si una visita se ajusta a la base elegida y ruta del traslado. Confirme los arreglos actuales de apertura, la forma de interpretación y cualquier requisito para visitantes. No asuma que una mención de museo incluye acceso ilimitado al pueblo circundante o participación en eventos privados.",
+            "Una parada cultural merece tiempo para explicación además del transporte. Pregunte en qué se centra la visita y si un anfitrión local o intérprete forma parte del arreglo. Deje que las personas que presentan su historia determinen lo que desean compartir. Si el museo no puede incluirse, comente otras formas localmente acordadas de aprender en lugar de tratar las experiencias culturales como sustitutos intercambiables. El itinerario debe mostrar el propósito real y condiciones de la visita, para que las expectativas permanezcan respetuosas y realistas."
+          ],
+          [
+            "Separe traslados fluviales de actividades fluviales",
+            "Un tramo en bote puede ser una conexión de transporte, una excursión guiada o una combinación acordada con antelación. Esos usos pueden implicar diferentes tiempos de parada, asientos y atención del guía. Pregunte cuál aparece en su itinerario y cuál es el arreglo en bote para su grupo. Si la fotografía importa, comente si hay tiempo para hacer una pausa y cómo manejar el equipo sin afectar el abordaje o el trabajo de la tripulación. Evite esperar que cada traslado opere como una excursión relajada.",
+            "Para cualquier actividad acuática propuesta, pregunte sobre el entorno, supervisión y condiciones bajo las cuales se realiza. No infiera idoneidad para nadar o remar independientemente a partir de una fotografía del paisaje. Siga las instrucciones del proveedor y comente alternativas si una actividad no se ajusta a su grupo. La observación de vida silvestre debe permitir tramos tranquilos e incertidumbre, sin garantizar ningún encuentro particular. El paisaje del río, el viaje y el tiempo con sus anfitriones pueden importar incluso cuando la excursión no produce un avistamiento específico."
+          ],
+          [
+            "Equilibre caminatas por el bosque con tiempo en la base",
+            "Pregunte cómo se describe la caminata propuesta en términos prácticos: superficie, pendientes, duración, oportunidades de descanso y opción de volver atrás. Diga al guía si prefiere observación sin prisa o si un viajero necesita una salida más corta. Una caminata por el bosque no mejora simplemente haciéndola más larga. Confirme lo que se ajusta al grupo y lo que puede cambiar con las condiciones. Organice las caminatas y las actividades en barco como partes del mismo día, con suficiente espacio para comidas, equipo y descanso.",
+            "El tiempo en la base puede ser valioso cuando apoya el propósito de la estancia. Alguien interesado en fotografía puede querer revisar y proteger su equipo; otro viajero puede preferir un período tranquilo después de una traslado. Pregunte cuán flexible es el plan diario sin asumir que cada actividad se puede reorganizar. Un día más lento debe ser una elección deliberada, no un espacio lleno con una experiencia prometida que no se ha acordado. Compare la ruta según cómo desea pasar el tiempo."
+          ],
+          [
+            "Verifique inclusiones y número de días disponibles para actividades",
+            "Lea la cotización como una secuencia: recogida, traslado por carretera, conexión en bote, alojamiento, guía, comidas y retorno. Pregunte qué actividades están incluidas y cuáles son opcionales o sujetas a confirmación separada. Cuente los días completos en la base por separado de períodos de llegada y salida. Si una propuesta añade otra base, pregunte qué contribuye y cuánto tiempo se usa moviéndose. Títulos similares no establecen viajes equivalentes, particularmente cuando difieren los arreglos de traslado y hospedaje.",
+            "Verifique la categoría de habitación, arreglos grupales y quién coordina el viaje si algo cambia. Solicite condiciones de pago y cancelación y una explicación de lo que ocurre cuando una conexión o visita planificada no puede tener lugar. Mantenga disponible la ruta confirmada y datos de contacto sin conexión. No asuma que una descripción todo incluido cubre cada bebida, actividad o traslado a menos que la propuesta lo indique. Una explicación escrita clara ayuda a proteger el tiempo y experiencias que su grupo ha elegido."
+          ],
+          [
+            "Vincule su estancia fluvial con el resto de Suriname",
+            "Consulte también la guía de Paramaribo. Consulte la guía de Suriname. Para planificar su viaje a la selva de Suriname, Use la guía de Paramaribo para organizar la estancia en la ciudad y la conexión hacia el Alto Suriname. Si está comparando otras regiones interiores, comience con la guía de la selva de Suriname e identifique qué agregaría una segunda área. Mantenga la ruta de retorno alineada con viajes posteriores fijos. Una base fluvial bien elegida puede ser el centro del itinerario, en lugar de una parada corta entre varios lugares cuyas demandas de traslado no se han considerado juntas.",
+            "Para planificar su viaje al selva de Suriname, envíe fechas, número de viajeros, las actividades que más valora y los detalles de comodidad que importan. Diga si Pikin Slee es un interés a explorar, si el viaje en bote necesita atención particular y cuánto caminar desea. Separe necesidades esenciales de preferencias flexibles. Una consulta inicia una conversación de planificación; no reserva un lodge ni confirma una visita comunitaria. Evalúe la propuesta resultante según sus prioridades antes de considerar confirmados sus servicios."
+          ]
+        ],
+        "slug": "alto-suriname",
+        "type": "destination_guide",
+        "pair_id": "suriname_upper-suriname_001",
+        "links": [
+          [
+            "/es/suriname/",
+            "Guía de Suriname"
+          ],
+          [
+            "/es/suriname/planifica-tu-viaje-a-la-selva/",
+            "Planifique su viaje"
+          ],
+          [
+            "/es/suriname/paramaribo/",
+            "Paramaribo"
+          ],
+          [
+            "/es/suriname/alto-suriname/",
+            "Alto Suriname"
+          ],
+          [
+            "/es/contacto/",
+            "Comparta sus planes"
+          ]
+        ],
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Suriname Travel — Paramaribo",
+            "https://suriname.travel/paramaribo/"
+          ],
+          [
+            "UNESCO — Historic Inner City of Paramaribo",
+            "https://whc.unesco.org/en/list/940/"
+          ],
+          [
+            "Suriname Travel — transport",
+            "https://suriname.travel/transport-in-suriname/"
+          ],
+          [
+            "Suriname Travel — Sipaliwini",
+            "https://suriname.travel/sipaliwini/"
+          ]
+        ],
+        "scope": "Guía revisada el 8 de octubre de 2026. Confirme los traslados, las visitas y el alojamiento para su itinerario. Las imágenes ilustran entornos de río y bosque sin identificar lugares o alojamientos específicos de Suriname.",
+        "hero": [
+          "amazon-forest-canoe-bow-wide",
+          "Vista desde una canoa hacia un río rodeado de bosque"
+        ],
+        "features": {
+          "1": [
+            "amazon-forest-buttress-tree-hiker-wide",
+            "Caminante junto a las raíces de un gran árbol del bosque"
+          ],
+          "4": [
+            "amazon-wooden-canoes-riverbank",
+            "Canoas de madera junto a la orilla de un río"
+          ]
+        },
+        "context_links": [
+          [
+            "guía de Suriname",
+            "/es/suriname/"
+          ],
+          [
+            "planificar su viaje a la selva de Suriname",
+            "/es/suriname/planifica-tu-viaje-a-la-selva/"
+          ],
+          [
+            "guía de Paramaribo",
+            "/es/suriname/paramaribo/"
+          ]
+        ]
+      }
+    }
+  }
+}
