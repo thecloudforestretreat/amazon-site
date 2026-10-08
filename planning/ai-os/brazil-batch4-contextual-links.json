@@ -1,0 +1,150 @@
+{
+  "definition": "Links within main-content paragraphs, excluding navigation and cards",
+  "minimum_incoming_pages": 7,
+  "pages": {
+    "/brazil/": [
+      "/brazil/alter-do-chao/",
+      "/brazil/amazon-lodges/",
+      "/brazil/anavilhanas/",
+      "/brazil/manaus/",
+      "/brazil/plan-your-amazon-trip/",
+      "/brazil/rio-negro/",
+      "/brazil/river-journeys/"
+    ],
+    "/es/brazil/": [
+      "/es/brazil/alter-do-chao/",
+      "/es/brazil/anavilhanas/",
+      "/es/brazil/lodges-en-la-amazonia/",
+      "/es/brazil/manaus/",
+      "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+      "/es/brazil/rio-negro/",
+      "/es/brazil/viajes-fluviales/"
+    ],
+    "/es/brazil/manaus/": [
+      "/es/brazil/",
+      "/es/brazil/alter-do-chao/",
+      "/es/brazil/anavilhanas/",
+      "/es/brazil/lodges-en-la-amazonia/",
+      "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+      "/es/brazil/rio-negro/",
+      "/es/brazil/viajes-fluviales/"
+    ],
+    "/es/brazil/rio-negro/": [
+      "/es/brazil/",
+      "/es/brazil/alter-do-chao/",
+      "/es/brazil/anavilhanas/",
+      "/es/brazil/lodges-en-la-amazonia/",
+      "/es/brazil/manaus/",
+      "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+      "/es/brazil/viajes-fluviales/"
+    ],
+    "/es/brazil/viajes-fluviales/": [
+      "/es/brazil/",
+      "/es/brazil/alter-do-chao/",
+      "/es/brazil/anavilhanas/",
+      "/es/brazil/lodges-en-la-amazonia/",
+      "/es/brazil/manaus/",
+      "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+      "/es/brazil/rio-negro/"
+    ],
+    "/es/brazil/lodges-en-la-amazonia/": [
+      "/es/brazil/",
+      "/es/brazil/alter-do-chao/",
+      "/es/brazil/anavilhanas/",
+      "/es/brazil/manaus/",
+      "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+      "/es/brazil/rio-negro/",
+      "/es/brazil/viajes-fluviales/"
+    ],
+    "/es/brazil/planifica-tu-viaje-a-la-amazonia/": [
+      "/es/brazil/",
+      "/es/brazil/alter-do-chao/",
+      "/es/brazil/anavilhanas/",
+      "/es/brazil/lodges-en-la-amazonia/",
+      "/es/brazil/manaus/",
+      "/es/brazil/rio-negro/",
+      "/es/brazil/viajes-fluviales/"
+    ],
+    "/es/brazil/anavilhanas/": [
+      "/es/brazil/",
+      "/es/brazil/alter-do-chao/",
+      "/es/brazil/lodges-en-la-amazonia/",
+      "/es/brazil/manaus/",
+      "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+      "/es/brazil/rio-negro/",
+      "/es/brazil/viajes-fluviales/"
+    ],
+    "/es/brazil/alter-do-chao/": [
+      "/es/brazil/",
+      "/es/brazil/anavilhanas/",
+      "/es/brazil/lodges-en-la-amazonia/",
+      "/es/brazil/manaus/",
+      "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+      "/es/brazil/rio-negro/",
+      "/es/brazil/viajes-fluviales/"
+    ],
+    "/brazil/manaus/": [
+      "/brazil/",
+      "/brazil/alter-do-chao/",
+      "/brazil/amazon-lodges/",
+      "/brazil/anavilhanas/",
+      "/brazil/plan-your-amazon-trip/",
+      "/brazil/rio-negro/",
+      "/brazil/river-journeys/"
+    ],
+    "/brazil/rio-negro/": [
+      "/brazil/",
+      "/brazil/alter-do-chao/",
+      "/brazil/amazon-lodges/",
+      "/brazil/anavilhanas/",
+      "/brazil/manaus/",
+      "/brazil/plan-your-amazon-trip/",
+      "/brazil/river-journeys/"
+    ],
+    "/brazil/river-journeys/": [
+      "/brazil/",
+      "/brazil/alter-do-chao/",
+      "/brazil/amazon-lodges/",
+      "/brazil/anavilhanas/",
+      "/brazil/manaus/",
+      "/brazil/plan-your-amazon-trip/",
+      "/brazil/rio-negro/"
+    ],
+    "/brazil/plan-your-amazon-trip/": [
+      "/brazil/",
+      "/brazil/alter-do-chao/",
+      "/brazil/amazon-lodges/",
+      "/brazil/anavilhanas/",
+      "/brazil/manaus/",
+      "/brazil/rio-negro/",
+      "/brazil/river-journeys/"
+    ],
+    "/brazil/anavilhanas/": [
+      "/brazil/",
+      "/brazil/alter-do-chao/",
+      "/brazil/amazon-lodges/",
+      "/brazil/manaus/",
+      "/brazil/plan-your-amazon-trip/",
+      "/brazil/rio-negro/",
+      "/brazil/river-journeys/"
+    ],
+    "/brazil/amazon-lodges/": [
+      "/brazil/",
+      "/brazil/alter-do-chao/",
+      "/brazil/anavilhanas/",
+      "/brazil/manaus/",
+      "/brazil/plan-your-amazon-trip/",
+      "/brazil/rio-negro/",
+      "/brazil/river-journeys/"
+    ],
+    "/brazil/alter-do-chao/": [
+      "/brazil/",
+      "/brazil/amazon-lodges/",
+      "/brazil/anavilhanas/",
+      "/brazil/manaus/",
+      "/brazil/plan-your-amazon-trip/",
+      "/brazil/rio-negro/",
+      "/brazil/river-journeys/"
+    ]
+  }
+}

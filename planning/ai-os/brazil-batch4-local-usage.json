@@ -1,0 +1,25 @@
+{
+  "runs": [
+    {
+      "topic": "lodges",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 1864,
+      "output_tokens": 2163,
+      "seconds": 98.9,
+      "retries": 0,
+      "cache_hits": null
+    },
+    {
+      "topic": "river-journeys",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 1875,
+      "output_tokens": 2238,
+      "seconds": 98.83,
+      "retries": 0,
+      "cache_hits": null
+    }
+  ],
+  "cloud_percentage": "Unavailable: no comparable cloud token meter",
+  "total_local_tokens": 8140,
+  "editorial_review": "Manual bilingual review after translation; raw output retained"
+}

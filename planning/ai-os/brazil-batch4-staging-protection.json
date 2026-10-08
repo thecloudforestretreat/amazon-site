@@ -1,0 +1,26 @@
+{
+  "deployment": "7722618f",
+  "checks": [
+    {
+      "route": "/brazil/amazon-lodges/",
+      "status": 302,
+      "redirect_hostname": "tcfr-mbw.cloudflareaccess.com"
+    },
+    {
+      "route": "/es/brazil/lodges-en-la-amazonia/",
+      "status": 302,
+      "redirect_hostname": "tcfr-mbw.cloudflareaccess.com"
+    },
+    {
+      "route": "/brazil/river-journeys/",
+      "status": 302,
+      "redirect_hostname": "tcfr-mbw.cloudflareaccess.com"
+    },
+    {
+      "route": "/es/brazil/viajes-fluviales/",
+      "status": 302,
+      "redirect_hostname": "tcfr-mbw.cloudflareaccess.com"
+    }
+  ],
+  "authenticated_readback": "not verified: browser policy check unavailable"
+}

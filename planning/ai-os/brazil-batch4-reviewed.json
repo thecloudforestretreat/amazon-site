@@ -1,0 +1,930 @@
+{
+  "editorial_status": "reviewed",
+  "review_date": "2026-10-07",
+  "images": {
+    "amazon-forest-river-aerial": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-aerial.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "25fdbaac484995f9de40d64e3334022af4578b8584ddf44d0eae688523ba3d97",
+      "web_sha256": "3acf7d2822a7a986c4e6466f9551f2ac1ef3594975e7d799297620527c36df75",
+      "original_bytes": 413373,
+      "web_bytes": 268828,
+      "alt": {
+        "en": "A winding river surrounded by tropical forest",
+        "es": "Río sinuoso rodeado de bosque tropical"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-macaws-in-flight": {
+      "width": 1280,
+      "height": 1600,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-macaws-in-flight.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "82d58f5b49cb5bf966d6dea475a78706f5329dd7c6874a360de3ce2cf848e4e1",
+      "web_sha256": "b4baaf108be2a1643a1d416aef8fbd8cbfa0a731bc166413c9b4ed942f41bea4",
+      "original_bytes": 126325,
+      "web_bytes": 83978,
+      "alt": {
+        "en": "Colorful macaws flying past green foliage",
+        "es": "Guacamayos de colores volando frente a la vegetación"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-forest-river-channel": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-channel.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "26fc7f3acb97ef3ebb20601be3e1936abd5dacf94d5512733f3821f39b590562",
+      "web_sha256": "86ee2b866c5376b71f445a987aed66705faefd05f2cbd869f0ba201df71b3ba6",
+      "original_bytes": 311342,
+      "web_bytes": 189574,
+      "alt": {
+        "en": "River channel between wooded banks",
+        "es": "Canal fluvial entre orillas arboladas"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-small-monkeys-pair": {
+      "width": 1280,
+      "height": 1600,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-small-monkeys-pair.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "7498d6ee621cab64d0807d713a35584241994b7a39ae281cced9fc11820db7bd",
+      "web_sha256": "f9e39893d267e654aedd43050ce21d340f436e8b7f5d9504f512ee4226c07cf9",
+      "original_bytes": 164505,
+      "web_bytes": 116268,
+      "alt": {
+        "en": "Two small monkeys together on a branch",
+        "es": "Dos monos pequeños juntos sobre una rama"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "manaus-rio-negro": {
+      "src": "/assets/images/brazil/manaus-rio-negro.jpg",
+      "width": 1800,
+      "height": 1321,
+      "source": "https://commons.wikimedia.org/wiki/File:Manaus_-_View_from_River.jpg",
+      "label": "P. Hughes; resized for web",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "location_evidence": "View of the outskirts of Manaus, from Rio Negro, Brazil",
+      "attribution_required": true
+    },
+    "amazon-forest-river-sunset": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-sunset.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "1bfd90ab7caece29793539505b2a45970100c256b824da89bb35b4204fcedc5d",
+      "web_sha256": "1207b7ec779a5932e6a719caa8ef65c7f07dd2dae9b7bf01f37f1853059451eb",
+      "original_bytes": 256042,
+      "web_bytes": 141608,
+      "alt": {
+        "en": "Sunset reflected in a river beside forest",
+        "es": "Atardecer reflejado en un río junto al bosque"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-thatched-hammock-shelter": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-thatched-hammock-shelter.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "4952cb2f95f925efa19652fda7803c265e17da71e09e80cc74a3de2fae9471de",
+      "web_sha256": "43f5742b8fe1771f4bafb76454e4ce41cd0d5ac98a61946ec255fc2c0899152e",
+      "original_bytes": 446588,
+      "web_bytes": 301092,
+      "alt": {
+        "en": "Hammock beneath a thatched shelter surrounded by greenery",
+        "es": "Hamaca bajo un refugio de techo vegetal rodeado de vegetación"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    }
+  },
+  "pages": {
+    "lodges": {
+      "en": {
+        "type": "planning-guide",
+        "links": [
+          [
+            "/brazil/",
+            "Brazil overview"
+          ],
+          [
+            "/brazil/plan-your-amazon-trip/",
+            "Plan your journey"
+          ],
+          [
+            "/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/brazil/rio-negro/",
+            "Rio Negro"
+          ],
+          [
+            "/brazil/anavilhanas/",
+            "Anavilhanas"
+          ],
+          [
+            "/brazil/alter-do-chao/",
+            "Santarém & Alter do Chão"
+          ],
+          [
+            "/brazil/amazon-lodges/",
+            "Amazon lodges"
+          ],
+          [
+            "/brazil/river-journeys/",
+            "River journeys"
+          ]
+        ],
+        "context_links": [
+          [
+            "Brazil overview",
+            "/brazil/"
+          ],
+          [
+            "Brazil planning guide",
+            "/brazil/plan-your-amazon-trip/"
+          ],
+          [
+            "Manaus guide",
+            "/brazil/manaus/"
+          ],
+          [
+            "Rio Negro guide",
+            "/brazil/rio-negro/"
+          ],
+          [
+            "Anavilhanas guide",
+            "/brazil/anavilhanas/"
+          ],
+          [
+            "Alter do Chão guide",
+            "/brazil/alter-do-chao/"
+          ],
+          [
+            "Brazil lodge guide",
+            "/brazil/amazon-lodges/"
+          ],
+          [
+            "Brazil river journey guide",
+            "/brazil/river-journeys/"
+          ]
+        ],
+        "feature_sides": {
+          "2": "left",
+          "5": "right"
+        },
+        "scope": "Editorial review: October 7, 2026. Official sources establish regional context and the range of travel formats. The comparisons are editorial guidance, not a ranked property list, a confirmed package or current availability. Stock photographs are illustrative; they do not identify a booked property or vessel. Confirm dates, routes, facilities and inclusions before committing.",
+        "slug": "amazon-lodges",
+        "pair_id": "brazil_lodges_001",
+        "h1": "Brazil Amazon lodges: choose the stay behind the scenery",
+        "title": "Brazil Amazon Lodges | Location, Comfort & Guiding",
+        "description": "Compare Brazilian Amazon lodge locations, room comfort, guiding, transfers and inclusions. Decide whether a fixed base or river journey suits your trip.",
+        "lede": "A rewarding forest stay begins with more than a beautiful room. Match the location, guiding and everyday comfort to the experience you want.",
+        "hero": [
+          "amazon-forest-river-aerial",
+          "River surrounded by tropical forest, illustrative photograph"
+        ],
+        "features": {
+          "2": [
+            "amazon-thatched-hammock-shelter",
+            "Shaded hammock seating area, illustrative accommodation photograph"
+          ],
+          "5": [
+            "amazon-macaws-in-flight",
+            "Macaws in flight, illustrative wildlife photograph"
+          ]
+        },
+        "quick": [
+          "Compare the base, the day and the complete price",
+          "A lodge keeps your overnight arrangements in one place. Its value depends on the landscape it reaches, the time available for exploration and the practical comforts included in your room and daily activities."
+        ],
+        "choices_heading": "Start with the experience you want",
+        "choices": [
+          [
+            "Forest and observation",
+            "Prioritize guiding, pace and the surroundings reached from the lodge.",
+            "#section-5"
+          ],
+          [
+            "Comfort with time to relax",
+            "Clarify rooms, facilities and the rhythm between guided activities.",
+            "#section-2"
+          ],
+          [
+            "Lodge or boat?",
+            "Compare a fixed base with a moving river journey before adding more nights.",
+            "#section-7"
+          ]
+        ],
+        "cta": [
+          "Choose a forest stay that fits your priorities",
+          "Share your dates, room preferences and observation interests. We can help frame the comparisons that matter."
+        ],
+        "sources": [
+          [
+            "Amazonastur: official Amazonas tourism guide, forest hotels",
+            "https://www.amazonastur.am.gov.br/wp-content/uploads/2020/02/Amazonas_Guia_Turistico_Digital-ptBR_.pdf"
+          ],
+          [
+            "Visit Brasil: Anavilhanas regional context",
+            "https://feel.visitbrasil.com/en/anavilhanas-itinerary/"
+          ],
+          [
+            "Visit Brasil: Alter do Chão regional context",
+            "https://www.visitbrasil.com/location/alter-do-chao/"
+          ]
+        ],
+        "faqs": [
+          [
+            "Does a lodge near Manaus mean it is in the city?",
+            "No. Ask for the property location and the full transfer description. Manaus may be the starting point while the stay takes place elsewhere."
+          ],
+          [
+            "Is a more remote lodge always better?",
+            "No. Compare the habitats, guiding and exploration time with the transfer effort. Remoteness alone does not establish the quality of your stay."
+          ],
+          [
+            "What should I ask about the room?",
+            "Confirm beds, bathroom privacy, ventilation or cooling, electricity, steps and the distance to dining or departure areas. Ask for the exact room category in the quote."
+          ],
+          [
+            "Should I choose a lodge or a river journey?",
+            "A lodge offers a fixed overnight base; a vessel adds movement and life aboard. Compare usable excursion time, daily comfort and the route rather than relying on either label."
+          ]
+        ],
+        "sections": [
+          [
+            "Choose the region before the room",
+            "A lodge name can tell you less about the landscape than a clear map and transfer outline. Begin with the Brazil overview to decide which regional experience fits your interests. Then ask where the property sits, which river or forest areas its outings reach and how those places connect with your arrival point.",
+            "The official Amazonas tourism guide describes forest accommodation in different settings, including river margins, firm ground and floating structures. Those formats invite different practical questions. Establish the actual location and accommodation type before using a room photograph to judge the whole stay. This guide helps compare formats; it does not rank properties or confirm particular operators for your dates."
+          ],
+          [
+            "Match the base to the landscape you want",
+            "Use the Rio Negro guide and Anavilhanas guide when comparing an archipelago or river-focused stay in the Manaus region. Ask which areas the lodge program actually visits; a broad destination description is not proof that a specific park, channel or community is part of the package. Keep the names and arrangements clear in the proposed itinerary.",
+            "The Alter do Chão guide provides a different river-and-village context in the Tapajós region. A village base with forest outings should be compared on its own terms rather than presented as identical to a remote forest lodge. Choose the setting that supports your priorities, and avoid adding another region merely because its accommodation images look attractive."
+          ],
+          [
+            "Describe comfort in terms you can verify",
+            "Replace broad labels such as rustic, comfortable or luxury with the details that affect your day. Ask for bed configuration, bathroom privacy, ventilation or cooling and any limits on electricity or charging equipment. Confirm whether the room category shown in photographs is the category included in your proposal rather than an optional upgrade.",
+            "Consider the spaces outside the room as well: dining areas, shaded seating, paths and the place where outings depart. Discuss steps and distance between those areas if walking comfort matters. A hammock or terrace can be a welcome part of the stay, but it should complement clear answers about sleeping, washing and moving around the property."
+          ],
+          [
+            "Read the transfer as part of the experience",
+            "Use the Manaus guide to plan city time around an arrival or onward transfer when that is your gateway. Ask for the complete sequence: collection place, road segment if any, boat segment and arrival at the lodge. Keep the journey to the accommodation distinct from a guided excursion that happens after you arrive.",
+            "Compare exploration time remaining on arrival and departure days. A three-night stay with substantial travel at both ends may have a different rhythm from a similarly advertised stay with simpler connections. Ask how late arrivals are handled and whether an overnight city buffer would help. Do not assume that a room booking automatically includes every transfer you need."
+          ],
+          [
+            "Look at a sample day, not just the activity count",
+            "Ask for a sample day that shows outing duration, meals, rest and any optional activities. Find out whether the group follows one schedule or has choices of pace. This matters if some travelers want longer walks while others prefer shorter excursions or time at the lodge. An attractive list of activities should also explain how they fit together.",
+            "Distinguish included guiding from activities available at extra cost. Confirm whether outings are shared or private and what language support is provided. If you prefer patient photography or bird observation, ask how the guide accommodates longer stops. More activities do not necessarily mean more depth, particularly when the schedule leaves little space to notice the forest between named experiences."
+          ],
+          [
+            "Make guiding and observation central to the choice",
+            "Explain what you most want to learn or observe, whether that is birds, forest detail, photography or a broad natural-history introduction. Ask about the guides’ relevant experience and how the program changes with those interests. A smaller group can be useful, but group size alone does not explain the quality of interpretation or the time spent at each stop.",
+            "Choose wildlife observation that avoids feeding, handling and staged encounters. Ask what an outing offers when a hoped-for animal does not appear. A thoughtful guide can make habitat, sounds and signs meaningful without turning a species list into a promise. Evaluate that approach alongside the accommodation: the lodge room is only one part of a forest stay."
+          ],
+          [
+            "Clarify meals, routines and essential requirements",
+            "Confirm which meals and drinks are included and how dietary requests are handled. Share allergies or requirements through the appropriate booking conversation, then ask for a practical answer rather than assuming that a general full-board description covers them. Establish whether meals are at fixed times and how that fits any longer outing you are considering.",
+            "Ask about connectivity if you need it, while leaving room to disconnect if that is part of the appeal. Discuss any essential equipment storage, laundry or charging needs. Confirm the activities suited to your group’s ages and walking comfort rather than relying on a family-friendly label. These details help determine whether the daily routine will feel easy or require constant adjustment."
+          ],
+          [
+            "Compare the fixed base with a moving journey",
+            "The Brazil river journey guide helps you assess the other main format: sleeping aboard while the route shapes the stay. Compare time on excursions, time navigating and the comfort of daily living. A vessel may reach different stops, while a lodge may provide a more settled rhythm. The right choice depends on how you want to spend your days.",
+            "Combining both formats can work when each adds something distinct, but it also adds a change of accommodation and a connection to organize. Ask which experiences overlap and which are different before extending the itinerary. Use a combined stay to serve your interests, not simply to collect another accommodation type or add more movement to an already short trip."
+          ],
+          [
+            "Ask for a proposal you can compare fairly",
+            "Use the Brazil planning guide to share dates, traveler count, room preferences and your main interests. Request a proposal that names the property, room category, transfers, guiding, meals and exclusions. Compare the same arrangements between options, including any private activities or single-room requirements that change the price.",
+            "Read deposit, payment, cancellation and itinerary-change terms before booking connected travel. Clarify what happens if arrival delays affect the first transfer or outing. A useful quote should explain the complete stay rather than leave you to reconstruct it from photographs and a headline number of nights. Choose the option that makes your preferred pace and comfort practical."
+          ]
+        ]
+      },
+      "es": {
+        "type": "planning-guide",
+        "links": [
+          [
+            "/es/brazil/",
+            "Panorama de Brasil"
+          ],
+          [
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+            "Planifica tu viaje"
+          ],
+          [
+            "/es/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/es/brazil/rio-negro/",
+            "Rio Negro"
+          ],
+          [
+            "/es/brazil/anavilhanas/",
+            "Anavilhanas"
+          ],
+          [
+            "/es/brazil/alter-do-chao/",
+            "Santarém y Alter do Chão"
+          ],
+          [
+            "/es/brazil/lodges-en-la-amazonia/",
+            "Lodges amazónicos"
+          ],
+          [
+            "/es/brazil/viajes-fluviales/",
+            "Viajes fluviales"
+          ]
+        ],
+        "context_links": [
+          [
+            "panorama de Brasil",
+            "/es/brazil/"
+          ],
+          [
+            "guía de planificación de Brasil",
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/"
+          ],
+          [
+            "guía de Manaus",
+            "/es/brazil/manaus/"
+          ],
+          [
+            "guía del Rio Negro",
+            "/es/brazil/rio-negro/"
+          ],
+          [
+            "guía de Anavilhanas",
+            "/es/brazil/anavilhanas/"
+          ],
+          [
+            "guía de Alter do Chão",
+            "/es/brazil/alter-do-chao/"
+          ],
+          [
+            "guía de lodges de Brasil",
+            "/es/brazil/lodges-en-la-amazonia/"
+          ],
+          [
+            "guía de viajes fluviales de Brasil",
+            "/es/brazil/viajes-fluviales/"
+          ]
+        ],
+        "feature_sides": {
+          "2": "left",
+          "5": "right"
+        },
+        "scope": "Revisión editorial: 7 de octubre de 2026. Las fuentes oficiales aportan contexto regional y describen distintos formatos de viaje. Las comparaciones son orientación editorial, no una lista de alojamientos recomendados, un paquete confirmado ni disponibilidad actual. Las fotografías de archivo son ilustrativas y no identifican un alojamiento o barco reservado. Confirma fechas, rutas, instalaciones y servicios incluidos antes de reservar.",
+        "slug": "lodges-en-la-amazonia",
+        "pair_id": "brazil_lodges_001",
+        "h1": "Lodges en la Amazonía brasileña: elige más que un paisaje",
+        "title": "Lodges en Brasil | Ubicación, comodidad y guías",
+        "description": "Compara lodges en la Amazonía brasileña: ubicación, habitaciones, guías, traslados y servicios. Decide entre un alojamiento fijo y un viaje fluvial.",
+        "lede": "Una buena estancia en el bosque depende de más que una habitación bonita. Elige una ubicación, un servicio de guía y una comodidad diaria que respondan a tus intereses.",
+        "hero": [
+          "amazon-forest-river-aerial",
+          "Río rodeado de bosque tropical, imagen ilustrativa"
+        ],
+        "features": {
+          "2": [
+            "amazon-thatched-hammock-shelter",
+            "Zona de descanso con hamacas y sombra, imagen ilustrativa"
+          ],
+          "5": [
+            "amazon-macaws-in-flight",
+            "Guacamayos en vuelo, imagen ilustrativa"
+          ]
+        },
+        "quick": [
+          "Compara la base, el día y el precio total",
+          "Un lodge mantiene tu alojamiento en un solo lugar. Su valor depende del entorno al que dan acceso sus excursiones, del tiempo para explorar y de las comodidades incluidas en la habitación y las actividades."
+        ],
+        "choices_heading": "Empieza con la experiencia que deseas",
+        "choices": [
+          [
+            "Bosque y observación",
+            "Prioriza el servicio de guía, el ritmo y los lugares que podrás explorar desde el lodge.",
+            "#section-5"
+          ],
+          [
+            "Comodidad y tiempo para descansar",
+            "Aclara habitaciones, instalaciones y el ritmo entre las actividades guiadas.",
+            "#section-2"
+          ],
+          [
+            "¿Lodge o barco?",
+            "Compara una base fija con un viaje fluvial antes de añadir más noches.",
+            "#section-7"
+          ]
+        ],
+        "cta": [
+          "Elige una estancia forestal que se ajuste a tus prioridades",
+          "Comparte tus fechas, preferencias de habitación e intereses de observación para comparar lo que más influye en tu estancia."
+        ],
+        "sources": [
+          [
+            "Amazonastur: official Amazonas tourism guide, forest hotels",
+            "https://www.amazonastur.am.gov.br/wp-content/uploads/2020/02/Amazonas_Guia_Turistico_Digital-ptBR_.pdf"
+          ],
+          [
+            "Visit Brasil: Anavilhanas regional context",
+            "https://feel.visitbrasil.com/en/anavilhanas-itinerary/"
+          ],
+          [
+            "Visit Brasil: Alter do Chão regional context",
+            "https://www.visitbrasil.com/location/alter-do-chao/"
+          ]
+        ],
+        "faqs": [
+          [
+            "¿Un lodge cerca de Manaus está necesariamente en la ciudad?",
+            "No. Pide la ubicación de la propiedad y la descripción completa del traslado. Manaus puede ser el punto de partida mientras la estancia tiene lugar en otro lado."
+          ],
+          [
+            "¿Es siempre mejor un lodge más remoto?",
+            "No. Compara el entorno, el servicio de guía y el tiempo para explorar con el esfuerzo del traslado. La distancia por sí sola no demuestra la calidad de una estancia."
+          ],
+          [
+            "¿Qué debo preguntar sobre la habitación?",
+            "Confirma camas, privacidad del baño, ventilación o aire acondicionado, electricidad, escalones y la distancia a áreas de comedor o salida. Pide la categoría exacta de habitación en la cotización."
+          ],
+          [
+            "¿Debo elegir un lodge o un viaje fluvial?",
+            "Un lodge ofrece un alojamiento fijo; un barco combina desplazamiento y vida a bordo. Compara tiempo de excursión, comodidad diaria y ruta, en lugar de decidir solo por el nombre del formato."
+          ]
+        ],
+        "sections": [
+          [
+            "Elige la región antes que la habitación",
+            "El nombre de un lodge puede decirte menos sobre el paisaje que un mapa claro y un esquema de traslados. Comienza con la panorama de Brasil para decidir qué experiencia regional se ajusta a tus intereses. Luego pregunta dónde se ubica la propiedad, qué áreas fluviales o forestales alcanzan sus salidas y cómo esos lugares se conectan con tu punto de llegada.",
+            "La guía oficial de turismo de Amazonas describe el alojamiento forestal en diferentes entornos, incluyendo orillas de los ríos, terreno firme y estructuras flotantes. Esos formatos invitan a preguntas prácticas distintas. Establece la ubicación real y el tipo de alojamiento antes de usar una fotografía de habitación para juzgar toda la estancia. Esta guía ayuda a comparar formatos; no clasifica propiedades ni confirma operadores particulares para tus fechas."
+          ],
+          [
+            "Ajusta la base al paisaje que deseas",
+            "Usa la guía del Rio Negro y la guía de Anavilhanas al comparar una estancia enfocada en un archipiélago o río en la región de Manaus. Pregunta qué áreas visita realmente el programa del lodge; una descripción amplia del destino no es prueba de que un parque, canal o comunidad específico forme parte del paquete. Mantén claros los nombres y arreglos en el itinerario propuesto.",
+            "La guía de Alter do Chão ofrece un contexto diferente de río y pueblo en la región del Tapajós. Una alojamiento en el pueblo con salidas al bosque debe compararse por sus propios méritos en lugar de presentarse como idéntica a un lodge remoto en el bosque. Elige el entorno que apoya tus prioridades y evita añadir otra región simplemente porque sus imágenes de alojamiento se ven atractivas."
+          ],
+          [
+            "Describe el confort en términos verificables",
+            "Sustituye etiquetas como rústico, cómodo o de lujo por los detalles que afectan tu día. Pregunta por la distribución de las camas, la privacidad del baño, la ventilación o el aire acondicionado y las limitaciones de electricidad o carga de equipos. Confirma que la habitación de las fotografías corresponde a la categoría incluida en tu propuesta y no a una mejora opcional.",
+            "Considera también los espacios fuera de la habitación: áreas de comedor, asientos a la sombra, senderos y el lugar desde donde parten las excursiones. Pregunta por los escalones y la distancia entre esas áreas si el comodidad al caminar es importante. Una hamaca o terraza puede ser una parte bienvenida de la estancia, pero debe complementar respuestas claras sobre dormir, lavarse y moverse por la propiedad."
+          ],
+          [
+            "Incluye el traslado al comparar la estancia",
+            "Usa la guía de Manaus para planificar tiempo en la ciudad antes o después del traslado cuando sea tu punto de llegada. Pide la secuencia completa: lugar de recogida, tramo por carretera si lo hay, tramo en barco y llegada al lodge. Distingue el viaje al alojamiento de las excursiones guiadas que tendrás después de llegar.",
+            "Compara el tiempo restante para explorar los días de llegada y salida. Una estancia de tres noches con viajes sustanciales en ambos extremos puede tener un ritmo diferente a una estancia similarmente anunciada con conexiones más simples. Pregunta cómo se manejan las llegadas tardías y si un noche adicional en la ciudad sería útil. No asumas que una reserva de habitación incluye automáticamente todos los traslados que necesitas."
+          ],
+          [
+            "Compara una jornada, no solo la cantidad de actividades",
+            "Pide un ejemplo de jornada que muestre duración de las salidas, comidas, descanso y cualquier actividad opcional. Averigua si el grupo sigue un horario único o tiene opciones de ritmo. Esto importa si algunos viajeros quieren caminatas más largas mientras otros prefieren excursiones cortas o tiempo en el lodge. Una lista atractiva de actividades también debe explicar cómo se ajustan entre sí.",
+            "Distingue la servicio de guía incluido de las actividades disponibles a costo extra. Confirma si las salidas son compartidas o privadas y qué apoyo lingüístico se proporciona. Si prefieres fotografía sin prisas u observación de aves, pregunta cómo el guía acomoda paradas más largas. Más actividades no necesariamente significan más profundidad, particularmente cuando el horario deja poco espacio para observar el bosque entre actividades anunciadas."
+          ],
+          [
+            "Da prioridad al guía y a la observación",
+            "Explica lo que más deseas aprender u observar, ya sea aves, detalles del bosque, fotografía o una introducción amplia a la historia natural. Pregunta sobre la experiencia relevante de los guías y cómo el programa cambia con esos intereses. Un grupo más pequeño puede ser útil, pero el tamaño del grupo por sí solo no explica la calidad de la interpretación ni el tiempo dedicado en cada parada.",
+            "Elige observación de vida silvestre que evite alimentación, manipulación y encuentros preparados para visitantes. Pregunta qué ofrece una salida cuando un animal esperado no aparece. Un guía reflexivo puede hacer significativos el hábitat, los sonidos y las señales sin convertir una lista de especies en una promesa. Evalúa ese enfoque junto con el alojamiento: la habitación del lodge es solo una parte de una estancia forestal."
+          ],
+          [
+            "Aclara comidas, rutinas y requisitos esenciales",
+            "Confirma qué comidas y bebidas están incluidas y cómo se manejan las solicitudes dietéticas. Comparte alergias o requisitos a través de la conversación de reserva apropiada, luego pide una respuesta práctica en lugar de asumir que una descripción general de pensión completa los cubre. Establece si las comidas son a horas fijas y cómo eso se ajusta a cualquier salida más larga que estés considerando.",
+            "Pregunta sobre conectividad si la necesitas, dejando espacio para desconectarte si eso es parte del atractivo. Discute cualquier almacenamiento esencial de equipo, lavado o necesidades de carga. Confirma las actividades adecuadas para la edad y el comodidad al caminar de tu grupo en lugar de depender de una etiqueta apto para familias. Estos detalles ayudan a determinar si la rutina diaria se sentirá fácil o requerirá ajuste constante."
+          ],
+          [
+            "Compara un alojamiento fijo con un viaje a bordo",
+            "La guía de viajes fluviales de Brasil te ayuda a evaluar el otro formato principal: dormir a bordo mientras la ruta moldea la estancia. Compara tiempo en excursiones, tiempo navegando y la comodidad de la vida diaria. Un barco puede alcanzar paradas diferentes, mientras que un lodge puede proporcionar un ritmo más asentado. La elección correcta depende de cómo deseas pasar tus días.",
+            "Combinar ambos formatos puede funcionar cuando cada uno añade algo distinto, pero también añade un cambio de alojamiento y una conexión para organizar. Pregunta qué experiencias se superponen y cuáles son diferentes antes de extender el itinerario. Usa una estancia combinada para responder a tus intereses, no simplemente para añadir otro tipo de alojamiento o añadir más movimiento a un viaje ya corto."
+          ],
+          [
+            "Pide una propuesta que puedas comparar equitativamente",
+            "Usa la guía de planificación de Brasil para compartir fechas, número de viajeros, preferencias de habitación y tus principales intereses. Solicita una propuesta que nombre la propiedad, categoría de habitación, traslados, guía, comidas y exclusiones. Compara los mismos arreglos entre opciones, incluyendo cualquier actividad privada o requisitos de habitación individual que cambien el precio.",
+            "Lee los términos de depósito, pago, cancelación y cambio de itinerario antes de reservar viajes conectados. Aclara qué sucede si retrasos en la llegada afectan el primer traslado o salida. Una cotización útil debe explicar la estancia completa en lugar de dejarte reconstruirla desde fotografías y el número anunciado de noches. Elige la opción que hace práctico tu ritmo y comodidad que prefieress."
+          ]
+        ]
+      }
+    },
+    "river-journeys": {
+      "en": {
+        "type": "planning-guide",
+        "links": [
+          [
+            "/brazil/",
+            "Brazil overview"
+          ],
+          [
+            "/brazil/plan-your-amazon-trip/",
+            "Plan your journey"
+          ],
+          [
+            "/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/brazil/rio-negro/",
+            "Rio Negro"
+          ],
+          [
+            "/brazil/anavilhanas/",
+            "Anavilhanas"
+          ],
+          [
+            "/brazil/alter-do-chao/",
+            "Santarém & Alter do Chão"
+          ],
+          [
+            "/brazil/amazon-lodges/",
+            "Amazon lodges"
+          ],
+          [
+            "/brazil/river-journeys/",
+            "River journeys"
+          ]
+        ],
+        "context_links": [
+          [
+            "Brazil overview",
+            "/brazil/"
+          ],
+          [
+            "Brazil planning guide",
+            "/brazil/plan-your-amazon-trip/"
+          ],
+          [
+            "Manaus guide",
+            "/brazil/manaus/"
+          ],
+          [
+            "Rio Negro guide",
+            "/brazil/rio-negro/"
+          ],
+          [
+            "Anavilhanas guide",
+            "/brazil/anavilhanas/"
+          ],
+          [
+            "Alter do Chão guide",
+            "/brazil/alter-do-chao/"
+          ],
+          [
+            "Brazil lodge guide",
+            "/brazil/amazon-lodges/"
+          ],
+          [
+            "Brazil river journey guide",
+            "/brazil/river-journeys/"
+          ]
+        ],
+        "feature_sides": {
+          "1": "left",
+          "5": "right"
+        },
+        "scope": "Editorial review: October 7, 2026. Official sources establish regional context and the range of travel formats. The comparisons are editorial guidance, not a ranked property list, a confirmed package or current availability. Stock photographs are illustrative; they do not identify a booked property or vessel. Confirm dates, routes, facilities and inclusions before committing. The Manaus photograph has a documented Brazilian location; it does not identify a particular embarkation pier.",
+        "slug": "river-journeys",
+        "pair_id": "brazil_riverjourneys_001",
+        "h1": "Brazil Amazon river journeys: choose the route and life aboard",
+        "title": "Brazil Amazon River Journeys | Routes, Boats & Cabins",
+        "description": "Compare Brazilian Amazon river journeys: regional routes, cabin comfort, excursion time, private or shared boats and arrival connections.",
+        "lede": "Let the river be part of the stay. Choose a route with time to explore and a vessel whose daily living arrangements suit you.",
+        "hero": [
+          "amazon-forest-river-channel",
+          "Forest-lined Amazon river channel, illustrative photograph"
+        ],
+        "features": {
+          "1": [
+            "manaus-rio-negro",
+            "Manaus outskirts viewed from the Rio Negro"
+          ],
+          "5": [
+            "amazon-forest-river-sunset",
+            "Sunset over an Amazon river, illustrative photograph"
+          ]
+        },
+        "quick": [
+          "An overnight journey needs both a route and a living plan",
+          "Compare where the vessel travels with how you sleep, eat and join excursions. A boat transfer, a day outing and a multi-night tourism journey are different experiences, even when they share the same river."
+        ],
+        "choices_heading": "Choose the format that fits your group",
+        "choices": [
+          [
+            "A shared departure",
+            "Compare cabin choices, group excursions and the published route.",
+            "#section-2"
+          ],
+          [
+            "A private journey",
+            "Clarify vessel suitability, what can be adapted and the complete charter inclusions.",
+            "#section-2"
+          ],
+          [
+            "River journey or lodge?",
+            "Assess movement, observation time and daily comfort side by side.",
+            "#section-7"
+          ]
+        ],
+        "cta": [
+          "Plan a river journey you can enjoy living aboard",
+          "Tell us your dates, group size, cabin needs and the experiences you want the route to support."
+        ],
+        "sources": [
+          [
+            "Amazonastur: official Amazonas tourism guide, cruise formats",
+            "https://www.amazonastur.am.gov.br/wp-content/uploads/2020/02/Amazonas_Guia_Turistico_Digital-ptBR_.pdf"
+          ],
+          [
+            "DNIT: Solimões–Amazonas waterway context",
+            "https://www.gov.br/dnit/pt-br/assuntos/hidrovias/hidrovias-interiores/hidrovia-do-solimoes-amazonas"
+          ],
+          [
+            "Visit Brasil: Alter do Chão and regional river experiences",
+            "https://www.visitbrasil.com/location/alter-do-chao/"
+          ]
+        ],
+        "faqs": [
+          [
+            "Is a regional passenger boat the same as a guided river journey?",
+            "No. Confirm the service you are booking. A transport route does not establish that cabins, guided excursions or a tourism program are included."
+          ],
+          [
+            "Do I need a private boat for a good experience?",
+            "No. Compare the route, cabin, guiding and group format. A private charter may offer different choices, but adaptation depends on the vessel, crew, access and conditions."
+          ],
+          [
+            "What matters most about a cabin?",
+            "Ask about beds, bathroom privacy, ventilation or cooling, noise, steps, storage and access to shared spaces. Confirm the exact cabin category in your proposal."
+          ],
+          [
+            "Can the route change with river conditions?",
+            "It may. Ask how changes are decided, what alternatives are offered and how they affect paid inclusions. A general route description is not a navigation forecast."
+          ]
+        ],
+        "sections": [
+          [
+            "Decide what kind of river travel you mean",
+            "Start by distinguishing transport from the travel experience itself. A passenger connection, a day excursion and a vessel used as overnight accommodation solve different needs. The official Amazonas tourism guide describes varied tourism vessel formats and routes. Ask which service your proposal offers before interpreting a familiar river name as a complete program.",
+            "Use the Brazil overview to decide which regional setting belongs in your trip. A multi-night journey should identify its start and finish, overnight format and main excursion areas. You do not need every minor stop fixed in advance, but you should understand the purpose of the route and what time aboard contributes to the experience."
+          ],
+          [
+            "Choose the regional route before the cabin",
+            "The Rio Negro guide and Anavilhanas guide help you assess journeys around the Manaus region and its archipelago setting. Ask which areas are actually visited and where the vessel begins. Use the Manaus guide to keep city arrival, transfer to the boarding point and departure time visible as separate arrangements in your travel plan.",
+            "The Alter do Chão guide introduces a Tapajós regional alternative associated with Santarém. Compare that setting on its own terms, including the connection needed to reach it. A route described as Amazon travel may involve very different overnight locations and distances. Avoid assuming that destinations in different regions can be added to a short itinerary without significant movement."
+          ],
+          [
+            "Compare shared departures and private charters",
+            "A shared departure can provide a defined route and group program, while a private charter needs a clear agreement about what is adaptable. Compare the vessel and guiding first. Private does not automatically mean unrestricted: the crew, visiting arrangements and river conditions still shape what can be offered on your dates.",
+            "Ask how excursions are organized and whether different levels of effort are possible. For a charter, clarify how requested changes affect navigation time, staffing and the price. For a shared trip, ask how cabin allocation and group activities work. Assess the format against your travelers’ interests rather than paying for flexibility you may not use or accepting a group rhythm that does not fit."
+          ],
+          [
+            "Treat the cabin as everyday accommodation",
+            "Ask about beds, bathroom privacy, ventilation or cooling, steps, storage and charging equipment. Confirm the cabin category and its position on the vessel. If noise or sleeping comfort matters, ask about nearby engines, shared areas and any overnight navigation planned. A room photograph does not explain those living conditions.",
+            "Review dining and common areas as carefully as the cabin. Find out how you move between decks and how much sheltered space is available when everyone is aboard. Discuss essential access requirements for both the main vessel and any excursion boats. The aim is to understand a typical day and night on board, rather than judge comfort from the most attractive angle in a gallery."
+          ],
+          [
+            "Protect time for excursions and observation",
+            "Request a sample day that separates navigation, smaller-boat outings, shore time and meals. Distance traveled is not the same as exploration time. Compare how long you spend at the stops that interest you and whether the guide can allow patient observation. A compact itinerary can be worthwhile when it leaves more room for the experiences you care about.",
+            "Explain interests such as birds, photography, forest walks or host-led visits before choosing the program. Ask about group size on excursions and how longer stops are handled. Favor observation that avoids feeding, handling or staged wildlife encounters. A well-designed outing should still offer interpretation and discovery on a day when one hoped-for species does not appear."
+          ],
+          [
+            "Keep conditions and flexibility in perspective",
+            "A route outline is a planning tool, not a water-level forecast. DNIT describes the Solimões–Amazonas waterway as a working navigation system used by multiple vessel types. Ask your provider about the current conditions relevant to the proposed route and what alternatives remain useful if a particular stop or channel cannot be included.",
+            "Clarify who decides changes, how passengers are informed and what happens to paid inclusions. Avoid assuming that a past itinerary or photograph confirms access for your dates. Flexibility works best when the purpose of the journey is clear: alternatives should preserve meaningful forest or river time, rather than simply replacing a named stop with unspecified additional navigation."
+          ],
+          [
+            "Arrange boarding, meals and host-led visits",
+            "Confirm the embarkation point, arrival time, luggage arrangements and the person handling collection. Ask which meals and drinks are included, how dietary needs are addressed and whether excursions change meal times. Keep the return connection equally clear so the end of the journey does not depend on a rushed transfer to an onward booking.",
+            "For community visits, ask which hosts are receiving visitors and what they choose to share. Clarify photography, language support and payment arrangements. A host-led encounter is not an automatic inclusion just because a route passes a community. Request confirmation of the actual visit and leave enough time to participate respectfully rather than treating it as a brief stop for photographs."
+          ],
+          [
+            "Compare the journey with a fixed lodge base",
+            "Use the Brazil lodge guide to assess an alternative that keeps overnight arrangements in one place. Compare daily movement, the surrounding landscape and time spent on guided outings. A boat can make navigation part of the stay; a lodge can provide a settled rhythm. Neither format guarantees more wildlife or deeper interpretation without the right guiding and pace.",
+            "If combining both, ask how the connection works and which activities overlap. A second format should contribute something distinct, not consume most of a short stay in changing accommodation. Compare a focused version with the combined route before committing. You may prefer more depth in one setting to an itinerary that spends substantial time moving between equally attractive photographs."
+          ],
+          [
+            "Read the full quote before committing",
+            "Use the Brazil planning guide to organize dates, traveler count, cabin preferences and interests. Request the vessel name, cabin category, route outline, excursion format, crew and guiding arrangements, meals and transfers. Identify optional activities and costs outside the total. Compare like-for-like proposals before treating one headline price as better value.",
+            "Check payment, cancellation and route-change terms and the arrangements for delayed arrivals. Discuss what happens if the first departure is missed before booking a tight flight connection. A useful proposal explains how the route and life aboard fit your group. Choose the journey that gives your interests enough time and your essential comforts a clear answer."
+          ]
+        ]
+      },
+      "es": {
+        "type": "planning-guide",
+        "links": [
+          [
+            "/es/brazil/",
+            "Panorama de Brasil"
+          ],
+          [
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+            "Planifica tu viaje"
+          ],
+          [
+            "/es/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/es/brazil/rio-negro/",
+            "Rio Negro"
+          ],
+          [
+            "/es/brazil/anavilhanas/",
+            "Anavilhanas"
+          ],
+          [
+            "/es/brazil/alter-do-chao/",
+            "Santarém y Alter do Chão"
+          ],
+          [
+            "/es/brazil/lodges-en-la-amazonia/",
+            "Lodges amazónicos"
+          ],
+          [
+            "/es/brazil/viajes-fluviales/",
+            "Viajes fluviales"
+          ]
+        ],
+        "context_links": [
+          [
+            "panorama de Brasil",
+            "/es/brazil/"
+          ],
+          [
+            "guía de planificación de Brasil",
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/"
+          ],
+          [
+            "guía de Manaus",
+            "/es/brazil/manaus/"
+          ],
+          [
+            "guía del Rio Negro",
+            "/es/brazil/rio-negro/"
+          ],
+          [
+            "guía de Anavilhanas",
+            "/es/brazil/anavilhanas/"
+          ],
+          [
+            "guía de Alter do Chão",
+            "/es/brazil/alter-do-chao/"
+          ],
+          [
+            "guía de lodges de Brasil",
+            "/es/brazil/lodges-en-la-amazonia/"
+          ],
+          [
+            "guía de viajes fluviales de Brasil",
+            "/es/brazil/viajes-fluviales/"
+          ]
+        ],
+        "feature_sides": {
+          "1": "left",
+          "5": "right"
+        },
+        "scope": "Revisión editorial: 7 de octubre de 2026. Las fuentes oficiales aportan contexto regional y describen distintos formatos de viaje. Las comparaciones son orientación editorial, no una lista de alojamientos recomendados, un paquete confirmado ni disponibilidad actual. Las fotografías de archivo son ilustrativas y no identifican un alojamiento o barco reservado. Confirma fechas, rutas, instalaciones y servicios incluidos antes de reservar. La fotografía de Manaus tiene una ubicación brasileña documentada; no identifica un muelle de embarque concreto.",
+        "slug": "viajes-fluviales",
+        "pair_id": "brazil_riverjourneys_001",
+        "h1": "Viajes por los ríos de Brasil: la ruta y la vida a bordo",
+        "title": "Viajes fluviales en Brasil | Rutas, barcos y camarotes",
+        "description": "Compara viajes por la Amazonía brasileña: rutas, camarotes, excursiones, barcos privados o compartidos y conexiones para embarcar.",
+        "lede": "Haz del río parte de la estancia. Elige una ruta con tiempo para explorar y un barco cuyas condiciones de vida a bordo se adapten a tu grupo.",
+        "hero": [
+          "amazon-forest-river-channel",
+          "Canal rodeado de bosque amazónico, imagen ilustrativa"
+        ],
+        "features": {
+          "1": [
+            "manaus-rio-negro",
+            "Manaus visto desde el Rio Negro"
+          ],
+          "5": [
+            "amazon-forest-river-sunset",
+            "Atardecer sobre un río amazónico, imagen ilustrativa"
+          ]
+        },
+        "quick": [
+          "Un viaje con noches a bordo necesita una ruta y un plan de estancia",
+          "Compara por dónde navegarás con cómo dormirás, comerás y participarás en las excursiones. Un traslado en barco, una salida de día y un viaje turístico de varias noches son experiencias distintas, aunque compartan el mismo río."
+        ],
+        "choices_heading": "Elige el formato que se adapte a tu grupo",
+        "choices": [
+          [
+            "Una salida compartida",
+            "Compara camarotes, excursiones en grupo y la ruta anunciada.",
+            "#section-2"
+          ],
+          [
+            "Un viaje privado",
+            "Aclara qué puede adaptarse y qué incluye el alquiler del barco.",
+            "#section-2"
+          ],
+          [
+            "¿Viaje fluvial o lodge?",
+            "Compara desplazamientos, observación y comodidad diaria.",
+            "#section-7"
+          ]
+        ],
+        "cta": [
+          "Elige un viaje que disfrutes también a bordo",
+          "Comparte tus fechas, número de viajeros, necesidades de camarote e intereses para dar un propósito claro a la ruta."
+        ],
+        "sources": [
+          [
+            "Amazonastur: official Amazonas tourism guide, cruise formats",
+            "https://www.amazonastur.am.gov.br/wp-content/uploads/2020/02/Amazonas_Guia_Turistico_Digital-ptBR_.pdf"
+          ],
+          [
+            "DNIT: Solimões–Amazonas waterway context",
+            "https://www.gov.br/dnit/pt-br/assuntos/hidrovias/hidrovias-interiores/hidrovia-do-solimoes-amazonas"
+          ],
+          [
+            "Visit Brasil: Alter do Chão and regional river experiences",
+            "https://www.visitbrasil.com/location/alter-do-chao/"
+          ]
+        ],
+        "faqs": [
+          [
+            "¿Un barco regional de pasajeros equivale a un viaje fluvial guiado?",
+            "No. Confirma el servicio que reservas. Una ruta de transporte no implica que incluya camarotes, excursiones guiadas ni un programa turístico."
+          ],
+          [
+            "¿Necesito un barco privado para disfrutar la experiencia?",
+            "No. Compara la ruta, el camarote, el servicio de guía y el tipo de grupo. Un barco privado puede ofrecer otras opciones, pero su adaptación depende de la embarcación, la tripulación, el acceso y las condiciones."
+          ],
+          [
+            "¿Qué debo comprobar sobre el camarote?",
+            "Pregunta por camas, privacidad del baño, ventilación o aire acondicionado, ruido, escalones, espacio para equipaje y acceso a zonas comunes. Confirma la categoría exacta en tu propuesta."
+          ],
+          [
+            "¿Las condiciones del río pueden cambiar la ruta?",
+            "Es posible. Pregunta cómo se deciden los cambios, qué alternativas hay y cómo afectan los servicios pagados. Una descripción general no es un pronóstico de navegación."
+          ]
+        ],
+        "sections": [
+          [
+            "Decide qué tipo de viaje fluvial buscas",
+            "Empieza por distinguir el transporte de la experiencia turística. Una conexión de pasajeros, una excursión de día y un barco utilizado como alojamiento responden a necesidades distintas. La guía oficial de turismo de Amazonas describe diferentes formatos de embarcaciones y rutas turísticas. Pregunta qué servicio incluye tu propuesta antes de interpretar el nombre de un río conocido como un programa completo.",
+            "Usa el panorama de Brasil para decidir qué región encaja en tu viaje. Una estancia de varias noches debe indicar dónde comienza y termina, cómo dormirás y las principales zonas de excursión. No necesitas fijar cada parada pequeña, pero sí entender el propósito de la ruta y lo que aporta el tiempo a bordo."
+          ],
+          [
+            "Elige la región antes del camarote",
+            "La guía del Rio Negro y la guía de Anavilhanas ayudan a comparar viajes en la región de Manaus y su archipiélago. Pregunta qué zonas se visitan y dónde comienza la navegación. Usa la guía de Manaus para distinguir la llegada a la ciudad, el traslado al muelle y la hora de salida dentro de tu plan.",
+            "La guía de Alter do Chão presenta otra opción en la región del Tapajós, asociada a Santarém. Compárala teniendo en cuenta la conexión necesaria para llegar. Dos viajes anunciados como experiencias amazónicas pueden tener alojamientos y distancias muy diferentes. Evita añadir regiones a una estancia corta sin conocer el tiempo que requieren los desplazamientos."
+          ],
+          [
+            "Compara salidas compartidas y barcos privados",
+            "Una salida compartida puede ofrecer una ruta definida y un programa en grupo. Un barco privado necesita un acuerdo claro sobre lo que se puede adaptar. Compara primero la embarcación y el servicio de guía. La privacidad no elimina los límites: la tripulación, las condiciones del río y los acuerdos de visita también influyen en el programa.",
+            "Pregunta cómo se organizan las excursiones y si hay opciones de distinto esfuerzo. Si alquilas un barco, aclara cómo afectan los cambios al tiempo de navegación, al personal y al precio. En un viaje compartido, confirma la asignación de camarotes y las actividades grupales. Elige según los intereses de tu grupo y la flexibilidad que realmente necesitas."
+          ],
+          [
+            "Evalúa el camarote como tu alojamiento diario",
+            "Pregunta por las camas, la privacidad del baño, la ventilación o el aire acondicionado, los escalones, el espacio para equipaje y la carga de equipos. Confirma la categoría y ubicación del camarote. Si el ruido afecta tu descanso, pregunta por motores cercanos, zonas comunes y navegación nocturna. Una fotografía no explica esas condiciones de vida.",
+            "Revisa el comedor y las zonas comunes con el mismo cuidado. Averigua cómo te moverás entre cubiertas y cuánto espacio protegido hay cuando todos están a bordo. Comenta tus necesidades de acceso tanto para el barco principal como para las embarcaciones de excursión. Busca entender una jornada y una noche típicas, además de lo que muestra la galería."
+          ],
+          [
+            "Reserva tiempo para excursiones y observación",
+            "Solicita un ejemplo de jornada que separe navegación, salidas en barcos pequeños, tiempo en tierra y comidas. La distancia recorrida no equivale al tiempo para explorar. Compara cuánto tiempo tendrás en las paradas que te interesan y si el guía puede permitir una observación sin prisas. Una ruta compacta puede dejar más espacio para tus prioridades.",
+            "Explica si buscas aves, fotografía, caminatas o visitas organizadas por anfitriones antes de elegir el programa. Pregunta por el tamaño del grupo y las paradas más largas. Elige observación sin alimentar ni manipular animales y sin encuentros preparados para visitantes. Una buena excursión también debe ofrecer aprendizaje cuando la especie que esperabas ver no aparece."
+          ],
+          [
+            "Entiende las condiciones y las alternativas",
+            "Un esquema de ruta sirve para planificar; no predice el nivel del agua. DNIT describe la vía Solimões–Amazonas como un sistema de navegación utilizado por distintos tipos de embarcaciones. Pregunta al proveedor por las condiciones relevantes para tu recorrido y las alternativas si una parada o un canal no pueden incluirse.",
+            "Aclara quién decide los cambios, cómo se informa a los pasajeros y qué ocurre con los servicios pagados. No asumas que una fotografía o un itinerario anterior confirman el acceso para tus fechas. Las alternativas deberían conservar tiempo valioso en el bosque o el río, en lugar de sustituir una parada concreta por navegación adicional sin explicar su propósito."
+          ],
+          [
+            "Coordina embarque, comidas y visitas comunitarias",
+            "Confirma el muelle, la hora de llegada, el traslado del equipaje y quién te recoge. Pregunta qué comidas y bebidas están incluidas, cómo se atienden necesidades alimentarias y si las excursiones cambian los horarios de comida. Deja clara también la conexión de regreso para evitar un traslado apresurado hasta tu siguiente reserva.",
+            "En las visitas comunitarias, pregunta qué anfitriones reciben viajeros y qué eligen compartir. Aclara las condiciones para fotografiar, el apoyo lingüístico y los pagos. Pasar cerca de una comunidad no significa que la visita esté incluida. Solicita confirmación y deja suficiente tiempo para participar con respeto, más allá de una parada breve para tomar fotografías."
+          ],
+          [
+            "Compara el viaje con un lodge fijo",
+            "Usa la guía de lodges de Brasil para evaluar una alternativa que mantiene el alojamiento en un solo lugar. Compara los desplazamientos diarios, el paisaje y el tiempo de excursiones guiadas. Un barco puede hacer de la navegación parte de la estancia; un lodge puede ofrecer una rutina más estable. Ningún formato garantiza más fauna sin un buen guía y un ritmo adecuado.",
+            "Si combinas ambos, pregunta cómo se realiza la conexión y qué actividades se repiten. El segundo formato debería aportar algo distinto, sin consumir gran parte de una estancia corta en cambios de alojamiento. Compara una opción centrada en un lugar con la ruta combinada. Puedes preferir más profundidad en un entorno a pasar tiempo trasladándote entre destinos."
+          ],
+          [
+            "Lee la propuesta completa antes de reservar",
+            "Usa la guía de planificación de Brasil para organizar fechas, número de viajeros, preferencias de camarote e intereses. Solicita el nombre del barco, la categoría del camarote, la ruta, las excursiones, la tripulación, el servicio de guía, las comidas y los traslados. Identifica actividades opcionales y gastos adicionales. Compara servicios equivalentes antes de decidir por el precio anunciado.",
+            "Revisa las condiciones de pago, cancelación y cambios de ruta, además del plan para llegadas tardías. Aclara qué sucede si pierdes la salida antes de reservar una conexión aérea ajustada. Una propuesta útil explica cómo la ruta y la vida a bordo encajan con tu grupo. Elige un viaje que dé tiempo a tus intereses y respuestas claras sobre la comodidad que necesitas."
+          ]
+        ]
+      }
+    }
+  },
+  "editorial_review_notes": [
+    "Official Amazonas tourism guide used for stable format context, not current operator inventories or schedules",
+    "Manual Spanish review and metadata revision after local drafting; raw outputs retained",
+    "Shared CSS/template unchanged; illustrative stock and verified Manaus photo, no duplicate scene within a page",
+    "Rejected boat image with Bolivian flags and recognizable property image rather than presenting them as Brazilian travel products",
+    "River translation ignored requested tú register; Spanish body and FAQs rewritten manually, original retained"
+  ]
+}

@@ -66,8 +66,8 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review of six staged Brazil pairs; browser visual QA remains blocked",
-    "Next two-pair candidates: forest lodges and river journeys; Brazil production release not authorized"
+    "Owner review of eight staged Brazil pairs; browser visual QA remains blocked",
+    "Next two-pair candidates: timing and wildlife; Brazil production release not authorized"
   ],
   "future_batches": [
     "Reviews deferred by owner; exclude from Ecuador launch",
@@ -111,8 +111,8 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "Anavilhanas EN/ES",
-    "Santarém / Alter do Chão EN/ES"
+    "Amazon lodges EN/ES",
+    "River journeys EN/ES"
   ],
   "batch_status": "Owner confirmed inbox delivery; branded HTML signature with Instagram deployed",
   "batch_browser_checks": {
