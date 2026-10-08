@@ -9,6 +9,7 @@ const sourceDir = path.join(rootDir, "src");
 const ecuadorRelease = process.env.ETA_SCOPE === "ecuador";
 const peruRelease = process.env.ETA_SCOPE === "ecuador-peru";
 const boliviaRelease = process.env.ETA_SCOPE === "ecuador-peru-bolivia";
+const colombiaRelease = process.env.ETA_SCOPE === "ecuador-peru-bolivia-brazil-colombia";
 const brazilRelease = process.env.ETA_SCOPE === "ecuador-peru-bolivia-brazil";
 const outputDir = path.resolve(rootDir, process.env.ETA_OUTPUT || (ecuadorRelease ? "dist-ecuador" : peruRelease ? "dist-release" : boliviaRelease ? "dist-bolivia-release" : "dist"));
 const environment = process.env.ETA_ENV === "production" ? "production" : "staging";
@@ -61,7 +62,7 @@ async function compilePages() {
     if (ecuadorRelease && /^(?:en|es)\/(?:peru|bolivia)\//.test(relative)) continue;
     if (peruRelease && /^(?:en|es)\/bolivia\//.test(relative)) continue;
     if ((ecuadorRelease || peruRelease || boliviaRelease) && /^(?:en|es)\/brazil\//.test(relative)) continue;
-    if (environment === "production" && /^(?:en|es)\/colombia\//.test(relative)) continue;
+    if (environment === "production" && !colombiaRelease && /^(?:en|es)\/colombia\//.test(relative)) continue;
     const language = relative.split(path.sep)[0] === "es" ? "es" : "en";
     const outputRelative = language === "es" ? relative : relative.replace(/^en\//, "");
     const destination = path.join(outputDir, outputRelative);
@@ -238,7 +239,7 @@ await compilePages();
 await compileEcuadorDestinations();
 await writeRuntimeConfig();
 await writeEnvironmentFiles();
-if (ecuadorRelease || peruRelease || boliviaRelease || brazilRelease) {
+if (ecuadorRelease || peruRelease || boliviaRelease || brazilRelease || colombiaRelease) {
   const files = (await listFiles(outputDir)).filter(file => file.endsWith(".html"));
   const indexable = [];
   for (const file of files) {

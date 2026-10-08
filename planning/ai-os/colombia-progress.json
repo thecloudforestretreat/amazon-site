@@ -2,7 +2,7 @@
   "country": "colombia",
   "date": "2026-10-08",
   "owner_authorized": true,
-  "scope": "Owner authorized Colombia production release; pending rendered and authenticated staging QA",
+  "scope": "Colombia live owner-authorized",
   "planned_pairs": 12,
   "planned_pages": 24,
   "batch_size_pairs": 2,
@@ -25,10 +25,10 @@
     "Trip planning"
   ],
   "staged_pairs": 12,
-  "status": "images_updated_technical_pass_visual_review_blocked",
+  "status": "production_live_verified",
   "quality_standard": "Same shared CSS, meaningful bilingual content, contextual internal links, reviewed facts and licensed imagery; no repeated scene within a page",
   "staged_pages": 24,
-  "deployment": "430fe721",
+  "deployment": "33c9a3b2",
   "previous_staging_deployment": "831f0904",
   "qa": {
     "compiled_site_pages": 172,
@@ -74,5 +74,5 @@
     "How to get there",
     "Packing"
   ],
-  "next_step": "Complete desktop/mobile visual review and authenticated staging readback, then owner-authorized production release"
+  "next_step": "Guyana proposed next; await country build authorization"
 }

@@ -1,7 +1,7 @@
 {
   "project": "experience-the-amazon",
   "branch": "staging",
-  "scope": "Homepage, Ecuador, Peru, Bolivia and Brazil live; Colombia staging authorized",
+  "scope": "Homepage, Ecuador, Peru, Bolivia, Brazil and Colombia live",
   "supervision": {
     "kind": "thread heartbeat",
     "automation_id": "amazon-staging-supervisor",
@@ -66,9 +66,7 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review of final Colombia access and packing EN/ES on protected staging",
-    "Prepare destination-specific Colombia imagery and apply with no repeated scene per page",
-    "Complete rendered desktop/mobile and authenticated readback, full-country release QA, then obtain country release authorization"
+    "Preserve Colombia production evidence; Guyana proposed next, awaiting owner build authorization"
   ],
   "future_batches": [
     "Reviews deferred by owner; exclude from Ecuador launch",

@@ -1,17 +1,21 @@
 {
-  "status": "production_authorized_pending_required_visual_qa",
+  "status": "production_live_verified",
   "production_authorized": true,
   "authorization": "Owner: fully update and push live, October 8 2026",
   "staging_deployment": "430fe721",
   "pages": 24,
   "pairs": 12,
   "technical_qa": "passed",
-  "pending": [
-    "Desktop/mobile rendered visual review",
-    "Authenticated protected staging readback",
-    "Production build activation and deployment after review",
-    "Live route/asset/sitemap readback"
-  ],
+  "pending": [],
   "blocker": "Browser security check unavailable: admin-enforced policy could not be verified. No bypass attempted.",
-  "production_deployed": false
+  "production_deployed": true,
+  "deployment": "33c9a3b2",
+  "visual_review": "Agent browser review unavailable; owner viewed staging and explicitly instructed release afterward. No agent visual measurements claimed.",
+  "live_qa": {
+    "routes": 30,
+    "assets": 28,
+    "errors": 0,
+    "sitemap_urls": 24
+  },
+  "evidence": "planning/ai-os/colombia-production-readback.json"
 }

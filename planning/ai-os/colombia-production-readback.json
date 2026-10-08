@@ -1,0 +1,301 @@
+{
+  "deployment": "33c9a3b2",
+  "routes_checked": 30,
+  "assets_checked": 28,
+  "errors": 0,
+  "sitemap_colombia_urls": 24,
+  "route_results": [
+    {
+      "route": "/colombia/",
+      "status": 200,
+      "sha256": "31596ae83333ef735d31a9c82ea725ff977f694ec43eebe29b3b4a8061496888"
+    },
+    {
+      "route": "/colombia/puerto-narino/",
+      "status": 200,
+      "sha256": "6941d1c9311ed7a784518e2a9a9eaa411b65241b097368d3eafbde314eb1d9a8"
+    },
+    {
+      "route": "/colombia/river-journeys/",
+      "status": 200,
+      "sha256": "31359fd5ecc33323c3cefc0a3ccb336b7843993aaa5c3d32e89ef77a8ccb773e"
+    },
+    {
+      "route": "/colombia/best-time-to-visit/",
+      "status": 200,
+      "sha256": "789046464641e17fa695e2468240675d3cd6d5136a4790aa9a665d216a2acf56"
+    },
+    {
+      "route": "/colombia/amacayacu/",
+      "status": 200,
+      "sha256": "5da7efc74500b591c2b7d4acca5445916dccff6904aa232979d47ce7b566a690"
+    },
+    {
+      "route": "/colombia/plan-your-amazon-trip/",
+      "status": 200,
+      "sha256": "ed8cc5f623181ae6133d052e25cc4e0b283707959a2d74ff13e062a246fdc8bc"
+    },
+    {
+      "route": "/colombia/packing-list/",
+      "status": 200,
+      "sha256": "46480ff7e423a8759747ae4915c695dda11ab3a5c7a2671e37ed78d11b2d120d"
+    },
+    {
+      "route": "/colombia/wildlife/",
+      "status": 200,
+      "sha256": "68ed5c037f25dbb43165ac604f6f26e69d4c8be281ed9c1cc61f65f75319d823"
+    },
+    {
+      "route": "/colombia/how-to-get-there/",
+      "status": 200,
+      "sha256": "32367c890787a5439ca8a7a5636ce42542a5b689ed4c1651a6355f409e3b7e62"
+    },
+    {
+      "route": "/colombia/leticia/",
+      "status": 200,
+      "sha256": "9f849486b29f26a2c19e3464129a95bd6bd5646523ab6ef582bcf1d52c0b5f1e"
+    },
+    {
+      "route": "/colombia/amazon-accommodation/",
+      "status": 200,
+      "sha256": "415622398e2c6ac8405f84e148b0663ebe75031daca9cd71201dc4b524147b30"
+    },
+    {
+      "route": "/colombia/tarapoto-lakes/",
+      "status": 200,
+      "sha256": "1336625117a32bd2d234c7a8303b4ec1320b679ff390c4ece068a9d766e671c3"
+    },
+    {
+      "route": "/es/colombia/",
+      "status": 200,
+      "sha256": "f2df6a0bf1bbe40181bbd0332bd63c98e74f5c688c897a30447727c0fe9c20ff"
+    },
+    {
+      "route": "/es/colombia/puerto-narino/",
+      "status": 200,
+      "sha256": "782b226bae5909cf96874eb9eac7a7c068740e395853b4f65d06ecfdf040b606"
+    },
+    {
+      "route": "/es/colombia/viajes-fluviales/",
+      "status": 200,
+      "sha256": "4f7dabc63e6dda9e73cd42dd82ff817a215e2a7845462ade7b5f32645724221e"
+    },
+    {
+      "route": "/es/colombia/alojamientos-amazonicos/",
+      "status": 200,
+      "sha256": "3d760858e2cd473980bc97638f24f54670c47fa186f0b9dbc42c768afaf2d208"
+    },
+    {
+      "route": "/es/colombia/como-llegar/",
+      "status": 200,
+      "sha256": "6496c7e6dd57e122c2779c2960869e7936ef7a2a3ce7af7691a9b4ba1bdd4da8"
+    },
+    {
+      "route": "/es/colombia/fauna/",
+      "status": 200,
+      "sha256": "9eb60b01292cc4143bed7db6d82a98d1ad74fc24bca173cf76cd2403ebd86a3a"
+    },
+    {
+      "route": "/es/colombia/mejor-epoca-para-visitar/",
+      "status": 200,
+      "sha256": "658146019b50072574396ed21ee53084f2b1e5eda18c1b76ee7681b338a35bad"
+    },
+    {
+      "route": "/es/colombia/lagos-de-tarapoto/",
+      "status": 200,
+      "sha256": "ac2f86523fdca0eea712894b48cd9bb670ef08fdf684760e50347b222b0f1612"
+    },
+    {
+      "route": "/es/colombia/amacayacu/",
+      "status": 200,
+      "sha256": "7da0342e0240ccbb9517146a4ad5a46167afaa1fe200d3a183362d7ad702ef5d"
+    },
+    {
+      "route": "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+      "status": 200,
+      "sha256": "7dbf191b7cf8daad92623c70502ab6af85d3d3834b0768a936352508b4fb5b2b"
+    },
+    {
+      "route": "/es/colombia/que-llevar/",
+      "status": 200,
+      "sha256": "7049d3b188359ea22d5fd061cef2429786add6bf21de3550f4d5adf4a6558e8e"
+    },
+    {
+      "route": "/es/colombia/leticia/",
+      "status": 200,
+      "sha256": "98664998a7df9c7211223e5a177f62719cf5ef68121d9f6346e9f5240991b27f"
+    },
+    {
+      "route": "/",
+      "status": 200,
+      "sha256": "c904ef9539631d870db0e20c40732652b7b6638b12735c9a080cd3a20bdeef00"
+    },
+    {
+      "route": "/es/",
+      "status": 200,
+      "sha256": "bbfdc6d952aff8bfb147db569e5822df69dc45d3f99eace08045449e26d84b71"
+    },
+    {
+      "route": "/sitemap.xml",
+      "status": 200,
+      "sha256": "3a0576a30250039d8d5122f7fcef50d240f830df163af5e85493c1e7a7dc7a09"
+    },
+    {
+      "route": "/robots.txt",
+      "status": 200,
+      "sha256": "804ade82155a0905568c9e6ee3dc2bb56339017dbddef4f6b6defe4f7bebad65"
+    },
+    {
+      "route": "/contact/",
+      "status": 200,
+      "sha256": "a040509a5164498abd97f0673b6b3487eea6ed895b7a3f0d982fdc3d6f2ac55e"
+    },
+    {
+      "route": "/es/contacto/",
+      "status": 200,
+      "sha256": "3a4e74259769873c4ee1e6153446046765ff2cab50c96d7a8c7d037099c5aafa"
+    }
+  ],
+  "assets": [
+    {
+      "route": "/assets/css/clusters/colombia.css",
+      "status": 200,
+      "sha256": "0f354fdc580de8fc6c7e3a71b4ea75ea2f4cece9123cfff34df33aae8bdb0ff1"
+    },
+    {
+      "route": "/assets/css/clusters/editorial.css",
+      "status": 200,
+      "sha256": "99098e34d0a5924e40776c9dd161e52bcdbd74357c03963f66e960e805aae16b"
+    },
+    {
+      "route": "/assets/css/core.css",
+      "status": 200,
+      "sha256": "f235948f527ae705aa15d583c0964393fce7a9bee9fd42dda7a170c3a99d12ce"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/amazon-canoe-group-lake-journey.webp",
+      "status": 200,
+      "sha256": "33cf4a20f888c2e78c24075d1316a242299ed4385fff0c823857ce10a753e10a"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/amazon-cultural-crafts-display.webp",
+      "status": 200,
+      "sha256": "e96c3910d63642b6cadd51c5578bbdd4767be7fae0f4e7c10a992daa832e54b6"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/amazon-forest-buttress-tree-hiker-wide.webp",
+      "status": 200,
+      "sha256": "6576376bbeed4e5311985c5993c25ed76a2010fcfac5090b5fc7e947399be476"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/amazon-forest-canoe-bow-wide.webp",
+      "status": 200,
+      "sha256": "7e0dc9b20f186042c0e457ffd7d57c1ac8f902c18d7ff66096e59ee92925f7e5"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/amazon-meandering-river-aerial-wide.webp",
+      "status": 200,
+      "sha256": "8b5f13e41822cc1e97ea7476dee2ccaf9be67c9e217b659d6d5add1cf918d375"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/amazon-monkey-on-tree-portrait.webp",
+      "status": 200,
+      "sha256": "895f1689607752c5ec0eecd550cfd350acb64b1cf6e886360e778c0c0f3e50f5"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/amazon-rainforest-walk-traveler.webp",
+      "status": 200,
+      "sha256": "597fc6f25cd38f8b4bb1dcabb64d0caf721d85d36743a9116b8d4fc9485fef8f"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/amazon-red-macaws-under-thatched-roof-wide.webp",
+      "status": 200,
+      "sha256": "e10e27c9433c90fd172e7cc184e3fdf64adc1a860b607260b39bdfc83744615c"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/amazon-river-and-town-aerial.webp",
+      "status": 200,
+      "sha256": "66103480ed1a3a14731fe8503eaaa6f13e2e45fbdf9c36e8940d39c5ba6c72e3"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-harbor-canoes.webp",
+      "status": 200,
+      "sha256": "cf94afd84452e810a7737514fe58d90b9c434af1ce81093d390df92047fa7381"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-houses-canoe-travelers.webp",
+      "status": 200,
+      "sha256": "fff5966d250a29b2865c86782427b3aff7d300f16d866ce99b46232b2de762e5"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-houses-solo-canoe.webp",
+      "status": 200,
+      "sha256": "c93a751ce8404a1035d746aadbfc01c1106b4b8e29a3e30aa5936b89f67755eb"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-town-and-forest-view.webp",
+      "status": 200,
+      "sha256": "d9742be52875c8edc6cf541179566a79dc0c895efbef625ae8ddee40a00dbfd6"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/amazon-village-raised-wooden-walkway.webp",
+      "status": 200,
+      "sha256": "7cb40b520f1dd6ab065e30fe718633170b626e007b0568ab45167b955cd116ab"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/amazon-village-wooden-house-path.webp",
+      "status": 200,
+      "sha256": "3ff4df51d981cb69c723fb8d4afa01302e6b48b0c975319daf6ba6ace46df3bc"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/amazon-wooden-canoes-riverbank.webp",
+      "status": 200,
+      "sha256": "d8eb63b9f3c209b09122aeb46b0ff328a4b57c66d49def2c8621763aa3d59ace"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/forest-lakeside-lodge-reflection.webp",
+      "status": 200,
+      "sha256": "dd081cee5e92f6eaff9f72164972d5425e70d9a1386cfd854d6e1840ab043919"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/jaguar-in-foliage-portrait.webp",
+      "status": 200,
+      "sha256": "d045ba8d1f1e33e81789cb9c6b50cb0d6787e792eb533d9552ecf9cfe45d188b"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/leticia-colombia-border-direction-sign-wide.webp",
+      "status": 200,
+      "sha256": "7cb1f86477e1a155fa0945423791f26dc5ac43f3209fe5c7e598e07c550fa138"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/leticia-tabatinga-iquitos-direction-signs.webp",
+      "status": 200,
+      "sha256": "62f54beb57d4c20970b76b6e7660f6a11ea935c899ac2ce10d6d3db1a7d6bfde"
+    },
+    {
+      "route": "/assets/images/pages/countries/colombia/optimized/tropical-thatched-lodge-hammock-deck.webp",
+      "status": 200,
+      "sha256": "da97ca2d2f4bf1a8ded5ea0d0eab725e6eb79fbfcfc995dee63be70733294693"
+    },
+    {
+      "route": "/assets/js/analytics.js",
+      "status": 200,
+      "sha256": "b78108a15aca0ee5db43d4ef905717ab698efd756989808da892013aa5382402"
+    },
+    {
+      "route": "/assets/js/site-config.js",
+      "status": 200,
+      "sha256": "d5128f7ed4631772847a957bc7fdbb37db99beb870baec11ac8a228049ba379d"
+    },
+    {
+      "route": "/assets/js/site.js",
+      "status": 200,
+      "sha256": "054cebbe2d9ce4e0dd8d5ad592bab3de68a0645ab801f8afe43ff825388057f4"
+    },
+    {
+      "route": "/assets/logo/eta_logo_trans_256.png",
+      "status": 200,
+      "sha256": "6b2a5b82d04121ab39487fed8b3faf7e7add5eab60ee139c5d338c0a032b4d1b"
+    }
+  ]
+}
