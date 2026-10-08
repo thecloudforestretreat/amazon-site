@@ -1,0 +1,67 @@
+{
+  "country": "colombia",
+  "status": "prepared_pending_brazil_inbox_confirmation",
+  "authorization": "Owner asked to finish Brazil QA and move to next country October 8, 2026; Colombia follows homepage order",
+  "batch_size_pairs": 2,
+  "first_batch": [
+    {
+      "topic": "Colombia overview",
+      "en": "/colombia/",
+      "es": "/es/colombia/",
+      "sections": [
+        "Leticia as the gateway",
+        "Leticia versus Puerto Narino as a base",
+        "Forest and river experiences",
+        "Amacayacu and community permissions",
+        "Accommodation styles",
+        "Choosing trip length",
+        "River levels and activities",
+        "Respectful wildlife and community visits",
+        "Transfers and onward planning"
+      ]
+    },
+    {
+      "topic": "Trip planning",
+      "en": "/colombia/plan-your-amazon-trip/",
+      "es": "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+      "sections": [
+        "Choose one principal base",
+        "Plan flight and river transfers",
+        "Allocate nights to the experience",
+        "Compare town stays and forest lodges",
+        "Check operator inclusions",
+        "Discuss mobility and comfort",
+        "Arrange permitted community visits",
+        "Prepare for changing river conditions",
+        "Build in transfer flexibility"
+      ]
+    }
+  ],
+  "candidate_later_pairs": [
+    "Leticia",
+    "Puerto Narino",
+    "Amacayacu",
+    "Tarapoto lakes",
+    "Amazon accommodation",
+    "River journeys",
+    "Best time to visit",
+    "Wildlife",
+    "How to get there",
+    "Packing"
+  ],
+  "source_boundaries": [
+    "https://colombia.travel/en/leticia",
+    "https://colombia.travel/en/puerto-narino",
+    "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-amacayacu/"
+  ],
+  "requirements": [
+    "Shared global/editorial/amazon-guide CSS; no divergent spacing",
+    "Reviewed meaningful bilingual content and contextual links; no thin placeholders",
+    "Local Ollama bounded drafts/translations with actual usage recorded",
+    "Owner licensed images; no implied exact location from generic stock",
+    "No promised wildlife sightings, invented schedules/prices or medical advice",
+    "Technical and rendered desktop/mobile QA; protected staging readback",
+    "Production scope must continue excluding Colombia until separately approved"
+  ],
+  "note": "Research and brief only; new pages not started while Brazil delivery QA remains unresolved."
+}

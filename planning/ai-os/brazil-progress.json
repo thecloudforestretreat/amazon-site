@@ -2,7 +2,7 @@
   "country": "brazil",
   "date": "2026-10-08",
   "owner_authorized": "Owner requested next two-pair batch; protected staging only",
-  "stage": "production_live_http_verified_visual_delivery_pending",
+  "stage": "production_live_owner_visual_approved_delivery_pending",
   "deployment": "b2d0032f",
   "previous_staging_deployment": "f798509e",
   "pairs": [
@@ -92,7 +92,7 @@
     "production_scope_containment": "124 pages validated; zero Brazil routes/sitemap entries; artifact not deployed",
     "protection": "4 new route HEAD checks:302 Access redirects",
     "authenticated_readback": "not verified",
-    "visual_review": "blocked: browser admin security policy verification unavailable",
+    "visual_review": "Owner approved October 8, 2026",
     "css_delivery_regression_tests": 3,
     "minimum_paragraph_inlink_pages": 11,
     "live_http_errors": 0

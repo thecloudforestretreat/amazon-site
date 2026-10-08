@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "status": "production_live_http_verified_visual_delivery_pending",
+  "status": "production_live_owner_visual_approved_delivery_pending",
   "deployment": "b2d0032f",
   "pairs": 12,
   "pages": 24,
@@ -15,8 +15,7 @@
     "four_new_protected_routes": true
   },
   "pending": [
-    "Desktop/mobile rendered review: browser admin-enforced policy verification unavailable",
-    "Real Brazil inquiry delivery and inbox confirmation"
+    "Real Brazil inquiry delivery and inbox confirmation; browser security-policy verification still unavailable"
   ],
   "production_authorized": true,
   "rollback": {
@@ -36,5 +35,11 @@
     "contact_endpoint_enabled": true,
     "handler_tests": 17
   },
-  "evidence": "planning/ai-os/brazil-production-readback.json"
+  "evidence": "planning/ai-os/brazil-production-readback.json",
+  "visual_review": {
+    "status": "owner_approved",
+    "date": "2026-10-08",
+    "evidence": "Owner: visual review is good",
+    "scope": "Owner approval; no agent desktop/mobile measurements claimed"
+  }
 }
