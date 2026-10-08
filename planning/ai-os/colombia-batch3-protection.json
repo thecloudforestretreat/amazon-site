@@ -1,0 +1,22 @@
+[
+  {
+    "route": "/colombia/amacayacu/",
+    "status": 302,
+    "access_redirect": true
+  },
+  {
+    "route": "/es/colombia/amacayacu/",
+    "status": 302,
+    "access_redirect": true
+  },
+  {
+    "route": "/colombia/tarapoto-lakes/",
+    "status": 302,
+    "access_redirect": true
+  },
+  {
+    "route": "/es/colombia/lagos-de-tarapoto/",
+    "status": 302,
+    "access_redirect": true
+  }
+]

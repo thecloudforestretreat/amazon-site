@@ -24,39 +24,44 @@
     "Colombia overview",
     "Trip planning"
   ],
-  "staged_pairs": 4,
-  "status": "four_pairs_staged_technical_pass_visual_pending",
+  "staged_pairs": 6,
+  "status": "six_pairs_staged_technical_pass_visual_pending",
   "quality_standard": "Same shared CSS, meaningful bilingual content, contextual internal links, reviewed facts and licensed imagery; no repeated scene within a page",
-  "staged_pages": 8,
-  "deployment": "f5f0b158",
-  "previous_staging_deployment": "2485f373",
+  "staged_pages": 12,
+  "deployment": "5ef5c8fe",
+  "previous_staging_deployment": "f5f0b158",
   "qa": {
-    "compiled_site_pages": 156,
-    "country_pages": 8,
+    "compiled_site_pages": 160,
+    "country_pages": 12,
     "errors": 0,
     "word_range": [
-      1539,
-      1797
+      1547,
+      1834
     ],
     "shared_css_tests": 4,
     "distinct_images_per_page": 3,
     "access_redirects": 4,
     "production_containment_pass": true,
-    "visual_review": "Blocked: browser admin-enforced policy could not be verified October 8; no workaround used",
+    "visual_review": "Blocked: browser admin-enforced policy could not be verified; no workaround used",
     "authenticated_readback": "Pending",
     "image_review": "Visible subjects reviewed; destination-specific imagery pending before release",
     "main_content_inlink_range": [
-      3,
-      4
+      5,
+      6
     ]
   },
-  "local_tokens_recorded": 22650,
+  "local_tokens_recorded": 34174,
   "next_batch": [
-    "Amacayacu",
-    "Tarapoto lakes"
+    "Amazon accommodation",
+    "River journeys"
   ],
   "second_batch": [
     "Leticia",
     "Puerto Nari\u00f1o"
-  ]
+  ],
+  "third_batch": [
+    "Amacayacu",
+    "Tarapoto lakes"
+  ],
+  "local_usage_limit": "Failed HTTP attempt returned no token counts; reported total covers recorded responses only"
 }

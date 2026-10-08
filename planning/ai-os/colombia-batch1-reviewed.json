@@ -194,11 +194,27 @@
             "Brazil"
           ],
           [
+            "/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/colombia/tarapoto-lakes/",
+            "Tarapoto lakes"
+          ],
+          [
             "/contact/",
             "Share your plans"
           ]
         ],
         "context_links": [
+          [
+            "Tarapoto",
+            "/colombia/tarapoto-lakes/"
+          ],
+          [
+            "Amacayacu",
+            "/colombia/amacayacu/"
+          ],
           [
             "Puerto Nariño",
             "/colombia/puerto-narino/"
@@ -403,11 +419,27 @@
             "Brasil"
           ],
           [
+            "/es/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/es/colombia/lagos-de-tarapoto/",
+            "Lagos de Tarapoto"
+          ],
+          [
             "/es/contacto/",
             "Comparta sus planes"
           ]
         ],
         "context_links": [
+          [
+            "Tarapoto",
+            "/es/colombia/lagos-de-tarapoto/"
+          ],
+          [
+            "Amacayacu",
+            "/es/colombia/amacayacu/"
+          ],
           [
             "Puerto Nariño",
             "/es/colombia/puerto-narino/"
@@ -614,11 +646,27 @@
             "Brazil"
           ],
           [
+            "/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/colombia/tarapoto-lakes/",
+            "Tarapoto lakes"
+          ],
+          [
             "/contact/",
             "Share your plans"
           ]
         ],
         "context_links": [
+          [
+            "Tarapoto",
+            "/colombia/tarapoto-lakes/"
+          ],
+          [
+            "Amacayacu",
+            "/colombia/amacayacu/"
+          ],
           [
             "Puerto Nariño",
             "/colombia/puerto-narino/"
@@ -823,11 +871,27 @@
             "Brasil"
           ],
           [
+            "/es/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/es/colombia/lagos-de-tarapoto/",
+            "Lagos de Tarapoto"
+          ],
+          [
             "/es/contacto/",
             "Comparta sus planes"
           ]
         ],
         "context_links": [
+          [
+            "Tarapoto",
+            "/es/colombia/lagos-de-tarapoto/"
+          ],
+          [
+            "Amacayacu",
+            "/es/colombia/amacayacu/"
+          ],
           [
             "Puerto Nariño",
             "/es/colombia/puerto-narino/"

@@ -1,23 +1,27 @@
 {
-  "pages_audited": 8,
+  "pages_audited": 12,
   "errors": [],
   "pages": [
     {
       "route": "/colombia/",
-      "main_words": 1539,
+      "main_words": 1547,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/",
         "/colombia/puerto-narino/",
+        "/colombia/amacayacu/",
         "/colombia/plan-your-amazon-trip/",
-        "/colombia/leticia/"
+        "/colombia/leticia/",
+        "/colombia/tarapoto-lakes/"
       ],
       "main_content_outlinks": [
         "/",
         "/brazil/",
+        "/colombia/amacayacu/",
         "/colombia/leticia/",
         "/colombia/plan-your-amazon-trip/",
         "/colombia/puerto-narino/",
+        "/colombia/tarapoto-lakes/",
         "/contact/",
         "/ecuador/",
         "/peru/"
@@ -37,19 +41,57 @@
       "issues": []
     },
     {
-      "route": "/colombia/leticia/",
-      "main_words": 1584,
+      "route": "/colombia/amacayacu/",
+      "main_words": 1564,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/colombia/",
         "/colombia/puerto-narino/",
-        "/colombia/plan-your-amazon-trip/"
+        "/colombia/plan-your-amazon-trip/",
+        "/colombia/leticia/",
+        "/colombia/tarapoto-lakes/"
       ],
       "main_content_outlinks": [
         "/",
         "/colombia/",
+        "/colombia/leticia/",
         "/colombia/plan-your-amazon-trip/",
         "/colombia/puerto-narino/",
+        "/colombia/tarapoto-lakes/",
+        "/contact/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/colombia.css?v=0f354fdc580d"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/colombia/leticia/",
+      "main_words": 1592,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/colombia/",
+        "/colombia/puerto-narino/",
+        "/colombia/amacayacu/",
+        "/colombia/plan-your-amazon-trip/",
+        "/colombia/tarapoto-lakes/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/colombia/",
+        "/colombia/amacayacu/",
+        "/colombia/plan-your-amazon-trip/",
+        "/colombia/puerto-narino/",
+        "/colombia/tarapoto-lakes/",
         "/contact/"
       ],
       "css": [
@@ -68,19 +110,23 @@
     },
     {
       "route": "/colombia/plan-your-amazon-trip/",
-      "main_words": 1554,
+      "main_words": 1563,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/colombia/",
         "/colombia/puerto-narino/",
-        "/colombia/leticia/"
+        "/colombia/amacayacu/",
+        "/colombia/leticia/",
+        "/colombia/tarapoto-lakes/"
       ],
       "main_content_outlinks": [
         "/",
         "/brazil/",
         "/colombia/",
+        "/colombia/amacayacu/",
         "/colombia/leticia/",
         "/colombia/puerto-narino/",
+        "/colombia/tarapoto-lakes/",
         "/contact/",
         "/ecuador/",
         "/peru/"
@@ -101,18 +147,56 @@
     },
     {
       "route": "/colombia/puerto-narino/",
-      "main_words": 1597,
+      "main_words": 1605,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/colombia/",
+        "/colombia/amacayacu/",
+        "/colombia/plan-your-amazon-trip/",
+        "/colombia/leticia/",
+        "/colombia/tarapoto-lakes/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/colombia/",
+        "/colombia/amacayacu/",
+        "/colombia/leticia/",
+        "/colombia/plan-your-amazon-trip/",
+        "/colombia/tarapoto-lakes/",
+        "/contact/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/colombia.css?v=0f354fdc580d"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/colombia/tarapoto-lakes/",
+      "main_words": 1592,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/colombia/",
+        "/colombia/puerto-narino/",
+        "/colombia/amacayacu/",
         "/colombia/plan-your-amazon-trip/",
         "/colombia/leticia/"
       ],
       "main_content_outlinks": [
         "/",
         "/colombia/",
+        "/colombia/amacayacu/",
         "/colombia/leticia/",
         "/colombia/plan-your-amazon-trip/",
+        "/colombia/puerto-narino/",
         "/contact/"
       ],
       "css": [
@@ -131,17 +215,21 @@
     },
     {
       "route": "/es/colombia/",
-      "main_words": 1745,
+      "main_words": 1755,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/",
         "/es/colombia/puerto-narino/",
+        "/es/colombia/lagos-de-tarapoto/",
+        "/es/colombia/amacayacu/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
         "/es/colombia/leticia/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/brazil/",
+        "/es/colombia/amacayacu/",
+        "/es/colombia/lagos-de-tarapoto/",
         "/es/colombia/leticia/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
         "/es/colombia/puerto-narino/",
@@ -164,17 +252,89 @@
       "issues": []
     },
     {
-      "route": "/es/colombia/leticia/",
-      "main_words": 1780,
+      "route": "/es/colombia/amacayacu/",
+      "main_words": 1796,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/colombia/",
         "/es/colombia/puerto-narino/",
+        "/es/colombia/lagos-de-tarapoto/",
+        "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/colombia/leticia/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/colombia/",
+        "/es/colombia/lagos-de-tarapoto/",
+        "/es/colombia/leticia/",
+        "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/colombia/puerto-narino/",
+        "/es/contacto/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/colombia.css?v=0f354fdc580d"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/colombia/lagos-de-tarapoto/",
+      "main_words": 1834,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/colombia/",
+        "/es/colombia/puerto-narino/",
+        "/es/colombia/amacayacu/",
+        "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/colombia/leticia/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/colombia/",
+        "/es/colombia/amacayacu/",
+        "/es/colombia/leticia/",
+        "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/colombia/puerto-narino/",
+        "/es/contacto/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/colombia.css?v=0f354fdc580d"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/colombia/leticia/",
+      "main_words": 1790,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/colombia/",
+        "/es/colombia/puerto-narino/",
+        "/es/colombia/lagos-de-tarapoto/",
+        "/es/colombia/amacayacu/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/colombia/",
+        "/es/colombia/amacayacu/",
+        "/es/colombia/lagos-de-tarapoto/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
         "/es/colombia/puerto-narino/",
         "/es/contacto/"
@@ -195,17 +355,21 @@
     },
     {
       "route": "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
-      "main_words": 1731,
+      "main_words": 1741,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/colombia/",
         "/es/colombia/puerto-narino/",
+        "/es/colombia/lagos-de-tarapoto/",
+        "/es/colombia/amacayacu/",
         "/es/colombia/leticia/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/brazil/",
         "/es/colombia/",
+        "/es/colombia/amacayacu/",
+        "/es/colombia/lagos-de-tarapoto/",
         "/es/colombia/leticia/",
         "/es/colombia/puerto-narino/",
         "/es/contacto/",
@@ -228,16 +392,20 @@
     },
     {
       "route": "/es/colombia/puerto-narino/",
-      "main_words": 1797,
+      "main_words": 1808,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/colombia/",
+        "/es/colombia/lagos-de-tarapoto/",
+        "/es/colombia/amacayacu/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
         "/es/colombia/leticia/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/colombia/",
+        "/es/colombia/amacayacu/",
+        "/es/colombia/lagos-de-tarapoto/",
         "/es/colombia/leticia/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
         "/es/contacto/"

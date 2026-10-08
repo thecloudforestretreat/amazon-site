@@ -1,0 +1,848 @@
+{
+  "editorial_status": "reviewed",
+  "review_date": "2026-10-08",
+  "images": {
+    "amazon-meandering-river-forest-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-meandering-river-forest-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Overhead view of a meandering river and dense forest",
+        "es": "Vista aérea de un río sinuoso y bosque denso"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "a1e97aa25fc6df7f93c10e1788fb0b2cc89b6267c9452399fc5980429a1ab921",
+      "web_sha256": "2326d50fbc88176447ba1685ef2bdf9376b5425667da0470822a3a8ed85f96fe",
+      "original_bytes": 670865,
+      "web_bytes": 512448
+    },
+    "amazon-river-palm-forest": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-river-palm-forest.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Palms and dense forest along a riverbank",
+        "es": "Palmeras y bosque denso junto a la orilla de un río"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "b1be430192a6e7d2a6f87feb13dd7bc6bdb89b0983d5c48a005356db5807741f",
+      "web_sha256": "ab9feee6239a89246f52c0eb2beba9343c94a8bd572d457d0b639618521db197",
+      "original_bytes": 659469,
+      "web_bytes": 508908
+    },
+    "amazon-blue-and-yellow-macaws-portrait": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-blue-and-yellow-macaws-portrait.webp",
+      "width": 1440,
+      "height": 1800,
+      "alt": {
+        "en": "Blue-and-yellow macaws perched in a tree",
+        "es": "Guacamayos azules y amarillos posados en un árbol"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c655d027f0b3800fa46eddf0ff3ecbf3ef59701a4612f7108960a7a2be2006ed",
+      "web_sha256": "546f39d9dc611b043ec623bb6bb9f71ea752cf4da637ddc3a4fa0db19f893100",
+      "original_bytes": 495727,
+      "web_bytes": 476398
+    },
+    "amazon-forest-island-channels-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-forest-island-channels-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Forest-covered islands separated by dark river channels",
+        "es": "Islas cubiertas de bosque separadas por canales fluviales oscuros"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "cf89c0af136837a31eb9d92e79db30d4f621405ee7219a863ff612b42396ef63",
+      "web_sha256": "f47b1ea9681739a8bf2bb3c6aca5f2b4c7a337f5eb2d23d4f5594eb0b904c8ce",
+      "original_bytes": 634815,
+      "web_bytes": 524420
+    },
+    "amazon-canoe-floating-vegetation": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-canoe-floating-vegetation.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "A paddler guiding a canoe through floating vegetation",
+        "es": "Persona guiando una canoa entre vegetación flotante"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c07bce58422bec9dfba2bd58c733f908bacd634b6b12e5daaa3c5e808ccd3b0a",
+      "web_sha256": "3c95b2955c2852c4d7bccb22a390eaca6b27af4b4c12f6319cf3e6a9185b8d3a",
+      "original_bytes": 861832,
+      "web_bytes": 705686
+    },
+    "amazon-canoe-sunset-silhouette": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-canoe-sunset-silhouette.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Silhouette of a canoe and paddlers at sunset",
+        "es": "Silueta de una canoa y sus ocupantes al atardecer"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "77e424bf7ae95d23bf2aaa7928822e11a47ce3481ed0cf3b0e4f5ce3e20829a7",
+      "web_sha256": "2fbc3be105789df4f84ff5c90bf75abfb8412d86d7a2e6de695500898f1707e6",
+      "original_bytes": 298208,
+      "web_bytes": 177642
+    }
+  },
+  "pages": {
+    "amacayacu": {
+      "en": {
+        "type": "destination-guide",
+        "pair_id": "colombia_amacayacu_001",
+        "hero": [
+          "amazon-meandering-river-forest-aerial",
+          "Overhead view of a meandering river and dense forest"
+        ],
+        "features": {
+          "1": [
+            "amazon-river-palm-forest",
+            "Palms and dense forest along a riverbank"
+          ],
+          "4": [
+            "amazon-blue-and-yellow-macaws-portrait",
+            "Blue-and-yellow macaws perched in a tree"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Official Amacayacu park guidance",
+            "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-amacayacu/"
+          ]
+        ],
+        "scope": "Planning guidance reviewed October 8, 2026. Confirm current transport, community and park arrangements with the relevant providers and authorities. This guide does not confirm availability, prices or a booking.",
+        "slug": "amacayacu",
+        "h1": "Amacayacu: forest and community visits",
+        "title": "Amacayacu National Park Travel Guide | Experience The Amazon",
+        "description": "Plan an Amacayacu visit with local guiding, community arrangements, river transfers and clear entry and service inclusions.",
+        "lede": "Build a forest visit around the receiving community, the guide and the route actually offered. Connect the river journey with enough time for interpretation and an agreed return.",
+        "quick": [
+          "What should you confirm before visiting?",
+          "The park was listed open at our October 8, 2026 review. Confirm your specific route, community arrangements, guide, registration and separate service costs before booking."
+        ],
+        "choices_heading": "Fit this experience into your journey",
+        "choices": [
+          [
+            "Gateway arrangements",
+            "Coordinate the arrival and river departure through Leticia.",
+            "/colombia/leticia/"
+          ],
+          [
+            "Upstream stays",
+            "Compare the overnight rhythm in Puerto Nariño.",
+            "/colombia/puerto-narino/"
+          ],
+          [
+            "Compare the other setting",
+            "Balance wetland observation and forest interpretation.",
+            "/colombia/tarapoto-lakes/"
+          ]
+        ],
+        "links": [
+          [
+            "/colombia/",
+            "Colombia overview"
+          ],
+          [
+            "/colombia/plan-your-amazon-trip/",
+            "Trip planning"
+          ],
+          [
+            "/colombia/leticia/",
+            "Leticia"
+          ],
+          [
+            "/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/contact/",
+            "Share your plans"
+          ],
+          [
+            "/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/colombia/tarapoto-lakes/",
+            "Tarapoto lakes"
+          ]
+        ],
+        "context_links": [
+          [
+            "Colombia overview",
+            "/colombia/"
+          ],
+          [
+            "Colombia trip-planning guide",
+            "/colombia/plan-your-amazon-trip/"
+          ],
+          [
+            "Leticia guide",
+            "/colombia/leticia/"
+          ],
+          [
+            "Puerto Nariño guide",
+            "/colombia/puerto-narino/"
+          ],
+          [
+            "Amacayacu guide",
+            "/colombia/amacayacu/"
+          ],
+          [
+            "an inquiry",
+            "/contact/"
+          ]
+        ],
+        "cta": [
+          "Plan your Amacayacu visit",
+          "Share your dates, group size, preferred pace and practical needs. Tell us how this experience fits with the rest of your Colombian Amazon journey."
+        ],
+        "faqs": [
+          [
+            "Is Amacayacu open?",
+            "The official park page listed it as open at our October 8, 2026 review. Confirm the specific route and current visit arrangements before booking; status alone does not establish availability."
+          ],
+          [
+            "Does park admission include guiding and transport?",
+            "Do not assume it does. Request entry, guiding, boat transport, meals and accommodation as separate identified items in the current quote."
+          ],
+          [
+            "Which community should receive our visit?",
+            "Ask the organizer to identify the receiving community and agreed activity. Mocagua and San Martín are distinct arrangements; one visit does not automatically include both."
+          ],
+          [
+            "Can we expect particular wildlife?",
+            "No sighting should be guaranteed. Choose suitable habitats, patient observation and interpretation, and follow guidance without feeding wildlife or seeking captive displays."
+          ]
+        ],
+        "sections": [
+          [
+            "A protected forest, visited through local arrangements",
+            "Amacayacu is a national park in Colombia’s southern Amazon. The park authority lists it as open at our October 8, 2026 review, but that status does not confirm an individual excursion or every route. Start with the actual activity, host community and entry arrangements proposed for your dates. A package carrying the park’s name should explain where the visit takes place and how it is organized.",
+            "Use the Colombia overview to place Amacayacu within the wider circuit. A protected-area visit can complement a town or river stay when it adds focused interpretation and time in the intended habitat. Ask whether the proposal includes park entry, a community visit, an overnight stay or a combination. These are different services and should be described clearly rather than bundled under an attractive destination label."
+          ],
+          [
+            "Mocagua and San Martín are distinct arrangements",
+            "The official park page identifies community ecotourism services in Mocagua and San Martín de Amacayacu. For a traveler, the important point is to know which community receives you and who coordinates the visit. Ask for that information before choosing accommodation or transport. Do not assume a visit organized through one community includes the services, trails or overnight arrangements offered by another.",
+            "Explain whether you want a forest walk, local interpretation or more time with hosts. Let the organizer identify what can be agreed and what is available for your dates. A respectful visit leaves room for the community to determine its format and boundaries. It should not require private ceremonies, unrestricted photography or access to spaces that the hosts have not offered to visitors."
+          ],
+          [
+            "Connect the river transfer to the visit",
+            "Leticia is a starting point for the river journey toward the park’s communities. The park authority notes that lower water can alter transfer arrangements. Ask the provider to confirm the planned landing, any onward boat leg and the person meeting you. Treat the whole journey as one coordinated sequence rather than booking a boat independently and expecting the community to receive you without an agreed arrival.",
+            "The Leticia guide helps plan the gateway portion. For an onward stay in Puerto Nariño, ask how the park visit fits between the two bases and who handles luggage during the excursion. Request current arrangements rather than relying on an old duration or frequency. A transfer should leave useful activity time and a clear return, especially when the visit is part of a short itinerary."
+          ],
+          [
+            "Separate entry from the services you need",
+            "A park admission charge should not be mistaken for an all-inclusive excursion price. Ask for a written breakdown identifying entry, guiding, boat transport, meals and accommodation where applicable. Confirm what you pay in advance and what is settled locally. Compare proposals using the same service list so an apparently cheaper quote does not simply omit the arrangements needed to carry out the visit.",
+            "Ask who confirms registration and any required introduction before the activity. Check current requirements directly with the relevant organizer and park authority before travel. Avoid adding a published fee to an old package price and treating the result as a reliable budget. The useful comparison is the current total for your group, with inclusions and change terms attached to the specific services being booked."
+          ],
+          [
+            "Choose a walk around what you want to learn",
+            "For a forest visit, describe your interests as well as your stamina. An interpretive walk can focus on plants, forest structure, animal signs or the relationship between local knowledge and the landscape. Ask the guide what the proposed route emphasizes. A long distance is not necessary for a meaningful encounter when the pace allows explanations, questions and attention to details that would be missed while rushing.",
+            "Clarify the expected duration, terrain and chances to rest. Tell the organizer if steps, mud, uneven ground or heat are difficult for anyone in the group. Confirm whether an easier route is available rather than assuming a general activity label covers every ability. Pack for the agreed plan and ask which equipment is provided, particularly when a proposal combines a walk with another boat leg."
+          ],
+          [
+            "Let local interpretation shape the encounter",
+            "A local guide can connect a route with its cultural setting when the visit is arranged appropriately. Ask which language is used and whether interpretation into your preferred language is included. Give conversation time within the schedule instead of squeezing it between transfers. Discuss the intended encounter with the organizer so expectations are understood by hosts and travelers before the group arrives.",
+            "Request permission before portraits and respect a refusal. If craft purchases interest you, ask how they fit into the visit without creating an obligation to buy. Avoid products made from wildlife parts. The experience should support the hosts’ agreed participation and leave ordinary community life its privacy. A clear arrangement is more valuable than a brochure promising unlimited cultural access or a sequence of staged photo opportunities."
+          ],
+          [
+            "Observe wildlife without turning it into a performance",
+            "Wildlife viewing depends on the animals and the conditions encountered. Choose patient observation and interpretation rather than an itinerary that promises a particular mammal or bird at a fixed moment. Ask what habitats the activity explores and how long the group remains there. Animal photographs help communicate interests, but they do not establish what the guide can deliver on a specific departure.",
+            "Follow the guide’s approach to distance and quiet observation. Do not feed wild animals or choose activities based on captive wildlife displays. For photography, discuss practical viewing needs before the trip: longer stops, fewer moves and time to watch can be more useful than collecting many short encounters. Accept an alternative route when conditions require it, and keep the group’s priority clear without demanding a guaranteed sighting."
+          ],
+          [
+            "Decide whether a night adds something useful",
+            "An overnight can make sense if it supports a different activity rhythm or gives time for an agreed experience. It is less useful when it adds a move without creating meaningful exploration time. Ask the provider to compare a day visit with an overnight plan, identifying the accommodation, activity periods and onward transfer. Do not infer the room setting from a generic forest photograph or the park name.",
+            "Use the Colombia trip-planning guide to compare the full sequence of nights. Ask about the actual room, bathroom, meals, drinking water and charging arrangements before accepting a remote stay. If you need to return to Leticia for an onward departure, have that connection reviewed together with the park visit. The last morning should be practical, with a known pickup and space for the return journey."
+          ],
+          [
+            "Confirm the plan and carry out a low-impact visit",
+            "Before booking, identify the receiving community, guide language, activity route and services in writing. Ask which elements are confirmed and which depend on conditions. Keep the relevant contacts and meeting points available offline. Confirm cancellation and change terms with the provider so that a revised transfer or unavailable activity is handled through an understood arrangement rather than a disagreement on arrival.",
+            "Send an inquiry with your travel dates, group size and whether Amacayacu is a day visit or part of an overnight journey. Include mobility and accommodation needs. During the visit, follow local instructions, keep noise low and take your waste back to an appropriate disposal point. Those practical choices preserve the quality of the encounter and help the itinerary fit the landscape and the people receiving you."
+          ]
+        ]
+      },
+      "es": {
+        "type": "destination-guide",
+        "pair_id": "colombia_amacayacu_001",
+        "hero": [
+          "amazon-meandering-river-forest-aerial",
+          "Vista aérea de un río sinuoso y bosque denso"
+        ],
+        "features": {
+          "1": [
+            "amazon-river-palm-forest",
+            "Palmeras y bosque denso junto a la orilla de un río"
+          ],
+          "4": [
+            "amazon-blue-and-yellow-macaws-portrait",
+            "Guacamayos azules y amarillos posados en un árbol"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Official Amacayacu park guidance",
+            "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-amacayacu/"
+          ]
+        ],
+        "scope": "Orientación revisada el 8 de octubre de 2026. Confirme las condiciones actuales de transporte y visitas con los proveedores y las autoridades competentes. Esta guía no confirma disponibilidad, precios ni reservas.",
+        "slug": "amacayacu",
+        "h1": "Amacayacu: visitas a la selva y sus comunidades",
+        "title": "Amacayacu: guía de visita | Experience The Amazon",
+        "description": "Planifique Amacayacu con guía local, visitas acordadas con las comunidades, traslados fluviales y costos de entrada y servicios claros.",
+        "lede": "Construya una visita a la selva en torno a la comunidad receptora, el guía y la ruta realmente ofrecida. Conecte el viaje por río con suficiente tiempo para la interpretación y un regreso acordado.",
+        "quick": [
+          "¿Qué debe confirmar antes de visitar?",
+          "El parque fue indicado como abierto en nuestra revisión del 8 de octubre de 2026. Confirme su ruta específica, condiciones comunitarios, guía, registro y costos de los servicios separados antes de reservar."
+        ],
+        "choices_heading": "Ajuste esta experiencia a su viaje",
+        "choices": [
+          [
+            "Arreglos de acceso",
+            "Coordine la llegada y la salida por río a través de Leticia.",
+            "/es/colombia/leticia/"
+          ],
+          [
+            "Estancias aguas arriba",
+            "Compare el ritmo de las noches de alojamiento en Puerto Nariño.",
+            "/es/colombia/puerto-narino/"
+          ],
+          [
+            "Compare otro entorno",
+            "Equilibre la observación de humedales y la interpretación forestal.",
+            "/es/colombia/lagos-de-tarapoto/"
+          ]
+        ],
+        "links": [
+          [
+            "/es/colombia/",
+            "Resumen de Colombia"
+          ],
+          [
+            "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+            "Planificación del viaje"
+          ],
+          [
+            "/es/colombia/leticia/",
+            "Leticia"
+          ],
+          [
+            "/es/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/es/contacto/",
+            "Comparta sus planes"
+          ],
+          [
+            "/es/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/es/colombia/lagos-de-tarapoto/",
+            "Lagos de Tarapoto"
+          ]
+        ],
+        "context_links": [
+          [
+            "guía general de Colombia",
+            "/es/colombia/"
+          ],
+          [
+            "resumen de Colombia",
+            "/es/colombia/"
+          ],
+          [
+            "guía de planificación del viaje a Colombia",
+            "/es/colombia/planifica-tu-viaje-a-la-amazonia/"
+          ],
+          [
+            "guía de Leticia",
+            "/es/colombia/leticia/"
+          ],
+          [
+            "guía de Puerto Nariño",
+            "/es/colombia/puerto-narino/"
+          ],
+          [
+            "guía de Amacayacu",
+            "/es/colombia/amacayacu/"
+          ],
+          [
+            "una consulta",
+            "/es/contacto/"
+          ]
+        ],
+        "cta": [
+          "Planifique su visita a Amacayacu",
+          "Comparta sus fechas, tamaño del grupo, ritmo preferido y necesidades prácticas. Cuéntenos cómo encaja esta experiencia con el resto de su viaje por el Amazonía colombiana."
+        ],
+        "faqs": [
+          [
+            "¿Está abierto Amacayacu?",
+            "La página oficial del parque lo indicaba como abierto en nuestra revisión del 8 de octubre de 2026. Confirme la ruta específica y las condiciones actuales de visita antes de reservar; el estado por sí solo no establece disponibilidad."
+          ],
+          [
+            "¿La entrada al parque incluye guía y transporte?",
+            "No asuma que lo hace. Solicite la entrada, los servicios de guía, el transporte en bote, comidas y alojamiento como elementos identificados por separado en la cotización actual."
+          ],
+          [
+            "¿Qué comunidad debe recibir nuestra visita?",
+            "Pida al organizador que identifique la comunidad receptora y la actividad acordada. Mocagua y San Martín requieren visitas acordadas por separado; una visita no incluye automáticamente a ambas."
+          ],
+          [
+            "¿Podemos esperar ver fauna en particular?",
+            "No se debe garantizar ningún avistamiento. Elija hábitats adecuados, observación paciente e interpretación, y siga las indicaciones sin alimentar a la fauna ni buscar exhibiciones de animales cautivos."
+          ]
+        ],
+        "sections": [
+          [
+            "Una selva protegida con visitas acordadas localmente",
+            "Amacayacu es un parque nacional en el sur de la Amazonía colombiana. La autoridad del parque lo indica como abierto en nuestra revisión del 8 de octubre de 2026, pero ese estado no confirma una excursión individual ni cada ruta. Comience con la actividad real, la comunidad anfitriona y las condiciones de ingreso propuestos para sus fechas. Un paquete que lleve el nombre del parque debe explicar dónde tiene lugar la visita y cómo se organiza.",
+            "Utilice el resumen de Colombia para situar a Amacayacu dentro del circuito más amplio. Una visita a un área protegida puede complementar una estancia en pueblo o río cuando añade interpretación enfocada y tiempo en el hábitat previsto. Pregunte si la propuesta incluye la entrada al parque, una visita comunitaria, una noche de alojamiento o una combinación. Estos son servicios diferentes y deben describirse claramente en lugar de agruparse bajo una etiqueta de destino atractiva."
+          ],
+          [
+            "Mocagua y San Martín: visitas con condiciones diferentes",
+            "La página oficial del parque identifica servicios de ecoturismo comunitario en Mocagua y San Martín de Amacayacu. Para un viajero, el punto importante es saber qué comunidad lo recibe y quién coordina la visita. Solicite esa información antes de elegir alojamiento o transporte. No asuma que una visita organizada a través de una comunidad incluye los servicios, senderos o condiciones de noche de alojamiento ofrecidos por otra.",
+            "Explique si desea un paseo por el bosque, interpretación local o más tiempo con los anfitriones. Permita al organizador identificar lo que se puede acordar y lo que está disponible para sus fechas. Una visita respetuosa deja espacio a la comunidad para determinar su formato y límites. No debe requerir ceremonias privadas, fotografía sin restricciones ni acceso a espacios que los anfitriones no han ofrecido a los visitantes."
+          ],
+          [
+            "Conecte el traslado fluvial con la visita",
+            "Leticia es un punto de partida para el viaje por río hacia las comunidades del parque. La autoridad del parque señala que el nivel bajo del agua puede alterar las condiciones de traslado. Pida al proveedor que confirme el desembarco previsto, cualquier tramo posterior en bote y la persona que lo recibirá. Trate todo el viaje como una secuencia coordinada en lugar de reservar un bote por separado y esperar que la comunidad lo reciba sin una llegada acordada.",
+            "La guía de Leticia ayuda a planificar la parte de acceso. Para una estancia posterior en Puerto Nariño, pregunte cómo encaja la visita al parque entre las dos bases y quién maneja el equipaje durante la excursión. Solicite condiciones actuales en lugar de depender de una duración o frecuencia antigua. Un traslado debe dejar tiempo útil para actividades y un regreso claro, especialmente cuando la visita forma parte de un itinerario corto."
+          ],
+          [
+            "Separe la entrada de los servicios que necesita",
+            "Una tarifa de admisión al parque no debe confundirse con el precio de una excursión todo incluido. Solicite un desglose escrito que identifique la entrada, los servicios de guía, el transporte en bote, comidas y alojamiento cuando corresponda. Confirme qué paga por adelantado y qué se liquida localmente. Compare propuestas utilizando la misma lista de servicios para que una cotización aparentemente más barata no omita simplemente las condiciones necesarios para realizar la visita.",
+            "Pregunte quién confirma el registro y cualquier introducción requerida antes de la actividad. Verifique los requisitos actuales directamente con el organizador responsable y la autoridad del parque antes de viajar. Evite sumar una tarifa publicada a un precio de paquete antiguo y tratar el resultado como un presupuesto confiable. La comparación útil es el total actual para su grupo, con inclusiones y términos de cambio adjuntos a los servicios específicos que se están reservando."
+          ],
+          [
+            "Elija una caminata según lo que desea aprender",
+            "Para una visita a la selva, describa sus intereses así como su capacidad física. Un paseo interpretativo puede centrarse en plantas, estructura forestal, señales animales o la relación entre el conocimiento local y el paisaje. Pregunte al guía qué enfatiza la ruta propuesta. Una distancia larga no es necesaria para un encuentro significativo cuando el ritmo permite explicaciones, preguntas y atención a detalles que se perderían corriendo.",
+            "Aclare la duración esperada, el terreno y las oportunidades de descanso. Dígale al organizador si los escalones, lodo, terreno irregular o el calor son difíciles para alguien en el grupo. Confirme si hay una ruta más fácil disponible en lugar de asumir que una etiqueta de actividad general cubre todas las capacidades. Empaque según el plan acordado y pregunte qué equipo se proporciona, particularmente cuando una propuesta combina un paseo con otro tramo en bote."
+          ],
+          [
+            "Deje que la interpretación local moldee el encuentro",
+            "Un guía local puede conectar una ruta con su contexto cultural cuando la visita se organiza apropiadamente. Pregunte qué idioma se usa y si la interpretación a su idioma preferido está incluida. Dé tiempo para la conversación dentro del horario en lugar de apretarla entre traslados. Comente el encuentro previsto con el organizador para que las expectativas sean comprendidas por anfitriones y viajeros antes de que llegue el grupo.",
+            "Solicite permiso antes de los retratos y respete un rechazo. Si le interesan las compras de artesanías, pregunte cómo encajan en la visita sin crear una obligación de comprar. Evite productos hechos con partes de fauna silvestre. La experiencia debe apoyar la participación acordada de los anfitriones y dejar a la vida comunitaria ordinaria su privacidad. Un acuerdo claro es más valioso que un folleto que prometa acceso cultural ilimitado o una secuencia de oportunidades fotográficas escenificadas."
+          ],
+          [
+            "Observe la fauna sin convertirla en un espectáculo",
+            "La observación de fauna depende de los animales y las condiciones encontradas. Elija observación paciente e interpretación en lugar de un itinerario que prometa un mamífero o ave particular en un momento fijo. Pregunte qué hábitats explora la actividad y cuánto tiempo permanece el grupo allí. Las fotografías de animales ayudan a comunicar intereses, pero no establecen lo que puede ofrecer el guía en una salida específica.",
+            "Siga el enfoque del guía para la distancia y la observación silenciosa. No alimente a los animales salvajes ni elija actividades basadas en exhibiciones de fauna cautiva. Para la fotografía, comente las necesidades prácticas de observación antes del viaje: paradas más largas, menos movimientos y tiempo para observar pueden ser más útiles que recopilar muchos encuentros cortos. Acepte una ruta alternativa cuando las condiciones lo requieran y mantenga clara la prioridad del grupo sin exigir un avistamiento garantizado."
+          ],
+          [
+            "Decida si una noche añade algo útil",
+            "Una noche de alojamiento puede tener sentido si apoya un ritmo de actividad diferente o da tiempo para una experiencia acordada. Es menos útil cuando añade un movimiento sin crear tiempo significativo de exploración. Pida al proveedor que compare una visita de día con un plan de noche de alojamiento, identificando el alojamiento, periodos de actividad y traslado posterior. No infiera la configuración de la habitación a partir de una fotografía genérica de selva o del nombre del parque.",
+            "Utilice la guía de planificación del viaje a Colombia para comparar la secuencia completa de noches. Pregunte sobre la habitación real, baño, comidas, agua potable y opciones para cargar equipos antes de aceptar una estancia remota. Si necesita regresar a Leticia para una salida posterior, revise esa conexión junto con la visita al parque. La última mañana debe ser práctica, con un punto de recogida confirmado y espacio para el viaje de regreso."
+          ],
+          [
+            "Confirme el plan y cuide el entorno durante la visita",
+            "Antes de reservar, identifique la comunidad receptora, idioma del guía, ruta de actividad y servicios por escrito. Pregunte qué elementos están confirmados y cuáles dependen de las condiciones. Mantenga los contactos relevantes y puntos de encuentro disponibles sin conexión a internet. Confirme términos de cancelación y cambio con el proveedor para que un traslado revisado o una actividad no disponible se maneje a través de un acuerdo claro en lugar de un desacuerdo al llegar.",
+            "Envíe una consulta con sus fechas de viaje, tamaño del grupo y si Amacayacu es una visita de día o parte de un viaje de noche de alojamiento. Incluya necesidades de movilidad y alojamiento. Durante la visita, siga las instrucciones locales, mantenga el ruido bajo y lleve sus residuos a un punto adecuado para desecharlos. Esas elecciones prácticas preservan la calidad del encuentro y ayudan al itinerario a encajar con el paisaje y las personas que lo reciben."
+          ]
+        ]
+      }
+    },
+    "tarapoto": {
+      "en": {
+        "type": "destination-guide",
+        "pair_id": "colombia_tarapoto_001",
+        "hero": [
+          "amazon-forest-island-channels-aerial",
+          "Forest-covered islands separated by dark river channels"
+        ],
+        "features": {
+          "1": [
+            "amazon-canoe-floating-vegetation",
+            "A paddler guiding a canoe through floating vegetation"
+          ],
+          "4": [
+            "amazon-canoe-sunset-silhouette",
+            "Silhouette of a canoe and paddlers at sunset"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Colombia Travel: Puerto Nariño and Tarapoto",
+            "https://colombia.travel/es/puerto-narino"
+          ],
+          [
+            "Colombia environment ministry: Tarapoto restoration",
+            "https://www.minambiente.gov.co/lagos-de-tarapoto-ejemplo-de-restauracion-ecologica/"
+          ]
+        ],
+        "scope": "Planning guidance reviewed October 8, 2026. Confirm current transport, community and park arrangements with the relevant providers and authorities. This guide does not confirm availability, prices or a booking.",
+        "slug": "tarapoto-lakes",
+        "h1": "Tarapoto lakes: plan a Colombian Amazon outing",
+        "title": "Tarapoto Lakes Colombia Travel Guide | Experience The Amazon",
+        "description": "Plan Colombia’s Tarapoto lakes from Puerto Nariño: wetland outings, patient dolphin observation, boat arrangements and onward connections.",
+        "lede": "Give this wetland outing time for observation and local interpretation. Compare a day visit from Leticia with staying upstream in Puerto Nariño, and confirm the actual boat experience.",
+        "quick": [
+          "What should you confirm before visiting?",
+          "These are the Colombian lakes near Puerto Nariño, not the Peruvian city of Tarapoto. Confirm the boat route, guiding and usable lake time; dolphin sightings cannot be guaranteed."
+        ],
+        "choices_heading": "Fit this experience into your journey",
+        "choices": [
+          [
+            "Gateway arrangements",
+            "Coordinate the arrival and river departure through Leticia.",
+            "/colombia/leticia/"
+          ],
+          [
+            "Upstream stays",
+            "Compare the overnight rhythm in Puerto Nariño.",
+            "/colombia/puerto-narino/"
+          ],
+          [
+            "Compare the other setting",
+            "Balance wetland observation and forest interpretation.",
+            "/colombia/amacayacu/"
+          ]
+        ],
+        "links": [
+          [
+            "/colombia/",
+            "Colombia overview"
+          ],
+          [
+            "/colombia/plan-your-amazon-trip/",
+            "Trip planning"
+          ],
+          [
+            "/colombia/leticia/",
+            "Leticia"
+          ],
+          [
+            "/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/contact/",
+            "Share your plans"
+          ],
+          [
+            "/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/colombia/tarapoto-lakes/",
+            "Tarapoto lakes"
+          ]
+        ],
+        "context_links": [
+          [
+            "Colombia overview",
+            "/colombia/"
+          ],
+          [
+            "Colombia trip-planning guide",
+            "/colombia/plan-your-amazon-trip/"
+          ],
+          [
+            "Leticia guide",
+            "/colombia/leticia/"
+          ],
+          [
+            "Puerto Nariño guide",
+            "/colombia/puerto-narino/"
+          ],
+          [
+            "Amacayacu guide",
+            "/colombia/amacayacu/"
+          ],
+          [
+            "an inquiry",
+            "/contact/"
+          ]
+        ],
+        "cta": [
+          "Plan your Tarapoto lakes visit",
+          "Share your dates, group size, preferred pace and practical needs. Tell us how this experience fits with the rest of your Colombian Amazon journey."
+        ],
+        "faqs": [
+          [
+            "Are these lakes near the city of Tarapoto in Peru?",
+            "No. This guide covers the Colombian Tarapoto lakes near Puerto Nariño in Amazonas. Use that base when planning accommodation and transport."
+          ],
+          [
+            "Where does the lake excursion start?",
+            "Confirm the actual pickup and boarding point with the provider. Puerto Nariño is the planning reference; a visit from Leticia also needs coordinated gateway transfers."
+          ],
+          [
+            "Are dolphin sightings guaranteed?",
+            "No. Allow time for observation and choose respectful distance. The wetland setting and interpretation remain part of the outing even without a sighting."
+          ],
+          [
+            "Can we combine the lakes with Amacayacu?",
+            "It is a planning option, subject to current availability and arrangements. Compare the transfer sequence and activity time so each setting has a clear purpose."
+          ]
+        ],
+        "sections": [
+          [
+            "Tarapoto is a Colombian Amazon wetland",
+            "The Tarapoto lakes near Puerto Nariño belong to a wetland landscape in Colombia’s Amazonas department. They should not be confused with the city of Tarapoto in Peru. Colombia’s tourism board describes the lake outing as a boat journey from Puerto Nariño. Start by identifying that base and the proposed route so searches, accommodation bookings and transport enquiries all refer to the same Colombian destination.",
+            "The Colombia overview helps place the lakes within an Amazon journey through Leticia and Puerto Nariño. Treat Tarapoto as an experience with a purpose rather than an extra name on a checklist. Decide whether you want patient wildlife observation, landscape time or a gentler river outing. Those priorities determine how much time to allow and what questions to ask about the boat and guiding."
+          ],
+          [
+            "Understand the wider wetland setting",
+            "Colombia’s environment ministry describes Tarapoto as a Ramsar wetland and documents restoration work involving local communities in a December 2020 article. This is conservation context, not a current excursion offer. Approach the area as a living landscape rather than a wildlife stage. Ask how the proposed outing respects the access arrangements and local guidance for its route, without assuming that a designation makes every part of the wetland available to visitors.",
+            "Ask the guide to explain the connection between the lake, surrounding vegetation and river system. Interpretation can make a quiet outing rewarding even when animals remain distant or hidden. Notice changes in the shoreline, sounds and viewing perspectives rather than judging the entire visit by one photograph. Leave space for the guide’s knowledge and avoid assuming that every part of the wetland complex is a visitor route."
+          ],
+          [
+            "Use Puerto Nariño as the planning reference",
+            "The Puerto Nariño guide explains the upstream base. For the lake outing, confirm where you meet the guide, how you reach the boat and where the trip returns. Ask whether the quoted excursion starts at your accommodation or at a landing you must reach independently. A short connection still needs a clear meeting point, especially when the group includes children or someone who needs boarding assistance.",
+            "If you are visiting from Leticia for the day, ask how much lake time remains after both gateway transfers. Compare that with an overnight upstream rather than assuming the two options provide the same experience. The relevant question is the useful observation period, not just whether Tarapoto appears in both itineraries. Confirm who coordinates the segments so a changed boat arrangement does not leave the group without a clear return."
+          ],
+          [
+            "Dolphin observation needs patience and distance",
+            "Colombia’s tourism board identifies dolphin viewing among Tarapoto’s attractions. That describes an opportunity, not a guaranteed encounter on every departure. Ask how much time is devoted to observation and what the outing offers when dolphins are not visible. A satisfying plan includes the wetland setting and guiding, rather than depending entirely on a single species appearing close to the boat.",
+            "Discuss a respectful approach before setting out. Keep distance, follow the guide’s instructions and avoid pursuing, feeding or attempting to touch wildlife for a photograph. Choose patience over repeated changes of position simply to obtain a closer view. If observation is your main priority, tell the organizer so it can shape the pace; a packed schedule of short stops may not provide the time you want."
+          ],
+          [
+            "Choose the boat experience that fits the group",
+            "Ask which craft is proposed and what the journey involves. A canoe outing and a motorized transfer can create different rhythms, but availability and suitability depend on the route and conditions. Confirm seating, boarding, luggage and any equipment provided before booking. Do not assume a photograph establishes the boat you will use or that every traveler can comfortably participate in the same format.",
+            "Explain mobility needs and the group’s preferred pace early. Ask about shade or exposure, breaks and the duration away from the base. For children, clarify the arrangements offered for the planned craft and group. Choose the activity by the practical experience it provides, not by how adventurous a name sounds. If a different boat or route is needed, discuss its effect on the experience before accepting the change."
+          ],
+          [
+            "Ask what water conditions change",
+            "Water conditions can affect the outing’s route and the way the landscape is viewed. Ask the local organizer what is feasible for your dates and which alternatives it uses when the original plan is unsuitable. Avoid choosing a month from a generic promise that it guarantees the best wildlife. The meaningful answer describes the actual activity options and how they fit your priorities under current conditions.",
+            "Keep some flexibility in the daily sequence while making the important services clear. A photography-focused group may prefer a longer observation session to another stop; a family may need a shorter outing and a reliable break. Ask which decisions are made before travel and which are adjusted locally. Flexibility works best when it protects the desired experience, rather than concealing an itinerary that was never properly explained."
+          ],
+          [
+            "Keep photography compatible with observation",
+            "Tell the guide whether you want landscape images, birds, distant wildlife or simply time to watch. These interests can require different positions and amounts of waiting. Keep camera equipment manageable within the craft and ask how to protect it during boarding and rain. A larger kit is not automatically helpful if handling it distracts from the activity or makes the group’s movement awkward.",
+            "Do not make a close encounter the measure of success. Reflections, forest edges and the relationship between water and vegetation can provide a rewarding visual story. When people appear in photographs, seek permission and respect private spaces. Follow local guidance on any proposed use of drones rather than assuming that bringing one gives permission to fly. The outing should work for everyone sharing the boat, including those who are not photographers."
+          ],
+          [
+            "Separate a lake outing from other visits",
+            "A proposal may combine Tarapoto with a community encounter or another stop. Ask what each component involves and whether it is agreed with the hosts. A lake excursion does not automatically include a cultural visit, a meal or access to private spaces. Decide whether the combination enriches the day or takes time away from the observation period you wanted when choosing the lakes.",
+            "For a wider nature-focused journey, compare the Amacayacu guide with the lake experience. A forest walk and a wetland outing can complement one another when each has enough time and an appropriate guide. Avoid merging them into a hurried sequence simply because both fit on a map. Request the transfer sequence and activity periods so the itinerary shows how the two settings provide different experiences."
+          ],
+          [
+            "Make the return part of the excursion",
+            "Confirm the return landing, included services and the contact who communicates changes. If the lake visit ends before an onward boat journey to Leticia, have the whole connection reviewed. Keep luggage and pickup arrangements clear rather than assuming the accommodation, excursion guide and transfer provider will coordinate without an agreed plan. A practical ending lets the group enjoy the outing without worrying about an uncertain next step.",
+            "Send an inquiry with your dates, group size and whether you will stay in Puerto Nariño or visit from Leticia. Explain your main interest in the lakes and any mobility or boat preferences. Ask for the current total with guiding, transport and other inclusions identified. Compare the usable time and experience offered before deciding, and keep the wetland’s living landscape at the center of the plan."
+          ]
+        ]
+      },
+      "es": {
+        "type": "destination-guide",
+        "pair_id": "colombia_tarapoto_001",
+        "hero": [
+          "amazon-forest-island-channels-aerial",
+          "Islas cubiertas de bosque separadas por canales fluviales oscuros"
+        ],
+        "features": {
+          "1": [
+            "amazon-canoe-floating-vegetation",
+            "Persona guiando una canoa entre vegetación flotante"
+          ],
+          "4": [
+            "amazon-canoe-sunset-silhouette",
+            "Silueta de una canoa y sus ocupantes al atardecer"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Colombia Travel: Puerto Nariño and Tarapoto",
+            "https://colombia.travel/es/puerto-narino"
+          ],
+          [
+            "Colombia environment ministry: Tarapoto restoration",
+            "https://www.minambiente.gov.co/lagos-de-tarapoto-ejemplo-de-restauracion-ecologica/"
+          ]
+        ],
+        "scope": "Orientación revisada el 8 de octubre de 2026. Confirme las condiciones actuales de transporte y visitas con los proveedores y las autoridades competentes. Esta guía no confirma disponibilidad, precios ni reservas.",
+        "slug": "lagos-de-tarapoto",
+        "h1": "Lagos de Tarapoto: una visita a la Amazonía colombiana",
+        "title": "Lagos de Tarapoto: guía de Colombia | Experience The Amazon",
+        "description": "Planifique los lagos de Tarapoto desde Puerto Nariño: observación de fauna, paseos en embarcación y conexiones por la Amazonía colombiana.",
+        "lede": "Dedique tiempo a esta salida por un humedal para la observación e interpretación local. Compare una visita de día desde Leticia con quedarse aguas arriba en Puerto Nariño, y confirme la experiencia real del bote.",
+        "quick": [
+          "¿Qué debe confirmar antes de visitar?",
+          "Estos son los lagos colombianos cerca de Puerto Nariño, no la ciudad peruana de Tarapoto. Confirme la ruta del bote, los servicios de guía y el tiempo útil en el lago; los avistamientos de delfines no están garantizados."
+        ],
+        "choices_heading": "Ajuste esta experiencia a su viaje",
+        "choices": [
+          [
+            "Arreglos de acceso",
+            "Coordene la llegada y la salida por río a través de Leticia.",
+            "/es/colombia/leticia/"
+          ],
+          [
+            "Estancias aguas arriba",
+            "Compare el ritmo de una noche en Puerto Nariño.",
+            "/es/colombia/puerto-narino/"
+          ],
+          [
+            "Compare otro entorno",
+            "Equilibre la observación de humedales y la interpretación del bosque.",
+            "/es/colombia/amacayacu/"
+          ]
+        ],
+        "links": [
+          [
+            "/es/colombia/",
+            "Resumen de Colombia"
+          ],
+          [
+            "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+            "Planificación del viaje"
+          ],
+          [
+            "/es/colombia/leticia/",
+            "Leticia"
+          ],
+          [
+            "/es/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/es/contacto/",
+            "Comparta sus planes"
+          ],
+          [
+            "/es/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/es/colombia/lagos-de-tarapoto/",
+            "Lagos de Tarapoto"
+          ]
+        ],
+        "context_links": [
+          [
+            "guía general de Colombia",
+            "/es/colombia/"
+          ],
+          [
+            "resumen de Colombia",
+            "/es/colombia/"
+          ],
+          [
+            "guía de planificación del viaje a Colombia",
+            "/es/colombia/planifica-tu-viaje-a-la-amazonia/"
+          ],
+          [
+            "guía de Leticia",
+            "/es/colombia/leticia/"
+          ],
+          [
+            "guía de Puerto Nariño",
+            "/es/colombia/puerto-narino/"
+          ],
+          [
+            "guía de Amacayacu",
+            "/es/colombia/amacayacu/"
+          ],
+          [
+            "una consulta",
+            "/es/contacto/"
+          ]
+        ],
+        "cta": [
+          "Planee su visita a los lagos de Tarapoto",
+          "Comparta sus fechas, tamaño del grupo, ritmo preferido y necesidades prácticas. Cuéntenos cómo encaja esta experiencia con el resto de su viaje por el Amazonía colombiana."
+        ],
+        "faqs": [
+          [
+            "¿Están estos lagos cerca de la ciudad de Tarapoto en Perú?",
+            "No. Esta guía cubre los lagos de Tarapoto en Colombia, cerca de Puerto Nariño en Amazonas. Utilice esa base para planificar el alojamiento y el transporte."
+          ],
+          [
+            "¿Dónde comienza la excursión al lago?",
+            "Confirme el punto real de recogida y abordaje con el proveedor. Puerto Nariño es la referencia de planificación; una visita desde Leticia también requiere traslados coordinadas de acceso."
+          ],
+          [
+            "¿Están garantizados los avistamientos de delfines?",
+            "No. Dedique tiempo a la observación y elija una distancia respetuosa. El entorno del humedal y la interpretación forman parte de la salida incluso sin un avistamiento."
+          ],
+          [
+            "¿Podemos combinar los lagos con Amacayacu?",
+            "Es una opción de planificación, sujeta a disponibilidad y condiciones actuales. Compare la secuencia de traslados y el tiempo de actividad para que cada entorno tenga un propósito claro."
+          ]
+        ],
+        "sections": [
+          [
+            "Tarapoto es un humedal del Amazonía colombiana",
+            "Los lagos de Tarapoto cerca de Puerto Nariño pertenecen a un paisaje de humedales en el departamento de Amazonas de Colombia. No deben confundirse con la ciudad de Tarapoto en Perú. La oficina de turismo de Colombia describe la salida al lago como un viaje en bote desde Puerto Nariño. Comience identificando esa base y la ruta propuesta para que las búsquedas, reservas de alojamiento y consultas de transporte se refieran al mismo destino colombiano.",
+            "La guía general de Colombia ayuda a situar los lagos dentro de un viaje por el Amazonas a través de Leticia y Puerto Nariño. Trate a Tarapoto como una experiencia con un propósito en lugar de otro nombre en una lista de verificación. Decida si desea observación paciente de fauna, tiempo para el paisaje o una salida más tranquila por el río. Esas prioridades determinan cuánto tiempo permitir y qué preguntas hacer sobre el bote y los servicios de guía."
+          ],
+          [
+            "Entienda el entorno del humedal más amplio",
+            "El Ministerio de Ambiente y Desarrollo Sostenible de Colombia describe a Tarapoto como un humedal Ramsar y documenta trabajos de restauración que involucran a comunidades locales en un artículo de diciembre de 2020. Este es contexto de conservación, no una oferta de excursión actual. Aborde el área como un paisaje vivo en lugar de un escenario de fauna. Pregunte cómo la salida propuesta respeta las condiciones de acceso y la orientación local para su ruta, sin asumir que una designación hace disponible cada parte del humedal para los visitantes.",
+            "Pida al guía que explique la conexión entre el lago, la vegetación circundante y el sistema fluvial. La interpretación puede hacer que una salida tranquila sea gratificante incluso cuando los animales permanecen distantes o ocultos. Observe cambios en la orilla, sonidos y perspectivas de visión en lugar de juzgar toda la visita por una sola fotografía. Deje espacio para el conocimiento del guía y evite asumir que cada parte del complejo del humedal es una ruta para visitantes."
+          ],
+          [
+            "Use Puerto Nariño como referencia de planificación",
+            "La guía de Puerto Nariño explica la base aguas arriba. Para la salida al lago, confirme dónde se encuentra con el guía, cómo llega al bote y a dónde regresa el viaje. Pregunte si la excursión cotizada comienza en su alojamiento o en un desembarcadero al que debe llegar por su cuenta. Una conexión corta aún necesita un punto de encuentro claro, especialmente cuando el grupo incluye niños o alguien que necesita asistencia para abordar.",
+            "Si visita desde Leticia para el día, pregunte cuánto tiempo queda en el lago después de ambos traslados desde y hacia Leticia. Compare eso con una noche aguas arriba en lugar de asumir que las dos opciones ofrecen la misma experiencia. La pregunta relevante es el período de observación útil, no solo si Tarapoto aparece en ambos itinerarios. Confirme quién coordina los segmentos para que un cambio en la servicio de la embarcación no deje al grupo sin un regreso claro."
+          ],
+          [
+            "La observación de delfines requiere paciencia y distancia",
+            "La oficina de turismo de Colombia identifica la observación de delfines entre las atracciones de Tarapoto. Eso describe una oportunidad, no un encuentro garantizado en cada salida. Pregunte cuánto tiempo se dedica a la observación y qué ofrece la salida cuando los delfines no son visibles. Un plan satisfactorio incluye el entorno del humedal y la interpretación del guía, en lugar de depender enteramente de que aparezca cerca del bote una sola especie.",
+            "Comente un enfoque respetuoso antes de salir. Mantenga la distancia, siga las instrucciones del guía y evite perseguir, alimentar o intentar tocar fauna para una fotografía. Elija la paciencia sobre cambios repetidos de posición simplemente para obtener una vista más cercana. Si la observación es su prioridad principal, dígaselo al organizador para que pueda dar forma al ritmo; un horario apretado con paradas cortas puede no proporcionar el tiempo que desea."
+          ],
+          [
+            "Elija la experiencia en bote que se ajuste al grupo",
+            "Pregunte qué embarcación se propone y qué implica el viaje. Una salida en bote a remo y una traslado en embarcación motorizada pueden crear ritmos diferentes, pero la disponibilidad y adecuación dependen de la ruta y las condiciones. Confirme asientos, abordaje, equipaje y cualquier equipo proporcionado antes de reservar. No asuma que una fotografía establece el bote que utilizará o que todos los viajeros pueden participar cómodamente en el mismo formato.",
+            "Explique las necesidades de movilidad y el ritmo preferido del grupo temprano. Pregunte sobre sombra o exposición, descansos y la duración fuera de la base. Para niños, aclare las condiciones ofrecidas para la embarcación planificada y el grupo. Elija la actividad por la experiencia práctica que proporciona, no por lo aventurero que suene un nombre. Si se necesita un bote o ruta diferente, comente su efecto en la experiencia antes de aceptar el cambio."
+          ],
+          [
+            "Pregunte qué cambian las condiciones del agua",
+            "Las condiciones del agua pueden afectar la ruta de la salida y la forma en que se ve el paisaje. Pregunte al organizador local qué es factible para sus fechas y qué alternativas utiliza cuando el plan original no es adecuado. Evite elegir un mes desde una promesa genérica que garantice la mejor fauna. La respuesta significativa describe las opciones de actividad reales y cómo encajan con sus prioridades bajo las condiciones actuales.",
+            "Mantenga cierta flexibilidad en la secuencia diaria mientras se aclaran los servicios importantes. Un grupo enfocado en la fotografía puede preferir una sesión de observación más larga a otra parada; una familia puede necesitar una salida más corta y un descanso confiable. Pregunte qué decisiones se toman antes del viaje y cuáles se ajustan localmente. La flexibilidad funciona mejor cuando protege la experiencia deseada, en lugar de ocultar un itinerario que nunca fue debidamente explicado."
+          ],
+          [
+            "Mantenga la fotografía compatible con la observación",
+            "Dígale al guía si desea imágenes del paisaje, aves, fauna distante o simplemente tiempo para observar. Estos intereses pueden requerir diferentes posiciones y cantidades de espera. Mantenga el equipo de cámara manejable dentro de la embarcación y pregunte cómo protegerlo durante el abordaje y la lluvia. Un kit más grande no es automáticamente útil si manejarlo distrae de la actividad o hace que el movimiento del grupo sea incómodo.",
+            "No haga de un encuentro cercano la medida del éxito. Los reflejos, los bordes del bosque y la relación entre agua y vegetación pueden proporcionar una historia visual gratificante. Cuando aparecen personas en las fotografías, busque permiso y respete los espacios privados. Siga la orientación local sobre cualquier uso propuesto de drones en lugar de asumir que traer uno da permiso para volar. La salida debe funcionar para todos los que comparten el bote, incluidos aquellos que no son fotógrafos."
+          ],
+          [
+            "Separe una salida al lago de otras visitas",
+            "Una propuesta puede combinar Tarapoto con un encuentro comunitario u otra parada. Pregunte qué implica cada componente y si está acordado con los anfitriones. Una excursión al lago no incluye automáticamente una visita cultural, una comida o acceso a espacios privados. Decida si la combinación enriquece el día o quita tiempo del período de observación que deseaba al elegir los lagos.",
+            "Para un viaje más amplio centrado en la naturaleza, compare la guía de Amacayacu con la experiencia del lago. Un paseo por el bosque y una salida a humedales pueden complementarse mutuamente cuando cada uno tiene suficiente tiempo y un guía adecuado. Evite fusionarlos en una secuencia apresurada simplemente porque ambos caben en un mapa. Solicite la secuencia de traslados y los períodos de actividad para que el itinerario muestre cómo los dos entornos ofrecen experiencias diferentes."
+          ],
+          [
+            "Haga que el regreso sea parte de la excursión",
+            "Confirme la desembarcadero de regreso, servicios incluidos y el contacto que comunica cambios. Si la visita al lago termina antes de un viaje posterior en bote a Leticia, revise toda la conexión. Mantenga claros el equipaje y las condiciones de recogida en lugar de asumir que el alojamiento, el guía de la excursión y el proveedor de traslados coordinarán sin un plan acordado. Un final práctico permite al grupo disfrutar de la salida sin preocuparse por un siguiente paso incierto.",
+            "Envíe una consulta con sus fechas, tamaño del grupo y si se quedará en Puerto Nariño o visitará desde Leticia. Explique su interés principal en los lagos y cualquier preferencia de movilidad o bote. Pregunte por el total actual con guía, transporte y los demás servicios incluidos claramente identificados. Compare el tiempo útil y la experiencia ofrecida antes de decidir, y mantenga el paisaje vivo del humedal en el centro del plan."
+          ]
+        ]
+      }
+    }
+  }
+}

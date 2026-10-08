@@ -1,0 +1,40 @@
+{
+  "review_date": "2026-10-08",
+  "sources": [
+    {
+      "url": "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-amacayacu/",
+      "reviewed_claims": [
+        "Listed open on review date; individual arrangements require confirmation",
+        "Mocagua and San Martin community services",
+        "Local guide/interpreter; separate service inclusions",
+        "River access and low-water variation",
+        "Registration, quiet observation, wildlife and photograph guidance"
+      ]
+    },
+    {
+      "url": "https://colombia.travel/es/puerto-narino",
+      "reviewed_claims": [
+        "Colombian Tarapoto lakes near Puerto Narino",
+        "Boat/canoe outing and dolphin observation opportunity"
+      ]
+    },
+    {
+      "url": "https://www.minambiente.gov.co/lagos-de-tarapoto-ejemplo-de-restauracion-ecologica/",
+      "reviewed_claims": [
+        "2020 ministry article confirms Ramsar wetland designation and community restoration work"
+      ]
+    }
+  ],
+  "failed_fetches": [
+    {
+      "url": "https://www.ramsar.org/news/colombia-names-its-first-wetland-international-importance-amazonia",
+      "result": "403; not treated as successfully reviewed"
+    },
+    {
+      "url": "https://rsis.ramsar.org/sites/default/files/rsiswp_search/exports/Ramsar-Sites-annotated-summary-Colombia.pdf",
+      "result": "502; not treated as successfully reviewed"
+    }
+  ],
+  "boundaries": "No current fares, fixed timetables, guaranteed sightings, specific bookable lodge or exact capture-location claim. Ministry restoration article historical, not a current excursion offering.",
+  "imagery": "Existing owner-licensed scenes provisionally reused; none repeated within a page. Final destination image verification pending."
+}

@@ -1,0 +1,28 @@
+{
+  "runs": [
+    {
+      "topic": "amacayacu",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2373,
+      "output_tokens": 3283,
+      "seconds": 133.37,
+      "retries": 1,
+      "done_reason": "stop",
+      "prompt_cached_tokens": 2369,
+      "cache_hit": true
+    },
+    {
+      "topic": "tarapoto",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2459,
+      "output_tokens": 3409,
+      "seconds": 141.44,
+      "retries": 0,
+      "done_reason": "stop",
+      "prompt_cached_tokens": 0,
+      "cache_hit": false
+    }
+  ],
+  "total_local_tokens": 11524,
+  "failed_attempt_tokens": "Unavailable; failed HTTP request did not return token counts"
+}

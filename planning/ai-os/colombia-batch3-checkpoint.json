@@ -1,0 +1,60 @@
+{
+  "batch": 3,
+  "date": "2026-10-08",
+  "country": "colombia",
+  "deployment": "5ef5c8fe",
+  "rollback_deployment": "f5f0b158",
+  "staging_only": true,
+  "checks": {
+    "compiled_html_pages": 160,
+    "colombia_pages": 12,
+    "country_audit_errors": 0,
+    "shared_css_tests_passed": 4,
+    "production_containment_passed": true,
+    "access_redirects": 4,
+    "images_distinct_per_page": 3,
+    "desktop_mobile_visual_review": "Blocked: browser admin policy could not be verified",
+    "authenticated_content_readback": "Pending"
+  },
+  "editorial_review": [
+    "Nine substantive sections plus four FAQs per page; facts from successfully read official sources",
+    "Ramsar fetch failures retained; accessible ministry source substituted",
+    "Spanish landing/pickup, wildlife gender and reflections errors corrected before publication",
+    "Asset identity and bilingual descriptions restored from reviewed image manifest",
+    "Contextual links and guide navigation updated on existing four pairs; shared CSS declarations unchanged"
+  ],
+  "usage": {
+    "runs": [
+      {
+        "topic": "amacayacu",
+        "model": "qwen3.5:9b",
+        "prompt_tokens": 2373,
+        "output_tokens": 3283,
+        "seconds": 133.37,
+        "retries": 1,
+        "done_reason": "stop",
+        "prompt_cached_tokens": 2369,
+        "cache_hit": true
+      },
+      {
+        "topic": "tarapoto",
+        "model": "qwen3.5:9b",
+        "prompt_tokens": 2459,
+        "output_tokens": 3409,
+        "seconds": 141.44,
+        "retries": 0,
+        "done_reason": "stop",
+        "prompt_cached_tokens": 0,
+        "cache_hit": false
+      }
+    ],
+    "total_local_tokens": 11524,
+    "failed_attempt_tokens": "Unavailable; failed HTTP request did not return token counts"
+  },
+  "release_holds": [
+    "Destination-specific image verification",
+    "Rendered desktop/mobile review",
+    "Authenticated staging readback",
+    "Full country release QA and owner authorization"
+  ]
+}

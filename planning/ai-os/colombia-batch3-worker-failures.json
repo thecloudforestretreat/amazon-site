@@ -1,0 +1,13 @@
+{
+  "failures": [
+    {
+      "topic": "amacayacu",
+      "attempt": 1,
+      "status": 500,
+      "type": "Ollama HTTP error",
+      "tokens": "Unavailable; no completed response returned"
+    }
+  ],
+  "retry_limit": 1,
+  "recovery": "Single retry succeeded; raw outputs and usage retained"
+}

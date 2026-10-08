@@ -1,0 +1,15 @@
+{
+  "country": "colombia",
+  "batch": 3,
+  "date": "2026-10-08",
+  "owner_authorized": true,
+  "topics": ["Amacayacu", "Tarapoto lakes"],
+  "pages": 4,
+  "environment": "Protected staging only",
+  "content": "Nine substantive sections, practical quick answer, three comparison choices, four visible FAQs with matching schema, source links and relevant contextual links per language",
+  "facts": "Official park authority, Colombia Travel and environment ministry; failed Ramsar fetches retained and not marked reviewed",
+  "css": "Existing shared global/editorial/Amazon-guide declarations, no page-specific spacing changes",
+  "imagery": "Three distinct licensed illustrative scenes per page; destination-specific replacements and geographical verification remain launch gates",
+  "quality_gates": ["Supervisor editorial and Spanish review", "Compiled link/metadata/schema/asset QA", "Shared CSS delivery tests", "Production exclusion", "Protected staging deployment", "Access redirect checks", "Desktop/mobile visual review and authenticated content readback"],
+  "next_batch_after_owner_authorization": ["Amazon accommodation", "River journeys"]
+}

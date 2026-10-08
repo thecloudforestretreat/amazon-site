@@ -66,9 +66,9 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review of Colombia Leticia and Puerto Narino EN/ES on protected staging",
-    "Next batch upon owner authorization: Amacayacu and Tarapoto lakes",
-    "Retain final Colombia destination imagery and rendered desktop/mobile QA before release"
+    "Owner review of Amacayacu and Tarapoto lakes EN/ES on protected staging",
+    "Next batch upon owner authorization: Amazon accommodation and river journeys",
+    "Retain final destination imagery, rendered desktop/mobile QA and authenticated content readback before Colombia release"
   ],
   "future_batches": [
     "Reviews deferred by owner; exclude from Ecuador launch",
