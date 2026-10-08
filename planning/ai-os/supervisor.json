@@ -66,9 +66,9 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review Guyana batch 5",
-    "Final content batch how to get there and packing",
-    "Retain imagery confirmation, visual QA and authenticated readback as release gates"
+    "Owner review final Guyana content batch",
+    "Confirm destination imagery and complete desktop/mobile review plus authenticated staging readback",
+    "Complete country inquiry check and obtain owner production authorization before release"
   ],
   "future_batches": [
     "Reviews deferred by owner; exclude from Ecuador launch",
@@ -111,8 +111,8 @@
     "measured_performance": "pending",
     "contact_delivery": "endpoint absent"
   },
-  "active_batch": "Guyana best time to visit and wildlife",
-  "batch_status": "10 of 12 bilingual pairs staged; technical passed, visual review pending",
+  "active_batch": "Guyana final content batch: getting there and packing",
+  "batch_status": "12 of 12 bilingual pairs staged; technical passed, release gates pending",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",

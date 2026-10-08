@@ -1,0 +1,26 @@
+{
+  "deployment": "d76ce70d",
+  "method": "curl HEAD",
+  "checks": [
+    {
+      "route": "/guyana/getting-there/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/guyana/como-llegar/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/guyana/packing-list/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/guyana/que-llevar/",
+      "status": 302,
+      "access_redirect": true
+    }
+  ]
+}

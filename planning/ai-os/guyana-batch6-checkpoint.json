@@ -1,0 +1,36 @@
+{
+  "deployment": "d76ce70d",
+  "rollback": "432bcce1",
+  "date": "2026-10-08",
+  "new_pairs": 2,
+  "new_pages": 4,
+  "country_pairs": 12,
+  "country_pages": 24,
+  "compiled_staging_pages": 196,
+  "technical_errors": 0,
+  "css_contact_tests": 25,
+  "contextual_country_targets_per_new_page": [
+    10,
+    11
+  ],
+  "main_word_range": [
+    1591,
+    2095
+  ],
+  "country_inlink_range": [
+    11,
+    12
+  ],
+  "production_containment": "Passed: 172 pages; Guyana absent from routes and sitemap; existing live countries retained",
+  "local_tokens": 12597,
+  "cumulative_guyana_local_tokens": 66000,
+  "retries": 0,
+  "cache_hits": 0,
+  "image_reuse_owner_authorized": true,
+  "scene_repeats_per_page": 0,
+  "destination_imagery": "Generic illustrative library scenes inspected; exact Guyana confirmation remains release gate",
+  "visual_review": "Pending; existing browser admin-policy verification blocker retained, no bypass",
+  "authenticated_readback": "Pending; four new unauthenticated routes redirect to Access",
+  "next_batch": [],
+  "next_step": "Country launch review gates, no additional country authorized"
+}

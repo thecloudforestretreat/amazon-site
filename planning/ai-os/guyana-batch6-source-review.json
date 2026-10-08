@@ -1,0 +1,28 @@
+{
+  "review_date": "2026-10-08",
+  "status": "Bilingual editorial review complete",
+  "sources": [
+    {
+      "url": "https://guyanatourism.com/plan-your-trip/how-to-get-here/",
+      "claims": [
+        "Cheddi Jagan International Airport at Timehri and Eugene F. Correia International Airport identified as international arrival points"
+      ],
+      "limits": "No current airline timetable, fares, transfer duration or border route guarantee published"
+    },
+    {
+      "url": "https://guyanatourism.com/plan-your-trip/how-to-get-around/",
+      "claims": [
+        "Air, road and river domestic travel; Eugene F. Correia hub for local flights"
+      ],
+      "limits": "No universal baggage allowance or connection window; actual carrier rules require confirmation"
+    },
+    {
+      "url": "https://guyanatourism.com/travel-tips/",
+      "claims": [
+        "Breathable covering clothing and compact rain protection as practical starting points"
+      ],
+      "limits": "No individual medical advice, entry eligibility, mandatory equipment claim or property facility guarantee"
+    }
+  ],
+  "bilingual_review": "All nine sections and four FAQs per language reviewed; corrected Spanish handovers, baggage, accommodation, equipment, captions and contextual route labels; no fixed carrier allowance or schedule promised"
+}

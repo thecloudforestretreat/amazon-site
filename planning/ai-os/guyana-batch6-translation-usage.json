@@ -1,0 +1,25 @@
+{
+  "runs": [
+    {
+      "topic": "getting-there",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2678,
+      "output_tokens": 3645,
+      "seconds": 155.66,
+      "retries": 0,
+      "cache_hits": 0,
+      "done_reason": "stop"
+    },
+    {
+      "topic": "packing-list",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2636,
+      "output_tokens": 3638,
+      "seconds": 150.78,
+      "retries": 0,
+      "cache_hits": 0,
+      "done_reason": "stop"
+    }
+  ],
+  "total_local_tokens": 12597
+}

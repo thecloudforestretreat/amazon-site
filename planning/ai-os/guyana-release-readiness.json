@@ -1,0 +1,26 @@
+{
+  "status": "staged_technical_pass_release_gates_pending",
+  "review_date": "2026-10-08",
+  "deployment": "d76ce70d",
+  "content_pairs": 12,
+  "content_pages": 24,
+  "technical_audit_errors": [],
+  "reciprocal_language_pairs_verified": 12,
+  "faq_visible_schema_matches": 96,
+  "max_click_depth_from_language_hub": 1,
+  "css_contact_regression_tests_passed": 25,
+  "visual_review": "Pending; existing browser admin-policy verification unavailable",
+  "protected_staging_readback": "Unauthenticated Access redirects verified; authenticated content readback pending",
+  "destination_imagery": "Owner-licensed illustrative library reuse; geographically specific imagery confirmation pending",
+  "live_contact_delivery_this_review": "Not performed; regression tests passed",
+  "production_containment": "Passed; Guyana excluded",
+  "owner_production_authorization": false,
+  "remaining_gates": [
+    "Imagery confirmation",
+    "Desktop/mobile visual review",
+    "Authenticated staging readback",
+    "Country inquiry delivery check",
+    "Owner production authorization"
+  ],
+  "verification_note": "FAQ count parsed within main content; navigation disclosures excluded"
+}

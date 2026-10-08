@@ -1,0 +1,652 @@
+{
+  "editorial_status": "draft",
+  "review_date": "2026-10-08",
+  "images": {
+    "leticia-colombia-border-direction-sign-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/leticia-colombia-border-direction-sign-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "9706a51eb9df2b14f9d80d73e57f29be70e101cf84c8a2e2b855b1bda724cc43"
+    },
+    "amazon-red-macaws-under-thatched-roof-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-red-macaws-under-thatched-roof-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "f7735c2b55700cd1ed350ef139908894da0a2541f86b3c011731ef9b5d2cc930"
+    },
+    "amazon-meandering-river-aerial-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-meandering-river-aerial-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "c6546f300e37a65a07cac13d516b286c00c43dbd1812354b1eeacd6087249dd1"
+    },
+    "amazon-forest-buttress-tree-hiker-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-forest-buttress-tree-hiker-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "2f414af8e0d165e636fb6480106701316e22d712fdca6d679bd3cf2168a724e5"
+    },
+    "amazon-forest-canoe-bow-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-forest-canoe-bow-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "5d74cddf67f036d0fe65044bf09c05ccd2352960dcb25b47ac831b9fb583643f"
+    },
+    "amazon-riverside-houses-canoe-travelers": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-houses-canoe-travelers.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "c14bc7039ac65660ccb759932a2aaa09446c95e7dc52d7b7a16ab05bf68a9209"
+    },
+    "leticia-tabatinga-iquitos-direction-signs": {
+      "src": "/assets/images/pages/countries/colombia/optimized/leticia-tabatinga-iquitos-direction-signs.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "65b3dfaad25e66b4840b38fd9f11a763d0e07130c3042ddb80677c5f0b2ad976"
+    },
+    "amazon-riverside-harbor-canoes": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-harbor-canoes.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "306456ac24e5cd183f10d1d8dd180e57be3a701c95c6a0f505fc4343827b4018"
+    },
+    "amazon-riverside-town-and-forest-view": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-town-and-forest-view.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "7976d853227666cb56379c73509401e8cbce62193c80eb972601c6fb4ef6c9f2"
+    },
+    "amazon-river-and-town-aerial": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-river-and-town-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "49e955c22842faa8ceb957a91d13ac0da6e15ad40b04c6fc36719c55bc488826"
+    },
+    "amazon-village-raised-wooden-walkway": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-village-raised-wooden-walkway.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "3aff028da8964a9d485d5977e0985c66ad8d5894f6ecd4bc22ccc684f31e1b0c"
+    },
+    "amazon-rainforest-walk-traveler": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-rainforest-walk-traveler.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "cbf7ca9da828d289b62bfb0b2131d6be383d8af77355342665bf047971d3b6e7"
+    },
+    "amazon-village-wooden-house-path": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-village-wooden-house-path.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "3221726059505de3b312f9ef077e707fc8435a93c58a6252cedbef85c6063d7b"
+    },
+    "amazon-cultural-crafts-display": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-cultural-crafts-display.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "b1dd3bae7f67382376912a814d8d7fc3d83ecdbf46fcfb43a09c3e45d0157c64"
+    },
+    "tropical-thatched-lodge-hammock-deck": {
+      "src": "/assets/images/pages/countries/colombia/optimized/tropical-thatched-lodge-hammock-deck.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "39dca7d4bd263af53f028c29370ffbbb4dff742582ea70fd76659b3be4239620"
+    },
+    "forest-lakeside-lodge-reflection": {
+      "src": "/assets/images/pages/countries/colombia/optimized/forest-lakeside-lodge-reflection.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "92f0d9cfcbebf7fe84771819ecc8fc6d6a7be6fcb63c49ff28fdff3e855e0945"
+    },
+    "amazon-riverside-houses-solo-canoe": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-houses-solo-canoe.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "4bd9bea9268cbc0bcc2386d65c5cee66a7ed7ebd17a447b4841ca9547da61624"
+    },
+    "amazon-canoe-group-lake-journey": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-canoe-group-lake-journey.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "da66207331cffb985492857cc246b422dfad57c6a979593883782a13ddb4e594"
+    },
+    "amazon-wooden-canoes-riverbank": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-wooden-canoes-riverbank.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "81e0ad56c85c2348710769d5fa9421e652dea9b7ee3c80b9ba9249304d07528b"
+    },
+    "amazon-monkey-on-tree-portrait": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-monkey-on-tree-portrait.webp",
+      "width": 1200,
+      "height": 1500,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "44859842ae4884f5f074597ec825949e5b2bf52841f38c018c5df93983bac3ef"
+    },
+    "jaguar-resting-paws-portrait": {
+      "src": "/assets/images/pages/countries/colombia/optimized/jaguar-resting-paws-portrait.webp",
+      "width": 1200,
+      "height": 1500,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "7d1cfd98f1f1f8b693e74735230399e78bab94006002f812a27c6c888047cb8d"
+    },
+    "jaguar-in-foliage-portrait": {
+      "src": "/assets/images/pages/countries/colombia/optimized/jaguar-in-foliage-portrait.webp",
+      "width": 1200,
+      "height": 1500,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "01a4707d5d87b51646cbe6aba2da7a0992ef39ad3b8b0ef3b5264c8ee65c36be"
+    },
+    "amazon-otter-wide": {
+      "width": 1800,
+      "height": 1200,
+      "original_bytes": 681298,
+      "web_bytes": 411704,
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-otter-wide.webp",
+      "alt": {
+        "en": "Otter resting on a log beside the water",
+        "es": "Nutria descansando sobre un tronco junto al agua"
+      },
+      "attribution_required": false
+    }
+  },
+  "pages": {
+    "getting-there": {
+      "en": {
+        "type": "planning-guide",
+        "pair_id": "guyana_getting_there_001",
+        "hero": [
+          "amazon-river-and-town-aerial",
+          "Aerial view of a broad river beside a town"
+        ],
+        "features": {
+          "1": [
+            "amazon-riverside-harbor-canoes",
+            "Canoes moored along a riverside harbor"
+          ],
+          "4": [
+            "amazon-riverside-houses-canoe-travelers",
+            "Travelers in a canoe beside riverside houses"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Guyana Tourism — international access",
+            "https://guyanatourism.com/plan-your-trip/how-to-get-here/"
+          ],
+          [
+            "Guyana Tourism — domestic transport",
+            "https://guyanatourism.com/plan-your-trip/how-to-get-around/"
+          ],
+          [
+            "Guyana Tourism — practical travel tips",
+            "https://guyanatourism.com/travel-tips/"
+          ]
+        ],
+        "scope": "Planning information reviewed October 8, 2026. Accommodation, activities, availability and transport require confirmation in an individual proposal. Guyana is part of the Guiana Shield; these guides do not classify all its rivers as Amazon-basin rivers.",
+        "slug": "getting-there",
+        "h1": "Getting to Guyana and your rainforest base",
+        "title": "Getting to Guyana | Airports & Rainforest Connections",
+        "description": "Plan arrival in Guyana, airport handovers and interior air, road or river connections, with clear baggage rules and a coordinated return.",
+        "lede": "Connect your international arrival to the places you want to explore, with every handover clearly arranged.",
+        "quick": [
+          "How do I reach my Guyana rainforest base?",
+          "Confirm your arrival airport, any coastal transit night and the complete air, road or river connection to the named accommodation. Review baggage rules and the return before committing to separate travel bookings."
+        ],
+        "links": [
+          [
+            "/guyana/",
+            "Guyana overview"
+          ],
+          [
+            "/guyana/plan-your-rainforest-trip/",
+            "Guyana trip-planning guide"
+          ],
+          [
+            "/guyana/georgetown/",
+            "Georgetown gateway guide"
+          ],
+          [
+            "/guyana/iwokrama/",
+            "Iwokrama guide"
+          ],
+          [
+            "/guyana/rupununi/",
+            "Rupununi guide"
+          ],
+          [
+            "/guyana/community-stays/",
+            "community-stays guide"
+          ],
+          [
+            "/guyana/rainforest-accommodation/",
+            "rainforest-accommodation guide"
+          ],
+          [
+            "/guyana/river-journeys/",
+            "river-journeys guide"
+          ],
+          [
+            "/guyana/best-time-to-visit/",
+            "best-time-to-visit guide"
+          ],
+          [
+            "/guyana/wildlife/",
+            "wildlife guide"
+          ],
+          [
+            "/guyana/getting-there/",
+            "getting-there guide"
+          ],
+          [
+            "/guyana/packing-list/",
+            "packing guide"
+          ]
+        ],
+        "context_links": [
+          [
+            "Guyana overview",
+            "/guyana/"
+          ],
+          [
+            "Guyana trip-planning guide",
+            "/guyana/plan-your-rainforest-trip/"
+          ],
+          [
+            "Georgetown gateway guide",
+            "/guyana/georgetown/"
+          ],
+          [
+            "Iwokrama guide",
+            "/guyana/iwokrama/"
+          ],
+          [
+            "Rupununi guide",
+            "/guyana/rupununi/"
+          ],
+          [
+            "community-stays guide",
+            "/guyana/community-stays/"
+          ],
+          [
+            "rainforest-accommodation guide",
+            "/guyana/rainforest-accommodation/"
+          ],
+          [
+            "river-journeys guide",
+            "/guyana/river-journeys/"
+          ],
+          [
+            "best-time-to-visit guide",
+            "/guyana/best-time-to-visit/"
+          ],
+          [
+            "wildlife guide",
+            "/guyana/wildlife/"
+          ],
+          [
+            "getting-there guide",
+            "/guyana/getting-there/"
+          ],
+          [
+            "packing guide",
+            "/guyana/packing-list/"
+          ]
+        ],
+        "cta": [
+          "Connect the whole journey clearly",
+          "Share your arrival plans, dates and chosen experiences so we can discuss a Guyana route with coordinated handovers and useful time at the base."
+        ],
+        "faqs": [
+          [
+            "Are the two international airports interchangeable?",
+            "No. Confirm the actual airport for each arrival and departure and arrange any ground handover explicitly."
+          ],
+          [
+            "Does my international baggage allowance apply to interior flights?",
+            "Not automatically. Obtain the current rules for the actual interior carrier and service, including any excess-baggage arrangement."
+          ],
+          [
+            "Can I continue to the interior on arrival day?",
+            "That depends on the actual flights, handovers and destination. Discuss the complete itinerary before assuming an immediate connection is practical."
+          ],
+          [
+            "Is there a standard return buffer for every route?",
+            "No. Review the actual interior connection, coastal arrival and international departure together with the operator."
+          ]
+        ],
+        "sections": [
+          [
+            "Plan the complete journey before choosing a flight",
+            "Start with the overnight destination and work backward to the international arrival. The Guyana overview helps you distinguish the regions that may form your route, while the Guyana trip-planning guide helps you compare the number of bases and useful activity days. A flight to the country is only the first part of a forest journey. Identify the final accommodation, the arrival point that serves it and the connection between the two before treating the route as practical.",
+            "Share your departure city, travel dates, guest count and any fixed onward commitments when asking for a proposal. If international flights are already booked, provide the actual airport and timing rather than only saying that you arrive in Georgetown. Ask whether an arrival-day interior connection is realistic for that itinerary or whether a transit night is appropriate. The answer should relate to the complete arrangement, not to a general assumption that all arrivals can continue immediately."
+          ],
+          [
+            "Distinguish the two international airport names",
+            "Guyana Tourism identifies Cheddi Jagan International Airport at Timehri and Eugene F. Correia International Airport among the country’s international arrival airports. Its domestic transport guidance also identifies Eugene F. Correia as a hub for local flights. These airport names matter when comparing bookings: an international arrival and an interior departure may use different points. Ask the planner to name the airport for every flight leg, rather than relying on a broad city label or an abbreviation you have not checked.",
+            "Use the Georgetown gateway guide to discuss airport pickup, a transit hotel and any onward handover together. Confirm who meets your group, how that person identifies themselves and what contact arrangement applies if your arrival changes. Do not infer a ground-transfer duration from a map distance or treat two airports as interchangeable. A clear arrival plan identifies the meeting point, the destination for that first transfer and the services included in the quoted arrangement."
+          ],
+          [
+            "Check actual international services for your dates",
+            "Official tourism access information provides a useful starting point for international route research, but a list of airlines or cities does not establish the timetable available for your travel dates. Check the actual carrier booking before arranging the interior segment around it. Compare arrival and departure airports, connection requirements, baggage provisions and the terms of the tickets you plan to buy. Avoid treating a previously published route as confirmation that a particular service is operating today.",
+            "If your international journey has connections, consider their effect on the coastal arrival and the return plan. Share the full booking details needed for the operator to coordinate the itinerary, including any arrival-time change once it becomes known. A low flight price is not automatically the best fit when it creates an awkward handover or removes useful time at the interior base. Compare the total connected journey before choosing separate flights purely on price."
+          ],
+          [
+            "Match interior transport to the named base",
+            "Guyana Tourism describes domestic travel by air, road, river or a combination. Ask which arrangement actually serves the accommodation in your proposal. For a forest stay, use the Iwokrama guide to discuss how the chosen base fits the route; for a regional circuit, use the Rupununi guide to compare the overnight locations. Do not assume that a flight, drive or boat reaches the accommodation directly just because it reaches a nearby area.",
+            "Request a complete sequence for each travel day: the departure point, transport service, meeting arrangement and final handover to the property. Confirm whether the quoted services are shared or private and who coordinates them. The last connection deserves the same attention as the main flight or drive. An understandable plan makes it clear where you end the day and prevents an impressive-looking route from concealing a transfer that has not yet been arranged."
+          ],
+          [
+            "Obtain baggage rules for every transport leg",
+            "A baggage allowance on your international ticket may differ from the requirements for a smaller interior aircraft. Obtain the current rules from the actual carrier or operator before choosing luggage and equipment. Ask about weight, dimensions, the treatment of hand luggage and any proposed excess baggage. Do not assume that paying an additional charge automatically confirms space or that every scheduled flight and charter uses the same allowance. The confirmed service is the relevant basis for packing.",
+            "The packing guide helps you separate essential outing equipment from items that only add weight. If baggage storage at a coastal accommodation is proposed, confirm whether it is available, who manages it and how you collect your belongings on return. Keep that arrangement explicit rather than assuming it comes with a transit night. For a combined air, road and river route, ask whether another practical constraint affects the bag shape or the equipment you can comfortably carry."
+          ],
+          [
+            "Make road and boat handovers understandable",
+            "For an overland connection, discuss the actual route, vehicle, stops and the conditions that may affect the travel day. Use the best-time-to-visit guide to frame questions about coastal and interior seasons without treating a calendar as a forecast of road conditions. Ask which part of the connection is flexible and what happens if an adjustment is needed. The proposal should identify who is responsible for communicating changes and arranging the final transfer.",
+            "The river-journeys guide helps distinguish a boat transfer from an excursion. Confirm the departure point, boarding arrangement, luggage handling and onward destination for a transport leg. Explain mobility or equipment needs before the vessel is selected, and ask how appropriate lifejackets and operating procedures are handled. A river connection may be part of the experience, but it still needs a clear practical purpose and an agreed handover to the next service or accommodation."
+          ],
+          [
+            "Coordinate arrival with accommodation and hosting",
+            "The rainforest-accommodation guide helps you compare the base, room facilities and services that should be confirmed alongside transport. Ask what time the arrival arrangement allows for meals, rest and any proposed first outing. A travel day should not be counted as a full activity day unless the actual schedule supports that description. Confirm whether the accommodation is reserved, what remains subject to availability and how a change of base would affect the connections already discussed.",
+            "For locally hosted accommodation, use the community-stays guide to clarify who receives the booking and coordinates the visit. Confirm the agreed arrival arrangements with the hosts through the appropriate operator rather than assuming that a community can accommodate an unplanned arrival. Explain essential needs early and ask what is workable. Transport and hosting should support each other, with the first and last services of the stay identified as clearly as the activities between them."
+          ],
+          [
+            "Review documents, contacts and changes before departure",
+            "Check the current official entry and transit requirements that apply to your nationality and actual route before departure. An itinerary guide does not establish your individual immigration eligibility. Keep the documentation needed for your booked services accessible and retain the itinerary, accommodation and contact details you may need during handovers. Review how you receive updates when connectivity is limited, and ask whom to contact if an international arrival or a local service changes.",
+            "Keep the operator informed of booking changes that affect the agreed journey. If a connection is separately ticketed, ask how a delay would be handled and what responsibility each provider accepts; do not assume automatic protection. Read the amendment and cancellation terms before payment. A good preparation conversation identifies the likely handovers and the people responsible for them without promising that every timetable or operating condition will remain unchanged."
+          ],
+          [
+            "Plan the return with the same care as arrival",
+            "Review the final departure from the interior base, the coastal destination and the international flight as one sequence. Ask what margin is recommended for the actual route and whether a transit night helps protect the connection. This guide does not promise a universal transfer duration or connection window for every itinerary. The proposal should explain its assumptions and identify any fixed commitment that limits flexibility on the last travel day.",
+            "Count the activity time left before that final move. The wildlife guide helps you see why a well-paced stay can matter more than adding another base close to departure. Share any priority that would be lost through a rushed return so the route can be discussed before booking. Confirm the named accommodation, transfers, baggage arrangements and included services in writing. The aim is a complete journey with enough clarity at both ends to enjoy the time in between."
+          ]
+        ]
+      }
+    },
+    "packing-list": {
+      "en": {
+        "type": "planning-guide",
+        "pair_id": "guyana_packing_list_001",
+        "hero": [
+          "amazon-rainforest-walk-traveler",
+          "Traveler walking along a forest path"
+        ],
+        "features": {
+          "1": [
+            "amazon-wooden-canoes-riverbank",
+            "Wooden canoes beside a riverbank"
+          ],
+          "4": [
+            "tropical-thatched-lodge-hammock-deck",
+            "Hammock on a covered thatched deck"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Guyana Tourism — international access",
+            "https://guyanatourism.com/plan-your-trip/how-to-get-here/"
+          ],
+          [
+            "Guyana Tourism — domestic transport",
+            "https://guyanatourism.com/plan-your-trip/how-to-get-around/"
+          ],
+          [
+            "Guyana Tourism — practical travel tips",
+            "https://guyanatourism.com/travel-tips/"
+          ]
+        ],
+        "scope": "Planning information reviewed October 8, 2026. Accommodation, activities, availability and transport require confirmation in an individual proposal. Guyana is part of the Guiana Shield; these guides do not classify all its rivers as Amazon-basin rivers.",
+        "slug": "packing-list",
+        "h1": "What to pack for a Guyana rainforest journey",
+        "title": "Guyana Packing List | Rainforest, Rivers & Light Luggage",
+        "description": "Prepare for Guyana forest walks and river outings with practical clothing, footwear, equipment protection and luggage suited to your actual transfers.",
+        "lede": "Pack for the activities you will do and the connections you will take, keeping essential equipment manageable.",
+        "quick": [
+          "What should I pack for Guyana?",
+          "Start with lightweight covering clothing, suitable footwear, rain protection, a small outing bag and protection for essential equipment. Confirm baggage rules and what your accommodation or guide supplies before adding more."
+        ],
+        "links": [
+          [
+            "/guyana/",
+            "Guyana overview"
+          ],
+          [
+            "/guyana/plan-your-rainforest-trip/",
+            "Guyana trip-planning guide"
+          ],
+          [
+            "/guyana/georgetown/",
+            "Georgetown gateway guide"
+          ],
+          [
+            "/guyana/iwokrama/",
+            "Iwokrama guide"
+          ],
+          [
+            "/guyana/rupununi/",
+            "Rupununi guide"
+          ],
+          [
+            "/guyana/community-stays/",
+            "community-stays guide"
+          ],
+          [
+            "/guyana/rainforest-accommodation/",
+            "rainforest-accommodation guide"
+          ],
+          [
+            "/guyana/river-journeys/",
+            "river-journeys guide"
+          ],
+          [
+            "/guyana/best-time-to-visit/",
+            "best-time-to-visit guide"
+          ],
+          [
+            "/guyana/wildlife/",
+            "wildlife guide"
+          ],
+          [
+            "/guyana/getting-there/",
+            "getting-there guide"
+          ],
+          [
+            "/guyana/packing-list/",
+            "packing guide"
+          ]
+        ],
+        "context_links": [
+          [
+            "Guyana overview",
+            "/guyana/"
+          ],
+          [
+            "Guyana trip-planning guide",
+            "/guyana/plan-your-rainforest-trip/"
+          ],
+          [
+            "Georgetown gateway guide",
+            "/guyana/georgetown/"
+          ],
+          [
+            "Iwokrama guide",
+            "/guyana/iwokrama/"
+          ],
+          [
+            "Rupununi guide",
+            "/guyana/rupununi/"
+          ],
+          [
+            "community-stays guide",
+            "/guyana/community-stays/"
+          ],
+          [
+            "rainforest-accommodation guide",
+            "/guyana/rainforest-accommodation/"
+          ],
+          [
+            "river-journeys guide",
+            "/guyana/river-journeys/"
+          ],
+          [
+            "best-time-to-visit guide",
+            "/guyana/best-time-to-visit/"
+          ],
+          [
+            "wildlife guide",
+            "/guyana/wildlife/"
+          ],
+          [
+            "getting-there guide",
+            "/guyana/getting-there/"
+          ],
+          [
+            "packing guide",
+            "/guyana/packing-list/"
+          ]
+        ],
+        "cta": [
+          "Pack for the journey you are actually taking",
+          "Tell us your route, interests and essential equipment so we can discuss practical preparation alongside your Guyana itinerary."
+        ],
+        "faqs": [
+          [
+            "Should I use my international baggage allowance as the packing limit?",
+            "No. Check every booked transport leg and pack to the actual confirmed requirements, especially if an interior aircraft is involved."
+          ],
+          [
+            "Do I need the same footwear for every activity?",
+            "Ask about the actual walks, boarding and accommodation. Choose footwear that suits the confirmed activities rather than assuming one setup works for every route."
+          ],
+          [
+            "Can I assume my lodge has continuous charging?",
+            "No. Confirm electricity, charging opportunities and equipment compatibility at the named property before relying on them."
+          ],
+          [
+            "Does a drier season mean I can leave rain protection behind?",
+            "Do not use a seasonal label as a forecast. Discuss the actual conditions and activities with the operator before finalizing your packing list."
+          ]
+        ],
+        "sections": [
+          [
+            "Build your list from the actual itinerary",
+            "Begin with the Guyana overview and the places in your proposed route. A trip based around forest walks may have different equipment priorities from one with repeated boat transfers, regional road days or a community-hosted stay. Use the Guyana trip-planning guide to identify the full activity periods and travel days before choosing a bag. Packing becomes easier when you know what you will actually do and what services are supplied at each base.",
+            "Ask the operator for a practical list tied to the itinerary rather than relying only on a general tropical packing checklist. Explain camera equipment, essential personal items and any specific comfort needs that could affect luggage. Distinguish necessities from items you would merely prefer to carry. A manageable bag should support the experience without making every flight, vehicle handover or boarding arrangement more complicated than it needs to be."
+          ],
+          [
+            "Check the most restrictive luggage arrangement first",
+            "Review the getting-there guide before deciding how much to pack. International baggage provisions may differ from those of the actual interior aircraft or another transport leg. Confirm weight, size and the treatment of hand luggage with the booked carrier or operator. Ask whether any additional baggage can be arranged and obtain confirmation before relying on it. Do not assume a general tourism example or a rule from another traveler applies to your service.",
+            "Choose a bag you can handle within the complete journey, including the last connection to accommodation. Ask whether a particular bag shape or packing arrangement is recommended for the proposed aircraft, vehicle or boat. If coastal storage is part of the plan, confirm the facility and collection arrangements before leaving belongings behind. Packing light should be a practical response to your itinerary, rather than an arbitrary limit copied from a different route."
+          ],
+          [
+            "Choose covering clothing and useful rain protection",
+            "Guyana Tourism’s practical travel tips recommend breathable covering clothing and compact rain protection. Build a small selection around the activities you expect to do, with comfortable trousers, long-sleeved tops and layers that you can use together. Avoid packing a separate outfit for every outing when the same practical pieces work across the journey. Ask the guide what clothing suits the actual forest, open-landscape and river activities in the proposal.",
+            "Use the best-time-to-visit guide to discuss regional seasonal patterns, but prepare for the conditions the operator describes rather than assuming a drier period means no rain. Consider how an extra dry change will be kept accessible when an outing ends. Clothing should allow the movement and comfort you need during walks or boarding. Explain any essential preference early so the itinerary and facilities can be considered alongside the items you plan to bring."
+          ],
+          [
+            "Match footwear to walks, boarding and rest",
+            "Ask about the surfaces, walking demands and boarding arrangements in the proposed activities before choosing footwear. Comfortable, suitable walking shoes and spare socks are practical starting points; a familiar pair is easier to judge than something bought solely for the trip. Use the Iwokrama guide and Rupununi guide to discuss the actual activities at each base. Do not infer that every forest walk, open-landscape outing and boat departure needs the same footwear.",
+            "Ask whether an alternative pair is useful for resting at the accommodation or for a specific activity, and whether the operator supplies any specialized equipment. Keep the list tied to what is confirmed. Explain mobility needs or concern about slippery or uneven surfaces before booking, rather than expecting shoes alone to resolve an access issue. The important decision is how the proposed activity works for you, with footwear that supports that agreed arrangement."
+          ],
+          [
+            "Organize a small bag for outings",
+            "Keep an outing bag sized for the things you need during the actual walk or boat excursion. Rain protection, drinking water, essential personal items and the equipment you will use should be accessible without repeatedly unpacking the main luggage. Ask what the guide supplies, how water is handled and whether meals or a longer outing require additional space. A general day-bag description does not determine the right load for every traveler or activity.",
+            "The river-journeys guide helps you ask about seating, storage and how bags are handled during boarding. Discuss how to protect items that need to remain dry and how much equipment you can keep comfortably with you. Avoid bringing so much that your bag interferes with moving, sitting or following the operator’s instructions. Keep the most important items easy to locate while accepting that the practical arrangement depends on the actual vessel and outing."
+          ],
+          [
+            "Carry observation equipment you will use",
+            "For birding or general nature observation, decide what you can comfortably carry and use throughout the planned activities. The wildlife guide helps you discuss whether your interest needs focused observation time, photography or a broad introduction. If you bring binoculars or a camera, think about how they are carried during walks and kept accessible without slowing every handover. Ask the guide what the proposed outing involves before adding heavy equipment to the list.",
+            "For dedicated photography, discuss lenses, supports and charging needs alongside baggage limits and the pace of the route. A larger kit is not automatically more useful when the itinerary cannot accommodate the way you want to work. Use suitable protection for wet conditions, and confirm practical storage with the operator rather than assuming that a room or vessel provides a particular facility. Bring equipment that fits the whole journey and the observation time actually included."
+          ],
+          [
+            "Confirm accommodation facilities and charging",
+            "The rainforest-accommodation guide helps you identify the room facilities and daily arrangements that affect packing. Ask about charging opportunities, lighting and anything else important to your equipment or comfort. Do not assume continuous electricity, internet or a particular bathroom setup from the word lodge. Confirm what the named property supplies before duplicating it in your bag, and explain any item or facility that is essential to your stay.",
+            "A compact light may be useful where the actual accommodation or activities call for it; ask how it should be used in the proposed setting. Check the compatibility and carriage requirements of charging equipment with the relevant property and carrier, especially for batteries or power banks. Rules belong to the actual service and can differ. Keep essential instructions and contacts accessible without depending entirely on a continuous internet connection throughout the itinerary."
+          ],
+          [
+            "Prepare personal essentials and respect the hosts",
+            "Keep documents, booking details and essential personal items organized for the handovers described in your itinerary. Check current official entry requirements for your nationality and route separately; a packing list does not establish eligibility to travel. Seek any personal travel-health advice you need from an appropriate professional and check the rules for carrying your essential items. This guide does not prescribe treatment or a medical kit for individual travelers.",
+            "Use the community-stays guide to discuss practical needs, local expectations and any item you want to bring for a hosted activity. Avoid assuming that gifts, equipment donations or photography are expected or appropriate without asking. Pack for the agreed experience and respect the hosts’ choices about what they share. Explain essential dietary, mobility or other needs early so the hosts or operator can respond realistically rather than being surprised after arrival."
+          ],
+          [
+            "Make a final check against the agreed journey",
+            "Review clothing, footwear, rain protection, the outing bag, essential equipment and documentation against the actual itinerary. Ask which items you are expected to bring and which are supplied, then remove duplicates. Weigh and check luggage against the confirmed transport rules before departure. Keep a change in the route or carrier visible in your preparation, because it may affect the practical arrangement even when the overall purpose of the journey stays the same.",
+            "Share any unresolved question with the operator before finalizing the bag. Ask about storage, charging, access or essential items that cannot be managed through a generic checklist. Confirm the complete connection to your accommodation and the return so the packing plan fits both ends of the journey. The useful list is the one that lets you travel comfortably, handle your own equipment and spend attention on the landscape and activities rather than on unnecessary baggage."
+          ]
+        ]
+      }
+    }
+  }
+}

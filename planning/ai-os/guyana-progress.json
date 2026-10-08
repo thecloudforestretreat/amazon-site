@@ -5,9 +5,9 @@
   "planned_pairs": 12,
   "planned_pages": 24,
   "batch_size_pairs": 2,
-  "staged_pairs": 10,
-  "staged_pages": 20,
-  "status": "batch5_staged_technical_pass_visual_pending",
+  "staged_pairs": 12,
+  "staged_pages": 24,
+  "status": "content_staged_technical_pass_release_gates_pending",
   "topics": [
     "Overview",
     "Trip planning",
@@ -22,40 +22,36 @@
     "How to get there",
     "Packing"
   ],
-  "next_batch": [
-    "How to get there",
-    "Packing"
-  ],
+  "next_batch": [],
   "pending": [
     "Destination imagery confirmation",
     "Desktop/mobile visual review",
     "Authenticated staging readback",
-    "Remaining two bilingual pairs",
-    "Country release QA",
+    "Country launch inquiry delivery check",
     "Owner production authorization"
   ],
-  "deployment": "432bcce1",
-  "local_tokens_recorded": 53403,
+  "deployment": "d76ce70d",
+  "local_tokens_recorded": 66000,
   "qa": {
-    "country_pages": 20,
-    "compiled_pages": 192,
+    "country_pages": 24,
+    "compiled_pages": 196,
     "errors": 0,
     "css_contact_tests": 25,
     "main_words": [
-      1549,
-      2033
+      1591,
+      2095
     ],
     "inlink_range": [
-      9,
-      10
+      11,
+      12
     ],
     "production_containment": "passed",
     "visual_review": "Browser admin-enforced policy unavailable; pending",
     "authenticated_staging_readback": "pending"
   },
-  "previous_staging_deployment": "9926f8f9",
+  "previous_staging_deployment": "432bcce1",
   "active_batch": [
-    "Best time to visit",
-    "Wildlife"
+    "How to get there",
+    "Packing"
   ]
 }
