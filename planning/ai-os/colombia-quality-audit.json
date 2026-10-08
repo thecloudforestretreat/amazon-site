@@ -1,22 +1,56 @@
 {
-  "pages_audited": 4,
+  "pages_audited": 8,
   "errors": [],
   "pages": [
     {
       "route": "/colombia/",
-      "main_words": 1531,
+      "main_words": 1539,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/",
-        "/colombia/plan-your-amazon-trip/"
+        "/colombia/puerto-narino/",
+        "/colombia/plan-your-amazon-trip/",
+        "/colombia/leticia/"
       ],
       "main_content_outlinks": [
         "/",
         "/brazil/",
+        "/colombia/leticia/",
         "/colombia/plan-your-amazon-trip/",
+        "/colombia/puerto-narino/",
         "/contact/",
         "/ecuador/",
         "/peru/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/colombia.css?v=0f354fdc580d"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/colombia/leticia/",
+      "main_words": 1584,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/colombia/",
+        "/colombia/puerto-narino/",
+        "/colombia/plan-your-amazon-trip/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/colombia/",
+        "/colombia/plan-your-amazon-trip/",
+        "/colombia/puerto-narino/",
+        "/contact/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -34,15 +68,19 @@
     },
     {
       "route": "/colombia/plan-your-amazon-trip/",
-      "main_words": 1545,
+      "main_words": 1554,
       "h2_sections": 14,
       "main_content_inlinks": [
-        "/colombia/"
+        "/colombia/",
+        "/colombia/puerto-narino/",
+        "/colombia/leticia/"
       ],
       "main_content_outlinks": [
         "/",
         "/brazil/",
         "/colombia/",
+        "/colombia/leticia/",
+        "/colombia/puerto-narino/",
         "/contact/",
         "/ecuador/",
         "/peru/"
@@ -62,17 +100,51 @@
       "issues": []
     },
     {
+      "route": "/colombia/puerto-narino/",
+      "main_words": 1597,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/colombia/",
+        "/colombia/plan-your-amazon-trip/",
+        "/colombia/leticia/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/colombia/",
+        "/colombia/leticia/",
+        "/colombia/plan-your-amazon-trip/",
+        "/contact/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/colombia.css?v=0f354fdc580d"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
       "route": "/es/colombia/",
-      "main_words": 1737,
+      "main_words": 1745,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/",
-        "/es/colombia/planifica-tu-viaje-a-la-amazonia/"
+        "/es/colombia/puerto-narino/",
+        "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/colombia/leticia/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/brazil/",
+        "/es/colombia/leticia/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/colombia/puerto-narino/",
         "/es/contacto/",
         "/es/ecuador/",
         "/es/peru/"
@@ -92,19 +164,83 @@
       "issues": []
     },
     {
-      "route": "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
-      "main_words": 1722,
+      "route": "/es/colombia/leticia/",
+      "main_words": 1780,
       "h2_sections": 14,
       "main_content_inlinks": [
-        "/es/colombia/"
+        "/es/colombia/",
+        "/es/colombia/puerto-narino/",
+        "/es/colombia/planifica-tu-viaje-a-la-amazonia/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/colombia/",
+        "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/colombia/puerto-narino/",
+        "/es/contacto/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/colombia.css?v=0f354fdc580d"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+      "main_words": 1731,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/colombia/",
+        "/es/colombia/puerto-narino/",
+        "/es/colombia/leticia/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/brazil/",
         "/es/colombia/",
+        "/es/colombia/leticia/",
+        "/es/colombia/puerto-narino/",
         "/es/contacto/",
         "/es/ecuador/",
         "/es/peru/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/colombia.css?v=0f354fdc580d"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/colombia/puerto-narino/",
+      "main_words": 1797,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/colombia/",
+        "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/colombia/leticia/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/colombia/",
+        "/es/colombia/leticia/",
+        "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/contacto/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",

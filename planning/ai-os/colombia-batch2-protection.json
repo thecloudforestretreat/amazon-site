@@ -1,0 +1,22 @@
+[
+  {
+    "route": "/colombia/leticia/",
+    "status": 302,
+    "access_redirect": true
+  },
+  {
+    "route": "/es/colombia/leticia/",
+    "status": 302,
+    "access_redirect": true
+  },
+  {
+    "route": "/colombia/puerto-narino/",
+    "status": 302,
+    "access_redirect": true
+  },
+  {
+    "route": "/es/colombia/puerto-narino/",
+    "status": 302,
+    "access_redirect": true
+  }
+]

@@ -64,7 +64,8 @@ for r,p in sorted(pages.items()):
  if words<800 or p.h2<8:issues.append('Content coverage requires editorial review')
  rows.append({'route':r,'main_words':words,'h2_sections':p.h2,'main_content_inlinks':incoming,'main_content_outlinks':sorted(outgoing),'css':p.css,'unique_images':len(sources),'schema_types':sorted(types),'issues':issues})
  errors.extend({'route':r,'issue':i} for i in issues)
-if len(rows)!=4:errors.append({'issue':'First batch must contain four bilingual pages'})
+expected=json.loads(Path('planning/ai-os/colombia-progress.json').read_text())['staged_pages']
+if len(rows)!=expected:errors.append({'issue':f'Expected {expected} bilingual country pages; found {len(rows)}'})
 if len(titles)!=len(set(titles)) or len(descs)!=len(set(descs)):errors.append({'issue':'Duplicate metadata'})
 report={'pages_audited':len(rows),'errors':errors,'pages':rows,'limits':['Content counts do not prove editorial quality','Staging intentionally blocked from indexing; production eligibility requires country release','No live rankings, AI citations or field Core Web Vitals assessed']}
 Path('planning/ai-os/colombia-quality-audit.json').write_text(json.dumps(report,indent=2)+'\n');print(json.dumps({'pages':len(rows),'errors':errors,'word_range':[min(x['main_words'] for x in rows),max(x['main_words'] for x in rows)],'inlink_range':[min(len(x['main_content_inlinks']) for x in rows),max(len(x['main_content_inlinks']) for x in rows)]}));raise SystemExit(bool(errors))

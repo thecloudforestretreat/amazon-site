@@ -1,0 +1,56 @@
+{
+  "batch": 2,
+  "country": "colombia",
+  "date": "2026-10-08",
+  "deployment": "f5f0b158",
+  "rollback_deployment": "2485f373",
+  "staging_only": true,
+  "checks": {
+    "compiled_html_pages": 156,
+    "colombia_pages": 8,
+    "country_audit_errors": 0,
+    "shared_css_tests_passed": 4,
+    "production_containment_passed": true,
+    "access_redirects": 4,
+    "images_distinct_per_page": 3,
+    "desktop_mobile_visual_review": "Blocked by browser admin-policy verification",
+    "authenticated_content_readback": "Pending"
+  },
+  "editorial_review": [
+    "Nine substantive sections and four FAQs per page",
+    "Spanish literal phrases corrected; sloth mislabeled as anteater in raw translation corrected before publication",
+    "Unsuitable green-parrot scene excluded; river scene substituted",
+    "Shared CSS declarations unchanged; copied Spanish navigation label corrected"
+  ],
+  "usage": {
+    "runs": [
+      {
+        "topic": "leticia",
+        "model": "qwen3.5:9b",
+        "prompt_tokens": 2340,
+        "output_tokens": 2836,
+        "seconds": 124.02,
+        "retries": 0,
+        "cache_hits": 0,
+        "done_reason": "stop"
+      },
+      {
+        "topic": "puerto-narino",
+        "model": "qwen3.5:9b",
+        "prompt_tokens": 2369,
+        "output_tokens": 2876,
+        "seconds": 119.65,
+        "retries": 0,
+        "cache_hits": 0,
+        "done_reason": "stop"
+      }
+    ],
+    "total_local_tokens": 10421
+  },
+  "release_holds": [
+    "Destination-specific image verification",
+    "Rendered desktop/mobile review",
+    "Authenticated staging readback",
+    "Full country release QA and owner authorization"
+  ]
+}

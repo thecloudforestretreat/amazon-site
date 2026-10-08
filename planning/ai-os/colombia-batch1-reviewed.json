@@ -151,12 +151,12 @@
           [
             "Town and river outings",
             "Use a gateway base with excursions and clear return arrangements.",
-            "#section-1"
+            "/colombia/leticia/"
           ],
           [
             "Upstream stays",
             "Compare an upstream overnight setting with the transfer it needs.",
-            "#section-1"
+            "/colombia/puerto-narino/"
           ],
           [
             "Forest and local interpretation",
@@ -172,6 +172,14 @@
           [
             "/colombia/plan-your-amazon-trip/",
             "Trip planning"
+          ],
+          [
+            "/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/colombia/leticia/",
+            "Leticia"
           ],
           [
             "/ecuador/",
@@ -191,6 +199,14 @@
           ]
         ],
         "context_links": [
+          [
+            "Puerto Nariño",
+            "/colombia/puerto-narino/"
+          ],
+          [
+            "Leticia",
+            "/colombia/leticia/"
+          ],
           [
             "Colombia trip-planning guide",
             "/colombia/plan-your-amazon-trip/"
@@ -344,12 +360,12 @@
           [
             "Ciudad y excursiones fluviales",
             "Elija una base urbana con excursiones y un regreso bien organizado.",
-            "#section-1"
+            "/es/colombia/leticia/"
           ],
           [
             "Estancias río arriba",
             "Compare el alojamiento río arriba con el traslado necesario para llegar.",
-            "#section-1"
+            "/es/colombia/puerto-narino/"
           ],
           [
             "Selva e interpretación local",
@@ -365,6 +381,14 @@
           [
             "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
             "Planificación del viaje"
+          ],
+          [
+            "/es/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/es/colombia/leticia/",
+            "Leticia"
           ],
           [
             "/es/ecuador/",
@@ -384,6 +408,14 @@
           ]
         ],
         "context_links": [
+          [
+            "Puerto Nariño",
+            "/es/colombia/puerto-narino/"
+          ],
+          [
+            "Leticia",
+            "/es/colombia/leticia/"
+          ],
           [
             "guía de planificación de viajes a colombia",
             "/es/colombia/planifica-tu-viaje-a-la-amazonia/"
@@ -562,6 +594,14 @@
             "Trip planning"
           ],
           [
+            "/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/colombia/leticia/",
+            "Leticia"
+          ],
+          [
             "/ecuador/",
             "Ecuador"
           ],
@@ -579,6 +619,14 @@
           ]
         ],
         "context_links": [
+          [
+            "Puerto Nariño",
+            "/colombia/puerto-narino/"
+          ],
+          [
+            "Leticia",
+            "/colombia/leticia/"
+          ],
           [
             "Colombia trip-planning guide",
             "/colombia/plan-your-amazon-trip/"
@@ -755,6 +803,14 @@
             "Planificación del viaje"
           ],
           [
+            "/es/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/es/colombia/leticia/",
+            "Leticia"
+          ],
+          [
             "/es/ecuador/",
             "Ecuador"
           ],
@@ -772,6 +828,14 @@
           ]
         ],
         "context_links": [
+          [
+            "Puerto Nariño",
+            "/es/colombia/puerto-narino/"
+          ],
+          [
+            "Leticia",
+            "/es/colombia/leticia/"
+          ],
           [
             "guía de planificación de viajes a colombia",
             "/es/colombia/planifica-tu-viaje-a-la-amazonia/"

@@ -1,0 +1,25 @@
+{
+  "runs": [
+    {
+      "topic": "leticia",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2340,
+      "output_tokens": 2836,
+      "seconds": 124.02,
+      "retries": 0,
+      "cache_hits": 0,
+      "done_reason": "stop"
+    },
+    {
+      "topic": "puerto-narino",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2369,
+      "output_tokens": 2876,
+      "seconds": 119.65,
+      "retries": 0,
+      "cache_hits": 0,
+      "done_reason": "stop"
+    }
+  ],
+  "total_local_tokens": 10421
+}
