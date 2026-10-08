@@ -1,0 +1,613 @@
+{
+  "editorial_status": "reviewed",
+  "review_date": "2026-10-08",
+  "images": {
+    "amazon-forest-canoe-bow-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-forest-canoe-bow-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "5d74cddf67f036d0fe65044bf09c05ccd2352960dcb25b47ac831b9fb583643f"
+    },
+    "amazon-wooden-canoes-riverbank": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-wooden-canoes-riverbank.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "81e0ad56c85c2348710769d5fa9421e652dea9b7ee3c80b9ba9249304d07528b"
+    },
+    "amazon-rainforest-walk-traveler": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-rainforest-walk-traveler.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "cbf7ca9da828d289b62bfb0b2131d6be383d8af77355342665bf047971d3b6e7"
+    },
+    "amazon-forest-buttress-tree-hiker-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-forest-buttress-tree-hiker-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "2f414af8e0d165e636fb6480106701316e22d712fdca6d679bd3cf2168a724e5"
+    },
+    "amazon-canoe-group-lake-journey": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-canoe-group-lake-journey.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "da66207331cffb985492857cc246b422dfad57c6a979593883782a13ddb4e594"
+    }
+  },
+  "pages": {
+    "hub": {
+      "en": {
+        "h1": "Suriname rainforest travel",
+        "title": "Suriname Rainforest Travel | Routes & Trip Planning",
+        "description": "Compare Upper Suriname river stays, Brownsberg and the Central Suriname Nature Reserve. Plan transfers, accommodation and a rainforest journey that fits your pace.",
+        "lede": "Choose a river-based stay, forest walks or a more remote reserve journey in Suriname’s Guiana Shield interior. Start with the experience you want, then work backwards through access, accommodation and time. Paramaribo is a useful planning base; a workable route depends on the specific destination and current arrangements.",
+        "quick": [
+          "Which Suriname rainforest route fits your trip?",
+          "Upper Suriname suits travelers interested in river journeys and locally arranged community experiences. Brownsberg and Brokopondo bring forest walks and reservoir landscapes into the comparison. The Central Suriname Nature Reserve offers a different, more remote forest setting whose access needs careful planning. Choose one core area before adding another. Compare the complete transfer chain, walking demands, nights at your base and host arrangements rather than judging a trip only by how far inland it goes."
+        ],
+        "cta": [
+          "Let’s shape your Suriname journey",
+          "Tell us your dates, group size, preferred pace and the experiences that matter most. Include any concerns about boats, walking or accommodation. We can use that brief to discuss a route; an inquiry does not confirm availability or a booking."
+        ],
+        "faqs": [
+          [
+            "Is Suriname in the Amazon River basin?",
+            "Suriname’s rainforest interior is part of the Guiana Shield. This guide includes it within our wider South American rainforest travel coverage, without treating it as an Amazon River itinerary. Choose a destination by its actual rivers, access and habitats rather than assuming every country guide describes the same landscape."
+          ],
+          [
+            "Which region should I start with?",
+            "Compare Upper Suriname for river-based stays, Brownsberg/Brokopondo for forest walks and reservoir views, and the Central Suriname reserve for a more remote forest journey. Start with your interests and transfer tolerance; the right choice depends on current access, accommodation and the pace your group can comfortably sustain."
+          ],
+          [
+            "Can a community visit be included?",
+            "Discuss locally hosted visits in advance. Ask who welcomes guests, which activities are available, how local guides and hosts are paid, and what permission is needed for photographs. A stay does not imply access to private spaces, ceremonies or every village activity. Let hosts set the boundaries."
+          ],
+          [
+            "How many interior regions should one trip include?",
+            "One well-chosen interior base can provide a more satisfying trip than several short stops. Add a second region only after checking transfers and the number of usable activity days. Leave room for arrival, recovery and the return connection. Exact timing should come from the operator’s current route plan."
+          ]
+        ],
+        "sections": [
+          [
+            "Choose an interior route",
+            "Road-and-river travel and air access serve different interior routes; they are not interchangeable ways to reach every destination. Tourism transport guidance describes the road connection from Paramaribo to Atjoni followed by boats to Upper Suriname, alongside small-aircraft links from Zorg en Hoop to interior airstrips. Ask which connection actually serves your chosen base. Compare the whole door-to-door journey, including waiting, luggage handovers and the final arrival, before deciding that one option fits your group better.",
+            "Write down the experience you want most: guided forest walks, time on the river, a locally hosted stay or a quieter base for observation. Then ask how many days at the destination remain after transfers. A distant lodge can be worthwhile when it supports your priorities, but remoteness alone does not make a trip better. If a traveler finds boats or long road journeys difficult, explain that early so access is part of the comparison rather than a surprise."
+          ],
+          [
+            "Paramaribo as a planning gateway",
+            "Paramaribo is a practical place to organize an interior journey, but the city, international arrival point and onward departure point should be treated as separate parts of the itinerary. Ask where your transfer begins, whether a city overnight is included and how you reach the meeting place. Check the connection against your actual flight arrival. Avoid building a plan that relies on an unconfirmed same-day handover between an international flight and a separate inland service.",
+            "Use your time in the city to settle the details that are harder to change once the inland transfer starts. Confirm luggage arrangements, dietary requests, payment balances and the contact responsible for the next departure. Keep the route summary available offline. If you want time in Paramaribo itself, protect it in the itinerary instead of treating every city night as spare time. A calm start can be useful even for experienced travelers who mainly want the forest."
+          ],
+          [
+            "Upper Suriname and community-led stays",
+            "Upper Suriname can bring river travel and community-led hosting into the same journey. The quality of that experience depends on the relationship between visitors, local hosts and the people arranging the stay. Ask who will welcome you, what the proposed visit includes and which spaces or activities are private. A community should not be treated as a set of attractions available on demand. Permission for a visit is separate from permission to photograph people or share their stories.",
+            "Look for a clear account of how local hosts and guides participate in the proposed trip. Ask whether conversations and walks are led by residents, whether interpretation is available when needed and how payment is arranged. You do not need to seek a staged performance to have a meaningful visit. Time to listen, respect everyday routines and accept a host’s boundaries can matter more than adding activities. Let the welcome offered determine the visit rather than arriving with a fixed script."
+          ],
+          [
+            "Brownsberg and Brokopondo",
+            "Brownsberg and the Brokopondo area offer a useful comparison for travelers drawn to forest walking and reservoir landscapes. National tourism guidance describes hiking trails and views toward the reservoir at Brownsberg. Treat each proposed outing as a specific route: ask about gradients, walking surfaces, return distance and the guide’s plan in wet conditions. A viewpoint, waterfall walk and overnight stay can involve different demands. Confirm the actual itinerary rather than assuming one description covers every visit.",
+            "Decide whether this part of the trip is mainly about walking, a change of scenery or spending more time at one forest base. Ask what happens if conditions make the planned walk unsuitable and whether an alternative is genuinely available. The reservoir setting differs from a narrow forest river, so choose the landscape that interests you instead of grouping every water-based outing together. Balance activity time with the approach and return transfers when comparing a short excursion against an overnight stay."
+          ],
+          [
+            "Central Suriname Nature Reserve",
+            "The Central Suriname Nature Reserve protects tropical forest and the upper Coppename watershed, with granite inselbergs among its distinctive features. Its UNESCO recognition explains the conservation significance of the landscape; it does not confirm that a particular route or visitor facility is currently available. If this is your priority, ask which part of the reserve the proposed journey reaches, how access is arranged and what the walking plan involves. A named reserve should translate into a clear, destination-specific itinerary.",
+            "For a reserve journey, compare how much time you spend observing the forest with how much time is needed to reach the base. Ask about guiding, communication arrangements, accommodation and the plan if a connection changes. Keep your interests specific: a photographer may want patient stops, while another traveler may prefer shorter walks and more time at camp. Both can value the same landscape without needing the same schedule. Wildlife encounters remain uncertain and should never be the condition on which the trip’s value depends."
+          ],
+          [
+            "River travel and wildlife observation",
+            "River travel changes the way you experience the forest: the journey can become part of the visit rather than simply a transfer. Ask whether the proposed boat leg is transport, a guided observation outing or both. Those distinctions affect seating, stopping time, shade and the attention available from the guide. Do not assume every boat connection provides opportunities for photography. Discuss how your group’s interests fit the actual boat and route, especially when carrying cameras or traveling with someone who needs extra support boarding.",
+            "Observation is most rewarding when expectations allow for quiet stretches as well as encounters. Ask how the guide chooses suitable stops and how the group keeps noise and disturbance low. For any named species, separate presence in the wider region from the likelihood of seeing it on your particular outing. Bring a plan for protecting equipment and keeping essential items accessible, and follow the crew’s boarding and seating instructions. River journeys should be selected for their landscape and pace as well as their wildlife possibilities."
+          ],
+          [
+            "Choose accommodation by practical needs",
+            "Compare accommodation through the details that shape everyday comfort: sleeping arrangements, bathrooms, insect protection, meals, drinking water and opportunities to charge devices. Ask for current photographs and a description of the room category in the quote. A label such as lodge, camp or community stay is not enough to establish those features. If privacy, step-free access or a particular diet matters, explain it before a property is chosen and ask for a specific confirmation rather than relying on a general comfort rating.",
+            "Look beyond the bedroom when choosing a base. Ask where activities depart, whether guides stay with the group and whether the daily plan can include rest time. Someone interested in photography may value time to dry and organize equipment; a family may prioritize sleeping arrangements and flexible meals. Compare only what is confirmed in the proposal. A property image used to illustrate forest accommodation is not evidence that the pictured lodge is included, and no facilities should be inferred from a photograph alone."
+          ],
+          [
+            "Build time for transfers and recovery",
+            "Build a route around usable days rather than counting every calendar day as an activity day. Arrival, changing transport and settling into a new base all take attention. Ask the operator to identify the expected transfer periods and which outings remain realistic around them. If the plan places a demanding walk immediately after a tiring connection, discuss a gentler first activity. The best pace depends on the people traveling, not on filling every morning and afternoon with something scheduled.",
+            "Keep enough flexibility for a connection change without relying on a universal number of buffer days. Ask how the return from the interior relates to your onward flight, what the recommended margin is and who helps if the route changes. If you have a fixed departure, share it before the itinerary is drawn up. A simpler route with more time at one base can protect the experiences you came for while reducing repeated packing, transfers and the pressure to move on."
+          ],
+          [
+            "Turn your priorities into an inquiry",
+            "When you plan your Suriname rainforest trip, send a brief that explains your priorities in everyday language. Include dates, group size, how much walking you enjoy and whether boats, a hosted community stay or time in forest are the main draw. Mention the level of privacy and comfort you need, any dietary requirements and your arrival or departure constraints. A useful inquiry also states what would make the trip difficult, so an attractive proposal does not overlook a practical limitation.",
+            "Ask the resulting proposal to show the route, accommodation, transport, guiding and inclusions clearly. Compare quotations on that basis rather than assuming similar headlines mean equivalent trips. Check which items remain provisional, when confirmation is needed and what happens if an arrangement changes. Your first inquiry is a starting point for planning, not a commitment to book. Keeping the brief clear makes it easier to decide whether a proposed route genuinely matches the journey you want."
+          ]
+        ],
+        "type": "country_hub",
+        "pair_id": "suriname_hub_001",
+        "slug": "",
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Suriname Travel — transport",
+            "https://suriname.travel/transport-in-suriname/"
+          ],
+          [
+            "Suriname Travel — Sipaliwini",
+            "https://suriname.travel/sipaliwini/"
+          ],
+          [
+            "Suriname Travel — Brokopondo",
+            "https://suriname.travel/brokopondo/"
+          ],
+          [
+            "UNESCO — Central Suriname Nature Reserve",
+            "https://whc.unesco.org/en/list/1017/"
+          ]
+        ],
+        "scope": "Editorial guide reviewed October 8, 2026. Access, accommodation and activities must be confirmed for the specific itinerary. Images illustrate forest and river settings; they do not identify specific Suriname properties or locations.",
+        "links": [
+          [
+            "/suriname/",
+            "Suriname overview"
+          ],
+          [
+            "/suriname/plan-your-rainforest-trip/",
+            "Plan your trip"
+          ],
+          [
+            "/contact/",
+            "Share your plans"
+          ]
+        ],
+        "context_links": [
+          [
+            "plan your Suriname rainforest trip",
+            "/suriname/plan-your-rainforest-trip/"
+          ]
+        ],
+        "hero": [
+          "amazon-forest-canoe-bow-wide",
+          "View from a canoe toward forest-lined water"
+        ],
+        "features": {
+          "1": [
+            "amazon-forest-buttress-tree-hiker-wide",
+            "Hiker beside the roots of a large forest tree"
+          ],
+          "4": [
+            "amazon-wooden-canoes-riverbank",
+            "Wooden canoes beside a riverbank"
+          ]
+        }
+      },
+      "es": {
+        "h1": "Viajes a la selva de Suriname",
+        "title": "Viajes a la selva de Suriname | Regiones y planificación",
+        "description": "Compara rutas fluviales, Brownsberg y la Reserva Natural de Suriname Central. Organiza traslados, alojamiento y un viaje a la selva acorde a tus intereses.",
+        "lede": "Elija una estancia junto al río, caminatas por el bosque o un viaje a una reserva más remota del interior del Escudo de Guayana. Empiece por la experiencia que busca y después evalúe el acceso, el alojamiento y el tiempo disponible. Paramaribo puede servir de base para organizar el viaje; la ruta depende del destino elegido y de los servicios confirmados.",
+        "quick": [
+          "¿Qué ruta por la selva de Suriname se adapta a su viaje?",
+          "El Alto Suriname conviene a viajeros interesados en viajes fluviales y experiencias comunitarias locales. Brownsberg y Brokopondo aportan caminatas por el bosque y paisajes de embalses para comparar. La Reserva Natural Central ofrece un entorno forestal más remoto que requiere planificación cuidadosa. Elija un área central antes de añadir otra. Compare la cadena completa de traslados, exigencias físicas, noches en su base y acuerdos con anfitriones en lugar de juzgar solo por la distancia al interior."
+        ],
+        "cta": [
+          "Diseñemos su viaje a Suriname",
+          "Cuéntenos sus fechas, tamaño del grupo, ritmo preferido y experiencias más importantes. Incluya cualquier preocupación sobre barcos, caminatas o alojamiento. Usaremos ese resumen para discutir una ruta; una consulta no confirma disponibilidad ni reserva."
+        ],
+        "faqs": [
+          [
+            "¿Está Suriname en la cuenca del río Amazonas?",
+            "El interior boscoso de Suriname forma parte del Escudo de Guayana. Esta guía lo incluye dentro de nuestra cobertura amplia de viajes por selvas sudamericanas, sin tratarlo como un itinerario del río Amazonas. Elija un destino por sus ríos reales, accesos y hábitats en lugar de asumir que todas las guías describen el mismo paisaje."
+          ],
+          [
+            "¿Por qué región conviene empezar?",
+            "Compare el Alto Suriname para estancias fluviales, Brownsberg/Brokopondo para caminatas y vistas a embalses, y la reserva de Suriname Central para un viaje remoto. Comience con sus intereses y tolerancia a traslados; la elección correcta depende del acceso actual, alojamiento y el ritmo que su grupo pueda sostener."
+          ],
+          [
+            "¿Puede incluirse una visita comunitaria?",
+            "Comente visitas alojadas localmente con antelación. Pregunte quién recibe a los huéspedes, qué actividades están disponibles, cómo se pagan guías y anfitriones locales, y qué permisos se necesitan para fotografías. Una estancia no implica acceso a espacios privados o ceremonias o todas las actividades del pueblo. Deje que los anfitriones establezcan los límites."
+          ],
+          [
+            "¿Cuántas regiones interiores debe incluir un viaje?",
+            "Una base interior bien elegida puede ofrecer un viaje más satisfactorio que varias paradas cortas. Añada una segunda región solo tras verificar traslados y días de actividad utilizables. Reserve tiempo para la llegada, recuperación y conexión de retorno. El tiempo exacto debe provenir del plan de ruta actual del operador."
+          ]
+        ],
+        "sections": [
+          [
+            "Elija una ruta interior",
+            "El viaje por carretera y río y el acceso aéreo sirven rutas interiores diferentes; no son intercambiables para llegar a todos los destinos. La guía de transporte turístico describe la conexión vial desde Paramaribo hasta Atjoni seguida de barcos al Alto Suriname, junto con conexiones en avionetas desde Zorg en Hoop hacia pistas interiores. Pregunte qué conexión permite llegar al alojamiento elegido. Compare el viaje puerta a puerta completo, incluyendo esperas, traslados de equipaje y llegada final, antes de decidir que una opción conviene mejor a su grupo.",
+            "Describa la experiencia más deseada: caminatas por el bosque guiadas, tiempo en el río, estancia con anfitrión local o base tranquila para observación. Luego pregunte cuántos días quedan tras los traslados. Un lodge distante puede valer la pena si responde a sus prioridades, pero la lejanía por sí sola no mejora un viaje. Si un viajero tiene dificultades con los barcos o viajes largos en carretera, explíquelo temprano para que el acceso sea parte de la comparación, no una sorpresa."
+          ],
+          [
+            "Paramaribo como base para organizar el viaje",
+            "Paramaribo es un lugar práctico para organizar un viaje interior, pero la ciudad, punto de llegada internacional y salida deben tratarse como partes separadas del itinerario. Pregunte dónde comienza su traslado, si incluye noche en ciudad y cómo llegar al punto de encuentro. Verifique la conexión con el horario de llegada de su vuelo. Evite construir un plan que dependa de una conexión en el mismo día no confirmada entre un vuelo internacional y un servicio interior separado.",
+            "Use su tiempo en la ciudad para resolver detalles difíciles de cambiar una vez iniciado el traslado interior. Confirme organización del equipaje, solicitudes dietéticas, saldos de pago y contacto responsable del siguiente salida. Mantenga disponible el resumen de ruta sin conexión a internet. Si desea tiempo en Paramaribo mismo, protéjalo en el itinerario en lugar de tratar cada noche urbana como tiempo libre. Un inicio tranquilo puede ser útil incluso para viajeros experimentados que buscan principalmente el bosque."
+          ],
+          [
+            "Alto Suriname y estancias lideradas por comunidades",
+            "El Alto Suriname puede integrar viajes fluviales y alojamiento comunitario en el mismo viaje. La calidad de esa experiencia depende de la relación entre visitantes, anfitriones locales y quienes organizan la estancia. Pregunte quién le recibirá, qué incluye la visita propuesta y qué espacios o actividades son privados. Una comunidad no debe tratarse como un conjunto de atractivos disponibles a demanda. El permiso para una visita es separado del permiso para fotografiar personas o compartir sus historias.",
+            "Busque una explicación clara de cómo participan anfitriones y guías locales en el viaje propuesto. Pregunte si conversaciones y caminatas son lideradas por residentes, si hay interpretación cuando sea necesario y cómo se organiza el pago. No necesita buscar una actuación escenificada para tener una visita significativa. Tiempo para escuchar, respetar rutinas diarias y aceptar límites de un anfitrión puede importar más que añadir actividades. Deje que la bienvenida ofrecida determine la visita en lugar de llegar con un guion fijo."
+          ],
+          [
+            "Brownsberg y Brokopondo",
+            "Brownsberg y el área de Brokopondo ofrecen una comparación útil para viajeros atraídos por caminatas por el bosque y paisajes de embalses. La información turística nacional describe senderos y vistas hacia el embalse en Brownsberg. Trate cada salida propuesta como una ruta específica: pregunte sobre pendientes, superficies de caminata, distancia de retorno y plan del guía en condiciones húmedas. Un mirador, caminata a cascada y estancia nocturna pueden implicar exigencias diferentes. Confirme el itinerario real en lugar de asumir que una descripción cubre todas las visitas.",
+            "Decida si esta parte del viaje es principalmente sobre caminar, cambio de paisaje o más tiempo en una base forestal. Pregunte qué pasa si condiciones hacen inadecuada la caminata planificada y si hay alternativa genuinamente disponible. El entorno del embalse difiere de un río forestal estrecho, así que elija el paisaje que le interese en lugar de agrupar todas las salidas acuáticas. Equilibre tiempo de actividad con traslados de aproximación y retorno al comparar una excursión corta contra una estancia nocturna."
+          ],
+          [
+            "Reserva Natural de Suriname Central",
+            "La Reserva Natural de Suriname Central protege bosque tropical y la cuenca superior del Coppename, con inselbergs graníticos entre sus rasgos distintivos. Su reconocimiento UNESCO explica la importancia de conservación del paisaje; no confirma que una ruta o instalación para visitantes esté actualmente disponible. Si esto es su prioridad, pregunte qué parte de la reserva alcanza el viaje propuesto, cómo se organiza el acceso y qué implica el plan de caminata. El nombre de una reserva debe traducirse en un itinerario claro y adaptado al destino.",
+            "Para un viaje a la reserva, compare cuánto tiempo pasa observando el bosque con cuánto tiempo se necesita para llegar a la base. Pregunte sobre el servicio de guía, medios de comunicación, alojamiento y plan si cambia una conexión. Mantenga sus intereses específicos: un fotógrafo puede querer paradas sin prisa, mientras otro viajero prefiere caminatas cortas y más tiempo en campamento. Ambos pueden valorar el mismo paisaje sin necesitar el mismo horario. Encuentros con vida silvestre son inciertos y nunca deben ser condición sobre la cual dependa el valor del viaje."
+          ],
+          [
+            "Viaje fluvial y observación de vida silvestre",
+            "El viaje fluvial cambia la forma en que se disfruta del bosque: el trayecto puede convertirse en parte de la visita en lugar de simplemente un traslado. Pregunte si el tramo de barco propuesto es transporte, una salida guiada de observación o ambas. Esas distinciones afectan asientos, tiempo de parada, sombra y atención disponible del guía. No dé por hecho que cada conexión de barco ofrece oportunidades para fotografía. Comente cómo los intereses del grupo se ajustan al barco y ruta reales, especialmente cuando llevan cámaras o viajan con alguien que necesita apoyo extra para abordar.",
+            "La observación es más gratificante cuando expectativas permiten tramos silenciosos además de encuentros. Pregunte cómo el guía elige paradas adecuadas y cómo el grupo mantiene bajo ruido y perturbación. Para cualquier especie nombrada, separe presencia en la región en general de probabilidad de verla en su salida particular. Lleve un plan para proteger equipo y mantener artículos esenciales accesibles, y siga instrucciones de embarque y ubicación del personal. Los viajes fluviales deben seleccionarse por su paisaje y ritmo además de posibilidades de vida silvestre."
+          ],
+          [
+            "Elija alojamiento por necesidades prácticas",
+            "Compare alojamientos por detalles que definen comodidad diaria: distribución de camas, baños, protección contra insectos, comidas, agua potable y oportunidades para cargar dispositivos. Pida fotos actuales y descripción de categoría de habitación en la cotización. Una etiqueta como lodge, campamento o estancia comunitaria no basta para establecer esas características. Si privacidad, acceso sin barreras o dieta específica importan, explíquelo antes de elegir el alojamiento y pida confirmación concreta en lugar de depender de una calificación general de comodidad.",
+            "Considere algo más del dormitorio al elegir base. Pregunte desde dónde parten actividades, si guías permanecen con el grupo y si el plan diario puede incluir tiempo de descanso. Alguien interesado en fotografía puede valorar tiempo para secar y organizar equipo; una familia puede priorizar distribución de camas y horarios de comida flexibles. Compare solo lo confirmado en la propuesta. Una imagen de alojamiento utilizada para ilustrar alojamiento forestal no es evidencia de que el alojamiento fotografiado esté incluido, y no se deben inferir instalaciones de una fotografía sola."
+          ],
+          [
+            "Reserve tiempo para traslados y descanso",
+            "Organice una ruta según los días disponibles para actividades en lugar de contar cada día del calendario como día de actividad. Llegada, cambio de transporte y adaptación a nueva base requieren atención. Pida al operador identificar períodos de traslado esperados y qué salidas permanecen realistas alrededor de ellos. Si el plan coloca un paseo exigente inmediatamente después de un traslado agotador, comente una primera actividad más suave. El mejor ritmo depende de las personas viajeras, no de llenar cada mañana y tarde con algo programado.",
+            "Mantenga suficiente flexibilidad para un cambio de conexión sin depender de un número universal de días de margen. Pregunte cómo el retorno del interior se relaciona con su siguiente vuelo, cuál es el margen recomendado y quién ayuda si cambia la ruta. Si tiene una salida fija, compártala antes de preparar el itinerario. Una ruta más simple con más tiempo en una base puede proteger las experiencias por las que vino mientras reduce hacer y deshacer el equipaje, traslados y presión para moverse."
+          ],
+          [
+            "Convierta sus prioridades en una consulta",
+            "Al planificar tu viaje a la selva de Suriname, Para planificar su viaje a la selva de Suriname, envíe un resumen claro de sus prioridades. Incluya las fechas, el número de viajeros, cuánto le gusta caminar y si el principal interés son los recorridos fluviales, una estancia con anfitriones locales o el tiempo en el bosque. Explique las necesidades de privacidad y comodidad, las preferencias alimentarias y los horarios de llegada y salida. Señale también las limitaciones prácticas que una propuesta no debería pasar por alto.",
+            "Pida a la propuesta resultante que muestre ruta, alojamiento, transporte, servicio de guía e inclusiones claramente. Compare cotizaciones sobre esa base en lugar de asumir que títulos similares equivalen a viajes idénticos. Verifique qué elementos permanecen provisionales, cuándo se necesita confirmación y qué pasa si cambia un arreglo. Su primera consulta es el punto de partida para planificar, no compromiso de reserva. Un resumen claro facilita decidir si una ruta propuesta coincide realmente con el viaje deseado."
+          ]
+        ],
+        "type": "country_hub",
+        "pair_id": "suriname_hub_001",
+        "slug": "",
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Suriname Travel — transport",
+            "https://suriname.travel/transport-in-suriname/"
+          ],
+          [
+            "Suriname Travel — Sipaliwini",
+            "https://suriname.travel/sipaliwini/"
+          ],
+          [
+            "Suriname Travel — Brokopondo",
+            "https://suriname.travel/brokopondo/"
+          ],
+          [
+            "UNESCO — Central Suriname Nature Reserve",
+            "https://whc.unesco.org/en/list/1017/"
+          ]
+        ],
+        "scope": "Guía editorial revisada el 8 de octubre de 2026. Acceso, alojamiento y actividades deben confirmarse para el itinerario concreto. Las imágenes ilustran entornos de bosque y río; no identifican alojamientos ni lugares específicos de Suriname.",
+        "links": [
+          [
+            "/es/suriname/",
+            "Guía de Suriname"
+          ],
+          [
+            "/es/suriname/planifica-tu-viaje-a-la-selva/",
+            "Planifica tu viaje"
+          ],
+          [
+            "/es/contacto/",
+            "Comparte tus planes"
+          ]
+        ],
+        "context_links": [
+          [
+            "planificar tu viaje a la selva de Suriname",
+            "/es/suriname/planifica-tu-viaje-a-la-selva/"
+          ]
+        ],
+        "hero": [
+          "amazon-forest-canoe-bow-wide",
+          "Vista desde una canoa hacia un río rodeado de bosque"
+        ],
+        "features": {
+          "1": [
+            "amazon-forest-buttress-tree-hiker-wide",
+            "Caminante junto a las raíces de un gran árbol del bosque"
+          ],
+          "4": [
+            "amazon-wooden-canoes-riverbank",
+            "Canoas de madera junto a la orilla de un río"
+          ]
+        }
+      }
+    },
+    "planning": {
+      "en": {
+        "h1": "Plan your Suriname rainforest trip",
+        "title": "Plan Your Suriname Rainforest Trip | Routes and Advice",
+        "description": "Build a Suriname rainforest itinerary around your interests, transfer options and comfort needs. Compare routes and ask the right questions before booking.",
+        "lede": "A good Suriname itinerary starts with a few clear decisions: what you want to experience, how you prefer to travel and what makes a comfortable stay. Choose the core region first, then check the transfer chain and accommodation. This guide helps turn those choices into a useful inquiry and a proposal you can assess.",
+        "quick": [
+          "How do you begin planning a Suriname rainforest trip?",
+          "Start with one core area and a realistic pace. Upper Suriname introduces a road-and-river journey with locally arranged stays; Brownsberg and Brokopondo offer another landscape and activity mix. A Central Suriname Nature Reserve journey needs its own access plan. Compare the full transfers, actual nights at your base and accommodation details before adding destinations. Share your dates, group size, walking preferences and arrival constraints so the proposal can reflect your needs rather than a generic checklist."
+        ],
+        "cta": [
+          "Tell us what your journey should feel like",
+          "Share your dates, group size, interests and the comfort details that matter. Tell us if boats, walks or transfers need particular attention. A clear brief starts a planning conversation; it does not confirm a booking or availability."
+        ],
+        "faqs": [
+          [
+            "Can I combine several rainforest areas?",
+            "You can explore a combination, but first check how the connections work and how much time remains at each base. Regions should not be treated as interchangeable stops. Ask for a day-by-day route and consider whether fewer transfers would give you more time for the experiences you value."
+          ],
+          [
+            "Is air access always better than road and boat?",
+            "No. The destination determines the viable access options. Compare the whole journey, including departure points, waiting, luggage limits and final transfer. A flight may serve a different base rather than offer a direct substitute for your chosen river route. Ask which options are actually available for your dates."
+          ],
+          [
+            "What should a quotation explain?",
+            "Look for named accommodation or an clearly described category, transfers, guiding, meals, activities, exclusions and payment terms. Ask which arrangements remain provisional and how changes are handled. An inclusive-sounding headline does not replace a written account of what your group will receive and what is paid separately."
+          ],
+          [
+            "How should I approach a community visit?",
+            "Ask about a locally arranged welcome, the host’s role and what activities are offered. Respect decisions about photographs, private spaces and events. A proposed stay should explain how residents guide or host visitors without promising unrestricted access. Conversations and visits should follow the welcome offered, rather than a visitor’s fixed expectations."
+          ]
+        ],
+        "sections": [
+          [
+            "Start with what matters to your group",
+            "Begin with the people traveling rather than a list of places. Ask each traveler what they most want from the journey: quiet forest time, photography, river travel, guided walks or locally hosted conversations. Note differences in walking confidence and comfort with boat transfers. A group can share a destination without wanting the same daily pace. Explain those differences in the inquiry so an itinerary can make room for rest, shorter outings or a different activity focus where arrangements allow.",
+            "Make comfort requirements concrete. Private bathrooms, room sharing, dietary needs, charging equipment and help with boarding are more useful to discuss than a broad label such as luxury or adventure. If a traveler has a firm limit on a type of transfer, state it before regions are chosen. Separate essential requirements from preferences you can compromise on. That distinction helps evaluate proposals and avoids reaching a late stage only to discover that the central route does not fit your group."
+          ],
+          [
+            "Choose one core interior region",
+            "Use the Suriname rainforest overview to compare the character of each area before selecting a route. Upper Suriname brings river travel and local hosting into the discussion. Brownsberg and Brokopondo suit a different comparison of forest walks and reservoir landscapes. The Central Suriname reserve is a distinct forest-conservation setting whose practical access requires careful confirmation. Decide which experience deserves the most time instead of assuming every region should appear in the same trip.",
+            "Once you choose the core region, ask how many nights at the base support the activities you want. Count full days separately from arrival and departure periods. If there is room for a second area, explain what it adds: a different landscape, another activity or time in the city. Avoid adding a stop simply because its name is familiar. A clear reason for each move makes it easier to judge whether the route offers useful variety or just more transfers."
+          ],
+          [
+            "Build the transfer chain before booking",
+            "Write the journey as a chain of meeting points, transport legs and handovers. For Upper Suriname, national tourism guidance describes road travel from Paramaribo to Atjoni followed by a boat connection. Other interior journeys may use small aircraft from Zorg en Hoop. Ask the provider to identify the connection for your actual destination, who is responsible at each stage and whether the transfers are included in one arrangement or booked separately.",
+            "Check both the outward and return connections against your international travel. Confirm the arrival point, city overnight if needed, next meeting time and how luggage moves between vehicles or boats. Ask what happens if your incoming flight is delayed and how you contact the person coordinating the next leg. A route diagram can be simple, but it should be complete. Do not make a non-refundable commitment based on a connection that has only been assumed."
+          ],
+          [
+            "Compare a road-and-river route with air access",
+            "Road, river and air options should be compared for a specific destination, rather than ranked in the abstract. Ask about the time away from your base, opportunities to stop, boarding arrangements and the luggage rules for the actual service. A river journey may be part of the experience you want; another traveler may prefer to reduce transfer time. Neither preference is wrong. The important question is which confirmed route fits your interests and practical needs.",
+            "Look at the complete quotation when comparing transport. A shorter airborne leg does not describe the final connection to the property, and a road-and-boat combination does not tell you how much guiding or observation it includes. Ask whether the boat leg is simply a transfer, whether a guide travels with you and what arrangements exist for rain or changes. Compare only confirmed options, and keep the itinerary flexible enough to respond to the operator’s current advice."
+          ],
+          [
+            "Ask useful questions about your accommodation",
+            "Ask for details of the proposed room and the wider base: beds, bathroom arrangements, insect protection, drinking water, meals and electricity. Check whether photographs show the accommodation category in your quote. For a hosted stay, ask who welcomes guests and how the day is organized. Do not infer a facility, a level of privacy or an activity from a promotional image. Each detail that matters to your group needs a clear answer.",
+            "Connect your accommodation questions to how you will use the base. Photographers may need a practical place to organize equipment; families may need clarity about sleeping arrangements and meal timing. Someone who prefers shorter walks may value time around the property while others are out. Ask what flexibility is available, without assuming the lodge can provide every request. A suitable base supports your priorities and makes daily routines manageable, even when its facilities are simple."
+          ],
+          [
+            "Plan activities around pace and consent",
+            "For each walk or outing, ask about the actual route, the expected walking surface, rest opportunities and whether the group can turn back or choose a shorter option. Describe your abilities in practical terms instead of relying on a general fitness rating. Explain if photography or observation makes you prefer a slower pace. The schedule should reflect how you want to experience the place, with room to listen and look rather than rushing between activities.",
+            "For community experiences, ask what the host has agreed to offer and how local residents participate. Permission to enter a space does not automatically include photographing its people or recording conversations. Ask before taking pictures and accept a refusal without negotiation. Let hosts explain what is private and which visits suit the day. The itinerary should give a framework for respectful participation while allowing local decisions to shape what happens."
+          ],
+          [
+            "Prepare for luggage and daily comfort",
+            "Confirm luggage size and weight rules with the specific transport provider before packing. Ask whether excess luggage can be stored safely at your city base and which essentials should remain accessible during transfers. Plan how to protect clothing, documents and cameras from rain or splashes without assuming the luggage compartment will remain dry. Keep the packing plan simple enough that you can manage your bags during the handovers described in the itinerary.",
+            "Ask about laundry, charging opportunities, towels, insect protection and drinking-water arrangements so you can pack for the actual stay. Bring the personal items you rely on and explain equipment needs before a property is selected. If you use a device that requires power, seek a specific answer about supply and backup options. Preparation should be tied to your route and accommodation; a universal packing list cannot establish the facilities or rules of every inland journey."
+          ],
+          [
+            "Read the quotation before committing",
+            "Read the quote against the route: accommodation, transport, guiding, meals and activities should be identifiable, with exclusions stated separately. Check the number of nights and whether arrival or departure transfers are included. Ask which room type and group arrangements the price assumes, and which details remain provisional. A proposal can look complete while leaving important decisions open. Resolve those questions before you compare it with another quote or make a payment.",
+            "Review payment timing, cancellation terms and the procedure for itinerary changes. Ask who coordinates the trip and which party provides each major service. Discuss what happens if an agreed connection or activity cannot operate; avoid treating an alternative as guaranteed unless it is written into the arrangement. Keep a copy of the confirmed route and terms. The goal is a shared understanding of what is booked, what is conditional and what your group may need to decide later."
+          ],
+          [
+            "Send a brief that can become a workable route",
+            "Send dates, group size, arrival and departure details, the core region you prefer and the experiences you value most. Include walking preferences, boat concerns, room sharing and dietary requests. If you have a budget range, say what it needs to cover so the comparison is useful. State essential requirements first, then list the preferences that can change. A well-organized brief gives the planning conversation direction while leaving room for a more suitable route to be suggested.",
+            "When a proposal arrives, check whether it answers your brief rather than simply adding more activities. Ask why the chosen base and transfer plan suit your group, and compare how much time is left to enjoy each setting. An inquiry begins the conversation; it does not reserve rooms, promise a guide or confirm community access. Keep the route provisional until the relevant arrangements are checked. That approach helps turn interest in the rainforest into a trip you can assess with confidence."
+          ]
+        ],
+        "type": "planning_guide",
+        "pair_id": "suriname_planning_001",
+        "slug": "plan-your-rainforest-trip",
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Suriname Travel — transport",
+            "https://suriname.travel/transport-in-suriname/"
+          ],
+          [
+            "Suriname Travel — Sipaliwini",
+            "https://suriname.travel/sipaliwini/"
+          ],
+          [
+            "Suriname Travel — Brokopondo",
+            "https://suriname.travel/brokopondo/"
+          ],
+          [
+            "UNESCO — Central Suriname Nature Reserve",
+            "https://whc.unesco.org/en/list/1017/"
+          ]
+        ],
+        "scope": "Editorial guide reviewed October 8, 2026. Access, accommodation and activities must be confirmed for the specific itinerary. Images illustrate forest and river settings; they do not identify specific Suriname properties or locations.",
+        "links": [
+          [
+            "/suriname/",
+            "Suriname overview"
+          ],
+          [
+            "/suriname/plan-your-rainforest-trip/",
+            "Plan your trip"
+          ],
+          [
+            "/contact/",
+            "Share your plans"
+          ]
+        ],
+        "context_links": [
+          [
+            "Suriname rainforest overview",
+            "/suriname/"
+          ]
+        ],
+        "hero": [
+          "amazon-canoe-group-lake-journey",
+          "Travelers in a canoe on calm water"
+        ],
+        "features": {
+          "1": [
+            "amazon-wooden-canoes-riverbank",
+            "Wooden canoes beside a riverbank"
+          ],
+          "4": [
+            "amazon-rainforest-walk-traveler",
+            "Traveler walking along a forest path"
+          ]
+        }
+      },
+      "es": {
+        "h1": "Planifique su viaje a la selva de Suriname",
+        "title": "Planifica tu viaje a la selva de Suriname",
+        "description": "Organiza un viaje a la selva de Suriname según tus intereses, traslados y necesidades de comodidad. Compara rutas y aclara los detalles antes de reservar.",
+        "lede": "Un buen itinerario para Suriname comienza con unas pocas decisiones claras: lo que desea experimentar, cómo prefiere viajar y qué define una estancia cómoda. Elija primero la región principal, luego verifique la cadena de traslados y el alojamiento. Esta guía ayuda a convertir esas elecciones en una consulta útil y una propuesta que pueda evaluar.",
+        "quick": [
+          "¿Cómo comienza a planificar un viaje al selva de Suriname?",
+          "Comience con una zona principal y un ritmo realista. El Alto Suriname introduce un viaje por carretera y río con estancias organizadas localmente; Brownsberg y Brokopondo ofrecen otra mezcla de paisajes y actividades. Un viaje a la Reserva Natural de Suriname Central requiere su propio plan de acceso. Compare los traslados completos, las noches reales en su base y los detalles del alojamiento antes de añadir destinos. Comparta sus fechas, número de viajeros, preferencias de caminata y limitaciones de llegada para que la propuesta refleje sus necesidades en lugar de una lista genérica."
+        ],
+        "cta": [
+          "Cuéntenos cómo imagina su viaje",
+          "Comparta sus fechas, número de viajeros, intereses y necesidades de comodidad. Indique si los barcos, las caminatas o los traslados requieren especial atención. Un resumen claro inicia una conversación para organizar el viaje; no confirma una reserva ni disponibilidad."
+        ],
+        "faqs": [
+          [
+            "¿Puedo combinar varias zonas del selva?",
+            "Puede explorar una combinación, pero primero verifique cómo funcionan las conexiones y cuánto tiempo queda en cada base. Las regiones no deben tratarse como paradas intercambiables. Solicite una ruta día a día y considere si menos traslados le darían más tiempo para las experiencias que valora."
+          ],
+          [
+            "¿Es el acceso aéreo siempre mejor que por carretera y bote?",
+            "No. El destino determina las opciones de acceso viables. Compare todo el viaje, incluidos los puntos de partida, esperas, límites de equipaje y traslado final. Un vuelo puede servir a una base diferente en lugar de ofrecer un sustituto directo de su ruta fluvial elegida. Pregunte qué opciones están realmente disponibles para sus fechas."
+          ],
+          [
+            "¿Qué debe explicar una cotización?",
+            "Busque alojamiento con nombre o categoría claramente descrita, traslados, guía, comidas, actividades, exclusiones y términos de pago. Pregunte qué arreglos siguen siendo provisionales y cómo se manejan los cambios. Un titular que suena inclusivo no sustituye un escrito sobre lo que recibirá su grupo y lo que se paga por separado."
+          ],
+          [
+            "¿Cómo debería abordar una visita a una comunidad?",
+            "Pregunte sobre una bienvenida organizada localmente, el rol del anfitrión y las actividades ofrecidas. Respete las decisiones sobre fotografías, espacios privados y eventos. Una propuesta de estancia debe explicar cómo los residentes guían o reciben visitantes sin prometer acceso ilimitado. Las conversaciones y visitas deben seguir la bienvenida ofrecida, en lugar de las expectativas fijas de un visitante."
+          ]
+        ],
+        "sections": [
+          [
+            "Comience con lo que importa a su grupo",
+            "Comience con las personas que viajan en lugar de una lista de lugares. Pregunte a cada viajero qué desea más del viaje: tiempo tranquilo en el bosque, fotografía, viajes fluviales, caminatas guiadas o conversaciones locales. Tenga en cuenta las diferencias en seguridad al caminar y comodidad con traslados en bote. Un grupo puede compartir un destino sin querer el mismo ritmo diario. Explique esas diferencias en la consulta para que un itinerario pueda hacer espacio para descanso, salidas más cortas o un enfoque de actividad diferente cuando los servicios disponibles lo permitan.",
+            "Explique con precisión los requisitos de comodidad. Baños privados, distribución de habitaciones, necesidades dietéticas, carga de dispositivos y ayuda con el embarque son más útiles para discutir que una etiqueta amplia como lujo o aventura. Si un viajero tiene un límite firme en un tipo de traslado, indíquelo antes de elegir regiones. Separe los requisitos esenciales de las preferencias en las que puede ceder. Esa distinción ayuda a evaluar propuestas y evita llegar a una etapa tardía solo para descubrir que la ruta central no se ajusta a su grupo."
+          ],
+          [
+            "Elija una región interior central",
+            "Consulta la guía de la selva de Suriname. Utilice el resumen del selva de Suriname para comparar el carácter de cada área antes de seleccionar una ruta. El Alto Suriname trae viajes fluviales y alojamiento local al debate. Brownsberg y Brokopondo se adaptan a otra comparación de caminatas por el bosque y paisajes de embalses. La Reserva Natural de Suriname Central es un entorno de conservación forestal distinto cuyo acceso práctico requiere confirmación cuidadosa. Decida qué experiencia merece más tiempo en lugar de asumir que todas las regiones deben aparecer en el mismo viaje.",
+            "Una vez que elija la región principal, pregunte cuántas noches en la base apoyan las actividades que desea. Cuente los días completos por separado de los periodos de llegada y salida. Si hay espacio para una segunda área, explique qué añade: un paisaje diferente, otra actividad o tiempo en la ciudad. Evite añadir una parada simplemente porque su nombre es familiar. Una razón clara para cada movimiento facilita juzgar si la ruta ofrece variedad útil o solo más traslados."
+          ],
+          [
+            "Construya la cadena de traslados antes de reservar",
+            "Escriba el viaje como una cadena de puntos de encuentro, tramos de transporte y cambios de vehículo. Para el Alto Suriname, la información turística nacional describe viajes por carretera desde Paramaribo a Atjoni seguidos de una conexión en bote. Otros viajes interiores pueden usar pequeñas aeronaves desde Zorg en Hoop. Pida al proveedor que identifique la conexión para su destino real, quién es responsable en cada etapa y si los traslados están incluidos en un arreglo único o reservados por separado.",
+            "Verifique tanto las conexiones de ida como de vuelta con su viaje internacional. Confirme el punto de llegada, alojamiento nocturno en la ciudad si es necesario, próxima hora de encuentro y cómo se mueve el equipaje entre vehículos o botes. Pregunte qué sucede si su vuelo entrante se retrasa y cómo contactar a la persona que coordina el siguiente tramo. Un diagrama de ruta puede ser simple, pero debe ser completo. No haga un compromiso no reembolsable basado en una conexión que solo se ha asumido."
+          ],
+          [
+            "Compare una ruta carretera y río con acceso aéreo",
+            "Las opciones por carretera, río y aire deben compararse para un destino específico, en lugar de clasificarse de forma abstracta. Pregunte sobre el tiempo fuera de su base, oportunidades de parada, arreglos de embarque y las reglas de equipaje para el servicio real. Un viaje fluvial puede ser parte de la experiencia que desea; otro viajero puede preferir reducir el tiempo de traslado. Ninguna preferencia es incorrecta. La pregunta importante es qué ruta confirmada se ajusta a sus intereses y necesidades prácticas.",
+            "Mire la cotización completa al comparar el transporte. Un tramo aéreo más corto no describe la conexión final a la propiedad, y una combinación carretera-bote no le dice cuánto servicio de guía o tiempo de observación incluye. Pregunte si el tramo en bote es simplemente un traslado, si un guía viaja con usted y qué arreglos existen para lluvia o cambios. Compare solo opciones confirmadas y mantenga el itinerario lo suficientemente flexible como para responder al consejo actual del operador."
+          ],
+          [
+            "Haga preguntas útiles sobre su alojamiento",
+            "Pida detalles de la habitación propuesta y la resto del alojamiento: camas, arreglos de baño, protección contra insectos, agua potable, comidas y electricidad. Verifique si las fotografías muestran la categoría de alojamiento en su cotización. Para una estancia con anfitrión, pregunte quién recibe a los huéspedes y cómo se organiza el día. No infiera una instalación, un nivel de privacidad o una actividad de una imagen promocional. Cada detalle que importa a su grupo necesita una respuesta clara.",
+            "Conecte sus preguntas sobre alojamiento con cómo utilizará la base. Los fotógrafos pueden necesitar un lugar práctico para organizar el equipo; las familias pueden necesitar claridad sobre distribución de las camas y horarios de comidas. Alguien que prefiera caminatas más cortas puede valorar tiempo alrededor de la propiedad mientras otros están fuera. Pregunte qué flexibilidad está disponible, sin asumir que el lodge puede proporcionar cada solicitud. Una base adecuada apoya sus prioridades y hace manejables las rutinas diarias, incluso cuando sus instalaciones son simples."
+          ],
+          [
+            "Planifique actividades en torno al ritmo y consentimiento",
+            "Para cada caminata o salida, pregunte sobre la ruta real, la superficie de caminata esperada, oportunidades de descanso y si el grupo puede volver atrás o elegir una opción más corta. Describa sus habilidades en términos prácticos en lugar de depender de una calificación general de aptitud. Explique si la fotografía u observación le hace preferir un ritmo más lento. El horario debe reflejar cómo desea experimentar el lugar, con espacio para escuchar y mirar en lugar de apresurarse entre actividades.",
+            "Para experiencias comunitarias, pregunte qué ha acordado ofrecer el anfitrión y cómo participan los residentes locales. El permiso para entrar en un espacio no incluye automáticamente fotografiar a sus personas o grabar conversaciones. Pregunte antes de tomar fotos y acepte un rechazo sin negociación. Permita que los anfitriones expliquen qué es privado y qué visitas se ajustan al día. El itinerario debe dar un marco para una participación respetuosa mientras permite que las decisiones locales formen lo que sucede."
+          ],
+          [
+            "Prepárese para el equipaje y comodidad diaria",
+            "Confirme reglas de tamaño y peso del equipaje con el proveedor de transporte específico antes de empacar. Pregunte si el equipaje extra puede almacenarse de forma segura en su base urbana y qué objetos esenciales deben permanecer accesibles durante los traslados. Planifique cómo proteger ropa, documentos y cámaras de la lluvia o salpicaduras sin asumir que el compartimento del equipaje permanecerá seco. Mantenga el organización del equipaje lo suficientemente simple como para manejar sus maletas durante las cambios de transporte descritos en el itinerario.",
+            "Pregunte sobre lavandería, oportunidades de carga, toallas, protección contra insectos y arreglos de agua potable. Así podrá empacar para la estancia real. Lleve los artículos personales de los que depende y explique necesidades de equipo antes de seleccionar una propiedad. Si usa un dispositivo que requiere energía, busque una respuesta específica sobre suministro y opciones de respaldo. La preparación debe vincularse a su ruta y alojamiento; una lista universal de equipaje no puede establecer las instalaciones o reglas de cada viaje interior."
+          ],
+          [
+            "Lea la cotización antes de comprometerse",
+            "Compare la cotización con el itinerario: alojamiento, transporte, guía, comidas y actividades deben ser identificables, con exclusiones declaradas por separado. Verifique el número de noches y si los traslados de llegada o salida están incluidos. Pregunte qué tipo de habitación y arreglos grupales asume el precio y qué detalles siguen siendo provisionales. Una propuesta puede parecer completa mientras deja decisiones importantes abiertas. Resuelva esas preguntas antes de compararla con otra cotización o realizar un pago.",
+            "Revise la calendario de pagos, términos de cancelación y el procedimiento para cambios de itinerario. Pregunte quién coordina el viaje y qué parte proporciona cada servicio principal. Comente qué sucede si una conexión o actividad acordada no puede operar; evite tratar una alternativa como garantizada a menos que esté escrita en el arreglo. Mantenga una copia de la ruta confirmada y los términos. El objetivo es una comprensión compartida de lo que se reserva, lo que es condicional y lo que su grupo puede necesitar decidir más tarde."
+          ],
+          [
+            "Envíe un resumen que pueda convertirse en una ruta viable",
+            "Envíe fechas, número de viajeros, detalles de llegada y salida, la región principal que prefiere y las experiencias que valora más. Incluya preferencias de caminata, preocupaciones sobre botes, distribución de habitaciones y solicitudes dietéticas. Si tiene un rango de presupuesto, diga qué debe cubrir para que la comparación sea útil. Establezca los requisitos esenciales primero, luego liste las preferencias que pueden cambiar. Un resumen bien organizado da dirección a la conversación de planificación mientras deja espacio para sugerir una ruta más adecuada.",
+            "Cuando llegue una propuesta, verifique si responde a su resumen en lugar de simplemente añadir más actividades. Pregunte por qué la base y el plan de traslado elegidos se ajustan a su grupo, y compare cuánto tiempo queda para disfrutar cada entorno. Una consulta inicia la conversación; no reserva habitaciones, promete un guía ni confirma acceso comunitario. Mantenga la ruta provisional hasta que se verifiquen los arreglos relevantes. Ese enfoque ayuda a convertir el interés en el selva en un viaje que puede evaluar con confianza."
+          ]
+        ],
+        "type": "planning_guide",
+        "pair_id": "suriname_planning_001",
+        "slug": "planifica-tu-viaje-a-la-selva",
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Suriname Travel — transport",
+            "https://suriname.travel/transport-in-suriname/"
+          ],
+          [
+            "Suriname Travel — Sipaliwini",
+            "https://suriname.travel/sipaliwini/"
+          ],
+          [
+            "Suriname Travel — Brokopondo",
+            "https://suriname.travel/brokopondo/"
+          ],
+          [
+            "UNESCO — Central Suriname Nature Reserve",
+            "https://whc.unesco.org/en/list/1017/"
+          ]
+        ],
+        "scope": "Guía editorial revisada el 8 de octubre de 2026. Acceso, alojamiento y actividades deben confirmarse para el itinerario concreto. Las imágenes ilustran entornos de bosque y río; no identifican alojamientos ni lugares específicos de Suriname.",
+        "links": [
+          [
+            "/es/suriname/",
+            "Guía de Suriname"
+          ],
+          [
+            "/es/suriname/planifica-tu-viaje-a-la-selva/",
+            "Planifica tu viaje"
+          ],
+          [
+            "/es/contacto/",
+            "Comparte tus planes"
+          ]
+        ],
+        "context_links": [
+          [
+            "guía de la selva de Suriname",
+            "/es/suriname/"
+          ]
+        ],
+        "hero": [
+          "amazon-canoe-group-lake-journey",
+          "Viajeros en una canoa sobre aguas tranquilas"
+        ],
+        "features": {
+          "1": [
+            "amazon-wooden-canoes-riverbank",
+            "Canoas de madera junto a la orilla de un río"
+          ],
+          "4": [
+            "amazon-rainforest-walk-traveler",
+            "Viajero caminando por un sendero del bosque"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-08",
+  "sources": [
+    {
+      "url": "https://suriname.travel/transport-in-suriname/",
+      "reviewed_claims": [
+        "Paramaribo\u2013Atjoni road/river connection to Upper Suriname",
+        "Zorg en Hoop small aircraft connections; actual schedules and baggage must be confirmed"
+      ]
+    },
+    {
+      "url": "https://suriname.travel/sipaliwini/",
+      "reviewed_claims": [
+        "Upper Suriname community/river experiences; local hosting and consent required"
+      ]
+    },
+    {
+      "url": "https://suriname.travel/brokopondo/",
+      "reviewed_claims": [
+        "Brownsberg forest trails and reservoir views"
+      ]
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/1017/",
+      "reviewed_claims": [
+        "Central Suriname reserve protects tropical forest and upper Coppename watershed; granite inselbergs"
+      ]
+    }
+  ],
+  "limits": [
+    "No universal costs, schedules, inclusions, entry eligibility or medical advice",
+    "Guiana Shield rainforest; do not repeat tourism-site assertion that all Suriname lies in Amazon drainage",
+    "No copied media"
+  ]
+}

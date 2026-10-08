@@ -1,0 +1,17 @@
+{
+  "status": "EN/ES supervisor reviewed",
+  "findings": [
+    "Removed invented interior airstrip access and Brownsberg inselberg claims",
+    "Removed supposed Amazon-draining Suriname regions",
+    "Removed unsupported wildlife and facility guarantees",
+    "Replaced broad legal-permit claims with locally arranged access and consent guidance",
+    "Removed medical recommendations and misleading lodging stereotypes",
+    "Local Spanish output expanded quick/CTA arrays and split paragraphs; structure restored during supervised review",
+    "Spanish country-name corruption and literal wording corrected",
+    "Metadata shortened after technical QA"
+  ],
+  "raw_draft_published": false,
+  "sources_reviewed": "suriname-batch1-source-review.json",
+  "image_plan": "Existing owner-licensed generic river, canoe and forest scenes; no exact Suriname site/property claimed",
+  "visual_review": "Pending; previously recorded browser admin-policy block retained"
+}

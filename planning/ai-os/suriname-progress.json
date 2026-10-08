@@ -1,0 +1,38 @@
+{
+  "country": "suriname",
+  "owner_authorized": true,
+  "scope": "Protected staging only",
+  "batch_size_pairs": 2,
+  "planned_pairs": 12,
+  "planned_pages": 24,
+  "staged_pairs": 2,
+  "staged_pages": 4,
+  "status": "batch1_built_qa_pending",
+  "topics": [
+    "Overview",
+    "Trip planning",
+    "Paramaribo gateway",
+    "Upper Suriname",
+    "Brownsberg and Brokopondo",
+    "Central Suriname Nature Reserve",
+    "Rainforest accommodation",
+    "Community stays",
+    "River journeys",
+    "Wildlife",
+    "Getting there",
+    "Packing and seasonal preparation"
+  ],
+  "active_batch": [
+    "Overview",
+    "Trip planning"
+  ],
+  "quality_gates": [
+    "Reviewed EN/ES content",
+    "Licensed appropriate imagery",
+    "Shared global/cluster CSS",
+    "Technical QA",
+    "Desktop/mobile visual review",
+    "Protected staging readback"
+  ],
+  "production_authorized": false
+}

@@ -1,7 +1,7 @@
 {
   "project": "experience-the-amazon",
   "branch": "staging",
-  "scope": "Homepage, Ecuador, Peru, Bolivia, Brazil and Colombia live; Guyana build authorized",
+  "scope": "Homepage, Ecuador, Peru, Bolivia, Brazil and Colombia live; Guyana release verification pending; Suriname build authorized",
   "supervision": {
     "kind": "thread heartbeat",
     "automation_id": "amazon-staging-supervisor",
@@ -66,9 +66,9 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review final Guyana content batch",
-    "Confirm destination imagery and complete desktop/mobile review plus authenticated staging readback",
-    "Complete country inquiry check and obtain owner production authorization before release"
+    "Review Suriname first batch on protected staging",
+    "Next authorized batch candidates: Paramaribo gateway and Upper Suriname",
+    "Retain Guyana release check hold; do not deploy production from heartbeat"
   ],
   "future_batches": [
     "Reviews deferred by owner; exclude from Ecuador launch",
@@ -111,8 +111,8 @@
     "measured_performance": "pending",
     "contact_delivery": "endpoint absent"
   },
-  "active_batch": "Guyana final content batch: getting there and packing",
-  "batch_status": "12 of 12 bilingual pairs staged; technical passed, release gates pending",
+  "active_batch": "Suriname batch 1: overview and trip planning",
+  "batch_status": "2 bilingual pairs built and technically validated; staging deploy in progress",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",
@@ -450,6 +450,6 @@
     "sitemap_submitted": true,
     "inbox_delivery_confirmed": true
   },
-  "active_country": "guyana",
+  "active_country": "suriname",
   "active_country_state": "planning/ai-os/guyana-progress.json"
 }
