@@ -1,0 +1,26 @@
+{
+  "runs": [
+    {
+      "topic": "manaus",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 1738,
+      "output_tokens": 2042,
+      "seconds": 87.12,
+      "retries": 0,
+      "cache_hits": null
+    },
+    {
+      "topic": "rio-negro",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 1769,
+      "output_tokens": 2028,
+      "seconds": 81.53,
+      "retries": 0,
+      "cache_hits": null
+    }
+  ],
+  "cloud_percentage": "Unavailable: no comparable cloud token meter",
+  "total_local_tokens": 7577,
+  "total_local_output_tokens": 4070,
+  "supervisor_review": "Reviewed all Spanish sections and rewrote literal/formal phrasing before rendering; raw output retained"
+}

@@ -1,10 +1,10 @@
 {
   "country": "brazil",
   "date": "2026-10-07",
-  "owner_authorized": "First Brazil staging batch following owner acceptance of next-country recommendation",
-  "stage": "two_pairs_deployed_technical_checks_pass_visual_qa_pending",
-  "deployment": "3da7d87b",
-  "previous_staging_deployment": "2308e218",
+  "owner_authorized": "Owner explicitly requested next two-pair batch on October 7",
+  "stage": "four_pairs_deployed_technical_checks_pass_visual_qa_pending",
+  "deployment": "1e929976",
+  "previous_staging_deployment": "3da7d87b",
   "pairs": [
     {
       "topic": "overview",
@@ -15,16 +15,26 @@
       "topic": "trip planning",
       "en": "https://staging.experiencetheamazon.com/brazil/plan-your-amazon-trip/",
       "es": "https://staging.experiencetheamazon.com/es/brazil/planifica-tu-viaje-a-la-amazonia/"
+    },
+    {
+      "topic": "Manaus",
+      "en": "https://staging.experiencetheamazon.com/brazil/manaus/",
+      "es": "https://staging.experiencetheamazon.com/es/brazil/manaus/"
+    },
+    {
+      "topic": "Rio Negro",
+      "en": "https://staging.experiencetheamazon.com/brazil/rio-negro/",
+      "es": "https://staging.experiencetheamazon.com/es/brazil/rio-negro/"
     }
   ],
   "progress": {
-    "staged_pairs": 2,
-    "staged_pages": 4,
+    "staged_pairs": 4,
+    "staged_pages": 8,
     "live_brazil_pages": 0,
     "launch_verified_pairs": 0,
     "next_batch_candidates": [
-      "Manaus",
-      "Rio Negro"
+      "Anavilhanas",
+      "Santarém and Alter do Chão"
     ],
     "remaining_cluster_candidates": [
       "Anavilhanas",
@@ -40,26 +50,27 @@
     "scope_note": "Remaining topics are proposed cluster candidates, not a claim of completed or authorized release"
   },
   "qa": {
-    "compiled_site_pages": 128,
-    "brazil_pages_audited": 4,
+    "compiled_site_pages": 132,
+    "brazil_pages_audited": 8,
     "audit_errors": 0,
     "words": [
-      1306,
-      1515
+      1316,
+      1542
     ],
     "distinct_images_per_page": 3,
     "handler_tests": 17,
     "real_brazil_inquiry_delivery": "not tested",
     "css_parity": "Brazil aliases only; existing declarations identical",
     "production_scope_containment": "124 pages validated; zero Brazil routes/sitemap entries; artifact not deployed",
-    "protection": "4 HEAD checks:302 Cloudflare Access redirects",
+    "protection": "4 new route HEAD checks:302 Access redirects",
     "authenticated_readback": "not verified",
     "visual_review": "blocked: browser admin security policy verification unavailable",
-    "css_delivery_regression_tests": 3
+    "css_delivery_regression_tests": 3,
+    "minimum_paragraph_inlink_pages": 3
   },
-  "image_status": "Licensed owner stock used only as clearly identified illustrations; verified Brazil capture imagery remains a launch requirement",
-  "local_usage_file": "brazil-batch1-local-usage.json",
-  "editorial_checkpoint": "brazil-batch1-reviewed.json",
+  "image_status": "New documented Manaus/Rio Negro waterfront photo; licensed stock forest and wildlife remain illustrative. Final destination imagery review pending.",
+  "local_usage_file": "brazil-batch2-local-usage.json",
+  "editorial_checkpoint": "brazil-batch2-reviewed.json",
   "production_authorized": false,
   "workflow_improvements": [
     "Added Brazil to existing CSS selector groups including compact spacing and dark CTA contrast, without altering established declarations",
@@ -67,12 +78,16 @@
     "Reviewed local translation before rendering; corrected literal and inconsistent Spanish",
     "Rejected an image with a visible Bolivian flag from Brazil selection"
   ],
-  "rollback": "Previous staging deployment 2308e218; source parent 67361f0",
+  "rollback": "Previous staging deployment 3da7d87b; source parent df27de3",
   "limits": [
     "No desktop/mobile screenshots due browser policy blocker",
     "No live SEO rankings/AEO citations/Core Web Vitals measured",
-    "Contextual inlinks grow with future cluster pages; current pair links to each other",
     "Cloud/local token percentages unavailable"
   ],
-  "css_delivery_fix": "planning/ai-os/brazil-css-delivery-fix.json"
+  "css_delivery_fix": "planning/ai-os/brazil-css-delivery-fix.json",
+  "batch2_evidence": [
+    "brazil-batch2-contextual-links.json",
+    "brazil-batch2-staging-protection.json",
+    "brazil-manaus-image-license.json"
+  ]
 }

@@ -1,0 +1,786 @@
+{
+  "editorial_status": "reviewed",
+  "review_date": "2026-10-07",
+  "images": {
+    "amazon-forest-river-aerial": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-aerial.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "25fdbaac484995f9de40d64e3334022af4578b8584ddf44d0eae688523ba3d97",
+      "web_sha256": "3acf7d2822a7a986c4e6466f9551f2ac1ef3594975e7d799297620527c36df75",
+      "original_bytes": 413373,
+      "web_bytes": 268828,
+      "alt": {
+        "en": "A winding river surrounded by tropical forest",
+        "es": "Río sinuoso rodeado de bosque tropical"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-macaws-in-flight": {
+      "width": 1280,
+      "height": 1600,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-macaws-in-flight.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "82d58f5b49cb5bf966d6dea475a78706f5329dd7c6874a360de3ce2cf848e4e1",
+      "web_sha256": "b4baaf108be2a1643a1d416aef8fbd8cbfa0a731bc166413c9b4ed942f41bea4",
+      "original_bytes": 126325,
+      "web_bytes": 83978,
+      "alt": {
+        "en": "Colorful macaws flying past green foliage",
+        "es": "Guacamayos de colores volando frente a la vegetación"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-forest-river-channel": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-channel.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "26fc7f3acb97ef3ebb20601be3e1936abd5dacf94d5512733f3821f39b590562",
+      "web_sha256": "86ee2b866c5376b71f445a987aed66705faefd05f2cbd869f0ba201df71b3ba6",
+      "original_bytes": 311342,
+      "web_bytes": 189574,
+      "alt": {
+        "en": "River channel between wooded banks",
+        "es": "Canal fluvial entre orillas arboladas"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-small-monkeys-pair": {
+      "width": 1280,
+      "height": 1600,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-small-monkeys-pair.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "7498d6ee621cab64d0807d713a35584241994b7a39ae281cced9fc11820db7bd",
+      "web_sha256": "f9e39893d267e654aedd43050ce21d340f436e8b7f5d9504f512ee4226c07cf9",
+      "original_bytes": 164505,
+      "web_bytes": 116268,
+      "alt": {
+        "en": "Two small monkeys together on a branch",
+        "es": "Dos monos pequeños juntos sobre una rama"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "manaus-rio-negro": {
+      "src": "/assets/images/brazil/manaus-rio-negro.jpg",
+      "width": 1800,
+      "height": 1321,
+      "source": "https://commons.wikimedia.org/wiki/File:Manaus_-_View_from_River.jpg",
+      "label": "P. Hughes; resized for web",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "location_evidence": "View of the outskirts of Manaus, from Rio Negro, Brazil",
+      "attribution_required": true
+    }
+  },
+  "pages": {
+    "manaus": {
+      "en": {
+        "type": "destination-guide",
+        "links": [
+          [
+            "/brazil/",
+            "Brazil overview"
+          ],
+          [
+            "/brazil/plan-your-amazon-trip/",
+            "Plan your journey"
+          ],
+          [
+            "/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/brazil/rio-negro/",
+            "Rio Negro"
+          ]
+        ],
+        "context_links": [
+          [
+            "Brazil overview",
+            "/brazil/"
+          ],
+          [
+            "Brazil planning guide",
+            "/brazil/plan-your-amazon-trip/"
+          ],
+          [
+            "Manaus guide",
+            "/brazil/manaus/"
+          ],
+          [
+            "Rio Negro guide",
+            "/brazil/rio-negro/"
+          ]
+        ],
+        "feature_sides": {
+          "3": "left",
+          "7": "right"
+        },
+        "scope": "Editorial review: October 7, 2026. Regional facts are checked against the official sources below. Confirm current visits, transfers and inclusions for your dates. The Manaus waterfront photograph has a documented Brazilian location; stock forest and wildlife photographs are illustrative and do not identify a specific property, trail or guaranteed sighting.",
+        "slug": "manaus",
+        "pair_id": "brazil_manaus_001",
+        "h1": "Manaus: a thoughtful beginning to the Amazon",
+        "title": "Manaus Amazon Travel | City, Forest & River Planning",
+        "description": "Plan Manaus beyond an airport stop: city culture, MUSA forest visits, the Meeting of Waters and onward lodge or Rio Negro journeys.",
+        "lede": "Make room for the city as well as the forest. Manaus connects an Amazon arrival with cultural landmarks, river outings and the next stage of your journey.",
+        "hero": [
+          "manaus-rio-negro",
+          "Outskirts of Manaus viewed from the Rio Negro"
+        ],
+        "features": {
+          "3": [
+            "amazon-forest-river-channel",
+            "Illustrative forest-lined river landscape"
+          ],
+          "7": [
+            "amazon-small-monkeys-pair",
+            "Two small monkeys, illustrative wildlife photograph"
+          ]
+        },
+        "quick": [
+          "Separate your city time from your forest stay",
+          "Choose a manageable city visit, then compare the location and transfer of any lodge or river journey. Count time exploring after arrival logistics are clear."
+        ],
+        "choices_heading": "Choose what Manaus adds to your journey",
+        "choices": [
+          [
+            "City and culture",
+            "Keep time for historic landmarks and local life instead of moving directly through the gateway.",
+            "#section-1"
+          ],
+          [
+            "Forest introduction",
+            "Consider a MUSA visit and compare its format with an overnight forest stay.",
+            "#section-3"
+          ],
+          [
+            "River connection",
+            "Clarify the Meeting of Waters outing or onward Rio Negro route, including departure points.",
+            "#section-2"
+          ]
+        ],
+        "cta": [
+          "Give your Amazon arrival a clear purpose",
+          "Share your dates and preferred balance of city culture, forest time and river travel."
+        ],
+        "sources": [
+          [
+            "Visit Brasil: Manaus",
+            "https://www.visitbrasil.com/location/manaus-pt/"
+          ],
+          [
+            "Manaus municipal tourism: sights and experiences",
+            "https://www.manaus.am.gov.br/turismo/o-que-ver-e-fazer-em-manaus/"
+          ],
+          [
+            "MUSA: forest trails",
+            "https://museudaamazonia.org.br/trilhas/"
+          ],
+          [
+            "MUSA: observation tower",
+            "https://museudaamazonia.org.br/en/observation-tower/"
+          ]
+        ],
+        "faqs": [
+          [
+            "Is Manaus only a transfer stop?",
+            "No. You can include city culture, a forest visit or a river outing. Choose activities around your arrival time and the onward transfer rather than filling every available hour."
+          ],
+          [
+            "Is a MUSA visit the same as a lodge stay?",
+            "No. MUSA offers a forest visit near Manaus; a lodge stay adds overnight arrangements and its own location, transfers and activities. Compare them as different experiences."
+          ],
+          [
+            "Can I visit the Meeting of Waters from Manaus?",
+            "It is a regional attraction associated with Manaus. Confirm the current outing route, collection point, duration and inclusions with your provider."
+          ],
+          [
+            "Should I stay in Manaus before a remote transfer?",
+            "Consider an arrival night if it improves connection margins. Ask when the onward transfer leaves and how delays are handled before committing to connected bookings."
+          ]
+        ],
+        "sections": [
+          [
+            "Make Manaus part of the experience",
+            "Manaus can be a city visit, the start of a lodge stay or the departure point for a river journey. Decide which role it should play before booking an airport arrival against a remote transfer. A night in town is most useful when it gives you time to enjoy the city or makes the next connection more comfortable.",
+            "Start with the Brazil overview if you are still choosing between regions. Once Manaus fits your interests, request an outline that separates city activities from the overnight experience beyond it. This makes the first proposal easier to assess and prevents a gateway name from hiding where the actual forest stay takes place."
+          ],
+          [
+            "Culture before the onward journey",
+            "The Teatro Amazonas, Largo de São Sebastião and Adolpho Lisboa market are city landmarks to consider when shaping a cultural visit. Choose the stops that interest you rather than fitting every attraction into a transfer day. An architectural visit, a market and an evening in the city offer different ways to use the time. Opened in 1896, the Teatro Amazonas reflects the city’s rubber-era history. The market offers another perspective through regional foods and crafts, rather than duplicating an architectural visit.",
+            "Ask which visits suit the hours you have available and confirm current admission or event arrangements directly. Keep transport between stops visible in the plan. If you arrive tired, a simpler outing may be more enjoyable than a schedule that depends on reaching several places before closing time. Leave space for meals and rest."
+          ],
+          [
+            "The Meeting of Waters in context",
+            "The Meeting of Waters brings the Rio Negro and Rio Solimões together near Manaus. It is a river landmark, not a substitute for an extended forest journey. If it interests you, ask how the specific outing reaches it and which other stops are part of the same route.",
+            "Compare the full outing rather than only its headline photograph. Check the collection point, time on the boat, seating and the time available at each stop. Ask which activities are optional and whether the return suits your next commitment. Treat every extra stop as a choice to assess, not an automatic improvement to the day."
+          ],
+          [
+            "MUSA: a forest visit with its own character",
+            "MUSA introduces forest trails and an observation tower in the Ducke Forest Reserve area near Manaus. It provides a way to include forest observation without assuming that every nature experience requires a remote overnight stay. Confirm the visiting arrangements and choose a format that fits your time and walking comfort.",
+            "Think about how you want to observe: a trail, a canopy viewpoint or an interpreted visit need different amounts of time and effort. Ask about steps, terrain and any booking arrangements for the experience you want. Do not use the tower photograph alone to judge suitability, especially if heights or climbing are a concern."
+          ],
+          [
+            "Choose an overnight forest stay deliberately",
+            "A lodge advertised from Manaus still needs a clear location and transfer description. Ask where you sleep, which landscape surrounds the property and how activities are organized from that base. A departure from the same city does not mean every lodge offers the same journey or daily rhythm.",
+            "Compare the room and bathroom arrangement, electricity, meals and guided activities. Explain whether you prefer short walks, longer outings or time for photography. If an itinerary adds an arrival transfer and an early departure to a short stay, calculate the remaining exploration time before deciding that its advertised number of nights is enough."
+          ],
+          [
+            "Know when a Rio Negro route fits better",
+            "A Rio Negro journey may suit someone who wants the river landscape to shape the stay rather than adding a single boat outing to a city visit. Use the Rio Negro guide to compare a fixed overnight base with a route that moves along the river. Clarify which areas and communities the proposal actually includes.",
+            "The useful question is what movement adds to your experience. Compare time navigating, time in smaller excursion boats and time walking or observing. If a route has several accommodation changes, make sure they serve your interests. A focused stay can be more rewarding than a longer list of places with very little usable time at each."
+          ],
+          [
+            "Connect arrival, city stay and departure",
+            "Ask for the exact meeting place and the person or service handling each transfer. Keep airport-to-city travel separate from onward road or boat arrangements. Request a practical plan for a delayed arrival, and avoid relying on an advertised activity schedule to prove that a tight connection will work.",
+            "Choose a city overnight location around the visits and transfers you have confirmed. Discuss luggage storage or collection when changing between a city stay and a remote journey. Preserve important confirmations in writing. This guide does not publish transport timetables or assume that a particular departure operates on every travel date."
+          ],
+          [
+            "Travel with a clear standard for encounters",
+            "Discuss wildlife outings in terms of observation and guiding, rather than guaranteed photographs. Ask how the provider avoids feeding, handling or staging animals for visitors. A good natural-history outing should still have value when the most hoped-for animal does not appear.",
+            "For any community visit, clarify who receives visitors and what the hosts choose to share. Ask how photography and payments are handled. Let the hosts set the terms of the encounter. City, river and forest experiences should all respect the people who live in the region rather than presenting them as extras on an activity list."
+          ],
+          [
+            "Turn the gateway into a complete plan",
+            "Use the Brazil planning guide to connect your available dates with a realistic number of city and forest days. Share your arrival details, traveler count, interests and the comforts you need. Mention already booked connections so the proposal can take account of the commitments you cannot easily change.",
+            "Compare a city-plus-lodge version with a city-plus-river version if you are unsure. Ask both to show the overnight locations, transfers, usable activity time and total inclusions. The better option is the one that makes your priorities practical, not necessarily the one with the most stops or the shortest time in town."
+          ]
+        ]
+      },
+      "es": {
+        "type": "destination-guide",
+        "links": [
+          [
+            "/es/brazil/",
+            "Panorama de Brasil"
+          ],
+          [
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+            "Planifica tu viaje"
+          ],
+          [
+            "/es/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/es/brazil/rio-negro/",
+            "Rio Negro"
+          ]
+        ],
+        "context_links": [
+          [
+            "panorama de Brasil",
+            "/es/brazil/"
+          ],
+          [
+            "guía de planificación de Brasil",
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/"
+          ],
+          [
+            "guía de Manaus",
+            "/es/brazil/manaus/"
+          ],
+          [
+            "guía del Rio Negro",
+            "/es/brazil/rio-negro/"
+          ],
+          [
+            "guía del Río Negro",
+            "/es/brazil/rio-negro/"
+          ]
+        ],
+        "feature_sides": {
+          "3": "left",
+          "7": "right"
+        },
+        "scope": "Revisión editorial: 7 de octubre de 2026. Datos regionales contrastados con las fuentes oficiales indicadas. Confirma las visitas, los traslados y los servicios incluidos para tus fechas. La fotografía de Manaus tiene una ubicación brasileña documentada; las imágenes de archivo de selva y fauna son ilustrativas y no identifican un alojamiento, sendero o avistamiento concreto.",
+        "slug": "manaus",
+        "pair_id": "brazil_manaus_001",
+        "h1": "Manaus: empieza tu viaje con tiempo para descubrir",
+        "title": "Manaus | Ciudad, selva y planificación del viaje",
+        "description": "Descubre Manaus: cultura urbana, bosque en MUSA, Encuentro de las Aguas y conexiones hacia lodges y el Rio Negro. Organiza el viaje con tiempo.",
+        "lede": "Dale espacio a la ciudad y a la selva. Manaus conecta tu llegada a la Amazonía con lugares culturales, salidas fluviales y la siguiente etapa del viaje.",
+        "hero": [
+          "manaus-rio-negro",
+          "Manaus visto desde el Rio Negro"
+        ],
+        "features": {
+          "3": [
+            "amazon-forest-river-channel",
+            "Paisaje fluvial amazónico, imagen ilustrativa"
+          ],
+          "7": [
+            "amazon-small-monkeys-pair",
+            "Dos monos pequeños, imagen ilustrativa"
+          ]
+        },
+        "quick": [
+          "Separa el tiempo en la ciudad de la estancia en la selva",
+          "Elige una visita urbana que encaje con tus fechas y compara la ubicación y el traslado de cualquier lodge o recorrido fluvial. Cuenta el tiempo para explorar después de organizar la llegada."
+        ],
+        "choices_heading": "Elige qué aporta Manaus a tu viaje",
+        "choices": [
+          [
+            "Ciudad y cultura",
+            "Deja tiempo para los monumentos históricos y la vida local en lugar de pasar directamente por la punto de llegada.",
+            "#section-1"
+          ],
+          [
+            "Introducción al bosque",
+            "Considera una visita a MUSA y compare tu formato con una estancia en el bosque.",
+            "#section-3"
+          ],
+          [
+            "Conexión fluvial",
+            "Aclara la salida para ver el Encuentro de las Aguas o la ruta hacia el Río Negro, incluyendo los puntos de partida.",
+            "#section-2"
+          ]
+        ],
+        "cta": [
+          "Dale un propósito claro a tu llegada",
+          "Comparte tus fechas y el equilibrio que buscas entre cultura urbana, selva y río."
+        ],
+        "sources": [
+          [
+            "Turismo oficial: Manaus",
+            "https://www.visitbrasil.com/location/manaus-pt/"
+          ],
+          [
+            "Fuente oficial: Manaus municipal tourism: sights and experiences",
+            "https://www.manaus.am.gov.br/turismo/o-que-ver-e-fazer-em-manaus/"
+          ],
+          [
+            "Fuente oficial: MUSA: forest trails",
+            "https://museudaamazonia.org.br/trilhas/"
+          ],
+          [
+            "Fuente oficial: MUSA: observation tower",
+            "https://museudaamazonia.org.br/en/observation-tower/"
+          ]
+        ],
+        "faqs": [
+          [
+            "¿Manaus sirve solo para hacer un traslado?",
+            "No. Puedes incluir cultura urbana, una visita al bosque o una salida fluvial. Elige actividades según tu llegada y el traslado posterior, dejando tiempo para descansar."
+          ],
+          [
+            "¿Visitar MUSA equivale a alojarse en un lodge?",
+            "No. MUSA ofrece una visita al bosque cerca de Manaus. Un lodge añade alojamiento, su ubicación, traslados y actividades propias. Compara las dos experiencias por separado."
+          ],
+          [
+            "¿Se puede visitar el Encuentro de las Aguas desde Manaus?",
+            "Es un atractivo regional asociado con Manaus. Confirma con el proveedor la ruta, el punto de recogida, la duración y los servicios incluidos en la excursión."
+          ],
+          [
+            "¿Conviene dormir en Manaus antes de un traslado remoto?",
+            "Valora una noche de llegada si mejora el margen para conectar. Consulta cuándo sale el siguiente traslado y qué sucede si tu vuelo se retrasa."
+          ]
+        ],
+        "sections": [
+          [
+            "Incorpora Manaus a la experiencia",
+            "Manaus puede ser una visita urbana, el comienzo de una estancia en un lodge o la salida de un recorrido fluvial. Decide qué papel tendrá antes de combinar el vuelo de llegada con un traslado remoto. Una noche en la ciudad puede aportar tiempo para conocerla y un margen más cómodo para continuar el viaje.",
+            "Consulta el panorama de Brasil si todavía comparas regiones. Cuando Manaus encaje con tus intereses, pide un esquema que separe las actividades urbanas del alojamiento posterior. Así podrás valorar la propuesta con claridad, sin confundir la ciudad desde la que sales con el lugar donde pasarás tus noches en la selva."
+          ],
+          [
+            "Cultura antes de continuar",
+            "El Teatro Amazonas, el Largo de São Sebastião y el mercado Adolpho Lisboa son lugares emblemáticos de la ciudad a considerar al diseñar una visita cultural. Elige las paradas que te interesen en lugar de intentar incluir cada atracción en un día de traslado. Una visita arquitectónica, un mercado y una noche en la ciudad ofrecen formas diferentes de utilizar el tiempo. Inaugurado en 1896, el Teatro Amazonas refleja la historia de la época del caucho. El mercado permite acercarse a alimentos y artesanías regionales, aportando una perspectiva distinta de la visita arquitectónica.",
+            "Pregunta qué visitas se adaptan a las horas disponibles y confirma directamente los arreglos actuales para la entrada o eventos. Mantén visible en el plan el transporte entre paradas. Si llegas cansado, una salida más sencilla puede ser más agradable que un horario que depende de llegar a varios lugares antes del cierre. Deja espacio para comidas y descanso."
+          ],
+          [
+            "El Encuentro de las Aguas en contexto",
+            "El Encuentro de las Aguas es la confluencia del Rio Negro y el Rio Solimões, cerca de Manaus. Es un atractivo fluvial que conviene valorar por sí mismo. Si te interesa, pregunta cómo llega la excursión hasta allí, qué otros lugares visita y cuánto tiempo se dedica a cada parada.",
+            "Compara la salida completa en lugar de solo la fotografía principal. Comprueba el punto de recogida, tiempo en el bote, asientos y el tiempo disponible en cada parada. Pregunta qué actividades son opcionales y si el regreso se adapta a tu siguiente compromiso. Valora cada parada extra como una opción para evaluar, no como una mejora automática del día."
+          ],
+          [
+            "MUSA: una visita al bosque con carácter propio",
+            "MUSA ofrece senderos forestales y una torre de observación en la zona de la Reserva Forestal Ducke, cerca de Manaus. Es una forma de conocer el bosque sin que toda experiencia de naturaleza dependa de una estancia remota. Confirma las condiciones de visita y elige una actividad que encaje con tu tiempo y comodidad al caminar.",
+            "Piensa en cómo quieres observar: caminar por un sendero, subir a un mirador sobre las copas o realizar una visita con guía requieren esfuerzos y tiempos diferentes. Pregunta por los escalones, el terreno y las reservas necesarias. Si las alturas o las escaleras te preocupan, valora estas condiciones antes de elegir la torre solo por su fotografía."
+          ],
+          [
+            "Elige deliberadamente una estancia en el bosque",
+            "Un lodge anunciado desde Manaus aún necesita una ubicación clara y descripción del traslado. Pregunta dónde dormirás, qué paisaje rodea la propiedad y cómo se organizan las actividades desde esa base. Una salida de la misma ciudad no significa que todos los lodges ofrezcan el mismo viaje o ritmo diario.",
+            "Compara la disposición de la habitación y del baño, electricidad, comidas y actividades guiadas. Explica si prefieres caminatas cortas, salidas largas o tiempo para fotografía. Si un itinerario añade un traslado de llegada y una salida temprana a una estancia corta, calcula el tiempo restante para explorar antes de decidir que el número anunciado de noches es suficiente."
+          ],
+          [
+            "Valora cuándo encaja mejor una ruta por el Río Negro",
+            "Una ruta por el Rio Negro puede encajar si quieres que el paisaje fluvial forme parte central de la estancia, en lugar de añadir una sola salida en barco a la visita urbana. Usa la guía del Rio Negro para comparar un alojamiento fijo con un recorrido por el río. Aclara qué zonas y comunidades incluye realmente la propuesta.",
+            "La pregunta útil es qué movimiento añade a tu experiencia. Compara el tiempo navegando, el tiempo en botes de excursión más pequeños y el tiempo caminando u observando. Si una ruta tiene varios cambios de alojamiento, asegúrate de que sirvan tus intereses. Una estancia enfocada puede ser más gratificante que una lista más larga de lugares con muy poco tiempo para explorar en cada uno."
+          ],
+          [
+            "Conecta llegada, ciudad y salida",
+            "Pide el lugar exacto de encuentro y la persona o servicio que maneje cada traslado. Mantén separado el viaje del aeropuerto a la ciudad de los arreglos posteriores por carretera o bote. Solicita un plan práctico para una llegada retrasada y evita depender de un horario de actividades anunciado para probar que una conexión ajustada funcionará.",
+            "Elige el alojamiento urbano según las visitas y los traslados confirmados. Consulta dónde guardar o recoger el equipaje cuando combines una estancia en la ciudad con un viaje remoto. Conserva las confirmaciones por escrito. Esta guía no publica horarios de transporte ni presupone que una salida opere en todas las fechas."
+          ],
+          [
+            "Viaja con respeto por los encuentros",
+            "Comenta las salidas de vida silvestre en términos de observación y servicios de guía, en lugar de fotografías garantizadas. Pregunta cómo el proveedor evita alimentar, manipular o escenificar animales para los visitantes. Una buena salida de historia natural aún debe tener valor cuando no aparece el animal más deseado.",
+            "Para cualquier visita a una comunidad, aclara quién recibe a los visitantes y qué comparten los anfitriones. Pregunta cómo se maneja la fotografía y los pagos. Deja que los anfitriones establezcan los términos del encuentro. Las experiencias urbanas, fluviales y forestales deben respetar a las personas que viven en la región en lugar de presentarlas como extras en una lista de actividades."
+          ],
+          [
+            "Convierte la llegada en un plan completo",
+            "Usa la guía de planificación de Brasil para conectar tus fechas disponibles con un número realista de días urbanos y forestales. Comparte tus detalles de llegada, número de viajeros, intereses y las comodidades que necesitas. Menciona conexiones ya reservadas para que la propuesta pueda tener en cuenta los compromisos que no puedes cambiar fácilmente.",
+            "Si tienes dudas, compara una propuesta de ciudad y lodge con otra de ciudad y recorrido fluvial. Pide que ambas indiquen dónde dormirás, los traslados, el tiempo para realizar actividades y los servicios incluidos. Elige la que haga viables tus prioridades, en lugar de valorar únicamente la cantidad de paradas o reducir al mínimo el tiempo en Manaus."
+          ]
+        ]
+      }
+    },
+    "rio-negro": {
+      "en": {
+        "type": "destination-guide",
+        "links": [
+          [
+            "/brazil/",
+            "Brazil overview"
+          ],
+          [
+            "/brazil/plan-your-amazon-trip/",
+            "Plan your journey"
+          ],
+          [
+            "/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/brazil/rio-negro/",
+            "Rio Negro"
+          ]
+        ],
+        "context_links": [
+          [
+            "Brazil overview",
+            "/brazil/"
+          ],
+          [
+            "Brazil planning guide",
+            "/brazil/plan-your-amazon-trip/"
+          ],
+          [
+            "Manaus guide",
+            "/brazil/manaus/"
+          ],
+          [
+            "Rio Negro guide",
+            "/brazil/rio-negro/"
+          ]
+        ],
+        "feature_sides": {
+          "1": "left",
+          "5": "right"
+        },
+        "scope": "Editorial review: October 7, 2026. Regional facts are checked against the official sources below. Confirm current visits, transfers and inclusions for your dates. The Manaus waterfront photograph has a documented Brazilian location; stock forest and wildlife photographs are illustrative and do not identify a specific property, trail or guaranteed sighting.",
+        "slug": "rio-negro",
+        "pair_id": "brazil_rionegro_001",
+        "h1": "Rio Negro: let the river set the pace",
+        "title": "Rio Negro Amazon Travel | Lodges, Rivers & Novo Airão",
+        "description": "Compare Rio Negro stays and river journeys from the Manaus region. Understand Novo Airão, Anavilhanas, overnight bases and observation time.",
+        "lede": "Choose time on the water with a clear purpose. Compare a forest base, a river journey and the Novo Airão area around the experiences that draw you to the Amazon.",
+        "hero": [
+          "amazon-forest-river-aerial",
+          "Illustrative river winding through tropical forest"
+        ],
+        "features": {
+          "1": [
+            "manaus-rio-negro",
+            "Manaus outskirts seen from the Rio Negro"
+          ],
+          "5": [
+            "amazon-small-monkeys-pair",
+            "Two small monkeys, illustrative wildlife photograph"
+          ]
+        },
+        "quick": [
+          "Name the route, then choose how you will experience it",
+          "Rio Negro describes a river region, not one fixed tour. Compare the overnight base, daily excursions and travel between places before deciding on a lodge or vessel."
+        ],
+        "choices_heading": "Three ways to organize river time",
+        "choices": [
+          [
+            "A lodge base",
+            "Return to one place after guided activities. Compare the specific location and the daily rhythm.",
+            "#section-3"
+          ],
+          [
+            "A journey aboard",
+            "Let the vessel route shape your stay. Check excursion time and life on board.",
+            "#section-4"
+          ],
+          [
+            "Novo Airão area",
+            "Explore a regional base associated with Anavilhanas. Confirm the actual park and community visits.",
+            "#section-2"
+          ]
+        ],
+        "cta": [
+          "Shape a river journey around what matters to you",
+          "Tell us your dates, overnight preferences and the balance of walking, river time and comfort you want."
+        ],
+        "sources": [
+          [
+            "Visit Brasil: Manaus and the Rio Negro",
+            "https://www.visitbrasil.com/location/manaus-pt/"
+          ],
+          [
+            "Visit Brasil: Anavilhanas itinerary",
+            "https://feel.visitbrasil.com/en/anavilhanas-itinerary/"
+          ],
+          [
+            "Brazil Ministry of Tourism: Amazon nature destinations",
+            "https://www.gov.br/turismo/pt-br/assuntos/noticias/destinos-revelam-a-diversidade-do-turismo-de-natureza-na-amazonia-brasileira"
+          ]
+        ],
+        "faqs": [
+          [
+            "Is every Rio Negro tour the same route?",
+            "No. Ask for the actual overnight locations and excursion areas. The river name alone does not explain how far you travel or which experiences are included."
+          ],
+          [
+            "What is the connection with Novo Airão and Anavilhanas?",
+            "Novo Airão is a regional base associated with the Anavilhanas river archipelago. Confirm the specific visiting arrangements rather than assuming a general Rio Negro proposal includes the park."
+          ],
+          [
+            "Is a lodge or vessel better for observation?",
+            "Either can fit if the location, pace and guiding suit your interests. Compare usable observation time, group arrangements and the comfort of the overnight stay."
+          ],
+          [
+            "Are wildlife encounters guaranteed?",
+            "No. Choose observation without feeding, handling or staging animals, and ask how the guide makes quieter outings worthwhile."
+          ]
+        ],
+        "sections": [
+          [
+            "A river name is only the beginning",
+            "Start by identifying the stretch of river and the overnight places in your proposed journey. Two trips described as Rio Negro can have different bases, transfer times and daily experiences. Ask for a clear route outline before comparing their prices or advertised activity counts. The name should orient you, not replace the details.",
+            "Use the Brazil overview to keep the wider regional choice in view. Once a Rio Negro journey fits your interests, decide whether you want to remain in one place or travel between several. This first distinction makes lodge and vessel proposals easier to compare without assuming that one format always offers a better experience."
+          ],
+          [
+            "Manaus as a connection to the river",
+            "Manaus sits beside the Rio Negro and is a starting point for regional stays and river travel. Use the Manaus guide to decide how much city time belongs before or after the journey. Keep the city arrival, the transfer and the first guided activity separate in the written itinerary.",
+            "Ask where the onward journey begins and how you reach that point. A meeting in a city hotel, an airport collection and a port departure involve different arrangements. Confirm the handling of delayed arrivals and what happens to the first outing if the transfer takes longer than expected. Leave realistic space between commitments."
+          ],
+          [
+            "Novo Airão and the Anavilhanas setting",
+            "Official tourism sources associate Novo Airão with Anavilhanas, a Rio Negro archipelago of forested islands and channels. This adds a specific regional setting to consider rather than treating every forest-and-river proposal as equivalent. Ask how the proposed base connects to the areas you want to explore.",
+            "A broad regional description does not establish park access or the exact activities available. Request the names of the places visited, who organizes the outings and which arrangements need confirmation. Keep any community encounter clearly described, with host participation and photography guidance. Do not assume that a suggested regional route includes every experience mentioned in a destination guide."
+          ],
+          [
+            "A fixed base for a more settled rhythm",
+            "A lodge can keep your overnight arrangements consistent while guided outings provide variety during the day. Compare how far the activities travel from the base and whether they use trails, smaller boats or a combination. Ask what a quieter day looks like and whether shorter outings are possible.",
+            "Discuss comfort in concrete terms: room privacy, bathroom arrangement, meals, electricity and access to common areas. Explain the pace you enjoy and the activities you would rather skip. A fixed base is useful when it reduces unnecessary movement, but it still needs a location and guiding format that support the experiences you want."
+          ],
+          [
+            "A vessel journey with usable excursion time",
+            "A journey aboard a vessel makes movement part of the stay. Ask for the route and a sample day that separates navigation from excursions. Confirm how passengers join smaller boats or shore visits, how groups are organized and whether the activities offer different levels of effort.",
+            "Compare the cabin and shared spaces as carefully as the route. Ask about bathrooms, ventilation, noise, charging equipment and storage. Establish which changes are possible if conditions affect the planned itinerary. More distance traveled does not automatically mean more time observing; a compact route may leave better space for your main interests."
+          ],
+          [
+            "Forest and river observation at your pace",
+            "Tell the guide whether you are primarily interested in birds, photography, forest details or a broad introduction to the landscape. These priorities affect the time you need to stop and the pace at which the group moves. Ask whether the proposed format allows patient observation rather than only brief stops between activities.",
+            "Treat animal sightings as opportunities, not promises. Favor viewing that avoids feeding, handling and staged encounters. Consider what would make an outing satisfying even without one specific animal appearing. Learning to notice habitat, sounds and changes in the landscape can make the journey worthwhile on a day when wildlife is less visible."
+          ],
+          [
+            "Leave room for changing conditions",
+            "Ask how the provider adapts activities and transfers to current river conditions. Choose a route with alternatives you would enjoy rather than building every day around one photograph or a single expected water level. A dated image or a general seasonal description cannot confirm what a specific outing will look like.",
+            "Confirm important arrangements again near departure and ask which decisions remain flexible. Keep the response practical: where a substitute activity takes place, how the group travels and what happens to paid inclusions. This guide does not supply a water-level forecast, a fixed navigation schedule or a guarantee of access to every described area."
+          ],
+          [
+            "Compare the quote beyond the headline",
+            "Request a complete explanation of guiding, accommodation, meals, transfers and any additional charges. Compare the same group size and room or cabin arrangement. Identify optional activities and costs payable locally. This prevents a cheaper-looking proposal from relying on a different overnight format or leaving an important transfer outside the total.",
+            "Read payment, cancellation and change terms before committing to connected bookings. Ask who handles a missed departure and how the first transfer relates to your arrival. Keep those confirmations alongside the route outline. Clear terms help you assess uncertainty without implying that the river journey can operate identically in every condition."
+          ],
+          [
+            "Put your priorities into the next conversation",
+            "Use the Brazil planning guide to organize dates, traveler count, overnight preferences and any essential comfort or access requirements. Add the observation interests that would make the journey memorable. You do not need to choose every stop in advance, but a clear outline makes the initial proposal more useful.",
+            "Request a focused lodge-based version and a vessel-based version if you are undecided. Compare their exploration time, movement and daily living arrangements before adding another region. A thoughtful Rio Negro journey should explain how the route supports your interests and where flexibility is possible, rather than simply offering the longest list of included activities."
+          ]
+        ]
+      },
+      "es": {
+        "type": "destination-guide",
+        "links": [
+          [
+            "/es/brazil/",
+            "Panorama de Brasil"
+          ],
+          [
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+            "Planifica tu viaje"
+          ],
+          [
+            "/es/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/es/brazil/rio-negro/",
+            "Rio Negro"
+          ]
+        ],
+        "context_links": [
+          [
+            "panorama de Brasil",
+            "/es/brazil/"
+          ],
+          [
+            "guía de planificación de Brasil",
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/"
+          ],
+          [
+            "guía de Manaus",
+            "/es/brazil/manaus/"
+          ],
+          [
+            "guía del Rio Negro",
+            "/es/brazil/rio-negro/"
+          ],
+          [
+            "guía del Río Negro",
+            "/es/brazil/rio-negro/"
+          ]
+        ],
+        "feature_sides": {
+          "1": "left",
+          "5": "right"
+        },
+        "scope": "Revisión editorial: 7 de octubre de 2026. Datos regionales contrastados con las fuentes oficiales indicadas. Confirma las visitas, los traslados y los servicios incluidos para tus fechas. La fotografía de Manaus tiene una ubicación brasileña documentada; las imágenes de archivo de selva y fauna son ilustrativas y no identifican un alojamiento, sendero o avistamiento concreto.",
+        "slug": "rio-negro",
+        "pair_id": "brazil_rionegro_001",
+        "h1": "Rio Negro: deja que el río marque el ritmo",
+        "title": "Rio Negro | Lodges, recorridos fluviales y Novo Airão",
+        "description": "Compara estancias y recorridos por el Rio Negro desde la región de Manaus. Conoce Novo Airão, Anavilhanas y las opciones de alojamiento.",
+        "lede": "Elige tiempo en el agua con un propósito claro. Compara un lodge, un recorrido fluvial y la zona de Novo Airão según las experiencias que te atraen de la Amazonía.",
+        "hero": [
+          "amazon-forest-river-aerial",
+          "Paisaje fluvial amazónico, imagen ilustrativa"
+        ],
+        "features": {
+          "1": [
+            "manaus-rio-negro",
+            "Manaus visto desde el Rio Negro"
+          ],
+          "5": [
+            "amazon-small-monkeys-pair",
+            "Dos monos pequeños, imagen ilustrativa"
+          ]
+        },
+        "quick": [
+          "Define la ruta y cómo quieres vivirla",
+          "Rio Negro identifica una región fluvial, no un recorrido fijo. Compara dónde dormirás, las excursiones diarias y los desplazamientos antes de elegir un lodge o una embarcación."
+        ],
+        "choices_heading": "Tres formas de organizar el tiempo en el río",
+        "choices": [
+          [
+            "Una base en lodge",
+            "Regresa a un mismo lugar después de las actividades guiadas. Compara la ubicación específica y el ritmo diario.",
+            "#section-3"
+          ],
+          [
+            "Un viaje a bordo",
+            "Deja que la ruta del barco defina tu estancia. Revisa el tiempo de excursión y la vida a bordo.",
+            "#section-4"
+          ],
+          [
+            "Zona de Novo Airão",
+            "Explora una base regional asociada a Anavilhanas. Confirma las visitas reales al parque y a la comunidad.",
+            "#section-2"
+          ]
+        ],
+        "cta": [
+          "Organiza el recorrido en torno a tus intereses",
+          "Comparte tus fechas, el alojamiento que prefieres y cuánto tiempo quieres dedicar a caminar, navegar y descansar."
+        ],
+        "sources": [
+          [
+            "Turismo oficial: Manaus",
+            "https://www.visitbrasil.com/location/manaus-pt/"
+          ],
+          [
+            "Fuente oficial: Visit Brasil: Anavilhanas itinerary",
+            "https://feel.visitbrasil.com/en/anavilhanas-itinerary/"
+          ],
+          [
+            "Fuente oficial: Brazil Ministry of Tourism: Amazon nature destinations",
+            "https://www.gov.br/turismo/pt-br/assuntos/noticias/destinos-revelam-a-diversidade-do-turismo-de-natureza-na-amazonia-brasileira"
+          ]
+        ],
+        "faqs": [
+          [
+            "¿Todos los viajes por el Rio Negro siguen la misma ruta?",
+            "No. Pide los lugares donde dormirás y las zonas de excursión. El nombre del río no explica por sí solo hasta dónde viajarás ni qué experiencias se incluyen."
+          ],
+          [
+            "¿Cómo se relacionan Novo Airão y Anavilhanas?",
+            "Novo Airão es una base regional asociada con el archipiélago fluvial de Anavilhanas. Confirma las visitas concretas: una propuesta general por el Rio Negro no implica que incluya el parque."
+          ],
+          [
+            "¿Conviene un lodge o una embarcación para observar?",
+            "Ambos pueden encajar si la ubicación, el ritmo y los guías responden a tus intereses. Compara el tiempo para observar, la organización del grupo y la comodidad del alojamiento."
+          ],
+          [
+            "¿Se garantizan encuentros con animales?",
+            "No. Elige observar sin alimentar ni manipular animales ni preparar encuentros artificiales. Pregunta cómo se aprovechan las salidas cuando la fauna resulta menos visible."
+          ]
+        ],
+        "sections": [
+          [
+            "Un nombre de río es solo el comienzo",
+            "Empieza identificando el tramo del río y los lugares donde pasarás la noche en tu viaje propuesto. Dos viajes descritos como Río Negro pueden tener bases, tiempos de traslado y experiencias diarias diferentes. Pide un esquema claro de la ruta antes de comparar precios o contar actividades anunciadas. El nombre debe orientarte, no sustituir los detalles.",
+            "Consulta el panorama de Brasil para mantener a la vista las distintas opciones regionales. Si una ruta por el Rio Negro encaja contigo, decide si prefieres alojarte en un lugar fijo o desplazarte entre varios. Esta diferencia ayuda a comparar lodges y embarcaciones sin dar por hecho que un formato siempre ofrece una experiencia mejor."
+          ],
+          [
+            "Manaus como conexión con el río",
+            "Manaus se encuentra junto al Rio Negro y es un punto de partida para estancias y recorridos regionales. Usa la guía de Manaus para decidir cuánto tiempo dedicar a la ciudad antes o después. Separa en el itinerario escrito la llegada, el traslado y la primera actividad guiada, para entender cómo se aprovecha cada día.",
+            "Pregunta dónde comienza el siguiente tramo y cómo llegas allí. Una reunión en un hotel de ciudad, una recogida en el aeropuerto y una salida desde el puerto implican arreglos distintos. Confirma el manejo de llegadas retrasadas y qué sucede con la primera excursión si el traslado tarda más de lo esperado. Deja espacio realista entre compromisos."
+          ],
+          [
+            "Novo Airão y el entorno de Anavilhanas",
+            "Las fuentes oficiales de turismo asocian Novo Airão con Anavilhanas, un archipiélago del Río Negro formado por islas boscosas y canales. Esto añade un entorno regional específico a considerar en lugar de tratar cada propuesta de bosque y río como equivalente. Pregunta cómo se conecta la base propuesta con las zonas que quieres explorar.",
+            "Una descripción regional amplia no garantiza acceso al parque ni las actividades exactas disponibles. Solicita los nombres de los lugares visitados, quién organiza las salidas y qué arreglos requieren confirmación. Mantén cualquier encuentro comunitario claramente descrito, con participación de anfitriones y guía para fotografías. No asumas que una ruta regional sugerida incluye todas las experiencias mencionadas en una guía de destino."
+          ],
+          [
+            "Un alojamiento fijo para un ritmo tranquilo",
+            "Un lodge permite mantener el mismo alojamiento mientras las salidas guiadas aportan variedad al día. Compara cuánto se alejan las actividades de la base y si utilizan senderos, embarcaciones pequeñas o ambos. Pregunta cómo será una jornada más tranquila y qué opciones existen si prefieres una salida corta.",
+            "Habla del confort en términos concretos: privacidad de la habitación, disposición de baños, comidas, electricidad y acceso a áreas comunes. Explica el ritmo que disfrutas y las actividades que preferirías omitir. Una base fija es útil cuando reduce movimientos innecesarios, pero aún necesita una ubicación y formato de guía que apoyen las experiencias que buscas."
+          ],
+          [
+            "Un recorrido a bordo con tiempo para explorar",
+            "Un viaje a bordo hace del movimiento parte de la estancia. Pide la ruta y un día de ejemplo que separe navegación de excursiones. Confirma cómo los pasajeros suben a botes pequeños o visitan tierra, cómo se organizan los grupos y si las actividades ofrecen distintos niveles de esfuerzo.",
+            "Compara el camarote y los espacios compartidos tan cuidadosamente como la ruta. Pregunta por baños, ventilación, ruido, equipos de carga y almacenamiento. Establece qué cambios son posibles si las condiciones afectan el itinerario planificado. Viajar más distancia no significa automáticamente más tiempo observando; una ruta compacta puede dejar mejor espacio para tus principales intereses."
+          ],
+          [
+            "Observación de bosque y río a tu ritmo",
+            "Dile al guía si te interesan principalmente aves, fotografía, detalles del bosque o una introducción amplia al paisaje. Estas prioridades afectan el tiempo que necesitas detenerte y el ritmo con el que se mueve el grupo. Pregunta si el formato propuesto permite una observación paciente en lugar de solo paradas breves entre actividades.",
+            "Considera los avistamientos como oportunidades, no como promesas. Elige una observación sin alimentar ni manipular animales y sin preparar encuentros artificiales. Piensa qué haría satisfactoria la salida si no apareciera una especie concreta. Aprender a reconocer los hábitats, escuchar y observar los cambios del paisaje aporta valor incluso cuando la fauna resulta menos visible."
+          ],
+          [
+            "Deja espacio para condiciones cambiantes",
+            "Pregunta cómo el proveedor adapta actividades y traslados a las condiciones actuales del río. Elige una ruta con alternativas que disfrutarías en lugar de construir cada día alrededor de una fotografía o un único nivel de agua esperado. Una fotografía tomada en otra fecha o una descripción estacional general no pueden confirmar cómo se verá una excursión específica.",
+            "Confirma los detalles importantes cerca de la salida y pregunta qué decisiones siguen siendo flexibles. Pide respuestas concretas: dónde se realiza una actividad alternativa, cómo se desplaza el grupo y qué sucede con los servicios pagados. Esta guía no ofrece un pronóstico del nivel del agua, horarios fijos de navegación ni acceso garantizado a todas las zonas descritas."
+          ],
+          [
+            "Compara la cotización completa",
+            "Pide una explicación de los servicios de guía, el alojamiento, las comidas, los traslados y los cargos adicionales. Compara el mismo tamaño de grupo y la misma distribución de habitaciones o camarotes. Identifica las actividades opcionales y los pagos pendientes en destino. Así evitarás comparar precios que corresponden a alojamientos distintos o dejan fuera un traslado importante.",
+            "Lee las condiciones de pago, cancelación y cambios antes de reservar servicios que dependen unos de otros. Pregunta qué sucede si pierdes una salida y cómo se coordina el primer traslado con tu llegada. Conserva estas confirmaciones junto al itinerario. Unas condiciones claras ayudan a valorar la incertidumbre sin dar por hecho que el viaje fluvial funcionará igual en todas las circunstancias."
+          ],
+          [
+            "Pon tus prioridades en la próxima conversación",
+            "Usa la guía de planificación de Brasil para organizar tus fechas, el número de viajeros y el alojamiento que prefieres. Añade las necesidades esenciales de comodidad o accesibilidad y los intereses de observación que harían memorable el viaje. No necesitas decidir cada parada antes de consultar, pero un esquema claro ayuda a recibir una propuesta más útil.",
+            "Si tienes dudas, pide una propuesta con base en un lodge y otra a bordo de una embarcación. Compara el tiempo para explorar, los desplazamientos y la vida diaria antes de añadir otra región. Una ruta bien pensada por el Rio Negro explica cómo encaja con tus intereses y qué flexibilidad ofrece, en lugar de presentar únicamente una lista más larga de actividades."
+          ]
+        ]
+      }
+    }
+  },
+  "editorial_review_notes": [
+    "Regional facts reviewed against municipal tourism, MUSA and Visit Brasil primary sources",
+    "Local translations reviewed before rendering; formal/literal language revised by supervisor",
+    "Manaus image location and CC BY-SA license documented; neutral stock images remain illustrative",
+    "Nine substantive sections plus comparison cards and four FAQs per page; three distinct scenes",
+    "No prices, transport schedules, unverified provider partnerships or guaranteed sightings published"
+  ]
+}

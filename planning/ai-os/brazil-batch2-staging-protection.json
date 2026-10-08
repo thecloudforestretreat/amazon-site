@@ -1,0 +1,27 @@
+{
+  "deployment": "1e929976",
+  "method": "unauthenticated HEAD; redirects not followed",
+  "checks": [
+    {
+      "route": "/brazil/manaus/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/brazil/manaus/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/brazil/rio-negro/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/brazil/rio-negro/",
+      "status": 302,
+      "access_redirect": true
+    }
+  ],
+  "authenticated_visual_readback": "Unverified: browser security policy unavailable"
+}

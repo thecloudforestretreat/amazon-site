@@ -1,0 +1,46 @@
+{
+  "definition": "Links within main-content paragraphs, excluding navigation and cards",
+  "minimum_incoming_pages": 3,
+  "pages": {
+    "/brazil/": [
+      "/brazil/manaus/",
+      "/brazil/plan-your-amazon-trip/",
+      "/brazil/rio-negro/"
+    ],
+    "/brazil/manaus/": [
+      "/brazil/",
+      "/brazil/plan-your-amazon-trip/",
+      "/brazil/rio-negro/"
+    ],
+    "/brazil/plan-your-amazon-trip/": [
+      "/brazil/",
+      "/brazil/manaus/",
+      "/brazil/rio-negro/"
+    ],
+    "/brazil/rio-negro/": [
+      "/brazil/",
+      "/brazil/manaus/",
+      "/brazil/plan-your-amazon-trip/"
+    ],
+    "/es/brazil/": [
+      "/es/brazil/manaus/",
+      "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+      "/es/brazil/rio-negro/"
+    ],
+    "/es/brazil/manaus/": [
+      "/es/brazil/",
+      "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+      "/es/brazil/rio-negro/"
+    ],
+    "/es/brazil/planifica-tu-viaje-a-la-amazonia/": [
+      "/es/brazil/",
+      "/es/brazil/manaus/",
+      "/es/brazil/rio-negro/"
+    ],
+    "/es/brazil/rio-negro/": [
+      "/es/brazil/",
+      "/es/brazil/manaus/",
+      "/es/brazil/planifica-tu-viaje-a-la-amazonia/"
+    ]
+  }
+}

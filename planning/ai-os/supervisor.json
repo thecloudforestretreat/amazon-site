@@ -66,8 +66,8 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Review Brazil first pair set on protected staging; retain visual policy blocker",
-    "Continue two-pair Brazil batches after owner steering; no production release without authorization"
+    "Owner review of four staged Brazil pairs; visual QA remains blocked",
+    "Next two-pair candidates: Anavilhanas and Santarém/Alter do Chão; no Brazil production release authorized"
   ],
   "future_batches": [
     "Reviews deferred by owner; exclude from Ecuador launch",
@@ -111,8 +111,8 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "Brazil overview EN/ES",
-    "Brazil trip-planning EN/ES"
+    "Manaus EN/ES",
+    "Rio Negro EN/ES"
   ],
   "batch_status": "Owner confirmed inbox delivery; branded HTML signature with Instagram deployed",
   "batch_browser_checks": {

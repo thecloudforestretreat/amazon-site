@@ -132,6 +132,14 @@
           [
             "/bolivia/",
             "Bolivian Amazon"
+          ],
+          [
+            "/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/brazil/rio-negro/",
+            "Rio Negro"
           ]
         ],
         "context_links": [
@@ -150,6 +158,14 @@
           [
             "Bolivian Amazon",
             "/bolivia/"
+          ],
+          [
+            "Manaus",
+            "/brazil/manaus/"
+          ],
+          [
+            "Rio Negro",
+            "/brazil/rio-negro/"
           ]
         ],
         "cta": [
@@ -301,6 +317,14 @@
           [
             "/es/bolivia/",
             "Amazonía boliviana"
+          ],
+          [
+            "/es/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/es/brazil/rio-negro/",
+            "Rio Negro"
           ]
         ],
         "context_links": [
@@ -323,6 +347,18 @@
           [
             "Amazonía boliviana",
             "/es/bolivia/"
+          ],
+          [
+            "Manaus",
+            "/es/brazil/manaus/"
+          ],
+          [
+            "Rio Negro",
+            "/es/brazil/rio-negro/"
+          ],
+          [
+            "Río Negro",
+            "/es/brazil/rio-negro/"
           ]
         ],
         "cta": [
@@ -476,6 +512,14 @@
           [
             "/bolivia/",
             "Bolivian Amazon"
+          ],
+          [
+            "/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/brazil/rio-negro/",
+            "Rio Negro"
           ]
         ],
         "context_links": [
@@ -494,6 +538,14 @@
           [
             "Bolivian Amazon",
             "/bolivia/"
+          ],
+          [
+            "Manaus",
+            "/brazil/manaus/"
+          ],
+          [
+            "Rio Negro",
+            "/brazil/rio-negro/"
           ]
         ],
         "cta": [
@@ -645,6 +697,14 @@
           [
             "/es/bolivia/",
             "Amazonía boliviana"
+          ],
+          [
+            "/es/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/es/brazil/rio-negro/",
+            "Rio Negro"
           ]
         ],
         "context_links": [
@@ -667,6 +727,18 @@
           [
             "Amazonía boliviana",
             "/es/bolivia/"
+          ],
+          [
+            "Manaus",
+            "/es/brazil/manaus/"
+          ],
+          [
+            "Rio Negro",
+            "/es/brazil/rio-negro/"
+          ],
+          [
+            "Río Negro",
+            "/es/brazil/rio-negro/"
           ]
         ],
         "cta": [

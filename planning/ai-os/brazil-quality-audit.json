@@ -1,18 +1,22 @@
 {
-  "pages_audited": 4,
+  "pages_audited": 8,
   "errors": [],
   "pages": [
     {
       "route": "/brazil/",
-      "main_words": 1325,
+      "main_words": 1333,
       "h2_sections": 14,
       "main_content_inlinks": [
+        "/brazil/manaus/",
+        "/brazil/rio-negro/",
         "/brazil/plan-your-amazon-trip/"
       ],
       "main_content_outlinks": [
         "/",
         "/bolivia/",
+        "/brazil/manaus/",
         "/brazil/plan-your-amazon-trip/",
+        "/brazil/rio-negro/",
         "/contact/",
         "/ecuador/",
         "/peru/"
@@ -21,7 +25,37 @@
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
         "/assets/css/core.css?v=f235948f527a",
         "/assets/css/clusters/editorial.css?v=99098e34d0a5",
-        "/assets/css/clusters/brazil.css?v=bb090c8e31a8"
+        "/assets/css/clusters/brazil.css?v=f560c9754f9c"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/brazil/manaus/",
+      "main_words": 1415,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/brazil/",
+        "/brazil/rio-negro/",
+        "/brazil/plan-your-amazon-trip/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/brazil/",
+        "/brazil/plan-your-amazon-trip/",
+        "/brazil/rio-negro/",
+        "/contact/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/brazil.css?v=f560c9754f9c"
       ],
       "unique_images": 3,
       "schema_types": [
@@ -33,15 +67,19 @@
     },
     {
       "route": "/brazil/plan-your-amazon-trip/",
-      "main_words": 1306,
+      "main_words": 1316,
       "h2_sections": 14,
       "main_content_inlinks": [
-        "/brazil/"
+        "/brazil/",
+        "/brazil/manaus/",
+        "/brazil/rio-negro/"
       ],
       "main_content_outlinks": [
         "/",
         "/bolivia/",
         "/brazil/",
+        "/brazil/manaus/",
+        "/brazil/rio-negro/",
         "/contact/",
         "/ecuador/",
         "/peru/"
@@ -50,7 +88,37 @@
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
         "/assets/css/core.css?v=f235948f527a",
         "/assets/css/clusters/editorial.css?v=99098e34d0a5",
-        "/assets/css/clusters/brazil.css?v=bb090c8e31a8"
+        "/assets/css/clusters/brazil.css?v=f560c9754f9c"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/brazil/rio-negro/",
+      "main_words": 1389,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/brazil/",
+        "/brazil/manaus/",
+        "/brazil/plan-your-amazon-trip/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/brazil/",
+        "/brazil/manaus/",
+        "/brazil/plan-your-amazon-trip/",
+        "/contact/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/brazil.css?v=f560c9754f9c"
       ],
       "unique_images": 3,
       "schema_types": [
@@ -62,15 +130,19 @@
     },
     {
       "route": "/es/brazil/",
-      "main_words": 1515,
+      "main_words": 1523,
       "h2_sections": 14,
       "main_content_inlinks": [
+        "/es/brazil/manaus/",
+        "/es/brazil/rio-negro/",
         "/es/brazil/planifica-tu-viaje-a-la-amazonia/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/bolivia/",
+        "/es/brazil/manaus/",
         "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+        "/es/brazil/rio-negro/",
         "/es/contacto/",
         "/es/ecuador/",
         "/es/peru/"
@@ -79,7 +151,37 @@
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
         "/assets/css/core.css?v=f235948f527a",
         "/assets/css/clusters/editorial.css?v=99098e34d0a5",
-        "/assets/css/clusters/brazil.css?v=bb090c8e31a8"
+        "/assets/css/clusters/brazil.css?v=f560c9754f9c"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/brazil/manaus/",
+      "main_words": 1542,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/brazil/",
+        "/es/brazil/rio-negro/",
+        "/es/brazil/planifica-tu-viaje-a-la-amazonia/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/brazil/",
+        "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+        "/es/brazil/rio-negro/",
+        "/es/contacto/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/brazil.css?v=f560c9754f9c"
       ],
       "unique_images": 3,
       "schema_types": [
@@ -91,15 +193,19 @@
     },
     {
       "route": "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
-      "main_words": 1466,
+      "main_words": 1474,
       "h2_sections": 14,
       "main_content_inlinks": [
-        "/es/brazil/"
+        "/es/brazil/",
+        "/es/brazil/manaus/",
+        "/es/brazil/rio-negro/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/bolivia/",
         "/es/brazil/",
+        "/es/brazil/manaus/",
+        "/es/brazil/rio-negro/",
         "/es/contacto/",
         "/es/ecuador/",
         "/es/peru/"
@@ -108,7 +214,37 @@
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
         "/assets/css/core.css?v=f235948f527a",
         "/assets/css/clusters/editorial.css?v=99098e34d0a5",
-        "/assets/css/clusters/brazil.css?v=bb090c8e31a8"
+        "/assets/css/clusters/brazil.css?v=f560c9754f9c"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/brazil/rio-negro/",
+      "main_words": 1509,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/brazil/",
+        "/es/brazil/manaus/",
+        "/es/brazil/planifica-tu-viaje-a-la-amazonia/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/brazil/",
+        "/es/brazil/manaus/",
+        "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+        "/es/contacto/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/brazil.css?v=f560c9754f9c"
       ],
       "unique_images": 3,
       "schema_types": [
