@@ -66,8 +66,8 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review of ten staged Brazil pairs; browser visual QA remains blocked",
-    "Next two-pair candidates: access and packing; Brazil production release not authorized"
+    "Review all twelve Brazil pairs for launch: desktop/mobile visual QA, authenticated readback, final imagery, real inquiry delivery",
+    "Do not start another country or release Brazil production without owner authorization"
   ],
   "future_batches": [
     "Reviews deferred by owner; exclude from Ecuador launch",
@@ -111,10 +111,10 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "Best time to visit EN/ES",
-    "Wildlife EN/ES"
+    "Access EN/ES",
+    "Packing EN/ES"
   ],
-  "batch_status": "Brazil batch5 deployed to protected staging f798509e; technical checks pass, desktop/mobile visual review pending",
+  "batch_status": "Brazil planned content complete on protected staging 53db7a41; technical QA passes; release QA pending",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",

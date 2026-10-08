@@ -2,9 +2,9 @@
   "country": "brazil",
   "date": "2026-10-08",
   "owner_authorized": "Owner requested next two-pair batch; protected staging only",
-  "stage": "ten_pairs_deployed_technical_checks_pass_visual_qa_pending",
-  "deployment": "f798509e",
-  "previous_staging_deployment": "7722618f",
+  "stage": "twelve_pairs_deployed_technical_checks_pass_release_qa_pending",
+  "deployment": "53db7a41",
+  "previous_staging_deployment": "f798509e",
   "pairs": [
     {
       "topic": "overview",
@@ -55,31 +55,35 @@
       "topic": "Wildlife",
       "en": "https://staging.experiencetheamazon.com/brazil/wildlife/",
       "es": "https://staging.experiencetheamazon.com/es/brazil/fauna/"
+    },
+    {
+      "topic": "Access",
+      "en": "https://staging.experiencetheamazon.com/brazil/how-to-get-there/",
+      "es": "https://staging.experiencetheamazon.com/es/brazil/como-llegar/"
+    },
+    {
+      "topic": "Packing",
+      "en": "https://staging.experiencetheamazon.com/brazil/packing-list/",
+      "es": "https://staging.experiencetheamazon.com/es/brazil/que-llevar/"
     }
   ],
   "progress": {
-    "staged_pairs": 10,
-    "staged_pages": 20,
+    "staged_pairs": 12,
+    "staged_pages": 24,
     "live_brazil_pages": 0,
     "launch_verified_pairs": 0,
-    "next_batch_candidates": [
-      "access",
-      "packing"
-    ],
-    "remaining_cluster_candidates": [
-      "access",
-      "packing"
-    ],
+    "next_batch_candidates": [],
+    "remaining_cluster_candidates": [],
     "candidate_total_pairs": 12,
-    "scope_note": "Remaining topics are proposed cluster candidates, not a claim of completed or authorized release"
+    "scope_note": "All twelve planned pairs staged; launch verification remains incomplete."
   },
   "qa": {
-    "compiled_site_pages": 144,
-    "brazil_pages_audited": 20,
+    "compiled_site_pages": 148,
+    "brazil_pages_audited": 24,
     "audit_errors": 0,
     "words": [
-      1436,
-      1827
+      1466,
+      1863
     ],
     "distinct_images_per_page": 3,
     "handler_tests": 17,
@@ -90,11 +94,11 @@
     "authenticated_readback": "not verified",
     "visual_review": "blocked: browser admin security policy verification unavailable",
     "css_delivery_regression_tests": 3,
-    "minimum_paragraph_inlink_pages": 9
+    "minimum_paragraph_inlink_pages": 11
   },
   "image_status": "New documented Manaus/Rio Negro waterfront photo; licensed stock forest and wildlife remain illustrative. Final destination imagery review pending.",
-  "local_usage_file": "brazil-batch5-local-usage.json",
-  "editorial_checkpoint": "brazil-batch5-reviewed.json",
+  "local_usage_file": "brazil-batch6-local-usage.json",
+  "editorial_checkpoint": "brazil-batch6-reviewed.json",
   "production_authorized": false,
   "workflow_improvements": [
     "Added Brazil to existing CSS selector groups including compact spacing and dark CTA contrast, without altering established declarations",
@@ -102,7 +106,7 @@
     "Reviewed local translation before rendering; corrected literal and inconsistent Spanish",
     "Rejected an image with a visible Bolivian flag from Brazil selection"
   ],
-  "rollback": "Previous staging deployment 7722618f; source parent d820b4a",
+  "rollback": "Previous staging deployment f798509e; source parent 71fba5a",
   "limits": [
     "No desktop/mobile screenshots due browser policy blocker",
     "No live SEO rankings/AEO citations/Core Web Vitals measured",
@@ -126,5 +130,10 @@
     "brazil-batch5-contextual-links.json",
     "brazil-batch5-staging-protection.json",
     "brazil-batch5-source-review.json"
+  ],
+  "batch6_evidence": [
+    "brazil-batch6-contextual-links.json",
+    "brazil-batch6-staging-protection.json",
+    "brazil-batch6-source-review.json"
   ]
 }

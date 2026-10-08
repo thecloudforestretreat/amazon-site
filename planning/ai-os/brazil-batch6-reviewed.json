@@ -1,0 +1,1074 @@
+{
+  "editorial_status": "reviewed",
+  "review_date": "2026-10-08",
+  "images": {
+    "amazon-forest-river-aerial": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-aerial.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "25fdbaac484995f9de40d64e3334022af4578b8584ddf44d0eae688523ba3d97",
+      "web_sha256": "3acf7d2822a7a986c4e6466f9551f2ac1ef3594975e7d799297620527c36df75",
+      "original_bytes": 413373,
+      "web_bytes": 268828,
+      "alt": {
+        "en": "A winding river surrounded by tropical forest",
+        "es": "Río sinuoso rodeado de bosque tropical"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-macaws-in-flight": {
+      "width": 1280,
+      "height": 1600,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-macaws-in-flight.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "82d58f5b49cb5bf966d6dea475a78706f5329dd7c6874a360de3ce2cf848e4e1",
+      "web_sha256": "b4baaf108be2a1643a1d416aef8fbd8cbfa0a731bc166413c9b4ed942f41bea4",
+      "original_bytes": 126325,
+      "web_bytes": 83978,
+      "alt": {
+        "en": "Colorful macaws flying past green foliage",
+        "es": "Guacamayos de colores volando frente a la vegetación"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-forest-river-channel": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-channel.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "26fc7f3acb97ef3ebb20601be3e1936abd5dacf94d5512733f3821f39b590562",
+      "web_sha256": "86ee2b866c5376b71f445a987aed66705faefd05f2cbd869f0ba201df71b3ba6",
+      "original_bytes": 311342,
+      "web_bytes": 189574,
+      "alt": {
+        "en": "River channel between wooded banks",
+        "es": "Canal fluvial entre orillas arboladas"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-small-monkeys-pair": {
+      "width": 1280,
+      "height": 1600,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-small-monkeys-pair.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "7498d6ee621cab64d0807d713a35584241994b7a39ae281cced9fc11820db7bd",
+      "web_sha256": "f9e39893d267e654aedd43050ce21d340f436e8b7f5d9504f512ee4226c07cf9",
+      "original_bytes": 164505,
+      "web_bytes": 116268,
+      "alt": {
+        "en": "Two small monkeys together on a branch",
+        "es": "Dos monos pequeños juntos sobre una rama"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "manaus-rio-negro": {
+      "src": "/assets/images/brazil/manaus-rio-negro.jpg",
+      "width": 1800,
+      "height": 1321,
+      "source": "https://commons.wikimedia.org/wiki/File:Manaus_-_View_from_River.jpg",
+      "label": "P. Hughes; resized for web",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "location_evidence": "View of the outskirts of Manaus, from Rio Negro, Brazil",
+      "attribution_required": true
+    },
+    "amazon-forest-river-sunset": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-sunset.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "1bfd90ab7caece29793539505b2a45970100c256b824da89bb35b4204fcedc5d",
+      "web_sha256": "1207b7ec779a5932e6a719caa8ef65c7f07dd2dae9b7bf01f37f1853059451eb",
+      "original_bytes": 256042,
+      "web_bytes": 141608,
+      "alt": {
+        "en": "Sunset reflected in a river beside forest",
+        "es": "Atardecer reflejado en un río junto al bosque"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-thatched-hammock-shelter": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-thatched-hammock-shelter.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "4952cb2f95f925efa19652fda7803c265e17da71e09e80cc74a3de2fae9471de",
+      "web_sha256": "43f5742b8fe1771f4bafb76454e4ce41cd0d5ac98a61946ec255fc2c0899152e",
+      "original_bytes": 446588,
+      "web_bytes": 301092,
+      "alt": {
+        "en": "Hammock beneath a thatched shelter surrounded by greenery",
+        "es": "Hamaca bajo un refugio de techo vegetal rodeado de vegetación"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-caiman-water-closeup": {
+      "width": 1280,
+      "height": 1600,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-caiman-water-closeup.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "9b3b96b218d6a345ce9cabca377df846ed576374c3e455d8cd0dbf1ee0228430",
+      "web_sha256": "24e5cc35e2a630125d3d37006be87020955f6d2d46f24fc4c408405d5d32b356",
+      "original_bytes": 229021,
+      "web_bytes": 175894,
+      "alt": {
+        "en": "Close view of a caiman at the water surface",
+        "es": "Primer plano de un caimán en la superficie del agua"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    },
+    "amazon-river-dolphin-surfacing": {
+      "width": 1600,
+      "height": 1200,
+      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-river-dolphin-surfacing.webp",
+      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
+      "original_sha256": "295c7bda93ea308ebf9a7f7c348bc76c3f54abe44db224151c73d809b7817c43",
+      "web_sha256": "ddd12bbabc551624a055c12ac372aa6700b808e43b0ba2905dd781e98dff3b3f",
+      "original_bytes": 301941,
+      "web_bytes": 182350,
+      "alt": {
+        "en": "River dolphin breaking the water surface",
+        "es": "Delfín de río asomando sobre el agua"
+      },
+      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
+      "attribution_required": false
+    }
+  },
+  "pages": {
+    "access": {
+      "en": {
+        "type": "planning-guide",
+        "links": [
+          [
+            "/brazil/",
+            "Brazil overview"
+          ],
+          [
+            "/brazil/plan-your-amazon-trip/",
+            "Plan your journey"
+          ],
+          [
+            "/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/brazil/rio-negro/",
+            "Rio Negro"
+          ],
+          [
+            "/brazil/anavilhanas/",
+            "Anavilhanas"
+          ],
+          [
+            "/brazil/alter-do-chao/",
+            "Santarém & Alter do Chão"
+          ],
+          [
+            "/brazil/amazon-lodges/",
+            "Amazon lodges"
+          ],
+          [
+            "/brazil/river-journeys/",
+            "River journeys"
+          ],
+          [
+            "/brazil/best-time-to-visit/",
+            "Choose your dates"
+          ],
+          [
+            "/brazil/wildlife/",
+            "Wildlife observation"
+          ],
+          [
+            "/brazil/how-to-get-there/",
+            "Arrival and transfers"
+          ],
+          [
+            "/brazil/packing-list/",
+            "Packing list"
+          ]
+        ],
+        "context_links": [
+          [
+            "Brazil overview",
+            "/brazil/"
+          ],
+          [
+            "Brazil planning guide",
+            "/brazil/plan-your-amazon-trip/"
+          ],
+          [
+            "Manaus guide",
+            "/brazil/manaus/"
+          ],
+          [
+            "Rio Negro guide",
+            "/brazil/rio-negro/"
+          ],
+          [
+            "Anavilhanas guide",
+            "/brazil/anavilhanas/"
+          ],
+          [
+            "Alter do Chão guide",
+            "/brazil/alter-do-chao/"
+          ],
+          [
+            "Brazil lodge guide",
+            "/brazil/amazon-lodges/"
+          ],
+          [
+            "Brazil river journey guide",
+            "/brazil/river-journeys/"
+          ],
+          [
+            "Brazil timing guide",
+            "/brazil/best-time-to-visit/"
+          ],
+          [
+            "Brazil wildlife guide",
+            "/brazil/wildlife/"
+          ],
+          [
+            "Brazil access guide",
+            "/brazil/how-to-get-there/"
+          ],
+          [
+            "Brazil packing guide",
+            "/brazil/packing-list/"
+          ]
+        ],
+        "feature_sides": {
+          "2": "left",
+          "5": "right"
+        },
+        "scope": "Editorial review: October 8, 2026. Official tourism sources support gateway context; the transfer and equipment comparisons are editorial planning guidance. Confirm current connections, baggage limits, services and requirements with the responsible provider. Photographs are illustrative except the documented Manaus waterfront image; none identifies a booked transfer or property.",
+        "slug": "how-to-get-there",
+        "pair_id": "brazil_access_001",
+        "h1": "Getting to the Brazilian Amazon: plan every connection",
+        "title": "Getting to the Brazilian Amazon | Gateways & Transfers",
+        "description": "Compare Manaus and Santarém gateways, lodge transfers and boat boarding. Plan arrival buffers, luggage and onward connections for your Brazilian Amazon trip.",
+        "lede": "Choose the region first, then connect the airport, overnight stay and final transfer. A clear arrival plan protects the time you came to spend in the Amazon.",
+        "hero": [
+          "manaus-rio-negro",
+          "Manaus waterfront viewed from the Rio Negro"
+        ],
+        "features": {
+          "2": [
+            "amazon-forest-river-channel",
+            "Forest-lined river channel, illustrative photograph"
+          ],
+          "5": [
+            "amazon-thatched-hammock-shelter",
+            "Shaded hammock shelter, illustrative accommodation photograph"
+          ]
+        },
+        "quick": [
+          "An airport arrival is only the first part of the journey",
+          "Visit Brasil identifies Eduardo Gomes airport for Manaus and Maestro Wilson Fonseca airport for Santarém and Alter do Chão. Confirm the remaining collection, road or boat segments with your actual accommodation or journey provider."
+        ],
+        "choices_heading": "Match the connection to the regional stay",
+        "choices": [
+          [
+            "Manaus region",
+            "Coordinate city arrival with the lodge transfer or boarding point.",
+            "#section-1"
+          ],
+          [
+            "Santarém and Alter do Chão",
+            "Plan the Tapajós-region arrival separately from a Manaus itinerary.",
+            "#section-2"
+          ],
+          [
+            "Multiple regions",
+            "Compare the travel effort with the time each additional region contributes.",
+            "#section-7"
+          ]
+        ],
+        "cta": [
+          "Build a clear arrival and departure plan",
+          "Share your possible dates, arrival city and preferred travel format before booking connected transport."
+        ],
+        "sources": [
+          [
+            "Visit Brasil: Manaus arrival context",
+            "https://www.visitbrasil.com/es/location/manaus-es/"
+          ],
+          [
+            "Visit Brasil: Santarém and Alter do Chão access",
+            "https://www.visitbrasil.com/location/alter-do-chao/"
+          ]
+        ],
+        "faqs": [
+          [
+            "Which airport should I choose?",
+            "Choose the region and itinerary first. Manaus and Santarém serve different regional plans; confirm the full connection to your actual stay before buying flights."
+          ],
+          [
+            "Does a lodge booking include the airport transfer?",
+            "Not necessarily. Ask what is included, the exact collection point and time, and whether city, road and boat segments are covered."
+          ],
+          [
+            "Can I arrive and start the forest program on the same day?",
+            "Ask the provider to assess the actual arrival and transfer sequence. Do not assume that an airport arrival time matches a lodge departure or vessel boarding time."
+          ],
+          [
+            "Is a passenger boat the same as a guided river journey?",
+            "No. A transport booking does not establish that guiding, excursions, meals or the accommodation format you want are included. Confirm the service and complete route."
+          ]
+        ],
+        "sections": [
+          [
+            "Choose the region before booking the connection",
+            "Use the Brazil overview to decide whether your trip centers on the Manaus region or the Tapajós setting around Santarém. These are different regional plans. Start with the actual accommodation or excursion route, then identify its collection point. An attractive flight price is less helpful when the onward journey does not fit the stay you intended.",
+            "Ask for a simple sequence showing airport arrival, any city overnight, collection, onward transport and the start of activities. Keep every segment visible rather than treating the destination name as a complete transfer description. Compare the effort with the time in the forest or on the river, especially if your available holiday window is short."
+          ],
+          [
+            "Coordinate a Manaus arrival with the forest stay",
+            "Visit Brasil identifies Eduardo Gomes airport as an arrival point for Manaus. Use the Manaus guide to consider city time around the rest of the trip. Ask whether collection is at the airport, a hotel or another agreed place, and who confirms the meeting instructions. Keep the airport arrival separate from the departure into the forest.",
+            "Use the Rio Negro guide and Anavilhanas guide to assess the regional experience, then ask how the proposed itinerary reaches its own base. A description of those destinations does not identify a particular pier or road transfer. Request clear directions for the actual booking, including a contact method if your arrival is delayed or the collection point is difficult to find."
+          ],
+          [
+            "Plan Santarém and Alter do Chão as their own connection",
+            "Visit Brasil identifies Maestro Wilson Fonseca airport in Santarém for access to Alter do Chão. Use the Alter do Chão guide to understand the village and Tapajós context. Confirm the transfer to your chosen accommodation rather than assume an airport arrival includes collection or that a broad regional booking covers every local journey.",
+            "Ask where the stay begins and ends, how luggage is handled and whether any boat outing departs from a different place. If you are considering both this region and Manaus, compare the complete connection rather than treating them as neighboring stops. Check current transport availability with the responsible provider; this guide does not publish airline schedules or confirmed seats."
+          ],
+          [
+            "Read the lodge transfer as a separate arrangement",
+            "The Brazil lodge guide helps compare accommodation and guiding, but the transfer needs its own clear answer. Ask which road and boat segments are included, whether collection is shared or private and how arrival at the property is organized. Request the complete sequence before comparing a headline number of nights between options.",
+            "Clarify what happens after arrival: room access, meals and the first outing. If a transfer consumes much of the day, distinguish it from a full day of guided exploration. Share essential mobility or luggage-handling needs before booking and ask how the actual arrangements accommodate them. A general comfortable-transfer label is not a substitute for those details."
+          ],
+          [
+            "Keep vessel boarding distinct from river transport",
+            "Use the Brazil river journey guide when the vessel is part of your overnight stay. Confirm the embarkation point, boarding deadline, collection arrangements and return location. Ask who handles each connection. A river name or vessel photograph cannot establish the correct boarding place for your specific departure.",
+            "Distinguish a passenger connection from an excursion and a multi-night tourism program. Ask what the booking includes: accommodation format, meals, guiding and shore activities. If transport is booked separately, establish how it connects with the next service and what happens if it is delayed. Do not assume different operators have coordinated the itinerary simply because their routes seem to connect."
+          ],
+          [
+            "Allow room for a usable arrival day",
+            "Compare a same-day transfer with a city overnight when that choice is available. Ask the provider to assess your actual flight arrival against its departure arrangements, without turning a general recommendation into a fixed buffer for every trip. The useful question is whether the proposed sequence leaves room for the connections and your group’s comfort.",
+            "Consider how a late arrival affects a shared transfer or vessel departure. Read the applicable change and cancellation terms and ask who would arrange an alternative. Keep the first forest outing realistic rather than filling the itinerary with activities that depend on every connection working perfectly. Use the Brazil timing guide to discuss seasonal fit alongside the arrival plan."
+          ],
+          [
+            "Agree on luggage and practical handovers",
+            "Use the Brazil packing guide to prepare for the travel format, then confirm the actual baggage allowance for each segment. Ask about size, weight, storage and any handling between vehicles or vessels. An airline allowance does not establish what the smaller boat or accommodation can accept. Keep the final answer attached to the booking details.",
+            "Carry meeting instructions and essential contact details in a form you can access without relying on a fresh internet connection. Ask whether the provider needs your final arrival information in advance and when it should be supplied. Keep collection arrangements clear for every traveler, including anyone arriving separately. Avoid guessing a pier from a destination photograph or informal description."
+          ],
+          [
+            "Add another region only when it earns its travel time",
+            "Compare a focused stay with a journey that combines Manaus and the Tapajós region. Ask which experiences are distinct and what the connection requires. Use the Brazil wildlife guide to keep observation interests visible when deciding whether another stop adds depth or simply another change of accommodation and transfer.",
+            "Evaluate the full nights and usable excursion days in each version, not only the number of destinations. If the second region takes substantial time to reach, compare extending the first stay instead. Choose the arrangement that supports your preferred pace. A shorter list of places can still provide a varied journey when the outings are thoughtfully chosen."
+          ],
+          [
+            "Confirm the return as carefully as the arrival",
+            "Use the Brazil planning guide to share any fixed onward travel before finalizing the proposal. Ask when the program ends, where you will be dropped off and whether a city overnight or separate transfer is required. Keep the return sequence visible so the last day is not built around an unexamined assumption about reaching the airport.",
+            "Read the complete quote and identify transport booked by the operator versus transport you arrange yourself. Confirm meeting points, responsibilities and the treatment of delays in writing. Choose connections that protect time for the experiences you value, while giving both arrival and departure a practical plan. An organized handover is part of the quality of the trip."
+          ]
+        ]
+      },
+      "es": {
+        "type": "planning-guide",
+        "links": [
+          [
+            "/es/brazil/",
+            "Panorama de Brasil"
+          ],
+          [
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+            "Planifica tu viaje"
+          ],
+          [
+            "/es/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/es/brazil/rio-negro/",
+            "Rio Negro"
+          ],
+          [
+            "/es/brazil/anavilhanas/",
+            "Anavilhanas"
+          ],
+          [
+            "/es/brazil/alter-do-chao/",
+            "Santarém y Alter do Chão"
+          ],
+          [
+            "/es/brazil/lodges-en-la-amazonia/",
+            "Lodges amazónicos"
+          ],
+          [
+            "/es/brazil/viajes-fluviales/",
+            "Viajes fluviales"
+          ],
+          [
+            "/es/brazil/mejor-epoca-para-visitar/",
+            "Cuándo viajar"
+          ],
+          [
+            "/es/brazil/fauna/",
+            "Observación de fauna"
+          ],
+          [
+            "/es/brazil/como-llegar/",
+            "Llegada y traslados"
+          ],
+          [
+            "/es/brazil/que-llevar/",
+            "Qué llevar"
+          ]
+        ],
+        "context_links": [
+          [
+            "panorama de Brasil",
+            "/es/brazil/"
+          ],
+          [
+            "guía de planificación de Brasil",
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/"
+          ],
+          [
+            "guía de Manaus",
+            "/es/brazil/manaus/"
+          ],
+          [
+            "guía del Rio Negro",
+            "/es/brazil/rio-negro/"
+          ],
+          [
+            "guía de Anavilhanas",
+            "/es/brazil/anavilhanas/"
+          ],
+          [
+            "guía de Alter do Chão",
+            "/es/brazil/alter-do-chao/"
+          ],
+          [
+            "guía de lodges de Brasil",
+            "/es/brazil/lodges-en-la-amazonia/"
+          ],
+          [
+            "guía de viajes fluviales de Brasil",
+            "/es/brazil/viajes-fluviales/"
+          ],
+          [
+            "guía de temporadas de Brasil",
+            "/es/brazil/mejor-epoca-para-visitar/"
+          ],
+          [
+            "guía de fauna de Brasil",
+            "/es/brazil/fauna/"
+          ],
+          [
+            "guía de acceso a la Amazonía brasileña",
+            "/es/brazil/como-llegar/"
+          ],
+          [
+            "guía de equipaje para Brasil",
+            "/es/brazil/que-llevar/"
+          ]
+        ],
+        "feature_sides": {
+          "2": "left",
+          "5": "right"
+        },
+        "scope": "Revisión editorial: 8 de octubre de 2026. Las fuentes oficiales respaldan los puntos de llegada; las comparaciones de traslados y equipo son orientación editorial. Confirma conexiones, equipaje, servicios y requisitos actuales con el proveedor responsable. Las fotografías son ilustrativas salvo la imagen documentada de Manaus; ninguna identifica un traslado o alojamiento reservado.",
+        "slug": "como-llegar",
+        "pair_id": "brazil_access_001",
+        "h1": "Cómo llegar a la Amazonía brasileña: organiza cada conexión",
+        "title": "Cómo llegar a la Amazonía brasileña | Vuelos y traslados",
+        "description": "Compara Manaus y Santarém, traslados a lodges y embarque. Organiza equipaje, horarios de llegada y conexiones para tu viaje a la Amazonía brasileña.",
+        "lede": "Elige primero la región y después conecta aeropuerto, alojamiento y traslado final. Un plan claro de llegada protege el tiempo que quieres disfrutar en la Amazonía.",
+        "hero": [
+          "manaus-rio-negro",
+          "Manaus visto desde el Rio Negro"
+        ],
+        "features": {
+          "2": [
+            "amazon-forest-river-channel",
+            "Canal fluvial rodeado de bosque, fotografía ilustrativa"
+          ],
+          "5": [
+            "amazon-thatched-hammock-shelter",
+            "Zona de hamacas a la sombra, fotografía ilustrativa"
+          ]
+        },
+        "quick": [
+          "El aeropuerto es solo el primer paso del viaje",
+          "Visit Brasil identifica el aeropuerto Eduardo Gomes para Manaus y el Maestro Wilson Fonseca para Santarém y Alter do Chão. Confirma los puntos de encuentro y los tramos por carretera o río con el proveedor de tu estancia."
+        ],
+        "choices_heading": "Relaciona la llegada con la región del viaje",
+        "choices": [
+          [
+            "Región de Manaus",
+            "Coordina la llegada a la ciudad con el traslado al lodge o el embarque.",
+            "#section-1"
+          ],
+          [
+            "Santarém y Alter do Chão",
+            "Organiza la llegada al Tapajós por separado del itinerario de Manaus.",
+            "#section-2"
+          ],
+          [
+            "Varias regiones",
+            "Compara el esfuerzo de traslado con el tiempo que aporta cada región.",
+            "#section-7"
+          ]
+        ],
+        "cta": [
+          "Organiza la llegada y la salida con claridad",
+          "Comparte fechas posibles, ciudad de llegada y formato de viaje antes de reservar el transporte."
+        ],
+        "sources": [
+          [
+            "Visit Brasil: llegada a Manaus",
+            "https://www.visitbrasil.com/es/location/manaus-es/"
+          ],
+          [
+            "Visit Brasil: acceso a Santarém y Alter do Chão",
+            "https://www.visitbrasil.com/location/alter-do-chao/"
+          ]
+        ],
+        "faqs": [
+          [
+            "¿Qué aeropuerto debo elegir?",
+            "Elige primero la región y el itinerario. Manaus y Santarém corresponden a planes regionales distintos; confirma la conexión completa con tu alojamiento antes de comprar vuelos."
+          ],
+          [
+            "¿La reserva de un lodge incluye el traslado desde el aeropuerto?",
+            "No necesariamente. Pregunta qué incluye, dónde y cuándo te recogen, y si cubre los tramos por ciudad, carretera y río."
+          ],
+          [
+            "¿Puedo llegar y empezar el programa de bosque el mismo día?",
+            "Pide al proveedor que revise la llegada y los traslados concretos. No supongas que el horario del vuelo encaja con la salida hacia el lodge o el embarque."
+          ],
+          [
+            "¿Una embarcación de pasajeros equivale a un viaje fluvial guiado?",
+            "No. Una reserva de transporte no confirma guías, excursiones, comidas ni el alojamiento que buscas. Revisa el servicio y la ruta completa."
+          ]
+        ],
+        "sections": [
+          [
+            "Elige la región antes de reservar las conexiones",
+            "Consulta el panorama de Brasil para decidir si tu viaje se centra en la región de Manaus o en el Tapajós, alrededor de Santarém. Son planes regionales distintos. Empieza por el alojamiento o la ruta y confirma su punto de recogida. Un vuelo económico ayuda poco si la conexión posterior no encaja con la estancia que querías.",
+            "Pide una secuencia sencilla con llegada al aeropuerto, noche en la ciudad si hace falta, recogida, transporte y comienzo de actividades. Mantén visible cada tramo: el nombre del destino no describe un traslado completo. Compara el esfuerzo con el tiempo para disfrutar del bosque o el río, especialmente si tus vacaciones son cortas."
+          ],
+          [
+            "Coordina la llegada a Manaus con la estancia en el bosque",
+            "Visit Brasil señala el aeropuerto Eduardo Gomes para llegar a Manaus. Consulta la guía de Manaus para organizar tiempo en la ciudad. Pregunta si te recogen en el aeropuerto, un hotel u otro lugar y quién confirma las instrucciones. Distingue la hora de aterrizaje de la salida hacia el bosque.",
+            "La guía del Rio Negro y la guía de Anavilhanas ayudan a valorar la experiencia regional; después confirma cómo llega tu itinerario a su alojamiento concreto. Una descripción del destino no identifica un muelle o traslado por carretera. Solicita indicaciones para tu reserva y un contacto por si te retrasas o no encuentras el punto de encuentro."
+          ],
+          [
+            "Organiza Santarém y Alter do Chão como una conexión propia",
+            "Visit Brasil identifica el aeropuerto Maestro Wilson Fonseca de Santarém para acceder a Alter do Chão. La guía de Alter do Chão explica el pueblo y el entorno del Tapajós. Confirma el traslado al alojamiento elegido, sin asumir que la llegada al aeropuerto incluye recogida o que la reserva cubre todos los desplazamientos locales.",
+            "Pregunta dónde empieza y termina la estancia, cómo se maneja el equipaje y si alguna excursión sale de otro lugar. Si quieres combinar esta región con Manaus, compara la conexión completa en vez de tratarlas como paradas próximas. Confirma la disponibilidad actual con el proveedor; esta guía no publica horarios de aerolíneas ni plazas confirmadas."
+          ],
+          [
+            "Revisa el traslado al lodge por separado",
+            "La guía de lodges de Brasil compara alojamiento y guías, pero el traslado necesita su propia explicación. Pregunta qué tramos por carretera y río incluye, si la recogida es compartida o privada y cómo llegas a la propiedad. Solicita la secuencia antes de comparar opciones únicamente por el número de noches anunciado.",
+            "Aclara qué ocurre al llegar: acceso a la habitación, comidas y primera actividad. Si el traslado ocupa buena parte del día, no lo confundas con un día completo de excursiones. Comparte antes de reservar tus necesidades de movilidad o manejo de equipaje. Una etiqueta general de traslado cómodo no sustituye esas respuestas."
+          ],
+          [
+            "Distingue el embarque turístico del transporte fluvial",
+            "Consulta la guía de viajes fluviales de Brasil si dormirás a bordo. Confirma lugar y hora límite de embarque, recogida y punto de regreso. Pregunta quién se ocupa de cada conexión. El nombre de un río o la fotografía de una embarcación no identifica el lugar de embarque de tu salida concreta.",
+            "Distingue un servicio de pasajeros de una excursión y de un programa turístico de varias noches. Confirma alojamiento, comidas, guías y actividades en tierra. Si contratas transporte aparte, aclara cómo conecta con el siguiente servicio y qué sucede si se retrasa. No supongas que distintos operadores coordinan el viaje simplemente porque sus rutas parecen encajar."
+          ],
+          [
+            "Deja margen para disfrutar del día de llegada",
+            "Compara un traslado el mismo día con una noche en la ciudad cuando exista esa opción. Pide al proveedor que valore el vuelo concreto frente a sus salidas, sin aplicar un margen fijo a todos los viajes. Lo importante es que la secuencia permita completar las conexiones con comodidad para tu grupo.",
+            "Considera cómo afectaría una llegada tardía a un traslado compartido o una salida fluvial. Lee las condiciones de cambio y cancelación y pregunta quién organizaría una alternativa. Mantén realista la primera actividad en el bosque. La guía de temporadas de Brasil permite valorar la estación junto con el plan de llegada."
+          ],
+          [
+            "Acuerda el equipaje y los puntos de encuentro",
+            "Usa la guía de equipaje para Brasil y confirma la cantidad admitida en cada tramo. Pregunta por tamaño, peso, almacenamiento y manejo entre vehículos o embarcaciones. El equipaje permitido por una aerolínea no indica lo que acepta una embarcación pequeña o un alojamiento. Guarda la respuesta con los detalles de la reserva.",
+            "Lleva las instrucciones de encuentro y contactos esenciales de forma accesible sin depender de una nueva conexión a internet. Pregunta cuándo debes comunicar los datos definitivos de llegada. Asegúrate de que cada viajero entienda la recogida, especialmente si llegan por separado. No deduzcas un muelle a partir de una fotografía o descripción informal del destino."
+          ],
+          [
+            "Añade otra región si compensa el tiempo de traslado",
+            "Compara una estancia centrada en una región con un viaje que combine Manaus y el Tapajós. Pregunta qué experiencias son diferentes y qué conexión necesitan. La guía de fauna de Brasil ayuda a mantener tus intereses de observación presentes al decidir si otra parada aporta profundidad o solo otro cambio de alojamiento.",
+            "Valora noches y días de excursión completos, no solo el número de destinos. Si llegar a la segunda región consume mucho tiempo, compara ampliar la primera estancia. Elige lo que favorezca tu ritmo. Una lista más corta de lugares puede ofrecer variedad si las actividades están bien elegidas."
+          ],
+          [
+            "Confirma el regreso con el mismo cuidado que la llegada",
+            "La guía de planificación de Brasil te ayuda a comunicar los viajes posteriores ya fijados antes de cerrar la propuesta. Pregunta cuándo termina el programa, dónde te dejan y si hace falta otra noche en la ciudad o un traslado aparte. Mantén visible el regreso para no depender de una suposición sobre la llegada al aeropuerto.",
+            "Lee el presupuesto completo y distingue el transporte organizado por el operador del que reservas por tu cuenta. Confirma por escrito puntos de encuentro, responsabilidades y tratamiento de retrasos. Elige conexiones que protejan el tiempo de tus actividades, con un plan práctico de llegada y salida. La coordinación forma parte de la calidad del viaje."
+          ]
+        ]
+      }
+    },
+    "packing": {
+      "en": {
+        "type": "planning-guide",
+        "links": [
+          [
+            "/brazil/",
+            "Brazil overview"
+          ],
+          [
+            "/brazil/plan-your-amazon-trip/",
+            "Plan your journey"
+          ],
+          [
+            "/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/brazil/rio-negro/",
+            "Rio Negro"
+          ],
+          [
+            "/brazil/anavilhanas/",
+            "Anavilhanas"
+          ],
+          [
+            "/brazil/alter-do-chao/",
+            "Santarém & Alter do Chão"
+          ],
+          [
+            "/brazil/amazon-lodges/",
+            "Amazon lodges"
+          ],
+          [
+            "/brazil/river-journeys/",
+            "River journeys"
+          ],
+          [
+            "/brazil/best-time-to-visit/",
+            "Choose your dates"
+          ],
+          [
+            "/brazil/wildlife/",
+            "Wildlife observation"
+          ],
+          [
+            "/brazil/how-to-get-there/",
+            "Arrival and transfers"
+          ],
+          [
+            "/brazil/packing-list/",
+            "Packing list"
+          ]
+        ],
+        "context_links": [
+          [
+            "Brazil overview",
+            "/brazil/"
+          ],
+          [
+            "Brazil planning guide",
+            "/brazil/plan-your-amazon-trip/"
+          ],
+          [
+            "Manaus guide",
+            "/brazil/manaus/"
+          ],
+          [
+            "Rio Negro guide",
+            "/brazil/rio-negro/"
+          ],
+          [
+            "Anavilhanas guide",
+            "/brazil/anavilhanas/"
+          ],
+          [
+            "Alter do Chão guide",
+            "/brazil/alter-do-chao/"
+          ],
+          [
+            "Brazil lodge guide",
+            "/brazil/amazon-lodges/"
+          ],
+          [
+            "Brazil river journey guide",
+            "/brazil/river-journeys/"
+          ],
+          [
+            "Brazil timing guide",
+            "/brazil/best-time-to-visit/"
+          ],
+          [
+            "Brazil wildlife guide",
+            "/brazil/wildlife/"
+          ],
+          [
+            "Brazil access guide",
+            "/brazil/how-to-get-there/"
+          ],
+          [
+            "Brazil packing guide",
+            "/brazil/packing-list/"
+          ]
+        ],
+        "feature_sides": {
+          "2": "left",
+          "5": "right"
+        },
+        "scope": "Editorial review: October 8, 2026. Official tourism sources support gateway context; the transfer and equipment comparisons are editorial planning guidance. Confirm current connections, baggage limits, services and requirements with the responsible provider. Photographs are illustrative except the documented Manaus waterfront image; none identifies a booked transfer or property.",
+        "slug": "packing-list",
+        "pair_id": "brazil_packing_001",
+        "h1": "What to pack for the Brazilian Amazon: prepare for your route",
+        "title": "Brazil Amazon Packing List | Lodges, Boats & Observation",
+        "description": "Pack for Brazilian Amazon lodge and river travel: clothing, footwear, baggage, camera protection and provider questions. Keep your kit practical for the route.",
+        "lede": "Pack for the activities and transfers you have booked. A manageable bag and a few well-chosen essentials work better than equipment for every possible expedition.",
+        "hero": [
+          "amazon-forest-river-channel",
+          "Forest-lined river, illustrative photograph"
+        ],
+        "features": {
+          "2": [
+            "amazon-thatched-hammock-shelter",
+            "Shaded hammock area, illustrative accommodation photograph"
+          ],
+          "5": [
+            "amazon-small-monkeys-pair",
+            "Two small monkeys, illustrative wildlife photograph"
+          ]
+        },
+        "quick": [
+          "Use the final itinerary to decide what belongs in the bag",
+          "Confirm walking conditions, boat transfers, baggage limits and equipment supplied by the provider. Divide your kit into travel essentials, daily excursion items and equipment for your own interests rather than packing from an imagined expedition."
+        ],
+        "choices_heading": "Start with your travel format",
+        "choices": [
+          [
+            "A forest lodge",
+            "Check footwear, laundry and the items supplied for outings.",
+            "#section-2"
+          ],
+          [
+            "A river journey",
+            "Ask about storage, charging and luggage handling aboard.",
+            "#section-3"
+          ],
+          [
+            "Wildlife and photography",
+            "Keep observation equipment protected and manageable.",
+            "#section-5"
+          ]
+        ],
+        "cta": [
+          "Prepare a kit that fits your actual itinerary",
+          "Tell us your travel format, walking comfort and any equipment requirements that affect the plan."
+        ],
+        "sources": [
+          [
+            "Visit Brasil: Alter do Chão visitor preparation",
+            "https://www.visitbrasil.com/location/alter-do-chao/"
+          ],
+          [
+            "Amazonastur: official tourism guide and protected-area visitor practice",
+            "https://www.amazonastur.am.gov.br/wp-content/uploads/2020/02/Amazonas_Guia_Turistico_Digital-ptBR_.pdf"
+          ]
+        ],
+        "faqs": [
+          [
+            "Should I bring hiking boots or use footwear supplied by a lodge?",
+            "Ask about the actual walks and what the provider supplies, including sizes. Choose suitable footwear for the itinerary; do not assume every stay lends the same equipment."
+          ],
+          [
+            "What luggage allowance applies?",
+            "Confirm each airline, vehicle and vessel segment with its provider. One allowance does not establish the storage or handling arrangements for the rest of the journey."
+          ],
+          [
+            "Are binoculars and camera equipment necessary?",
+            "They depend on your interests. Ask what is supplied and shared; bring manageable equipment you know how to use rather than assume a general excursion includes specialist gear."
+          ],
+          [
+            "Does this replace personal health or entry advice?",
+            "No. Check current official entry information and obtain individual health advice before departure. This guide covers practical packing questions for the booked travel format."
+          ]
+        ],
+        "sections": [
+          [
+            "Pack from the itinerary rather than the destination label",
+            "Use the Brazil overview to identify the region and the Brazil access guide to understand the transfer sequence. List the activities actually proposed: walks, smaller-boat outings, time aboard or time in a village. Ask about their duration and effort before deciding what clothing and equipment you need. The word Amazon does not describe every traveler’s daily routine.",
+            "Separate essentials for the journey from items useful on an excursion. Keep documents, meeting details and your own essential items accessible during transfers. Ask what should remain at the accommodation and what to take on an outing. A manageable bag helps you move through the actual handovers without carrying equipment that has no clear role in the trip."
+          ],
+          [
+            "Choose clothing for the planned outings and downtime",
+            "Ask the provider what it recommends for walks and boat excursions on your itinerary. Consider comfortable layers that let you adjust coverage and keep a change of clothing for time at the accommodation. Visit Brasil’s Alter do Chão guidance mentions sun protection and insect repellent; choose suitable products and follow their instructions rather than treating this guide as personal health advice.",
+            "Include clothing for meals, rest and any city or village time as well as excursions. Check laundry arrangements before packing more changes than you need. Do not assume that every property offers the same service or that an overnight vessel has the same facilities as a hotel. Let your own comfort and the length of the stay shape a simple, practical selection."
+          ],
+          [
+            "Ask about footwear before buying specialist gear",
+            "Use the Brazil lodge guide to frame questions about the paths around the property and the walks on its program. Ask what footing and effort to expect and whether boots or other equipment are supplied. Confirm sizes and availability. A general equipment-included description should not leave an essential item uncertain until you arrive.",
+            "Choose footwear that suits the activity and that you can wear comfortably. Discuss any walking concerns before booking rather than expecting a purchase to solve a route that does not fit your group. Bring an appropriate option for rest and travel if needed, but avoid adding several pairs without a purpose. The right answer depends on the actual itinerary."
+          ],
+          [
+            "Match the bag to the transfer and accommodation",
+            "The Brazil river journey guide helps identify questions about cabin storage and life aboard; the Brazil access guide explains why each handover matters. Ask about the shape, size and weight of luggage, where it is stored and who handles it. Confirm the requirements for the vessel or smaller transfer boat separately from an airline allowance.",
+            "Organize daily items so you do not need to unpack the main bag for every excursion. Discuss storage if you plan to combine a lodge, vessel and city stay. A smaller outing bag can be useful when it fits the provider’s arrangements, but no bag type removes the need to understand those arrangements. Keep baggage decisions connected to the confirmed travel sequence."
+          ],
+          [
+            "Prepare a practical excursion kit",
+            "Ask what the guide supplies and what you should carry for each activity. Consider an appropriate way to protect items from splashes or rain, along with a small selection of essentials suited to the outing. Avoid interpreting waterproof marketing as a guarantee for every use; choose protection that fits your equipment and follow its instructions.",
+            "Check how drinking water and refills are arranged rather than assuming a particular system. Keep snacks or personal items within the provider’s visiting rules. The official Amazonas tourism guide advises removing waste and staying on trails in protected areas. Prepare to carry out what you bring and keep your kit manageable enough to follow the guide’s instructions comfortably."
+          ],
+          [
+            "Keep observation equipment useful and manageable",
+            "Use the Brazil wildlife guide to decide whether binoculars, photography equipment or a simple notebook serve your interests. Ask whether the operator provides binoculars and whether they are shared. Bring gear you can use comfortably, and clarify opportunities for longer observation rather than packing specialist equipment for activities that are not part of the program.",
+            "For cameras, discuss carrying arrangements during walks, protection during boat outings and charging at the accommodation. Do not assume every room or cabin provides uninterrupted charging or space for a large kit. A modest setup that you can manage may be more enjoyable than carrying extra lenses while struggling to observe. Leave animals space rather than requesting a closer encounter for a photograph."
+          ],
+          [
+            "Confirm power, communications and personal essentials",
+            "Ask the accommodation about outlets, charging arrangements and any restrictions relevant to your devices. Confirm what you need for the actual property rather than relying on a general country description. If communication is essential, discuss the service available and alternatives before arrival. Keep important meeting information accessible without assuming a fresh internet connection at each handover.",
+            "Obtain current personal health advice and check official entry information separately from this packing list. Carry your own necessary items according to the applicable travel requirements, and discuss essential storage needs through the booking conversation. This guide does not specify vaccinations, medication or universal entry rules. Those decisions depend on current requirements and your individual circumstances."
+          ],
+          [
+            "Adjust the kit to the region and travel window",
+            "Use the Brazil timing guide to discuss the season and proposed activities. The Rio Negro guide and Anavilhanas guide provide context for that regional setting, while the Alter do Chão guide explains the Tapajós alternative. Ask for equipment recommendations tied to your actual dates and outings instead of copying a universal expedition list.",
+            "Use the Manaus guide if city time is part of the route and include what makes that part comfortable too. Review the entire trip before removing or adding items. An itinerary with more rest and shorter walks may call for a different kit from one centered on sustained observation. Prepare for your own program, not the most demanding activity advertised in the region."
+          ],
+          [
+            "Resolve the final questions before departure",
+            "Use the Brazil planning guide to share any equipment or comfort needs that affect the proposal. Ask for a final packing note covering supplied items, baggage, footwear, charging and the excursions you have booked. Keep those answers with the arrival instructions so practical details do not depend on reconstructing several conversations at the last moment.",
+            "Review the kit once more and remove items with no clear use. Keep the bag easy to handle and your priorities visible: comfortable participation, useful observation and straightforward transfers. A good packing plan supports the trip you chose. It should help you enjoy the forest and river rather than make equipment management the focus of each day."
+          ]
+        ]
+      },
+      "es": {
+        "type": "planning-guide",
+        "links": [
+          [
+            "/es/brazil/",
+            "Panorama de Brasil"
+          ],
+          [
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+            "Planifica tu viaje"
+          ],
+          [
+            "/es/brazil/manaus/",
+            "Manaus"
+          ],
+          [
+            "/es/brazil/rio-negro/",
+            "Rio Negro"
+          ],
+          [
+            "/es/brazil/anavilhanas/",
+            "Anavilhanas"
+          ],
+          [
+            "/es/brazil/alter-do-chao/",
+            "Santarém y Alter do Chão"
+          ],
+          [
+            "/es/brazil/lodges-en-la-amazonia/",
+            "Lodges amazónicos"
+          ],
+          [
+            "/es/brazil/viajes-fluviales/",
+            "Viajes fluviales"
+          ],
+          [
+            "/es/brazil/mejor-epoca-para-visitar/",
+            "Cuándo viajar"
+          ],
+          [
+            "/es/brazil/fauna/",
+            "Observación de fauna"
+          ],
+          [
+            "/es/brazil/como-llegar/",
+            "Llegada y traslados"
+          ],
+          [
+            "/es/brazil/que-llevar/",
+            "Qué llevar"
+          ]
+        ],
+        "context_links": [
+          [
+            "panorama de Brasil",
+            "/es/brazil/"
+          ],
+          [
+            "guía de planificación de Brasil",
+            "/es/brazil/planifica-tu-viaje-a-la-amazonia/"
+          ],
+          [
+            "guía de Manaus",
+            "/es/brazil/manaus/"
+          ],
+          [
+            "guía del Rio Negro",
+            "/es/brazil/rio-negro/"
+          ],
+          [
+            "guía de Anavilhanas",
+            "/es/brazil/anavilhanas/"
+          ],
+          [
+            "guía de Alter do Chão",
+            "/es/brazil/alter-do-chao/"
+          ],
+          [
+            "guía de lodges de Brasil",
+            "/es/brazil/lodges-en-la-amazonia/"
+          ],
+          [
+            "guía de viajes fluviales de Brasil",
+            "/es/brazil/viajes-fluviales/"
+          ],
+          [
+            "guía de temporadas de Brasil",
+            "/es/brazil/mejor-epoca-para-visitar/"
+          ],
+          [
+            "guía de fauna de Brasil",
+            "/es/brazil/fauna/"
+          ],
+          [
+            "guía de acceso a la Amazonía brasileña",
+            "/es/brazil/como-llegar/"
+          ],
+          [
+            "guía de equipaje para Brasil",
+            "/es/brazil/que-llevar/"
+          ]
+        ],
+        "feature_sides": {
+          "2": "left",
+          "5": "right"
+        },
+        "scope": "Revisión editorial: 8 de octubre de 2026. Las fuentes oficiales respaldan los puntos de llegada; las comparaciones de traslados y equipo son orientación editorial. Confirma conexiones, equipaje, servicios y requisitos actuales con el proveedor responsable. Las fotografías son ilustrativas salvo la imagen documentada de Manaus; ninguna identifica un traslado o alojamiento reservado.",
+        "slug": "que-llevar",
+        "pair_id": "brazil_packing_001",
+        "h1": "Qué llevar a la Amazonía brasileña: prepara el equipaje para tu ruta",
+        "title": "Qué llevar a la Amazonía brasileña | Lista de equipaje",
+        "description": "Prepara el equipaje para lodges y viajes fluviales en Brasil: ropa, calzado, protección fotográfica y preguntas al proveedor. Un equipo práctico para tu ruta.",
+        "lede": "Prepara el equipaje para las actividades y los traslados que has reservado. Una bolsa manejable y algunos elementos bien elegidos ayudan más que equipo para todas las expediciones imaginables.",
+        "hero": [
+          "amazon-forest-river-channel",
+          "Canal fluvial rodeado de bosque, fotografía ilustrativa"
+        ],
+        "features": {
+          "2": [
+            "amazon-thatched-hammock-shelter",
+            "Zona de hamacas a la sombra, fotografía ilustrativa"
+          ],
+          "5": [
+            "amazon-small-monkeys-pair",
+            "Dos monos pequeños, fotografía ilustrativa"
+          ]
+        },
+        "quick": [
+          "Usa el itinerario definitivo para decidir qué llevar",
+          "Confirma caminatas, traslados fluviales, límites de equipaje y material suministrado. Separa los elementos de viaje, los de excursión y el equipo para tus intereses, en vez de preparar una expedición que no corresponde a tu programa."
+        ],
+        "choices_heading": "Empieza por tu forma de viajar",
+        "choices": [
+          [
+            "Un lodge en el bosque",
+            "Confirma calzado, lavandería y material para las excursiones.",
+            "#section-2"
+          ],
+          [
+            "Un viaje fluvial",
+            "Pregunta por almacenamiento, carga y manejo del equipaje a bordo.",
+            "#section-3"
+          ],
+          [
+            "Fauna y fotografía",
+            "Protege el equipo y mantén una cantidad manejable.",
+            "#section-5"
+          ]
+        ],
+        "cta": [
+          "Prepara el equipo para tu itinerario concreto",
+          "Cuéntanos tu formato de viaje, comodidad al caminar y necesidades de equipo que afecten al programa."
+        ],
+        "sources": [
+          [
+            "Visit Brasil: preparación para visitar Alter do Chão",
+            "https://www.visitbrasil.com/location/alter-do-chao/"
+          ],
+          [
+            "Amazonastur: guía oficial y visita de áreas protegidas",
+            "https://www.amazonastur.am.gov.br/wp-content/uploads/2020/02/Amazonas_Guia_Turistico_Digital-ptBR_.pdf"
+          ]
+        ],
+        "faqs": [
+          [
+            "¿Llevo botas de caminata o uso las que presta el lodge?",
+            "Pregunta por las caminatas y el material suministrado, incluidas las tallas. Elige calzado adecuado para el itinerario; no supongas que todos los alojamientos prestan lo mismo."
+          ],
+          [
+            "¿Qué cantidad de equipaje puedo llevar?",
+            "Confirma cada tramo con la aerolínea y los proveedores de vehículos y embarcaciones. Un límite no describe el almacenamiento ni el manejo del resto del viaje."
+          ],
+          [
+            "¿Son necesarios binoculares y equipo fotográfico?",
+            "Depende de tus intereses. Pregunta qué material se suministra y comparte; lleva equipo manejable que sepas usar, sin asumir que una excursión general incluye material especializado."
+          ],
+          [
+            "¿Esta lista sustituye consejos de salud o requisitos de entrada?",
+            "No. Consulta información oficial de entrada actualizada y asesoramiento personal de salud antes de viajar. Esta guía trata preguntas prácticas de equipaje para el programa reservado."
+          ]
+        ],
+        "sections": [
+          [
+            "Prepara el equipaje según el itinerario",
+            "Consulta el panorama de Brasil para identificar la región y la guía de acceso a la Amazonía brasileña para entender los traslados. Anota las actividades propuestas: caminatas, salidas en embarcaciones pequeñas, tiempo a bordo o en un pueblo. Pregunta duración y esfuerzo antes de elegir ropa y equipo. La palabra Amazonía no describe la rutina de todos los viajeros.",
+            "Separa lo esencial durante los traslados de lo útil en una excursión. Mantén documentos, instrucciones de encuentro y elementos personales necesarios accesibles. Pregunta qué queda en el alojamiento y qué debes llevar en cada salida. Una bolsa manejable facilita las conexiones sin cargar equipo que no tenga una función clara en el viaje."
+          ],
+          [
+            "Elige ropa para las actividades y el descanso",
+            "Pregunta qué recomienda el proveedor para las caminatas y salidas fluviales de tu itinerario. Considera prendas cómodas que permitan ajustar la cobertura y una muda para el alojamiento. La orientación de Visit Brasil sobre Alter do Chão menciona protección solar y repelente; elige productos adecuados y sigue sus instrucciones. Esta guía no sustituye consejos personales de salud.",
+            "Incluye ropa para comidas, descanso y tiempo en la ciudad o el pueblo. Confirma la lavandería antes de añadir más mudas de las necesarias. No supongas que todas las propiedades ofrecen lo mismo ni que una embarcación tiene las instalaciones de un hotel. Organiza una selección sencilla según la duración de la estancia y tu comodidad."
+          ],
+          [
+            "Pregunta por el calzado antes de comprar equipo especializado",
+            "La guía de lodges de Brasil ayuda a consultar los caminos de la propiedad y las caminatas del programa. Pregunta por el terreno y el esfuerzo, y si se prestan botas u otro material. Confirma tallas y disponibilidad. Una descripción general de equipo incluido no debería dejar incierto un elemento esencial hasta la llegada.",
+            "Elige calzado adecuado que puedas usar cómodamente. Habla de tus necesidades al caminar antes de reservar; una compra no resuelve una ruta que no encaja con tu grupo. Lleva una opción apropiada para descansar y viajar si la necesitas, sin añadir varios pares sin motivo. La respuesta depende de las actividades concretas."
+          ],
+          [
+            "Relaciona la bolsa con el traslado y el alojamiento",
+            "La guía de viajes fluviales de Brasil presenta preguntas sobre espacio en el camarote; la guía de acceso a la Amazonía brasileña explica la importancia de cada traslado. Pregunta por forma, tamaño y peso del equipaje, dónde se guarda y quién lo maneja. Confirma los requisitos de la embarcación o traslado pequeño por separado de los de la aerolínea.",
+            "Organiza los elementos de uso diario para no deshacer todo el equipaje en cada excursión. Consulta almacenamiento si combinas lodge, embarcación y ciudad. Una bolsa pequeña puede ayudar si encaja con la organización del proveedor, pero ningún tipo de equipaje sustituye esa información. Decide según la secuencia de viaje confirmada."
+          ],
+          [
+            "Prepara un equipo práctico para las excursiones",
+            "Pregunta qué suministra el guía y qué debes llevar para cada actividad. Considera cómo proteger objetos de salpicaduras o lluvia y algunos elementos esenciales para la salida. No interpretes una etiqueta de impermeabilidad como garantía para cualquier uso: elige protección adecuada para tu material y sigue las instrucciones.",
+            "Confirma cómo se proporciona y repone el agua para beber, sin asumir un sistema concreto. Lleva alimentos u objetos personales según las reglas de visita. La guía oficial de Amazonas aconseja retirar residuos y seguir los senderos en áreas protegidas. Prepárate para sacar lo que lleves y mantener un equipo manejable que permita seguir cómodamente al guía."
+          ],
+          [
+            "Lleva equipo de observación útil y manejable",
+            "Consulta la guía de fauna de Brasil para valorar si te sirven binoculares, cámara o una libreta. Pregunta si el operador presta binoculares y si son compartidos. Lleva material que sepas usar con comodidad y confirma el tiempo para observar, en lugar de preparar equipo especializado para actividades que no aparecen en el programa.",
+            "Para fotografía, pregunta cómo transportar la cámara al caminar, protegerla en embarcaciones y recargarla en el alojamiento. No supongas carga continua ni espacio para un equipo grande en cada habitación o camarote. Un conjunto modesto puede permitir disfrutar más que varios lentes difíciles de manejar. Da espacio a los animales sin pedir un acercamiento para la imagen."
+          ],
+          [
+            "Confirma carga, comunicación y elementos personales",
+            "Pregunta por enchufes, carga y restricciones del alojamiento relevantes para tus dispositivos. Confirma lo necesario para esa propiedad, no una descripción general del país. Si necesitas comunicarte, consulta el servicio y las alternativas antes de llegar. Guarda las instrucciones de encuentro sin depender de conectarte a internet en cada tramo.",
+            "Obtén consejos personales de salud y consulta información oficial de entrada por separado de esta lista. Lleva tus elementos necesarios según los requisitos aplicables y conversa sobre almacenamiento esencial al reservar. Esta guía no determina vacunas, medicamentos ni reglas universales de entrada. Esas decisiones dependen de requisitos actuales y circunstancias personales."
+          ],
+          [
+            "Ajusta el equipo a la región y las fechas",
+            "La guía de temporadas de Brasil ayuda a conversar sobre la estación y las actividades. La guía del Rio Negro y la guía de Anavilhanas dan contexto a esa región; la guía de Alter do Chão presenta el Tapajós. Pide recomendaciones de equipo relacionadas con tus fechas y excursiones, en vez de copiar una lista universal de expedición.",
+            "Consulta la guía de Manaus si pasas tiempo en la ciudad e incluye lo que haga cómoda esa parte. Revisa el viaje completo antes de añadir o quitar objetos. Una ruta con descanso y caminatas cortas puede necesitar otro equipo que una estancia centrada en observación prolongada. Prepárate para tu programa, no para la actividad más exigente anunciada en la región."
+          ],
+          [
+            "Resuelve las últimas dudas antes de salir",
+            "La guía de planificación de Brasil permite compartir necesidades de equipo o comodidad que afectan a la propuesta. Solicita una nota final sobre material incluido, equipaje, calzado, carga y excursiones reservadas. Guarda las respuestas con las instrucciones de llegada para no tener que reconstruir varias conversaciones justo antes de partir.",
+            "Revisa una vez más y retira objetos sin uso claro. Mantén una bolsa fácil de manejar y tus prioridades presentes: participar con comodidad, observar y completar los traslados con sencillez. Un buen equipaje apoya el viaje elegido. Debería ayudarte a disfrutar del bosque y del río, en lugar de convertir el manejo del equipo en el centro de cada día."
+          ]
+        ]
+      }
+    }
+  },
+  "editorial_findings": [
+    "Official arrival facts verified; no schedules, transfer times or baggage allowances invented",
+    "Local Spanish drafts reviewed and manually polished; airport transfer FAQ direction corrected",
+    "Practical packing guidance kept separate from individual medical and current entry requirements",
+    "Shared CSS and three distinct previously reviewed scenes per page retained",
+    "Packing local draft had malformed FAQ shape and missing usable CTA; reviewed version restored four FAQ pairs and complete CTA."
+  ]
+}

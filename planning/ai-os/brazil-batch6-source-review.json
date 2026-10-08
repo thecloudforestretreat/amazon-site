@@ -1,0 +1,36 @@
+{
+  "review_date": "2026-10-08",
+  "sources": [
+    {
+      "url": "https://www.visitbrasil.com/es/location/manaus-es/",
+      "verified": "Direct official page read, arrival section",
+      "claims": [
+        "Eduardo Gomes airport is listed for Manaus"
+      ],
+      "excluded": [
+        "Flight schedules",
+        "Universal transfer times",
+        "Voltage assumptions"
+      ]
+    },
+    {
+      "url": "https://www.visitbrasil.com/location/alter-do-chao/",
+      "verified": "Direct official page read",
+      "claims": [
+        "Maestro Wilson Fonseca airport listed for Santar\u00e9m/Alter do Ch\u00e3o",
+        "Visitor preparation mentions sun protection and insect repellent"
+      ],
+      "qualification": "No individual medical advice or product recommendation"
+    },
+    {
+      "url": "https://www.amazonastur.am.gov.br/wp-content/uploads/2020/02/Amazonas_Guia_Turistico_Digital-ptBR_.pdf",
+      "verified": "Retained prior full PDF review; stable visitor practice",
+      "claims": [
+        "Stay on trails and remove waste in protected areas"
+      ]
+    }
+  ],
+  "editorial_scope": "Transport and equipment comparisons; no invented schedules, transfer durations, luggage limits, entry or medical requirements",
+  "image_review": "Previously reviewed and owner-licensed distinct illustrative scenes; documented Manaus image with attribution",
+  "visual_review": "Browser admin security policy verification remains unavailable; no bypass attempted"
+}

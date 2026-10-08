@@ -1,0 +1,31 @@
+{
+  "deployment": "53db7a41",
+  "checks": [
+    {
+      "route": "/brazil/how-to-get-there/",
+      "status": 302,
+      "access_hostname": "tcfr-mbw.cloudflareaccess.com",
+      "redirect_followed": false
+    },
+    {
+      "route": "/es/brazil/como-llegar/",
+      "status": 302,
+      "access_hostname": "tcfr-mbw.cloudflareaccess.com",
+      "redirect_followed": false
+    },
+    {
+      "route": "/brazil/packing-list/",
+      "status": 302,
+      "access_hostname": "tcfr-mbw.cloudflareaccess.com",
+      "redirect_followed": false
+    },
+    {
+      "route": "/es/brazil/que-llevar/",
+      "status": 302,
+      "access_hostname": "tcfr-mbw.cloudflareaccess.com",
+      "redirect_followed": false
+    }
+  ],
+  "authenticated_readback": "Not verified: browser security policy verification unavailable",
+  "visual_review": "Desktop/mobile pending; security controls not bypassed"
+}

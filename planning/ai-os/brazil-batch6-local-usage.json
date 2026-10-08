@@ -1,0 +1,26 @@
+{
+  "runs": [
+    {
+      "topic": "access",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 1847,
+      "output_tokens": 2136,
+      "seconds": 93.96,
+      "retries": 0,
+      "cache_hits": null
+    },
+    {
+      "topic": "packing",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 1863,
+      "output_tokens": 2180,
+      "seconds": 89.64,
+      "retries": 0,
+      "cache_hits": null
+    }
+  ],
+  "cloud_percentage": "Unavailable: no comparable cloud token meter",
+  "total_local_tokens": 8026,
+  "cache_hits": "Not exposed by local API",
+  "promotion": "Raw drafts retained; wording, FAQ shape and metadata corrected manually before rendering."
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-08",
+  "status": "staged_content_complete_not_launch_ready",
+  "deployment": "53db7a41",
+  "pairs": 12,
+  "pages": 24,
+  "technical_checks": {
+    "compiled_site_pages": 148,
+    "brazil_audit_errors": 0,
+    "shared_css_delivery_tests": 3,
+    "distinct_scenes_per_page": 3,
+    "minimum_paragraph_inlink_pages": 11,
+    "reciprocal_language_routes": true,
+    "visible_faq_schema_parity": true,
+    "four_new_protected_routes": true
+  },
+  "pending": [
+    "Desktop/mobile visual review and interaction checks: browser admin policy verification unavailable",
+    "Authenticated staging readback",
+    "Final geographically specific image selection and review; illustrative stock remains qualified",
+    "Real Brazil inquiry delivery test and inbox confirmation",
+    "Owner production release authorization"
+  ],
+  "production_authorized": false,
+  "rollback": {
+    "deployment": "f798509e",
+    "source_parent": "71fba5a"
+  },
+  "cost_tracking": "Local tokens 8026 this batch; cloud/local percentage and dollars unmeasured"
+}
