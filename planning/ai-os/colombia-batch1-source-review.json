@@ -1,0 +1,21 @@
+{
+  "review_date": "2026-10-08",
+  "sources": [
+    {
+      "url": "https://colombia.travel/es/leticia",
+      "reviewed_claim": "Leticia is a river gateway at the Colombia/Brazil/Peru border; river connections support the southern circuit"
+    },
+    {
+      "url": "https://colombia.travel/es/puerto-narino",
+      "reviewed_claim": "Puerto Narino accessed upstream by boat from Leticia"
+    },
+    {
+      "url": "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-amacayacu/",
+      "reviewed_claim": "Community services in Mocagua and San Martin; advance arrangements, local interpretation, separate service charges, low-water transfer variability and no feeding/captive displays"
+    }
+  ],
+  "fetch_limits": "English tourism page fetches timed out; corresponding official Spanish pages successfully read. No failed fetch marked reviewed.",
+  "editorial_boundary": "No exact fares, schedules, medical recommendations, guaranteed sightings or named lodge offerings invented. Most content is supervisor-authored practical comparison guidance.",
+  "imagery": "Six distinct owner-licensed scenes provisionally reused across two pairs, three per page. Exact Colombian capture sites unverified; final destination imagery review pending.",
+  "css": "Only Colombia selector aliases added; stripping aliases exactly reproduces established shared stylesheet declarations."
+}

@@ -61,6 +61,7 @@ async function compilePages() {
     if (ecuadorRelease && /^(?:en|es)\/(?:peru|bolivia)\//.test(relative)) continue;
     if (peruRelease && /^(?:en|es)\/bolivia\//.test(relative)) continue;
     if ((ecuadorRelease || peruRelease || boliviaRelease) && /^(?:en|es)\/brazil\//.test(relative)) continue;
+    if (environment === "production" && /^(?:en|es)\/colombia\//.test(relative)) continue;
     const language = relative.split(path.sep)[0] === "es" ? "es" : "en";
     const outputRelative = language === "es" ? relative : relative.replace(/^en\//, "");
     const destination = path.join(outputDir, outputRelative);
@@ -71,6 +72,13 @@ async function compilePages() {
       .replaceAll("{{ETA_FOOTER}}", includes[language].footer.trim())
       .replaceAll("{{ETA_ECUADOR_NAV}}", includes[language].ecuadorNav.trim())
       .replaceAll("{{ETA_ENVIRONMENT}}", environment);
+    // Expose the reviewed Colombia hub for staging navigation only.
+    if (environment === "staging" && /^(?:en|es)\/index\.html$/.test(relative)) {
+      const route = language === "es" ? "/es/colombia/" : "/colombia/";
+      const label = language === "es" ? "Explora la guía ↗" : "Explore the guide ↗";
+      html = html.replace(/<article class="home-country home-country-future"><span class="home-country-status">[^<]+<\/span><h3>Colombia<\/h3>(.*?)<\/article>/s,
+        `<a href="${route}" class="home-country home-country-active"><span class="home-country-status">${label}</span><h3>Colombia</h3>$1</a>`);
+    }
     await mkdir(path.dirname(destination), { recursive: true });
     await writeFile(destination, html);
   }
@@ -187,7 +195,7 @@ async function buildCss() {
   // Bundle the shared guide rules into each country stylesheet. Versioning only
   // an @import wrapper leaves its nested stylesheet stale in browser caches.
   const sharedGuideCss = await readFile(path.join(cssDir, "clusters", "amazon-guide.css"), "utf8");
-  for (const country of ["peru", "bolivia", "brazil"]) {
+  for (const country of ["peru", "bolivia", "brazil", "colombia"]) {
     const wrapper = await readFile(path.join(cssDir, "clusters", `${country}.css`), "utf8");
     if (wrapper.trim() !== '@import url("./amazon-guide.css");') {
       throw new Error(`Unexpected ${country} CSS wrapper; review shared guide bundling`);

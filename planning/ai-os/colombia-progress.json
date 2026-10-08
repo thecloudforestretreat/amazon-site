@@ -24,7 +24,31 @@
     "Colombia overview",
     "Trip planning"
   ],
-  "staged_pairs": 0,
-  "status": "first_batch_started_source_and_local_drafting",
-  "quality_standard": "Same shared CSS, meaningful bilingual content, contextual internal links, reviewed facts and licensed imagery; no repeated scene within a page"
+  "staged_pairs": 2,
+  "status": "first_two_pairs_staged_technical_pass_visual_pending",
+  "quality_standard": "Same shared CSS, meaningful bilingual content, contextual internal links, reviewed facts and licensed imagery; no repeated scene within a page",
+  "staged_pages": 4,
+  "deployment": "2485f373",
+  "previous_staging_deployment": "df5140bf",
+  "qa": {
+    "compiled_site_pages": 152,
+    "country_pages": 4,
+    "errors": 0,
+    "word_range": [
+      1531,
+      1737
+    ],
+    "shared_css_tests": 4,
+    "distinct_images_per_page": 3,
+    "access_redirects": 4,
+    "production_containment_pass": true,
+    "visual_review": "Blocked: browser admin policy could not be verified",
+    "authenticated_readback": "Pending",
+    "image_review": "Visible subjects reviewed; destination-specific imagery pending before release"
+  },
+  "local_tokens_recorded": 12229,
+  "next_batch": [
+    "Leticia",
+    "Puerto Nariño"
+  ]
 }

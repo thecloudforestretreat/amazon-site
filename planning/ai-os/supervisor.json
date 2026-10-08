@@ -66,9 +66,9 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Develop Colombia overview and trip planning EN/ES with local bounded drafting",
-    "Review facts/images, shared CSS and technical/visual QA before protected staging promotion",
-    "Keep Colombia excluded from production until country QA and separate owner release approval"
+    "Owner review of Colombia first two pairs; browser admin-policy blocks agent rendered review",
+    "Next authorized batch: Leticia and Puerto Narino",
+    "Retain final Colombia imagery and release QA gates; no Colombia production deployment"
   ],
   "future_batches": [
     "Reviews deferred by owner; exclude from Ecuador launch",
@@ -115,7 +115,7 @@
     "Colombia overview",
     "Trip planning"
   ],
-  "batch_status": "Colombia first two-pair batch authorized; Brazil owner acceptance recorded",
+  "batch_status": "Colombia overview and trip-planning EN/ES deployed protected staging 2485f373; technical QA passed, rendered review and authenticated readback pending",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",

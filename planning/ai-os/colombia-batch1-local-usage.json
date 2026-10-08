@@ -1,0 +1,9 @@
+{
+  "model": "qwen3.5:9b",
+  "prompt_tokens": 147,
+  "output_tokens": 1200,
+  "seconds": 56.18,
+  "retries": 0,
+  "cache_hits": 0,
+  "status": "Draft headings only; editorial review pending"
+}

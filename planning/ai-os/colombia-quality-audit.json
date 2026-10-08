@@ -1,0 +1,129 @@
+{
+  "pages_audited": 4,
+  "errors": [],
+  "pages": [
+    {
+      "route": "/colombia/",
+      "main_words": 1531,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/",
+        "/colombia/plan-your-amazon-trip/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/brazil/",
+        "/colombia/plan-your-amazon-trip/",
+        "/contact/",
+        "/ecuador/",
+        "/peru/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/colombia.css?v=0f354fdc580d"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/colombia/plan-your-amazon-trip/",
+      "main_words": 1545,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/colombia/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/brazil/",
+        "/colombia/",
+        "/contact/",
+        "/ecuador/",
+        "/peru/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/colombia.css?v=0f354fdc580d"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/colombia/",
+      "main_words": 1737,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/",
+        "/es/colombia/planifica-tu-viaje-a-la-amazonia/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/brazil/",
+        "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/contacto/",
+        "/es/ecuador/",
+        "/es/peru/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/colombia.css?v=0f354fdc580d"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+      "main_words": 1722,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/colombia/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/brazil/",
+        "/es/colombia/",
+        "/es/contacto/",
+        "/es/ecuador/",
+        "/es/peru/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/colombia.css?v=0f354fdc580d"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    }
+  ],
+  "limits": [
+    "Content counts do not prove editorial quality",
+    "Staging intentionally blocked from indexing; production eligibility requires country release",
+    "No live rankings, AI citations or field Core Web Vitals assessed"
+  ]
+}

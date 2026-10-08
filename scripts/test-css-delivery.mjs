@@ -4,7 +4,7 @@ import {readFile} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 
 const shared = await readFile('src/assets/css/clusters/amazon-guide.css', 'utf8');
-for (const country of ['peru', 'bolivia', 'brazil']) {
+for (const country of ['peru', 'bolivia', 'brazil', 'colombia']) {
   test(`${country} delivers complete shared CSS under its actual content hash`, async () => {
     const css = await readFile(`dist/assets/css/clusters/${country}.css`, 'utf8');
     assert.equal(css, shared);

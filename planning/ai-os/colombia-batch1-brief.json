@@ -1,6 +1,6 @@
 {
   "country": "colombia",
-  "status": "authorized_ready_for_local_draft",
+  "status": "deployed_technical_pass_visual_pending",
   "authorization": "Owner asked to finish Brazil QA and move to next country October 8, 2026; Colombia follows homepage order",
   "batch_size_pairs": 2,
   "first_batch": [

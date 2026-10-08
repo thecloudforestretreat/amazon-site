@@ -1,0 +1,22 @@
+[
+  {
+    "route": "/colombia/",
+    "status": 302,
+    "access_redirect": true
+  },
+  {
+    "route": "/es/colombia/",
+    "status": 302,
+    "access_redirect": true
+  },
+  {
+    "route": "/colombia/plan-your-amazon-trip/",
+    "status": 302,
+    "access_redirect": true
+  },
+  {
+    "route": "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+    "status": 302,
+    "access_redirect": true
+  }
+]
