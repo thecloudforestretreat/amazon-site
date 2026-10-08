@@ -20,5 +20,9 @@
     "Authenticated staging readback",
     "Country inquiry delivery check"
   ],
-  "verification_note": "FAQ count parsed within main content; navigation disclosures excluded"
+  "verification_note": "FAQ count parsed within main content; navigation disclosures excluded",
+  "production_build": "Validated 196 HTML pages, six countries retained, 24 Guyana sitemap entries and active homepage card",
+  "production_deployed": false,
+  "release_attempt": "Automatic approval review rejected production deploy: required visual review, authenticated readback and live inquiry delivery pending",
+  "owner_release_reconfirmed": "2026-10-08: lets push live"
 }

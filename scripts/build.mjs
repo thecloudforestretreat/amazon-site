@@ -9,7 +9,8 @@ const sourceDir = path.join(rootDir, "src");
 const ecuadorRelease = process.env.ETA_SCOPE === "ecuador";
 const peruRelease = process.env.ETA_SCOPE === "ecuador-peru";
 const boliviaRelease = process.env.ETA_SCOPE === "ecuador-peru-bolivia";
-const colombiaRelease = process.env.ETA_SCOPE === "ecuador-peru-bolivia-brazil-colombia";
+const guyanaRelease = process.env.ETA_SCOPE === "ecuador-peru-bolivia-brazil-colombia-guyana";
+const colombiaRelease = guyanaRelease || process.env.ETA_SCOPE === "ecuador-peru-bolivia-brazil-colombia";
 const brazilRelease = process.env.ETA_SCOPE === "ecuador-peru-bolivia-brazil";
 const outputDir = path.resolve(rootDir, process.env.ETA_OUTPUT || (ecuadorRelease ? "dist-ecuador" : peruRelease ? "dist-release" : boliviaRelease ? "dist-bolivia-release" : "dist"));
 const environment = process.env.ETA_ENV === "production" ? "production" : "staging";
@@ -63,7 +64,7 @@ async function compilePages() {
     if (peruRelease && /^(?:en|es)\/bolivia\//.test(relative)) continue;
     if ((ecuadorRelease || peruRelease || boliviaRelease) && /^(?:en|es)\/brazil\//.test(relative)) continue;
     if (environment === "production" && !colombiaRelease && /^(?:en|es)\/colombia\//.test(relative)) continue;
-    if (environment === "production" && /^(?:en|es)\/guyana\//.test(relative)) continue;
+    if (environment === "production" && !guyanaRelease && /^(?:en|es)\/guyana\//.test(relative)) continue;
     const language = relative.split(path.sep)[0] === "es" ? "es" : "en";
     const outputRelative = language === "es" ? relative : relative.replace(/^en\//, "");
     const destination = path.join(outputDir, outputRelative);
@@ -81,7 +82,7 @@ async function compilePages() {
       html = html.replace(/<article class="home-country home-country-future"><span class="home-country-status">[^<]+<\/span><h3>Colombia<\/h3>(.*?)<\/article>/s,
         `<a href="${route}" class="home-country home-country-active"><span class="home-country-status">${label}</span><h3>Colombia</h3>$1</a>`);
     }
-    if (environment === "staging" && /^(?:en|es)\/index\.html$/.test(relative)) {
+    if ((environment === "staging" || guyanaRelease) && /^(?:en|es)\/index\.html$/.test(relative)) {
       const route = language === "es" ? "/es/guyana/" : "/guyana/";
       const label = language === "es" ? "Explora la guía ↗" : "Explore the guide ↗";
       html = html.replace(/<article class="home-country home-country-future"><span class="home-country-status">[^<]+<\/span><h3>Guyana<\/h3>(.*?)<\/article>/s,
