@@ -188,6 +188,14 @@
             "Community stays"
           ],
           [
+            "/suriname/river-journeys/",
+            "River journeys"
+          ],
+          [
+            "/suriname/wildlife/",
+            "Wildlife"
+          ],
+          [
             "/contact/",
             "Share your plans"
           ]
@@ -220,6 +228,14 @@
           [
             "Community stays",
             "/suriname/community-stays/"
+          ],
+          [
+            "River journeys",
+            "/suriname/river-journeys/"
+          ],
+          [
+            "Wildlife",
+            "/suriname/wildlife/"
           ]
         ],
         "hero": [
@@ -375,6 +391,14 @@
             "Estancias comunitarias"
           ],
           [
+            "/es/suriname/viajes-fluviales/",
+            "Viajes fluviales"
+          ],
+          [
+            "/es/suriname/fauna/",
+            "Fauna"
+          ],
+          [
             "/es/contacto/",
             "Comparta sus planes"
           ]
@@ -407,6 +431,14 @@
           [
             "Estancias comunitarias",
             "/es/suriname/estancias-comunitarias/"
+          ],
+          [
+            "Viajes fluviales",
+            "/es/suriname/viajes-fluviales/"
+          ],
+          [
+            "Fauna",
+            "/es/suriname/fauna/"
           ]
         ],
         "hero": [
@@ -501,7 +533,7 @@
           [
             "Send a brief that can become a workable route",
             "Send dates, group size, arrival and departure details, the core region you prefer and the experiences you value most. Include walking preferences, boat concerns, room sharing and dietary requests. If you have a budget range, say what it needs to cover so the comparison is useful. State essential requirements first, then list the preferences that can change. A well-organized brief gives the planning conversation direction while leaving room for a more suitable route to be suggested.",
-            "When a proposal arrives, check whether it answers your brief rather than simply adding more activities. Ask why the chosen base and transfer plan suit your group, and compare how much time is left to enjoy each setting. An inquiry begins the conversation; it does not reserve rooms, promise a guide or confirm community access. Keep the route provisional until the relevant arrangements are checked. That approach helps turn interest in the rainforest into a trip you can assess with confidence. Rainforest accommodation and Community stays provide questions for comparing facilities and hosting arrangements."
+            "When a proposal arrives, check whether it answers your brief rather than simply adding more activities. Ask why the chosen base and transfer plan suit your group, and compare how much time is left to enjoy each setting. An inquiry begins the conversation; it does not reserve rooms, promise a guide or confirm community access. Keep the route provisional until the relevant arrangements are checked. That approach helps turn interest in the rainforest into a trip you can assess with confidence. Rainforest accommodation and Community stays provide questions for comparing facilities and hosting arrangements. River journeys and Wildlife help compare the purpose of outings and time for observation."
           ]
         ],
         "type": "planning_guide",
@@ -564,6 +596,14 @@
             "Community stays"
           ],
           [
+            "/suriname/river-journeys/",
+            "River journeys"
+          ],
+          [
+            "/suriname/wildlife/",
+            "Wildlife"
+          ],
+          [
             "/contact/",
             "Share your plans"
           ]
@@ -596,6 +636,14 @@
           [
             "Community stays",
             "/suriname/community-stays/"
+          ],
+          [
+            "River journeys",
+            "/suriname/river-journeys/"
+          ],
+          [
+            "Wildlife",
+            "/suriname/wildlife/"
           ]
         ],
         "hero": [
@@ -688,7 +736,7 @@
           [
             "Envíe un resumen que pueda convertirse en una ruta viable",
             "Envíe fechas, número de viajeros, detalles de llegada y salida, la región principal que prefiere y las experiencias que valora más. Incluya preferencias de caminata, preocupaciones sobre botes, distribución de habitaciones y solicitudes dietéticas. Si tiene un rango de presupuesto, diga qué debe cubrir para que la comparación sea útil. Establezca los requisitos esenciales primero, luego liste las preferencias que pueden cambiar. Un resumen bien organizado da dirección a la conversación de planificación mientras deja espacio para sugerir una ruta más adecuada.",
-            "Cuando llegue una propuesta, verifique si responde a su resumen en lugar de simplemente añadir más actividades. Pregunte por qué la base y el plan de traslado elegidos se ajustan a su grupo, y compare cuánto tiempo queda para disfrutar cada entorno. Una consulta inicia la conversación; no reserva habitaciones, promete un guía ni confirma acceso comunitario. Mantenga la ruta provisional hasta que se verifiquen los arreglos relevantes. Ese enfoque ayuda a convertir el interés en el selva en un viaje que puede evaluar con confianza. Alojamientos en la selva y Estancias comunitarias ofrecen preguntas para comparar las instalaciones y los acuerdos con anfitriones."
+            "Cuando llegue una propuesta, verifique si responde a su resumen en lugar de simplemente añadir más actividades. Pregunte por qué la base y el plan de traslado elegidos se ajustan a su grupo, y compare cuánto tiempo queda para disfrutar cada entorno. Una consulta inicia la conversación; no reserva habitaciones, promete un guía ni confirma acceso comunitario. Mantenga la ruta provisional hasta que se verifiquen los arreglos relevantes. Ese enfoque ayuda a convertir el interés en el selva en un viaje que puede evaluar con confianza. Alojamientos en la selva y Estancias comunitarias ofrecen preguntas para comparar las instalaciones y los acuerdos con anfitriones. Viajes fluviales y Fauna ayudan a comparar el propósito de las salidas y el tiempo para observar."
           ]
         ],
         "type": "planning_guide",
@@ -751,6 +799,14 @@
             "Estancias comunitarias"
           ],
           [
+            "/es/suriname/viajes-fluviales/",
+            "Viajes fluviales"
+          ],
+          [
+            "/es/suriname/fauna/",
+            "Fauna"
+          ],
+          [
             "/es/contacto/",
             "Comparta sus planes"
           ]
@@ -783,6 +839,14 @@
           [
             "Estancias comunitarias",
             "/es/suriname/estancias-comunitarias/"
+          ],
+          [
+            "Viajes fluviales",
+            "/es/suriname/viajes-fluviales/"
+          ],
+          [
+            "Fauna",
+            "/es/suriname/fauna/"
           ]
         ],
         "hero": [

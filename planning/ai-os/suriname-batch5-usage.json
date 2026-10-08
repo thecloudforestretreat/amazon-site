@@ -1,0 +1,25 @@
+{
+  "model": "qwen3.5:9b",
+  "runs": [
+    {
+      "topic": "river-journeys",
+      "prompt_tokens": 2046,
+      "output_tokens": 2627,
+      "seconds": 115.66,
+      "retries": 0,
+      "cache_hits": 0,
+      "shape_pass": true
+    },
+    {
+      "topic": "wildlife",
+      "prompt_tokens": 2055,
+      "output_tokens": 2680,
+      "seconds": 110.08,
+      "retries": 0,
+      "cache_hits": 0,
+      "shape_pass": true
+    }
+  ],
+  "workflow_change": "Strict JSON schema with exact array lengths introduced after observed batch1 translation shape drift; raw results retained.",
+  "total_local_tokens": 9408
+}

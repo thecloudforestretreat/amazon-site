@@ -5,9 +5,9 @@
   "batch_size_pairs": 2,
   "planned_pairs": 12,
   "planned_pages": 24,
-  "staged_pairs": 8,
-  "staged_pages": 16,
-  "status": "batch4_staged_technical_pass_visual_pending",
+  "staged_pairs": 10,
+  "staged_pages": 20,
+  "status": "batch5_staged_technical_pass_visual_pending",
   "topics": [
     "Overview",
     "Trip planning",
@@ -23,8 +23,8 @@
     "Packing and seasonal preparation"
   ],
   "active_batch": [
-    "Rainforest accommodation",
-    "Community stays"
+    "River journeys",
+    "Wildlife"
   ],
   "quality_gates": [
     "Reviewed EN/ES content",
@@ -35,10 +35,10 @@
     "Protected staging readback"
   ],
   "production_authorized": false,
-  "deployment": "aecd0dfd",
+  "deployment": "b639beee",
   "next_batch": [
-    "River journeys",
-    "Wildlife"
+    "Getting there",
+    "Packing and seasonal preparation"
   ],
-  "local_tokens_recorded": 47418
+  "local_tokens_recorded": 56826
 }

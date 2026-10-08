@@ -1,0 +1,15 @@
+{
+  "topics": [
+    "River journeys",
+    "Wildlife"
+  ],
+  "batch_size_pairs": 2,
+  "structure": {
+    "sections": 9,
+    "paragraphs_per_section": 2,
+    "faqs": 4
+  },
+  "rollback_deployment": "aecd0dfd",
+  "scope": "Protected staging only",
+  "css": "Shared global/editorial/Suriname CSS; unchanged"
+}

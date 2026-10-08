@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-08",
+  "sources": [
+    {
+      "url": "https://whc.unesco.org/en/list/1017/",
+      "reviewed_claims": [
+        "Guiana Shield diverse protected landscape",
+        "Jaguar, giant river otter, primates, harpy eagle and Guiana cock-of-the-rock recorded in reserve; no visitor sightings implied"
+      ]
+    },
+    {
+      "url": "https://suriname.travel/sipaliwini/",
+      "reviewed_claims": [
+        "Upper Suriname road-to-boat connection through Atjoni"
+      ]
+    },
+    {
+      "url": "https://suriname.travel/transport-in-suriname/",
+      "reviewed_claims": [
+        "Paramaribo to Atjoni and onward boat framework; exact itinerary needs confirmation"
+      ]
+    }
+  ],
+  "limits": [
+    "No species list transferred to another region",
+    "No wildlife guarantee, specific boat equipment, route access, schedules or fees asserted",
+    "Generic licensed forest/river imagery; no exact capture location claims"
+  ]
+}

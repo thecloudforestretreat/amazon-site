@@ -165,6 +165,14 @@
             "Community stays"
           ],
           [
+            "/suriname/river-journeys/",
+            "River journeys"
+          ],
+          [
+            "/suriname/wildlife/",
+            "Wildlife"
+          ],
+          [
             "/contact/",
             "Share your plans"
           ]
@@ -222,6 +230,14 @@
           [
             "Community stays",
             "/suriname/community-stays/"
+          ],
+          [
+            "River journeys",
+            "/suriname/river-journeys/"
+          ],
+          [
+            "Wildlife",
+            "/suriname/wildlife/"
           ]
         ]
       },
@@ -340,6 +356,14 @@
             "Estancias comunitarias"
           ],
           [
+            "/es/suriname/viajes-fluviales/",
+            "Viajes fluviales"
+          ],
+          [
+            "/es/suriname/fauna/",
+            "Fauna"
+          ],
+          [
             "/es/contacto/",
             "Comparta sus planes"
           ]
@@ -397,6 +421,14 @@
           [
             "Estancias comunitarias",
             "/es/suriname/estancias-comunitarias/"
+          ],
+          [
+            "Viajes fluviales",
+            "/es/suriname/viajes-fluviales/"
+          ],
+          [
+            "Fauna",
+            "/es/suriname/fauna/"
           ]
         ]
       }
@@ -517,6 +549,14 @@
             "Community stays"
           ],
           [
+            "/suriname/river-journeys/",
+            "River journeys"
+          ],
+          [
+            "/suriname/wildlife/",
+            "Wildlife"
+          ],
+          [
             "/contact/",
             "Share your plans"
           ]
@@ -574,6 +614,14 @@
           [
             "Community stays",
             "/suriname/community-stays/"
+          ],
+          [
+            "River journeys",
+            "/suriname/river-journeys/"
+          ],
+          [
+            "Wildlife",
+            "/suriname/wildlife/"
           ]
         ]
       },
@@ -692,6 +740,14 @@
             "Estancias comunitarias"
           ],
           [
+            "/es/suriname/viajes-fluviales/",
+            "Viajes fluviales"
+          ],
+          [
+            "/es/suriname/fauna/",
+            "Fauna"
+          ],
+          [
             "/es/contacto/",
             "Comparta sus planes"
           ]
@@ -749,6 +805,14 @@
           [
             "Estancias comunitarias",
             "/es/suriname/estancias-comunitarias/"
+          ],
+          [
+            "Viajes fluviales",
+            "/es/suriname/viajes-fluviales/"
+          ],
+          [
+            "Fauna",
+            "/es/suriname/fauna/"
           ]
         ]
       }
