@@ -7,7 +7,7 @@
   "planned_pages": 24,
   "staged_pairs": 2,
   "staged_pages": 4,
-  "status": "batch1_built_qa_pending",
+  "status": "batch1_staged_technical_pass_visual_pending",
   "topics": [
     "Overview",
     "Trip planning",
@@ -34,5 +34,11 @@
     "Desktop/mobile visual review",
     "Protected staging readback"
   ],
-  "production_authorized": false
+  "production_authorized": false,
+  "deployment": "b6eb991d",
+  "next_batch": [
+    "Paramaribo gateway",
+    "Upper Suriname"
+  ],
+  "local_tokens_recorded": 17389
 }

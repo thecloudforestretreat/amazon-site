@@ -1,0 +1,40 @@
+{
+  "deployment": "b6eb991d",
+  "date": "2026-10-08",
+  "pairs": 2,
+  "pages": 4,
+  "compiled_pages_validated": 200,
+  "technical_errors": [],
+  "css_contact_tests_passed": 26,
+  "main_words": [
+    1908,
+    2117
+  ],
+  "production_containment": "172 live-scope pages validated; Suriname excluded",
+  "protection_checks": [
+    {
+      "route": "/suriname/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/suriname/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/suriname/plan-your-rainforest-trip/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/suriname/planifica-tu-viaje-a-la-selva/",
+      "status": 302,
+      "access_redirect": true
+    }
+  ],
+  "authenticated_readback": "Pending: browser admin-enforced policy unavailable",
+  "desktop_mobile_visual_review": "Pending; no bypass attempted",
+  "rollback_deployment": "8755ce6d",
+  "production_deployed": false
+}
