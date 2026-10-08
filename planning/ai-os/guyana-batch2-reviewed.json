@@ -1,0 +1,838 @@
+{
+  "editorial_status": "reviewed",
+  "review_date": "2026-10-08",
+  "images": {
+    "leticia-colombia-border-direction-sign-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/leticia-colombia-border-direction-sign-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "9706a51eb9df2b14f9d80d73e57f29be70e101cf84c8a2e2b855b1bda724cc43"
+    },
+    "amazon-red-macaws-under-thatched-roof-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-red-macaws-under-thatched-roof-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "f7735c2b55700cd1ed350ef139908894da0a2541f86b3c011731ef9b5d2cc930"
+    },
+    "amazon-meandering-river-aerial-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-meandering-river-aerial-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "c6546f300e37a65a07cac13d516b286c00c43dbd1812354b1eeacd6087249dd1"
+    },
+    "amazon-forest-buttress-tree-hiker-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-forest-buttress-tree-hiker-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "2f414af8e0d165e636fb6480106701316e22d712fdca6d679bd3cf2168a724e5"
+    },
+    "amazon-forest-canoe-bow-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-forest-canoe-bow-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "5d74cddf67f036d0fe65044bf09c05ccd2352960dcb25b47ac831b9fb583643f"
+    },
+    "amazon-riverside-houses-canoe-travelers": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-houses-canoe-travelers.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "c14bc7039ac65660ccb759932a2aaa09446c95e7dc52d7b7a16ab05bf68a9209"
+    },
+    "leticia-tabatinga-iquitos-direction-signs": {
+      "src": "/assets/images/pages/countries/colombia/optimized/leticia-tabatinga-iquitos-direction-signs.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "65b3dfaad25e66b4840b38fd9f11a763d0e07130c3042ddb80677c5f0b2ad976"
+    },
+    "amazon-riverside-harbor-canoes": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-harbor-canoes.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "306456ac24e5cd183f10d1d8dd180e57be3a701c95c6a0f505fc4343827b4018"
+    },
+    "amazon-riverside-town-and-forest-view": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-town-and-forest-view.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "7976d853227666cb56379c73509401e8cbce62193c80eb972601c6fb4ef6c9f2"
+    },
+    "amazon-river-and-town-aerial": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-river-and-town-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "49e955c22842faa8ceb957a91d13ac0da6e15ad40b04c6fc36719c55bc488826"
+    },
+    "amazon-village-raised-wooden-walkway": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-village-raised-wooden-walkway.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "3aff028da8964a9d485d5977e0985c66ad8d5894f6ecd4bc22ccc684f31e1b0c"
+    },
+    "amazon-rainforest-walk-traveler": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-rainforest-walk-traveler.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "cbf7ca9da828d289b62bfb0b2131d6be383d8af77355342665bf047971d3b6e7"
+    },
+    "amazon-village-wooden-house-path": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-village-wooden-house-path.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "3221726059505de3b312f9ef077e707fc8435a93c58a6252cedbef85c6063d7b"
+    },
+    "amazon-cultural-crafts-display": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-cultural-crafts-display.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "b1dd3bae7f67382376912a814d8d7fc3d83ecdbf46fcfb43a09c3e45d0157c64"
+    },
+    "tropical-thatched-lodge-hammock-deck": {
+      "src": "/assets/images/pages/countries/colombia/optimized/tropical-thatched-lodge-hammock-deck.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "39dca7d4bd263af53f028c29370ffbbb4dff742582ea70fd76659b3be4239620"
+    },
+    "forest-lakeside-lodge-reflection": {
+      "src": "/assets/images/pages/countries/colombia/optimized/forest-lakeside-lodge-reflection.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "92f0d9cfcbebf7fe84771819ecc8fc6d6a7be6fcb63c49ff28fdff3e855e0945"
+    },
+    "amazon-riverside-houses-solo-canoe": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-houses-solo-canoe.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "4bd9bea9268cbc0bcc2386d65c5cee66a7ed7ebd17a447b4841ca9547da61624"
+    },
+    "amazon-canoe-group-lake-journey": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-canoe-group-lake-journey.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "da66207331cffb985492857cc246b422dfad57c6a979593883782a13ddb4e594"
+    },
+    "amazon-wooden-canoes-riverbank": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-wooden-canoes-riverbank.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "81e0ad56c85c2348710769d5fa9421e652dea9b7ee3c80b9ba9249304d07528b"
+    },
+    "amazon-monkey-on-tree-portrait": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-monkey-on-tree-portrait.webp",
+      "width": 1200,
+      "height": 1500,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "44859842ae4884f5f074597ec825949e5b2bf52841f38c018c5df93983bac3ef"
+    },
+    "jaguar-resting-paws-portrait": {
+      "src": "/assets/images/pages/countries/colombia/optimized/jaguar-resting-paws-portrait.webp",
+      "width": 1200,
+      "height": 1500,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "7d1cfd98f1f1f8b693e74735230399e78bab94006002f812a27c6c888047cb8d"
+    },
+    "jaguar-in-foliage-portrait": {
+      "src": "/assets/images/pages/countries/colombia/optimized/jaguar-in-foliage-portrait.webp",
+      "width": 1200,
+      "height": 1500,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "01a4707d5d87b51646cbe6aba2da7a0992ef39ad3b8b0ef3b5264c8ee65c36be"
+    }
+  },
+  "pages": {
+    "georgetown": {
+      "en": {
+        "type": "destination-guide",
+        "pair_id": "guyana_georgetown_001",
+        "hero": [
+          "amazon-riverside-harbor-canoes",
+          "Canoes and boats gathered at a riverside harbor"
+        ],
+        "features": {
+          "1": [
+            "amazon-riverside-houses-solo-canoe",
+            "Canoe passing riverside houses"
+          ],
+          "4": [
+            "amazon-wooden-canoes-riverbank",
+            "Wooden canoes resting beside a river"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Guyana Tourism — arrivals",
+            "https://guyanatourism.com/plan-your-trip/how-to-get-here/"
+          ],
+          [
+            "Guyana Tourism — interior transport",
+            "https://guyanatourism.com/plan-your-trip/how-to-get-around/"
+          ],
+          [
+            "Guyana Tourism — geography",
+            "https://guyanatourism.com/about-us-2/"
+          ],
+          [
+            "Guyana Tourism — community conservation",
+            "https://guyanatourism.com/conservation/"
+          ]
+        ],
+        "scope": "Planning information reviewed October 8, 2026. Accommodation, activities, availability and transport require confirmation in an individual proposal. Guyana is part of the Guiana Shield; these guides do not classify all its rivers as Amazon-basin rivers.",
+        "slug": "georgetown",
+        "h1": "Georgetown: gateway to Guyana’s interior",
+        "title": "Georgetown Gateway | Guyana Airports & Interior Transfers",
+        "description": "Plan Georgetown as the gateway to Guyana’s interior: separate airports, hotel nights, luggage, onward transfers and return-flight connections.",
+        "lede": "Give the coast-to-interior connection a clear place in your journey, with airports, overnight stops and onward transfers agreed.",
+        "quick": [
+          "How should I use Georgetown?",
+          "Plan around your actual arrival and interior departure. Confirm the airport for every flight, then choose hotel nights and transfers that fit those connections."
+        ],
+        "links": [
+          [
+            "/guyana/",
+            "Guyana overview"
+          ],
+          [
+            "/guyana/plan-your-rainforest-trip/",
+            "Guyana trip-planning guide"
+          ],
+          [
+            "/guyana/georgetown/",
+            "Georgetown gateway guide"
+          ],
+          [
+            "/guyana/iwokrama/",
+            "Iwokrama guide"
+          ]
+        ],
+        "context_links": [
+          [
+            "Guyana overview",
+            "/guyana/"
+          ],
+          [
+            "Guyana trip-planning guide",
+            "/guyana/plan-your-rainforest-trip/"
+          ],
+          [
+            "Georgetown gateway guide",
+            "/guyana/georgetown/"
+          ],
+          [
+            "Iwokrama guide",
+            "/guyana/iwokrama/"
+          ]
+        ],
+        "cta": [
+          "Connect your coastal arrival with the forest",
+          "Share your dates, flight arrangements, preferred comfort and main interests so we can discuss a practical Guyana route."
+        ],
+        "faqs": [
+          [
+            "Do Georgetown flights use one airport?",
+            "No. Confirm the airport on each ticket; Cheddi Jagan and Eugene F. Correia are separate arrival points serving Georgetown."
+          ],
+          [
+            "Should I stay overnight before going inland?",
+            "The right arrangement depends on flight schedules, transfers and your preferred pace. Ask for a complete connection plan before deciding."
+          ],
+          [
+            "Can I take my international luggage on an interior flight?",
+            "Confirm the particular carrier’s baggage allowance and excess-luggage arrangement. Storage or repacking may be needed."
+          ],
+          [
+            "Are city outings included?",
+            "Only when specified in the proposal. Separate hotel and airport transfers from optional city guiding and meals."
+          ]
+        ],
+        "sections": [
+          [
+            "Use Georgetown as the connection point",
+            "Georgetown is a practical starting point for organizing a journey from Guyana’s coast into the forest interior. Its role in your itinerary depends on the flights and transfers you actually book. A night near the gateway can support luggage preparation, a slower arrival and a clear departure the following day. It should have a purpose beyond filling a gap in a package. Decide whether you want a city visit or simply a comfortable connection before choosing how long to stay.",
+            "Use the Guyana overview to compare the broader landscape options, then the Guyana trip-planning guide to organize the sequence. A gateway stay and a rainforest stay offer different rhythms. Ask where the interior journey begins, when you need to be ready and whether your hotel can support the planned pickup. Those details determine how much city time is genuinely available."
+          ],
+          [
+            "Confirm which airport your flight uses",
+            "Guyana Tourism identifies Cheddi Jagan International Airport at Timehri and Eugene F. Correia International Airport as arrival points serving Georgetown. These are separate airports. Check the airport on each ticket and ask for the ground transfer connecting it to your accommodation or onward flight. A booking described simply as Georgetown does not establish that two flights use the same terminal or that an airport change is included.",
+            "Domestic services into the interior are associated with Eugene F. Correia in the tourism authority’s transport guidance. Confirm the particular carrier and departure location for your route. Ask when the transfer begins, where the driver meets you and what contact you use if arrival is delayed. Keep the airport names visible in the daily plan so that the journey remains understandable after a tiring international flight."
+          ],
+          [
+            "Choose a gateway night with a clear purpose",
+            "The right hotel depends on the next connection as well as your comfort preferences. Ask about arrival time, check-in, meal options and the following morning’s pickup. For a late arrival or early departure, confirm the practical arrangement rather than assuming every service will be available. A room that photographs well may still be awkward for a very early transfer if its location or check-out procedure has not been considered.",
+            "If you want time in the city, separate that request from the transit arrangement. Describe whether you prefer a guided introduction, a quiet afternoon or simply rest before the interior journey. Do not pack optional sightseeing into a narrow connection window. A proposal should distinguish guaranteed transfer arrangements from activities that depend on having enough time after arrival."
+          ],
+          [
+            "Prepare luggage for the interior segment",
+            "A large international suitcase and a small-aircraft journey may need different packing arrangements. Before leaving Georgetown, confirm the actual baggage allowance for the domestic service, including how hand luggage and camera equipment are counted. Ask what happens to any items you leave behind and whether storage is available at your hotel or another agreed location. Do not rely on a general allowance found online for an unrelated flight.",
+            "Keep important documents, medication and the items needed immediately on arrival accessible. Ask whether the transfer includes help with luggage at the airstrip and the final leg to the lodge. If excess baggage requires advance approval or an additional charge, resolve that before departure. A gateway night is useful when it creates time for these decisions, not when the traveler discovers restrictions at check-in."
+          ],
+          [
+            "Choose flight or road access for the whole route",
+            "Compare the complete journey from the hotel to your overnight base. An interior flight still involves airport transfers, check-in and a connection at the destination. A road journey should identify the vehicle, route and stops, with conditions discussed for your travel dates. The tourism authority notes that interior road travel can be difficult in wet conditions. Ask how the operator evaluates the route and communicates any change.",
+            "For a forest-focused stay, the Iwokrama guide explains the difference between the river lodge setting and canopy activities. Use that distinction when reviewing a transfer described only as going to Iwokrama. The final destination, lodging name and activity base should be clear. Neither a flight nor a road transfer is automatically the best choice; compare usable time, comfort and the actual arrangements."
+          ],
+          [
+            "Allow room around flight connections",
+            "Review arrival and departure buffers as part of the itinerary design. A domestic flight, a road transfer and an international departure are separate services, even when one planner arranges them. Ask what happens if the first service is delayed and whether an overnight return to Georgetown is appropriate. A plan that is possible on paper may leave little flexibility when weather or an operational change affects a connection.",
+            "Avoid promising a specific transfer duration without the operator’s confirmation for the route and conditions. Ask who monitors changes and which contact remains available while you are traveling. Keep the return hotel and airport transfer as visible as the outbound arrangements. A calm ending is part of a good rainforest holiday, especially when the final international ticket has strict change conditions."
+          ],
+          [
+            "Use city time at a comfortable pace",
+            "If your schedule includes a city stay, tell the planner what you want from it. An introduction to Georgetown can be organized separately from the rainforest portion, with a meeting place, guide arrangement and return time that fit the connection. Ask what is included and whether meals or transport are separate. This avoids confusing a hotel booking with an organized city experience.",
+            "Consider your energy after travel and the weather on the day. Keep optional activities flexible rather than treating every free hour as something to fill. For a group, discuss walking comfort and whether anyone would prefer to rest. Your proposal should make it easy to distinguish a planned guided outing from independent free time, without implying that all city services are included."
+          ],
+          [
+            "Compare gateway costs with the complete quote",
+            "Check whether the proposal includes airport transfers, hotel nights, meals and any city guiding. Domestic flights, excess luggage and onward lodge transfers may appear in different parts of a quote, so review them together. Ask how the price changes if your arrival time requires another night or a different connection. A low gateway cost does not necessarily produce a lower total route cost.",
+            "Use the Guyana trip-planning guide to review the inclusions of the full journey. Keep cancellation and change terms attached to the relevant services, particularly when flights and accommodation have separate conditions. Confirm what is reserved, what remains subject to availability and when payment is required. An inquiry begins the discussion; it does not create a flight or lodge reservation."
+          ],
+          [
+            "End the interior journey with a workable return",
+            "Plan the last interior connection before finalizing the international departure. Identify the arrival airport or road endpoint, the transfer to accommodation if needed and the pickup for the flight home. Ask whether your stored luggage is collected on the way or separately. These details can affect both timing and costs, so they should be agreed while the itinerary is being designed.",
+            "Send your dates, flight details if booked, guest count and preferred interior base. Mention whether you want Georgetown as a short transit stay or part of the travel experience. Connect the gateway plan with the Iwokrama guide if that forest setting interests you. A useful proposal shows how the coast and interior fit together while leaving enough time to enjoy both."
+          ]
+        ]
+      },
+      "es": {
+        "type": "destination-guide",
+        "pair_id": "guyana_georgetown_001",
+        "hero": [
+          "amazon-riverside-harbor-canoes",
+          "Canoas y barcos reunidos en un puerto fluvial"
+        ],
+        "features": {
+          "1": [
+            "amazon-riverside-houses-solo-canoe",
+            "Canoa pasando junto a casas ribereñas"
+          ],
+          "4": [
+            "amazon-wooden-canoes-riverbank",
+            "Canoas de madera descansando junto a un río"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Turismo de Guyana — llegadas",
+            "https://guyanatourism.com/plan-your-trip/how-to-get-here/"
+          ],
+          [
+            "Turismo de Guyana — transporte interior",
+            "https://guyanatourism.com/plan-your-trip/how-to-get-around/"
+          ],
+          [
+            "Turismo de Guyana — geografía",
+            "https://guyanatourism.com/about-us-2/"
+          ],
+          [
+            "Turismo de Guyana — conservación comunitaria",
+            "https://guyanatourism.com/conservation/"
+          ]
+        ],
+        "scope": "Información de planificación revisada el 8 de octubre de 2026. El alojamiento, actividades, disponibilidad y transporte requieren confirmación en una propuesta individual. Guyana forma parte del Escudo Guayanés; estas guías no clasifican todos sus ríos como ríos de la cuenca amazónica.",
+        "slug": "georgetown",
+        "h1": "Georgetown: puerta de entrada al interior de Guyana",
+        "title": "Georgetown | Aeropuertos y acceso al interior de Guyana",
+        "description": "Organiza tu paso por Georgetown: aeropuertos, noches de hotel, equipaje y conexiones al interior de Guyana y al vuelo de regreso.",
+        "lede": "Dedique un lugar claro a la conexión entre la costa y el interior en su viaje, con aeropuertos, paradas nocturnas y traslados posteriores acordados.",
+        "quick": [
+          "¿Cómo debería utilizar Georgetown?",
+          "Planifique en torno a su llegada real y su salida hacia el interior. Confirme el aeropuerto de cada vuelo, luego elija las noches en hotel y los traslados que encajen con esas conexiones."
+        ],
+        "links": [
+          [
+            "/es/guyana/",
+            "guía de Guyana"
+          ],
+          [
+            "/es/guyana/planifica-tu-viaje-a-la-selva/",
+            "guía de planificación de viajes a Guyana"
+          ],
+          [
+            "/es/guyana/georgetown/",
+            "guía de acceso por Georgetown"
+          ],
+          [
+            "/es/guyana/iwokrama/",
+            "guía de Iwokrama"
+          ]
+        ],
+        "context_links": [
+          [
+            "guía de Guyana",
+            "/es/guyana/"
+          ],
+          [
+            "guía de planificación de viajes a Guyana",
+            "/es/guyana/planifica-tu-viaje-a-la-selva/"
+          ],
+          [
+            "guía de acceso por Georgetown",
+            "/es/guyana/georgetown/"
+          ],
+          [
+            "guía de Iwokrama",
+            "/es/guyana/iwokrama/"
+          ]
+        ],
+        "cta": [
+          "Conecte su llegada costera con el bosque",
+          "Comparta sus fechas, arreglos de vuelos, preferencias de comodidad e intereses principales para que podamos discutir una ruta práctica a Guyana."
+        ],
+        "faqs": [
+          [
+            "¿Los vuelos a Georgetown utilizan un solo aeropuerto?",
+            "No. Confirme el aeropuerto en cada boleto; Cheddi Jagan y Eugene F. Correia son puntos de llegada separados que sirven a Georgetown."
+          ],
+          [
+            "¿Debería pasar la noche antes de ir al interior?",
+            "El arreglo adecuado depende de los horarios de vuelo, los traslados y su ritmo preferido. Solicite un plan de conexión completo antes de decidir."
+          ],
+          [
+            "¿Puedo llevar mi equipaje internacional en un vuelo interior?",
+            "Confirme el límite de equipaje del transportista específico y sus disposiciones para exceso de equipaje. Puede ser necesario guardar o reorganizar el equipaje."
+          ],
+          [
+            "¿Se incluyen salidas a la ciudad?",
+            "Solo cuando se especifica en la propuesta. Revisa los traslados entre el hotel y el aeropuerto por separado de las visitas guiadas opcionales y las comidas."
+          ]
+        ],
+        "sections": [
+          [
+            "Utilice Georgetown como punto de conexión",
+            "Georgetown es un punto de partida práctico para organizar un viaje desde la costa de Guyana hacia el interior del bosque. Su papel en su itinerario depende de los vuelos y traslados que realmente reserve. Una noche cerca de la puerta de entrada puede apoyar la preparación del equipaje, una llegada más lenta y una salida clara al día siguiente. Debe tener un propósito más allá de llenar un hueco en un paquete. Decida si desea visitar la ciudad o simplemente tener una conexión cómoda antes de elegir cuánto tiempo quedarse.",
+            "Utilice el guía de Guyana para comparar las opciones del paisaje más amplio, luego utilice la guía de planificación de viajes a Guyana para organizar la secuencia. Una estancia en la puerta de entrada y una estancia en la selva ofrecen ritmos diferentes. Pregunte dónde comienza el viaje al interior, cuándo debe estar listo y si su hotel puede apoyar el recogida programado. Esos detalles determinan cuánto tiempo en la ciudad está genuinamente disponible."
+          ],
+          [
+            "Confirme qué aeropuerto utiliza su vuelo",
+            "La autoridad de turismo de Guyana identifica el Aeropuerto Internacional Cheddi Jagan en Timehri y el Aeropuerto Internacional Eugene F. Correia como puntos de llegada que sirven a Georgetown. Son aeropuertos separados. Verifique el aeropuerto en cada boleto y solicite el traslado terrestre que lo conecte con su alojamiento o vuelo posterior. Una reserva descrita simplemente como Georgetown no establece que dos vuelos utilicen la misma terminal ni que un cambio de aeropuerto esté incluido.",
+            "Los servicios nacionales hacia el interior se asocian con Eugene F. Correia en la guía de transporte de la autoridad turística. Confirme el transportista específico y el lugar de partida para su ruta. Pregunte cuándo comienza el traslado, dónde se encuentra el conductor y qué contacto utilizar si hay retraso en la llegada. Mantenga los nombres de los aeropuertos visibles en el plan diario para que el viaje siga siendo comprensible después de un agotador vuelo internacional."
+          ],
+          [
+            "Elija una noche de tránsito con un propósito claro",
+            "El hotel adecuado depende de la siguiente conexión así como de sus preferencias de comodidad. Pregunte sobre la hora de llegada, el check-in, las opciones de comidas y el recogida del día siguiente por la mañana. Para una llegada tardía o una salida temprana, confirme el arreglo práctico en lugar de asumir que todos los servicios estarán disponibles. Una habitación que se ve bien en fotografías aún puede ser incómoda para un traslado muy temprano si su ubicación o procedimiento de check-out no han sido considerados.",
+            "Si desea tiempo en la ciudad, separe esa solicitud del arreglo de tránsito. Describa si prefiere una introducción guiada, una tarde tranquila o simplemente descansar antes del viaje al interior. No incluya actividades opcionales de turismo en una ventana de conexión estrecha. Una propuesta debe distinguir los arreglos de traslado garantizados de las actividades que dependen de tener suficiente tiempo después de la llegada."
+          ],
+          [
+            "Prepare el equipaje para el segmento interior",
+            "Una maleta internacional grande y un viaje en pequeña aeronave pueden necesitar diferentes preparaciones del equipaje. Antes de salir de Georgetown, confirme el límite real de equipaje del servicio nacional, incluyendo cómo se cuentan las maletas de mano y el equipo de cámara. Pregunte qué sucede con cualquier artículo que deje atrás y si hay almacenamiento disponible en su hotel u otro lugar acordado. No confíe en un límite general encontrado en línea para un vuelo no relacionado.",
+            "Mantenga documentos importantes, medicinas y los artículos necesarios inmediatamente después de la llegada accesibles. Pregunte si el traslado incluye ayuda con el equipaje en la pista de aterrizaje y el tramo final hasta el lodge. Si el exceso de equipaje requiere aprobación anticipada o una tarifa adicional, resuelva eso antes de partir. Una noche de tránsito es útil cuando crea tiempo para estas decisiones, no cuando el viajero descubre restricciones en el check-in."
+          ],
+          [
+            "Elija acceso por vuelo o carretera para toda la ruta",
+            "Compare el viaje completo desde el hotel hasta su base para pernoctar. Un vuelo interior aún implica traslados al aeropuerto, check-in y una conexión en el destino. Un viaje en carretera debe identificar el vehículo, la ruta y las paradas, discutiendo las condiciones para sus fechas de viaje. La autoridad turística señala que los viajes en carretera hacia el interior pueden ser difíciles en condiciones húmedas. Pregunte cómo evalúa el operador la ruta y comunica cualquier cambio.",
+            "Para una estancia centrada en el bosque, la guía de Iwokrama explica la diferencia entre el entorno del alojamiento ribereño y las actividades en dosel. Utilice esa distinción al revisar un traslado descrito simplemente como viaje a Iwokrama. El destino final, el nombre del alojamiento y la base de actividades deben estar claros. Ni un vuelo ni un traslado en carretera son automáticamente la mejor opción; compare el tiempo útil, la comodidad y los arreglos reales."
+          ],
+          [
+            "Deje espacio alrededor de las conexiones de vuelo",
+            "Revise los márgenes de llegada y salida como parte del diseño del itinerario. Un vuelo nacional, un traslado en carretera y una salida internacional son servicios separados, incluso cuando un planificador los organiza. Pregunte qué sucede si el primer servicio se retrasa y si es apropiado regresar a Georgetown por la noche. Un plan que es posible en papel puede dejar poca flexibilidad cuando el clima o un cambio operativo afectan una conexión.",
+            "Evite prometer una duración de traslado específica sin la confirmación del operador para la ruta y las condiciones. Pregunte quién monitorea los cambios y qué contacto permanece disponible mientras usted viaja. Mantenga el hotel de regreso y el traslado al aeropuerto tan visibles como los arreglos de salida. Un final tranquilo es parte de unas buenas vacaciones en la selva, especialmente cuando el boleto internacional final tiene condiciones estrictas de cambio."
+          ],
+          [
+            "Utilice el tiempo en ciudad a un ritmo cómodo",
+            "Si su horario incluye una estancia en la ciudad, explique al planificador qué desea de ella. Una introducción a Georgetown puede organizarse por separado de la parte de la selva, con un lugar de encuentro, arreglo de guía y hora de regreso que encajen con la conexión. Pregunte qué está incluido y si las comidas o el transporte son separados. Esto evita confundir una reserva de hotel con una experiencia urbana organizada.",
+            "Considere su energía después del viaje y el clima del día. Mantenga las actividades opcionales flexibles en lugar de tratar cada hora libre como algo que llenar. Para un grupo, discuta la comodidad para caminar y si alguien preferiría descansar. Su propuesta debe hacer fácil distinguir una salida guiada planificada del tiempo libre independiente, sin implicar que todos los servicios urbanos están incluidos."
+          ],
+          [
+            "Compare los costos de la estancia de tránsito con la cotización completa",
+            "Verifique si la propuesta incluye traslados al aeropuerto, noches en hotel, comidas y cualquier guía urbana. Los vuelos nacionales, el exceso de equipaje y los traslados posteriores al lodge pueden aparecer en diferentes partes de una cotización, por lo que revíselos juntos. Pregunte cómo cambia el precio si su hora de llegada requiere otra noche o una conexión diferente. Un costo bajo de la estancia de tránsito no necesariamente produce un costo total de ruta más bajo.",
+            "Utilice la guía de planificación de viajes a Guyana para revisar las inclusiones del viaje completo. Mantenga los términos de cancelación y cambio adjuntos a los servicios relevantes, particularmente cuando los vuelos y el alojamiento tienen condiciones separadas. Confirme qué está reservado, qué queda sujeto a disponibilidad y cuándo se requiere el pago. Una consulta inicia la discusión; no crea una reserva de vuelo o lodge."
+          ],
+          [
+            "Termine el viaje interior con un regreso viable",
+            "Planifique la última conexión interior antes de finalizar la salida internacional. Identifique el aeropuerto de llegada o punto final en carretera, el traslado al alojamiento si es necesario y el recogida para el vuelo de regreso. Pregunte si su equipaje almacenado se recoge en el camino o por separado. Estos detalles pueden afectar tanto el tiempo como los costos, por lo que deben acordarse mientras se diseña el itinerario.",
+            "Envíe sus fechas, detalles de vuelos si ya están reservados, número de huéspedes y base interior preferida. Mencione si desea Georgetown como una estancia de tránsito corta o parte de la experiencia de viaje. Conecte el plan de acceso con la guía de Iwokrama si le interesa esa entorno forestal. Una propuesta útil muestra cómo encajan la costa y el interior mientras deja suficiente tiempo para disfrutar de ambos."
+          ]
+        ]
+      }
+    },
+    "iwokrama": {
+      "en": {
+        "type": "destination-guide",
+        "pair_id": "guyana_iwokrama_001",
+        "hero": [
+          "amazon-forest-buttress-tree-hiker-wide",
+          "Hiker beside the buttress roots of a large forest tree"
+        ],
+        "features": {
+          "1": [
+            "amazon-canoe-group-lake-journey",
+            "Travelers observing the landscape from a canoe"
+          ],
+          "4": [
+            "jaguar-in-foliage-portrait",
+            "Jaguar surrounded by green foliage"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Iwokrama — sustainable tourism",
+            "https://iwokrama.org/sustainable-tourism/"
+          ],
+          [
+            "Iwokrama River Lodge — setting",
+            "https://iwokramariverlodge.com/lodge/"
+          ],
+          [
+            "Iwokrama River Lodge — Turtle Mountain",
+            "https://iwokramariverlodge.com/portfolio/turtle-mountain/"
+          ],
+          [
+            "Guyana Tourism — geography",
+            "https://guyanatourism.com/about-us-2/"
+          ],
+          [
+            "Guyana Tourism — community conservation",
+            "https://guyanatourism.com/conservation/"
+          ]
+        ],
+        "scope": "Planning information reviewed October 8, 2026. Accommodation, activities, availability and transport require confirmation in an individual proposal. Guyana is part of the Guiana Shield; these guides do not classify all its rivers as Amazon-basin rivers.",
+        "slug": "iwokrama",
+        "h1": "Iwokrama: forest, river and canopy",
+        "title": "Iwokrama Rainforest Travel | Lodges, Rivers & Canopy",
+        "description": "Compare Iwokrama forest stays, Essequibo river outings, Turtle Mountain and canopy visits, with clear lodge choices and transfer arrangements.",
+        "lede": "Choose a forest stay by its overnight setting, guided experiences and the time you want to spend observing.",
+        "quick": [
+          "Which Iwokrama base should I choose?",
+          "Compare the river lodge setting with the Atta canopy base. Ask where you sleep, which outings are included and how you travel between visitor settings."
+        ],
+        "links": [
+          [
+            "/guyana/",
+            "Guyana overview"
+          ],
+          [
+            "/guyana/plan-your-rainforest-trip/",
+            "Guyana trip-planning guide"
+          ],
+          [
+            "/guyana/georgetown/",
+            "Georgetown gateway guide"
+          ],
+          [
+            "/guyana/iwokrama/",
+            "Iwokrama guide"
+          ]
+        ],
+        "context_links": [
+          [
+            "Guyana overview",
+            "/guyana/"
+          ],
+          [
+            "Guyana trip-planning guide",
+            "/guyana/plan-your-rainforest-trip/"
+          ],
+          [
+            "Georgetown gateway guide",
+            "/guyana/georgetown/"
+          ],
+          [
+            "Iwokrama guide",
+            "/guyana/iwokrama/"
+          ]
+        ],
+        "cta": [
+          "Plan a forest stay with time to observe",
+          "Share your dates, flight arrangements, preferred comfort and main interests so we can discuss a practical Guyana route."
+        ],
+        "faqs": [
+          [
+            "Are the river lodge and canopy base the same setting?",
+            "No. Ask for the accommodation name and transfers connecting the proposed river and canopy experiences."
+          ],
+          [
+            "Is Turtle Mountain suitable for everyone?",
+            "Confirm current trail demands, conditions and an alternative activity with the operator before choosing the excursion."
+          ],
+          [
+            "Can you guarantee jaguar sightings?",
+            "No. Choose activities by habitat, guide knowledge and observation time. Wildlife behavior and conditions vary."
+          ],
+          [
+            "What should an Iwokrama quote include?",
+            "Review overnight accommodation, meals, guides, activities, transfers between visitor settings and optional charges together."
+          ]
+        ],
+        "sections": [
+          [
+            "Decide which Iwokrama experience you want",
+            "Iwokrama offers a forest-centered option within Guyana’s wider rainforest travel landscape. The International Centre combines conservation, research and tourism roles, while its visitor experiences include river and forest settings. Start with the activities that matter to you: time on the river, guided forest walks or an elevated canopy perspective. The name Iwokrama alone does not tell you which overnight base or transfer arrangement supports those interests.",
+            "Use the Guyana overview to understand the wider route choices. A focused forest stay may suit travelers who want repeated outings and an unhurried rhythm. Combining it with another landscape can add variety, but only when the connection leaves useful activity time. Ask the planner to describe where each day begins and ends before judging a package by its list of attractions."
+          ],
+          [
+            "Distinguish the river lodge from the canopy base",
+            "Iwokrama River Lodge describes its setting on the Essequibo River. The International Centre’s tourism information identifies the canopy walkway with Atta Rainforest Lodge. Treat these as distinct visitor settings when reading a proposal. Do not assume that a room at one base means the other experience is immediately outside your door, or that every activity and transfer is included in the room rate.",
+            "Ask for the accommodation name, the location of the proposed outings and the connection between them. Compare a stay built around one base with a route that changes accommodation. The difference affects packing, travel time and the rhythm of the day. A clear plan should identify which services are arranged by the lodge and which are supplied by another operator."
+          ],
+          [
+            "Make river outings part of the experience",
+            "The river setting can offer a different perspective from walking inside the forest. Ask how a proposed boat outing is organized, where it begins and what its purpose is: landscape observation, birdwatching or a connection to another activity. Confirm the guiding, seating and equipment arrangement for your group. A river trip should be more than a label added to make an itinerary look fuller.",
+            "Discuss comfort and mobility before the route is agreed. Ask how boarding works and how your camera or other equipment can be kept dry. Observation is shaped by conditions and animal behavior, so leave room for quiet watching without treating a particular species as a promised result. The guide should explain appropriate distance and behavior rather than using close approaches to create a photograph."
+          ],
+          [
+            "Understand Turtle Mountain before committing",
+            "The river lodge presents Turtle Mountain as a forest excursion with a summit perspective. Before choosing it, ask about the current trail conditions, the approach, the walking demands and the time needed for your group. A viewpoint photograph does not explain the climb, footing or heat. Describe your fitness and mobility honestly so that the proposed outing suits the people taking part.",
+            "Confirm whether the excursion is included, optional or dependent on conditions. Ask what the alternative day would look like if the group decides not to climb. A good plan can still offer a rewarding forest experience without making every traveler attempt the same activity. Avoid relying on another visitor’s recorded walking time as a promise for your own group."
+          ],
+          [
+            "Choose canopy time for observation",
+            "An elevated walkway offers another way to appreciate forest structure and look across the canopy. Discuss access, comfort with heights and the guiding arrangement before adding it to the itinerary. Ask whether a transfer is needed from your accommodation and how much time is available at the activity itself. Travel to a walkway and patient observation there should both be visible in the daily plan.",
+            "For birdwatching or photography, explain whether you want a general introduction or a more focused outing. Conditions and sightings vary, so the value of the visit rests in the habitat, guide knowledge and time spent observing. Ask about any equipment restrictions and how the activity is managed for a mixed-interest group. Keep the experience distinct from a guarantee of seeing a named bird or mammal."
+          ],
+          [
+            "Match the lodge to practical needs",
+            "Compare the overnight facilities with your daily priorities. Ask about bathroom arrangements, ventilation, electricity, charging and the distance between your room and the meeting point for outings. If you need to charge several camera batteries, confirm the schedule rather than assuming power is available throughout the night. Explain any mobility, dietary or sleep requirements before the booking is confirmed.",
+            "Request a clear description of meals, drinking water and guide services. The river lodge’s official information establishes its setting, but availability and the room category for your dates require a current proposal. Photographs used to illustrate a forest travel style are not proof of a specific room or view. Judge the accommodation together with its location, outing access and the people providing the experience."
+          ],
+          [
+            "Connect the forest stay with Georgetown",
+            "The coastal-to-interior connection deserves as much attention as the forest activities. Use the Georgetown gateway guide to identify airports, hotel nights and transfer arrangements. Ask where the Iwokrama segment begins and who meets you at the agreed arrival point. A flight or road label is incomplete without the final connection to accommodation and a contact for travel-day changes.",
+            "Discuss road and river conditions for the travel period and confirm baggage requirements for any aircraft segment. On departure, allow the planner to explain the return sequence and the buffer before an international flight. Avoid spending the last forest day concerned about an uncertain pickup. A workable connection protects the time you have chosen to spend observing the forest."
+          ],
+          [
+            "Balance wildlife interests with responsible behavior",
+            "Tell the guide which habitats and subjects interest you while accepting that wildlife cannot be scheduled. A patient walk, time beside the river and a canopy outing may support different forms of observation. Ask how the days can be adjusted within the agreed activity plan when conditions change. Repeated opportunities at one base can be more rewarding than a rushed list of sightings to collect.",
+            "Follow instructions about distance, lights, noise and movement. Do not feed or handle wildlife to improve a photograph, and ask before using specialist lighting equipment. Respect the conservation and research role of the landscape as well as the visitor experience. For a mixed-interest group, include suitable breaks and agree how focused outings fit with the comfort of everyone participating."
+          ],
+          [
+            "Review the forest proposal as a complete stay",
+            "Request an itinerary identifying the overnight base, included guided activities, transfers between visitor settings, meals and optional charges. Ask whether the river lodge and canopy experiences are combined in one package or arranged separately. Check availability and cancellation terms for the actual services rather than assuming an old published package remains bookable. Your inquiry helps shape a proposal but does not reserve a room.",
+            "Share your dates, guest count, preferred pace and the experiences that matter most. Use the Guyana trip-planning guide to compare nights and usable activity time, and the Georgetown gateway guide to check the connections. A strong Iwokrama journey gives the forest room in the schedule, with clear expectations about comfort, guiding and what is confirmed before departure."
+          ]
+        ]
+      },
+      "es": {
+        "type": "destination-guide",
+        "pair_id": "guyana_iwokrama_001",
+        "hero": [
+          "amazon-forest-buttress-tree-hiker-wide",
+          "Caminante junto a las raíces tabulares de un gran árbol del bosque"
+        ],
+        "features": {
+          "1": [
+            "amazon-canoe-group-lake-journey",
+            "Viajeros observando el paisaje desde una canoa"
+          ],
+          "4": [
+            "jaguar-in-foliage-portrait",
+            "Jaguar rodeado de follaje verde"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Iwokrama — turismo sostenible",
+            "https://iwokrama.org/sustainable-tourism/"
+          ],
+          [
+            "Iwokrama River Lodge — ubicación",
+            "https://iwokramariverlodge.com/lodge/"
+          ],
+          [
+            "Iwokrama River Lodge — Turtle Mountain",
+            "https://iwokramariverlodge.com/portfolio/turtle-mountain/"
+          ],
+          [
+            "Turismo de Guyana — geografía",
+            "https://guyanatourism.com/about-us-2/"
+          ],
+          [
+            "Turismo de Guyana — conservación comunitaria",
+            "https://guyanatourism.com/conservation/"
+          ]
+        ],
+        "scope": "Información de planificación revisada el 8 de octubre de 2026. El alojamiento, actividades, disponibilidad y transporte requieren confirmación en una propuesta individual. Guyana forma parte del Escudo Guayanés; estas guías no clasifican todos sus ríos como ríos de la cuenca amazónica.",
+        "slug": "iwokrama",
+        "h1": "Iwokrama: bosque, río y dosel",
+        "title": "Selva de Iwokrama | Alojamiento, río y dosel",
+        "description": "Compara estancias en Iwokrama, salidas por el Essequibo, Turtle Mountain y visitas al dosel con alojamientos y traslados claros.",
+        "lede": "Elija una estadía en el bosque según su entorno del alojamiento, experiencias guiadas y el tiempo que desea dedicar a la observación.",
+        "quick": [
+          "¿Qué base de Iwokrama debo elegir?",
+          "Compare la ubicación del lodge fluvial con la base del dosel Atta. Pregunte dónde duerme, qué salidas están incluidas y cómo se viaja entre los lugares de visita."
+        ],
+        "links": [
+          [
+            "/es/guyana/",
+            "guía de Guyana"
+          ],
+          [
+            "/es/guyana/planifica-tu-viaje-a-la-selva/",
+            "guía de planificación de viajes a Guyana"
+          ],
+          [
+            "/es/guyana/georgetown/",
+            "guía de acceso por Georgetown"
+          ],
+          [
+            "/es/guyana/iwokrama/",
+            "guía de Iwokrama"
+          ]
+        ],
+        "context_links": [
+          [
+            "guía de Guyana",
+            "/es/guyana/"
+          ],
+          [
+            "guía de planificación de viajes a Guyana",
+            "/es/guyana/planifica-tu-viaje-a-la-selva/"
+          ],
+          [
+            "guía de acceso por Georgetown",
+            "/es/guyana/georgetown/"
+          ],
+          [
+            "guía de Iwokrama",
+            "/es/guyana/iwokrama/"
+          ]
+        ],
+        "cta": [
+          "Planifique una estadía en el bosque con tiempo para observar",
+          "Comparta sus fechas, arreglos de vuelo, comodidad preferida e intereses principales para que podamos discutir una ruta práctica de Guyana."
+        ],
+        "faqs": [
+          [
+            "¿El lodge fluvial y la base del dosel son el mismo lugar?",
+            "No. Solicite el nombre del alojamiento y los traslados que conectan las experiencias propuestas de río y dosel."
+          ],
+          [
+            "¿Es la Turtle Mountain adecuada para todos?",
+            "Confirme las demandas actuales de los senderos, las condiciones y una actividad alternativa con el operador antes de elegir la excursión."
+          ],
+          [
+            "¿Pueden garantizar avistamientos de jaguar?",
+            "No. Elija actividades según el hábitat, el conocimiento del guía y el tiempo de observación. El comportamiento de la vida silvestre y las condiciones varían."
+          ],
+          [
+            "¿Qué debe incluir una cotización de Iwokrama?",
+            "Revise el alojamiento nocturno, comidas, guías, actividades, traslados entre lugares de visita y cargos opcionales juntos."
+          ]
+        ],
+        "sections": [
+          [
+            "Decida qué experiencia de Iwokrama desea",
+            "Iwokrama ofrece una opción centrada en el bosque dentro del paisaje más amplio de viajes al bosque lluvioso de Guyana. El Centro Internacional combina roles de conservación, investigación y turismo, mientras que sus experiencias para visitantes incluyen entornos fluviales y forestales. Comience con las actividades que le importan: tiempo en el río, caminatas guiadas por el bosque o una perspectiva elevada del dosel. El nombre Iwokrama por sí solo no le indica qué base para pernoctar o arreglo de traslado apoya esos intereses.",
+            "Utilice el guía de Guyana para comprender las opciones de ruta más amplias. Una estadía forestal enfocada puede ser adecuada para viajeros que buscan salidas repetidas y un ritmo tranquilo. Combinarla con otro paisaje puede agregar variedad, pero solo cuando la conexión deja tiempo útil de actividad. Pida al planificador que describa dónde comienza y termina cada día antes de juzgar un paquete por su lista de atracciones."
+          ],
+          [
+            "Distinga el lodge fluvial de la base del dosel",
+            "Iwokrama River Lodge describe su ubicación en el río Essequibo. La información turística del Centro Internacional identifica la pasarela del dosel con Atta Rainforest Lodge. Trátelos como lugares de visita distintos al leer una propuesta. No asuma que una habitación en una base significa que la otra experiencia está inmediatamente fuera de su puerta, o que cada actividad y traslado está incluido en la tarifa de la habitación.",
+            "Solicite el nombre del alojamiento, la ubicación de las salidas propuestas y la conexión entre ellas. Compare una estadía construida alrededor de una base con una ruta que cambia de alojamiento. La diferencia afecta el equipaje, el tiempo de viaje y el ritmo del día. Un plan claro debe identificar qué servicios son arreglados por el lodge y cuáles son suministrados por otro operador."
+          ],
+          [
+            "Haga que las excursiones fluviales sean parte de la experiencia",
+            "El entorno fluvial puede ofrecer una perspectiva diferente a la de caminar dentro del bosque. Pregunte cómo se organiza una salida propuesta en bote, dónde comienza y cuál es su propósito: observación del paisaje, avistamiento de aves o conexión con otra actividad. Confirme el arreglo de guía, asientos y equipo para su grupo. Un viaje en río debe ser más que una etiqueta agregada para hacer un itinerario parecer más completo.",
+            "Discuta comodidad y movilidad antes de acordar la ruta. Pregunte cómo funciona el embarque y cómo se puede mantener seca su cámara u otro equipo. La observación está moldeada por las condiciones y el comportamiento animal, así que deje espacio para observar en silencio sin tratar a una especie particular como un resultado prometido. El guía debe explicar la distancia apropiada y el comportamiento en lugar de usar acercamientos cercanos para crear una fotografía."
+          ],
+          [
+            "Entienda la Turtle Mountain antes de comprometerse",
+            "El lodge fluvial presenta la Turtle Mountain como una excursión forestal con perspectiva de cumbre. Antes de elegirla, pregunte sobre las condiciones actuales de los senderos, el acceso, la dificultad de la caminata y el tiempo necesario para su grupo. Una fotografía del mirador no explica la subida, el terreno o el calor. Describa honestamente su condición física y movilidad para que la excursión propuesta se ajuste a las personas que participan.",
+            "Confirme si la excursión está incluida, es opcional o depende de las condiciones. Pregunte cómo sería el día alternativo si el grupo decide no subir. Un buen plan aún puede ofrecer una experiencia forestal gratificante sin hacer que cada viajero intente la misma actividad. Evite depender del tiempo de caminata registrado por otro visitante como una promesa para su propio grupo."
+          ],
+          [
+            "Elija tiempo en el dosel para la observación",
+            "Una pasarela elevada ofrece otra manera de apreciar la estructura forestal y mirar a través del dosel. Discuta el acceso, comodidad con las alturas y el arreglo de guía antes de agregarlo al itinerario. Pregunte si se necesita un traslado desde su alojamiento y cuánto tiempo está disponible en la actividad misma. El viaje a una pasarela y la observación paciente allí deben ambos ser visibles en el plan diario.",
+            "Para avistamiento de aves o fotografía, explique si desea una introducción general o una salida más enfocada. Las condiciones y los avistamientos varían, por lo que el valor de la visita reside en el hábitat, el conocimiento del guía y el tiempo dedicado a observar. Pregunte sobre cualquier restricción de equipo y cómo se gestiona la actividad para un grupo de intereses mixtos. Mantenga la experiencia distinta de una garantía de ver una especie concreta de ave o mamífero."
+          ],
+          [
+            "Ajuste el lodge a necesidades prácticas",
+            "Compare las instalaciones del alojamiento con sus prioridades diarias. Pregunte sobre tipo de baño, ventilación, electricidad, carga y la distancia entre su habitación y el punto de encuentro para salidas. Si necesita cargar varias baterías de cámara, confirme el horario en lugar de asumir que hay energía disponible durante toda la noche. Explique cualquier requisito de movilidad, dieta o sueño antes de confirmar la reserva.",
+            "Solicite una descripción clara de comidas, agua potable y servicios de guía. La información oficial del lodge fluvial establece su ubicación, pero la disponibilidad y la categoría de habitación para sus fechas requieren una propuesta actual. Las fotografías utilizadas para ilustrar un estilo de viaje forestal no son prueba de una habitación o vista específica. Juzgue el alojamiento junto con su ubicación, acceso a salidas y las personas que proporcionan la experiencia."
+          ],
+          [
+            "Conecte la estadía forestal con Georgetown",
+            "La conexión costera al interior merece tanta atención como las actividades forestales. Utilice la guía de acceso por Georgetown para identificar aeropuertos, noches en hoteles y arreglos de traslado. Pregunte dónde comienza el segmento de Iwokrama y quién lo recibe en el punto de llegada acordado. Una etiqueta de vuelo o carretera es incompleta sin la conexión final al alojamiento y un contacto para cambios del día de viaje.",
+            "Discuta las condiciones de carretera y río para el período de viaje y confirme los requisitos de equipaje para cualquier segmento aéreo. Al salir, permita que el planificador explique la secuencia de retorno y el margen antes de un vuelo internacional. Evite pasar el último día forestal preocupado por una recogida incierta. Una conexión viable protege el tiempo que ha elegido para dedicar a observar el bosque."
+          ],
+          [
+            "Equilibre intereses de vida silvestre con comportamiento responsable",
+            "Diga al guía qué hábitats y sujetos le interesan mientras acepta que la vida silvestre no puede programarse. Una caminata paciente, tiempo junto al río y una salida al dosel pueden apoyar diferentes formas de observación. Pregunte cómo se pueden ajustar los días dentro del plan de actividad acordado cuando cambian las condiciones. Oportunidades repetidas en una base pueden ser más gratificantes que una lista apresurada de avistamientos para recopilar.",
+            "Siga instrucciones sobre distancia, luces, ruido y movimiento. No alimente ni manipule vida silvestre para mejorar una fotografía, y pregunte antes de usar equipo de iluminación especializado. Respete el papel de conservación e investigación del paisaje así como la experiencia del visitante. Para un grupo de intereses mixtos, incluya pausas adecuadas y acuerde cómo encajan las salidas enfocadas con la comodidad de todos los participantes."
+          ],
+          [
+            "Revise la propuesta forestal como una estadía completa",
+            "Solicite un itinerario que identifique la base para pernoctar, actividades guiadas incluidas, traslados entre lugares de visita, comidas y cargos opcionales. Pregunte si el lodge fluvial y las experiencias del dosel se combinan en un paquete o se arreglan por separado. Verifique disponibilidad y términos de cancelación para los servicios reales en lugar de asumir que un paquete publicado antiguo sigue siendo reservable. Su consulta ayuda a moldear una propuesta pero no reserva una habitación.",
+            "Comparta sus fechas, número de huéspedes, ritmo preferido y las experiencias que más le importan. Utilice la guía de planificación de viajes a Guyana para comparar noches y tiempo de actividad útil, y la guía de acceso por Georgetown para verificar las conexiones. Un viaje bien organizado a Iwokrama da espacio al bosque en el horario, con expectativas claras sobre comodidad, guía y lo que se confirma antes de la partida."
+          ]
+        ]
+      }
+    }
+  }
+}

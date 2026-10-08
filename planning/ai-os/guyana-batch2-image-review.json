@@ -1,0 +1,50 @@
+{
+  "owner_authorized_existing_library": true,
+  "no_same_page_repeated_scene": true,
+  "placements": [
+    {
+      "topic": "georgetown",
+      "image": "amazon-riverside-harbor-canoes",
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-harbor-canoes.webp",
+      "sha256": "cf94afd84452e810a7737514fe58d90b9c434af1ce81093d390df92047fa7381",
+      "location_claim": false
+    },
+    {
+      "topic": "georgetown",
+      "image": "amazon-riverside-houses-solo-canoe",
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-houses-solo-canoe.webp",
+      "sha256": "c93a751ce8404a1035d746aadbfc01c1106b4b8e29a3e30aa5936b89f67755eb",
+      "location_claim": false
+    },
+    {
+      "topic": "georgetown",
+      "image": "amazon-wooden-canoes-riverbank",
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-wooden-canoes-riverbank.webp",
+      "sha256": "d8eb63b9f3c209b09122aeb46b0ff328a4b57c66d49def2c8621763aa3d59ace",
+      "location_claim": false
+    },
+    {
+      "topic": "iwokrama",
+      "image": "amazon-forest-buttress-tree-hiker-wide",
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-forest-buttress-tree-hiker-wide.webp",
+      "sha256": "6576376bbeed4e5311985c5993c25ed76a2010fcfac5090b5fc7e947399be476",
+      "location_claim": false
+    },
+    {
+      "topic": "iwokrama",
+      "image": "amazon-canoe-group-lake-journey",
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-canoe-group-lake-journey.webp",
+      "sha256": "33cf4a20f888c2e78c24075d1316a242299ed4385fff0c823857ce10a753e10a",
+      "location_claim": false
+    },
+    {
+      "topic": "iwokrama",
+      "image": "jaguar-in-foliage-portrait",
+      "src": "/assets/images/pages/countries/colombia/optimized/jaguar-in-foliage-portrait.webp",
+      "sha256": "d045ba8d1f1e33e81789cb9c6b50cb0d6787e792eb533d9552ecf9cfe45d188b",
+      "location_claim": false
+    }
+  ],
+  "review": "Visible subjects reviewed in owner image contact sheets; generic landscape and jaguar imagery, no named capture location",
+  "destination_specific_images": "Pending before country release"
+}

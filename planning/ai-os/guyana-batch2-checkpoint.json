@@ -1,0 +1,24 @@
+{
+  "deployment": "709502bb",
+  "rollback": "f9445fa3",
+  "new_pairs": 2,
+  "new_pages": 4,
+  "country_pairs": 4,
+  "country_pages": 8,
+  "technical_errors": 0,
+  "css_contact_tests": 25,
+  "contextual_targets_per_new_page": 3,
+  "image_reuse_owner_authorized": true,
+  "scene_repeats_per_page": 0,
+  "production_containment": "passed",
+  "local_tokens": 9548,
+  "retries": 0,
+  "cache_hits": 0,
+  "visual_review": "Pending; existing browser policy verification failure retained, no bypass",
+  "authenticated_readback": "Pending; unauthenticated Access protection checked separately",
+  "bilingual_review": "All nine sections and four FAQs retained; routes localized; grammar, alt text and translation inaccuracies corrected",
+  "next_batch": [
+    "Rupununi",
+    "Community stays"
+  ]
+}

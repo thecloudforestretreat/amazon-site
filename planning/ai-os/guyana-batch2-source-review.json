@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-08",
+  "batch_size_pairs": 2,
+  "owner_image_authorization": "Existing extra river, canoe and wildlife images allowed; reuse across pages but no repeated scene within a page",
+  "claims": [
+    {
+      "source": "https://guyanatourism.com/plan-your-trip/how-to-get-here/",
+      "claim": "Separate Cheddi Jagan and Eugene F. Correia airports serve Georgetown; no distance or transfer-time estimate published"
+    },
+    {
+      "source": "https://guyanatourism.com/plan-your-trip/how-to-get-around/",
+      "claim": "Interior transport modes and domestic gateway; operator confirms current schedules/baggage"
+    },
+    {
+      "source": "https://iwokrama.org/sustainable-tourism/",
+      "claim": "River lodge and Atta canopy settings distinct; conservation role"
+    },
+    {
+      "source": "https://iwokramariverlodge.com/lodge/",
+      "claim": "River lodge on Essequibo; no room availability or affiliate claim"
+    },
+    {
+      "source": "https://iwokramariverlodge.com/portfolio/turtle-mountain/",
+      "claim": "Turtle Mountain summit outing; no universal duration or suitability claim"
+    }
+  ],
+  "review": "Specific factual claims reviewed against primary sources; practical comparison advice independently authored",
+  "image_limits": "Generic owner-licensed photographs illustrate travel styles; no exact Georgetown/Iwokrama capture location represented",
+  "pending": "Bilingual editorial review"
+}

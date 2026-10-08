@@ -1,0 +1,25 @@
+{
+  "runs": [
+    {
+      "topic": "georgetown",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2171,
+      "output_tokens": 2624,
+      "seconds": 118.13,
+      "retries": 0,
+      "cache_hits": 0,
+      "done_reason": "stop"
+    },
+    {
+      "topic": "iwokrama",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2137,
+      "output_tokens": 2616,
+      "seconds": 111.86,
+      "retries": 0,
+      "cache_hits": 0,
+      "done_reason": "stop"
+    }
+  ],
+  "total_local_tokens": 9548
+}

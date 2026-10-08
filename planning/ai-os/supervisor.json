@@ -66,9 +66,9 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review first Guyana pair batch",
-    "Continue Georgetown gateway and Iwokrama in next two-pair batch",
-    "Retain destination imagery and rendered QA release gates"
+    "Owner review second Guyana batch",
+    "Next two-pair batch Rupununi and community stays",
+    "Keep destination imagery and visual QA as release gates"
   ],
   "future_batches": [
     "Reviews deferred by owner; exclude from Ecuador launch",
@@ -111,8 +111,8 @@
     "measured_performance": "pending",
     "contact_delivery": "endpoint absent"
   },
-  "active_batch": "Guyana overview and trip planning",
-  "batch_status": "First two of twelve pairs on protected staging; technical pass, visual review pending",
+  "active_batch": "Guyana Georgetown and Iwokrama",
+  "batch_status": "4 of 12 bilingual pairs staged; technical passed, visual review pending",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",

@@ -1,19 +1,23 @@
 {
-  "pages_audited": 4,
+  "pages_audited": 8,
   "errors": [],
   "pages": [
     {
       "route": "/es/guyana/",
-      "main_words": 1728,
+      "main_words": 1778,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/",
+        "/es/guyana/georgetown/",
+        "/es/guyana/iwokrama/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/colombia/",
         "/es/contacto/",
+        "/es/guyana/georgetown/",
+        "/es/guyana/iwokrama/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/",
         "/es/peru/"
       ],
@@ -32,17 +36,81 @@
       "issues": []
     },
     {
-      "route": "/es/guyana/planifica-tu-viaje-a-la-selva/",
-      "main_words": 1742,
+      "route": "/es/guyana/georgetown/",
+      "main_words": 1752,
       "h2_sections": 13,
       "main_content_inlinks": [
-        "/es/guyana/"
+        "/es/guyana/",
+        "/es/guyana/iwokrama/",
+        "/es/guyana/planifica-tu-viaje-a-la-selva/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/contacto/",
+        "/es/guyana/",
+        "/es/guyana/iwokrama/",
+        "/es/guyana/planifica-tu-viaje-a-la-selva/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/guyana.css?v=20f736e973de"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/guyana/iwokrama/",
+      "main_words": 1661,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/es/guyana/",
+        "/es/guyana/georgetown/",
+        "/es/guyana/planifica-tu-viaje-a-la-selva/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/contacto/",
+        "/es/guyana/",
+        "/es/guyana/georgetown/",
+        "/es/guyana/planifica-tu-viaje-a-la-selva/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/guyana.css?v=20f736e973de"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/guyana/planifica-tu-viaje-a-la-selva/",
+      "main_words": 1788,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/es/guyana/",
+        "/es/guyana/georgetown/",
+        "/es/guyana/iwokrama/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/colombia/",
         "/es/contacto/",
         "/es/guyana/",
+        "/es/guyana/georgetown/",
+        "/es/guyana/iwokrama/",
         "/es/peru/"
       ],
       "css": [
@@ -61,16 +129,20 @@
     },
     {
       "route": "/guyana/",
-      "main_words": 1476,
+      "main_words": 1510,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/",
+        "/guyana/georgetown/",
+        "/guyana/iwokrama/",
         "/guyana/plan-your-rainforest-trip/"
       ],
       "main_content_outlinks": [
         "/",
         "/colombia/",
         "/contact/",
+        "/guyana/georgetown/",
+        "/guyana/iwokrama/",
         "/guyana/plan-your-rainforest-trip/",
         "/peru/"
       ],
@@ -89,17 +161,81 @@
       "issues": []
     },
     {
-      "route": "/guyana/plan-your-rainforest-trip/",
-      "main_words": 1484,
+      "route": "/guyana/georgetown/",
+      "main_words": 1490,
       "h2_sections": 13,
       "main_content_inlinks": [
-        "/guyana/"
+        "/guyana/",
+        "/guyana/iwokrama/",
+        "/guyana/plan-your-rainforest-trip/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/contact/",
+        "/guyana/",
+        "/guyana/iwokrama/",
+        "/guyana/plan-your-rainforest-trip/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/guyana.css?v=20f736e973de"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/guyana/iwokrama/",
+      "main_words": 1442,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/guyana/",
+        "/guyana/georgetown/",
+        "/guyana/plan-your-rainforest-trip/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/contact/",
+        "/guyana/",
+        "/guyana/georgetown/",
+        "/guyana/plan-your-rainforest-trip/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/guyana.css?v=20f736e973de"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/guyana/plan-your-rainforest-trip/",
+      "main_words": 1520,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/guyana/",
+        "/guyana/georgetown/",
+        "/guyana/iwokrama/"
       ],
       "main_content_outlinks": [
         "/",
         "/colombia/",
         "/contact/",
         "/guyana/",
+        "/guyana/georgetown/",
+        "/guyana/iwokrama/",
         "/peru/"
       ],
       "css": [

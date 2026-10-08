@@ -5,9 +5,9 @@
   "planned_pairs": 12,
   "planned_pages": 24,
   "batch_size_pairs": 2,
-  "staged_pairs": 2,
-  "staged_pages": 4,
-  "status": "batch1_staged_technical_pass_visual_pending",
+  "staged_pairs": 4,
+  "staged_pages": 8,
+  "status": "batch2_staged_technical_pass_visual_pending",
   "topics": [
     "Overview",
     "Trip planning",
@@ -23,8 +23,8 @@
     "Packing"
   ],
   "next_batch": [
-    "Georgetown gateway",
-    "Iwokrama"
+    "Rupununi",
+    "Community stays"
   ],
   "pending": [
     "Bilingual review",
@@ -34,23 +34,24 @@
     "Country release QA",
     "Owner production authorization"
   ],
-  "deployment": "f9445fa3",
-  "local_tokens_recorded": 9772,
+  "deployment": "709502bb",
+  "local_tokens_recorded": 19320,
   "qa": {
-    "country_pages": 4,
-    "compiled_pages": 176,
+    "country_pages": 8,
+    "compiled_pages": 180,
     "errors": 0,
     "css_contact_tests": 25,
     "main_words": [
-      1476,
-      1742
+      1442,
+      1788
     ],
     "inlink_range": [
-      1,
-      2
+      3,
+      4
     ],
     "production_containment": "passed",
     "visual_review": "Browser admin-enforced policy unavailable; pending",
     "authenticated_staging_readback": "pending"
-  }
+  },
+  "previous_staging_deployment": "f9445fa3"
 }
