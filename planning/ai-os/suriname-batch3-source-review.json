@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-08",
+  "sources": [
+    {
+      "url": "https://suriname.travel/brokopondo/",
+      "reviewed_claims": [
+        "Brownsberg forest trails, waterfalls and reservoir views",
+        "Brokopondo human-created reservoir and displacement history"
+      ],
+      "excluded": [
+        "unverified wildlife proximity, exact travel times, fees, openings, availability"
+      ]
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/1017/",
+      "reviewed_claims": [
+        "UNESCO recognition, west-central Guiana Shield conservation area",
+        "combines Raleighvallen, Eilerts de Haan and Tafelberg; diverse forest and granite habitats"
+      ],
+      "excluded": [
+        "unverified route access, transport schedules, exact visitor facilities"
+      ]
+    }
+  ],
+  "image_policy": "Owner-licensed generic forest/river scenes with neutral alt text; no asserted capture location",
+  "scope": "Protected staging only"
+}

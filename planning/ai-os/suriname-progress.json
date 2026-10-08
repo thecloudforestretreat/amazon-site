@@ -5,9 +5,9 @@
   "batch_size_pairs": 2,
   "planned_pairs": 12,
   "planned_pages": 24,
-  "staged_pairs": 4,
-  "staged_pages": 8,
-  "status": "batch2_staged_technical_pass_visual_pending",
+  "staged_pairs": 6,
+  "staged_pages": 12,
+  "status": "batch3_staged_technical_pass_visual_pending",
   "topics": [
     "Overview",
     "Trip planning",
@@ -23,8 +23,8 @@
     "Packing and seasonal preparation"
   ],
   "active_batch": [
-    "Paramaribo gateway",
-    "Upper Suriname"
+    "Brownsberg and Brokopondo",
+    "Central Suriname Nature Reserve"
   ],
   "quality_gates": [
     "Reviewed EN/ES content",
@@ -35,10 +35,10 @@
     "Protected staging readback"
   ],
   "production_authorized": false,
-  "deployment": "660b0f26",
+  "deployment": "4ecb1250",
   "next_batch": [
-    "Brownsberg and Brokopondo",
-    "Central Suriname Nature Reserve"
+    "Rainforest accommodation",
+    "Community stays"
   ],
-  "local_tokens_recorded": 28463
+  "local_tokens_recorded": 38019
 }

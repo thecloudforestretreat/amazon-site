@@ -1,13 +1,15 @@
 {
-  "pages_audited": 8,
+  "pages_audited": 12,
   "errors": [],
   "pages": [
     {
       "route": "/es/suriname/",
-      "main_words": 2084,
+      "main_words": 2117,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/suriname/paramaribo/",
+        "/es/suriname/reserva-natural-de-suriname-central/",
+        "/es/suriname/brownsberg-brokopondo/",
         "/es/suriname/planifica-tu-viaje-a-la-selva/",
         "/es/suriname/alto-suriname/"
       ],
@@ -15,8 +17,10 @@
         "/es/",
         "/es/contacto/",
         "/es/suriname/alto-suriname/",
+        "/es/suriname/brownsberg-brokopondo/",
         "/es/suriname/paramaribo/",
-        "/es/suriname/planifica-tu-viaje-a-la-selva/"
+        "/es/suriname/planifica-tu-viaje-a-la-selva/",
+        "/es/suriname/reserva-natural-de-suriname-central/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -34,19 +38,57 @@
     },
     {
       "route": "/es/suriname/alto-suriname/",
-      "main_words": 2213,
+      "main_words": 2246,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/suriname/",
         "/es/suriname/paramaribo/",
+        "/es/suriname/reserva-natural-de-suriname-central/",
+        "/es/suriname/brownsberg-brokopondo/",
         "/es/suriname/planifica-tu-viaje-a-la-selva/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/contacto/",
         "/es/suriname/",
+        "/es/suriname/brownsberg-brokopondo/",
         "/es/suriname/paramaribo/",
-        "/es/suriname/planifica-tu-viaje-a-la-selva/"
+        "/es/suriname/planifica-tu-viaje-a-la-selva/",
+        "/es/suriname/reserva-natural-de-suriname-central/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/suriname.css?v=b065ede556d7"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/suriname/brownsberg-brokopondo/",
+      "main_words": 1991,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/es/suriname/",
+        "/es/suriname/paramaribo/",
+        "/es/suriname/reserva-natural-de-suriname-central/",
+        "/es/suriname/planifica-tu-viaje-a-la-selva/",
+        "/es/suriname/alto-suriname/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/contacto/",
+        "/es/suriname/",
+        "/es/suriname/alto-suriname/",
+        "/es/suriname/paramaribo/",
+        "/es/suriname/planifica-tu-viaje-a-la-selva/",
+        "/es/suriname/reserva-natural-de-suriname-central/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -64,10 +106,12 @@
     },
     {
       "route": "/es/suriname/paramaribo/",
-      "main_words": 2328,
+      "main_words": 2361,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/suriname/",
+        "/es/suriname/reserva-natural-de-suriname-central/",
+        "/es/suriname/brownsberg-brokopondo/",
         "/es/suriname/planifica-tu-viaje-a-la-selva/",
         "/es/suriname/alto-suriname/"
       ],
@@ -76,7 +120,9 @@
         "/es/contacto/",
         "/es/suriname/",
         "/es/suriname/alto-suriname/",
-        "/es/suriname/planifica-tu-viaje-a-la-selva/"
+        "/es/suriname/brownsberg-brokopondo/",
+        "/es/suriname/planifica-tu-viaje-a-la-selva/",
+        "/es/suriname/reserva-natural-de-suriname-central/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -94,11 +140,13 @@
     },
     {
       "route": "/es/suriname/planifica-tu-viaje-a-la-selva/",
-      "main_words": 2125,
+      "main_words": 2158,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/suriname/",
         "/es/suriname/paramaribo/",
+        "/es/suriname/reserva-natural-de-suriname-central/",
+        "/es/suriname/brownsberg-brokopondo/",
         "/es/suriname/alto-suriname/"
       ],
       "main_content_outlinks": [
@@ -106,7 +154,43 @@
         "/es/contacto/",
         "/es/suriname/",
         "/es/suriname/alto-suriname/",
-        "/es/suriname/paramaribo/"
+        "/es/suriname/brownsberg-brokopondo/",
+        "/es/suriname/paramaribo/",
+        "/es/suriname/reserva-natural-de-suriname-central/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/suriname.css?v=b065ede556d7"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/suriname/reserva-natural-de-suriname-central/",
+      "main_words": 1915,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/es/suriname/",
+        "/es/suriname/paramaribo/",
+        "/es/suriname/brownsberg-brokopondo/",
+        "/es/suriname/planifica-tu-viaje-a-la-selva/",
+        "/es/suriname/alto-suriname/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/contacto/",
+        "/es/suriname/",
+        "/es/suriname/alto-suriname/",
+        "/es/suriname/brownsberg-brokopondo/",
+        "/es/suriname/paramaribo/",
+        "/es/suriname/planifica-tu-viaje-a-la-selva/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -124,17 +208,89 @@
     },
     {
       "route": "/suriname/",
-      "main_words": 1974,
+      "main_words": 2001,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/",
         "/suriname/paramaribo/",
+        "/suriname/central-suriname-nature-reserve/",
+        "/suriname/plan-your-rainforest-trip/",
+        "/suriname/brownsberg-brokopondo/",
+        "/suriname/upper-suriname/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/contact/",
+        "/suriname/brownsberg-brokopondo/",
+        "/suriname/central-suriname-nature-reserve/",
+        "/suriname/paramaribo/",
+        "/suriname/plan-your-rainforest-trip/",
+        "/suriname/upper-suriname/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/suriname.css?v=b065ede556d7"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/suriname/brownsberg-brokopondo/",
+      "main_words": 1713,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/suriname/",
+        "/suriname/paramaribo/",
+        "/suriname/central-suriname-nature-reserve/",
         "/suriname/plan-your-rainforest-trip/",
         "/suriname/upper-suriname/"
       ],
       "main_content_outlinks": [
         "/",
         "/contact/",
+        "/suriname/",
+        "/suriname/central-suriname-nature-reserve/",
+        "/suriname/paramaribo/",
+        "/suriname/plan-your-rainforest-trip/",
+        "/suriname/upper-suriname/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/suriname.css?v=b065ede556d7"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/suriname/central-suriname-nature-reserve/",
+      "main_words": 1691,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/suriname/",
+        "/suriname/paramaribo/",
+        "/suriname/plan-your-rainforest-trip/",
+        "/suriname/brownsberg-brokopondo/",
+        "/suriname/upper-suriname/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/contact/",
+        "/suriname/",
+        "/suriname/brownsberg-brokopondo/",
         "/suriname/paramaribo/",
         "/suriname/plan-your-rainforest-trip/",
         "/suriname/upper-suriname/"
@@ -155,17 +311,21 @@
     },
     {
       "route": "/suriname/paramaribo/",
-      "main_words": 2008,
+      "main_words": 2037,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/suriname/",
+        "/suriname/central-suriname-nature-reserve/",
         "/suriname/plan-your-rainforest-trip/",
+        "/suriname/brownsberg-brokopondo/",
         "/suriname/upper-suriname/"
       ],
       "main_content_outlinks": [
         "/",
         "/contact/",
         "/suriname/",
+        "/suriname/brownsberg-brokopondo/",
+        "/suriname/central-suriname-nature-reserve/",
         "/suriname/plan-your-rainforest-trip/",
         "/suriname/upper-suriname/"
       ],
@@ -185,17 +345,21 @@
     },
     {
       "route": "/suriname/plan-your-rainforest-trip/",
-      "main_words": 1918,
+      "main_words": 1945,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/suriname/",
         "/suriname/paramaribo/",
+        "/suriname/central-suriname-nature-reserve/",
+        "/suriname/brownsberg-brokopondo/",
         "/suriname/upper-suriname/"
       ],
       "main_content_outlinks": [
         "/",
         "/contact/",
         "/suriname/",
+        "/suriname/brownsberg-brokopondo/",
+        "/suriname/central-suriname-nature-reserve/",
         "/suriname/paramaribo/",
         "/suriname/upper-suriname/"
       ],
@@ -215,17 +379,21 @@
     },
     {
       "route": "/suriname/upper-suriname/",
-      "main_words": 2005,
+      "main_words": 2032,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/suriname/",
         "/suriname/paramaribo/",
-        "/suriname/plan-your-rainforest-trip/"
+        "/suriname/central-suriname-nature-reserve/",
+        "/suriname/plan-your-rainforest-trip/",
+        "/suriname/brownsberg-brokopondo/"
       ],
       "main_content_outlinks": [
         "/",
         "/contact/",
         "/suriname/",
+        "/suriname/brownsberg-brokopondo/",
+        "/suriname/central-suriname-nature-reserve/",
         "/suriname/paramaribo/",
         "/suriname/plan-your-rainforest-trip/"
       ],

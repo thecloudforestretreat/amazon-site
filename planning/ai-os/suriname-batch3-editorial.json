@@ -1,0 +1,14 @@
+{
+  "status": "EN/ES supervisor reviewed",
+  "review_date": "2026-10-08",
+  "sources": "suriname-batch3-source-review.json",
+  "english": "Supervisor-authored destination-specific decision guidance with reviewed facts",
+  "spanish": "Local translations reviewed against English; corrected west-central geography, reserve naming, formal imperatives, transfer and accommodation terminology",
+  "raw_output_retained": true,
+  "local_retries": 0,
+  "cache_hits": 0,
+  "limits": [
+    "Browser policy prevents agent visual review and authenticated readback",
+    "No production release"
+  ]
+}

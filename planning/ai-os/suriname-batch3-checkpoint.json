@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-08",
+  "deployment": "4ecb1250",
+  "rollback_deployment": "660b0f26",
+  "new_pairs": 2,
+  "new_pages": 4,
+  "total_pairs": 6,
+  "total_pages": 12,
+  "compiled_pages_validated": 208,
+  "country_qa_errors": [],
+  "css_contact_regression_tests": 26,
+  "main_word_range": [
+    1691,
+    2361
+  ],
+  "protection_checks": [
+    {
+      "route": "/suriname/brownsberg-brokopondo/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/suriname/brownsberg-brokopondo/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/suriname/central-suriname-nature-reserve/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/suriname/reserva-natural-de-suriname-central/",
+      "status": 302,
+      "access_redirect": true
+    }
+  ],
+  "authenticated_readback": "Pending; browser admin-policy verification unavailable",
+  "visual_review": "Pending; no agent desktop/mobile measurements claimed",
+  "production_containment": "172 live-scope pages validated; Suriname excluded",
+  "production_deployed": false
+}

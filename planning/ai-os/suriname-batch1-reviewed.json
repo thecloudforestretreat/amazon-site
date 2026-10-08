@@ -120,7 +120,7 @@
           [
             "Build time for transfers and recovery",
             "Build a route around usable days rather than counting every calendar day as an activity day. Arrival, changing transport and settling into a new base all take attention. Ask the operator to identify the expected transfer periods and which outings remain realistic around them. If the plan places a demanding walk immediately after a tiring connection, discuss a gentler first activity. The best pace depends on the people traveling, not on filling every morning and afternoon with something scheduled.",
-            "Keep enough flexibility for a connection change without relying on a universal number of buffer days. Ask how the return from the interior relates to your onward flight, what the recommended margin is and who helps if the route changes. If you have a fixed departure, share it before the itinerary is drawn up. A simpler route with more time at one base can protect the experiences you came for while reducing repeated packing, transfers and the pressure to move on."
+            "Keep enough flexibility for a connection change without relying on a universal number of buffer days. Ask how the return from the interior relates to your onward flight, what the recommended margin is and who helps if the route changes. If you have a fixed departure, share it before the itinerary is drawn up. A simpler route with more time at one base can protect the experiences you came for while reducing repeated packing, transfers and the pressure to move on. Also compare Brownsberg & Brokopondo and Central Suriname Nature Reserve against your priorities."
           ],
           [
             "Turn your priorities into an inquiry",
@@ -165,11 +165,19 @@
           ],
           [
             "/suriname/paramaribo/",
-            "Paramaribo gateway"
+            "Paramaribo"
           ],
           [
             "/suriname/upper-suriname/",
             "Upper Suriname"
+          ],
+          [
+            "/suriname/brownsberg-brokopondo/",
+            "Brownsberg & Brokopondo"
+          ],
+          [
+            "/suriname/central-suriname-nature-reserve/",
+            "Central Suriname Nature Reserve"
           ],
           [
             "/contact/",
@@ -188,6 +196,14 @@
           [
             "Upper Suriname",
             "/suriname/upper-suriname/"
+          ],
+          [
+            "Brownsberg & Brokopondo",
+            "/suriname/brownsberg-brokopondo/"
+          ],
+          [
+            "Central Suriname Nature Reserve",
+            "/suriname/central-suriname-nature-reserve/"
           ]
         ],
         "hero": [
@@ -275,7 +291,7 @@
           [
             "Reserve tiempo para traslados y descanso",
             "Organice una ruta según los días disponibles para actividades en lugar de contar cada día del calendario como día de actividad. Llegada, cambio de transporte y adaptación a nueva base requieren atención. Pida al operador identificar períodos de traslado esperados y qué salidas permanecen realistas alrededor de ellos. Si el plan coloca un paseo exigente inmediatamente después de un traslado agotador, comente una primera actividad más suave. El mejor ritmo depende de las personas viajeras, no de llenar cada mañana y tarde con algo programado.",
-            "Mantenga suficiente flexibilidad para un cambio de conexión sin depender de un número universal de días de margen. Pregunte cómo el retorno del interior se relaciona con su siguiente vuelo, cuál es el margen recomendado y quién ayuda si cambia la ruta. Si tiene una salida fija, compártala antes de preparar el itinerario. Una ruta más simple con más tiempo en una base puede proteger las experiencias por las que vino mientras reduce hacer y deshacer el equipaje, traslados y presión para moverse."
+            "Mantenga suficiente flexibilidad para un cambio de conexión sin depender de un número universal de días de margen. Pregunte cómo el retorno del interior se relaciona con su siguiente vuelo, cuál es el margen recomendado y quién ayuda si cambia la ruta. Si tiene una salida fija, compártala antes de preparar el itinerario. Una ruta más simple con más tiempo en una base puede proteger las experiencias por las que vino mientras reduce hacer y deshacer el equipaje, traslados y presión para moverse. Compare también Brownsberg y Brokopondo y la Reserva Natural de Suriname Central según sus prioridades."
           ],
           [
             "Convierta sus prioridades en una consulta",
@@ -327,6 +343,14 @@
             "Alto Suriname"
           ],
           [
+            "/es/suriname/brownsberg-brokopondo/",
+            "Brownsberg y Brokopondo"
+          ],
+          [
+            "/es/suriname/reserva-natural-de-suriname-central/",
+            "Reserva Natural de Suriname Central"
+          ],
+          [
             "/es/contacto/",
             "Comparta sus planes"
           ]
@@ -343,6 +367,14 @@
           [
             "Alto Suriname",
             "/es/suriname/alto-suriname/"
+          ],
+          [
+            "Brownsberg y Brokopondo",
+            "/es/suriname/brownsberg-brokopondo/"
+          ],
+          [
+            "Reserva Natural de Suriname Central",
+            "/es/suriname/reserva-natural-de-suriname-central/"
           ]
         ],
         "hero": [
@@ -432,7 +464,7 @@
           [
             "Read the quotation before committing",
             "Read the quote against the route: accommodation, transport, guiding, meals and activities should be identifiable, with exclusions stated separately. Check the number of nights and whether arrival or departure transfers are included. Ask which room type and group arrangements the price assumes, and which details remain provisional. A proposal can look complete while leaving important decisions open. Resolve those questions before you compare it with another quote or make a payment.",
-            "Review payment timing, cancellation terms and the procedure for itinerary changes. Ask who coordinates the trip and which party provides each major service. Discuss what happens if an agreed connection or activity cannot operate; avoid treating an alternative as guaranteed unless it is written into the arrangement. Keep a copy of the confirmed route and terms. The goal is a shared understanding of what is booked, what is conditional and what your group may need to decide later."
+            "Review payment timing, cancellation terms and the procedure for itinerary changes. Ask who coordinates the trip and which party provides each major service. Discuss what happens if an agreed connection or activity cannot operate; avoid treating an alternative as guaranteed unless it is written into the arrangement. Keep a copy of the confirmed route and terms. The goal is a shared understanding of what is booked, what is conditional and what your group may need to decide later. Also compare Brownsberg & Brokopondo and Central Suriname Nature Reserve against your priorities."
           ],
           [
             "Send a brief that can become a workable route",
@@ -477,11 +509,19 @@
           ],
           [
             "/suriname/paramaribo/",
-            "Paramaribo gateway"
+            "Paramaribo"
           ],
           [
             "/suriname/upper-suriname/",
             "Upper Suriname"
+          ],
+          [
+            "/suriname/brownsberg-brokopondo/",
+            "Brownsberg & Brokopondo"
+          ],
+          [
+            "/suriname/central-suriname-nature-reserve/",
+            "Central Suriname Nature Reserve"
           ],
           [
             "/contact/",
@@ -500,6 +540,14 @@
           [
             "Upper Suriname",
             "/suriname/upper-suriname/"
+          ],
+          [
+            "Brownsberg & Brokopondo",
+            "/suriname/brownsberg-brokopondo/"
+          ],
+          [
+            "Central Suriname Nature Reserve",
+            "/suriname/central-suriname-nature-reserve/"
           ]
         ],
         "hero": [
@@ -587,7 +635,7 @@
           [
             "Lea la cotización antes de comprometerse",
             "Compare la cotización con el itinerario: alojamiento, transporte, guía, comidas y actividades deben ser identificables, con exclusiones declaradas por separado. Verifique el número de noches y si los traslados de llegada o salida están incluidos. Pregunte qué tipo de habitación y arreglos grupales asume el precio y qué detalles siguen siendo provisionales. Una propuesta puede parecer completa mientras deja decisiones importantes abiertas. Resuelva esas preguntas antes de compararla con otra cotización o realizar un pago.",
-            "Revise la calendario de pagos, términos de cancelación y el procedimiento para cambios de itinerario. Pregunte quién coordina el viaje y qué parte proporciona cada servicio principal. Comente qué sucede si una conexión o actividad acordada no puede operar; evite tratar una alternativa como garantizada a menos que esté escrita en el arreglo. Mantenga una copia de la ruta confirmada y los términos. El objetivo es una comprensión compartida de lo que se reserva, lo que es condicional y lo que su grupo puede necesitar decidir más tarde."
+            "Revise la calendario de pagos, términos de cancelación y el procedimiento para cambios de itinerario. Pregunte quién coordina el viaje y qué parte proporciona cada servicio principal. Comente qué sucede si una conexión o actividad acordada no puede operar; evite tratar una alternativa como garantizada a menos que esté escrita en el arreglo. Mantenga una copia de la ruta confirmada y los términos. El objetivo es una comprensión compartida de lo que se reserva, lo que es condicional y lo que su grupo puede necesitar decidir más tarde. Compare también Brownsberg y Brokopondo y la Reserva Natural de Suriname Central según sus prioridades."
           ],
           [
             "Envíe un resumen que pueda convertirse en una ruta viable",
@@ -639,6 +687,14 @@
             "Alto Suriname"
           ],
           [
+            "/es/suriname/brownsberg-brokopondo/",
+            "Brownsberg y Brokopondo"
+          ],
+          [
+            "/es/suriname/reserva-natural-de-suriname-central/",
+            "Reserva Natural de Suriname Central"
+          ],
+          [
             "/es/contacto/",
             "Comparta sus planes"
           ]
@@ -655,6 +711,14 @@
           [
             "Alto Suriname",
             "/es/suriname/alto-suriname/"
+          ],
+          [
+            "Brownsberg y Brokopondo",
+            "/es/suriname/brownsberg-brokopondo/"
+          ],
+          [
+            "Reserva Natural de Suriname Central",
+            "/es/suriname/reserva-natural-de-suriname-central/"
           ]
         ],
         "hero": [

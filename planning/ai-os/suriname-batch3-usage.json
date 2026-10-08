@@ -1,0 +1,25 @@
+{
+  "model": "qwen3.5:9b",
+  "runs": [
+    {
+      "topic": "brownsberg-brokopondo",
+      "prompt_tokens": 2128,
+      "output_tokens": 2741,
+      "seconds": 121.56,
+      "retries": 0,
+      "cache_hits": 0,
+      "shape_pass": true
+    },
+    {
+      "topic": "central-suriname-nature-reserve",
+      "prompt_tokens": 2061,
+      "output_tokens": 2626,
+      "seconds": 110.09,
+      "retries": 0,
+      "cache_hits": 0,
+      "shape_pass": true
+    }
+  ],
+  "workflow_change": "Strict JSON schema with exact array lengths introduced after observed batch1 translation shape drift; raw results retained.",
+  "total_local_tokens": 9556
+}

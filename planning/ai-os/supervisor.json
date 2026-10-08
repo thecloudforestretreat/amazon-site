@@ -66,8 +66,8 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Review Suriname batch2 protected staging",
-    "Next batch candidates: Brownsberg/Brokopondo and Central Suriname Nature Reserve",
+    "Review Suriname batch3 protected staging",
+    "Next batch candidates: rainforest accommodation and community stays",
     "Retain Guyana production verification hold; no heartbeat production deployment"
   ],
   "future_batches": [
@@ -112,7 +112,7 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": "Suriname batch 2: Paramaribo and Upper Suriname",
-  "batch_status": "4 of 12 Suriname bilingual pairs staged; technical passed, visual/readback pending",
+  "batch_status": "6 of 12 Suriname bilingual pairs staged; technical passed, visual/readback pending",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",
@@ -451,5 +451,5 @@
     "inbox_delivery_confirmed": true
   },
   "active_country": "suriname",
-  "active_country_state": "planning/ai-os/guyana-progress.json"
+  "active_country_state": "planning/ai-os/suriname-progress.json"
 }
