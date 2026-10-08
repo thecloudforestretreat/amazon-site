@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-08",
+  "sources": [
+    {
+      "url": "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-amacayacu/",
+      "authority": "Parques Nacionales Naturales de Colombia",
+      "reviewed": "2026-10-08",
+      "fetch": "successful via web tool",
+      "facts_used": [
+        "Historical climate guidance: comparatively lower rainfall July/August, wetter toward April; not a forecast",
+        "Access guidance describes July–November low-water effects on the park route; not a universal calendar",
+        "Forest and river habitats; woolly monkeys recorded in park",
+        "Do not feed wildlife or join captive-wildlife displays; permission for photos of people"
+      ],
+      "excluded": [
+        "Species counts",
+        "Guaranteed encounters",
+        "Timetables/fares",
+        "Universal high-water month calendar"
+      ]
+    },
+    {
+      "url": "https://colombia.travel/es/puerto-narino",
+      "authority": "Colombia Travel official tourism board",
+      "reviewed": "2026-10-08",
+      "fetch": "successful via web tool",
+      "facts_used": [
+        "Tarapoto associated with Puerto Nariño and dolphin observation"
+      ],
+      "excluded": [
+        "Promotional assertions of effortless encounters or sightings"
+      ]
+    }
+  ],
+  "editorial_scope": "Practical itinerary comparisons and questions are original editorial guidance, distinguished from source facts. No medical, fare, schedule or availability claims.",
+  "image_review": {
+    "subjects": "Six actual images visually inspected; three distinct scenes per page. Landscape river/forest/canoe and macaws/sloth/caiman. No location-specific capture claims.",
+    "rights": "Owner-provided paid Adobe Express rights retained from image manifest",
+    "capture_geography": "Final destination-specific imagery pending",
+    "excluded_asset": "amazon-green-parrots-portrait: incompatible bird identification retained exclusion"
+  },
+  "rendered_review": "Browser retry blocked by unavailable admin-enforced policy check; no workaround used",
+  "authenticated_readback": "Pending"
+}

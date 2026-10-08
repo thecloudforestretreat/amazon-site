@@ -10,7 +10,7 @@
     "Colombia overview",
     "Trip planning",
     "Leticia",
-    "Puerto Nari\u00f1o",
+    "Puerto Nariño",
     "Amacayacu",
     "Tarapoto lakes",
     "Amazon accommodation",
@@ -24,19 +24,19 @@
     "Colombia overview",
     "Trip planning"
   ],
-  "staged_pairs": 8,
-  "status": "eight_pairs_staged_technical_pass_visual_pending",
+  "staged_pairs": 10,
+  "status": "ten_pairs_staged_technical_pass_visual_pending",
   "quality_standard": "Same shared CSS, meaningful bilingual content, contextual internal links, reviewed facts and licensed imagery; no repeated scene within a page",
-  "staged_pages": 16,
-  "deployment": "bda4d06c",
-  "previous_staging_deployment": "5ef5c8fe",
+  "staged_pages": 20,
+  "deployment": "ecf99752",
+  "previous_staging_deployment": "bda4d06c",
   "qa": {
-    "compiled_site_pages": 164,
-    "country_pages": 16,
+    "compiled_site_pages": 168,
+    "country_pages": 20,
     "errors": 0,
     "word_range": [
-      1556,
-      1856
+      1595,
+      1944
     ],
     "shared_css_tests": 4,
     "distinct_images_per_page": 3,
@@ -46,18 +46,18 @@
     "authenticated_readback": "Pending",
     "image_review": "Visible subjects reviewed; destination-specific imagery pending before release",
     "main_content_inlink_range": [
-      7,
-      8
+      9,
+      10
     ]
   },
-  "local_tokens_recorded": 45139,
+  "local_tokens_recorded": 56844,
   "next_batch": [
-    "Best time to visit",
-    "Wildlife"
+    "How to get there",
+    "Packing"
   ],
   "second_batch": [
     "Leticia",
-    "Puerto Nari\u00f1o"
+    "Puerto Nariño"
   ],
   "third_batch": [
     "Amacayacu",
@@ -67,5 +67,9 @@
   "fourth_batch": [
     "Amazon accommodation",
     "River journeys"
+  ],
+  "fifth_batch": [
+    "Best time to visit",
+    "Wildlife"
   ]
 }

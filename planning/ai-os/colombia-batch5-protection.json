@@ -1,0 +1,31 @@
+{
+  "checks": [
+    {
+      "route": "/colombia/best-time-to-visit/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/colombia/mejor-epoca-para-visitar/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/colombia/wildlife/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/colombia/fauna/",
+      "status": 302,
+      "access_redirect": true
+    }
+  ],
+  "initial_attempt": {
+    "client": "urllib HEAD",
+    "route": "/colombia/best-time-to-visit/",
+    "status": 403,
+    "result": "Not counted as successful; curl HEAD subsequent checks confirmed Access redirects"
+  },
+  "authentication": "No credentials supplied; no protected content read"
+}

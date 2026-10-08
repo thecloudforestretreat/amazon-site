@@ -66,8 +66,8 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review of Colombia accommodation and river journeys EN/ES on protected staging",
-    "Next batch upon owner authorization: best time to visit and wildlife",
+    "Owner review of Colombia best-time-to-visit and wildlife EN/ES on protected staging",
+    "Next batch upon owner authorization: how to get there and packing",
     "Retain final destination imagery, rendered desktop/mobile QA and authenticated content readback before Colombia release"
   ],
   "future_batches": [
@@ -112,10 +112,10 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "Colombia overview",
-    "Trip planning"
+    "Colombia best time to visit",
+    "Colombia wildlife"
   ],
-  "batch_status": "Colombia overview and trip-planning EN/ES deployed protected staging 2485f373; technical QA passed, rendered review and authenticated readback pending",
+  "batch_status": "Colombia batch 5 EN/ES deployed protected staging ecf99752; technical QA passed, rendered review and authenticated readback pending",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",

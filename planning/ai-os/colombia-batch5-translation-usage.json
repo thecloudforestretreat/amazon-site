@@ -1,0 +1,27 @@
+{
+  "runs": [
+    {
+      "topic": "timing",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2615,
+      "output_tokens": 3220,
+      "seconds": 140.6,
+      "retries": 0,
+      "done_reason": "stop",
+      "prompt_cached_tokens": 0,
+      "cache_hit": false
+    },
+    {
+      "topic": "wildlife",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2599,
+      "output_tokens": 3271,
+      "seconds": 135.71,
+      "retries": 0,
+      "done_reason": "stop",
+      "prompt_cached_tokens": 0,
+      "cache_hit": false
+    }
+  ],
+  "total_local_tokens": 11705
+}

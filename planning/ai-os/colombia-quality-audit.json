@@ -1,17 +1,19 @@
 {
-  "pages_audited": 16,
+  "pages_audited": 20,
   "errors": [],
   "pages": [
     {
       "route": "/colombia/",
-      "main_words": 1556,
+      "main_words": 1595,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/",
         "/colombia/puerto-narino/",
         "/colombia/river-journeys/",
+        "/colombia/best-time-to-visit/",
         "/colombia/amacayacu/",
         "/colombia/plan-your-amazon-trip/",
+        "/colombia/wildlife/",
         "/colombia/leticia/",
         "/colombia/amazon-accommodation/",
         "/colombia/tarapoto-lakes/"
@@ -21,11 +23,13 @@
         "/brazil/",
         "/colombia/amacayacu/",
         "/colombia/amazon-accommodation/",
+        "/colombia/best-time-to-visit/",
         "/colombia/leticia/",
         "/colombia/plan-your-amazon-trip/",
         "/colombia/puerto-narino/",
         "/colombia/river-journeys/",
         "/colombia/tarapoto-lakes/",
+        "/colombia/wildlife/",
         "/contact/",
         "/ecuador/",
         "/peru/"
@@ -46,13 +50,15 @@
     },
     {
       "route": "/colombia/amacayacu/",
-      "main_words": 1572,
+      "main_words": 1611,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/colombia/",
         "/colombia/puerto-narino/",
         "/colombia/river-journeys/",
+        "/colombia/best-time-to-visit/",
         "/colombia/plan-your-amazon-trip/",
+        "/colombia/wildlife/",
         "/colombia/leticia/",
         "/colombia/amazon-accommodation/",
         "/colombia/tarapoto-lakes/"
@@ -61,11 +67,13 @@
         "/",
         "/colombia/",
         "/colombia/amazon-accommodation/",
+        "/colombia/best-time-to-visit/",
         "/colombia/leticia/",
         "/colombia/plan-your-amazon-trip/",
         "/colombia/puerto-narino/",
         "/colombia/river-journeys/",
         "/colombia/tarapoto-lakes/",
+        "/colombia/wildlife/",
         "/contact/"
       ],
       "css": [
@@ -84,14 +92,16 @@
     },
     {
       "route": "/colombia/amazon-accommodation/",
-      "main_words": 1625,
+      "main_words": 1664,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/colombia/",
         "/colombia/puerto-narino/",
         "/colombia/river-journeys/",
+        "/colombia/best-time-to-visit/",
         "/colombia/amacayacu/",
         "/colombia/plan-your-amazon-trip/",
+        "/colombia/wildlife/",
         "/colombia/leticia/",
         "/colombia/tarapoto-lakes/"
       ],
@@ -99,11 +109,55 @@
         "/",
         "/colombia/",
         "/colombia/amacayacu/",
+        "/colombia/best-time-to-visit/",
         "/colombia/leticia/",
         "/colombia/plan-your-amazon-trip/",
         "/colombia/puerto-narino/",
         "/colombia/river-journeys/",
         "/colombia/tarapoto-lakes/",
+        "/colombia/wildlife/",
+        "/contact/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/colombia.css?v=0f354fdc580d"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/colombia/best-time-to-visit/",
+      "main_words": 1672,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/colombia/",
+        "/colombia/puerto-narino/",
+        "/colombia/river-journeys/",
+        "/colombia/amacayacu/",
+        "/colombia/plan-your-amazon-trip/",
+        "/colombia/wildlife/",
+        "/colombia/leticia/",
+        "/colombia/amazon-accommodation/",
+        "/colombia/tarapoto-lakes/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/colombia/",
+        "/colombia/amacayacu/",
+        "/colombia/amazon-accommodation/",
+        "/colombia/leticia/",
+        "/colombia/plan-your-amazon-trip/",
+        "/colombia/puerto-narino/",
+        "/colombia/river-journeys/",
+        "/colombia/tarapoto-lakes/",
+        "/colombia/wildlife/",
         "/contact/"
       ],
       "css": [
@@ -122,14 +176,16 @@
     },
     {
       "route": "/colombia/leticia/",
-      "main_words": 1602,
+      "main_words": 1641,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/colombia/",
         "/colombia/puerto-narino/",
         "/colombia/river-journeys/",
+        "/colombia/best-time-to-visit/",
         "/colombia/amacayacu/",
         "/colombia/plan-your-amazon-trip/",
+        "/colombia/wildlife/",
         "/colombia/amazon-accommodation/",
         "/colombia/tarapoto-lakes/"
       ],
@@ -138,10 +194,12 @@
         "/colombia/",
         "/colombia/amacayacu/",
         "/colombia/amazon-accommodation/",
+        "/colombia/best-time-to-visit/",
         "/colombia/plan-your-amazon-trip/",
         "/colombia/puerto-narino/",
         "/colombia/river-journeys/",
         "/colombia/tarapoto-lakes/",
+        "/colombia/wildlife/",
         "/contact/"
       ],
       "css": [
@@ -160,13 +218,15 @@
     },
     {
       "route": "/colombia/plan-your-amazon-trip/",
-      "main_words": 1571,
+      "main_words": 1610,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/colombia/",
         "/colombia/puerto-narino/",
         "/colombia/river-journeys/",
+        "/colombia/best-time-to-visit/",
         "/colombia/amacayacu/",
+        "/colombia/wildlife/",
         "/colombia/leticia/",
         "/colombia/amazon-accommodation/",
         "/colombia/tarapoto-lakes/"
@@ -177,10 +237,12 @@
         "/colombia/",
         "/colombia/amacayacu/",
         "/colombia/amazon-accommodation/",
+        "/colombia/best-time-to-visit/",
         "/colombia/leticia/",
         "/colombia/puerto-narino/",
         "/colombia/river-journeys/",
         "/colombia/tarapoto-lakes/",
+        "/colombia/wildlife/",
         "/contact/",
         "/ecuador/",
         "/peru/"
@@ -201,13 +263,15 @@
     },
     {
       "route": "/colombia/puerto-narino/",
-      "main_words": 1613,
+      "main_words": 1652,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/colombia/",
         "/colombia/river-journeys/",
+        "/colombia/best-time-to-visit/",
         "/colombia/amacayacu/",
         "/colombia/plan-your-amazon-trip/",
+        "/colombia/wildlife/",
         "/colombia/leticia/",
         "/colombia/amazon-accommodation/",
         "/colombia/tarapoto-lakes/"
@@ -217,10 +281,12 @@
         "/colombia/",
         "/colombia/amacayacu/",
         "/colombia/amazon-accommodation/",
+        "/colombia/best-time-to-visit/",
         "/colombia/leticia/",
         "/colombia/plan-your-amazon-trip/",
         "/colombia/river-journeys/",
         "/colombia/tarapoto-lakes/",
+        "/colombia/wildlife/",
         "/contact/"
       ],
       "css": [
@@ -239,13 +305,15 @@
     },
     {
       "route": "/colombia/river-journeys/",
-      "main_words": 1623,
+      "main_words": 1662,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/colombia/",
         "/colombia/puerto-narino/",
+        "/colombia/best-time-to-visit/",
         "/colombia/amacayacu/",
         "/colombia/plan-your-amazon-trip/",
+        "/colombia/wildlife/",
         "/colombia/leticia/",
         "/colombia/amazon-accommodation/",
         "/colombia/tarapoto-lakes/"
@@ -255,10 +323,12 @@
         "/colombia/",
         "/colombia/amacayacu/",
         "/colombia/amazon-accommodation/",
+        "/colombia/best-time-to-visit/",
         "/colombia/leticia/",
         "/colombia/plan-your-amazon-trip/",
         "/colombia/puerto-narino/",
         "/colombia/tarapoto-lakes/",
+        "/colombia/wildlife/",
         "/contact/"
       ],
       "css": [
@@ -277,14 +347,16 @@
     },
     {
       "route": "/colombia/tarapoto-lakes/",
-      "main_words": 1600,
+      "main_words": 1639,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/colombia/",
         "/colombia/puerto-narino/",
         "/colombia/river-journeys/",
+        "/colombia/best-time-to-visit/",
         "/colombia/amacayacu/",
         "/colombia/plan-your-amazon-trip/",
+        "/colombia/wildlife/",
         "/colombia/leticia/",
         "/colombia/amazon-accommodation/"
       ],
@@ -293,10 +365,54 @@
         "/colombia/",
         "/colombia/amacayacu/",
         "/colombia/amazon-accommodation/",
+        "/colombia/best-time-to-visit/",
         "/colombia/leticia/",
         "/colombia/plan-your-amazon-trip/",
         "/colombia/puerto-narino/",
         "/colombia/river-journeys/",
+        "/colombia/wildlife/",
+        "/contact/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/colombia.css?v=0f354fdc580d"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/colombia/wildlife/",
+      "main_words": 1657,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/colombia/",
+        "/colombia/puerto-narino/",
+        "/colombia/river-journeys/",
+        "/colombia/best-time-to-visit/",
+        "/colombia/amacayacu/",
+        "/colombia/plan-your-amazon-trip/",
+        "/colombia/leticia/",
+        "/colombia/amazon-accommodation/",
+        "/colombia/tarapoto-lakes/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/colombia/",
+        "/colombia/amacayacu/",
+        "/colombia/amazon-accommodation/",
+        "/colombia/best-time-to-visit/",
+        "/colombia/leticia/",
+        "/colombia/plan-your-amazon-trip/",
+        "/colombia/puerto-narino/",
+        "/colombia/river-journeys/",
+        "/colombia/tarapoto-lakes/",
         "/contact/"
       ],
       "css": [
@@ -315,13 +431,15 @@
     },
     {
       "route": "/es/colombia/",
-      "main_words": 1764,
+      "main_words": 1808,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/",
         "/es/colombia/puerto-narino/",
         "/es/colombia/viajes-fluviales/",
         "/es/colombia/alojamientos-amazonicos/",
+        "/es/colombia/fauna/",
+        "/es/colombia/mejor-epoca-para-visitar/",
         "/es/colombia/lagos-de-tarapoto/",
         "/es/colombia/amacayacu/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
@@ -332,8 +450,10 @@
         "/es/brazil/",
         "/es/colombia/alojamientos-amazonicos/",
         "/es/colombia/amacayacu/",
+        "/es/colombia/fauna/",
         "/es/colombia/lagos-de-tarapoto/",
         "/es/colombia/leticia/",
+        "/es/colombia/mejor-epoca-para-visitar/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
         "/es/colombia/puerto-narino/",
         "/es/colombia/viajes-fluviales/",
@@ -357,12 +477,14 @@
     },
     {
       "route": "/es/colombia/alojamientos-amazonicos/",
-      "main_words": 1856,
+      "main_words": 1900,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/colombia/",
         "/es/colombia/puerto-narino/",
         "/es/colombia/viajes-fluviales/",
+        "/es/colombia/fauna/",
+        "/es/colombia/mejor-epoca-para-visitar/",
         "/es/colombia/lagos-de-tarapoto/",
         "/es/colombia/amacayacu/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
@@ -372,8 +494,10 @@
         "/es/",
         "/es/colombia/",
         "/es/colombia/amacayacu/",
+        "/es/colombia/fauna/",
         "/es/colombia/lagos-de-tarapoto/",
         "/es/colombia/leticia/",
+        "/es/colombia/mejor-epoca-para-visitar/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
         "/es/colombia/puerto-narino/",
         "/es/colombia/viajes-fluviales/",
@@ -395,13 +519,15 @@
     },
     {
       "route": "/es/colombia/amacayacu/",
-      "main_words": 1804,
+      "main_words": 1848,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/colombia/",
         "/es/colombia/puerto-narino/",
         "/es/colombia/viajes-fluviales/",
         "/es/colombia/alojamientos-amazonicos/",
+        "/es/colombia/fauna/",
+        "/es/colombia/mejor-epoca-para-visitar/",
         "/es/colombia/lagos-de-tarapoto/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
         "/es/colombia/leticia/"
@@ -410,8 +536,52 @@
         "/es/",
         "/es/colombia/",
         "/es/colombia/alojamientos-amazonicos/",
+        "/es/colombia/fauna/",
         "/es/colombia/lagos-de-tarapoto/",
         "/es/colombia/leticia/",
+        "/es/colombia/mejor-epoca-para-visitar/",
+        "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/colombia/puerto-narino/",
+        "/es/colombia/viajes-fluviales/",
+        "/es/contacto/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/colombia.css?v=0f354fdc580d"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/colombia/fauna/",
+      "main_words": 1944,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/colombia/",
+        "/es/colombia/puerto-narino/",
+        "/es/colombia/viajes-fluviales/",
+        "/es/colombia/alojamientos-amazonicos/",
+        "/es/colombia/mejor-epoca-para-visitar/",
+        "/es/colombia/lagos-de-tarapoto/",
+        "/es/colombia/amacayacu/",
+        "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/colombia/leticia/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/colombia/",
+        "/es/colombia/alojamientos-amazonicos/",
+        "/es/colombia/amacayacu/",
+        "/es/colombia/lagos-de-tarapoto/",
+        "/es/colombia/leticia/",
+        "/es/colombia/mejor-epoca-para-visitar/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
         "/es/colombia/puerto-narino/",
         "/es/colombia/viajes-fluviales/",
@@ -433,13 +603,15 @@
     },
     {
       "route": "/es/colombia/lagos-de-tarapoto/",
-      "main_words": 1842,
+      "main_words": 1886,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/colombia/",
         "/es/colombia/puerto-narino/",
         "/es/colombia/viajes-fluviales/",
         "/es/colombia/alojamientos-amazonicos/",
+        "/es/colombia/fauna/",
+        "/es/colombia/mejor-epoca-para-visitar/",
         "/es/colombia/amacayacu/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
         "/es/colombia/leticia/"
@@ -449,7 +621,9 @@
         "/es/colombia/",
         "/es/colombia/alojamientos-amazonicos/",
         "/es/colombia/amacayacu/",
+        "/es/colombia/fauna/",
         "/es/colombia/leticia/",
+        "/es/colombia/mejor-epoca-para-visitar/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
         "/es/colombia/puerto-narino/",
         "/es/colombia/viajes-fluviales/",
@@ -471,13 +645,15 @@
     },
     {
       "route": "/es/colombia/leticia/",
-      "main_words": 1799,
+      "main_words": 1843,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/colombia/",
         "/es/colombia/puerto-narino/",
         "/es/colombia/viajes-fluviales/",
         "/es/colombia/alojamientos-amazonicos/",
+        "/es/colombia/fauna/",
+        "/es/colombia/mejor-epoca-para-visitar/",
         "/es/colombia/lagos-de-tarapoto/",
         "/es/colombia/amacayacu/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/"
@@ -487,7 +663,51 @@
         "/es/colombia/",
         "/es/colombia/alojamientos-amazonicos/",
         "/es/colombia/amacayacu/",
+        "/es/colombia/fauna/",
         "/es/colombia/lagos-de-tarapoto/",
+        "/es/colombia/mejor-epoca-para-visitar/",
+        "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/colombia/puerto-narino/",
+        "/es/colombia/viajes-fluviales/",
+        "/es/contacto/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/colombia.css?v=0f354fdc580d"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/colombia/mejor-epoca-para-visitar/",
+      "main_words": 1944,
+      "h2_sections": 14,
+      "main_content_inlinks": [
+        "/es/colombia/",
+        "/es/colombia/puerto-narino/",
+        "/es/colombia/viajes-fluviales/",
+        "/es/colombia/alojamientos-amazonicos/",
+        "/es/colombia/fauna/",
+        "/es/colombia/lagos-de-tarapoto/",
+        "/es/colombia/amacayacu/",
+        "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+        "/es/colombia/leticia/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/colombia/",
+        "/es/colombia/alojamientos-amazonicos/",
+        "/es/colombia/amacayacu/",
+        "/es/colombia/fauna/",
+        "/es/colombia/lagos-de-tarapoto/",
+        "/es/colombia/leticia/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
         "/es/colombia/puerto-narino/",
         "/es/colombia/viajes-fluviales/",
@@ -509,13 +729,15 @@
     },
     {
       "route": "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
-      "main_words": 1749,
+      "main_words": 1793,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/colombia/",
         "/es/colombia/puerto-narino/",
         "/es/colombia/viajes-fluviales/",
         "/es/colombia/alojamientos-amazonicos/",
+        "/es/colombia/fauna/",
+        "/es/colombia/mejor-epoca-para-visitar/",
         "/es/colombia/lagos-de-tarapoto/",
         "/es/colombia/amacayacu/",
         "/es/colombia/leticia/"
@@ -526,8 +748,10 @@
         "/es/colombia/",
         "/es/colombia/alojamientos-amazonicos/",
         "/es/colombia/amacayacu/",
+        "/es/colombia/fauna/",
         "/es/colombia/lagos-de-tarapoto/",
         "/es/colombia/leticia/",
+        "/es/colombia/mejor-epoca-para-visitar/",
         "/es/colombia/puerto-narino/",
         "/es/colombia/viajes-fluviales/",
         "/es/contacto/",
@@ -550,12 +774,14 @@
     },
     {
       "route": "/es/colombia/puerto-narino/",
-      "main_words": 1816,
+      "main_words": 1860,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/colombia/",
         "/es/colombia/viajes-fluviales/",
         "/es/colombia/alojamientos-amazonicos/",
+        "/es/colombia/fauna/",
+        "/es/colombia/mejor-epoca-para-visitar/",
         "/es/colombia/lagos-de-tarapoto/",
         "/es/colombia/amacayacu/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
@@ -566,8 +792,10 @@
         "/es/colombia/",
         "/es/colombia/alojamientos-amazonicos/",
         "/es/colombia/amacayacu/",
+        "/es/colombia/fauna/",
         "/es/colombia/lagos-de-tarapoto/",
         "/es/colombia/leticia/",
+        "/es/colombia/mejor-epoca-para-visitar/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
         "/es/colombia/viajes-fluviales/",
         "/es/contacto/"
@@ -588,12 +816,14 @@
     },
     {
       "route": "/es/colombia/viajes-fluviales/",
-      "main_words": 1822,
+      "main_words": 1866,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/colombia/",
         "/es/colombia/puerto-narino/",
         "/es/colombia/alojamientos-amazonicos/",
+        "/es/colombia/fauna/",
+        "/es/colombia/mejor-epoca-para-visitar/",
         "/es/colombia/lagos-de-tarapoto/",
         "/es/colombia/amacayacu/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
@@ -604,8 +834,10 @@
         "/es/colombia/",
         "/es/colombia/alojamientos-amazonicos/",
         "/es/colombia/amacayacu/",
+        "/es/colombia/fauna/",
         "/es/colombia/lagos-de-tarapoto/",
         "/es/colombia/leticia/",
+        "/es/colombia/mejor-epoca-para-visitar/",
         "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
         "/es/colombia/puerto-narino/",
         "/es/contacto/"

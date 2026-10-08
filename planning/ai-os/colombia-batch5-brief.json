@@ -1,0 +1,16 @@
+{
+  "batch": 5,
+  "date": "2026-10-08",
+  "owner_authorized": true,
+  "country": "colombia",
+  "topics": [
+    "Best time to visit",
+    "Wildlife"
+  ],
+  "environment": "Protected staging only",
+  "quality": "Nine substantive sections, four FAQs, contextual links, reviewed facts, shared CSS; distinct image scenes per page",
+  "next_batch": [
+    "How to get there",
+    "Packing"
+  ]
+}

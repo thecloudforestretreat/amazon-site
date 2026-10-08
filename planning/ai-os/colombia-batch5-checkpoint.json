@@ -1,0 +1,77 @@
+{
+  "batch": 5,
+  "date": "2026-10-08",
+  "country": "colombia",
+  "deployment": "ecf99752",
+  "rollback_deployment": "bda4d06c",
+  "staging_only": true,
+  "checks": {
+    "compiled_html_pages": 168,
+    "colombia_pages": 20,
+    "country_audit_errors": 0,
+    "shared_css_tests_passed": 4,
+    "shared_css_modified": false,
+    "production_containment_passed": true,
+    "production_compiled_html_pages": 148,
+    "access_redirects": 4,
+    "images_distinct_per_page": 3,
+    "desktop_mobile_visual_review": "Blocked: browser admin policy could not be verified",
+    "authenticated_content_readback": "Pending"
+  },
+  "editorial_review": [
+    "Nine substantive sections and four matching visible/schema FAQs on each new guide",
+    "Seasonal rainfall background distinguished from river-level route conditions and departure-specific forecasts",
+    "Responsible habitat observation; no guaranteed species or invented sightings rates",
+    "Local Spanish translation reviewed and literal guiding/transfer phrasing and grammar corrected",
+    "Eight existing pairs link to the new guides; shared global and cluster CSS unchanged"
+  ],
+  "usage": {
+    "runs": [
+      {
+        "topic": "timing",
+        "model": "qwen3.5:9b",
+        "prompt_tokens": 2615,
+        "output_tokens": 3220,
+        "seconds": 140.6,
+        "retries": 0,
+        "done_reason": "stop",
+        "prompt_cached_tokens": 0,
+        "cache_hit": false
+      },
+      {
+        "topic": "wildlife",
+        "model": "qwen3.5:9b",
+        "prompt_tokens": 2599,
+        "output_tokens": 3271,
+        "seconds": 135.71,
+        "retries": 0,
+        "done_reason": "stop",
+        "prompt_cached_tokens": 0,
+        "cache_hit": false
+      }
+    ],
+    "total_local_tokens": 11705
+  },
+  "deployment_history": [
+    {
+      "deployment": "e402f7fb",
+      "status": "Superseded by final Spanish FAQ grammatical corrections"
+    },
+    {
+      "deployment": "ecf99752",
+      "status": "Final copy, affected checks repeated and Access redirects confirmed"
+    }
+  ],
+  "source_hashes": {
+    "/colombia/best-time-to-visit/": "572fcd6c4fb040f711956e146066a4abd3e5c58a5f103f82bcb065f7460f78be",
+    "/es/colombia/mejor-epoca-para-visitar/": "008bdc8cbf0ef54e933ea6062e97d92b3e6c78b6b657217daa5d7e54791dca43",
+    "/colombia/wildlife/": "bd2ff003823aef645e21c999e77c0b8028e49246df154ab1ead80c225bb51508",
+    "/es/colombia/fauna/": "397ccdaa05d4661e200db5ec4cf0a71a980d6e628b01f930f963b54835036224"
+  },
+  "release_holds": [
+    "Destination-specific image verification",
+    "Rendered desktop/mobile review",
+    "Authenticated staging readback",
+    "Full country release QA and owner authorization"
+  ]
+}

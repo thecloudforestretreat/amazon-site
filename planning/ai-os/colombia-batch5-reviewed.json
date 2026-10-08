@@ -1,0 +1,972 @@
+{
+  "editorial_status": "reviewed",
+  "review_date": "2026-10-08",
+  "images": {
+    "amazon-meandering-river-forest-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-meandering-river-forest-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Overhead view of a meandering river and dense forest",
+        "es": "Vista aérea de un río sinuoso y bosque denso"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "a1e97aa25fc6df7f93c10e1788fb0b2cc89b6267c9452399fc5980429a1ab921",
+      "web_sha256": "2326d50fbc88176447ba1685ef2bdf9376b5425667da0470822a3a8ed85f96fe",
+      "original_bytes": 670865,
+      "web_bytes": 512448
+    },
+    "amazon-canoe-floating-vegetation": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-canoe-floating-vegetation.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "A paddler guiding a canoe through floating vegetation",
+        "es": "Persona guiando una canoa entre vegetación flotante"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c07bce58422bec9dfba2bd58c733f908bacd634b6b12e5daaa3c5e808ccd3b0a",
+      "web_sha256": "3c95b2955c2852c4d7bccb22a390eaca6b27af4b4c12f6319cf3e6a9185b8d3a",
+      "original_bytes": 861832,
+      "web_bytes": 705686
+    },
+    "amazon-river-palm-forest": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-river-palm-forest.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Palms and dense forest along a riverbank",
+        "es": "Palmeras y bosque denso junto a la orilla de un río"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "b1be430192a6e7d2a6f87feb13dd7bc6bdb89b0983d5c48a005356db5807741f",
+      "web_sha256": "ab9feee6239a89246f52c0eb2beba9343c94a8bd572d457d0b639618521db197",
+      "original_bytes": 659469,
+      "web_bytes": 508908
+    },
+    "amazon-blue-and-yellow-macaws-portrait": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-blue-and-yellow-macaws-portrait.webp",
+      "width": 1440,
+      "height": 1800,
+      "alt": {
+        "en": "Blue-and-yellow macaws perched in a tree",
+        "es": "Guacamayos azules y amarillos posados en un árbol"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c655d027f0b3800fa46eddf0ff3ecbf3ef59701a4612f7108960a7a2be2006ed",
+      "web_sha256": "546f39d9dc611b043ec623bb6bb9f71ea752cf4da637ddc3a4fa0db19f893100",
+      "original_bytes": 495727,
+      "web_bytes": 476398
+    },
+    "sloth-in-tree-portrait": {
+      "src": "/assets/images/pages/countries/brazil/optimized/sloth-in-tree-portrait.webp",
+      "width": 1440,
+      "height": 1800,
+      "alt": {
+        "en": "A sloth hanging from a tree branch",
+        "es": "Perezoso colgado de una rama"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c89192a7c86820379f60fa20343fb3b95a3c5b0a47c43648f4fefbb651b4c439",
+      "web_sha256": "40a7313e307d0c280fbf898ddf2a0cb9b02242a1a2a76c586c2204750c9070e0",
+      "original_bytes": 429838,
+      "web_bytes": 409496
+    },
+    "caiman-overhead-portrait": {
+      "src": "/assets/images/pages/countries/brazil/optimized/caiman-overhead-portrait.webp",
+      "width": 1440,
+      "height": 1800,
+      "alt": {
+        "en": "A caiman viewed from above in shallow water",
+        "es": "Caimán visto desde arriba en aguas poco profundas"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "ba3c186d7d6aea0db02fafd1463fac20968183e9aa6706f01106d83fc1deaa84",
+      "web_sha256": "c85eb404180c4476e7353223fe392359ba4c7c9cdf20dea032dd7461e96633b0",
+      "original_bytes": 224091,
+      "web_bytes": 185572
+    }
+  },
+  "pages": {
+    "timing": {
+      "en": {
+        "type": "planning-guide",
+        "pair_id": "colombia_timing_001",
+        "hero": [
+          "amazon-meandering-river-forest-aerial",
+          "Overhead view of a meandering river and dense forest"
+        ],
+        "features": {
+          "1": [
+            "amazon-canoe-floating-vegetation",
+            "A paddler guiding a canoe through floating vegetation"
+          ],
+          "4": [
+            "amazon-river-palm-forest",
+            "Palms and dense forest along a riverbank"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Parques Nacionales Naturales: Amacayacu",
+            "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-amacayacu/"
+          ],
+          [
+            "Colombia Travel: Puerto Nariño",
+            "https://colombia.travel/es/puerto-narino"
+          ]
+        ],
+        "scope": "Guidance reviewed October 8, 2026. Seasonal descriptions are regional background, not a forecast or an access guarantee. Confirm the actual route and services for your dates.",
+        "slug": "best-time-to-visit",
+        "h1": "Best time to visit the Colombian Amazon",
+        "title": "Best Time to Visit Colombia’s Amazon | Experience The Amazon",
+        "description": "Choose Colombian Amazon travel dates by rainfall, river conditions, wildlife interests and a workable Leticia–Puerto Nariño itinerary.",
+        "lede": "Match your dates to the journey you want. Understand what seasonal patterns can tell you, what requires a current local check and how to keep the route coherent.",
+        "quick": [
+          "When should you visit?",
+          "Choose dates around your priority activities and a workable route. Rainfall patterns and river levels are different considerations; confirm access and current arrangements for each outing rather than relying on one best-month label."
+        ],
+        "choices_heading": "Plan around your priorities",
+        "choices": [
+          [
+            "Trip planning",
+            "Bring dates, nights and outings into one route.",
+            "/colombia/plan-your-amazon-trip/"
+          ],
+          [
+            "Wildlife and habitats",
+            "Build meaningful time for observation.",
+            "/colombia/wildlife/"
+          ],
+          [
+            "River journeys",
+            "Coordinate access with actual excursion time.",
+            "/colombia/river-journeys/"
+          ]
+        ],
+        "links": [
+          [
+            "/colombia/",
+            "Colombia overview"
+          ],
+          [
+            "/colombia/plan-your-amazon-trip/",
+            "Trip planning"
+          ],
+          [
+            "/colombia/leticia/",
+            "Leticia"
+          ],
+          [
+            "/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/contact/",
+            "Share your plans"
+          ],
+          [
+            "/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/colombia/tarapoto-lakes/",
+            "Tarapoto lakes"
+          ],
+          [
+            "/colombia/amazon-accommodation/",
+            "Accommodation"
+          ],
+          [
+            "/colombia/river-journeys/",
+            "River journeys"
+          ],
+          [
+            "/colombia/best-time-to-visit/",
+            "Best time to visit"
+          ],
+          [
+            "/colombia/wildlife/",
+            "Wildlife"
+          ]
+        ],
+        "context_links": [
+          [
+            "Colombia overview",
+            "/colombia/"
+          ],
+          [
+            "Colombia trip-planning guide",
+            "/colombia/plan-your-amazon-trip/"
+          ],
+          [
+            "Leticia guide",
+            "/colombia/leticia/"
+          ],
+          [
+            "Puerto Nariño guide",
+            "/colombia/puerto-narino/"
+          ],
+          [
+            "Amacayacu guide",
+            "/colombia/amacayacu/"
+          ],
+          [
+            "Tarapoto lakes guide",
+            "/colombia/tarapoto-lakes/"
+          ],
+          [
+            "Amazon accommodation guide",
+            "/colombia/amazon-accommodation/"
+          ],
+          [
+            "river journeys guide",
+            "/colombia/river-journeys/"
+          ],
+          [
+            "best time to visit guide",
+            "/colombia/best-time-to-visit/"
+          ],
+          [
+            "wildlife guide",
+            "/colombia/wildlife/"
+          ],
+          [
+            "an inquiry",
+            "/contact/"
+          ]
+        ],
+        "cta": [
+          "Choose dates for a meaningful journey",
+          "Tell us your travel window and priorities so the route, overnight settings and outings can be considered together."
+        ],
+        "faqs": [
+          [
+            "Is there one best month for Colombia’s Amazon?",
+            "No single month suits every itinerary. Compare your desired activities with a workable route, current conditions and confirmed services for your dates."
+          ],
+          [
+            "Are July and August guaranteed to be dry?",
+            "No. Amacayacu’s official climate guidance describes lower historical rainfall in those months, but rain remains possible. The pattern is not a departure-specific forecast."
+          ],
+          [
+            "Does less rain mean easier river access?",
+            "Not automatically. Check current conditions for each route. Rainfall and river level answer different questions, and lower water can change transfer arrangements."
+          ],
+          [
+            "Can we plan a good trip with fixed dates?",
+            "Yes: build a coherent route around your available days and priorities. Confirm practical alternatives with the organizer rather than trying to include every possible seasonal activity."
+          ]
+        ],
+        "sections": [
+          [
+            "Choose dates around the experience you value",
+            "There is no single best month for every Colombian Amazon journey. A traveler prioritizing river landscapes may make different choices from someone wanting sustained forest walks or a particular photographic project. Start with the Colombia overview and decide which experiences matter most. Then compare a workable route for your dates, including where you sleep and the time available for each outing, rather than choosing a month from a general ranking.",
+            "For the Leticia and Puerto Nariño circuit, distinguish the weather you may experience from the water conditions that affect a route. Rainfall, river access and a comfortable pace are separate planning questions. A useful proposal explains how the intended activities fit together and what can change. If your dates are fixed, focus on a coherent journey within that window instead of treating the whole trip as a compromise because it falls outside a recommended season."
+          ],
+          [
+            "Drier does not mean dry",
+            "Amacayacu’s official park guidance describes a humid equatorial climate and historical rainfall records with lower totals in July and August and a wetter period toward April. These records describe a regional pattern, not a forecast for a particular departure. Rain can still affect a visit during the comparatively drier period. Treat a seasonal label as background information rather than a promise of uninterrupted sunshine.",
+            "Plan clothing and equipment protection for the activities agreed with your guide. Keep a change of essential items accessible when traveling between bases, and clarify where wet belongings can be managed during the stay. A flexible day can preserve meaningful exploration when rain changes the sequence. For photography, discuss the subjects and settings you want rather than choosing dates only for an expectation of clear skies; an appealing landscape and a comfortable outing need different practical decisions."
+          ],
+          [
+            "Rainfall and river level answer different questions",
+            "The Amacayacu guide is a useful starting point for understanding why water conditions matter to transfers. The park’s access guidance notes that low water between July and November can alter journey times. That statement concerns the route described by the park; it does not establish a fixed calendar for every tributary, lake or landing. Avoid applying one seasonal diagram to all the places on your proposed itinerary.",
+            "For each river leg, ask the organizer what current conditions mean for the actual departure point, craft and destination. Identify whether a change affects only the transfer or also the activity itself. Keep the purpose clear: reaching a host, spending time on a lake or taking a guided excursion are distinct tasks. Current local assessment is more useful than assuming that a rainfall forecast confirms access to every intended stop."
+          ],
+          [
+            "Higher water: ask which routes become practical",
+            "If the organizer proposes an outing that depends on higher water, request a clear description of the setting and why conditions matter. Ask whether the planned visit uses a main channel, a smaller waterway or an area reached only under suitable conditions. Identify what is expected for your dates and what will be checked nearer departure. An itinerary should not present every possible flooded-forest experience as operating throughout the year.",
+            "Discuss the alternative with the same attention as the preferred route. A changed landing or a different observation setting may still support a rewarding excursion, but the group should understand the new sequence and time involved. Use the river journeys guide to separate access from activity time. Favor a plan that explains its choices over one that simply adds an impressive seasonal description without confirming where the boat actually goes."
+          ],
+          [
+            "Lower water: check the transfer and walking plan",
+            "For a proposed lower-water visit, ask how the route connects the landing with the activity and accommodation. Check whether a different boarding point, additional leg or walk is expected, and explain any mobility or luggage-handling needs in advance. Do not assume lower water automatically makes every outing easier. The useful comparison concerns the particular route and the people traveling, rather than a broad claim that one season suits everyone.",
+            "If forest walking is important, ask about the planned trail, duration away from the base and options if conditions change. Review this alongside the Amazon accommodation guide so the overnight setting supports the outing. A journey with fewer transfers can leave more usable time for exploration, but only if the chosen base provides appropriate access. Compare the whole day, including arrival and return, instead of evaluating a walk independently of its transport."
+          ],
+          [
+            "Choose wildlife time, not a guaranteed wildlife month",
+            "Seasonal choices should support observation, without turning an animal encounter into a booking promise. Use the wildlife guide to decide whether you value lake exploration, forest interpretation or dedicated birdwatching. Ask the organizer which habitats and observation periods fit the route for your dates. A species mentioned in a destination guide indicates an interest to discuss; it does not establish that the animal will appear on a particular excursion.",
+            "For a Tarapoto lakes visit, compare useful time in the lake setting with time spent reaching it. For a forest outing, ask how the guide adapts the pace to the group’s interests. If a specific photograph matters, explain that early and accept that responsible viewing may not provide it. Build the journey around a worthwhile habitat experience and patient interpretation so an outing remains valuable when wildlife is distant or out of sight."
+          ],
+          [
+            "Fixed dates: make the route do the work",
+            "If school holidays, leave or another commitment fixes your window, use the Colombia trip-planning guide to arrange the nights and outings within it. State your arrival and departure constraints before choosing remote activities. Confirm which services can be arranged for that window and what happens if a preferred option is unavailable. Avoid packing every possible destination into a short visit just to compensate for uncertainty about seasonal conditions.",
+            "Leticia can form part of the arrival or return plan, while an upstream stay in Puerto Nariño gives a different base for agreed outings. Ask what each overnight location contributes and whether moving between them leaves enough useful activity time. Availability, transfer coordination and group comfort deserve the same attention as the month. Request the sequence and inclusions in writing before comparing prices, rather than inferring a complete itinerary from an attractive seasonal package title."
+          ],
+          [
+            "Keep the final connection realistic",
+            "Use the Leticia guide to review the gateway portion of the journey alongside the last river return. Confirm the intended landing, onward transport and responsible contact. Discuss whether returning to the gateway before the departure day is appropriate for the proposed route. There is no universal connection buffer that fits every itinerary; the decision should reflect the actual services and the consequences of a change.",
+            "Keep the return plan visible when comparing date options. An extra upstream activity may look appealing until it leaves an unnecessarily tight connection at the end. Ask how the organizer communicates changes and handles an altered sequence or inclusion. Book a trip whose last day makes sense as well as its first full outing. This is particularly useful when separate providers arrange the river leg and onward travel."
+          ],
+          [
+            "What to send when asking about dates",
+            "Send an inquiry with your earliest and latest possible dates, planned trip length and the activities you value most. Include whether the dates are flexible, your preferred pace and any essential boarding or walking requirements. Mention a photographic or birdwatching interest precisely enough to discuss a suitable setting. These details make a useful comparison possible without requiring the organizer to guess which version of an Amazon experience you want.",
+            "Ask for an itinerary suited to that window, the present assumptions about water conditions and the alternatives if a route changes. Confirm accommodation and transport availability separately from seasonal guidance. Recheck the agreed arrangements nearer departure with the responsible provider. Choosing well is about matching dates, access and interests in one coherent plan; a list of supposedly perfect months cannot replace that coordination."
+          ]
+        ]
+      },
+      "es": {
+        "type": "planning-guide",
+        "pair_id": "colombia_timing_001",
+        "hero": [
+          "amazon-meandering-river-forest-aerial",
+          "Vista aérea de un río sinuoso y bosque denso"
+        ],
+        "features": {
+          "1": [
+            "amazon-canoe-floating-vegetation",
+            "Persona guiando una canoa entre vegetación flotante"
+          ],
+          "4": [
+            "amazon-river-palm-forest",
+            "Palmeras y bosque denso junto a la orilla de un río"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Parques Nacionales Naturales: Amacayacu",
+            "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-amacayacu/"
+          ],
+          [
+            "Colombia Travel: Puerto Nariño",
+            "https://colombia.travel/es/puerto-narino"
+          ]
+        ],
+        "scope": "Orientación revisada el 8 de octubre de 2026. Las tendencias estacionales son información regional, no un pronóstico ni una garantía de acceso. Confirme las rutas y los servicios para sus fechas.",
+        "slug": "mejor-epoca-para-visitar",
+        "h1": "Mejor época para visitar la Amazonía colombiana",
+        "title": "Amazonía colombiana: cuándo viajar | Experience The Amazon",
+        "description": "Elija fechas para la Amazonía colombiana según lluvias, condiciones fluviales, intereses y una ruta viable entre Leticia y Puerto Nariño.",
+        "lede": "Ajuste sus fechas al viaje que desea. Comprenda qué patrones estacionales pueden indicarle, qué requiere una verificación local actual y cómo mantener la coherencia de la ruta.",
+        "quick": [
+          "¿Cuándo conviene viajar?",
+          "Elija fechas en torno a sus actividades prioritarias y una ruta viable. Los patrones de lluvia y los niveles del río son consideraciones diferentes; confirme el acceso y las disposiciones actuales para cada salida en lugar de depender de una etiqueta de 'mejor mes'."
+        ],
+        "choices_heading": "Planifique en función de sus prioridades",
+        "choices": [
+          [
+            "Planificación del viaje",
+            "Combine fechas, noches y actividades en una sola ruta.",
+            "/es/colombia/planifica-tu-viaje-a-la-amazonia/"
+          ],
+          [
+            "Fauna y hábitats",
+            "Reserve tiempo suficiente para observar los hábitats que le interesan.",
+            "/es/colombia/fauna/"
+          ],
+          [
+            "Viajes fluviales",
+            "Coordine el acceso con el tiempo real de las excursiones.",
+            "/es/colombia/viajes-fluviales/"
+          ]
+        ],
+        "links": [
+          [
+            "/es/colombia/",
+            "Resumen de Colombia"
+          ],
+          [
+            "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+            "Planificación del viaje"
+          ],
+          [
+            "/es/colombia/leticia/",
+            "Leticia"
+          ],
+          [
+            "/es/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/es/contacto/",
+            "Comparta sus planes"
+          ],
+          [
+            "/es/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/es/colombia/lagos-de-tarapoto/",
+            "Lagos de Tarapoto"
+          ],
+          [
+            "/es/colombia/alojamientos-amazonicos/",
+            "Alojamiento"
+          ],
+          [
+            "/es/colombia/viajes-fluviales/",
+            "Viajes fluviales"
+          ],
+          [
+            "/es/colombia/mejor-epoca-para-visitar/",
+            "Mejor época para visitar"
+          ],
+          [
+            "/es/colombia/fauna/",
+            "Fauna"
+          ]
+        ],
+        "context_links": [
+          [
+            "resumen de Colombia",
+            "/es/colombia/"
+          ],
+          [
+            "guía de planificación del viaje a Colombia",
+            "/es/colombia/planifica-tu-viaje-a-la-amazonia/"
+          ],
+          [
+            "guía de Leticia",
+            "/es/colombia/leticia/"
+          ],
+          [
+            "guía de Amacayacu",
+            "/es/colombia/amacayacu/"
+          ],
+          [
+            "guía de alojamiento en el Amazonas",
+            "/es/colombia/alojamientos-amazonicos/"
+          ],
+          [
+            "guía de viajes fluviales",
+            "/es/colombia/viajes-fluviales/"
+          ],
+          [
+            "guía de fauna",
+            "/es/colombia/fauna/"
+          ],
+          [
+            "una consulta",
+            "/es/contacto/"
+          ]
+        ],
+        "cta": [
+          "Elija fechas que encajen con su viaje",
+          "Comparta sus fechas y prioridades para combinar la ruta, los alojamientos y las actividades."
+        ],
+        "faqs": [
+          [
+            "¿Existe un mes único ideal para el Amazonas de Colombia?",
+            "No hay un mes único que convenga a todos los itinerarios. Compare sus actividades deseadas con una ruta viable, las condiciones actuales y los servicios confirmados para sus fechas."
+          ],
+          [
+            "¿Están garantizados julio y agosto como meses secos?",
+            "No. La guía oficial del clima del parque Amacayacu describe menores precipitaciones históricas en esos meses, pero la lluvia sigue siendo posible. El patrón no es un pronóstico específico para sus fechas."
+          ],
+          [
+            "¿Significa menos lluvia un acceso fluvial más fácil?",
+            "No automáticamente. Verifique las condiciones actuales para cada ruta. La lluvia y el nivel del río responden a preguntas diferentes, y las aguas bajas pueden cambiar las condiciones de traslado."
+          ],
+          [
+            "¿Podemos planificar un buen viaje con fechas fijas?",
+            "Sí: organice una ruta coherente en torno a sus días disponibles y prioridades. Confirme las alternativas prácticas con el organizador en lugar de intentar incluir todas las actividades estacionales posibles."
+          ]
+        ],
+        "sections": [
+          [
+            "Elija fechas según la experiencia que busca",
+            "No hay un mes único ideal para cada viaje al Amazonas colombiano. Un viajero que priorice los paisajes fluviales puede tomar decisiones diferentes de alguien que busque caminatas prolongadas por el bosque o un proyecto fotográfico específico. Comience con el resumen de Colombia y decida qué experiencias son más importantes. Luego, compare una ruta viable para sus fechas, incluyendo dónde dormir y el tiempo disponible para cada salida, en lugar de elegir un mes desde una clasificación general.",
+            "Para el circuito entre Leticia y Puerto Nariño, distinga el clima que puede experimentar de las condiciones del agua que afectan a la ruta. Las precipitaciones, el acceso fluvial y un ritmo cómodo son preguntas de planificación separadas. Una propuesta útil explica cómo encajan las actividades previstas y qué puede cambiar. Si sus fechas son fijas, centre su atención en un viaje coherente dentro del período disponible en lugar de tratar todo el viaje como una opción de menor calidad porque cae fuera de una temporada recomendada."
+          ],
+          [
+            "Menos lluvia no significa ausencia de lluvia",
+            "La guía oficial del parque Amacayacu describe un clima ecuatorial húmedo y registros históricos de precipitaciones con totales más bajos en julio y agosto y un período más lluvioso hacia abril. Estos registros describen un patrón regional, no un pronóstico para unas fechas concretas. La lluvia aún puede afectar a una visita durante el período relativamente seco. Trate una etiqueta estacional como información de referencia en lugar de una promesa de sol ininterrumpido.",
+            "Planifique la ropa y la protección del equipo para las actividades acordadas con su guía. Mantenga a mano una muda de ropa y sus objetos esenciales al viajar entre bases y aclare dónde se pueden gestionar las prendas mojadas durante la estancia. Un día flexible puede mantener tiempo útil para explorar cuando la lluvia cambia el orden. Para la fotografía, comente los motivos y entornos que desea en lugar de elegir fechas solo por una expectativa de cielos despejados; un paisaje atractivo y una salida cómoda requieren decisiones prácticas diferentes."
+          ],
+          [
+            "Lluvias y nivel del río: dos preguntas distintas",
+            "La guía de Amacayacu es un buen punto de partida para entender por qué las condiciones del agua son importantes para los traslados. La guía de acceso del parque señala que las aguas bajas entre julio y noviembre pueden alterar los tiempos de viaje. Esa afirmación se refiere a la ruta descrita por el parque; no establece un calendario fijo para cada afluente, lago o punto de desembarque. Evite aplicar un diagrama estacional único a todos los lugares de su itinerario propuesto.",
+            "Para cada tramo fluvial, pregunte al organizador qué significan las condiciones actuales para el punto de salida real, la embarcación y el destino. Identifique si un cambio afecta solo a el traslado o también a la actividad en sí. Mantenga claro el propósito: llegar a un anfitrión, pasar tiempo en un lago o realizar una excursión guiada son tareas distintas. Una evaluación local actual es más útil que asumir que una predicción de lluvia confirma el acceso a cada parada prevista."
+          ],
+          [
+            "Aguas altas: confirme las rutas previstas",
+            "Si el organizador propone una salida que depende de un nivel alto del agua, solicite una descripción clara del entorno y por qué importan las condiciones. Pregunte si la visita planificada utiliza un canal principal, una vía de agua más pequeña o un área alcanzada solo con condiciones adecuadas. Identifique lo que se espera para sus fechas y lo que se verificará cerca de la salida. Un itinerario no debe presentar todas las posibles experiencias de bosque inundable como disponibles durante todo el año.",
+            "Comente la alternativa con la misma atención que la ruta preferida. Un desembarco cambiado o un entorno de observación diferente aún pueden permitir una excursión gratificante, pero el grupo debe entender la nueva secuencia y el tiempo necesario. Utilice la guía de viajes fluviales para separar el acceso del tiempo de actividad. Prefiera un plan que explique sus decisiones en lugar de uno que simplemente añada una descripción estacional impresionante sin confirmar a dónde va realmente el bote."
+          ],
+          [
+            "Aguas bajas: revise traslados y caminatas",
+            "Para una visita propuesta durante un período de aguas bajas, pregunte cómo la ruta conecta el punto de desembarque con la actividad y el alojamiento. Verifique si se espera un punto de embarque diferente, un tramo adicional o una caminata, y explique cualquier necesidad de movilidad o manejo de equipaje con anticipación. No asuma que las aguas bajas facilitan automáticamente cada salida. La comparación debe considerar la ruta particular y a las personas que viajan, no a una afirmación amplia de que una temporada convenga a todos.",
+            "Si la caminata por el bosque es importante, pregunte sobre el sendero previsto, la duración fuera de la base y las opciones si cambian las condiciones. Revise esto junto con la guía de alojamiento en el Amazonas para que el alojamiento facilite la salida. Un viaje con menos traslados puede dejar más tiempo útil para la exploración, pero solo si la base elegida proporciona un acceso adecuado. Compare todo el día, incluida la llegada y el regreso, en lugar de evaluar una caminata independientemente de su transporte."
+          ],
+          [
+            "Reserve tiempo para observar, sin prometer avistamientos",
+            "Las elecciones estacionales deben favorecer la observación, sin convertir un encuentro con animales en una promesa de reserva. Utilice la guía de fauna para decidir si valora la exploración de lagos, la interpretación del bosque o la observación especializada de aves. Pregunte al organizador qué hábitats y períodos de observación encajan con la ruta para sus fechas. Una especie mencionada en una guía de destino indica un interés que puede comentar; no establece que el animal aparecerá en una excursión particular.",
+            "Para una visita a los lagos de Tarapoto, compare el tiempo útil en el entorno del lago con el tiempo dedicado a llegar allí. Para una salida al bosque, pregunte cómo adapta el guía el ritmo a los intereses del grupo. Si una fotografía específica es importante, explíquelo y acepte que la observación responsable puede no permitir obtenerla. Organice el viaje en torno a una visita interesante al hábitat y explicaciones del guía para que una salida siga siendo valiosa cuando los animales están lejos o fuera de la vista."
+          ],
+          [
+            "Con fechas fijas, adapte la ruta a sus prioridades",
+            "Si las vacaciones escolares, sus días de vacaciones u otro compromiso fijan sus fechas disponibles, utilice la guía de planificación del viaje a Colombia para organizar las noches y salidas dentro de ese período. Establezca sus restricciones de llegada y salida antes de elegir actividades remotas. Confirme qué servicios se pueden organizar para ese período y qué sucede si una opción preferida no está disponible. Evite incluir todos los destinos posibles en una visita corta solo para compensar la incertidumbre sobre las condiciones estacionales.",
+            "Leticia puede formar parte del plan de llegada o regreso, mientras que una estancia aguas arriba en Puerto Nariño ofrece una base diferente para salidas acordadas. Pregunte qué aporta cada lugar de alojamiento y si el movimiento entre ellos deja suficiente tiempo útil para la actividad. La disponibilidad, la coordinación de traslados y la comodidad del grupo merecen la misma atención que el mes. Solicite la secuencia e inclusiones por escrito antes de comparar precios, en lugar de inferir un itinerario completo desde un título atractivo de paquete estacional."
+          ],
+          [
+            "Planifique la conexión de regreso",
+            "Utilice la guía de Leticia para revisar la parte del viaje de acceso junto con el último regreso fluvial. Confirme el desembarco previsto, el transporte posterior y el contacto responsable. Comente si regresar al punto de acceso antes del día de salida es apropiado para la ruta propuesta. No existe un margen universal de conexión que convenga a todos los itinerarios; la decisión debe reflejar los servicios reales y las consecuencias de un cambio.",
+            "Mantenga el plan de regreso visible al comparar opciones de fechas. Una actividad aguas arriba adicional puede parecer atractiva hasta que deja una conexión con un margen innecesariamente reducido al final. Pregunte cómo el organizador comunica los cambios y maneja una secuencia o inclusión alterada. Reserve un viaje cuyo último día tenga sentido tanto como su primera salida completa. Esto es particularmente útil cuando proveedores separados organizan el tramo fluvial y el transporte posterior."
+          ],
+          [
+            "Qué información enviar sobre sus fechas",
+            "Envíe una consulta con el rango de fechas en el que puede viajar, la duración planificada del viaje y las actividades que valora más. Incluya si las fechas son flexibles, su ritmo preferido y cualquier requisito esencial de embarque o caminata. Mencione un interés en fotografía u observación de aves lo suficientemente preciso como para comentar un entorno adecuado. Estos detalles hacen posible una comparación útil sin requerir que el organizador adivine qué tipo de experiencia amazónica desea.",
+            "Solicite un itinerario adaptado a ese período, las suposiciones actuales sobre las condiciones del agua y las alternativas si cambia una ruta. Confirme la disponibilidad de alojamiento y transporte por separado de la guía estacional. Revise los servicios acordados cerca de la salida con el proveedor responsable. Una buena elección combina fechas, acceso e intereses en un plan coherente; una lista de meses supuestamente perfectos no puede reemplazar esa coordinación."
+          ]
+        ]
+      }
+    },
+    "wildlife": {
+      "en": {
+        "type": "planning-guide",
+        "pair_id": "colombia_wildlife_001",
+        "hero": [
+          "amazon-blue-and-yellow-macaws-portrait",
+          "Blue-and-yellow macaws perched in a tree"
+        ],
+        "features": {
+          "1": [
+            "sloth-in-tree-portrait",
+            "A sloth hanging from a tree branch"
+          ],
+          "4": [
+            "caiman-overhead-portrait",
+            "A caiman viewed from above in shallow water"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Parques Nacionales Naturales: Amacayacu",
+            "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-amacayacu/"
+          ],
+          [
+            "Colombia Travel: Puerto Nariño",
+            "https://colombia.travel/es/puerto-narino"
+          ]
+        ],
+        "scope": "Guidance reviewed October 8, 2026. Species and habitats describe possible interests, not guaranteed sightings. Confirm the actual guiding, route and permissions for your visit.",
+        "slug": "wildlife",
+        "h1": "Colombian Amazon wildlife",
+        "title": "Colombian Amazon Wildlife Guide | Experience The Amazon",
+        "description": "Plan Colombian Amazon wildlife experiences around forest, lake and birdwatching habitats, patient guiding and responsible observation.",
+        "lede": "Build your journey around habitats, patient observation and thoughtful guiding. Give river, forest and birdwatching experiences enough time without promising encounters.",
+        "quick": [
+          "How do you plan a rewarding wildlife trip?",
+          "Choose the habitats and pace you value, confirm appropriate guiding and separate observation time from transfers. Species lists describe possibilities; sightings remain uncertain and responsible viewing comes first."
+        ],
+        "choices_heading": "Plan around your priorities",
+        "choices": [
+          [
+            "Choose the right dates",
+            "Compare conditions with the activities you want.",
+            "/colombia/best-time-to-visit/"
+          ],
+          [
+            "Tarapoto lakes",
+            "Give the lake habitat useful observation time.",
+            "/colombia/tarapoto-lakes/"
+          ],
+          [
+            "River journeys",
+            "Coordinate access with actual excursion time.",
+            "/colombia/river-journeys/"
+          ]
+        ],
+        "links": [
+          [
+            "/colombia/",
+            "Colombia overview"
+          ],
+          [
+            "/colombia/plan-your-amazon-trip/",
+            "Trip planning"
+          ],
+          [
+            "/colombia/leticia/",
+            "Leticia"
+          ],
+          [
+            "/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/contact/",
+            "Share your plans"
+          ],
+          [
+            "/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/colombia/tarapoto-lakes/",
+            "Tarapoto lakes"
+          ],
+          [
+            "/colombia/amazon-accommodation/",
+            "Accommodation"
+          ],
+          [
+            "/colombia/river-journeys/",
+            "River journeys"
+          ],
+          [
+            "/colombia/best-time-to-visit/",
+            "Best time to visit"
+          ],
+          [
+            "/colombia/wildlife/",
+            "Wildlife"
+          ]
+        ],
+        "context_links": [
+          [
+            "Colombia overview",
+            "/colombia/"
+          ],
+          [
+            "Colombia trip-planning guide",
+            "/colombia/plan-your-amazon-trip/"
+          ],
+          [
+            "Leticia guide",
+            "/colombia/leticia/"
+          ],
+          [
+            "Puerto Nariño guide",
+            "/colombia/puerto-narino/"
+          ],
+          [
+            "Amacayacu guide",
+            "/colombia/amacayacu/"
+          ],
+          [
+            "Tarapoto lakes guide",
+            "/colombia/tarapoto-lakes/"
+          ],
+          [
+            "Amazon accommodation guide",
+            "/colombia/amazon-accommodation/"
+          ],
+          [
+            "river journeys guide",
+            "/colombia/river-journeys/"
+          ],
+          [
+            "best time to visit guide",
+            "/colombia/best-time-to-visit/"
+          ],
+          [
+            "wildlife guide",
+            "/colombia/wildlife/"
+          ],
+          [
+            "an inquiry",
+            "/contact/"
+          ]
+        ],
+        "cta": [
+          "Make time for what you want to notice",
+          "Tell us your wildlife interests, dates and preferred pace so observation time can shape the journey."
+        ],
+        "faqs": [
+          [
+            "Are river dolphins guaranteed at Tarapoto?",
+            "No. Official tourism guidance identifies dolphin observation as an interest at Tarapoto, but an excursion cannot guarantee a sighting. Allow patient time and responsible distance."
+          ],
+          [
+            "Is every wildlife outing specialist birdwatching?",
+            "No. Ask about the guide’s experience, intended habitat and dedicated observation time if birdwatching is your priority."
+          ],
+          [
+            "Should we choose a trip offering animal handling?",
+            "Choose observation that leaves animals free to behave naturally. Park guidance advises against feeding wildlife and activities exhibiting animals in captivity."
+          ],
+          [
+            "Do more stops mean better wildlife viewing?",
+            "Not necessarily. Compare useful habitat and observation time with transfers. Fewer well-planned outings can allow a more patient experience."
+          ]
+        ],
+        "sections": [
+          [
+            "Start with habitats rather than a sightings list",
+            "A Colombian Amazon wildlife trip is strongest when it combines time in meaningful habitats with interpretation that helps you understand what you notice. Choose between river and lake observation, forest walking and a more focused birdwatching outing according to your interests. The Colombia overview introduces the circuit; the next step is to decide how those experiences fit your nights and transfers, rather than collecting animal names beside a list of attractions.",
+            "Amacayacu’s park information identifies both flooded and non-flooded forest environments alongside river systems. These are useful settings to discuss with an organizer, not interchangeable backdrops for the same excursion. Ask what habitat a proposed outing actually visits and how the guide works there. Leave enough time to listen, observe and learn from smaller details as well as conspicuous animals. A full experience can include tracks, vegetation and sounds even when a sought-after species stays out of sight."
+          ],
+          [
+            "River dolphins: give the lake visit time",
+            "The official Puerto Nariño tourism guide associates Tarapoto with river-dolphin observation. Treat that as a reason to consider the habitat, not a guarantee for your visit. Read the Tarapoto lakes guide and compare the time spent in the intended setting with the journey needed to reach it. A brief stop within a long transfer and a deliberately paced lake outing offer different opportunities to appreciate the landscape.",
+            "Agree an observation approach that leaves animals space and lets the guide decide when to move on. Avoid asking a boat to pursue an animal for a closer photograph. Discuss what the outing includes when dolphins remain unseen: interpretation, the lake environment and other observations should still form a worthwhile experience. Choose the excursion for its overall purpose rather than judging the trip solely by a single sighting or image."
+          ],
+          [
+            "Forest mammals: look for context as well as encounters",
+            "The Amacayacu guide provides a starting point for a guided forest visit. Park information records primates including woolly monkeys, but a species list cannot tell you what will be visible on a walk. Ask the guide to explain the setting and the signs you encounter instead of treating the forest as a sequence of scheduled animal stops. Patient interpretation can make an unfamiliar canopy, movement or call easier to understand.",
+            "Explain whether you prefer a gentle introductory walk or a longer observation period, and confirm the practical route before booking. Keep the group together and let the guide set the pace appropriate to the conditions. Avoid a plan that relies on feeding or handling animals to deliver a closer encounter. For photographers, discuss the interest before selecting the outing so time and equipment handling fit the experience, while accepting that an unobstructed portrait may not be possible."
+          ],
+          [
+            "Birdwatching: choose the level of focus",
+            "A general wildlife outing and a dedicated birdwatching session need different expectations. If birds are a priority, ask about the guide’s experience, the settings proposed and how much time is reserved for observation. State whether you want an accessible introduction, help recognizing calls or a more concentrated photographic session. This allows the organizer to compare suitable arrangements without presenting every general excursion as specialist guiding.",
+            "Bring a manageable list of interests rather than requiring a long list of guaranteed species. Ask how the session fits transfers and meals, and whether the group shares that pace. Agree any use of sound playback with the guide and the rules of the place being visited; do not assume it is appropriate everywhere. A carefully chosen observation setting and time to interpret what appears are more useful than adding many short stops that interrupt the session."
+          ],
+          [
+            "Night outings: define the experience first",
+            "If a night activity interests you, establish whether the proposed outing is a walk or boat excursion, where it takes place and how the return works. Confirm its current availability, guiding and equipment requirements rather than assuming it is included with every Amazon stay. Explain any concerns about footing, darkness or boarding before accepting the plan. Choose an activity the group can enjoy comfortably, without framing an intimidating duration as a necessary part of the experience.",
+            "Use lights and other equipment as directed by the guide and keep the group’s behavior consistent with the setting. Ask what the excursion aims to interpret rather than accepting a promise of a particular animal encounter. A shorter, well-explained outing can be more useful than staying out longer solely to chase a sighting. Review the following morning too, especially when an early transfer or another demanding activity is already planned."
+          ],
+          [
+            "Make observation work for the whole group",
+            "Tell the organizer if the group includes children, first-time forest visitors or travelers with different walking and boarding needs. Compare the activity duration, rest opportunities and return arrangements rather than relying on a general family-friendly label. An observation interest can be shared without everyone wanting the same pace. Ask whether the proposed outing allows a comfortable introduction or needs an arrangement designed for more sustained attention.",
+            "For photography, keep equipment manageable during transfers and explain any need to pause for setup. Binoculars and patient watching may provide a rewarding view even when a camera cannot produce the desired image. Ask the guide how to balance observation with movement so the outing remains enjoyable for the group. Avoid building the day around repeating the same animal search when a different habitat or interpretive activity would offer a fuller experience."
+          ],
+          [
+            "Where you sleep affects observation time",
+            "The Amazon accommodation guide helps compare overnight settings with the outings they support. Ask which activities depart from the proposed base and which require another journey. A riverside image does not establish nearby wildlife access or a specialist guide. Identify the actual services included with the stay and the provider responsible for each one before assuming the accommodation itself supplies a complete wildlife program.",
+            "Read the Puerto Nariño guide and Leticia guide alongside the overnight plan. Changing bases can introduce a different setting, but it also takes time for bags, check-in and transfers. Ask what each move adds to the experience. Favor an itinerary that leaves useful observation periods over one that advertises many destinations while spending much of each day connecting them. The right base is the one that supports your agreed activities and practical needs."
+          ],
+          [
+            "Wildlife viewing with clear boundaries",
+            "Parques Nacionales Naturales advises visitors not to feed wildlife or participate in activities exhibiting animals in captivity. Use that guidance when evaluating an excursion described through close-contact photographs. Ask how an encounter is arranged before booking, and choose observation that allows animals to behave freely. Images of an animal being held should prompt a question about the activity, rather than being treated as evidence of a more rewarding wildlife experience.",
+            "Follow the receiving guide’s directions, keep appropriate distance and respect restrictions on access and photography. Community visits deserve their own purpose and permission; they are not wildlife attractions. For photographs of people, ask first. Discuss specialist equipment in advance instead of arriving with assumptions about its use. A responsible journey should make these choices understandable while preserving the pleasure of watching and learning in the landscape."
+          ],
+          [
+            "Build a wildlife brief that can be planned",
+            "Use the best time to visit guide to relate your dates to the proposed route, and the river journeys guide to distinguish transfers from observation outings. Send an inquiry with your available days, interests and preferred pace. Mention whether birds, lake landscapes, forest interpretation or photography matter most. Ask for the planned habitats, guiding, activity time and inclusions so you can compare the experience meaningfully.",
+            "Keep a few priorities and allow the guide to adapt to what can be observed responsibly. Confirm the actual itinerary and practical needs before accepting a quote. A proposal should explain how your interests shape the journey without claiming that an animal will appear on command. The most useful outcome is a coherent trip with room for discovery, supported by clear guiding and enough time to appreciate each setting."
+          ]
+        ]
+      },
+      "es": {
+        "type": "planning-guide",
+        "pair_id": "colombia_wildlife_001",
+        "hero": [
+          "amazon-blue-and-yellow-macaws-portrait",
+          "Guacamayos azules y amarillos posados en un árbol"
+        ],
+        "features": {
+          "1": [
+            "sloth-in-tree-portrait",
+            "Perezoso colgado de una rama"
+          ],
+          "4": [
+            "caiman-overhead-portrait",
+            "Caimán visto desde arriba en aguas poco profundas"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Parques Nacionales Naturales: Amacayacu",
+            "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-amacayacu/"
+          ],
+          [
+            "Colombia Travel: Puerto Nariño",
+            "https://colombia.travel/es/puerto-narino"
+          ]
+        ],
+        "scope": "Orientación revisada el 8 de octubre de 2026. Las especies y los hábitats sugieren intereses posibles, no avistamientos garantizados. Confirme la guianza, las rutas y los permisos para su visita.",
+        "slug": "fauna",
+        "h1": "Fauna de la Amazonía colombiana",
+        "title": "Fauna de la Amazonía colombiana | Experience The Amazon",
+        "description": "Planifique experiencias de fauna en la Amazonía colombiana con hábitats de selva y lagos, observación de aves y guías responsables.",
+        "lede": "Organice su viaje alrededor de los hábitats, la observación paciente y los servicios de guianza adecuados. Reserve tiempo para disfrutar del río, la selva y las aves, sin prometer encuentros.",
+        "quick": [
+          "¿Cómo planificar una experiencia de fauna enriquecedora?",
+          "Elija los hábitats y el ritmo que valore, confirme servicios de guianza adecuados y separe el tiempo de observación de los traslados. Las listas de especies describen posibilidades; los avistamientos siguen siendo inciertos y la observación responsable es prioritaria."
+        ],
+        "choices_heading": "Planifique en función de sus prioridades",
+        "choices": [
+          [
+            "Elija las fechas adecuadas",
+            "Compare las condiciones con las actividades que desea.",
+            "/es/colombia/mejor-epoca-para-visitar/"
+          ],
+          [
+            "Lagos de Tarapoto",
+            "Reserve tiempo útil para observar el entorno del lago.",
+            "/es/colombia/lagos-de-tarapoto/"
+          ],
+          [
+            "Viajes fluviales",
+            "Coordine el acceso con el tiempo real de la excursión.",
+            "/es/colombia/viajes-fluviales/"
+          ]
+        ],
+        "links": [
+          [
+            "/es/colombia/",
+            "Resumen de Colombia"
+          ],
+          [
+            "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+            "Planificación del viaje"
+          ],
+          [
+            "/es/colombia/leticia/",
+            "Leticia"
+          ],
+          [
+            "/es/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/es/contacto/",
+            "Comparta sus planes"
+          ],
+          [
+            "/es/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/es/colombia/lagos-de-tarapoto/",
+            "Lagos de Tarapoto"
+          ],
+          [
+            "/es/colombia/alojamientos-amazonicos/",
+            "Alojamiento"
+          ],
+          [
+            "/es/colombia/viajes-fluviales/",
+            "Viajes fluviales"
+          ],
+          [
+            "/es/colombia/mejor-epoca-para-visitar/",
+            "Mejor época para visitar"
+          ],
+          [
+            "/es/colombia/fauna/",
+            "Fauna silvestre"
+          ]
+        ],
+        "context_links": [
+          [
+            "resumen de Colombia",
+            "/es/colombia/"
+          ],
+          [
+            "guía de Leticia",
+            "/es/colombia/leticia/"
+          ],
+          [
+            "guía de Puerto Nariño",
+            "/es/colombia/puerto-narino/"
+          ],
+          [
+            "guía de Amacayacu",
+            "/es/colombia/amacayacu/"
+          ],
+          [
+            "guía de los lagos de Tarapoto",
+            "/es/colombia/lagos-de-tarapoto/"
+          ],
+          [
+            "guía de alojamiento en el Amazonas",
+            "/es/colombia/alojamientos-amazonicos/"
+          ],
+          [
+            "guía de viajes fluviales",
+            "/es/colombia/viajes-fluviales/"
+          ],
+          [
+            "guía de la mejor época para visitar",
+            "/es/colombia/mejor-epoca-para-visitar/"
+          ],
+          [
+            "una consulta",
+            "/es/contacto/"
+          ]
+        ],
+        "cta": [
+          "Dedique tiempo a lo que desea observar",
+          "Cuéntenos sus intereses en fauna silvestre, fechas y ritmo preferido para que el tiempo de observación pueda dar forma al viaje."
+        ],
+        "faqs": [
+          [
+            "¿Se garantizan los delfines fluviales en Tarapoto?",
+            "No. La guía oficial de turismo identifica la observación de delfines como un interés en Tarapoto, pero una excursión no puede garantizar un avistamiento. Reserve tiempo para observar con calma y mantenga una distancia responsable."
+          ],
+          [
+            "¿Toda salida de fauna incluye observación especializada de aves?",
+            "No. Pregunte sobre la experiencia del guía, el hábitat previsto y el tiempo dedicado a la observación si la observación de aves es su prioridad."
+          ],
+          [
+            "¿Conviene elegir una actividad que permite manipular animales?",
+            "Elija una observación que deje a los animales libres de comportarse naturalmente. La guía del parque desaconseja alimentar fauna silvestre y participar en actividades que exhiben animales en cautiverio."
+          ],
+          [
+            "¿Más paradas permiten observar mejor la fauna?",
+            "No necesariamente. Compare el tiempo útil en el hábitat y de observación con los traslados. Menos salidas bien planificadas pueden permitir una experiencia más paciente."
+          ]
+        ],
+        "sections": [
+          [
+            "Elija hábitats, además de animales que le interesan",
+            "Un viaje de fauna silvestre en el Amazonas colombiano resulta más completo cuando combina tiempo en hábitats de interés con interpretación que le ayuda a entender lo que observa. Elija entre la observación fluvial y lacustre, caminatas por la selva y una salida más enfocada en la observación de aves según sus intereses. El resumen de Colombia introduce el circuito; el siguiente paso es decidir cómo encajan esas experiencias en sus noches y traslados, en lugar de recopilar nombres de animales junto a una lista de atracciones.",
+            "La información del parque Amacayacu identifica tanto bosques inundables como bosques no inundables junto con sistemas fluviales. Estos son entornos útiles para comentar con un organizador, no escenarios intercambiables para la misma excursión. Pregunte qué hábitat visita realmente una salida propuesta y cómo trabaja el guía allí. Reserve tiempo suficiente para escuchar, observar y aprender de los detalles pequeños además de los animales llamativos. Una experiencia completa puede incluir rastros, vegetación y sonidos incluso cuando una especie buscada se mantiene fuera de la vista."
+          ],
+          [
+            "Delfines fluviales: reserve tiempo para el lago",
+            "La guía oficial de turismo de Puerto Nariño asocia Tarapoto con la observación de delfines fluviales. Trate eso como una razón para considerar el hábitat, no como una garantía para su visita. Lea la guía de los lagos de Tarapoto y compare el tiempo pasado en el entorno previsto con el viaje necesario para llegar a él. Una breve parada dentro de un traslado largo y una salida deliberadamente pausada al lago ofrecen diferentes oportunidades para apreciar el paisaje.",
+            "Acuerde un enfoque de observación que deje espacio a los animales y permita al guía decidir cuándo avanzar. Evite pedirle a una lancha que persiga un animal para una fotografía más cercana. Comente qué incluye la salida cuando los delfines no se dejan ver: la interpretación, el entorno del lago y otras observaciones aún deben formar una experiencia valiosa. Elija la excursión por su propósito general en lugar de juzgar el viaje únicamente por un avistamiento o imagen."
+          ],
+          [
+            "Mamíferos de la selva: interprete también el entorno",
+            "La guía de Amacayacu proporciona un punto de partida para una visita guiada a la selva. La información del parque registra primates, incluidos los monos lanudos, pero una lista de especies no puede decirle qué será visible en una caminata. Pida al guía que explique el entorno y las indicios que encuentra en lugar de tratar el bosque como una secuencia de encuentros programados con animales. La interpretación paciente puede hacer que un dosel desconocido, un movimiento o una vocalización sea más fácil de entender.",
+            "Explique si prefiere una caminata introductoria suave o un período de observación más largo y confirme la ruta práctica antes de reservar. Mantenga al grupo unido y deje que el guía establezca el ritmo adecuado a las condiciones. Evite un plan que dependa de alimentar o manipular animales para ofrecer un encuentro más cercano. Para los fotógrafos, comente el interés antes de seleccionar la salida para que el tiempo y el manejo del equipo encajen con la experiencia, aceptando que un retrato sin obstáculos puede no ser posible."
+          ],
+          [
+            "Observación de aves: elija el nivel de especialización",
+            "Una salida general de fauna silvestre y una sesión dedicada a la observación de aves necesitan expectativas diferentes. Si las aves son prioridad, pregunte sobre la experiencia del guía, los entornos propuestos y cuánto tiempo se reserva para la observación. Indique si desea una introducción accesible, ayuda para reconocer cantos y llamadas o una sesión fotográfica más concentrada. Esto permite al organizador comparar opciones adecuadas sin presentar cada excursión general como un servicio de guianza especializada.",
+            "Lleve una lista manejable de intereses en lugar de requerir una lista larga de especies garantizadas. Pregunte cómo encaja la sesión con los traslados y comidas, y si el grupo comparte ese ritmo. Acuerde cualquier uso de reproducción de sonidos grabados con el guía y las reglas del lugar visitado; no asuma que es apropiado en todas partes. Un entorno de observación cuidadosamente elegido y tiempo para interpretar lo que aparece son más útiles que añadir muchas paradas cortas que interrumpen la sesión."
+          ],
+          [
+            "Salidas nocturnas: confirme la actividad prevista",
+            "Si una actividad nocturna le interesa, establezca si la salida propuesta es una caminata o excursión en bote, dónde tiene lugar y cómo funciona el regreso. Confirme su disponibilidad actual, servicios de guianza y requisitos de equipo en lugar de asumir que está incluida en cada estancia en el Amazonas. Explique cualquier preocupación sobre el terreno, la oscuridad o el embarque antes de aceptar el plan. Elija una actividad que el grupo pueda disfrutar cómodamente, con una duración adecuada a sus preferencias.",
+            "Use luces y otro equipo según las instrucciones del guía y mantenga el comportamiento del grupo acorde con el entorno. Pregunte qué busca interpretar la excursión en lugar de aceptar una promesa de un encuentro con un animal específico. Una salida más corta y bien explicada puede ser más útil que permanecer fuera más tiempo solo para perseguir un avistamiento. Revise también la mañana siguiente, especialmente cuando ya está planificado un traslado temprano u otra actividad exigente."
+          ],
+          [
+            "Un ritmo de observación adecuado para el grupo",
+            "Dígale al organizador si el grupo incluye niños, personas que visitan la selva por primera vez o viajeros con diferentes necesidades de caminata y embarque. Compare la duración de la actividad, las oportunidades de descanso y las condiciones de regreso en lugar de depender de una etiqueta general de actividad apta para familias. Un interés de observación puede compartirse sin que todos quieran el mismo ritmo. Pregunte si la salida propuesta permite una introducción cómoda o necesita una actividad diseñada para observar durante más tiempo.",
+            "Para fotografía, mantenga el equipo manejable durante los traslados y explique cualquier necesidad de hacer pausas para preparar la cámara. Los prismáticos y la observación paciente pueden proporcionar una vista gratificante incluso cuando una cámara no puede producir la imagen deseada. Pregunte al guía cómo equilibrar la observación con el movimiento para que la salida siga siendo agradable para el grupo. Evite construir el día alrededor de repetir la misma búsqueda de animales cuando un hábitat diferente o una actividad interpretativa ofrecerían una experiencia más completa."
+          ],
+          [
+            "El alojamiento influye en el tiempo de observación",
+            "La guía de alojamiento en el Amazonas ayuda a comparar alojamientos con las salidas que permiten realizar. Pregunte qué actividades parten de la base propuesta y cuáles requieren otro viaje. Una imagen ribereña no establece acceso cercano a fauna silvestre ni un servicio de guianza especializada. Identifique los servicios reales incluidos con la estancia y el proveedor responsable de cada uno antes de asumir que el alojamiento mismo suministra un programa completo de fauna silvestre.",
+            "Lea la guía de Puerto Nariño y la guía de Leticia junto con el plan de alojamiento. Cambiar de bases puede introducir un entorno diferente, pero también toma tiempo para las maletas, el registro de llegada y los traslados. Pregunte qué añade cada movimiento a la experiencia. Favorezca un itinerario que deje períodos útiles de observación frente a otro que anuncia muchos destinos mientras pasa gran parte de cada día conectándolos. La base correcta es la que facilita sus actividades acordadas y necesidades prácticas."
+          ],
+          [
+            "Observe la fauna con respeto",
+            "Parques Nacionales Naturales aconseja a los visitantes no alimentar fauna silvestre ni participar en actividades que exhiben animales en cautiverio. Use esa guía al evaluar una excursión descrita a través de fotografías de contacto cercano. Pregunte cómo se organiza un encuentro antes de reservar, y elija una observación que permita a los animales comportarse libremente. Las imágenes de un animal en brazos de una persona deben provocar una pregunta sobre la actividad, en lugar de ser tratadas como evidencia de una experiencia de fauna silvestre más gratificante.",
+            "Siga las instrucciones del guía que los recibe, mantenga la distancia adecuada y respete las restricciones de acceso y fotografía. Las visitas a comunidades merecen su propio propósito y permiso; no son atracciones de fauna silvestre. Para fotografías de personas, pregunte primero. Comente el equipo especializado con anticipación en lugar de llegar con suposiciones sobre su uso. Un viaje responsable debe hacer que estas elecciones sean comprensibles mientras preserva el placer de observar y aprender en el paisaje."
+          ],
+          [
+            "Convierta sus intereses en un plan de viaje",
+            "Use la guía de la mejor época para visitar para relacionar sus fechas con la ruta propuesta, y la guía de viajes fluviales para distinguir traslados de salidas de observación. Envíe una consulta con sus días disponibles, intereses y ritmo preferido. Mencione si las aves, paisajes lacustres, interpretación forestal o fotografía importan más. Pregunte por los hábitats planificados, los servicios de guianza, el tiempo de actividad y las inclusiones para que pueda comparar la experiencia de forma útil.",
+            "Mantenga algunas prioridades y permita al guía adaptarse a lo que puede observarse responsablemente. Confirme el itinerario real y las necesidades prácticas antes de aceptar una cotización. Una propuesta debe explicar cómo sus intereses dan forma al viaje sin afirmar que un animal aparecerá bajo demanda. El resultado más útil es un viaje coherente con espacio para el descubrimiento, con explicaciones claras del guía y suficiente tiempo para apreciar cada entorno."
+          ]
+        ]
+      }
+    }
+  }
+}

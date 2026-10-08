@@ -212,6 +212,14 @@
           [
             "/contact/",
             "Share your plans"
+          ],
+          [
+            "/colombia/best-time-to-visit/",
+            "Best time to visit"
+          ],
+          [
+            "/colombia/wildlife/",
+            "Wildlife"
           ]
         ],
         "context_links": [
@@ -270,6 +278,14 @@
           [
             "an inquiry",
             "/contact/"
+          ],
+          [
+            "best time to visit guide",
+            "/colombia/best-time-to-visit/"
+          ],
+          [
+            "wildlife guide",
+            "/colombia/wildlife/"
           ]
         ],
         "cta": [
@@ -338,7 +354,7 @@
           [
             "Connections and your next step",
             "If you are considering Brazil or Peru as well, distinguish a cross-border excursion from moving onward to another country. Documents, immigration formalities, transfers and luggage arrangements need their own confirmation. Geographic proximity does not establish a convenient connection or permission to travel. Compare the Brazil guide or Peru guide for the next destination’s planning context before trying to combine two otherwise separate journeys.",
-            "Share your start and end dates, traveler count, preferred overnight setting and any access needs when you make an inquiry. Mention whether onward travel is already booked and which experiences matter most. This information lets us discuss a route around usable time and priorities. An inquiry is a starting point for planning; it does not confirm accommodation availability, a price or a booking."
+            "Share your start and end dates, traveler count, preferred overnight setting and any access needs when you make an inquiry. Mention whether onward travel is already booked and which experiences matter most. This information lets us discuss a route around usable time and priorities. An inquiry is a starting point for planning; it does not confirm accommodation availability, a price or a booking. Use the best time to visit guide to relate your dates to the route, and the wildlife guide to choose the habitats and observation pace you value."
           ]
         ]
       },
@@ -453,6 +469,14 @@
           [
             "/es/contacto/",
             "Comparta sus planes"
+          ],
+          [
+            "/es/colombia/mejor-epoca-para-visitar/",
+            "Mejor época para visitar"
+          ],
+          [
+            "/es/colombia/fauna/",
+            "Fauna"
           ]
         ],
         "context_links": [
@@ -511,6 +535,14 @@
           [
             "una consulta",
             "/es/contacto/"
+          ],
+          [
+            "guía de la mejor época para visitar",
+            "/es/colombia/mejor-epoca-para-visitar/"
+          ],
+          [
+            "guía de fauna",
+            "/es/colombia/fauna/"
           ]
         ],
         "cta": [
@@ -579,7 +611,7 @@
           [
             "Conexiones y su siguiente paso",
             "Si está considerando Brasil o Perú además, distinga una excursión transfronteriza de continuar el viaje hacia otro país. Documentos, formalidades migratorias, traslados y arreglos de equipaje necesitan su propia confirmación. La proximidad geográfica no establece una conexión conveniente ni permiso para viajar. Compare la guía de Brasil o la guía de Perú para el contexto de planificación del siguiente destino antes de intentar combinar dos viajes por separado.",
-            "Comparta sus fechas de inicio y fin, número de viajeros, tipo de alojamiento preferida y cualquier necesidad de acceso cuando haga una consulta. Mencione si el viaje posterior ya está reservado y qué experiencias importan más. Esta información nos permite discutir una ruta según el tiempo disponible y sus prioridades. Una consulta es un punto de partida para la planificación; no confirma disponibilidad de alojamiento, un precio o una reserva."
+            "Comparta sus fechas de inicio y fin, número de viajeros, tipo de alojamiento preferida y cualquier necesidad de acceso cuando haga una consulta. Mencione si el viaje posterior ya está reservado y qué experiencias importan más. Esta información nos permite discutir una ruta según el tiempo disponible y sus prioridades. Una consulta es un punto de partida para la planificación; no confirma disponibilidad de alojamiento, un precio o una reserva. Consulte la guía de la mejor época para visitar para relacionar sus fechas con la ruta, y la guía de fauna para elegir los hábitats y el ritmo de observación que prefiere."
           ]
         ]
       }
@@ -696,6 +728,14 @@
           [
             "/contact/",
             "Share your plans"
+          ],
+          [
+            "/colombia/best-time-to-visit/",
+            "Best time to visit"
+          ],
+          [
+            "/colombia/wildlife/",
+            "Wildlife"
           ]
         ],
         "context_links": [
@@ -754,6 +794,14 @@
           [
             "an inquiry",
             "/contact/"
+          ],
+          [
+            "best time to visit guide",
+            "/colombia/best-time-to-visit/"
+          ],
+          [
+            "wildlife guide",
+            "/colombia/wildlife/"
           ]
         ],
         "cta": [
@@ -822,7 +870,7 @@
           [
             "Leave sensible connection flexibility",
             "If the journey continues into Peru or Brazil, plan that movement as a separate travel decision. Discuss current documentation, formalities and transfer arrangements with the appropriate authorities and providers. A nearby border does not make every onward destination a simple add-on. Use the Brazil guide to compare the next region’s gateway and route before deciding whether it belongs in the same trip.",
-            "Send your dates, group size, overnight preferences and the experiences you care about most. Include booked onward departures and any constraints that shape the route. We can then discuss the balance between exploration, travel and comfort. Keep a written version of the agreed arrangements, and reconfirm collection points and contact details before departure. This gives the journey a practical foundation without reducing it to a rigid checklist."
+            "Send your dates, group size, overnight preferences and the experiences you care about most. Include booked onward departures and any constraints that shape the route. We can then discuss the balance between exploration, travel and comfort. Keep a written version of the agreed arrangements, and reconfirm collection points and contact details before departure. This gives the journey a practical foundation without reducing it to a rigid checklist. Use the best time to visit guide to relate your dates to the route, and the wildlife guide to choose the habitats and observation pace you value."
           ]
         ]
       },
@@ -937,6 +985,14 @@
           [
             "/es/contacto/",
             "Comparta sus planes"
+          ],
+          [
+            "/es/colombia/mejor-epoca-para-visitar/",
+            "Mejor época para visitar"
+          ],
+          [
+            "/es/colombia/fauna/",
+            "Fauna"
           ]
         ],
         "context_links": [
@@ -995,6 +1051,14 @@
           [
             "una consulta",
             "/es/contacto/"
+          ],
+          [
+            "guía de la mejor época para visitar",
+            "/es/colombia/mejor-epoca-para-visitar/"
+          ],
+          [
+            "guía de fauna",
+            "/es/colombia/fauna/"
           ]
         ],
         "cta": [
@@ -1063,7 +1127,7 @@
           [
             "Deje un margen razonable para las conexiones",
             "Si el viaje continúa hacia Perú o Brasil, planifique ese movimiento como una decisión de viaje separada. Discuta la documentación actual, formalidades y arreglos de traslado con las autoridades y proveedores apropiados. Una frontera cercana no hace que cada destino posterior sea un complemento sencillo. Utilice la guía de Brasil para comparar la puerta de entrada y ruta de la siguiente región antes de decidir si pertenece al mismo viaje.",
-            "Envíe sus fechas, tamaño del grupo, preferencias de alojamiento y las experiencias que más le importan. Incluya salidas posteriores reservadas y cualquier restricción que dé forma a la ruta. Luego podemos discutir el equilibrio entre exploración, viaje y confort. Mantenga una versión escrita de los arreglos acordados y reconfirme puntos de recogida y detalles de contacto antes de la salida. Esto da al viaje una base práctica sin reducirlo a una lista de verificación rígida."
+            "Envíe sus fechas, tamaño del grupo, preferencias de alojamiento y las experiencias que más le importan. Incluya salidas posteriores reservadas y cualquier restricción que dé forma a la ruta. Luego podemos discutir el equilibrio entre exploración, viaje y confort. Mantenga una versión escrita de los arreglos acordados y reconfirme puntos de recogida y detalles de contacto antes de la salida. Esto da al viaje una base práctica sin reducirlo a una lista de verificación rígida. Consulte la guía de la mejor época para visitar para relacionar sus fechas con la ruta, y la guía de fauna para elegir los hábitats y el ritmo de observación que prefiere."
           ]
         ]
       }
