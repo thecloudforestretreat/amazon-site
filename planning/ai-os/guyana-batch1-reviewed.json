@@ -1,0 +1,846 @@
+{
+  "editorial_status": "reviewed",
+  "review_date": "2026-10-08",
+  "images": {
+    "leticia-colombia-border-direction-sign-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/leticia-colombia-border-direction-sign-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "9706a51eb9df2b14f9d80d73e57f29be70e101cf84c8a2e2b855b1bda724cc43"
+    },
+    "amazon-red-macaws-under-thatched-roof-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-red-macaws-under-thatched-roof-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "f7735c2b55700cd1ed350ef139908894da0a2541f86b3c011731ef9b5d2cc930"
+    },
+    "amazon-meandering-river-aerial-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-meandering-river-aerial-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "c6546f300e37a65a07cac13d516b286c00c43dbd1812354b1eeacd6087249dd1"
+    },
+    "amazon-forest-buttress-tree-hiker-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-forest-buttress-tree-hiker-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "2f414af8e0d165e636fb6480106701316e22d712fdca6d679bd3cf2168a724e5"
+    },
+    "amazon-forest-canoe-bow-wide": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-forest-canoe-bow-wide.webp",
+      "width": 1800,
+      "height": 1013,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "5d74cddf67f036d0fe65044bf09c05ccd2352960dcb25b47ac831b9fb583643f"
+    },
+    "amazon-riverside-houses-canoe-travelers": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-houses-canoe-travelers.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "c14bc7039ac65660ccb759932a2aaa09446c95e7dc52d7b7a16ab05bf68a9209"
+    },
+    "leticia-tabatinga-iquitos-direction-signs": {
+      "src": "/assets/images/pages/countries/colombia/optimized/leticia-tabatinga-iquitos-direction-signs.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "65b3dfaad25e66b4840b38fd9f11a763d0e07130c3042ddb80677c5f0b2ad976"
+    },
+    "amazon-riverside-harbor-canoes": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-harbor-canoes.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "306456ac24e5cd183f10d1d8dd180e57be3a701c95c6a0f505fc4343827b4018"
+    },
+    "amazon-riverside-town-and-forest-view": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-town-and-forest-view.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "7976d853227666cb56379c73509401e8cbce62193c80eb972601c6fb4ef6c9f2"
+    },
+    "amazon-river-and-town-aerial": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-river-and-town-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "49e955c22842faa8ceb957a91d13ac0da6e15ad40b04c6fc36719c55bc488826"
+    },
+    "amazon-village-raised-wooden-walkway": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-village-raised-wooden-walkway.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "3aff028da8964a9d485d5977e0985c66ad8d5894f6ecd4bc22ccc684f31e1b0c"
+    },
+    "amazon-rainforest-walk-traveler": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-rainforest-walk-traveler.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "cbf7ca9da828d289b62bfb0b2131d6be383d8af77355342665bf047971d3b6e7"
+    },
+    "amazon-village-wooden-house-path": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-village-wooden-house-path.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "3221726059505de3b312f9ef077e707fc8435a93c58a6252cedbef85c6063d7b"
+    },
+    "amazon-cultural-crafts-display": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-cultural-crafts-display.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "b1dd3bae7f67382376912a814d8d7fc3d83ecdbf46fcfb43a09c3e45d0157c64"
+    },
+    "tropical-thatched-lodge-hammock-deck": {
+      "src": "/assets/images/pages/countries/colombia/optimized/tropical-thatched-lodge-hammock-deck.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "39dca7d4bd263af53f028c29370ffbbb4dff742582ea70fd76659b3be4239620"
+    },
+    "forest-lakeside-lodge-reflection": {
+      "src": "/assets/images/pages/countries/colombia/optimized/forest-lakeside-lodge-reflection.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "92f0d9cfcbebf7fe84771819ecc8fc6d6a7be6fcb63c49ff28fdff3e855e0945"
+    },
+    "amazon-riverside-houses-solo-canoe": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-riverside-houses-solo-canoe.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "4bd9bea9268cbc0bcc2386d65c5cee66a7ed7ebd17a447b4841ca9547da61624"
+    },
+    "amazon-canoe-group-lake-journey": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-canoe-group-lake-journey.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "da66207331cffb985492857cc246b422dfad57c6a979593883782a13ddb4e594"
+    },
+    "amazon-wooden-canoes-riverbank": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-wooden-canoes-riverbank.webp",
+      "width": 1800,
+      "height": 1200,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "81e0ad56c85c2348710769d5fa9421e652dea9b7ee3c80b9ba9249304d07528b"
+    },
+    "amazon-monkey-on-tree-portrait": {
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-monkey-on-tree-portrait.webp",
+      "width": 1200,
+      "height": 1500,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "44859842ae4884f5f074597ec825949e5b2bf52841f38c018c5df93983bac3ef"
+    },
+    "jaguar-resting-paws-portrait": {
+      "src": "/assets/images/pages/countries/colombia/optimized/jaguar-resting-paws-portrait.webp",
+      "width": 1200,
+      "height": 1500,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "7d1cfd98f1f1f8b693e74735230399e78bab94006002f812a27c6c888047cb8d"
+    },
+    "jaguar-in-foliage-portrait": {
+      "src": "/assets/images/pages/countries/colombia/optimized/jaguar-in-foliage-portrait.webp",
+      "width": 1200,
+      "height": 1500,
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
+      "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
+      "original_sha256": "01a4707d5d87b51646cbe6aba2da7a0992ef39ad3b8b0ef3b5264c8ee65c36be"
+    }
+  },
+  "pages": {
+    "hub": {
+      "en": {
+        "type": "country-hub",
+        "pair_id": "guyana_hub_001",
+        "hero": [
+          "amazon-meandering-river-aerial-wide",
+          "Winding river channels through green forest"
+        ],
+        "features": {
+          "1": [
+            "amazon-forest-buttress-tree-hiker-wide",
+            "Hiker beside a large forest tree"
+          ],
+          "4": [
+            "amazon-wooden-canoes-riverbank",
+            "Wooden canoes beside a river"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Guyana Tourism — travel tips",
+            "https://guyanatourism.com/travel-tips/"
+          ],
+          [
+            "Guyana Tourism — transport planning",
+            "https://guyanatourism.com/plan-your-trip/how-to-get-around/"
+          ],
+          [
+            "Iwokrama International Centre",
+            "https://iwokrama.org/about/"
+          ],
+          [
+            "Guyana Tourism — geography",
+            "https://guyanatourism.com/about-us-2/"
+          ],
+          [
+            "Guyana Tourism — community conservation",
+            "https://guyanatourism.com/conservation/"
+          ]
+        ],
+        "scope": "Planning information reviewed October 8, 2026. Accommodation, activities, availability and transport require confirmation in an individual proposal. Guyana is part of the Guiana Shield; these guides do not classify all its rivers as Amazon-basin rivers.",
+        "slug": "",
+        "h1": "Guyana rainforest journeys",
+        "title": "Guyana Rainforest Travel | Regions & Trip Planning",
+        "description": "Plan Guyana rainforest travel with clear choices about Iwokrama, Rupununi, lodges, community stays and coastal-to-interior connections.",
+        "lede": "Forest, rivers and savannah: choose a journey shaped around your interests, with the connections and comfort thought through.",
+        "quick": [
+          "Where should I start?",
+          "Choose your principal landscape and overnight base first, then confirm connections, usable activity time and comfort. Guyana forest and Rupununi routes need different practical arrangements."
+        ],
+        "links": [
+          [
+            "/guyana/",
+            "Guyana overview"
+          ],
+          [
+            "/guyana/plan-your-rainforest-trip/",
+            "Guyana trip-planning guide"
+          ],
+          [
+            "/peru/",
+            "Peru overview"
+          ],
+          [
+            "/colombia/",
+            "Colombia overview"
+          ]
+        ],
+        "context_links": [
+          [
+            "Guyana overview",
+            "/guyana/"
+          ],
+          [
+            "Guyana trip-planning guide",
+            "/guyana/plan-your-rainforest-trip/"
+          ],
+          [
+            "Peru overview",
+            "/peru/"
+          ],
+          [
+            "Colombia overview",
+            "/colombia/"
+          ]
+        ],
+        "cta": [
+          "Shape a journey around your interests",
+          "Tell us your dates, group size, landscape interests and preferred comfort so we can discuss a practical Guyana route."
+        ],
+        "faqs": [
+          [
+            "Is Guyana part of the Amazon River basin?",
+            "Guyana is part of the Guiana Shield. Its rainforest complements our wider Amazon-country collection, but a Guyana itinerary should not imply that every river belongs to the Amazon River basin."
+          ],
+          [
+            "Should I choose one base or several?",
+            "Choose one principal base when time is limited. Add another landscape when the connection serves a clear interest and still leaves meaningful activity time."
+          ],
+          [
+            "Are flights and lodge transfers included?",
+            "Inclusions depend on the proposal. Confirm domestic flights, airport transfers, ground or river connections, accommodation and guide services separately."
+          ],
+          [
+            "Can you guarantee wildlife sightings?",
+            "No. Plan by habitat, guide knowledge and observation time; wildlife behavior and conditions vary."
+          ]
+        ],
+        "sections": [
+          [
+            "Choose a rainforest journey that fits your interests",
+            "Guyana combines extensive forest, rivers and the Rupununi savannahs with travel that often depends on several connected transfers. Begin with the experience you want to spend time on: patient birdwatching, guided forest walks, river outings or a community-hosted stay. A short list of priorities is more useful than a long list of lodges. It helps identify which overnight base gives you actual time in the habitat that interests you.",
+            "Guyana belongs to the Guiana Shield, and its rainforest should not be presented as though every river were part of the Amazon River basin. Our wider rainforest collection includes Guyana because its nature journeys complement the Amazon countries. Compare landscapes and travel styles while keeping the geography clear. The Guyana trip-planning guide turns that distinction into decisions about access, accommodation and the pace of a route."
+          ],
+          [
+            "Georgetown and the transition to the interior",
+            "Treat the coastal arrival and the interior journey as separate parts of the itinerary. Guyana Tourism identifies Eugene F. Correia International Airport as a hub for domestic flights into the interior. Confirm the airport used for each flight, rather than assuming your international arrival and domestic departure share a terminal. Your proposal should explain ground transfers, check-in arrangements and where you sleep between connections.",
+            "A gateway night can create useful space for regrouping and sorting luggage, but the right arrangement depends on the actual flight schedule. Ask what happens if arrival is delayed and who rearranges the onward connection. Plan the return with the same care: an interior outing that ends just before an international departure leaves little flexibility when weather or a transfer changes."
+          ],
+          [
+            "Iwokrama as a forest-focused option",
+            "The Iwokrama International Centre manages a rainforest landscape with conservation, research and tourism roles. It offers a useful starting point for travelers who want a forest-centered journey. Distinguish the river lodge setting from the canopy walkway experience when reading a proposal. A reference to Iwokrama does not tell you where you sleep, which activities are included or how you move between them.",
+            "Ask for the accommodation name, the outing location and the transfer arrangement in the same document. A canopy perspective and a riverside base can complement one another, but they need time and practical connections. Confirm whether any proposed walk suits your balance, mobility and comfort with heights. Guides should help you understand the habitat without suggesting that a particular animal will appear on schedule."
+          ],
+          [
+            "Rupununi: consider more than forest alone",
+            "The Rupununi adds a different landscape dimension to a Guyana journey. A route through savannah and river settings should have its own purpose, rather than being added simply to increase the number of places visited. Decide whether you are seeking a change of habitat, a community-hosted experience or a slower stay with repeated outings from one base. Each choice affects how many transfers are sensible.",
+            "For a combined forest and savannah route, ask where the landscape changes and how the accommodation supports your interests. Time spent moving between bases is not the same as time exploring them. Compare two proposals by their usable mornings and afternoons, including recovery after travel. An itinerary that visits fewer places can allow better observation and more room for changing conditions."
+          ],
+          [
+            "Community-hosted stays and respectful visits",
+            "A community-hosted experience deserves more planning than a stop on a sightseeing list. Ask who hosts the visit, how it is arranged and which activities the hosts have agreed to offer. Photography, participation and access should follow local guidance. Do not assume that a village appearing on a map is open for an unarranged visit or that residents wish to be photographed.",
+            "Discuss your interests before the route is confirmed. A conversation about crafts, food or the surrounding landscape works best when the hosts choose how to share it. Ask how your payment reaches the people providing the experience and whether a local guide is included. Keep any personal donations separate from promised tour inclusions so that the arrangement remains clear to everyone involved."
+          ],
+          [
+            "Match accommodation to your daily rhythm",
+            "A riverside lodge, a forest base and a community stay can support very different days. Compare the setting together with practical comfort: bathroom arrangements, ventilation, electricity, charging hours and how far you walk between your room and activities. A beautiful photograph does not answer whether you can charge camera batteries overnight or return easily to your room between outings.",
+            "Ask how meals and drinking water are provided and whether dietary needs can be accommodated for the full stay. Explain any mobility or sleep requirements early. For nature photography, the position of the base and the outing schedule may matter more than decorative room details. Accommodation names and room availability must be confirmed in a proposal; this guide does not represent a live booking inventory."
+          ],
+          [
+            "Choose dates for the route, not one national label",
+            "Guyana Tourism describes different seasonal patterns for the coast and interior, so a single best-month answer is too blunt for a varied route. Use your proposed region and activities to discuss dates. Road access, river outings and the atmosphere of a forest stay may respond differently to rain. Ask the operator to explain the likely tradeoffs for your itinerary rather than presenting dry weather as a guarantee.",
+            "Build flexibility around activities whose conditions can change. A sensible plan explains which outings can be rearranged and which connections require a firm departure. Higher river levels may change boat access, while wet road conditions may alter an overland segment. These are planning considerations, not a daily forecast. Confirm current conditions with the people responsible for the actual transfer and accommodation."
+          ],
+          [
+            "Wildlife observation without a checklist promise",
+            "Choose outings by habitat, guide knowledge and the time available for observation. A wildlife-focused journey should leave space for quiet watching, repeat visits and changes to the day when conditions warrant them. Tell us whether birds, mammals, landscapes or photography are your main interest. That helps shape the pace without turning the trip into a promise of particular sightings.",
+            "Avoid feeding, handling or approaching animals to secure a photograph. Follow the guide’s instructions about distance, noise and lights, and discuss any specialist photographic equipment beforehand. A good briefing covers the behavior expected from visitors as well as what they might observe. For a mixed-interest group, balance focused outings with comfortable breaks so that everyone understands the rhythm before booking."
+          ],
+          [
+            "A practical starting point for your itinerary",
+            "Begin with one principal landscape and an overnight base that serves it. Add a second region when the connection supports a clear interest and fits your available time. Share your travel dates, number of guests, preferred comfort and any activities that matter especially to you. Describe what a satisfying day looks like, including how much time you are comfortable spending in vehicles or boats.",
+            "Use the Guyana trip-planning guide to organize those priorities into an arrival-to-departure outline. Request a proposal that identifies transfers, accommodation, guide services, included meals and any optional costs. For travelers comparing countries, the Peru overview and Colombia overview offer different gateway and river-travel settings. Compare the practical route as well as the destination photograph before choosing where to spend your holiday."
+          ]
+        ]
+      },
+      "es": {
+        "type": "country-hub",
+        "pair_id": "guyana_hub_001",
+        "hero": [
+          "amazon-meandering-river-aerial-wide",
+          "Canales fluviales sinuosos entre bosque verde"
+        ],
+        "features": {
+          "1": [
+            "amazon-forest-buttress-tree-hiker-wide",
+            "Caminante junto a un gran árbol del bosque"
+          ],
+          "4": [
+            "amazon-wooden-canoes-riverbank",
+            "Canoas de madera junto a un río"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Turismo de Guyana — consejos de viaje",
+            "https://guyanatourism.com/travel-tips/"
+          ],
+          [
+            "Turismo de Guyana — planificación del transporte",
+            "https://guyanatourism.com/plan-your-trip/how-to-get-around/"
+          ],
+          [
+            "Centro Internacional Iwokrama",
+            "https://iwokrama.org/about/"
+          ],
+          [
+            "Turismo de Guyana — geografía",
+            "https://guyanatourism.com/about-us-2/"
+          ],
+          [
+            "Turismo de Guyana — conservación comunitaria",
+            "https://guyanatourism.com/conservation/"
+          ]
+        ],
+        "scope": "Información de planificación revisada el 8 de octubre de 2026. El alojamiento, las actividades, la disponibilidad y el transporte requieren confirmación en una propuesta individual. Guyana forma parte del Escudo Guayanés; estas guías no clasifican todos sus ríos como pertenecientes a la cuenca del Amazonas.",
+        "slug": "",
+        "h1": "Viajes por la selva de Guyana",
+        "title": "Selva de Guyana | Regiones y planificación de viajes",
+        "description": "Descubre la selva de Guyana: Iwokrama, Rupununi, alojamientos y estancias comunitarias, con conexiones claras entre la costa y el interior.",
+        "lede": "Bosque, ríos y sabanas: elija un viaje diseñado alrededor de sus intereses, con las conexiones y el confort debidamente considerados.",
+        "quick": [
+          "¿Por dónde debo empezar?",
+          "Elija primero su paisaje principal y su base para pernoctar, luego confirme las conexiones, el tiempo útil de actividades y el nivel de confort. Las rutas forestales y del Rupununi en Guyana requieren arreglos prácticos diferentes."
+        ],
+        "links": [
+          [
+            "/es/guyana/",
+            "guía de Guyana"
+          ],
+          [
+            "/es/guyana/planifica-tu-viaje-a-la-selva/",
+            "guía de planificación de viajes a Guyana"
+          ],
+          [
+            "/es/peru/",
+            "guía de Perú"
+          ],
+          [
+            "/es/colombia/",
+            "guía de Colombia"
+          ]
+        ],
+        "context_links": [
+          [
+            "guía de Guyana",
+            "/es/guyana/"
+          ],
+          [
+            "guía de planificación de viajes a Guyana",
+            "/es/guyana/planifica-tu-viaje-a-la-selva/"
+          ],
+          [
+            "guía de Perú",
+            "/es/peru/"
+          ],
+          [
+            "guía de Colombia",
+            "/es/colombia/"
+          ]
+        ],
+        "cta": [
+          "Diseñe un viaje alrededor de sus intereses",
+          "Cuéntenos sus fechas, el tamaño del grupo, sus intereses paisajísticos y el confort preferido para que podamos discutir una ruta práctica en Guyana."
+        ],
+        "faqs": [
+          [
+            "¿Es Guyana parte de la cuenca del río Amazonas?",
+            "Guyana forma parte del Escudo Guayanés. Su selva complementa nuestra colección más amplia de países amazónicos, pero un itinerario por Guyana no debe implicar que todos sus ríos pertenezcan a la cuenca del río Amazonas."
+          ],
+          [
+            "¿Debo elegir una base o varias?",
+            "Elija una base principal cuando el tiempo sea limitado. Añada otro paisaje si la conexión sirve a un interés claro y aún deja tiempo significativo para actividades."
+          ],
+          [
+            "¿Están incluidos los vuelos y los traslados al lodge?",
+            "Las inclusiones dependen de la propuesta. Confirme por separado los vuelos nacionales, los traslados al aeropuerto, las conexiones terrestres o fluviales, el alojamiento y los servicios de guía."
+          ],
+          [
+            "¿Pueden garantizar avistamientos de vida silvestre?",
+            "No. Planifique según el hábitat, el conocimiento del guía y el tiempo disponible para la observación; el comportamiento de la fauna y las condiciones varían."
+          ]
+        ],
+        "sections": [
+          [
+            "Elija un viaje por la selva que se ajuste a sus intereses",
+            "Guyana combina extensos bosques, ríos y sabanas del Rupununi con viajes que a menudo dependen de varios traslados conectados. Comience con la experiencia en la que desea pasar tiempo: observación paciente de aves, caminatas guiadas por el bosque, salidas fluviales o una estancia organizada por una comunidad. Una lista corta de prioridades es más útil que una larga lista de alojamientos. Ayuda a identificar qué base para pernoctar le brinda tiempo real en el hábitat que le interesa.",
+            "Guyana pertenece al Escudo Guayanés, y su selva no debe presentarse como si todos sus ríos formaran parte de la cuenca del río Amazonas. Nuestra colección más amplia de bosques incluye a Guyana porque sus viajes por la naturaleza complementan a los países amazónicos. Compare paisajes y estilos de viaje manteniendo clara la geografía. La guía de planificación de viajes a Guyana convierte esa distinción en decisiones sobre acceso, alojamiento y el ritmo de una ruta."
+          ],
+          [
+            "Georgetown y la transición hacia el interior",
+            "Trate la llegada costera y el viaje al interior como partes separadas del itinerario. La autoridad de turismo de Guyana identifica al Aeropuerto Internacional Eugene F. Correia como un centro de conexiones para vuelos nacionales hacia el interior. Confirme el aeropuerto utilizado para cada vuelo, en lugar de asumir que su llegada internacional y su salida nacional comparten una terminal. Su propuesta debe explicar los traslados terrestres, los arreglos de facturación y dónde se hospedarán entre conexiones.",
+            "Una noche de tránsito puede crear espacio útil para reagruparse y ordenar el equipaje, pero el arreglo adecuado depende del horario real del vuelo. Pregunte qué sucede si la llegada se retrasa y quién reorganiza la conexión posterior. Planifique el regreso con la misma atención: una salida al interior que termine justo antes de una salida internacional deja poca flexibilidad cuando cambia el clima o un traslado."
+          ],
+          [
+            "Iwokrama como opción centrada en el bosque",
+            "El Centro Internacional Iwokrama administra un paisaje de selva con roles de conservación, investigación y turismo. Ofrece un punto de partida útil para viajeros que buscan un viaje centrado en el bosque. Distinga el entorno del alojamiento ribereño de la experiencia de la pasarela entre copas al leer una propuesta. Una referencia a Iwokrama no le indica dónde se hospeda, qué actividades están incluidas o cómo se desplaza entre ellas.",
+            "Pida el nombre del alojamiento, la ubicación de la salida y el arreglo del traslado en el mismo documento. Una perspectiva desde las copas y una base ribereña pueden complementarse mutuamente, pero requieren tiempo y conexiones prácticas. Confirme si alguna caminata propuesta se ajusta a su equilibrio, movilidad y confort con las alturas. Los guías deben ayudarle a comprender el hábitat sin sugerir que un animal particular aparecerá según el horario."
+          ],
+          [
+            "Rupununi: considere más que solo el bosque",
+            "El Rupununi añade una dimensión paisajística diferente a un viaje por Guyana. Una ruta a través de sabanas y entornos fluviales debe tener su propio propósito, en lugar de añadirse simplemente para aumentar el número de lugares visitados. Decida si busca un cambio de hábitat, una experiencia organizada por una comunidad o una estancia más lenta con salidas repetidas desde una misma base. Cada elección afecta cuántos traslados son sensatos.",
+            "Para una ruta combinada de bosque y sabana, pregunte dónde cambia el paisaje y cómo el alojamiento apoya sus intereses. El tiempo dedicado a moverse entre bases no es lo mismo que el tiempo explorándolas. Compare dos propuestas por sus mañanas y tardes útiles, incluyendo la recuperación después del viaje. Un itinerario que visite menos lugares puede permitir mejor observación y más espacio para cambios en las condiciones."
+          ],
+          [
+            "Estancias organizadas por comunidades y visitas respetuosas",
+            "Una experiencia organizada por una comunidad merece más planificación que una parada en una lista de turismo. Pregunte quién organiza la visita, cómo se arregla y qué actividades los anfitriones han acordado ofrecer. La fotografía, la participación y el acceso deben seguir las directrices locales. No asuma que un pueblo que aparece en un mapa está abierto para una visita sin organizar ni que los residentes desean ser fotografiados.",
+            "Discuta sus intereses antes de confirmar la ruta. Una conversación sobre artesanías, comida o el paisaje circundante funciona mejor cuando los anfitriones eligen cómo compartirlo. Pregunte cómo llega su pago a las personas que brindan la experiencia y si se incluye un guía local. Mantenga cualquier donación personal separada de las inclusiones del tour prometidas para que el arreglo siga siendo claro para todos los involucrados."
+          ],
+          [
+            "Ajuste el alojamiento a su ritmo diario",
+            "Un lodge ribereño, una base forestal y una estancia comunitaria pueden apoyar días muy diferentes. Compare el entorno junto con el confort práctico: tipo de baño, ventilación, electricidad, horas de carga y qué tan lejos camina entre su habitación y las actividades. Una fotografía hermosa no responde si puede cargar baterías de cámara durante la noche o regresar fácilmente a su habitación entre salidas.",
+            "Pregunte cómo se proporcionan las comidas y el agua potable y si se pueden acomodar necesidades dietéticas para toda la estancia. Explique cualquier necesidad de movilidad o descanso con anticipación. Para fotografía de naturaleza, la posición de la base y el horario de las salidas pueden importar más que los detalles decorativos de la habitación. Los nombres del alojamiento y la disponibilidad de habitaciones deben confirmarse en una propuesta; esta guía no representa un inventario de reservas en vivo."
+          ],
+          [
+            "Elija fechas para la ruta, no una etiqueta nacional única",
+            "La autoridad de turismo de Guyana describe diferentes patrones estacionales para la costa y el interior, por lo que una respuesta de 'mejor mes' único es demasiado general para una ruta variada. Use su región propuesta y actividades para discutir las fechas. El acceso vial, las salidas fluviales y la atmósfera de una estancia forestal pueden responder diferente a la lluvia. Pida al operador que explique las ventajas y limitaciones previstas para su itinerario en lugar de presentar el clima seco como una garantía.",
+            "Construya flexibilidad alrededor de actividades cuyas condiciones pueden cambiar. Un plan sensato explica qué salidas se pueden reorganizar y qué conexiones requieren una salida firme. Niveles más altos de río pueden cambiar el acceso en bote, mientras que las condiciones húmedas de la carretera pueden alterar un segmento terrestre. Estas son consideraciones de planificación, no un pronóstico diario. Confirme las condiciones actuales con las personas responsables del traslado y alojamiento reales."
+          ],
+          [
+            "Observación de vida silvestre sin promesa de lista de verificación",
+            "Elija salidas según el hábitat, el conocimiento del guía y el tiempo disponible para la observación. Un viaje centrado en vida silvestre debe dejar espacio para observar en silencio, visitas repetidas y cambios al día cuando las condiciones lo requieran. Díganos si aves, mamíferos, paisajes o fotografía son su principal interés. Eso ayuda a dar ritmo sin convertir el viaje en una promesa de avistamientos particulares.",
+            "Evite alimentar, manipular o acercarse a animales para asegurar una fotografía. Siga las instrucciones del guía sobre distancia, ruido y luces, y discuta cualquier equipo fotográfico especializado con anticipación. Una buena explicación previa cubre el comportamiento esperado de los visitantes así como lo que podrían observar. Para un grupo de intereses mixtos, equilibre salidas enfocadas con descansos cómodos para que todos entiendan el ritmo antes de reservar."
+          ],
+          [
+            "Un punto de partida práctico para su itinerario",
+            "Comience con un paisaje principal y una base para pernoctar que permita explorarlo. Añada una segunda región cuando la conexión apoye un interés claro y se ajuste a su tiempo disponible. Comparta sus fechas de viaje, número de huéspedes, confort preferido y cualquier actividad que le importe especialmente. Describa cómo sería un día satisfactorio, incluyendo cuánto tiempo está cómodo pasando en vehículos o botes.",
+            "Use la guía de planificación de viajes a Guyana para organizar esas prioridades en un esquema de llegada a salida. Solicite una propuesta que identifique traslados, alojamiento, servicios de guía, comidas incluidas y cualquier costo opcional. Para viajeros que comparan países, la guía de Perú y la guía de Colombia ofrecen opciones diferentes de acceso y viajes fluviales. Compare la ruta práctica así como la fotografía del destino antes de elegir dónde pasar sus vacaciones."
+          ]
+        ]
+      }
+    },
+    "planning": {
+      "en": {
+        "type": "planning-guide",
+        "pair_id": "guyana_planning_001",
+        "hero": [
+          "amazon-canoe-group-lake-journey",
+          "Travelers in a canoe on calm water"
+        ],
+        "features": {
+          "1": [
+            "tropical-thatched-lodge-hammock-deck",
+            "Hammock on a thatched building’s deck"
+          ],
+          "4": [
+            "amazon-rainforest-walk-traveler",
+            "Traveler walking through a forest"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Guyana Tourism — travel tips",
+            "https://guyanatourism.com/travel-tips/"
+          ],
+          [
+            "Guyana Tourism — transport planning",
+            "https://guyanatourism.com/plan-your-trip/how-to-get-around/"
+          ],
+          [
+            "Iwokrama International Centre",
+            "https://iwokrama.org/about/"
+          ],
+          [
+            "Guyana Tourism — geography",
+            "https://guyanatourism.com/about-us-2/"
+          ],
+          [
+            "Guyana Tourism — community conservation",
+            "https://guyanatourism.com/conservation/"
+          ]
+        ],
+        "scope": "Planning information reviewed October 8, 2026. Accommodation, activities, availability and transport require confirmation in an individual proposal. Guyana is part of the Guiana Shield; these guides do not classify all its rivers as Amazon-basin rivers.",
+        "slug": "plan-your-rainforest-trip",
+        "h1": "Plan your Guyana rainforest trip",
+        "title": "Plan a Guyana Rainforest Trip | Routes & Transfers",
+        "description": "Build a practical Guyana rainforest itinerary: compare bases, flight and road transfers, nights, comfort, inclusions and regional conditions.",
+        "lede": "Turn your rainforest priorities into a route with clear transfers, meaningful time at each base and realistic daily pacing.",
+        "quick": [
+          "Where should I start?",
+          "Choose your principal landscape and overnight base first, then confirm connections, usable activity time and comfort. Guyana forest and Rupununi routes need different practical arrangements."
+        ],
+        "links": [
+          [
+            "/guyana/",
+            "Guyana overview"
+          ],
+          [
+            "/guyana/plan-your-rainforest-trip/",
+            "Guyana trip-planning guide"
+          ],
+          [
+            "/peru/",
+            "Peru overview"
+          ],
+          [
+            "/colombia/",
+            "Colombia overview"
+          ]
+        ],
+        "context_links": [
+          [
+            "Guyana overview",
+            "/guyana/"
+          ],
+          [
+            "Guyana trip-planning guide",
+            "/guyana/plan-your-rainforest-trip/"
+          ],
+          [
+            "Peru overview",
+            "/peru/"
+          ],
+          [
+            "Colombia overview",
+            "/colombia/"
+          ]
+        ],
+        "cta": [
+          "Shape a journey around your interests",
+          "Tell us your dates, group size, landscape interests and preferred comfort so we can discuss a practical Guyana route."
+        ],
+        "faqs": [
+          [
+            "Is Guyana part of the Amazon River basin?",
+            "Guyana is part of the Guiana Shield. Its rainforest complements our wider Amazon-country collection, but a Guyana itinerary should not imply that every river belongs to the Amazon River basin."
+          ],
+          [
+            "Should I choose one base or several?",
+            "Choose one principal base when time is limited. Add another landscape when the connection serves a clear interest and still leaves meaningful activity time."
+          ],
+          [
+            "Are flights and lodge transfers included?",
+            "Inclusions depend on the proposal. Confirm domestic flights, airport transfers, ground or river connections, accommodation and guide services separately."
+          ],
+          [
+            "Can you guarantee wildlife sightings?",
+            "No. Plan by habitat, guide knowledge and observation time; wildlife behavior and conditions vary."
+          ]
+        ],
+        "sections": [
+          [
+            "Define the experience before choosing the route",
+            "Write down your two or three strongest interests before comparing a Guyana itinerary. Forest walks, birdwatching, river journeys and a community stay can all be worthwhile, but they do not require the same base or daily pace. Explain whether you prefer repeated outings from one comfortable lodge or moving between contrasting landscapes. This gives a planner a useful brief instead of a list of place names without priorities.",
+            "The Guyana overview introduces the difference between forest and Rupununi travel settings. Use it to decide which landscape should anchor the journey. If photography is central, mention your preferred subjects, equipment and patience for long observation periods. For a family or mixed-interest group, describe who enjoys early starts, longer walks and boat outings so that the proposed day works for everyone."
+          ],
+          [
+            "Map every connection from arrival to departure",
+            "A complete plan names each airport, road transfer, boat leg and overnight stop. Guyana Tourism describes domestic air services through Eugene F. Correia International Airport, but the actual carrier, flight and destination need confirmation for your dates. Ask how you move from the international arrival to your first night and then onward to the interior. Do not treat a domestic flight label as an entire transfer arrangement.",
+            "Apply the same method to the return journey. Identify who meets you, where luggage is collected and what buffer separates the interior transfer from an international departure. Ask who is responsible for a missed connection and which changes carry additional costs. A clear transfer plan should remain understandable to a traveler arriving tired, without relying on an informal assumption that somebody will be waiting."
+          ],
+          [
+            "Compare air and overland travel realistically",
+            "Air travel can reduce time spent on the ground, while overland travel may offer a different experience of the route. Compare the full connection rather than the headline flight or drive time: airport transfers, check-in, pickup at the airstrip and the final leg to accommodation all count. Guyana Tourism notes that roads into the interior can be challenging in wet conditions. Confirm the proposed vehicle and current route suitability.",
+            "For any small-aircraft segment, get the carrier’s baggage allowance and excess-luggage arrangement in writing. Camera equipment and a large suitcase can change what is practical. Ask whether weight limits apply to checked luggage alone or the combined load, and what happens if extra space is unavailable. Packing decisions should follow the actual transport agreement, not a general internet allowance applied to every flight."
+          ],
+          [
+            "Allocate nights to usable activity time",
+            "Count full mornings and afternoons at each base rather than counting destination names. An arrival after a long transfer may leave little time for an outing, and an early departure can remove the final morning. Ask the planner to show approximate activity windows around each connection. This reveals whether a two-night stop genuinely supports your priorities or is mainly a place to sleep between transfers.",
+            "Keep the first interior day realistic, particularly if you have an early start or several transport changes. A quieter arrival followed by a full day may be more rewarding than forcing an outing into every available hour. For specialist birding or photography, discuss repeat opportunities and unhurried observation. The route should support the experience rather than make the traveler rush to satisfy a printed schedule."
+          ],
+          [
+            "Separate accommodation comfort from activity access",
+            "List the comfort details that affect your enjoyment: bathroom arrangements, ventilation, charging availability, walking distance and meal provision. Then ask how the base connects to the outings you want. A room can look appealing while requiring a substantial transfer to the activity you imagined was nearby. Compare the accommodation name, overnight setting and guide arrangement together before deciding between proposals.",
+            "Explain medical, mobility or dietary requirements privately before confirming the itinerary. Ask what the property can actually provide and what must be brought with you. Charging schedules can matter for phones, camera batteries and equipment, while communication arrangements matter for keeping in touch. A useful response describes the practical facility and its limits, rather than offering a vague assurance that everything will be fine."
+          ],
+          [
+            "Check inclusions and optional costs line by line",
+            "Request an itemized proposal showing accommodation, meals, drinking water, guide services, transport and any activity charges. Ask whether airport transfers, domestic flights and transfers between forest facilities are included or separately priced. Confirm the basis of the quote, such as a private group or a shared departure, and how the price changes if the number of travelers changes.",
+            "Keep optional activities and personal expenses visible. Ask for payment deadlines, cancellation terms and the procedure if weather changes a planned connection. Do not compare totals until you understand what each proposal includes. Our inquiry form gathers your initial priorities; it does not reserve accommodation, confirm availability or create a paid booking. Those details belong in the subsequent written proposal and confirmation."
+          ],
+          [
+            "Arrange community experiences with the hosts",
+            "If a community stay or visit is important, explain what you hope to learn and ask how the experience is arranged. Confirm the hosts, local guide and activities agreed for your visit. Photography and participation should follow the hosts’ preferences. Build time for conversation without expecting residents to perform a fixed program or accommodate an unannounced arrival.",
+            "Ask how the visit contributes to those providing it and whether the same community manages the accommodation or guiding. Respect any restrictions on access and photographs. If you want to buy crafts, discuss suitable opportunities without making purchases a condition of the interaction. A careful arrangement values the hosts’ choices and makes the expectations clear before you arrive."
+          ],
+          [
+            "Make a regional weather and equipment plan",
+            "Discuss dates in relation to the coast, forest interior and savannah portions of your route. Guyana Tourism’s seasonal guidance distinguishes the coast from the interior; it should be a starting point for questions, not a guarantee about your travel day. Ask which transfers or outings are most sensitive to rain and what alternative arrangement is available if conditions change.",
+            "Prepare breathable clothing, rain protection, appropriate footwear and a way to keep equipment dry. Confirm luggage restrictions before purchasing bags or packing heavy camera gear. Ask about drinking water, charging opportunities and the equipment supplied for activities. Health and entry requirements should be checked with the relevant current official sources and a qualified travel-health professional for your circumstances, rather than inferred from a general packing list."
+          ],
+          [
+            "Send a brief that produces a useful proposal",
+            "Share your dates, guest count, main interests, preferred comfort and the amount of time available after international travel. Include any firm commitments, such as an onward flight, and distinguish essential activities from preferences. Describe whether you want one base or a route with contrasting landscapes. A clear brief allows the planner to explain a sensible sequence and identify information still needed from you.",
+            "Return to the Guyana overview when comparing landscape options, and use the Peru overview or Colombia overview if you are still choosing between countries. Ask for a proposal with overnight locations and connections visible on each day. Once you have it, review pacing and inclusions before payment. The aim is a journey with enough time to appreciate the place, not the greatest possible number of stops."
+          ]
+        ]
+      },
+      "es": {
+        "type": "planning-guide",
+        "pair_id": "guyana_planning_001",
+        "hero": [
+          "amazon-canoe-group-lake-journey",
+          "Viajeros en una canoa sobre aguas tranquilas"
+        ],
+        "features": {
+          "1": [
+            "tropical-thatched-lodge-hammock-deck",
+            "Hamaca en la cubierta de un edificio de paja"
+          ],
+          "4": [
+            "amazon-rainforest-walk-traveler",
+            "Viajero caminando por un bosque"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Turismo de Guyana — consejos de viaje",
+            "https://guyanatourism.com/travel-tips/"
+          ],
+          [
+            "Turismo de Guyana — planificación del transporte",
+            "https://guyanatourism.com/plan-your-trip/how-to-get-around/"
+          ],
+          [
+            "Centro Internacional Iwokrama",
+            "https://iwokrama.org/about/"
+          ],
+          [
+            "Turismo de Guyana — geografía",
+            "https://guyanatourism.com/about-us-2/"
+          ],
+          [
+            "Turismo de Guyana — conservación comunitaria",
+            "https://guyanatourism.com/conservation/"
+          ]
+        ],
+        "scope": "Información de planificación revisada el 8 de octubre de 2026. El alojamiento, las actividades, la disponibilidad y el transporte requieren confirmación en una propuesta individual. Guyana forma parte del Escudo Guayanés; estas guías no clasifican todos sus ríos como ríos de la cuenca del Amazonas.",
+        "slug": "planifica-tu-viaje-a-la-selva",
+        "h1": "Planifique su viaje al bosque de Guyana",
+        "title": "Planifica tu viaje a Guyana | Rutas y traslados",
+        "description": "Organiza tu viaje a la selva de Guyana: bases, vuelos, traslados, noches, comodidad y servicios incluidos para una ruta con buen ritmo.",
+        "lede": "Transforme sus prioridades del bosque en una ruta con traslados claros, tiempo significativo en cada base y un ritmo diario realista.",
+        "quick": [
+          "¿Por dónde debo empezar?",
+          "Elija primero su paisaje principal y la base para pernoctar, luego confirme las conexiones, el tiempo de actividad utilizable y el confort. Las rutas del bosque de Guyana y del Rupununi requieren arreglos prácticos diferentes."
+        ],
+        "links": [
+          [
+            "/es/guyana/",
+            "guía de Guyana"
+          ],
+          [
+            "/es/guyana/planifica-tu-viaje-a-la-selva/",
+            "Guía de planificación de viajes a Guyana"
+          ],
+          [
+            "/es/peru/",
+            "guía de Perú"
+          ],
+          [
+            "/es/colombia/",
+            "guía de Colombia"
+          ]
+        ],
+        "context_links": [
+          [
+            "guía de Guyana",
+            "/es/guyana/"
+          ],
+          [
+            "guía de planificación de viajes a Guyana",
+            "/es/guyana/planifica-tu-viaje-a-la-selva/"
+          ],
+          [
+            "guía de Perú",
+            "/es/peru/"
+          ],
+          [
+            "guía de Colombia",
+            "/es/colombia/"
+          ]
+        ],
+        "cta": [
+          "Diseñe un viaje en torno a sus intereses",
+          "Cuéntenos sus fechas, el tamaño del grupo, los intereses paisajísticos y el confort preferido para que podamos discutir una ruta práctica de Guyana."
+        ],
+        "faqs": [
+          [
+            "¿Es Guyana parte de la cuenca del río Amazonas?",
+            "Guyana forma parte del Escudo Guayanés. Su bosque complementa nuestra colección más amplia de países amazónicos, pero un itinerario de Guyana no debe implicar que todos los ríos pertenezcan a la cuenca del río Amazonas."
+          ],
+          [
+            "¿Debería elegir una base o varias?",
+            "Elija una base principal cuando el tiempo sea limitado. Añada otro paisaje cuando la conexión sirva a un interés claro y aún deje tiempo significativo de actividad."
+          ],
+          [
+            "¿Están incluidos los vuelos y los traslados al lodge?",
+            "Las inclusiones dependen de la propuesta. Confirme por separado los vuelos nacionales, los traslados al aeropuerto, las conexiones terrestres o fluviales, el alojamiento y los servicios de guía."
+          ],
+          [
+            "¿Pueden garantizar avistamientos de vida silvestre?",
+            "No. Planifique según el hábitat, el conocimiento del guía y el tiempo de observación; el comportamiento de la fauna y las condiciones varían."
+          ]
+        ],
+        "sections": [
+          [
+            "Defina la experiencia antes de elegir la ruta",
+            "Escriba sus dos o tres intereses más fuertes antes de comparar un itinerario de Guyana. Los paseos por el bosque, la observación de aves, los viajes en río y una estancia comunitaria pueden ser todos valiosos, pero no requieren la misma base ni el mismo ritmo diario. Explique si prefiere salidas repetidas desde un lodge cómodo o moverse entre paisajes contrastantes. Esto le da al planificador una instrucción útil en lugar de una lista de nombres de lugares sin prioridades.",
+            "El guía de Guyana introduce la diferencia entre los entornos de viaje del bosque y el Rupununi. Úselo para decidir qué paisaje debe anclar el viaje. Si la fotografía es central, mencione sus sujetos preferidos, su equipo y su paciencia para períodos largos de observación. Para un grupo familiar o con intereses mixtos, describa quién disfruta de las salidas tempranas, los paseos más largos y las excursiones en bote para que el día propuesto funcione para todos."
+          ],
+          [
+            "Detalle cada conexión desde la llegada hasta la partida",
+            "Un plan completo nombra cada aeropuerto, traslado por carretera, tramo en bote y parada de pernoctación. La autoridad de turismo de Guyana describe los servicios aéreos nacionales a través del Aeropuerto Internacional Eugene F. Correia, pero la aerolínea real, el vuelo y el destino necesitan confirmación para sus fechas. Pregunte cómo se mueve desde la llegada internacional hasta su primera noche y luego hacia el interior. No trate una etiqueta de vuelo nacional como un arreglo de traslado completo.",
+            "Aplicue el mismo método al viaje de regreso. Identifique quién le recibe, dónde se recoge el equipaje y qué margen separa el traslado del interior de una salida internacional. Pregunte quién es responsable de una conexión perdida y qué cambios conllevan costos adicionales. Un plan de traslado claro debe ser comprensible para un viajero que llega cansado, sin depender de una suposición informal de que alguien estará esperando."
+          ],
+          [
+            "Compare el viaje aéreo y terrestre de manera realista",
+            "El viaje aéreo puede reducir el tiempo en tierra, mientras que el viaje terrestre puede ofrecer una experiencia diferente de la ruta. Compare la conexión completa en lugar del tiempo de vuelo o conducción principal: los traslados al aeropuerto, el check-in, la recogida en la pista de aterrizaje y el tramo final hasta el alojamiento cuentan todos. La autoridad de turismo de Guyana señala que las carreteras hacia el interior pueden ser desafiantes en condiciones húmedas. Confirme el vehículo propuesto y la idoneidad de la ruta actual.",
+            "Para cualquier segmento de aeronave pequeña, obtenga por escrito el límite de equipaje dla aerolínea y el arreglo para el exceso de equipaje. El equipo de cámara y una maleta grande pueden cambiar lo que es práctico. Pregunte si los límites de peso aplican solo al equipaje facturado o a la carga combinada, y qué sucede si no hay espacio extra. Las decisiones sobre el equipaje deben seguir el acuerdo de transporte real, no un límite general de internet aplicado a cada vuelo."
+          ],
+          [
+            "Asigne noches a tiempo de actividad utilizable",
+            "Cuente las mañanas y tardes completas en cada base en lugar de contar nombres de destinos. Una llegada después de un traslado largo puede dejar poco tiempo para una excursión, y una salida temprana puede eliminar la última mañana. Pídale al planificador que muestre periodos para actividades aproximadas alrededor de cada conexión. Esto revela si una parada de dos noches apoya genuinamente sus prioridades o es principalmente un lugar para dormir entre traslados.",
+            "Mantenga el primer día en el interior realista, especialmente si tiene una salida temprana o varios cambios de transporte. Una llegada tranquila seguida de un día completo puede ser más gratificante que forzar una excursión en cada hora disponible. Para la observación especializada de aves o fotografía, discuta oportunidades repetidas y observación sin prisas. La ruta debe apoyar la experiencia en lugar de hacer que el viajero se apresure para satisfacer un horario impreso."
+          ],
+          [
+            "Separe el confort del alojamiento del acceso a las actividades",
+            "Liste los detalles de confort que afectan su disfrute: tipo de baño, ventilación, disponibilidad de carga, distancia de caminata y provisión de comidas. Luego pregunte cómo la base se conecta con las excursiones que desea. Una habitación puede parecer atractiva mientras requiere un traslado sustancial a la actividad que imaginó estaba cerca. Compare el nombre del alojamiento, la entorno del alojamiento y el arreglo de guía juntos antes de decidir entre propuestas.",
+            "Explique sus requisitos médicos, de movilidad o dietéticos en privado antes de confirmar el itinerario. Pregunte qué puede proporcionar realmente la propiedad y lo que debe llevar consigo. Los horarios de carga pueden importar para teléfonos, baterías de cámara y equipo, mientras que los arreglos de comunicación importan para mantenerse en contacto. Una respuesta útil describe la instalación práctica y sus límites, en lugar de ofrecer una garantía vaga de que todo estará bien."
+          ],
+          [
+            "Revise las inclusiones y costos opcionales línea por línea",
+            "Solicite una propuesta detallada que muestre alojamiento, comidas, agua potable, servicios de guía, transporte y cualquier cargo de actividad. Pregunte si los traslados al aeropuerto, vuelos nacionales y traslados entre instalaciones forestales están incluidos o tienen precio separado. Confirme la base de la cotización, como un grupo privado o una salida compartida, y cómo cambia el precio si el número de viajeros cambia.",
+            "Mantenga las actividades opcionales y gastos personales visibles. Pida fechas límite de pago, términos de cancelación y el procedimiento si el clima cambia una conexión planificada. No compare totales hasta que entienda qué incluye cada propuesta. Nuestro formulario de consulta recopila sus prioridades iniciales; no reserva alojamiento, confirma disponibilidad ni crea una reserva pagada. Esos detalles pertenecen a la propuesta escrita y confirmación subsiguiente."
+          ],
+          [
+            "Organice experiencias comunitarias con los anfitriones",
+            "Si una estancia o visita comunitaria es importante, explique lo que espera aprender y pregunte cómo se organiza la experiencia. Confirme a los anfitriones, el guía local y las actividades acordadas para su visita. La fotografía y la participación deben seguir las preferencias de los anfitriones. Construya tiempo para la conversación sin esperar que los residentes ejecuten un programa fijo o acomoden una llegada no anunciada.",
+            "Pregunte cómo contribuye la visita a quienes la proporcionan y si la misma comunidad gestiona el alojamiento o la guía. Respete cualquier restricción de acceso y fotografías. Si desea comprar artesanías, discuta oportunidades adecuadas sin hacer que las compras sean una condición de la interacción. Un arreglo cuidadoso valora las elecciones de los anfitriones y aclara las expectativas antes de su llegada."
+          ],
+          [
+            "Elabore un plan regional de clima y equipo",
+            "Discuta fechas en relación con la costa, el interior del bosque y las porciones de sabana de su ruta. La guía estacional del Turismo de Guyana distingue la costa del interior; debe ser un punto de partida para preguntas, no una garantía sobre su día de viaje. Pregunte qué traslados o excursiones son más sensibles a la lluvia y qué arreglo alternativo está disponible si las condiciones cambian.",
+            "Prepare ropa transpirable, protección contra la lluvia, calzado adecuado y una manera de mantener el equipo seco. Confirme restricciones de equipaje antes de comprar bolsas o cargar equipo de cámara pesado. Pregunte sobre agua potable, oportunidades de carga y el equipo proporcionado para actividades. Los requisitos de salud y entrada deben verificarse con las fuentes oficiales actuales relevantes y un profesional de medicina del viajero calificado para sus circunstancias, en lugar de inferirse de una lista general de equipaje."
+          ],
+          [
+            "Envíe una descripción que produzca una propuesta útil",
+            "Comparta sus fechas, número de huéspedes, intereses principales, confort preferido y la cantidad de tiempo disponible después del viaje internacional. Incluya cualquier compromiso firme, como un vuelo subsiguiente, y distinga actividades esenciales de preferencias. Describa si desea una base o una ruta con paisajes contrastantes. Una descripción clara permite al planificador explicar una secuencia sensata e identificar información que aún necesita de usted.",
+            "Vuelva al guía de Guyana al comparar opciones de paisaje, y use el guía de Perú o la guía de Colombia si aún está eligiendo entre países. Pida una propuesta con ubicaciones de pernoctación y conexiones visibles cada día. Una vez que la tenga, revise el ritmo y las inclusiones antes del pago. El objetivo es un viaje con suficiente tiempo para apreciar el lugar, no el mayor número posible de paradas."
+          ]
+        ]
+      }
+    }
+  }
+}

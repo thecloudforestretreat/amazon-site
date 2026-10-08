@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-08",
+  "sources": [
+    {
+      "url": "https://guyanatourism.com/travel-tips/",
+      "reviewed_claims": [
+        "Regional seasonal differences",
+        "Equipment preparation and charging limitations"
+      ],
+      "limit": "No dates, weather guarantee or universal baggage allowance asserted"
+    },
+    {
+      "url": "https://guyanatourism.com/plan-your-trip/how-to-get-around/",
+      "reviewed_claims": [
+        "Interior road, river and domestic-air options",
+        "Eugene F. Correia domestic gateway"
+      ],
+      "limit": "Schedules, prices and baggage allowance require carrier confirmation"
+    },
+    {
+      "url": "https://iwokrama.org/about/",
+      "reviewed_claims": [
+        "Conservation, research and tourism role"
+      ],
+      "limit": "No wildlife or lodge availability claims"
+    },
+    {
+      "url": "https://guyanatourism.com/about-us-2/",
+      "reviewed_claims": [
+        "Guiana Shield geography"
+      ]
+    },
+    {
+      "url": "https://guyanatourism.com/conservation/",
+      "reviewed_claims": [
+        "Community conservation and Rupununi context"
+      ]
+    }
+  ],
+  "geography_review": "Guyana Guiana Shield rainforest; no assertion all rivers are Amazon basin",
+  "english_editorial_review": "Nine substantial sections and four FAQs per page; practical planning advice independently authored",
+  "image_status": "Temporary owner-licensed generic forest subjects reused; no named Guyana capture site claims; replacement imagery required for release",
+  "translation_status": "Local model running; raw output not published"
+}

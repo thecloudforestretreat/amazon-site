@@ -1,0 +1,18 @@
+{
+  "deployment": "f9445fa3",
+  "rollback_staging": "430fe721",
+  "pairs": 2,
+  "pages": 4,
+  "technical_qa": "passed",
+  "local_usage_file": "planning/ai-os/guyana-batch1-translation-usage.json",
+  "local_tokens": 9772,
+  "retries": 0,
+  "cache_hits": 0,
+  "bilingual_review": "Both local drafts reviewed; gender, wording, image alt and locale URL corrections applied. All nine sections retained.",
+  "limits": [
+    "Temporary geographically unverified generic owner imagery",
+    "Desktop/mobile and authenticated browser review blocked by unavailable policy check",
+    "Inlinks grow with later country batches; first batch currently one or two incoming main-content pages"
+  ],
+  "production_deployed": false
+}

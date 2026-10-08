@@ -1,0 +1,25 @@
+{
+  "runs": [
+    {
+      "topic": "hub",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2189,
+      "output_tokens": 2697,
+      "seconds": 123.62,
+      "retries": 0,
+      "cache_hits": 0,
+      "done_reason": "stop"
+    },
+    {
+      "topic": "planning",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2178,
+      "output_tokens": 2708,
+      "seconds": 118.48,
+      "retries": 0,
+      "cache_hits": 0,
+      "done_reason": "stop"
+    }
+  ],
+  "total_local_tokens": 9772
+}

@@ -1,0 +1,56 @@
+{
+  "country": "guyana",
+  "owner_authorized": true,
+  "scope": "Protected staging only",
+  "planned_pairs": 12,
+  "planned_pages": 24,
+  "batch_size_pairs": 2,
+  "staged_pairs": 2,
+  "staged_pages": 4,
+  "status": "batch1_staged_technical_pass_visual_pending",
+  "topics": [
+    "Overview",
+    "Trip planning",
+    "Georgetown gateway",
+    "Iwokrama",
+    "Rupununi",
+    "Community stays",
+    "Rainforest accommodation",
+    "River journeys",
+    "Best time to visit",
+    "Wildlife",
+    "How to get there",
+    "Packing"
+  ],
+  "next_batch": [
+    "Georgetown gateway",
+    "Iwokrama"
+  ],
+  "pending": [
+    "Bilingual review",
+    "Technical and protected staging QA",
+    "Destination imagery",
+    "Desktop/mobile review",
+    "Country release QA",
+    "Owner production authorization"
+  ],
+  "deployment": "f9445fa3",
+  "local_tokens_recorded": 9772,
+  "qa": {
+    "country_pages": 4,
+    "compiled_pages": 176,
+    "errors": 0,
+    "css_contact_tests": 25,
+    "main_words": [
+      1476,
+      1742
+    ],
+    "inlink_range": [
+      1,
+      2
+    ],
+    "production_containment": "passed",
+    "visual_review": "Browser admin-enforced policy unavailable; pending",
+    "authenticated_staging_readback": "pending"
+  }
+}

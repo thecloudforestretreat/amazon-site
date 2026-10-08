@@ -1,7 +1,7 @@
 {
   "project": "experience-the-amazon",
   "branch": "staging",
-  "scope": "Homepage, Ecuador, Peru, Bolivia, Brazil and Colombia live",
+  "scope": "Homepage, Ecuador, Peru, Bolivia, Brazil and Colombia live; Guyana build authorized",
   "supervision": {
     "kind": "thread heartbeat",
     "automation_id": "amazon-staging-supervisor",
@@ -66,7 +66,9 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Preserve Colombia production evidence; Guyana proposed next, awaiting owner build authorization"
+    "Owner review first Guyana pair batch",
+    "Continue Georgetown gateway and Iwokrama in next two-pair batch",
+    "Retain destination imagery and rendered QA release gates"
   ],
   "future_batches": [
     "Reviews deferred by owner; exclude from Ecuador launch",
@@ -109,11 +111,8 @@
     "measured_performance": "pending",
     "contact_delivery": "endpoint absent"
   },
-  "active_batch": [
-    "Colombia how to get there",
-    "Colombia packing"
-  ],
-  "batch_status": "All 12 Colombia pairs/24 pages deployed protected staging 831f0904; technical QA passed, imagery, rendered review and authenticated readback remain release holds",
+  "active_batch": "Guyana overview and trip planning",
+  "batch_status": "First two of twelve pairs on protected staging; technical pass, visual review pending",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",

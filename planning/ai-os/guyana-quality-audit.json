@@ -1,0 +1,125 @@
+{
+  "pages_audited": 4,
+  "errors": [],
+  "pages": [
+    {
+      "route": "/es/guyana/",
+      "main_words": 1728,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/es/",
+        "/es/guyana/planifica-tu-viaje-a-la-selva/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/colombia/",
+        "/es/contacto/",
+        "/es/guyana/planifica-tu-viaje-a-la-selva/",
+        "/es/peru/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/guyana.css?v=20f736e973de"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/guyana/planifica-tu-viaje-a-la-selva/",
+      "main_words": 1742,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/es/guyana/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/colombia/",
+        "/es/contacto/",
+        "/es/guyana/",
+        "/es/peru/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/guyana.css?v=20f736e973de"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/guyana/",
+      "main_words": 1476,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/",
+        "/guyana/plan-your-rainforest-trip/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/colombia/",
+        "/contact/",
+        "/guyana/plan-your-rainforest-trip/",
+        "/peru/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/guyana.css?v=20f736e973de"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/guyana/plan-your-rainforest-trip/",
+      "main_words": 1484,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/guyana/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/colombia/",
+        "/contact/",
+        "/guyana/",
+        "/peru/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/guyana.css?v=20f736e973de"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    }
+  ],
+  "limits": [
+    "Content counts do not prove editorial quality",
+    "Staging intentionally blocked from indexing; production eligibility requires country release",
+    "No live rankings, AI citations or field Core Web Vitals assessed"
+  ]
+}
