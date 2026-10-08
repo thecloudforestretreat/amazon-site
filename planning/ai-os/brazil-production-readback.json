@@ -1,0 +1,181 @@
+{
+  "deployment": "b2d0032f",
+  "rollback": "6cafb6c1-5574-4bd1-9b9e-1933ed63deb6",
+  "checks": [
+    {
+      "route": "/brazil/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/brazil/manaus/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/brazil/rio-negro/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/brazil/river-journeys/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/brazil/best-time-to-visit/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/brazil/plan-your-amazon-trip/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/brazil/packing-list/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/brazil/wildlife/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/brazil/how-to-get-there/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/brazil/anavilhanas/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/brazil/amazon-lodges/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/brazil/alter-do-chao/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/brazil/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/brazil/manaus/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/brazil/rio-negro/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/brazil/viajes-fluviales/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/brazil/lodges-en-la-amazonia/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/brazil/como-llegar/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/brazil/fauna/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/brazil/mejor-epoca-para-visitar/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/brazil/planifica-tu-viaje-a-la-amazonia/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/brazil/que-llevar/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/brazil/anavilhanas/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/brazil/alter-do-chao/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/ecuador/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/peru/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/bolivia/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/contact/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/es/contacto/",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/sitemap.xml",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/robots.txt",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "route": "/api/contact",
+      "status": 200,
+      "config": {
+        "enabled": true,
+        "siteKey": "0x4AAAAAAFPyuOOIZedIgdoK"
+      },
+      "issues": []
+    }
+  ],
+  "errors": []
+}

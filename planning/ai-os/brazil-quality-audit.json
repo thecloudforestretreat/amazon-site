@@ -7,6 +7,7 @@
       "main_words": 1483,
       "h2_sections": 14,
       "main_content_inlinks": [
+        "/",
         "/brazil/manaus/",
         "/brazil/rio-negro/",
         "/brazil/river-journeys/",
@@ -237,7 +238,7 @@
     },
     {
       "route": "/brazil/how-to-get-there/",
-      "main_words": 1512,
+      "main_words": 1503,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/brazil/",
@@ -283,7 +284,7 @@
     },
     {
       "route": "/brazil/manaus/",
-      "main_words": 1565,
+      "main_words": 1556,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/brazil/",
@@ -424,7 +425,7 @@
     },
     {
       "route": "/brazil/rio-negro/",
-      "main_words": 1539,
+      "main_words": 1530,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/brazil/",
@@ -470,7 +471,7 @@
     },
     {
       "route": "/brazil/river-journeys/",
-      "main_words": 1582,
+      "main_words": 1573,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/brazil/",
@@ -565,6 +566,7 @@
       "main_words": 1707,
       "h2_sections": 14,
       "main_content_inlinks": [
+        "/es/",
         "/es/brazil/manaus/",
         "/es/brazil/rio-negro/",
         "/es/brazil/viajes-fluviales/",
@@ -709,7 +711,7 @@
     },
     {
       "route": "/es/brazil/como-llegar/",
-      "main_words": 1495,
+      "main_words": 1486,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/brazil/",
@@ -847,7 +849,7 @@
     },
     {
       "route": "/es/brazil/manaus/",
-      "main_words": 1726,
+      "main_words": 1717,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/brazil/",
@@ -1034,7 +1036,7 @@
     },
     {
       "route": "/es/brazil/rio-negro/",
-      "main_words": 1693,
+      "main_words": 1684,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/brazil/",
@@ -1080,7 +1082,7 @@
     },
     {
       "route": "/es/brazil/viajes-fluviales/",
-      "main_words": 1637,
+      "main_words": 1628,
       "h2_sections": 14,
       "main_content_inlinks": [
         "/es/brazil/",

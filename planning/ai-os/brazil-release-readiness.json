@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
-  "status": "staged_content_complete_not_launch_ready",
-  "deployment": "6ad52150",
+  "status": "production_live_http_verified_visual_delivery_pending",
+  "deployment": "b2d0032f",
   "pairs": 12,
   "pages": 24,
   "technical_checks": {
@@ -15,18 +15,26 @@
     "four_new_protected_routes": true
   },
   "pending": [
-    "Desktop/mobile visual review and interaction checks: browser admin policy verification unavailable",
-    "Authenticated staging readback",
-    "Final geographically specific image selection and review; illustrative stock remains qualified",
-    "Real Brazil inquiry delivery test and inbox confirmation",
-    "Owner production release authorization"
+    "Desktop/mobile rendered review: browser admin-enforced policy verification unavailable",
+    "Real Brazil inquiry delivery and inbox confirmation"
   ],
-  "production_authorized": false,
+  "production_authorized": true,
   "rollback": {
-    "deployment": "f798509e",
-    "source_parent": "71fba5a"
+    "deployment": "6cafb6c1-5574-4bd1-9b9e-1933ed63deb6"
   },
   "cost_tracking": "Local tokens 8026 this batch; cloud/local percentage and dollars unmeasured",
   "image_update_evidence": "planning/ai-os/brazil-image-update.json",
-  "image_status": "Owner-uploaded photos mapped across all 24 pages; subject review complete, exact stock capture locations not verified; visual staging review pending"
+  "image_status": "Owner-uploaded photos mapped across all 24 pages; subject review complete, exact stock capture locations not verified; visual staging review pending",
+  "production_scope": "ecuador-peru-bolivia-brazil",
+  "live_qa": {
+    "routes_checked": 34,
+    "brazil_pages": 24,
+    "errors": 0,
+    "image_css_assets_hash_verified": true,
+    "homepage_cards_active": true,
+    "sitemap_brazil_urls": 24,
+    "contact_endpoint_enabled": true,
+    "handler_tests": 17
+  },
+  "evidence": "planning/ai-os/brazil-production-readback.json"
 }

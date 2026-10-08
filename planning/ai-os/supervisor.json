@@ -1,7 +1,7 @@
 {
   "project": "experience-the-amazon",
   "branch": "staging",
-  "scope": "Brazil staging development; homepage, Ecuador, Peru and Bolivia already released with retained release evidence",
+  "scope": "Homepage, Ecuador, Peru, Bolivia and Brazil live after owner-authorized releases; Brazil visual/inbox QA pending",
   "supervision": {
     "kind": "thread heartbeat",
     "automation_id": "amazon-staging-supervisor",
@@ -66,8 +66,8 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Review all twelve Brazil pairs for launch: desktop/mobile visual QA, authenticated readback, final imagery, real inquiry delivery",
-    "Do not start another country or release Brazil production without owner authorization"
+    "Complete Brazil desktop/mobile visual and actual inquiry delivery checks when browser policy is available",
+    "Do not start another country until Brazil QA is complete and owner authorizes next country"
   ],
   "future_batches": [
     "Reviews deferred by owner; exclude from Ecuador launch",
@@ -114,7 +114,7 @@
     "Access EN/ES",
     "Packing EN/ES"
   ],
-  "batch_status": "Brazil image update deployed 6ad52150; all 24 pages technical QA pass; browser policy blocks visual/authenticated QA",
+  "batch_status": "Brazil production b2d0032f: 24 pages live HTTP and assets verified; rendered and inbox QA pending",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",

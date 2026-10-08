@@ -2,8 +2,8 @@
   "country": "brazil",
   "date": "2026-10-08",
   "owner_authorized": "Owner requested next two-pair batch; protected staging only",
-  "stage": "twelve_pairs_deployed_technical_checks_pass_release_qa_pending",
-  "deployment": "6ad52150",
+  "stage": "production_live_http_verified_visual_delivery_pending",
+  "deployment": "b2d0032f",
   "previous_staging_deployment": "f798509e",
   "pairs": [
     {
@@ -70,7 +70,7 @@
   "progress": {
     "staged_pairs": 12,
     "staged_pages": 24,
-    "live_brazil_pages": 0,
+    "live_brazil_pages": 24,
     "launch_verified_pairs": 0,
     "next_batch_candidates": [],
     "remaining_cluster_candidates": [],
@@ -94,12 +94,13 @@
     "authenticated_readback": "not verified",
     "visual_review": "blocked: browser admin security policy verification unavailable",
     "css_delivery_regression_tests": 3,
-    "minimum_paragraph_inlink_pages": 11
+    "minimum_paragraph_inlink_pages": 11,
+    "live_http_errors": 0
   },
   "image_status": "Owner-uploaded photos mapped across all 24 pages; subject review complete, exact stock capture locations not verified; visual staging review pending",
   "local_usage_file": "brazil-batch6-local-usage.json",
   "editorial_checkpoint": "brazil-batch6-reviewed.json",
-  "production_authorized": false,
+  "production_authorized": true,
   "workflow_improvements": [
     "Added Brazil to existing CSS selector groups including compact spacing and dark CTA contrast, without altering established declarations",
     "Added explicit Brazil exclusions to existing country production scopes and validated an isolated output artifact",

@@ -9,6 +9,7 @@ const sourceDir = path.join(rootDir, "src");
 const ecuadorRelease = process.env.ETA_SCOPE === "ecuador";
 const peruRelease = process.env.ETA_SCOPE === "ecuador-peru";
 const boliviaRelease = process.env.ETA_SCOPE === "ecuador-peru-bolivia";
+const brazilRelease = process.env.ETA_SCOPE === "ecuador-peru-bolivia-brazil";
 const outputDir = path.resolve(rootDir, process.env.ETA_OUTPUT || (ecuadorRelease ? "dist-ecuador" : peruRelease ? "dist-release" : boliviaRelease ? "dist-bolivia-release" : "dist"));
 const environment = process.env.ETA_ENV === "production" ? "production" : "staging";
 
@@ -229,7 +230,7 @@ await compilePages();
 await compileEcuadorDestinations();
 await writeRuntimeConfig();
 await writeEnvironmentFiles();
-if (ecuadorRelease || peruRelease || boliviaRelease) {
+if (ecuadorRelease || peruRelease || boliviaRelease || brazilRelease) {
   const files = (await listFiles(outputDir)).filter(file => file.endsWith(".html"));
   const indexable = [];
   for (const file of files) {
