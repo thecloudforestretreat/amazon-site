@@ -1,0 +1,14 @@
+{
+  "status": "EN/ES supervisor reviewed",
+  "review_date": "2026-10-08",
+  "sources": "suriname-batch6-source-review.json",
+  "english": "Supervisor-authored transport and practical preparation guidance; no current visa eligibility, medication, exact schedule or weather promise",
+  "spanish": "Local translations reviewed against English; corrected maritime versus river transport, boarding versus landing, hosted visits, health-professional wording and accommodation mistranslation",
+  "raw_output_retained": true,
+  "local_retries": 0,
+  "cache_hits": 0,
+  "limits": [
+    "Browser policy prevents agent visual review and authenticated readback",
+    "No production release"
+  ]
+}

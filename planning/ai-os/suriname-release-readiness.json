@@ -1,0 +1,20 @@
+{
+  "status": "staging_technical_pass_verification_pending",
+  "content_pairs": 12,
+  "content_pages": 24,
+  "deployment": "66e4a018",
+  "technical_audit_errors": [],
+  "shared_css": "core/editorial/Suriname cluster retained",
+  "regression_tests_passed": 26,
+  "reviewed_bilingual_content": true,
+  "imagery": "Licensed neutral forest/river illustrations; exact destination imagery remains subject to launch review",
+  "pending": [
+    "Desktop/mobile visual review",
+    "Authenticated staging readback",
+    "Live inquiry and guest/admin delivery check",
+    "Owner production release authorization"
+  ],
+  "production_authorized": false,
+  "production_deployed": false,
+  "rollback_deployment": "b639beee"
+}

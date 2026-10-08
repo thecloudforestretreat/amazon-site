@@ -1,0 +1,15 @@
+{
+  "topics": [
+    "Getting there",
+    "Packing and seasonal preparation"
+  ],
+  "batch_size_pairs": 2,
+  "structure": {
+    "sections": 9,
+    "paragraphs_per_section": 2,
+    "faqs": 4
+  },
+  "rollback_deployment": "b639beee",
+  "scope": "Protected staging only",
+  "css": "Shared global/editorial/Suriname CSS; unchanged"
+}

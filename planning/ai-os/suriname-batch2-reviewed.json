@@ -173,6 +173,14 @@
             "Wildlife"
           ],
           [
+            "/suriname/getting-there/",
+            "Getting there"
+          ],
+          [
+            "/suriname/packing-and-preparation/",
+            "Packing and preparation"
+          ],
+          [
             "/contact/",
             "Share your plans"
           ]
@@ -246,6 +254,14 @@
           [
             "Wildlife",
             "/suriname/wildlife/"
+          ],
+          [
+            "Getting there",
+            "/suriname/getting-there/"
+          ],
+          [
+            "Packing and preparation",
+            "/suriname/packing-and-preparation/"
           ]
         ]
       },
@@ -372,6 +388,14 @@
             "Fauna"
           ],
           [
+            "/es/suriname/como-llegar/",
+            "Cómo llegar"
+          ],
+          [
+            "/es/suriname/que-llevar/",
+            "Qué llevar"
+          ],
+          [
             "/es/contacto/",
             "Comparta sus planes"
           ]
@@ -445,6 +469,14 @@
           [
             "Fauna",
             "/es/suriname/fauna/"
+          ],
+          [
+            "Cómo llegar",
+            "/es/suriname/como-llegar/"
+          ],
+          [
+            "Qué llevar",
+            "/es/suriname/que-llevar/"
           ]
         ]
       }
@@ -525,7 +557,7 @@
           [
             "Link your river stay with the rest of Suriname",
             "Use the Paramaribo gateway guide to organize the city stay and the connection into Upper Suriname. If you are comparing other interior regions, start with the Suriname rainforest overview and identify what a second area would add. Keep the return route aligned with fixed onward travel. A well-chosen river base can be the center of the itinerary, rather than one short stop among several places whose transfer demands have not been considered together.",
-            "To plan your Suriname rainforest trip, send dates, group size, the activities you value most and the comfort details that matter. Say whether Pikin Slee is an interest to explore, whether boat travel needs particular attention and how much walking you want. Separate essential needs from flexible preferences. An inquiry begins a planning conversation; it does not reserve a lodge or confirm a community visit. Evaluate the resulting proposal against your priorities before treating its arrangements as booked. Rainforest accommodation and Community stays provide questions for comparing facilities and hosting arrangements. River journeys and Wildlife help compare the purpose of outings and time for observation."
+            "To plan your Suriname rainforest trip, send dates, group size, the activities you value most and the comfort details that matter. Say whether Pikin Slee is an interest to explore, whether boat travel needs particular attention and how much walking you want. Separate essential needs from flexible preferences. An inquiry begins a planning conversation; it does not reserve a lodge or confirm a community visit. Evaluate the resulting proposal against your priorities before treating its arrangements as booked. Rainforest accommodation and Community stays provide questions for comparing facilities and hosting arrangements. River journeys and Wildlife help compare the purpose of outings and time for observation. Getting there and Packing and preparation help prepare the transfers and luggage for the itinerary."
           ]
         ],
         "slug": "upper-suriname",
@@ -571,6 +603,14 @@
           [
             "/suriname/wildlife/",
             "Wildlife"
+          ],
+          [
+            "/suriname/getting-there/",
+            "Getting there"
+          ],
+          [
+            "/suriname/packing-and-preparation/",
+            "Packing and preparation"
           ],
           [
             "/contact/",
@@ -650,6 +690,14 @@
           [
             "Wildlife",
             "/suriname/wildlife/"
+          ],
+          [
+            "Getting there",
+            "/suriname/getting-there/"
+          ],
+          [
+            "Packing and preparation",
+            "/suriname/packing-and-preparation/"
           ]
         ]
       },
@@ -728,7 +776,7 @@
           [
             "Vincule su estancia fluvial con el resto de Suriname",
             "Consulte también la guía de Paramaribo. Consulte la guía de Suriname. Para planificar su viaje a la selva de Suriname, Use la guía de Paramaribo para organizar la estancia en la ciudad y la conexión hacia el Alto Suriname. Si está comparando otras regiones interiores, comience con la guía de la selva de Suriname e identifique qué agregaría una segunda área. Mantenga la ruta de retorno alineada con viajes posteriores fijos. Una base fluvial bien elegida puede ser el centro del itinerario, en lugar de una parada corta entre varios lugares cuyas demandas de traslado no se han considerado juntas.",
-            "Para planificar su viaje al selva de Suriname, envíe fechas, número de viajeros, las actividades que más valora y los detalles de comodidad que importan. Diga si Pikin Slee es un interés a explorar, si el viaje en bote necesita atención particular y cuánto caminar desea. Separe necesidades esenciales de preferencias flexibles. Una consulta inicia una conversación de planificación; no reserva un lodge ni confirma una visita comunitaria. Evalúe la propuesta resultante según sus prioridades antes de considerar confirmados sus servicios. Alojamientos en la selva y Estancias comunitarias ofrecen preguntas para comparar las instalaciones y los acuerdos con anfitriones. Viajes fluviales y Fauna ayudan a comparar el propósito de las salidas y el tiempo para observar."
+            "Para planificar su viaje al selva de Suriname, envíe fechas, número de viajeros, las actividades que más valora y los detalles de comodidad que importan. Diga si Pikin Slee es un interés a explorar, si el viaje en bote necesita atención particular y cuánto caminar desea. Separe necesidades esenciales de preferencias flexibles. Una consulta inicia una conversación de planificación; no reserva un lodge ni confirma una visita comunitaria. Evalúe la propuesta resultante según sus prioridades antes de considerar confirmados sus servicios. Alojamientos en la selva y Estancias comunitarias ofrecen preguntas para comparar las instalaciones y los acuerdos con anfitriones. Viajes fluviales y Fauna ayudan a comparar el propósito de las salidas y el tiempo para observar. Cómo llegar y Qué llevar ayudan a preparar los traslados y el equipaje para el itinerario."
           ]
         ],
         "slug": "alto-suriname",
@@ -774,6 +822,14 @@
           [
             "/es/suriname/fauna/",
             "Fauna"
+          ],
+          [
+            "/es/suriname/como-llegar/",
+            "Cómo llegar"
+          ],
+          [
+            "/es/suriname/que-llevar/",
+            "Qué llevar"
           ],
           [
             "/es/contacto/",
@@ -853,6 +909,14 @@
           [
             "Fauna",
             "/es/suriname/fauna/"
+          ],
+          [
+            "Cómo llegar",
+            "/es/suriname/como-llegar/"
+          ],
+          [
+            "Qué llevar",
+            "/es/suriname/que-llevar/"
           ]
         ]
       }

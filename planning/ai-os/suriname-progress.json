@@ -5,9 +5,9 @@
   "batch_size_pairs": 2,
   "planned_pairs": 12,
   "planned_pages": 24,
-  "staged_pairs": 10,
-  "staged_pages": 20,
-  "status": "batch5_staged_technical_pass_visual_pending",
+  "staged_pairs": 12,
+  "staged_pages": 24,
+  "status": "all_pairs_staged_technical_pass_verification_pending",
   "topics": [
     "Overview",
     "Trip planning",
@@ -23,8 +23,8 @@
     "Packing and seasonal preparation"
   ],
   "active_batch": [
-    "River journeys",
-    "Wildlife"
+    "Getting there",
+    "Packing and seasonal preparation"
   ],
   "quality_gates": [
     "Reviewed EN/ES content",
@@ -35,10 +35,7 @@
     "Protected staging readback"
   ],
   "production_authorized": false,
-  "deployment": "b639beee",
-  "next_batch": [
-    "Getting there",
-    "Packing and seasonal preparation"
-  ],
-  "local_tokens_recorded": 56826
+  "deployment": "66e4a018",
+  "next_batch": [],
+  "local_tokens_recorded": 65966
 }

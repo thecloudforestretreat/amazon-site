@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-08",
+  "sources": [
+    {
+      "url": "https://suriname.travel/transport-in-suriname/",
+      "reviewed_claims": [
+        "Paramaribo to Atjoni road/boat framework",
+        "Zorg en Hoop interior departure framework",
+        "Rain may affect road conditions; no exact schedule or seasonal forecast"
+      ]
+    },
+    {
+      "url": "https://suriname.travel/journey-to-suriname/",
+      "reviewed_claims": [
+        "National arrival guidance used as background; no carrier schedule copied"
+      ]
+    },
+    {
+      "url": "https://suriname.travel/tips-voor-travelers-dos-and-donts/",
+      "reviewed_claims": [
+        "Practical provider and photography context only; no medical or drinking-water instructions republished"
+      ]
+    }
+  ],
+  "failed_fetches": [
+    {
+      "url": "https://suriname.travel/tips-for-travelers/",
+      "result": "Unavailable; correct page found through primary navigation"
+    }
+  ],
+  "limits": [
+    "Current entry requirements directed to authorities/carrier; no eligibility determination",
+    "Health preparation directed to qualified professional; no medication or medical requirements prescribed",
+    "No exact luggage limit, property facilities, flight schedules or weather guarantee"
+  ],
+  "image_policy": "Licensed generic forest/river scenes, no airport/property/capture-location claim"
+}

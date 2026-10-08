@@ -1,0 +1,25 @@
+{
+  "model": "qwen3.5:9b",
+  "runs": [
+    {
+      "topic": "getting-there",
+      "prompt_tokens": 2003,
+      "output_tokens": 2593,
+      "seconds": 112.55,
+      "retries": 0,
+      "cache_hits": 0,
+      "shape_pass": true
+    },
+    {
+      "topic": "packing-and-preparation",
+      "prompt_tokens": 1971,
+      "output_tokens": 2573,
+      "seconds": 105.09,
+      "retries": 0,
+      "cache_hits": 0,
+      "shape_pass": true
+    }
+  ],
+  "workflow_change": "Strict JSON schema with exact array lengths introduced after observed batch1 translation shape drift; raw results retained.",
+  "total_local_tokens": 9140
+}

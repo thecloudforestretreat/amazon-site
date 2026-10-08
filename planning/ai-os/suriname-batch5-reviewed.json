@@ -173,6 +173,14 @@
             "Wildlife"
           ],
           [
+            "/suriname/getting-there/",
+            "Getting there"
+          ],
+          [
+            "/suriname/packing-and-preparation/",
+            "Packing and preparation"
+          ],
+          [
             "/contact/",
             "Share your plans"
           ]
@@ -226,6 +234,14 @@
           [
             "wildlife guide",
             "/suriname/wildlife/"
+          ],
+          [
+            "Getting there",
+            "/suriname/getting-there/"
+          ],
+          [
+            "Packing and preparation",
+            "/suriname/packing-and-preparation/"
           ]
         ]
       },
@@ -352,6 +368,14 @@
             "Fauna"
           ],
           [
+            "/es/suriname/como-llegar/",
+            "Cómo llegar"
+          ],
+          [
+            "/es/suriname/que-llevar/",
+            "Qué llevar"
+          ],
+          [
             "/es/contacto/",
             "Comparta sus planes"
           ]
@@ -405,6 +429,14 @@
           [
             "guía de fauna",
             "/es/suriname/fauna/"
+          ],
+          [
+            "Cómo llegar",
+            "/es/suriname/como-llegar/"
+          ],
+          [
+            "Qué llevar",
+            "/es/suriname/que-llevar/"
           ]
         ]
       }
@@ -533,6 +565,14 @@
             "Wildlife"
           ],
           [
+            "/suriname/getting-there/",
+            "Getting there"
+          ],
+          [
+            "/suriname/packing-and-preparation/",
+            "Packing and preparation"
+          ],
+          [
             "/contact/",
             "Share your plans"
           ]
@@ -586,6 +626,14 @@
           [
             "river journeys guide",
             "/suriname/river-journeys/"
+          ],
+          [
+            "Getting there",
+            "/suriname/getting-there/"
+          ],
+          [
+            "Packing and preparation",
+            "/suriname/packing-and-preparation/"
           ]
         ]
       },
@@ -712,6 +760,14 @@
             "Fauna"
           ],
           [
+            "/es/suriname/como-llegar/",
+            "Cómo llegar"
+          ],
+          [
+            "/es/suriname/que-llevar/",
+            "Qué llevar"
+          ],
+          [
             "/es/contacto/",
             "Comparta sus planes"
           ]
@@ -765,6 +821,14 @@
           [
             "guía de viajes fluviales",
             "/es/suriname/viajes-fluviales/"
+          ],
+          [
+            "Cómo llegar",
+            "/es/suriname/como-llegar/"
+          ],
+          [
+            "Qué llevar",
+            "/es/suriname/que-llevar/"
           ]
         ]
       }

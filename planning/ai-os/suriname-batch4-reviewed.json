@@ -103,7 +103,7 @@
           [
             "Send a brief that makes accommodation comparisons useful",
             "To plan your Suriname rainforest trip, provide dates, party size, intended region and the activities that matter most. List the facilities you need, those you prefer and those you can be flexible about. Add dietary requirements, walking comfort and equipment that might affect transfers or charging. This makes the comparison about suitable stays rather than a vague request for the best lodge, which means different things to different travelers.",
-            "Request the exact accommodation type, included meals, transfer arrangements and activity plan in the proposal. Check availability, cancellation terms and any details still awaiting confirmation before booking. An inquiry does not reserve a property or establish its services. A clear choice should leave you knowing where you will stay, how you reach it and which arrangements support the kind of rainforest visit you want. River journeys and Wildlife help compare the purpose of outings and time for observation."
+            "Request the exact accommodation type, included meals, transfer arrangements and activity plan in the proposal. Check availability, cancellation terms and any details still awaiting confirmation before booking. An inquiry does not reserve a property or establish its services. A clear choice should leave you knowing where you will stay, how you reach it and which arrangements support the kind of rainforest visit you want. River journeys and Wildlife help compare the purpose of outings and time for observation. Getting there and Packing and preparation help prepare the transfers and luggage for the itinerary."
           ]
         ],
         "faqs": [
@@ -173,6 +173,14 @@
             "Wildlife"
           ],
           [
+            "/suriname/getting-there/",
+            "Getting there"
+          ],
+          [
+            "/suriname/packing-and-preparation/",
+            "Packing and preparation"
+          ],
+          [
             "/contact/",
             "Share your plans"
           ]
@@ -234,6 +242,14 @@
           [
             "Wildlife",
             "/suriname/wildlife/"
+          ],
+          [
+            "Getting there",
+            "/suriname/getting-there/"
+          ],
+          [
+            "Packing and preparation",
+            "/suriname/packing-and-preparation/"
           ]
         ]
       },
@@ -312,7 +328,7 @@
           [
             "Comparta sus prioridades que haga útiles las comparaciones de alojamiento",
             "Para planificar su viaje a la selva de Suriname, considere lo siguiente. Para planificar su viaje a la selva de Suriname, proporcione fechas, tamaño del grupo, región prevista y las actividades que importan más. Liste las instalaciones que necesita, las que prefiere y en las que puede ser flexible. Agregue necesidades alimentarias, comodidad para caminar y equipo que podría afectar los traslados o la carga. Esto hace que la comparación sea sobre estancias adecuadas en lugar de una solicitud vaga del mejor lodge, lo cual significa cosas diferentes para viajeros diferentes.",
-            "Solicite el tipo exacto de alojamiento, comidas incluidas, arreglos de traslado y plan de actividades en la propuesta. Verifique disponibilidad, términos de cancelación y cualquier detalle que aún espere confirmación antes de reservar. Una consulta no reserva una propiedad ni establece sus servicios. Una elección clara debe dejarle sabiendo dónde se quedará, cómo llegará y qué arreglos apoyan el tipo de visita a la selva que desea. Viajes fluviales y Fauna ayudan a comparar el propósito de las salidas y el tiempo para observar."
+            "Solicite el tipo exacto de alojamiento, comidas incluidas, arreglos de traslado y plan de actividades en la propuesta. Verifique disponibilidad, términos de cancelación y cualquier detalle que aún espere confirmación antes de reservar. Una consulta no reserva una propiedad ni establece sus servicios. Una elección clara debe dejarle sabiendo dónde se quedará, cómo llegará y qué arreglos apoyan el tipo de visita a la selva que desea. Viajes fluviales y Fauna ayudan a comparar el propósito de las salidas y el tiempo para observar. Cómo llegar y Qué llevar ayudan a preparar los traslados y el equipaje para el itinerario."
           ]
         ],
         "slug": "alojamientos-en-la-selva",
@@ -358,6 +374,14 @@
           [
             "/es/suriname/fauna/",
             "Fauna"
+          ],
+          [
+            "/es/suriname/como-llegar/",
+            "Cómo llegar"
+          ],
+          [
+            "/es/suriname/que-llevar/",
+            "Qué llevar"
           ],
           [
             "/es/contacto/",
@@ -421,6 +445,14 @@
           [
             "Fauna",
             "/es/suriname/fauna/"
+          ],
+          [
+            "Cómo llegar",
+            "/es/suriname/como-llegar/"
+          ],
+          [
+            "Qué llevar",
+            "/es/suriname/que-llevar/"
           ]
         ]
       }
@@ -549,6 +581,14 @@
             "Wildlife"
           ],
           [
+            "/suriname/getting-there/",
+            "Getting there"
+          ],
+          [
+            "/suriname/packing-and-preparation/",
+            "Packing and preparation"
+          ],
+          [
             "/contact/",
             "Share your plans"
           ]
@@ -610,6 +650,14 @@
           [
             "Wildlife",
             "/suriname/wildlife/"
+          ],
+          [
+            "Getting there",
+            "/suriname/getting-there/"
+          ],
+          [
+            "Packing and preparation",
+            "/suriname/packing-and-preparation/"
           ]
         ]
       },
@@ -736,6 +784,14 @@
             "Fauna"
           ],
           [
+            "/es/suriname/como-llegar/",
+            "Cómo llegar"
+          ],
+          [
+            "/es/suriname/que-llevar/",
+            "Qué llevar"
+          ],
+          [
             "/es/contacto/",
             "Comparta sus planes"
           ]
@@ -797,6 +853,14 @@
           [
             "Fauna",
             "/es/suriname/fauna/"
+          ],
+          [
+            "Cómo llegar",
+            "/es/suriname/como-llegar/"
+          ],
+          [
+            "Qué llevar",
+            "/es/suriname/que-llevar/"
           ]
         ]
       }

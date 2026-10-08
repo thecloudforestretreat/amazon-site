@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-08",
+  "deployment": "66e4a018",
+  "rollback_deployment": "b639beee",
+  "new_pairs": 2,
+  "new_pages": 4,
+  "total_pairs": 12,
+  "total_pages": 24,
+  "compiled_pages_validated": 220,
+  "country_qa_errors": [],
+  "css_contact_regression_tests": 26,
+  "main_word_range": [
+    1660,
+    2393
+  ],
+  "protection_checks": [
+    {
+      "route": "/suriname/getting-there/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/suriname/como-llegar/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/suriname/packing-and-preparation/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/suriname/que-llevar/",
+      "status": 302,
+      "access_redirect": true
+    }
+  ],
+  "authenticated_readback": "Pending; browser admin-policy verification unavailable",
+  "visual_review": "Pending; no agent desktop/mobile measurements claimed",
+  "production_containment": "172 live-scope pages validated; Suriname excluded",
+  "production_deployed": false
+}
