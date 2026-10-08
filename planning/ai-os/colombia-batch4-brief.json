@@ -1,0 +1,16 @@
+{
+  "batch": 4,
+  "date": "2026-10-08",
+  "owner_authorized": true,
+  "country": "colombia",
+  "topics": [
+    "Amazon accommodation",
+    "River journeys"
+  ],
+  "environment": "Protected staging only",
+  "quality": "Nine substantive sections per page, quick answer, choices, four FAQs, contextual links, source review and shared CSS",
+  "next_batch": [
+    "Best time to visit",
+    "Wildlife"
+  ]
+}

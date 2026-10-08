@@ -182,11 +182,27 @@
             "Amacayacu"
           ],
           [
+            "/colombia/amazon-accommodation/",
+            "Accommodation"
+          ],
+          [
+            "/colombia/river-journeys/",
+            "River journeys"
+          ],
+          [
             "/colombia/tarapoto-lakes/",
             "Tarapoto lakes"
           ]
         ],
         "context_links": [
+          [
+            "river journey",
+            "/colombia/river-journeys/"
+          ],
+          [
+            "accommodation",
+            "/colombia/amazon-accommodation/"
+          ],
           [
             "Colombia overview",
             "/colombia/"
@@ -363,11 +379,27 @@
             "Amacayacu"
           ],
           [
+            "/es/colombia/alojamientos-amazonicos/",
+            "Alojamiento"
+          ],
+          [
+            "/es/colombia/viajes-fluviales/",
+            "Viajes fluviales"
+          ],
+          [
             "/es/colombia/lagos-de-tarapoto/",
             "Lagos de Tarapoto"
           ]
         ],
         "context_links": [
+          [
+            "viaje por río",
+            "/es/colombia/viajes-fluviales/"
+          ],
+          [
+            "alojamiento",
+            "/es/colombia/alojamientos-amazonicos/"
+          ],
           [
             "guía general de Colombia",
             "/es/colombia/"
@@ -554,11 +586,27 @@
             "Amacayacu"
           ],
           [
+            "/colombia/amazon-accommodation/",
+            "Accommodation"
+          ],
+          [
+            "/colombia/river-journeys/",
+            "River journeys"
+          ],
+          [
             "/colombia/tarapoto-lakes/",
             "Tarapoto lakes"
           ]
         ],
         "context_links": [
+          [
+            "river journey",
+            "/colombia/river-journeys/"
+          ],
+          [
+            "accommodation",
+            "/colombia/amazon-accommodation/"
+          ],
           [
             "Colombia overview",
             "/colombia/"
@@ -739,11 +787,27 @@
             "Amacayacu"
           ],
           [
+            "/es/colombia/alojamientos-amazonicos/",
+            "Alojamiento"
+          ],
+          [
+            "/es/colombia/viajes-fluviales/",
+            "Viajes fluviales"
+          ],
+          [
             "/es/colombia/lagos-de-tarapoto/",
             "Lagos de Tarapoto"
           ]
         ],
         "context_links": [
+          [
+            "viaje por río",
+            "/es/colombia/viajes-fluviales/"
+          ],
+          [
+            "alojamiento",
+            "/es/colombia/alojamientos-amazonicos/"
+          ],
           [
             "guía general de Colombia",
             "/es/colombia/"

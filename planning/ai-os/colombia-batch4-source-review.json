@@ -1,0 +1,21 @@
+{
+  "review_date": "2026-10-08",
+  "sources": [
+    {
+      "url": "https://colombia.travel/es/leticia",
+      "reviewed_claims": [
+        "Leticia Amazon gateway and river departure setting in the three-country border region"
+      ]
+    },
+    {
+      "url": "https://colombia.travel/es/puerto-narino",
+      "reviewed_claims": [
+        "Puerto Narino upstream river access from Leticia",
+        "Town lodging and riverside stays outside the town described by official tourism board"
+      ]
+    }
+  ],
+  "editorial_boundary": "Original practical comparison guidance. No property partnership, room availability, amenities, package price, fixed timetable or border permission invented. Specific room services require provider confirmation.",
+  "imagery": "Owner-licensed illustrative scenes. Three distinct scenes on each page; exact capture sites and Colombian property identity not asserted. Final destination-specific verification pending.",
+  "css": "Existing shared global and editorial cluster CSS; declarations unchanged."
+}

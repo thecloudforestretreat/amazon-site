@@ -1,0 +1,58 @@
+{
+  "batch": 4,
+  "date": "2026-10-08",
+  "country": "colombia",
+  "deployment": "bda4d06c",
+  "rollback_deployment": "5ef5c8fe",
+  "staging_only": true,
+  "checks": {
+    "compiled_html_pages": 164,
+    "colombia_pages": 16,
+    "country_audit_errors": 0,
+    "shared_css_tests_passed": 4,
+    "production_containment_passed": true,
+    "access_redirects": 4,
+    "images_distinct_per_page": 3,
+    "desktop_mobile_visual_review": "Blocked: browser admin policy could not be verified",
+    "authenticated_content_readback": "Pending"
+  },
+  "editorial_review": [
+    "Nine substantive sections plus four FAQs per page; practical comparison content rather than property or schedule claims",
+    "Spanish room arrangements, transfers, landing terminology and grammatical errors corrected before publication",
+    "Asset identity and bilingual descriptions restored from reviewed image manifest",
+    "Links to new planning guides added on existing six pairs; shared CSS declarations unchanged"
+  ],
+  "usage": {
+    "runs": [
+      {
+        "topic": "accommodation",
+        "model": "qwen3.5:9b",
+        "prompt_tokens": 2490,
+        "output_tokens": 3008,
+        "seconds": 130.24,
+        "retries": 0,
+        "done_reason": "stop",
+        "prompt_cached_tokens": 0,
+        "cache_hit": false
+      },
+      {
+        "topic": "river",
+        "model": "qwen3.5:9b",
+        "prompt_tokens": 2449,
+        "output_tokens": 3018,
+        "seconds": 125.48,
+        "retries": 0,
+        "done_reason": "stop",
+        "prompt_cached_tokens": 0,
+        "cache_hit": false
+      }
+    ],
+    "total_local_tokens": 10965
+  },
+  "release_holds": [
+    "Destination-specific image verification",
+    "Rendered desktop/mobile review",
+    "Authenticated staging readback",
+    "Full country release QA and owner authorization"
+  ]
+}

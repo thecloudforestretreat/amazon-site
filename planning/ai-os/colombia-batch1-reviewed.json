@@ -202,11 +202,27 @@
             "Tarapoto lakes"
           ],
           [
+            "/colombia/amazon-accommodation/",
+            "Accommodation"
+          ],
+          [
+            "/colombia/river-journeys/",
+            "River journeys"
+          ],
+          [
             "/contact/",
             "Share your plans"
           ]
         ],
         "context_links": [
+          [
+            "river journey",
+            "/colombia/river-journeys/"
+          ],
+          [
+            "accommodation",
+            "/colombia/amazon-accommodation/"
+          ],
           [
             "Tarapoto",
             "/colombia/tarapoto-lakes/"
@@ -427,11 +443,27 @@
             "Lagos de Tarapoto"
           ],
           [
+            "/es/colombia/alojamientos-amazonicos/",
+            "Alojamiento"
+          ],
+          [
+            "/es/colombia/viajes-fluviales/",
+            "Viajes fluviales"
+          ],
+          [
             "/es/contacto/",
             "Comparta sus planes"
           ]
         ],
         "context_links": [
+          [
+            "viaje por río",
+            "/es/colombia/viajes-fluviales/"
+          ],
+          [
+            "alojamiento",
+            "/es/colombia/alojamientos-amazonicos/"
+          ],
           [
             "Tarapoto",
             "/es/colombia/lagos-de-tarapoto/"
@@ -654,11 +686,27 @@
             "Tarapoto lakes"
           ],
           [
+            "/colombia/amazon-accommodation/",
+            "Accommodation"
+          ],
+          [
+            "/colombia/river-journeys/",
+            "River journeys"
+          ],
+          [
             "/contact/",
             "Share your plans"
           ]
         ],
         "context_links": [
+          [
+            "river journey",
+            "/colombia/river-journeys/"
+          ],
+          [
+            "accommodation",
+            "/colombia/amazon-accommodation/"
+          ],
           [
             "Tarapoto",
             "/colombia/tarapoto-lakes/"
@@ -879,11 +927,27 @@
             "Lagos de Tarapoto"
           ],
           [
+            "/es/colombia/alojamientos-amazonicos/",
+            "Alojamiento"
+          ],
+          [
+            "/es/colombia/viajes-fluviales/",
+            "Viajes fluviales"
+          ],
+          [
             "/es/contacto/",
             "Comparta sus planes"
           ]
         ],
         "context_links": [
+          [
+            "viaje por río",
+            "/es/colombia/viajes-fluviales/"
+          ],
+          [
+            "alojamiento",
+            "/es/colombia/alojamientos-amazonicos/"
+          ],
           [
             "Tarapoto",
             "/es/colombia/lagos-de-tarapoto/"

@@ -1,0 +1,27 @@
+{
+  "runs": [
+    {
+      "topic": "accommodation",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2490,
+      "output_tokens": 3008,
+      "seconds": 130.24,
+      "retries": 0,
+      "done_reason": "stop",
+      "prompt_cached_tokens": 0,
+      "cache_hit": false
+    },
+    {
+      "topic": "river",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2449,
+      "output_tokens": 3018,
+      "seconds": 125.48,
+      "retries": 0,
+      "done_reason": "stop",
+      "prompt_cached_tokens": 0,
+      "cache_hit": false
+    }
+  ],
+  "total_local_tokens": 10965
+}

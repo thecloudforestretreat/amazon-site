@@ -1,0 +1,904 @@
+{
+  "editorial_status": "reviewed",
+  "review_date": "2026-10-08",
+  "images": {
+    "amazon-forest-lodge-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-forest-lodge-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Lodge buildings surrounded by forest, illustrative accommodation photograph",
+        "es": "Edificios de un lodge rodeados de bosque, fotografía ilustrativa de alojamiento"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "d929e2cbeff7fcfe7a04d413df4ec4367ac94e046aa8c4e52e710bbb20e18ee6",
+      "web_sha256": "7c00686e938b5ae661e3bf5c049cd7a25378f674a42e88ad5034eecd7792fcbe",
+      "original_bytes": 643921,
+      "web_bytes": 494062
+    },
+    "amazon-lodge-reflection": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-lodge-reflection.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "A thatched lodge reflected in calm water, illustrative accommodation photograph",
+        "es": "Lodge con techo de paja reflejado en aguas tranquilas, fotografía ilustrativa de alojamiento"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "1d1296a0282d7f2e1a3e7fa23cd393098729201800a772af58a33d586c74d825",
+      "web_sha256": "fcde1b69f92a3720517186bb7ba757699f555c5011862548e8675f37d94df1a8",
+      "original_bytes": 691711,
+      "web_bytes": 515560
+    },
+    "amazon-riverside-thatched-lodge": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-riverside-thatched-lodge.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Thatched buildings beside the water, illustrative lodge scene",
+        "es": "Edificios con techo de paja junto al agua, escena ilustrativa de lodge"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c015f62519415e52b67f5020bef551907a2a16a8bb546c7f2ffaf13e4288347c",
+      "web_sha256": "069a39ef6c2be76a6d0b8265db2ac444d145424508ad12b40557f6e251087c49",
+      "original_bytes": 857912,
+      "web_bytes": 673536
+    },
+    "amazon-river-canoe-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-river-canoe-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "A small canoe on a broad forest-lined river",
+        "es": "Canoa pequeña en un río amplio rodeado de bosque"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "26b33e2ec42e4dc57078b544300135bd21935c8b119d9ced274f345735162ec0",
+      "web_sha256": "2c824e544debf5ec678e62665e06fb969d3bfe0a851dad7fe2c2a2ac38c1b614",
+      "original_bytes": 363258,
+      "web_bytes": 264580
+    },
+    "amazon-guided-boat-excursion": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-guided-boat-excursion.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Travelers on a boat excursion along a forest river",
+        "es": "Viajeros en una excursión en embarcación por un río junto al bosque"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "5f74914182bee3a0ac70a5ca5b2eabef4e9c03b9b0bcbc80caeabd175c55a44b",
+      "web_sha256": "0ed71e923f93211af1a0ac5d47a559065c094dc4c832785ddc14618f23665f1f",
+      "original_bytes": 316368,
+      "web_bytes": 202552
+    },
+    "amazon-canoe-floating-vegetation": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-canoe-floating-vegetation.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "A paddler guiding a canoe through floating vegetation",
+        "es": "Persona guiando una canoa entre vegetación flotante"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c07bce58422bec9dfba2bd58c733f908bacd634b6b12e5daaa3c5e808ccd3b0a",
+      "web_sha256": "3c95b2955c2852c4d7bccb22a390eaca6b27af4b4c12f6319cf3e6a9185b8d3a",
+      "original_bytes": 861832,
+      "web_bytes": 705686
+    }
+  },
+  "pages": {
+    "accommodation": {
+      "en": {
+        "type": "planning-guide",
+        "pair_id": "colombia_accommodation_001",
+        "hero": [
+          "amazon-forest-lodge-aerial",
+          "Lodge buildings surrounded by forest, illustrative accommodation photograph"
+        ],
+        "features": {
+          "1": [
+            "amazon-lodge-reflection",
+            "A thatched lodge reflected in calm water, illustrative accommodation photograph"
+          ],
+          "4": [
+            "amazon-riverside-thatched-lodge",
+            "Thatched buildings beside the water, illustrative lodge scene"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Colombia Travel: Leticia",
+            "https://colombia.travel/es/leticia"
+          ],
+          [
+            "Colombia Travel: Puerto Nariño",
+            "https://colombia.travel/es/puerto-narino"
+          ]
+        ],
+        "scope": "Planning guidance reviewed October 8, 2026. Confirm current transport, community and park arrangements with the relevant providers and authorities. This guide does not confirm availability, prices or a booking.",
+        "slug": "amazon-accommodation",
+        "h1": "Colombia Amazon accommodation",
+        "title": "Colombia Amazon Accommodation | Experience The Amazon",
+        "description": "Compare Leticia, Puerto Nariño and forest stays by location, rooms, meals, transfers and the experiences they support.",
+        "lede": "Choose your overnight setting around the journey you want. Compare the actual room and services with the transfers and activity time each stay supports.",
+        "quick": [
+          "What makes the right stay?",
+          "A suitable stay matches your preferred setting, room needs and activity plan. Confirm the named property, room category, meals, transfers and guiding before comparing the total."
+        ],
+        "choices_heading": "Compare the parts of your journey",
+        "choices": [
+          [
+            "Leticia gateway",
+            "Organize town stays, pickups and onward travel.",
+            "/colombia/leticia/"
+          ],
+          [
+            "Puerto Nariño upstream",
+            "Plan the base and outings beyond the gateway.",
+            "/colombia/puerto-narino/"
+          ],
+          [
+            "Connect stays and river travel",
+            "Coordinate the overnight plan with the boat legs.",
+            "/colombia/river-journeys/"
+          ]
+        ],
+        "links": [
+          [
+            "/colombia/",
+            "Colombia overview"
+          ],
+          [
+            "/colombia/plan-your-amazon-trip/",
+            "Trip planning"
+          ],
+          [
+            "/colombia/leticia/",
+            "Leticia"
+          ],
+          [
+            "/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/contact/",
+            "Share your plans"
+          ],
+          [
+            "/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/colombia/tarapoto-lakes/",
+            "Tarapoto lakes"
+          ],
+          [
+            "/colombia/amazon-accommodation/",
+            "Accommodation"
+          ],
+          [
+            "/colombia/river-journeys/",
+            "River journeys"
+          ]
+        ],
+        "context_links": [
+          [
+            "Colombia overview",
+            "/colombia/"
+          ],
+          [
+            "Colombia trip-planning guide",
+            "/colombia/plan-your-amazon-trip/"
+          ],
+          [
+            "Leticia guide",
+            "/colombia/leticia/"
+          ],
+          [
+            "Puerto Nariño guide",
+            "/colombia/puerto-narino/"
+          ],
+          [
+            "Amacayacu guide",
+            "/colombia/amacayacu/"
+          ],
+          [
+            "Tarapoto lakes guide",
+            "/colombia/tarapoto-lakes/"
+          ],
+          [
+            "an inquiry",
+            "/contact/"
+          ]
+        ],
+        "cta": [
+          "Plan the stay that fits your trip",
+          "Share your dates, group size, preferred pace and practical needs. Tell us which Colombian Amazon settings and experiences interest you."
+        ],
+        "faqs": [
+          [
+            "Is a Leticia hotel the same experience as a forest stay?",
+            "No. Compare the actual location and outings. A town base, upstream stay and forest overnight support different rhythms and require different transfers."
+          ],
+          [
+            "Do accommodation rates include excursions?",
+            "Not automatically. Ask for the room, guiding, transfers, meals and outings as clearly identified inclusions in the current quote."
+          ],
+          [
+            "Can we choose a room from its photograph?",
+            "Confirm the exact property and room category offered. General imagery does not establish the booked room, facilities or current availability."
+          ],
+          [
+            "Should we split the trip between properties?",
+            "Compare what each additional base makes possible with the time spent changing rooms and handling bags. One suitable base can be preferable to moves that repeat the same experience."
+          ]
+        ],
+        "sections": [
+          [
+            "Choose where the day begins",
+            "Accommodation shapes the rhythm of a Colombian Amazon journey. Compare a town base in Leticia, an upstream stay in Puerto Nariño and a separately arranged forest setting by the activity time each supports. Colombia’s tourism board describes different lodging settings around Puerto Nariño, including stays away from the town. That variety makes the actual location important: an attractive room photograph does not show the transfer needed to reach the next outing.",
+            "Begin with the Colombia overview and list the overnight location for every night. Ask which excursions depart from that base and which require another boat journey. If you change properties, include packing, checkout and luggage handling in the day. Choose the stay that supports the experiences you value, rather than assuming the most remote address or the largest number of moves always creates the richest trip."
+          ],
+          [
+            "Leticia: a town base between outings",
+            "The Leticia guide explains the gateway setting. A town hotel can fit an itinerary that returns to the same base after guided excursions. Ask how the proposed hotel connects with pickups, the river departure point and the final onward journey. Identify whether transfers collect you at the property or require an independent meeting elsewhere. These practical details matter more than a general claim that a hotel is conveniently located.",
+            "Compare complete days rather than room rates alone. An early river departure may affect breakfast, while a late return can change meal plans or room access. Ask what happens on arrival and departure days, particularly when luggage must be stored. A town stay and a forest overnight can work together, but the proposal should explain their separate purposes and leave useful time at each setting instead of filling the itinerary with check-ins."
+          ],
+          [
+            "Puerto Nariño: town stay or riverside setting?",
+            "In Puerto Nariño, establish whether the accommodation is in the town or farther along the river. The tourism board describes both town lodging and riverside ecohotels outside it. Do not treat these as interchangeable because they share a destination name. Ask how you reach the property, where excursions begin and whether trips into the town need a separate arrangement or are included in the stay.",
+            "Read the Puerto Nariño guide before choosing the number of nights. A quieter setting may appeal to someone prioritizing observation, while another traveler may prefer easier access to the town between outings. Request a clear description of the route from the landing to the room. If anyone needs help with bags, steps or uneven ground, discuss that before accepting a property described mainly through its atmosphere."
+          ],
+          [
+            "Verify the room category, not a generic image",
+            "Ask for the exact room category and bed arrangement offered to your group. Confirm whether the bathroom is private or shared and how ventilation and insect protection work in that room. If traveling as a family, check room distribution and whether the proposed arrangement keeps the group together. A property may offer several room types, so its most attractive photograph should not be assumed to represent the booked category.",
+            "Translate comfort preferences into questions the host can answer. Discuss sleeping arrangements, assistance between the landing and room, and any facilities essential to your stay. Ask for current room information rather than relying on an old review or an undated image. Our accommodation imagery illustrates settings; a confirmed proposal should identify the actual property and room, with availability checked for your dates before a booking decision."
+          ],
+          [
+            "Meals, water and dietary requirements",
+            "Clarify which meals are included, where they are served and how meals work on excursion days. Tell the organizer about dietary needs before accepting a package, and ask the host to confirm what it can provide. A general promise of flexibility does not explain the arrangements for an individual traveler. Discuss the full day, including early departures and time away from the property, rather than only the evening meal.",
+            "Ask how drinking water is provided and which personal supplies you should bring for the planned activities. Identify any meal or beverage charges paid locally so the quoted total is understandable. If the itinerary changes bases, repeat these checks for each host rather than assuming all properties offer the same services. Clear information lets the group choose an appropriate stay without discovering that an important need was passed between providers without confirmation."
+          ],
+          [
+            "Charging, connectivity and time away from services",
+            "If you need to charge cameras, phones or other equipment, ask about the actual arrangements in the offered room or shared areas. State any requirement that is essential and distinguish it from a preference. Do not infer reliable charging or internet access from a polished property image. The useful answer describes what is available, when it is available and what the host recommends for your planned stay.",
+            "Keep booking details, pickup points and provider contacts available offline. If work calls or other fixed commitments must fit around the trip, discuss them before choosing a remote base and confirm suitability directly. Avoid making the itinerary depend on a connection that has not been verified. For photographers, fewer property changes can simplify equipment handling and create more time for outings, provided the selected base supports the desired activities."
+          ],
+          [
+            "Separate the room from guiding and excursions",
+            "An accommodation price and an inclusive travel package are different comparisons. Ask whether the quoted stay includes guiding, arrival transfers, meals, lake outings or forest visits. Identify the provider responsible for each service. A low room rate may still be useful, but only when the separate arrangements and their costs are clear enough to compare with a package that includes them.",
+            "For the Amacayacu guide and Tarapoto lakes guide, match the intended visit with its pickup and return to the accommodation. Ask whether the guide comes to the property, which language is used and how an unavailable activity is handled. Do not assume the host provides every experience pictured beside a room listing. A written proposal should distinguish confirmed inclusions, optional outings and services that still require separate availability checks."
+          ],
+          [
+            "Compare one base with a split stay",
+            "Use the Colombia trip-planning guide to decide whether changing accommodation improves the journey. One well-chosen base can be effective when several outings fit from there. A second base can add a different setting, but it also introduces checkout, luggage handling and another transfer. Ask what the extra move makes possible and how much useful exploration time remains after the group settles into the new stay.",
+            "Compare the full sequence from arrival to departure. If the final river return connects with onward travel from Leticia, have that connection reviewed with the organizer. Ask whether a gateway overnight is appropriate rather than assuming a same-day connection works. Keep each night’s purpose clear: convenience on arrival, sustained time upstream or a specific forest experience. This produces a more coherent trip than selecting properties independently and joining them afterward."
+          ],
+          [
+            "Request a proposal that names the stay",
+            "Before accepting a quote, ask for the property, room category, meal plan, transfers and activity inclusions in writing. Confirm current availability and cancellation or change terms directly with the provider. Identify charges settled locally and the contact responsible for updates. A helpful proposal makes these decisions easy to assess, rather than relying on broad labels such as ecohotel, lodge or premium stay to explain what the group receives.",
+            "Send an inquiry with dates, group size and the sleeping arrangements you need. Include your preferred setting, dietary or mobility needs, and any essential equipment requirements. Explain the activities you want the accommodation to support. These details help compare suitable options and build an overnight plan that complements the river and forest experiences. Confirm the proposed room and services with the provider for your dates before accepting the stay."
+          ]
+        ]
+      },
+      "es": {
+        "type": "planning-guide",
+        "pair_id": "colombia_accommodation_001",
+        "hero": [
+          "amazon-forest-lodge-aerial",
+          "Edificios de un lodge rodeados de bosque, fotografía ilustrativa de alojamiento"
+        ],
+        "features": {
+          "1": [
+            "amazon-lodge-reflection",
+            "Lodge con techo de paja reflejado en aguas tranquilas, fotografía ilustrativa de alojamiento"
+          ],
+          "4": [
+            "amazon-riverside-thatched-lodge",
+            "Edificios con techo de paja junto al agua, escena ilustrativa de lodge"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Colombia Travel: Leticia",
+            "https://colombia.travel/es/leticia"
+          ],
+          [
+            "Colombia Travel: Puerto Nariño",
+            "https://colombia.travel/es/puerto-narino"
+          ]
+        ],
+        "scope": "Orientación revisada el 8 de octubre de 2026. Confirme las condiciones actuales de transporte y visitas con los proveedores y las autoridades competentes. Esta guía no confirma disponibilidad, precios ni reservas.",
+        "slug": "alojamientos-amazonicos",
+        "h1": "Alojamiento en la Amazonía colombiana",
+        "title": "Colombia: alojamiento amazónico | Experience The Amazon",
+        "description": "Compare alojamientos en Leticia, Puerto Nariño y la selva por ubicación, habitaciones, comidas, traslados y actividades incluidas.",
+        "lede": "Elija su entorno para pernoctar según el viaje que desea. Compare la habitación real y los servicios con los traslados y tiempo de actividad que cada estancia ofrece.",
+        "quick": [
+          "¿Qué hace que una estancia sea adecuada?",
+          "Una estancia adecuada se ajusta al entorno que prefiere, necesidades de habitación y plan de actividades. Confirme la alojamiento identificado, categoría de habitación, comidas, traslados y guía antes de comparar el total."
+        ],
+        "choices_heading": "Compare las partes de su viaje",
+        "choices": [
+          [
+            "Puerta de entrada Leticia",
+            "Organice estancias en la ciudad, recogidas y viajes posteriores.",
+            "/es/colombia/leticia/"
+          ],
+          [
+            "Puerto Nariño aguas arriba",
+            "Planifique la base y salidas más allá de la puerta de entrada.",
+            "/es/colombia/puerto-narino/"
+          ],
+          [
+            "Conecte estancias y viajes fluviales",
+            "Coordine el plan de noche de alojamiento con los tramos en bote.",
+            "/es/colombia/viajes-fluviales/"
+          ]
+        ],
+        "links": [
+          [
+            "/es/colombia/",
+            "Resumen de Colombia"
+          ],
+          [
+            "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+            "Planificación del viaje"
+          ],
+          [
+            "/es/colombia/leticia/",
+            "Leticia"
+          ],
+          [
+            "/es/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/es/contacto/",
+            "Comparta sus planes"
+          ],
+          [
+            "/es/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/es/colombia/lagos-de-tarapoto/",
+            "Lagos de Tarapoto"
+          ],
+          [
+            "/es/colombia/alojamientos-amazonicos/",
+            "Alojamiento"
+          ],
+          [
+            "/es/colombia/viajes-fluviales/",
+            "Viajes fluviales"
+          ]
+        ],
+        "context_links": [
+          [
+            "guía general de Colombia",
+            "/es/colombia/"
+          ],
+          [
+            "resumen de Colombia",
+            "/es/colombia/"
+          ],
+          [
+            "guía de planificación del viaje a Colombia",
+            "/es/colombia/planifica-tu-viaje-a-la-amazonia/"
+          ],
+          [
+            "guía de Leticia",
+            "/es/colombia/leticia/"
+          ],
+          [
+            "guía de Puerto Nariño",
+            "/es/colombia/puerto-narino/"
+          ],
+          [
+            "guía de Amacayacu",
+            "/es/colombia/amacayacu/"
+          ],
+          [
+            "guía de los lagos de Tarapoto",
+            "/es/colombia/lagos-de-tarapoto/"
+          ],
+          [
+            "una consulta",
+            "/es/contacto/"
+          ]
+        ],
+        "cta": [
+          "Planifique la estancia que se adapte a su viaje",
+          "Comparta sus fechas, tamaño del grupo, ritmo preferido y necesidades prácticas. Dínos qué entornos de la Amazonía colombiana y experiencias te interesan."
+        ],
+        "faqs": [
+          [
+            "¿Es un hotel en Leticia la misma experiencia que una estancia en la selva?",
+            "No. Compare la ubicación real y las salidas. Una base urbana, una estancia aguas arriba y una noche en la selva apoyan ritmos diferentes y requieren traslados distintos."
+          ],
+          [
+            "¿Las tarifas de alojamiento incluyen excursiones?",
+            "No automáticamente. Pregunte por la habitación, guía, traslados, comidas y salidas como inclusiones claramente identificadas en la cotización actual."
+          ],
+          [
+            "¿Podemos elegir una habitación por su fotografía?",
+            "Confirme la alojamiento exacta y categoría de habitación ofrecida. La imagen general no establece la habitación reservada, las instalaciones ni la disponibilidad actual."
+          ],
+          [
+            "¿Deberíamos dividir el viaje entre alojamientos?",
+            "Compare qué hace posible cada base adicional con el tiempo dedicado a cambiar de habitación y manejar equipaje. Una base adecuada puede ser preferible a movimientos que repiten la misma experiencia."
+          ]
+        ],
+        "sections": [
+          [
+            "Elija dónde comienza el día",
+            "El alojamiento moldea el ritmo de un viaje en la Amazonía colombiana. Compare una base urbana en Leticia, una estancia aguas arriba en Puerto Nariño y un entorno de selva organizado por separado según el tiempo de actividad que cada uno permite. La oficina de turismo de Colombia describe diferentes entornos de alojamiento alrededor de Puerto Nariño, incluidas estancias fuera de la ciudad. Esa variedad hace importante la ubicación real: una fotografía atractiva de habitación no muestra el traslado necesario para llegar a la siguiente salida.",
+            "Comience con el resumen de Colombia y liste la ubicación de noche de alojamiento para cada noche. Pregunte qué excursiones salen desde esa base y cuáles requieren otro viaje en bote. Si cambia de alojamiento, incluya preparación del equipaje, salida del hotel y manejo de equipaje en el día. Elija la estancia que favorece las experiencias que valora, en lugar de asumir que la dirección más remota o el mayor número de movimientos siempre crea el viaje más rico."
+          ],
+          [
+            "Leticia: una base urbana entre salidas",
+            "La guía de Leticia explica el entorno de la ciudad de entrada. Un hotel urbano puede encajar en un itinerario que regresa a la misma base después de excursiones guiadas. Pregunte cómo se conecta el hotel propuesto con las recogidas, el punto de embarque en el río y el viaje posterior final. Identifique si los traslados lo recogen en la alojamiento o requieren una reunión independiente en otro lugar. Estos detalles prácticos importan más que una afirmación general de que un hotel está convenientemente ubicado.",
+            "Compare días completos en lugar de solo tarifas de habitación. Una salida temprana al río puede afectar el desayuno, mientras que una llegada tardía puede cambiar los planes de comidas o el acceso a la habitación. Pregunte qué sucede en los días de llegada y salida, particularmente cuando el equipaje debe almacenarse. Una estancia urbana y una noche en la selva pueden funcionar juntas, pero la propuesta debe explicar el propósito de cada una y dejar tiempo útil en cada entorno en lugar de llenar el itinerario con registros de llegada."
+          ],
+          [
+            "Puerto Nariño: ¿estancia urbana o entorno ribereño?",
+            "En Puerto Nariño, establezca si el alojamiento está en la ciudad o más lejos por el río. La oficina de turismo describe tanto alojamiento urbano como ecohoteles ribereños fuera de ella. No los trate como intercambiables porque comparten un nombre de destino. Pregunte cómo llega a la alojamiento, dónde comienzan las excursiones y si los viajes a la ciudad necesitan un acuerdo separado o están incluidos en la estancia.",
+            "Lea la guía de Puerto Nariño antes de elegir el número de noches. Un entorno más tranquilo puede atraer a alguien que prioriza la observación, mientras que otro viajero puede preferir un acceso más fácil a la ciudad entre salidas. Solicite una descripción clara de la ruta desde la desembarcadero hasta la habitación. Si alguien necesita ayuda con equipaje, escalones o terreno irregular, coméntelo antes de aceptar una alojamiento descrita principalmente por su atmósfera."
+          ],
+          [
+            "Verifique la categoría de habitación, no una imagen genérica",
+            "Pida la categoría exacta de habitación y disposición de camas ofrecida a su grupo. Confirme si el baño es privado o compartido y cómo funciona la ventilación y protección contra insectos en esa habitación. Si viaja como familia, verifique la distribución de habitaciones y si la disposición propuesta mantiene al grupo unido. Una alojamiento puede ofrecer varios tipos de habitación, por lo que su fotografía más atractiva no debe asumirse como representativa de la categoría reservada.",
+            "Traduzca las preferencias de comodidad en preguntas que el anfitrión pueda responder. Comente las condiciones para dormir, asistencia entre la desembarcadero y la habitación, y cualquier instalación esencial para su estancia. Solicite información actualizada sobre habitaciones en lugar de depender de una reseña antigua o una imagen sin fecha. Las fotografías de alojamiento ilustra entornos; una propuesta confirmada debe identificar la alojamiento real y la habitación, verificando disponibilidad para sus fechas antes de tomar una decisión de reserva."
+          ],
+          [
+            "Comidas, agua y requisitos dietéticos",
+            "Aclare qué comidas están incluidas, dónde se sirven y cómo funcionan las comidas en los días de excursión. Dígale al organizador sobre las necesidades dietéticas antes de aceptar un paquete y pida al anfitrión que confirme lo que puede proporcionar. Una promesa general de flexibilidad no explica las condiciones para un viajero individual. Comente el día completo, incluidas salidas tempranas y tiempo fuera de la alojamiento, en lugar de solo la comida de la noche.",
+            "Pregunte cómo se proporciona el agua potable y qué suministros personales debe traer para las actividades planificadas. Identifique cualquier cargo por comidas o bebidas pagado localmente para que el total cotizado sea comprensible. Si el itinerario cambia de bases, repita estas verificaciones para cada anfitrión en lugar de asumir que todas las alojamientos ofrecen los mismos servicios. La información clara permite al grupo elegir una estancia apropiada sin descubrir que una necesidad importante se pasó entre proveedores sin confirmación."
+          ],
+          [
+            "Carga, conectividad y tiempo fuera de servicios",
+            "Si necesita cargar cámaras, teléfonos u otro equipo, pregunte sobre las condiciones reales en la habitación ofrecida o áreas compartidas. Establezca cualquier requisito esencial y distíngualo de una preferencia. No infiera carga confiable o acceso a internet de una fotografía cuidada del alojamiento. La respuesta útil describe lo que está disponible, cuándo está disponible y qué recomienda el anfitrión para su estancia planificada.",
+            "Mantenga los detalles de reserva, puntos de recogida y contactos de proveedores disponibles sin conexión. Si llamadas de trabajo u otros compromisos fijos deben encajar alrededor del viaje, coméntelos antes de elegir una base remota y confirme la idoneidad directamente. Evite hacer depender el itinerario de una conexión que no se ha verificado. Para fotógrafos, menos cambios de alojamiento pueden simplificar el manejo de equipo y crear más tiempo para salidas, siempre que la base seleccionada apoye las actividades deseadas."
+          ],
+          [
+            "Separe la habitación de la guía y excursiones",
+            "Un precio de alojamiento y un paquete de viaje con servicios incluidos son comparaciones diferentes. Pregunte si la estancia cotizada incluye guía, traslados de llegada, comidas, salidas al lago o visitas a la selva. Identifique el proveedor responsable de cada servicio. Una tarifa de habitación baja aún puede ser útil, pero solo cuando las condiciones separados y sus costos sean claros para comparar con un paquete que los incluya.",
+            "Para la guía de Amacayacu y la guía de los lagos de Tarapoto, coordine la visita prevista con su recogida y retorno al alojamiento. Pregunte si el guía viene a la alojamiento, qué idioma se usa y cómo se maneja una actividad no disponible. No asuma que el anfitrión proporciona cada experiencia mostrada junto a una lista de habitaciones. Una propuesta escrita debe distinguir inclusiones confirmadas, salidas opcionales y servicios que aún requieren verificación de disponibilidad separada."
+          ],
+          [
+            "Compare una base con una estancia en dos bases",
+            "Use la guía de planificación del viaje a Colombia para decidir si cambiar de alojamiento mejora el viaje. Una base bien elegida puede ser efectiva cuando varias salidas encajan desde allí. Una segunda base puede agregar un entorno diferente, pero también introduce salida del hotel, manejo de equipaje y otro traslado. Pregunte qué hace posible el movimiento adicional y cuánto tiempo útil de exploración queda después de que el grupo se instale en la nueva estancia.",
+            "Compare la secuencia completa desde la llegada hasta la salida. Si el retorno fluvial final se conecta con viajes posteriores desde Leticia, haga revisar esa conexión con el organizador. Pregunte si una noche de alojamiento en la puerta de entrada es apropiada en lugar de asumir que funciona una conexión del mismo día. Mantenga claro el propósito de cada noche: comodidad en la llegada, tiempo sostenido aguas arriba o una experiencia en la selva específica. Esto produce un viaje más coherente que seleccionar alojamientos independientemente y unirlos después mediante traslados."
+          ],
+          [
+            "Solicite una propuesta que nombre la estancia",
+            "Antes de aceptar una cotización, solicite por escrito la alojamiento, categoría de habitación, plan de comidas, traslados e inclusiones de actividad. Confirme disponibilidad actual y términos de cancelación o cambio directamente con el proveedor. Identifique cargos pagados localmente y el contacto responsable de actualizaciones. Una propuesta útil hace fáciles estas decisiones, en lugar de depender de etiquetas amplias como ecohotel, refugio o estancia premium para explicar lo que recibe el grupo.",
+            "Envíe una consulta con sus fechas, número de viajeros y distribución de camas que necesita. Incluya el entorno que prefiere, sus necesidades alimentarias o de movilidad y cualquier requisito esencial para sus equipos. Explique las actividades que desea realizar desde el alojamiento. Estos detalles ayudan a comparar opciones adecuadas y a combinar las noches con las experiencias en el río y la selva. Confirme la habitación y los servicios propuestos para sus fechas antes de aceptar la estancia."
+          ]
+        ]
+      }
+    },
+    "river": {
+      "en": {
+        "type": "planning-guide",
+        "pair_id": "colombia_river_001",
+        "hero": [
+          "amazon-river-canoe-aerial",
+          "A small canoe on a broad forest-lined river"
+        ],
+        "features": {
+          "1": [
+            "amazon-guided-boat-excursion",
+            "Travelers on a boat excursion along a forest river"
+          ],
+          "4": [
+            "amazon-canoe-floating-vegetation",
+            "A paddler guiding a canoe through floating vegetation"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Colombia Travel: Leticia",
+            "https://colombia.travel/es/leticia"
+          ],
+          [
+            "Colombia Travel: Puerto Nariño",
+            "https://colombia.travel/es/puerto-narino"
+          ]
+        ],
+        "scope": "Planning guidance reviewed October 8, 2026. Confirm current transport, community and park arrangements with the relevant providers and authorities. This guide does not confirm availability, prices or a booking.",
+        "slug": "river-journeys",
+        "h1": "Colombia Amazon river journeys",
+        "title": "Colombia Amazon River Journeys | Experience The Amazon",
+        "description": "Plan Colombian Amazon boat transfers and guided outings with clear routes, boarding arrangements, observation time and onward connections.",
+        "lede": "Make every boat leg serve a clear purpose. Separate transfers from guided outings, coordinate the landings and give lake or forest experiences enough useful time.",
+        "quick": [
+          "What makes the right river plan?",
+          "A clear river plan identifies whether each leg is a transfer or excursion, its departure and arrival points, responsible contacts and included services. Use current arrangements for your dates."
+        ],
+        "choices_heading": "Compare the parts of your journey",
+        "choices": [
+          [
+            "Leticia gateway",
+            "Organize town stays, pickups and onward travel.",
+            "/colombia/leticia/"
+          ],
+          [
+            "Puerto Nariño upstream",
+            "Plan the base and outings beyond the gateway.",
+            "/colombia/puerto-narino/"
+          ],
+          [
+            "Connect stays and river travel",
+            "Coordinate the overnight plan with the boat legs.",
+            "/colombia/amazon-accommodation/"
+          ]
+        ],
+        "links": [
+          [
+            "/colombia/",
+            "Colombia overview"
+          ],
+          [
+            "/colombia/plan-your-amazon-trip/",
+            "Trip planning"
+          ],
+          [
+            "/colombia/leticia/",
+            "Leticia"
+          ],
+          [
+            "/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/contact/",
+            "Share your plans"
+          ],
+          [
+            "/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/colombia/tarapoto-lakes/",
+            "Tarapoto lakes"
+          ],
+          [
+            "/colombia/amazon-accommodation/",
+            "Accommodation"
+          ],
+          [
+            "/colombia/river-journeys/",
+            "River journeys"
+          ]
+        ],
+        "context_links": [
+          [
+            "Colombia overview",
+            "/colombia/"
+          ],
+          [
+            "Colombia trip-planning guide",
+            "/colombia/plan-your-amazon-trip/"
+          ],
+          [
+            "Leticia guide",
+            "/colombia/leticia/"
+          ],
+          [
+            "Puerto Nariño guide",
+            "/colombia/puerto-narino/"
+          ],
+          [
+            "Amacayacu guide",
+            "/colombia/amacayacu/"
+          ],
+          [
+            "Tarapoto lakes guide",
+            "/colombia/tarapoto-lakes/"
+          ],
+          [
+            "an inquiry",
+            "/contact/"
+          ]
+        ],
+        "cta": [
+          "Plan the river journey that fits your trip",
+          "Share your dates, group size, preferred pace and practical needs. Tell us which Colombian Amazon settings and experiences interest you."
+        ],
+        "faqs": [
+          [
+            "Is a boat transfer a guided excursion?",
+            "Not necessarily. Ask whether guiding, observation periods and activity stops are included; a transfer primarily connects departure and arrival points."
+          ],
+          [
+            "Can we reach Puerto Nariño from Leticia by river?",
+            "Yes, as the official tourism guidance describes. Confirm the specific service, meeting points, arrival assistance and return arrangements for your dates."
+          ],
+          [
+            "Should we reserve using an old boat timetable?",
+            "Use current information from the provider for your route and dates. Review onward connections with the organizer rather than relying on a remembered duration."
+          ],
+          [
+            "Does river travel automatically include border crossings?",
+            "No. Identify the country of each stop and check applicable document requirements with relevant authorities before adding a cross-border leg."
+          ]
+        ],
+        "sections": [
+          [
+            "Separate a transfer from an experience",
+            "River travel connects the southern Colombian Amazon circuit, but not every boat leg serves the same purpose. A transfer moves the group between bases; an excursion is planned around observation or interpretation. A longer journey can combine both, provided the itinerary explains where travel ends and activity time begins. Ask which kind of service is proposed before comparing descriptions that all use the phrase Amazon river journey.",
+            "Start with the Colombia overview and mark the river legs between your overnight locations. For each one, identify the departure point, arrival point and whether stops are part of the agreed service. Do not count a necessary transfer as a complete wildlife outing simply because it passes through an appealing landscape. Conversely, allow a deliberately slower excursion enough time instead of treating it as transport that should be completed as quickly as possible."
+          ],
+          [
+            "Leticia to Puerto Nariño: coordinate both ends",
+            "The official tourism guide identifies Puerto Nariño as an upstream destination reached by river from Leticia. Plan the journey as a connection between two specific meeting points, not simply two town names. Confirm where you board, who communicates changes and how you reach the accommodation after arrival. A booking should describe whether hotel pickup or assistance at the destination is included or requires another arrangement.",
+            "Read the Leticia guide and Puerto Nariño guide together when building this leg. Ask whether the proposed service is shared or private and how any stops fit its purpose. Use current provider information for your dates rather than building a tight connection around a remembered duration or old timetable. Confirm the return at the same time, including luggage handling and the onward travel that follows the river journey."
+          ],
+          [
+            "Shared service or private arrangement?",
+            "Compare the actual services offered rather than assuming private transport is always better. Ask about the departure arrangements, stops, luggage and the flexibility available in each quote. A shared transfer may suit a straightforward move between bases; an individually arranged outing may support a particular pace or observation interest. The decision should rest on the experience and coordination the group needs, with current availability confirmed.",
+            "Keep the distinction between a private transfer and a guided private excursion clear. The former does not automatically include interpretation, activity stops or an extended observation period. Request the guide language and activity sequence where these are part of the plan. Compare totals using the same inclusions, and ask how changes are handled. A boat image or a broad service label cannot establish seating, guiding or the agreed route."
+          ],
+          [
+            "Boarding, bags and comfort matter",
+            "Ask which craft is proposed and how boarding works at the departure and arrival points. Tell the organizer if steps, unstable surfaces or carrying bags are difficult for anyone in the group. Confirm seating, luggage arrangements and the equipment provided for the actual journey. For children, discuss the arrangements suitable for the planned craft and group before accepting the service rather than leaving those questions until the landing.",
+            "Protect essential belongings in a way appropriate to the itinerary and ask the provider what it recommends for rain and boarding. Keep travel documents and provider contacts accessible while managing larger bags separately. Ask what the journey offers in terms of exposure, breaks and duration away from the base. These details help the group choose comfortably and are more informative than describing every river activity as suitable for everyone."
+          ],
+          [
+            "Give a lake outing its own time",
+            "The Tarapoto lakes guide covers an excursion associated with Puerto Nariño. Distinguish that activity from the transfer that gets you to the upstream base. Ask how long the group spends in the intended lake setting and how much of the day is occupied by other journeys. A visit from Leticia and an outing during an upstream overnight can provide quite different amounts of usable observation time.",
+            "For wildlife interests, discuss patient viewing and appropriate distance with the guide. Do not build the outing around a guaranteed dolphin photograph or repeated pursuit of an animal. Ask what interpretation and landscape time are included if wildlife remains out of sight. A worthwhile lake experience should have a clear purpose within the wider river journey, rather than appearing as a short stop added simply to increase the attraction count."
+          ],
+          [
+            "Connect a forest visit with the right landing",
+            "For a park or community visit, ask how the boat leg connects with the receiving host and activity guide. The Amacayacu guide explains why a destination name alone does not confirm the route or services. Identify any onward leg, where bags are kept and how the return is agreed. Booking transport independently without that coordination can leave the group at a landing with no confirmed reception or activity.",
+            "Explain the experience you want so the organizer can select a suitable arrangement. A forest walk, hosted visit and overnight setting require different amounts of time and different services. Ask who is responsible for the connection when the boat and guide are supplied separately. If the proposed sequence changes, review how it affects the useful activity period instead of keeping every original stop at the expense of an unhurried visit."
+          ],
+          [
+            "Let conditions shape the route, not the purpose",
+            "Ask how current river conditions affect the proposed journey and what alternatives the provider uses when arrangements change. Avoid relying on a fixed journey time without checking the particular service and travel window. The plan should identify what is confirmed before departure and which decisions are adjusted locally. A useful explanation connects those choices to the group’s priorities rather than promising that every original stop always operates.",
+            "Keep a small number of important experiences clear. Photographers may value a longer observation period; families may prefer a shorter outing and reliable breaks. A revised route can still be rewarding when it preserves that purpose. Ask how the organizer communicates changes and whether they affect the inclusions or price. Flexibility should make the trip workable, not disguise a service that has never been described precisely enough to compare."
+          ],
+          [
+            "Add a border crossing deliberately",
+            "Leticia lies in a three-country border region, but a Colombian river itinerary does not automatically include a visit to Brazil or Peru. Ask the organizer to identify the country of every proposed stop. If a cross-border leg interests you, check current document requirements with the relevant authorities for your nationality and route. Proximity on a map does not establish permission to cross or re-enter under the same arrangements.",
+            "Ask whether the guide accompanies the proposed crossing, which transport is included and how the return works. Keep it separate from a purely Colombian transfer when comparing itineraries. Add the crossing because it supports an experience you value, not simply to collect another country name. Make sure it leaves enough time for the river, lake or forest activity that originally brought the group to the Amazon."
+          ],
+          [
+            "Finish with a coordinated return",
+            "Use the Colombia trip-planning guide to review the last river leg alongside the onward departure. Identify the return landing, airport or hotel transfer, luggage arrangements and the person responsible for updates. Ask whether a Leticia overnight is appropriate. A tight connection should be assessed before booking rather than left for the guide to resolve during the final morning or after an unexpected change.",
+            "Send an inquiry with your dates, overnight bases and preferred river experience. Include whether you want straightforward transfers, patient observation or a longer guided outing, plus any practical boarding needs. Request the current total with transport, guiding, stops and other inclusions clearly identified. A coordinated written plan lets the group enjoy the journey and makes it possible to compare services. Confirm current schedules and arrangements with the provider before committing to the connections."
+          ]
+        ]
+      },
+      "es": {
+        "type": "planning-guide",
+        "pair_id": "colombia_river_001",
+        "hero": [
+          "amazon-river-canoe-aerial",
+          "Canoa pequeña en un río amplio rodeado de bosque"
+        ],
+        "features": {
+          "1": [
+            "amazon-guided-boat-excursion",
+            "Viajeros en una excursión en embarcación por un río junto al bosque"
+          ],
+          "4": [
+            "amazon-canoe-floating-vegetation",
+            "Persona guiando una canoa entre vegetación flotante"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Colombia Travel: Leticia",
+            "https://colombia.travel/es/leticia"
+          ],
+          [
+            "Colombia Travel: Puerto Nariño",
+            "https://colombia.travel/es/puerto-narino"
+          ]
+        ],
+        "scope": "Orientación revisada el 8 de octubre de 2026. Confirme las condiciones actuales de transporte y visitas con los proveedores y las autoridades competentes. Esta guía no confirma disponibilidad, precios ni reservas.",
+        "slug": "viajes-fluviales",
+        "h1": "Viajes fluviales por la Amazonía colombiana",
+        "title": "Colombia: viajes fluviales | Experience The Amazon",
+        "description": "Planifique traslados y excursiones fluviales por Colombia con rutas claras, condiciones de embarque, observación y conexiones posteriores.",
+        "lede": "Haga que cada tramo en bote sirva a un propósito claro. Separe los traslados de las excursiones guiadas, coordine los desembarcos y otorgue suficiente tiempo útil a las experiencias en lago o bosque.",
+        "quick": [
+          "¿Qué hace que un plan fluvial sea el adecuado?",
+          "Un plan fluvial claro identifica si cada tramo es un traslado o una excursión, sus puntos de partida y llegada, contactos responsables y servicios incluidos. Utilice las condiciones actuales para sus fechas."
+        ],
+        "choices_heading": "Compare las partes de su viaje",
+        "choices": [
+          [
+            "Puerta de entrada Leticia",
+            "Organice estancias en la ciudad, recogidas y viajes posteriores.",
+            "/es/colombia/leticia/"
+          ],
+          [
+            "Puerto Nariño aguas arriba",
+            "Planifique la base y las salidas más allá de la puerta de entrada.",
+            "/es/colombia/puerto-narino/"
+          ],
+          [
+            "Conecte estancias y viaje fluvial",
+            "Coordine el plan de alojamiento con los tramos en bote.",
+            "/es/colombia/alojamientos-amazonicos/"
+          ]
+        ],
+        "links": [
+          [
+            "/es/colombia/",
+            "Resumen de Colombia"
+          ],
+          [
+            "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+            "Planificación del viaje"
+          ],
+          [
+            "/es/colombia/leticia/",
+            "Leticia"
+          ],
+          [
+            "/es/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/es/contacto/",
+            "Comparta sus planes"
+          ],
+          [
+            "/es/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/es/colombia/lagos-de-tarapoto/",
+            "Lagos de Tarapoto"
+          ],
+          [
+            "/es/colombia/alojamientos-amazonicos/",
+            "Alojamiento"
+          ],
+          [
+            "/es/colombia/viajes-fluviales/",
+            "Viajes en río"
+          ]
+        ],
+        "context_links": [
+          [
+            "guía general de Colombia",
+            "/es/colombia/"
+          ],
+          [
+            "resumen de Colombia",
+            "/es/colombia/"
+          ],
+          [
+            "guía de planificación del viaje a Colombia",
+            "/es/colombia/planifica-tu-viaje-a-la-amazonia/"
+          ],
+          [
+            "guía de Leticia",
+            "/es/colombia/leticia/"
+          ],
+          [
+            "guía de Puerto Nariño",
+            "/es/colombia/puerto-narino/"
+          ],
+          [
+            "guía de Amacayacu",
+            "/es/colombia/amacayacu/"
+          ],
+          [
+            "guía de los lagos de Tarapoto",
+            "/es/colombia/lagos-de-tarapoto/"
+          ],
+          [
+            "una consulta",
+            "/es/contacto/"
+          ]
+        ],
+        "cta": [
+          "Planifique el viaje en río que se adapte a su itinerario",
+          "Comparta sus fechas, tamaño del grupo, ritmo preferido y necesidades prácticas. Dínos qué entornos y experiencias de la Amazonía colombiana le interesan."
+        ],
+        "faqs": [
+          [
+            "¿Es un traslado en bote una excursión guiada?",
+            "No necesariamente. Pregunte si se incluyen guías, períodos de observación y paradas de actividades; un traslado conecta principalmente los puntos de partida y llegada."
+          ],
+          [
+            "¿Podemos llegar a Puerto Nariño desde Leticia por río?",
+            "Sí, como describe la guía oficial de turismo. Confirme el servicio específico, puntos de encuentro, asistencia en la llegada y condiciones para el regreso para sus fechas."
+          ],
+          [
+            "¿Deberíamos reservar usando un horario antiguo de botes?",
+            "Utilice información actual del proveedor para su ruta y fechas. Revise las conexiones posteriores con el organizador en lugar de confiar en una duración recordada."
+          ],
+          [
+            "¿El viaje fluvial incluye automáticamente los cruces fronterizos?",
+            "No. Identifique el país de cada parada y verifique los requisitos documentales aplicables con las autoridades competentes antes de agregar un tramo transfronterizo."
+          ]
+        ],
+        "sections": [
+          [
+            "Separe un traslado de una experiencia",
+            "El viaje fluvial conecta el circuito de la Amazonía surcolombiana, pero no todos los tramos en bote cumplen el mismo propósito. Un traslado mueve al grupo entre bases; una excursión se planifica en torno a la observación o interpretación. Un viaje más largo puede combinar ambos, siempre que el itinerario explique dónde termina el viaje y comienza el tiempo de actividad. Pregunte qué tipo de servicio se propone antes de comparar descripciones que todas usan la frase 'viaje en río por la Amazonía'.",
+            "Comience con el resumen de Colombia y marque los tramos fluviales entre sus lugares de alojamiento nocturno. Para cada uno, identifique el punto de partida, el punto de llegada y si las paradas forman parte del servicio acordado. No cuente un traslado necesario como una salida completa de fauna simplemente porque pasa por un paisaje atractivo. Por el contrario, permita a una excursión deliberadamente más lenta suficiente tiempo en lugar de tratarla como transporte que debe completarse lo más rápido posible."
+          ],
+          [
+            "Leticia a Puerto Nariño: coordine ambos extremos",
+            "La guía oficial de turismo identifica a Puerto Nariño como un destino aguas arriba alcanzado por río desde Leticia. Planifique el viaje como una conexión entre dos puntos de encuentro específicos, no simplemente dos nombres de ciudad. Confirme dónde se embarca, quién comunica los cambios y cómo llega al alojamiento tras la llegada. Una reserva debe describir si se incluye la recogida en el hotel o la asistencia en el destino o requiere otro acuerdo.",
+            "Lea las guía de Leticia y la guía de Puerto Nariño juntas al construir este tramo. Pregunte si el servicio propuesto es compartido o privado y cómo encajan cualquier parada con su propósito. Utilice información actual del proveedor para sus fechas en lugar de construir una conexión ajustada en torno a una duración recordada o un horario antiguo. Confirme el regreso al mismo tiempo, incluyendo el manejo de equipaje y el viaje posterior al recorrido fluvial."
+          ],
+          [
+            "¿Servicio compartido o acuerdo privado?",
+            "Compare los servicios reales ofrecidos en lugar de asumir que el transporte privado siempre es mejor. Pregunte sobre las condiciones de salida, paradas, equipaje y la flexibilidad disponible en cada cotización. Un traslado compartido puede adecuarse a un movimiento sencillo entre bases; una salida organizada individualmente puede apoyar un ritmo particular o interés en la observación. La decisión debe basarse en la experiencia y coordinación que necesita el grupo, con disponibilidad actual confirmada.",
+            "Mantenga clara la distinción entre un traslado privado y una excursión privada guiada. El primero no incluye automáticamente interpretación, paradas de actividades ni un período de observación extendido. Solicite el idioma del guía y la secuencia de actividades cuando estas forman parte del plan. Compare totales usando las mismas inclusiones y pregunte cómo se manejan los cambios. Una imagen de bote o una etiqueta de servicio amplia no pueden establecer asientos, guías ni la ruta acordada."
+          ],
+          [
+            "Embarque, equipaje y comodidad importan",
+            "Pregunte qué embarcación se propone y cómo funciona el embarque en los puntos de partida y llegada. Dígale al organizador si las escaleras, superficies inestables o llevar bolsas son difíciles para alguien del grupo. Confirme asientos, condiciones de equipaje y el equipo proporcionado para el viaje real. Para niños, comente las condiciones adecuadas para la embarcación planificada y el grupo antes de aceptar el servicio en lugar de dejar esas preguntas hasta el desembarque.",
+            "Proteja las pertenencias esenciales de manera apropiada al itinerario y pregunte al proveedor qué recomienda para lluvia y embarque. Mantenga documentos de viaje y contactos del proveedor accesibles mientras organiza bolsas más grandes por separado. Pregunte qué ofrece el viaje en términos de exposición, descansos y duración fuera de la base. Estos detalles ayudan al grupo a elegir cómodamente y son más informativos que describir cada actividad fluvial como adecuada para todos."
+          ],
+          [
+            "Dedique su propio tiempo a una salida en lago",
+            "La guía de los lagos de Tarapoto cubre una excursión asociada con Puerto Nariño. Distinga esa actividad del traslado que lo lleva a la base aguas arriba. Pregunte cuánto tiempo pasa el grupo en el entorno de lago previsto y cuánto del día ocupa otros viajes. Una visita desde Leticia y una salida durante una noche aguas arriba pueden proporcionar cantidades bastante diferentes de tiempo de observación útil.",
+            "Para intereses en fauna, comente la observación paciente y la distancia apropiada con el guía. No construya la salida en torno a una fotografía de delfín garantizada o la persecución repetida de un animal. Pregunte qué interpretación y tiempo del paisaje se incluyen si la fauna permanece fuera de la vista. Una experiencia en lago valiosa debe tener un propósito claro dentro del viaje fluvial más amplio, en lugar de parecerse a una parada corta agregada simplemente para aumentar el número de paradas."
+          ],
+          [
+            "Conecte una visita al bosque con el desembarcadero adecuado",
+            "Para una visita a un parque o comunidad, pregunte cómo el tramo en bote se conecta con el anfitrión receptor y el guía de la actividad. La guía de Amacayacu explica por qué un nombre de destino solo no confirma la ruta ni los servicios. Identifique cualquier tramo posterior, dónde se guarda el equipaje y cómo se acuerda el regreso. Reservar transporte independientemente sin esa coordinación puede dejar al grupo en un desembarcadero sin recepción o actividad confirmada.",
+            "Explique la experiencia que desea para que el organizador pueda seleccionar un acuerdo adecuado. Un paseo por el bosque, una visita con anfitrión y un lugar donde pernoctar requieren diferentes cantidades de tiempo y servicios distintos. Pregunte quién es responsable de la conexión cuando el bote y el guía se contratan por separado. Si la secuencia propuesta cambia, revise cómo afecta al período de actividad útil en lugar de mantener cada parada original a expensas de una visita sin prisas."
+          ],
+          [
+            "Deje que las condiciones formen la ruta, no el propósito",
+            "Pregunte cómo las condiciones actuales del río afectan el viaje propuesto y qué alternativas usa el proveedor cuando cambian las condiciones. Evite confiar en un tiempo de viaje fijo sin verificar el servicio particular y las fechas de viaje. El plan debe identificar lo que se confirma antes de la salida y qué decisiones se ajustan localmente. Una explicación útil conecta esas elecciones con las prioridades del grupo en lugar de prometer que cada parada original siempre opera.",
+            "Mantenga un número pequeño de experiencias claras. Los fotógrafos pueden valorar un período de observación más largo; las familias pueden preferir una salida más corta y descansos confiables. Una ruta revisada aún puede ser gratificante cuando preserva ese propósito. Pregunte cómo el organizador comunica los cambios y si afectan las inclusiones o el precio. La flexibilidad debe hacer que el viaje sea viable, no disfrazar un servicio que nunca se describió lo suficientemente preciso para comparar."
+          ],
+          [
+            "Agregue un cruce fronterizo deliberadamente",
+            "Leticia se encuentra en una región fronteriza de tres países, pero un itinerario fluvial colombiano no incluye automáticamente una visita a Brasil o Perú. Pida al organizador que identifique el país de cada parada propuesta. Si le interesa un tramo transfronterizo, verifique los requisitos documentales actuales con las autoridades competentes para su nacionalidad y ruta. La proximidad en un mapa no establece permiso para cruzar o reingresar bajo las mismas condiciones.",
+            "Pregunte si el guía acompaña el cruce propuesto, qué transporte se incluye y cómo funciona el regreso. Manténgalo separado de un traslado puramente colombiano al comparar itinerarios. Agregue el cruce porque apoya una experiencia que valora, no simplemente para recopilar otro nombre de país. Asegúrese de que deje suficiente tiempo para la actividad en río, lago o bosque que originalmente llevó al grupo a la Amazonía."
+          ],
+          [
+            "Termine con un regreso coordinado",
+            "Utilice la guía de planificación del viaje a Colombia para revisar el último tramo fluvial junto con la salida posterior. Identifique el desembarcadero de regreso, aeropuerto o traslado al hotel, condiciones de equipaje y la persona responsable de las actualizaciones. Pregunte si una noche en Leticia es apropiada. Una conexión ajustada debe evaluarse antes de reservar en lugar de dejarlo para que lo resuelva el guía durante la mañana final o después de un cambio inesperado.",
+            "Envíe una consulta con sus fechas, lugares de alojamiento y experiencia fluvial preferida. Indique si desea traslados directos, observación paciente o una excursión guiada más larga, junto con cualquier necesidad práctica para el embarque. Solicite el total actual con transporte, guía, paradas y demás servicios incluidos claramente identificados. Un plan escrito y coordinado permite disfrutar del viaje y comparar opciones. Confirme horarios y condiciones actuales con el proveedor antes de aceptar las conexiones."
+          ]
+        ]
+      }
+    }
+  }
+}

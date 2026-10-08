@@ -1,0 +1,22 @@
+[
+  {
+    "route": "/colombia/amazon-accommodation/",
+    "status": 302,
+    "access_redirect": true
+  },
+  {
+    "route": "/es/colombia/alojamientos-amazonicos/",
+    "status": 302,
+    "access_redirect": true
+  },
+  {
+    "route": "/colombia/river-journeys/",
+    "status": 302,
+    "access_redirect": true
+  },
+  {
+    "route": "/es/colombia/viajes-fluviales/",
+    "status": 302,
+    "access_redirect": true
+  }
+]

@@ -24,19 +24,19 @@
     "Colombia overview",
     "Trip planning"
   ],
-  "staged_pairs": 6,
-  "status": "six_pairs_staged_technical_pass_visual_pending",
+  "staged_pairs": 8,
+  "status": "eight_pairs_staged_technical_pass_visual_pending",
   "quality_standard": "Same shared CSS, meaningful bilingual content, contextual internal links, reviewed facts and licensed imagery; no repeated scene within a page",
-  "staged_pages": 12,
-  "deployment": "5ef5c8fe",
-  "previous_staging_deployment": "f5f0b158",
+  "staged_pages": 16,
+  "deployment": "bda4d06c",
+  "previous_staging_deployment": "5ef5c8fe",
   "qa": {
-    "compiled_site_pages": 160,
-    "country_pages": 12,
+    "compiled_site_pages": 164,
+    "country_pages": 16,
     "errors": 0,
     "word_range": [
-      1547,
-      1834
+      1556,
+      1856
     ],
     "shared_css_tests": 4,
     "distinct_images_per_page": 3,
@@ -46,14 +46,14 @@
     "authenticated_readback": "Pending",
     "image_review": "Visible subjects reviewed; destination-specific imagery pending before release",
     "main_content_inlink_range": [
-      5,
-      6
+      7,
+      8
     ]
   },
-  "local_tokens_recorded": 34174,
+  "local_tokens_recorded": 45139,
   "next_batch": [
-    "Amazon accommodation",
-    "River journeys"
+    "Best time to visit",
+    "Wildlife"
   ],
   "second_batch": [
     "Leticia",
@@ -63,5 +63,9 @@
     "Amacayacu",
     "Tarapoto lakes"
   ],
-  "local_usage_limit": "Failed HTTP attempt returned no token counts; reported total covers recorded responses only"
+  "local_usage_limit": "Failed HTTP attempt returned no token counts; reported total covers recorded responses only",
+  "fourth_batch": [
+    "Amazon accommodation",
+    "River journeys"
+  ]
 }
