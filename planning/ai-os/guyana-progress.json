@@ -7,7 +7,7 @@
   "batch_size_pairs": 2,
   "staged_pairs": 12,
   "staged_pages": 24,
-  "status": "content_staged_technical_pass_release_gates_pending",
+  "status": "images_updated_technical_pass_release_checks_pending",
   "topics": [
     "Overview",
     "Trip planning",
@@ -24,13 +24,11 @@
   ],
   "next_batch": [],
   "pending": [
-    "Destination imagery confirmation",
     "Desktop/mobile visual review",
     "Authenticated staging readback",
-    "Country launch inquiry delivery check",
-    "Owner production authorization"
+    "Country launch inquiry delivery check"
   ],
-  "deployment": "d76ce70d",
+  "deployment": "8755ce6d",
   "local_tokens_recorded": 66000,
   "qa": {
     "country_pages": 24,

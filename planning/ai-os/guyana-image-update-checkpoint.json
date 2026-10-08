@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-08",
+  "pages": 24,
+  "placements": 72,
+  "shared_bilingual_files": true,
+  "scene_uniqueness_per_page": "passed",
+  "used_unique_files": 8,
+  "uploads_available": 13,
+  "unused_uploads_reason": "Bird and monkey species/locality not confirmed; not forced into pages merely to use every upload.",
+  "technical_qa": "196 compiled pages validated; 24 Guyana pages passed; 25 CSS/contact regression tests passed",
+  "visual_review": "Pending: browser admin-enforced security policy could not be verified; no workaround attempted",
+  "live_inquiry_test": "pending",
+  "owner_production_authorization": "Owner requested fully update and push live October 8; remaining verification gates retained",
+  "production_deployed": false,
+  "pages_inventory": [
+    {
+      "topic": "hub",
+      "language": "en",
+      "images": [
+        "guyana-forest-river-aerial",
+        "guyana-waterfall-rainbow",
+        "guyana-canoe-paddler-river"
+      ]
+    },
+    {
+      "topic": "hub",
+      "language": "es",
+      "images": [
+        "guyana-forest-river-aerial",
+        "guyana-waterfall-rainbow",
+        "guyana-canoe-paddler-river"
+      ]
+    },
+    {
+      "topic": "planning",
+      "language": "en",
+      "images": [
+        "guyana-canoe-paddler-river",
+        "guyana-rainforest-canopy-aerial",
+        "guyana-wooden-lodge-cabins"
+      ]
+    },
+    {
+      "topic": "planning",
+      "language": "es",
+      "images": [
+        "guyana-canoe-paddler-river",
+        "guyana-rainforest-canopy-aerial",
+        "guyana-wooden-lodge-cabins"
+      ]
+    },
+    {
+      "topic": "georgetown",
+      "language": "en",
+      "images": [
+        "guyana-forest-river-aerial",
+        "guyana-canoe-bow-forest-river",
+        "guyana-rainforest-canopy-aerial"
+      ]
+    },
+    {
+      "topic": "georgetown",
+      "language": "es",
+      "images": [
+        "guyana-forest-river-aerial",
+        "guyana-canoe-bow-forest-river",
+        "guyana-rainforest-canopy-aerial"
+      ]
+    },
+    {
+      "topic": "iwokrama",
+      "language": "en",
+      "images": [
+        "guyana-rainforest-canopy-aerial",
+        "guyana-canoe-paddler-river",
+        "guyana-forest-river-aerial"
+      ]
+    },
+    {
+      "topic": "iwokrama",
+      "language": "es",
+      "images": [
+        "guyana-rainforest-canopy-aerial",
+        "guyana-canoe-paddler-river",
+        "guyana-forest-river-aerial"
+      ]
+    },
+    {
+      "topic": "rupununi",
+      "language": "en",
+      "images": [
+        "guyana-giant-anteater",
+        "guyana-canoe-paddler-river",
+        "guyana-rainforest-canopy-aerial"
+      ]
+    },
+    {
+      "topic": "rupununi",
+      "language": "es",
+      "images": [
+        "guyana-giant-anteater",
+        "guyana-canoe-paddler-river",
+        "guyana-rainforest-canopy-aerial"
+      ]
+    },
+    {
+      "topic": "community-stays",
+      "language": "en",
+      "images": [
+        "guyana-canoe-paddler-river",
+        "guyana-rainforest-canopy-aerial",
+        "guyana-canoe-bow-forest-river"
+      ]
+    },
+    {
+      "topic": "community-stays",
+      "language": "es",
+      "images": [
+        "guyana-canoe-paddler-river",
+        "guyana-rainforest-canopy-aerial",
+        "guyana-canoe-bow-forest-river"
+      ]
+    },
+    {
+      "topic": "rainforest-accommodation",
+      "language": "en",
+      "images": [
+        "guyana-wooden-lodge-cabins",
+        "guyana-rainforest-canopy-aerial",
+        "guyana-canoe-paddler-river"
+      ]
+    },
+    {
+      "topic": "rainforest-accommodation",
+      "language": "es",
+      "images": [
+        "guyana-wooden-lodge-cabins",
+        "guyana-rainforest-canopy-aerial",
+        "guyana-canoe-paddler-river"
+      ]
+    },
+    {
+      "topic": "river-journeys",
+      "language": "en",
+      "images": [
+        "guyana-canoe-bow-forest-river",
+        "guyana-broad-river-sunset-aerial",
+        "guyana-canoe-paddler-river"
+      ]
+    },
+    {
+      "topic": "river-journeys",
+      "language": "es",
+      "images": [
+        "guyana-canoe-bow-forest-river",
+        "guyana-broad-river-sunset-aerial",
+        "guyana-canoe-paddler-river"
+      ]
+    },
+    {
+      "topic": "best-time-to-visit",
+      "language": "en",
+      "images": [
+        "guyana-broad-river-sunset-aerial",
+        "guyana-rainforest-canopy-aerial",
+        "guyana-canoe-bow-forest-river"
+      ]
+    },
+    {
+      "topic": "best-time-to-visit",
+      "language": "es",
+      "images": [
+        "guyana-broad-river-sunset-aerial",
+        "guyana-rainforest-canopy-aerial",
+        "guyana-canoe-bow-forest-river"
+      ]
+    },
+    {
+      "topic": "wildlife",
+      "language": "en",
+      "images": [
+        "guyana-giant-anteater",
+        "guyana-rainforest-canopy-aerial",
+        "guyana-canoe-paddler-river"
+      ]
+    },
+    {
+      "topic": "wildlife",
+      "language": "es",
+      "images": [
+        "guyana-giant-anteater",
+        "guyana-rainforest-canopy-aerial",
+        "guyana-canoe-paddler-river"
+      ]
+    },
+    {
+      "topic": "getting-there",
+      "language": "en",
+      "images": [
+        "guyana-forest-river-aerial",
+        "guyana-canoe-paddler-river",
+        "guyana-rainforest-canopy-aerial"
+      ]
+    },
+    {
+      "topic": "getting-there",
+      "language": "es",
+      "images": [
+        "guyana-forest-river-aerial",
+        "guyana-canoe-paddler-river",
+        "guyana-rainforest-canopy-aerial"
+      ]
+    },
+    {
+      "topic": "packing-list",
+      "language": "en",
+      "images": [
+        "guyana-canoe-paddler-river",
+        "guyana-canoe-bow-forest-river",
+        "guyana-wooden-lodge-cabins"
+      ]
+    },
+    {
+      "topic": "packing-list",
+      "language": "es",
+      "images": [
+        "guyana-canoe-paddler-river",
+        "guyana-canoe-bow-forest-river",
+        "guyana-wooden-lodge-cabins"
+      ]
+    }
+  ],
+  "deployment": "8755ce6d"
+}

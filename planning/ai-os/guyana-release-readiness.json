@@ -1,7 +1,7 @@
 {
   "status": "staged_technical_pass_release_gates_pending",
   "review_date": "2026-10-08",
-  "deployment": "d76ce70d",
+  "deployment": "8755ce6d",
   "content_pairs": 12,
   "content_pages": 24,
   "technical_audit_errors": [],
@@ -11,16 +11,14 @@
   "css_contact_regression_tests_passed": 25,
   "visual_review": "Pending; existing browser admin-policy verification unavailable",
   "protected_staging_readback": "Unauthenticated Access redirects verified; authenticated content readback pending",
-  "destination_imagery": "Owner-licensed illustrative library reuse; geographically specific imagery confirmation pending",
+  "destination_imagery": "Owner-uploaded Adobe Express photos reviewed visually; generic alt text does not assert unverified localities, species or property offerings",
   "live_contact_delivery_this_review": "Not performed; regression tests passed",
   "production_containment": "Passed; Guyana excluded",
-  "owner_production_authorization": false,
+  "owner_production_authorization": true,
   "remaining_gates": [
-    "Imagery confirmation",
     "Desktop/mobile visual review",
     "Authenticated staging readback",
-    "Country inquiry delivery check",
-    "Owner production authorization"
+    "Country inquiry delivery check"
   ],
   "verification_note": "FAQ count parsed within main content; navigation disclosures excluded"
 }

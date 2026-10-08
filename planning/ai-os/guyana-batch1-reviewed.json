@@ -199,6 +199,78 @@
       "rights": "Owner-supplied Adobe Express paid-plan use authorized in conversation",
       "location": "Visible subject reviewed; exact capture location unverified except readable Leticia signs. Alt text does not assert a named lodge or capture site.",
       "original_sha256": "01a4707d5d87b51646cbe6aba2da7a0992ef39ad3b8b0ef3b5264c8ee65c36be"
+    },
+    "guyana-forest-river-aerial": {
+      "src": "/assets/images/pages/countries/guyana/guyana-forest-river-aerial.jpg",
+      "width": 2400,
+      "height": 1800,
+      "attribution_required": false,
+      "rights": "Owner-supplied paid Adobe Express library; owner authorized site use",
+      "location_note": "Illustrative scene; exact locality or property not asserted"
+    },
+    "guyana-canoe-bow-forest-river": {
+      "src": "/assets/images/pages/countries/guyana/guyana-canoe-bow-forest-river.jpg",
+      "width": 2400,
+      "height": 1800,
+      "attribution_required": false,
+      "rights": "Owner-supplied paid Adobe Express library; owner authorized site use",
+      "location_note": "Illustrative scene; exact locality or property not asserted"
+    },
+    "guyana-canoe-paddler-river": {
+      "src": "/assets/images/pages/countries/guyana/guyana-canoe-paddler-river.jpg",
+      "width": 2400,
+      "height": 1800,
+      "attribution_required": false,
+      "rights": "Owner-supplied paid Adobe Express library; owner authorized site use",
+      "location_note": "Illustrative scene; exact locality or property not asserted"
+    },
+    "guyana-rainforest-canopy-aerial": {
+      "src": "/assets/images/pages/countries/guyana/guyana-rainforest-canopy-aerial.jpg",
+      "width": 2400,
+      "height": 1800,
+      "attribution_required": false,
+      "rights": "Owner-supplied paid Adobe Express library; owner authorized site use",
+      "location_note": "Illustrative scene; exact locality or property not asserted"
+    },
+    "guyana-giant-anteater": {
+      "src": "/assets/images/pages/countries/guyana/guyana-giant-anteater.jpg",
+      "width": 2400,
+      "height": 1800,
+      "attribution_required": false,
+      "rights": "Owner-supplied paid Adobe Express library; owner authorized site use",
+      "location_note": "Illustrative scene; exact locality or property not asserted"
+    },
+    "guyana-broad-river-sunset-aerial": {
+      "src": "/assets/images/pages/countries/guyana/guyana-broad-river-sunset-aerial.jpg",
+      "width": 2400,
+      "height": 1800,
+      "attribution_required": false,
+      "rights": "Owner-supplied paid Adobe Express library; owner authorized site use",
+      "location_note": "Illustrative scene; exact locality or property not asserted"
+    },
+    "guyana-forest-river-gorge": {
+      "src": "/assets/images/pages/countries/guyana/guyana-forest-river-gorge.jpg",
+      "width": 2400,
+      "height": 1800,
+      "attribution_required": false,
+      "rights": "Owner-supplied paid Adobe Express library; owner authorized site use",
+      "location_note": "Illustrative scene; exact locality or property not asserted"
+    },
+    "guyana-waterfall-rainbow": {
+      "src": "/assets/images/pages/countries/guyana/guyana-waterfall-rainbow.jpg",
+      "width": 2400,
+      "height": 1800,
+      "attribution_required": false,
+      "rights": "Owner-supplied paid Adobe Express library; owner authorized site use",
+      "location_note": "Illustrative scene; exact locality or property not asserted"
+    },
+    "guyana-wooden-lodge-cabins": {
+      "src": "/assets/images/pages/countries/guyana/guyana-wooden-lodge-cabins.jpg",
+      "width": 2400,
+      "height": 1800,
+      "attribution_required": false,
+      "rights": "Owner-supplied paid Adobe Express library; owner authorized site use",
+      "location_note": "Illustrative scene; exact locality or property not asserted"
     }
   },
   "pages": {
@@ -207,17 +279,17 @@
         "type": "country-hub",
         "pair_id": "guyana_hub_001",
         "hero": [
-          "amazon-meandering-river-aerial-wide",
-          "Winding river channels through green forest"
+          "guyana-forest-river-aerial",
+          "River winding through dense forest"
         ],
         "features": {
           "1": [
-            "amazon-forest-buttress-tree-hiker-wide",
-            "Hiker beside a large forest tree"
+            "guyana-waterfall-rainbow",
+            "Waterfall beside a forested plateau with a rainbow"
           ],
           "4": [
-            "amazon-wooden-canoes-riverbank",
-            "Wooden canoes beside a river"
+            "guyana-canoe-paddler-river",
+            "Paddler traveling along a forest-lined river"
           ]
         },
         "feature_sides": {
@@ -446,17 +518,17 @@
         "type": "country-hub",
         "pair_id": "guyana_hub_001",
         "hero": [
-          "amazon-meandering-river-aerial-wide",
-          "Canales fluviales sinuosos entre bosque verde"
+          "guyana-forest-river-aerial",
+          "Río que serpentea entre un bosque denso"
         ],
         "features": {
           "1": [
-            "amazon-forest-buttress-tree-hiker-wide",
-            "Caminante junto a un gran árbol del bosque"
+            "guyana-waterfall-rainbow",
+            "Cascada junto a una meseta boscosa con un arcoíris"
           ],
           "4": [
-            "amazon-wooden-canoes-riverbank",
-            "Canoas de madera junto a un río"
+            "guyana-canoe-paddler-river",
+            "Persona remando por un río rodeado de bosque"
           ]
         },
         "feature_sides": {
@@ -687,17 +759,17 @@
         "type": "planning-guide",
         "pair_id": "guyana_planning_001",
         "hero": [
-          "amazon-canoe-group-lake-journey",
-          "Travelers in a canoe on calm water"
+          "guyana-canoe-paddler-river",
+          "Paddler traveling along a forest-lined river"
         ],
         "features": {
           "1": [
-            "tropical-thatched-lodge-hammock-deck",
-            "Hammock on a thatched building’s deck"
+            "guyana-rainforest-canopy-aerial",
+            "Aerial view of green rainforest canopy"
           ],
           "4": [
-            "amazon-rainforest-walk-traveler",
-            "Traveler walking through a forest"
+            "guyana-wooden-lodge-cabins",
+            "Wooden cabins beside tropical forest"
           ]
         },
         "feature_sides": {
@@ -926,17 +998,17 @@
         "type": "planning-guide",
         "pair_id": "guyana_planning_001",
         "hero": [
-          "amazon-canoe-group-lake-journey",
-          "Viajeros en una canoa sobre aguas tranquilas"
+          "guyana-canoe-paddler-river",
+          "Persona remando por un río rodeado de bosque"
         ],
         "features": {
           "1": [
-            "tropical-thatched-lodge-hammock-deck",
-            "Hamaca en la cubierta de un edificio de paja"
+            "guyana-rainforest-canopy-aerial",
+            "Vista aérea del dosel verde de la selva"
           ],
           "4": [
-            "amazon-rainforest-walk-traveler",
-            "Viajero caminando por un bosque"
+            "guyana-wooden-lodge-cabins",
+            "Cabañas de madera junto a un bosque tropical"
           ]
         },
         "feature_sides": {
@@ -1162,5 +1234,6 @@
         ]
       }
     }
-  }
+  },
+  "image_review_note": "Owner-uploaded images visually inspected. Generic forest/river illustrations replace unverified town/community imagery; lodge not identified as a bookable property. Unverified bird/monkey species and waterfall locality are not asserted."
 }
