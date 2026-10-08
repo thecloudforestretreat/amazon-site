@@ -1,0 +1,489 @@
+{
+  "status": "deployed_technical_qa_pass_visual_readback_pending",
+  "source_commit": "39242e8",
+  "pages": 24,
+  "pairs": 12,
+  "mapping": {
+    "hub": [
+      "amazon-forest-island-channels-aerial",
+      "manaus-amazon-theatre-cityscape",
+      "amazon-blue-and-yellow-macaws-portrait"
+    ],
+    "planning": [
+      "amazon-guided-boat-excursion",
+      "amazon-forest-lodge-aerial",
+      "amazon-canoe-sunset-silhouette"
+    ],
+    "manaus": [
+      "manaus-amazon-theatre-cityscape",
+      "manaus-waterfront-from-river",
+      "amazon-river-canoe-aerial"
+    ],
+    "rio-negro": [
+      "amazon-river-canoe-aerial",
+      "amazon-meandering-river-forest-aerial",
+      "amazon-river-palm-forest"
+    ],
+    "anavilhanas": [
+      "amazon-forest-island-channels-aerial",
+      "amazon-canoe-floating-vegetation",
+      "amazon-green-parrots-portrait"
+    ],
+    "alter-do-chao": [
+      "alter-do-chao-sandbar-aerial",
+      "alter-do-chao-beach-moored-boats",
+      "river-beach-boats-overhead"
+    ],
+    "lodges": [
+      "amazon-forest-lodge-aerial",
+      "amazon-riverside-thatched-lodge",
+      "amazon-lodge-reflection"
+    ],
+    "river-journeys": [
+      "amazon-guided-boat-excursion",
+      "amazon-riverside-buildings-and-boat",
+      "amazon-canoe-sunset-silhouette"
+    ],
+    "timing": [
+      "amazon-winding-river-sunset-aerial",
+      "amazon-canoe-floating-vegetation",
+      "amazon-river-palm-forest"
+    ],
+    "wildlife": [
+      "amazon-jaguar-walking-portrait",
+      "amazon-red-faced-monkey-portrait",
+      "caiman-overhead-portrait"
+    ],
+    "access": [
+      "manaus-waterfront-from-river",
+      "amazon-guided-boat-excursion",
+      "amazon-riverside-buildings-and-boat"
+    ],
+    "packing": [
+      "amazon-canoe-floating-vegetation",
+      "amazon-riverside-thatched-lodge",
+      "sloth-in-tree-portrait"
+    ]
+  },
+  "images": {
+    "manaus-amazon-theatre-cityscape": {
+      "src": "/assets/images/pages/countries/brazil/optimized/manaus-amazon-theatre-cityscape.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Amazon Theatre and surrounding city buildings in Manaus",
+        "es": "Teatro Amazonas y edificios de la ciudad de Manaus"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "486b55e412a2ca1c11c32b5fd31948bf25bc55aac1660506c23066d5bcf08a8f",
+      "web_sha256": "2b79627074d8aa7ec6fc0193221a22c9eba45237fe93b1a03f8da1f86a9c80c3",
+      "original_bytes": 501732,
+      "web_bytes": 350724
+    },
+    "manaus-waterfront-from-river": {
+      "src": "/assets/images/pages/countries/brazil/optimized/manaus-waterfront-from-river.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Manaus waterfront buildings viewed from the river",
+        "es": "Edificios del frente fluvial de Manaus vistos desde el río"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "509f3fd0052eec64d7c6b5f42fe1819bbbb9f777e56506c4de4dcf30bea162fd",
+      "web_sha256": "532de9a739485e697182bc693df9a8a4a90a404cf87a68116400c1a0edeafe70",
+      "original_bytes": 467899,
+      "web_bytes": 323288
+    },
+    "amazon-winding-river-sunset-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-winding-river-sunset-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "A winding river through forest at sunset, illustrative landscape",
+        "es": "Río sinuoso entre el bosque al atardecer, paisaje ilustrativo"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "6f95f73e056d1612977467bbcdd6da736df7a0666bfbbafcdb9be28db76c6026",
+      "web_sha256": "8ba572758dad7e461f0b4d7fce2cf35b1baef4ca0dbf454c476d032314df896f",
+      "original_bytes": 239280,
+      "web_bytes": 144264
+    },
+    "amazon-river-canoe-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-river-canoe-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "A small canoe on a broad forest-lined river",
+        "es": "Canoa pequeña en un río amplio rodeado de bosque"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "26b33e2ec42e4dc57078b544300135bd21935c8b119d9ced274f345735162ec0",
+      "web_sha256": "2c824e544debf5ec678e62665e06fb969d3bfe0a851dad7fe2c2a2ac38c1b614",
+      "original_bytes": 363258,
+      "web_bytes": 264580
+    },
+    "amazon-meandering-river-forest-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-meandering-river-forest-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Overhead view of a meandering river and dense forest",
+        "es": "Vista aérea de un río sinuoso y bosque denso"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "a1e97aa25fc6df7f93c10e1788fb0b2cc89b6267c9452399fc5980429a1ab921",
+      "web_sha256": "2326d50fbc88176447ba1685ef2bdf9376b5425667da0470822a3a8ed85f96fe",
+      "original_bytes": 670865,
+      "web_bytes": 512448
+    },
+    "amazon-riverside-buildings-and-boat": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-riverside-buildings-and-boat.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Riverside buildings and a moored boat, illustrative accommodation scene",
+        "es": "Edificios junto al río y embarcación amarrada, escena ilustrativa de alojamiento"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "ced78ebc34115f01a3e39afdeb8abe79187b5b3b2804e53dd03bce4789d68aee",
+      "web_sha256": "6195f53f147fcb04c0bb19fc0dcbb9605313407d607800265962cd7762e2dee5",
+      "original_bytes": 480430,
+      "web_bytes": 343028
+    },
+    "amazon-forest-island-channels-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-forest-island-channels-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Forest-covered islands separated by dark river channels",
+        "es": "Islas cubiertas de bosque separadas por canales fluviales oscuros"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "cf89c0af136837a31eb9d92e79db30d4f621405ee7219a863ff612b42396ef63",
+      "web_sha256": "f47b1ea9681739a8bf2bb3c6aca5f2b4c7a337f5eb2d23d4f5594eb0b904c8ce",
+      "original_bytes": 634815,
+      "web_bytes": 524420
+    },
+    "amazon-river-palm-forest": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-river-palm-forest.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Palms and dense forest along a riverbank",
+        "es": "Palmeras y bosque denso junto a la orilla de un río"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "b1be430192a6e7d2a6f87feb13dd7bc6bdb89b0983d5c48a005356db5807741f",
+      "web_sha256": "ab9feee6239a89246f52c0eb2beba9343c94a8bd572d457d0b639618521db197",
+      "original_bytes": 659469,
+      "web_bytes": 508908
+    },
+    "river-beach-boats-overhead": {
+      "src": "/assets/images/pages/countries/brazil/optimized/river-beach-boats-overhead.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Overhead view of boats along a sandy river beach",
+        "es": "Vista aérea de embarcaciones junto a una playa fluvial arenosa"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "451343a46ca35f95bbb134b671b74c58e3f62833b4b38fdc45ddb76e284ed1c2",
+      "web_sha256": "df437bdd76d93525f5e7dda9870ded3555f4983959fb0c652554d2e039262830",
+      "original_bytes": 358877,
+      "web_bytes": 233020
+    },
+    "alter-do-chao-beach-moored-boats": {
+      "src": "/assets/images/pages/countries/brazil/optimized/alter-do-chao-beach-moored-boats.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Boats beside a sandy beach with hills across the water",
+        "es": "Embarcaciones junto a una playa arenosa con colinas al otro lado del agua"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "3cba3886c7d5d09b2eb0e16f047d19249a73007261cade8bc5948cd6730095c7",
+      "web_sha256": "d332650f34a08726535fe55a0ed6aa198dfb8ee0b0ec4b4c4e6ba37dcaab90b8",
+      "original_bytes": 368268,
+      "web_bytes": 247412
+    },
+    "alter-do-chao-sandbar-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/alter-do-chao-sandbar-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "A river sandbar with boats and visitors",
+        "es": "Banco de arena fluvial con embarcaciones y visitantes"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "d1ec97a96bfa76317063b1f82c5ded9ffe1297dcd8130762bf11289be0916fca",
+      "web_sha256": "83dcf5b065c4e3d1672943280f3a6592f7e7504d0a1da84a851f8f97042efaf9",
+      "original_bytes": 227319,
+      "web_bytes": 146550
+    },
+    "amazon-riverside-thatched-lodge": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-riverside-thatched-lodge.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Thatched buildings beside the water, illustrative lodge scene",
+        "es": "Edificios con techo de paja junto al agua, escena ilustrativa de lodge"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c015f62519415e52b67f5020bef551907a2a16a8bb546c7f2ffaf13e4288347c",
+      "web_sha256": "069a39ef6c2be76a6d0b8265db2ac444d145424508ad12b40557f6e251087c49",
+      "original_bytes": 857912,
+      "web_bytes": 673536
+    },
+    "amazon-forest-lodge-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-forest-lodge-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Lodge buildings surrounded by forest, illustrative accommodation photograph",
+        "es": "Edificios de un lodge rodeados de bosque, fotografía ilustrativa de alojamiento"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "d929e2cbeff7fcfe7a04d413df4ec4367ac94e046aa8c4e52e710bbb20e18ee6",
+      "web_sha256": "7c00686e938b5ae661e3bf5c049cd7a25378f674a42e88ad5034eecd7792fcbe",
+      "original_bytes": 643921,
+      "web_bytes": 494062
+    },
+    "amazon-lodge-reflection": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-lodge-reflection.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "A thatched lodge reflected in calm water, illustrative accommodation photograph",
+        "es": "Lodge con techo de paja reflejado en aguas tranquilas, fotografía ilustrativa de alojamiento"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "1d1296a0282d7f2e1a3e7fa23cd393098729201800a772af58a33d586c74d825",
+      "web_sha256": "fcde1b69f92a3720517186bb7ba757699f555c5011862548e8675f37d94df1a8",
+      "original_bytes": 691711,
+      "web_bytes": 515560
+    },
+    "amazon-canoe-floating-vegetation": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-canoe-floating-vegetation.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "A paddler guiding a canoe through floating vegetation",
+        "es": "Persona guiando una canoa entre vegetación flotante"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c07bce58422bec9dfba2bd58c733f908bacd634b6b12e5daaa3c5e808ccd3b0a",
+      "web_sha256": "3c95b2955c2852c4d7bccb22a390eaca6b27af4b4c12f6319cf3e6a9185b8d3a",
+      "original_bytes": 861832,
+      "web_bytes": 705686
+    },
+    "amazon-guided-boat-excursion": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-guided-boat-excursion.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Travelers on a boat excursion along a forest river",
+        "es": "Viajeros en una excursión en embarcación por un río junto al bosque"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "5f74914182bee3a0ac70a5ca5b2eabef4e9c03b9b0bcbc80caeabd175c55a44b",
+      "web_sha256": "0ed71e923f93211af1a0ac5d47a559065c094dc4c832785ddc14618f23665f1f",
+      "original_bytes": 316368,
+      "web_bytes": 202552
+    },
+    "amazon-canoe-sunset-silhouette": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-canoe-sunset-silhouette.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Silhouette of a canoe and paddlers at sunset",
+        "es": "Silueta de una canoa y sus ocupantes al atardecer"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "77e424bf7ae95d23bf2aaa7928822e11a47ce3481ed0cf3b0e4f5ce3e20829a7",
+      "web_sha256": "2fbc3be105789df4f84ff5c90bf75abfb8412d86d7a2e6de695500898f1707e6",
+      "original_bytes": 298208,
+      "web_bytes": 177642
+    },
+    "amazon-jaguar-walking-portrait": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-jaguar-walking-portrait.webp",
+      "width": 1440,
+      "height": 1800,
+      "alt": {
+        "en": "A jaguar walking through vegetation, illustrative wildlife photograph",
+        "es": "Jaguar caminando entre la vegetación, fotografía ilustrativa de fauna"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "9e0bc1594fd416c8dd4c9bdd244d6747e043b7591df16efad97c0e2bdf4767db",
+      "web_sha256": "c204baca6353210479362b24122f187bea8bb0f09af5e0effc7deca8b554295c",
+      "original_bytes": 279227,
+      "web_bytes": 222934
+    },
+    "amazon-blue-and-yellow-macaws-portrait": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-blue-and-yellow-macaws-portrait.webp",
+      "width": 1440,
+      "height": 1800,
+      "alt": {
+        "en": "Blue-and-yellow macaws perched in a tree",
+        "es": "Guacamayos azules y amarillos posados en un árbol"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c655d027f0b3800fa46eddf0ff3ecbf3ef59701a4612f7108960a7a2be2006ed",
+      "web_sha256": "546f39d9dc611b043ec623bb6bb9f71ea752cf4da637ddc3a4fa0db19f893100",
+      "original_bytes": 495727,
+      "web_bytes": 476398
+    },
+    "amazon-red-faced-monkey-portrait": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-red-faced-monkey-portrait.webp",
+      "width": 1440,
+      "height": 1800,
+      "alt": {
+        "en": "A red-faced monkey holding food, illustrative wildlife photograph",
+        "es": "Mono de cara roja sosteniendo alimento, fotografía ilustrativa de fauna"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "5649db60635f0c88d648a220fbc38c20b6277c35605ecc57688a146f86934db9",
+      "web_sha256": "13cdcc4f80e8ba20119c18eaf8a21296bc79257ce4ec6f1e1e2dc7e9c9610bb6",
+      "original_bytes": 342817,
+      "web_bytes": 306456
+    },
+    "amazon-jaguar-resting-portrait": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-jaguar-resting-portrait.webp",
+      "width": 1440,
+      "height": 1800,
+      "alt": {
+        "en": "A resting jaguar, illustrative wildlife photograph",
+        "es": "Jaguar en reposo, fotografía ilustrativa de fauna"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "2fdc52c5770bbbc712117d32bc63d621973256c8e647f0e5c93c688fd702b781",
+      "web_sha256": "d2de2d8043cdea767b478c3af2d7a155ed174b4096ea197d8d2c37e901afd765",
+      "original_bytes": 365222,
+      "web_bytes": 337350
+    },
+    "amazon-green-parrots-portrait": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-green-parrots-portrait.webp",
+      "width": 1440,
+      "height": 1800,
+      "alt": {
+        "en": "Green parrots perched among branches",
+        "es": "Loros verdes posados entre ramas"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "8f83b21a40d45a60c60c63d332ab6a6e3efd42af4b5c73be1e0807b184486333",
+      "web_sha256": "b06473949da3ffc80fae6902343c3915790f4943e35750351cd149850ef9c2e0",
+      "original_bytes": 282056,
+      "web_bytes": 216380
+    },
+    "frog-perched-on-flower-portrait": {
+      "src": "/assets/images/pages/countries/brazil/optimized/frog-perched-on-flower-portrait.webp",
+      "width": 1440,
+      "height": 1800,
+      "alt": {
+        "en": "A small frog perched on a flower, illustrative wildlife photograph",
+        "es": "Rana pequeña posada sobre una flor, fotografía ilustrativa de fauna"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "14f0d2ac20927c9a941a5cdb3c10810261727c6e4d2388dacc5712b88640c048",
+      "web_sha256": "c78ddee2284c5386718765b6b915e4c04dddc119db05d470a30f308de5cab4c5",
+      "original_bytes": 115473,
+      "web_bytes": 86610
+    },
+    "sloth-in-tree-portrait": {
+      "src": "/assets/images/pages/countries/brazil/optimized/sloth-in-tree-portrait.webp",
+      "width": 1440,
+      "height": 1800,
+      "alt": {
+        "en": "A sloth hanging from a tree branch",
+        "es": "Perezoso colgado de una rama"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c89192a7c86820379f60fa20343fb3b95a3c5b0a47c43648f4fefbb651b4c439",
+      "web_sha256": "40a7313e307d0c280fbf898ddf2a0cb9b02242a1a2a76c586c2204750c9070e0",
+      "original_bytes": 429838,
+      "web_bytes": 409496
+    },
+    "caiman-overhead-portrait": {
+      "src": "/assets/images/pages/countries/brazil/optimized/caiman-overhead-portrait.webp",
+      "width": 1440,
+      "height": 1800,
+      "alt": {
+        "en": "A caiman viewed from above in shallow water",
+        "es": "Caimán visto desde arriba en aguas poco profundas"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "ba3c186d7d6aea0db02fafd1463fac20968183e9aa6706f01106d83fc1deaa84",
+      "web_sha256": "c85eb404180c4476e7353223fe392359ba4c7c9cdf20dea032dd7461e96633b0",
+      "original_bytes": 224091,
+      "web_bytes": 185572
+    }
+  },
+  "excluded": [
+    "forested-mountain-river-landscape: mountainous scene not suitable for Anavilhanas lowland representation"
+  ],
+  "note": "Exact location claims not inferred from filenames. No repeated file or scene within a page; EN/ES share identical image sets.",
+  "original_bytes": 11176615,
+  "optimized_bytes": 8608876,
+  "deployment": "6ad52150",
+  "previous_deployment": "53db7a41",
+  "technical_qa": {
+    "compiled_pages": 148,
+    "brazil_pages": 24,
+    "errors": 0,
+    "css_tests_passed": 3,
+    "distinct_scenes_per_page": 3,
+    "used_images": 23
+  },
+  "browser_review": "Blocked: admin-enforced browser policy could not be verified; no bypass attempted",
+  "protected_readback": "Unauthenticated route requests returned 403; Access redirect and authenticated readback not verified",
+  "local_worker_tokens": 0
+}

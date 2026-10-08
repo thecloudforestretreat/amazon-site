@@ -2,80 +2,85 @@
   "editorial_status": "reviewed",
   "review_date": "2026-10-08",
   "images": {
-    "amazon-forest-river-aerial": {
-      "width": 1600,
-      "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-aerial.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "25fdbaac484995f9de40d64e3334022af4578b8584ddf44d0eae688523ba3d97",
-      "web_sha256": "3acf7d2822a7a986c4e6466f9551f2ac1ef3594975e7d799297620527c36df75",
-      "original_bytes": 413373,
-      "web_bytes": 268828,
-      "alt": {
-        "en": "A winding river surrounded by tropical forest",
-        "es": "Río sinuoso rodeado de bosque tropical"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "amazon-macaws-in-flight": {
-      "width": 1280,
-      "height": 1600,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-macaws-in-flight.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "82d58f5b49cb5bf966d6dea475a78706f5329dd7c6874a360de3ce2cf848e4e1",
-      "web_sha256": "b4baaf108be2a1643a1d416aef8fbd8cbfa0a731bc166413c9b4ed942f41bea4",
-      "original_bytes": 126325,
-      "web_bytes": 83978,
-      "alt": {
-        "en": "Colorful macaws flying past green foliage",
-        "es": "Guacamayos de colores volando frente a la vegetación"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "amazon-forest-river-channel": {
-      "width": 1600,
-      "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-channel.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "26fc7f3acb97ef3ebb20601be3e1936abd5dacf94d5512733f3821f39b590562",
-      "web_sha256": "86ee2b866c5376b71f445a987aed66705faefd05f2cbd869f0ba201df71b3ba6",
-      "original_bytes": 311342,
-      "web_bytes": 189574,
-      "alt": {
-        "en": "River channel between wooded banks",
-        "es": "Canal fluvial entre orillas arboladas"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "amazon-small-monkeys-pair": {
-      "width": 1280,
-      "height": 1600,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-small-monkeys-pair.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "7498d6ee621cab64d0807d713a35584241994b7a39ae281cced9fc11820db7bd",
-      "web_sha256": "f9e39893d267e654aedd43050ce21d340f436e8b7f5d9504f512ee4226c07cf9",
-      "original_bytes": 164505,
-      "web_bytes": 116268,
-      "alt": {
-        "en": "Two small monkeys together on a branch",
-        "es": "Dos monos pequeños juntos sobre una rama"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "manaus-rio-negro": {
-      "src": "/assets/images/brazil/manaus-rio-negro.jpg",
+    "manaus-amazon-theatre-cityscape": {
+      "src": "/assets/images/pages/countries/brazil/optimized/manaus-amazon-theatre-cityscape.webp",
       "width": 1800,
-      "height": 1321,
-      "source": "https://commons.wikimedia.org/wiki/File:Manaus_-_View_from_River.jpg",
-      "label": "P. Hughes; resized for web",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "location_evidence": "View of the outskirts of Manaus, from Rio Negro, Brazil",
-      "attribution_required": true
+      "height": 1200,
+      "alt": {
+        "en": "Amazon Theatre and surrounding city buildings in Manaus",
+        "es": "Teatro Amazonas y edificios de la ciudad de Manaus"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "486b55e412a2ca1c11c32b5fd31948bf25bc55aac1660506c23066d5bcf08a8f",
+      "web_sha256": "2b79627074d8aa7ec6fc0193221a22c9eba45237fe93b1a03f8da1f86a9c80c3",
+      "original_bytes": 501732,
+      "web_bytes": 350724
+    },
+    "manaus-waterfront-from-river": {
+      "src": "/assets/images/pages/countries/brazil/optimized/manaus-waterfront-from-river.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Manaus waterfront buildings viewed from the river",
+        "es": "Edificios del frente fluvial de Manaus vistos desde el río"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "509f3fd0052eec64d7c6b5f42fe1819bbbb9f777e56506c4de4dcf30bea162fd",
+      "web_sha256": "532de9a739485e697182bc693df9a8a4a90a404cf87a68116400c1a0edeafe70",
+      "original_bytes": 467899,
+      "web_bytes": 323288
+    },
+    "amazon-river-canoe-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-river-canoe-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "A small canoe on a broad forest-lined river",
+        "es": "Canoa pequeña en un río amplio rodeado de bosque"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "26b33e2ec42e4dc57078b544300135bd21935c8b119d9ced274f345735162ec0",
+      "web_sha256": "2c824e544debf5ec678e62665e06fb969d3bfe0a851dad7fe2c2a2ac38c1b614",
+      "original_bytes": 363258,
+      "web_bytes": 264580
+    },
+    "amazon-meandering-river-forest-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-meandering-river-forest-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Overhead view of a meandering river and dense forest",
+        "es": "Vista aérea de un río sinuoso y bosque denso"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "a1e97aa25fc6df7f93c10e1788fb0b2cc89b6267c9452399fc5980429a1ab921",
+      "web_sha256": "2326d50fbc88176447ba1685ef2bdf9376b5425667da0470822a3a8ed85f96fe",
+      "original_bytes": 670865,
+      "web_bytes": 512448
+    },
+    "amazon-river-palm-forest": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-river-palm-forest.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Palms and dense forest along a riverbank",
+        "es": "Palmeras y bosque denso junto a la orilla de un río"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "b1be430192a6e7d2a6f87feb13dd7bc6bdb89b0983d5c48a005356db5807741f",
+      "web_sha256": "ab9feee6239a89246f52c0eb2beba9343c94a8bd572d457d0b639618521db197",
+      "original_bytes": 659469,
+      "web_bytes": 508908
     }
   },
   "pages": {
@@ -194,17 +199,17 @@
         "description": "Plan Manaus beyond an airport stop: city culture, MUSA forest visits, the Meeting of Waters and onward lodge or Rio Negro journeys.",
         "lede": "Make room for the city as well as the forest. Manaus connects an Amazon arrival with cultural landmarks, river outings and the next stage of your journey.",
         "hero": [
-          "manaus-rio-negro",
-          "Outskirts of Manaus viewed from the Rio Negro"
+          "manaus-amazon-theatre-cityscape",
+          "Amazon Theatre and surrounding city buildings in Manaus"
         ],
         "features": {
           "3": [
-            "amazon-forest-river-channel",
-            "Illustrative forest-lined river landscape"
+            "manaus-waterfront-from-river",
+            "Manaus waterfront buildings viewed from the river"
           ],
           "7": [
-            "amazon-small-monkeys-pair",
-            "Two small monkeys, illustrative wildlife photograph"
+            "amazon-river-canoe-aerial",
+            "A small canoe on a broad forest-lined river"
           ]
         },
         "quick": [
@@ -435,17 +440,17 @@
         "description": "Descubre Manaus: cultura urbana, bosque en MUSA, Encuentro de las Aguas y conexiones hacia lodges y el Rio Negro. Organiza el viaje con tiempo.",
         "lede": "Dale espacio a la ciudad y a la selva. Manaus conecta tu llegada a la Amazonía con lugares culturales, salidas fluviales y la siguiente etapa del viaje.",
         "hero": [
-          "manaus-rio-negro",
-          "Manaus visto desde el Rio Negro"
+          "manaus-amazon-theatre-cityscape",
+          "Teatro Amazonas y edificios de la ciudad de Manaus"
         ],
         "features": {
           "3": [
-            "amazon-forest-river-channel",
-            "Paisaje fluvial amazónico, imagen ilustrativa"
+            "manaus-waterfront-from-river",
+            "Edificios del frente fluvial de Manaus vistos desde el río"
           ],
           "7": [
-            "amazon-small-monkeys-pair",
-            "Dos monos pequeños, imagen ilustrativa"
+            "amazon-river-canoe-aerial",
+            "Canoa pequeña en un río amplio rodeado de bosque"
           ]
         },
         "quick": [
@@ -674,17 +679,17 @@
         "description": "Compare Rio Negro stays and river journeys from the Manaus region. Understand Novo Airão, Anavilhanas, overnight bases and observation time.",
         "lede": "Choose time on the water with a clear purpose. Compare a forest base, a river journey and the Novo Airão area around the experiences that draw you to the Amazon.",
         "hero": [
-          "amazon-forest-river-aerial",
-          "Illustrative river winding through tropical forest"
+          "amazon-river-canoe-aerial",
+          "A small canoe on a broad forest-lined river"
         ],
         "features": {
           "1": [
-            "manaus-rio-negro",
-            "Manaus outskirts seen from the Rio Negro"
+            "amazon-meandering-river-forest-aerial",
+            "Overhead view of a meandering river and dense forest"
           ],
           "5": [
-            "amazon-small-monkeys-pair",
-            "Two small monkeys, illustrative wildlife photograph"
+            "amazon-river-palm-forest",
+            "Palms and dense forest along a riverbank"
           ]
         },
         "quick": [
@@ -911,17 +916,17 @@
         "description": "Compara estancias y recorridos por el Rio Negro desde la región de Manaus. Conoce Novo Airão, Anavilhanas y las opciones de alojamiento.",
         "lede": "Elige tiempo en el agua con un propósito claro. Compara un lodge, un recorrido fluvial y la zona de Novo Airão según las experiencias que te atraen de la Amazonía.",
         "hero": [
-          "amazon-forest-river-aerial",
-          "Paisaje fluvial amazónico, imagen ilustrativa"
+          "amazon-river-canoe-aerial",
+          "Canoa pequeña en un río amplio rodeado de bosque"
         ],
         "features": {
           "1": [
-            "manaus-rio-negro",
-            "Manaus visto desde el Rio Negro"
+            "amazon-meandering-river-forest-aerial",
+            "Vista aérea de un río sinuoso y bosque denso"
           ],
           "5": [
-            "amazon-small-monkeys-pair",
-            "Dos monos pequeños, imagen ilustrativa"
+            "amazon-river-palm-forest",
+            "Palmeras y bosque denso junto a la orilla de un río"
           ]
         },
         "quick": [

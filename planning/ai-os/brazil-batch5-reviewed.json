@@ -2,144 +2,101 @@
   "editorial_status": "reviewed",
   "review_date": "2026-10-08",
   "images": {
-    "amazon-forest-river-aerial": {
-      "width": 1600,
-      "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-aerial.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "25fdbaac484995f9de40d64e3334022af4578b8584ddf44d0eae688523ba3d97",
-      "web_sha256": "3acf7d2822a7a986c4e6466f9551f2ac1ef3594975e7d799297620527c36df75",
-      "original_bytes": 413373,
-      "web_bytes": 268828,
-      "alt": {
-        "en": "A winding river surrounded by tropical forest",
-        "es": "Río sinuoso rodeado de bosque tropical"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "amazon-macaws-in-flight": {
-      "width": 1280,
-      "height": 1600,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-macaws-in-flight.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "82d58f5b49cb5bf966d6dea475a78706f5329dd7c6874a360de3ce2cf848e4e1",
-      "web_sha256": "b4baaf108be2a1643a1d416aef8fbd8cbfa0a731bc166413c9b4ed942f41bea4",
-      "original_bytes": 126325,
-      "web_bytes": 83978,
-      "alt": {
-        "en": "Colorful macaws flying past green foliage",
-        "es": "Guacamayos de colores volando frente a la vegetación"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "amazon-forest-river-channel": {
-      "width": 1600,
-      "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-channel.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "26fc7f3acb97ef3ebb20601be3e1936abd5dacf94d5512733f3821f39b590562",
-      "web_sha256": "86ee2b866c5376b71f445a987aed66705faefd05f2cbd869f0ba201df71b3ba6",
-      "original_bytes": 311342,
-      "web_bytes": 189574,
-      "alt": {
-        "en": "River channel between wooded banks",
-        "es": "Canal fluvial entre orillas arboladas"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "amazon-small-monkeys-pair": {
-      "width": 1280,
-      "height": 1600,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-small-monkeys-pair.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "7498d6ee621cab64d0807d713a35584241994b7a39ae281cced9fc11820db7bd",
-      "web_sha256": "f9e39893d267e654aedd43050ce21d340f436e8b7f5d9504f512ee4226c07cf9",
-      "original_bytes": 164505,
-      "web_bytes": 116268,
-      "alt": {
-        "en": "Two small monkeys together on a branch",
-        "es": "Dos monos pequeños juntos sobre una rama"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "manaus-rio-negro": {
-      "src": "/assets/images/brazil/manaus-rio-negro.jpg",
+    "amazon-winding-river-sunset-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-winding-river-sunset-aerial.webp",
       "width": 1800,
-      "height": 1321,
-      "source": "https://commons.wikimedia.org/wiki/File:Manaus_-_View_from_River.jpg",
-      "label": "P. Hughes; resized for web",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "location_evidence": "View of the outskirts of Manaus, from Rio Negro, Brazil",
-      "attribution_required": true
-    },
-    "amazon-forest-river-sunset": {
-      "width": 1600,
       "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-sunset.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "1bfd90ab7caece29793539505b2a45970100c256b824da89bb35b4204fcedc5d",
-      "web_sha256": "1207b7ec779a5932e6a719caa8ef65c7f07dd2dae9b7bf01f37f1853059451eb",
-      "original_bytes": 256042,
-      "web_bytes": 141608,
       "alt": {
-        "en": "Sunset reflected in a river beside forest",
-        "es": "Atardecer reflejado en un río junto al bosque"
+        "en": "A winding river through forest at sunset, illustrative landscape",
+        "es": "Río sinuoso entre el bosque al atardecer, paisaje ilustrativo"
       },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "6f95f73e056d1612977467bbcdd6da736df7a0666bfbbafcdb9be28db76c6026",
+      "web_sha256": "8ba572758dad7e461f0b4d7fce2cf35b1baef4ca0dbf454c476d032314df896f",
+      "original_bytes": 239280,
+      "web_bytes": 144264
     },
-    "amazon-thatched-hammock-shelter": {
-      "width": 1600,
+    "amazon-canoe-floating-vegetation": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-canoe-floating-vegetation.webp",
+      "width": 1800,
       "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-thatched-hammock-shelter.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "4952cb2f95f925efa19652fda7803c265e17da71e09e80cc74a3de2fae9471de",
-      "web_sha256": "43f5742b8fe1771f4bafb76454e4ce41cd0d5ac98a61946ec255fc2c0899152e",
-      "original_bytes": 446588,
-      "web_bytes": 301092,
       "alt": {
-        "en": "Hammock beneath a thatched shelter surrounded by greenery",
-        "es": "Hamaca bajo un refugio de techo vegetal rodeado de vegetación"
+        "en": "A paddler guiding a canoe through floating vegetation",
+        "es": "Persona guiando una canoa entre vegetación flotante"
       },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c07bce58422bec9dfba2bd58c733f908bacd634b6b12e5daaa3c5e808ccd3b0a",
+      "web_sha256": "3c95b2955c2852c4d7bccb22a390eaca6b27af4b4c12f6319cf3e6a9185b8d3a",
+      "original_bytes": 861832,
+      "web_bytes": 705686
     },
-    "amazon-caiman-water-closeup": {
-      "width": 1280,
-      "height": 1600,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-caiman-water-closeup.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "9b3b96b218d6a345ce9cabca377df846ed576374c3e455d8cd0dbf1ee0228430",
-      "web_sha256": "24e5cc35e2a630125d3d37006be87020955f6d2d46f24fc4c408405d5d32b356",
-      "original_bytes": 229021,
-      "web_bytes": 175894,
-      "alt": {
-        "en": "Close view of a caiman at the water surface",
-        "es": "Primer plano de un caimán en la superficie del agua"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "amazon-river-dolphin-surfacing": {
-      "width": 1600,
+    "amazon-river-palm-forest": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-river-palm-forest.webp",
+      "width": 1800,
       "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-river-dolphin-surfacing.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "295c7bda93ea308ebf9a7f7c348bc76c3f54abe44db224151c73d809b7817c43",
-      "web_sha256": "ddd12bbabc551624a055c12ac372aa6700b808e43b0ba2905dd781e98dff3b3f",
-      "original_bytes": 301941,
-      "web_bytes": 182350,
       "alt": {
-        "en": "River dolphin breaking the water surface",
-        "es": "Delfín de río asomando sobre el agua"
+        "en": "Palms and dense forest along a riverbank",
+        "es": "Palmeras y bosque denso junto a la orilla de un río"
       },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "b1be430192a6e7d2a6f87feb13dd7bc6bdb89b0983d5c48a005356db5807741f",
+      "web_sha256": "ab9feee6239a89246f52c0eb2beba9343c94a8bd572d457d0b639618521db197",
+      "original_bytes": 659469,
+      "web_bytes": 508908
+    },
+    "amazon-jaguar-walking-portrait": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-jaguar-walking-portrait.webp",
+      "width": 1440,
+      "height": 1800,
+      "alt": {
+        "en": "A jaguar walking through vegetation, illustrative wildlife photograph",
+        "es": "Jaguar caminando entre la vegetación, fotografía ilustrativa de fauna"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "9e0bc1594fd416c8dd4c9bdd244d6747e043b7591df16efad97c0e2bdf4767db",
+      "web_sha256": "c204baca6353210479362b24122f187bea8bb0f09af5e0effc7deca8b554295c",
+      "original_bytes": 279227,
+      "web_bytes": 222934
+    },
+    "amazon-red-faced-monkey-portrait": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-red-faced-monkey-portrait.webp",
+      "width": 1440,
+      "height": 1800,
+      "alt": {
+        "en": "A red-faced monkey holding food, illustrative wildlife photograph",
+        "es": "Mono de cara roja sosteniendo alimento, fotografía ilustrativa de fauna"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "5649db60635f0c88d648a220fbc38c20b6277c35605ecc57688a146f86934db9",
+      "web_sha256": "13cdcc4f80e8ba20119c18eaf8a21296bc79257ce4ec6f1e1e2dc7e9c9610bb6",
+      "original_bytes": 342817,
+      "web_bytes": 306456
+    },
+    "caiman-overhead-portrait": {
+      "src": "/assets/images/pages/countries/brazil/optimized/caiman-overhead-portrait.webp",
+      "width": 1440,
+      "height": 1800,
+      "alt": {
+        "en": "A caiman viewed from above in shallow water",
+        "es": "Caimán visto desde arriba en aguas poco profundas"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "ba3c186d7d6aea0db02fafd1463fac20968183e9aa6706f01106d83fc1deaa84",
+      "web_sha256": "c85eb404180c4476e7353223fe392359ba4c7c9cdf20dea032dd7461e96633b0",
+      "original_bytes": 224091,
+      "web_bytes": 185572
     }
   },
   "pages": {
@@ -258,17 +215,17 @@
         "description": "Choose dates for Rio Negro forest journeys or Alter do Chão beaches. Compare water levels, trip formats and flexibility without treating seasons as forecasts.",
         "lede": "Start with the landscape you want to experience. River levels, regional differences and your preferred travel style matter more than a single best-month label.",
         "hero": [
-          "amazon-forest-river-aerial",
-          "Tropical forest and winding river, illustrative photograph"
+          "amazon-winding-river-sunset-aerial",
+          "A winding river through forest at sunset, illustrative landscape"
         ],
         "features": {
           "2": [
-            "amazon-forest-river-channel",
-            "Forest-lined river channel, illustrative photograph"
+            "amazon-canoe-floating-vegetation",
+            "A paddler guiding a canoe through floating vegetation"
           ],
           "5": [
-            "amazon-forest-river-sunset",
-            "Evening light over a forest river, illustrative photograph"
+            "amazon-river-palm-forest",
+            "Palms and dense forest along a riverbank"
           ]
         },
         "quick": [
@@ -487,17 +444,17 @@
         "description": "Elige fechas para el Rio Negro o las playas de Alter do Chão. Compara niveles del agua, formatos de viaje y alternativas sin confundir temporadas con pronósticos.",
         "lede": "Empieza por el paisaje que quieres conocer. El nivel del río, la región y tu forma de viajar importan más que una recomendación de un solo mes.",
         "hero": [
-          "amazon-forest-river-aerial",
-          "Bosque tropical y río sinuoso, fotografía ilustrativa"
+          "amazon-winding-river-sunset-aerial",
+          "Río sinuoso entre el bosque al atardecer, paisaje ilustrativo"
         ],
         "features": {
           "2": [
-            "amazon-forest-river-channel",
-            "Canal fluvial rodeado de bosque, fotografía ilustrativa"
+            "amazon-canoe-floating-vegetation",
+            "Persona guiando una canoa entre vegetación flotante"
           ],
           "5": [
-            "amazon-forest-river-sunset",
-            "Luz del atardecer sobre un río, fotografía ilustrativa"
+            "amazon-river-palm-forest",
+            "Palmeras y bosque denso junto a la orilla de un río"
           ]
         },
         "quick": [
@@ -718,17 +675,17 @@
         "description": "Plan Brazilian Amazon wildlife observation around habitats, guiding and realistic expectations. Explore birds and mammals without guaranteed sightings.",
         "lede": "Look beyond a checklist. Give birds, river mammals and forest detail the time and space that make observation rewarding.",
         "hero": [
-          "amazon-macaws-in-flight",
-          "Two macaws in flight, illustrative wildlife photograph"
+          "amazon-jaguar-walking-portrait",
+          "A jaguar walking through vegetation, illustrative wildlife photograph"
         ],
         "features": {
           "2": [
-            "amazon-river-dolphin-surfacing",
-            "River dolphin at the water surface, illustrative wildlife photograph"
+            "amazon-red-faced-monkey-portrait",
+            "A red-faced monkey holding food, illustrative wildlife photograph"
           ],
           "5": [
-            "amazon-caiman-water-closeup",
-            "Close view of a caiman in water, illustrative wildlife photograph"
+            "caiman-overhead-portrait",
+            "A caiman viewed from above in shallow water"
           ]
         },
         "quick": [
@@ -947,17 +904,17 @@
         "description": "Planifica la observación de fauna en la Amazonía brasileña según los hábitats, los guías y expectativas realistas. Aves y mamíferos sin avistamientos garantizados.",
         "lede": "Mira más allá de una lista de especies. Dedica tiempo y espacio a las aves, los mamíferos fluviales y los detalles del bosque.",
         "hero": [
-          "amazon-macaws-in-flight",
-          "Dos guacamayos en vuelo, fotografía ilustrativa"
+          "amazon-jaguar-walking-portrait",
+          "Jaguar caminando entre la vegetación, fotografía ilustrativa de fauna"
         ],
         "features": {
           "2": [
-            "amazon-river-dolphin-surfacing",
-            "Delfín de río en la superficie, fotografía ilustrativa"
+            "amazon-red-faced-monkey-portrait",
+            "Mono de cara roja sosteniendo alimento, fotografía ilustrativa de fauna"
           ],
           "5": [
-            "amazon-caiman-water-closeup",
-            "Primer plano de un caimán en el agua, fotografía ilustrativa"
+            "caiman-overhead-portrait",
+            "Caimán visto desde arriba en aguas poco profundas"
           ]
         },
         "quick": [

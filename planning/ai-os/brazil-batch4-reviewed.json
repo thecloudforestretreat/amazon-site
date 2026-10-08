@@ -2,112 +2,101 @@
   "editorial_status": "reviewed",
   "review_date": "2026-10-08",
   "images": {
-    "amazon-forest-river-aerial": {
-      "width": 1600,
-      "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-aerial.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "25fdbaac484995f9de40d64e3334022af4578b8584ddf44d0eae688523ba3d97",
-      "web_sha256": "3acf7d2822a7a986c4e6466f9551f2ac1ef3594975e7d799297620527c36df75",
-      "original_bytes": 413373,
-      "web_bytes": 268828,
-      "alt": {
-        "en": "A winding river surrounded by tropical forest",
-        "es": "Río sinuoso rodeado de bosque tropical"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "amazon-macaws-in-flight": {
-      "width": 1280,
-      "height": 1600,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-macaws-in-flight.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "82d58f5b49cb5bf966d6dea475a78706f5329dd7c6874a360de3ce2cf848e4e1",
-      "web_sha256": "b4baaf108be2a1643a1d416aef8fbd8cbfa0a731bc166413c9b4ed942f41bea4",
-      "original_bytes": 126325,
-      "web_bytes": 83978,
-      "alt": {
-        "en": "Colorful macaws flying past green foliage",
-        "es": "Guacamayos de colores volando frente a la vegetación"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "amazon-forest-river-channel": {
-      "width": 1600,
-      "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-channel.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "26fc7f3acb97ef3ebb20601be3e1936abd5dacf94d5512733f3821f39b590562",
-      "web_sha256": "86ee2b866c5376b71f445a987aed66705faefd05f2cbd869f0ba201df71b3ba6",
-      "original_bytes": 311342,
-      "web_bytes": 189574,
-      "alt": {
-        "en": "River channel between wooded banks",
-        "es": "Canal fluvial entre orillas arboladas"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "amazon-small-monkeys-pair": {
-      "width": 1280,
-      "height": 1600,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-small-monkeys-pair.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "7498d6ee621cab64d0807d713a35584241994b7a39ae281cced9fc11820db7bd",
-      "web_sha256": "f9e39893d267e654aedd43050ce21d340f436e8b7f5d9504f512ee4226c07cf9",
-      "original_bytes": 164505,
-      "web_bytes": 116268,
-      "alt": {
-        "en": "Two small monkeys together on a branch",
-        "es": "Dos monos pequeños juntos sobre una rama"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "manaus-rio-negro": {
-      "src": "/assets/images/brazil/manaus-rio-negro.jpg",
+    "amazon-forest-lodge-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-forest-lodge-aerial.webp",
       "width": 1800,
-      "height": 1321,
-      "source": "https://commons.wikimedia.org/wiki/File:Manaus_-_View_from_River.jpg",
-      "label": "P. Hughes; resized for web",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "location_evidence": "View of the outskirts of Manaus, from Rio Negro, Brazil",
-      "attribution_required": true
-    },
-    "amazon-forest-river-sunset": {
-      "width": 1600,
       "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-sunset.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "1bfd90ab7caece29793539505b2a45970100c256b824da89bb35b4204fcedc5d",
-      "web_sha256": "1207b7ec779a5932e6a719caa8ef65c7f07dd2dae9b7bf01f37f1853059451eb",
-      "original_bytes": 256042,
-      "web_bytes": 141608,
       "alt": {
-        "en": "Sunset reflected in a river beside forest",
-        "es": "Atardecer reflejado en un río junto al bosque"
+        "en": "Lodge buildings surrounded by forest, illustrative accommodation photograph",
+        "es": "Edificios de un lodge rodeados de bosque, fotografía ilustrativa de alojamiento"
       },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "d929e2cbeff7fcfe7a04d413df4ec4367ac94e046aa8c4e52e710bbb20e18ee6",
+      "web_sha256": "7c00686e938b5ae661e3bf5c049cd7a25378f674a42e88ad5034eecd7792fcbe",
+      "original_bytes": 643921,
+      "web_bytes": 494062
     },
-    "amazon-thatched-hammock-shelter": {
-      "width": 1600,
+    "amazon-riverside-thatched-lodge": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-riverside-thatched-lodge.webp",
+      "width": 1800,
       "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-thatched-hammock-shelter.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "4952cb2f95f925efa19652fda7803c265e17da71e09e80cc74a3de2fae9471de",
-      "web_sha256": "43f5742b8fe1771f4bafb76454e4ce41cd0d5ac98a61946ec255fc2c0899152e",
-      "original_bytes": 446588,
-      "web_bytes": 301092,
       "alt": {
-        "en": "Hammock beneath a thatched shelter surrounded by greenery",
-        "es": "Hamaca bajo un refugio de techo vegetal rodeado de vegetación"
+        "en": "Thatched buildings beside the water, illustrative lodge scene",
+        "es": "Edificios con techo de paja junto al agua, escena ilustrativa de lodge"
       },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c015f62519415e52b67f5020bef551907a2a16a8bb546c7f2ffaf13e4288347c",
+      "web_sha256": "069a39ef6c2be76a6d0b8265db2ac444d145424508ad12b40557f6e251087c49",
+      "original_bytes": 857912,
+      "web_bytes": 673536
+    },
+    "amazon-lodge-reflection": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-lodge-reflection.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "A thatched lodge reflected in calm water, illustrative accommodation photograph",
+        "es": "Lodge con techo de paja reflejado en aguas tranquilas, fotografía ilustrativa de alojamiento"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "1d1296a0282d7f2e1a3e7fa23cd393098729201800a772af58a33d586c74d825",
+      "web_sha256": "fcde1b69f92a3720517186bb7ba757699f555c5011862548e8675f37d94df1a8",
+      "original_bytes": 691711,
+      "web_bytes": 515560
+    },
+    "amazon-guided-boat-excursion": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-guided-boat-excursion.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Travelers on a boat excursion along a forest river",
+        "es": "Viajeros en una excursión en embarcación por un río junto al bosque"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "5f74914182bee3a0ac70a5ca5b2eabef4e9c03b9b0bcbc80caeabd175c55a44b",
+      "web_sha256": "0ed71e923f93211af1a0ac5d47a559065c094dc4c832785ddc14618f23665f1f",
+      "original_bytes": 316368,
+      "web_bytes": 202552
+    },
+    "amazon-riverside-buildings-and-boat": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-riverside-buildings-and-boat.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Riverside buildings and a moored boat, illustrative accommodation scene",
+        "es": "Edificios junto al río y embarcación amarrada, escena ilustrativa de alojamiento"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "ced78ebc34115f01a3e39afdeb8abe79187b5b3b2804e53dd03bce4789d68aee",
+      "web_sha256": "6195f53f147fcb04c0bb19fc0dcbb9605313407d607800265962cd7762e2dee5",
+      "original_bytes": 480430,
+      "web_bytes": 343028
+    },
+    "amazon-canoe-sunset-silhouette": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-canoe-sunset-silhouette.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Silhouette of a canoe and paddlers at sunset",
+        "es": "Silueta de una canoa y sus ocupantes al atardecer"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "77e424bf7ae95d23bf2aaa7928822e11a47ce3481ed0cf3b0e4f5ce3e20829a7",
+      "web_sha256": "2fbc3be105789df4f84ff5c90bf75abfb8412d86d7a2e6de695500898f1707e6",
+      "original_bytes": 298208,
+      "web_bytes": 177642
     }
   },
   "pages": {
@@ -226,17 +215,17 @@
         "description": "Compare Brazilian Amazon lodge locations, room comfort, guiding, transfers and inclusions. Decide whether a fixed base or river journey suits your trip.",
         "lede": "A rewarding forest stay begins with more than a beautiful room. Match the location, guiding and everyday comfort to the experience you want.",
         "hero": [
-          "amazon-forest-river-aerial",
-          "River surrounded by tropical forest, illustrative photograph"
+          "amazon-forest-lodge-aerial",
+          "Lodge buildings surrounded by forest, illustrative accommodation photograph"
         ],
         "features": {
           "2": [
-            "amazon-thatched-hammock-shelter",
-            "Shaded hammock seating area, illustrative accommodation photograph"
+            "amazon-riverside-thatched-lodge",
+            "Thatched buildings beside the water, illustrative lodge scene"
           ],
           "5": [
-            "amazon-macaws-in-flight",
-            "Macaws in flight, illustrative wildlife photograph"
+            "amazon-lodge-reflection",
+            "A thatched lodge reflected in calm water, illustrative accommodation photograph"
           ]
         },
         "quick": [
@@ -459,17 +448,17 @@
         "description": "Compara lodges en la Amazonía brasileña: ubicación, habitaciones, guías, traslados y servicios. Decide entre un alojamiento fijo y un viaje fluvial.",
         "lede": "Una buena estancia en el bosque depende de más que una habitación bonita. Elige una ubicación, un servicio de guía y una comodidad diaria que respondan a tus intereses.",
         "hero": [
-          "amazon-forest-river-aerial",
-          "Río rodeado de bosque tropical, imagen ilustrativa"
+          "amazon-forest-lodge-aerial",
+          "Edificios de un lodge rodeados de bosque, fotografía ilustrativa de alojamiento"
         ],
         "features": {
           "2": [
-            "amazon-thatched-hammock-shelter",
-            "Zona de descanso con hamacas y sombra, imagen ilustrativa"
+            "amazon-riverside-thatched-lodge",
+            "Edificios con techo de paja junto al agua, escena ilustrativa de lodge"
           ],
           "5": [
-            "amazon-macaws-in-flight",
-            "Guacamayos en vuelo, imagen ilustrativa"
+            "amazon-lodge-reflection",
+            "Lodge con techo de paja reflejado en aguas tranquilas, fotografía ilustrativa de alojamiento"
           ]
         },
         "quick": [
@@ -694,17 +683,17 @@
         "description": "Compare Brazilian Amazon river journeys: regional routes, cabin comfort, excursion time, private or shared boats and arrival connections.",
         "lede": "Let the river be part of the stay. Choose a route with time to explore and a vessel whose daily living arrangements suit you.",
         "hero": [
-          "amazon-forest-river-channel",
-          "Forest-lined Amazon river channel, illustrative photograph"
+          "amazon-guided-boat-excursion",
+          "Travelers on a boat excursion along a forest river"
         ],
         "features": {
           "1": [
-            "manaus-rio-negro",
-            "Manaus outskirts viewed from the Rio Negro"
+            "amazon-riverside-buildings-and-boat",
+            "Riverside buildings and a moored boat, illustrative accommodation scene"
           ],
           "5": [
-            "amazon-forest-river-sunset",
-            "Sunset over an Amazon river, illustrative photograph"
+            "amazon-canoe-sunset-silhouette",
+            "Silhouette of a canoe and paddlers at sunset"
           ]
         },
         "quick": [
@@ -927,17 +916,17 @@
         "description": "Compara viajes por la Amazonía brasileña: rutas, camarotes, excursiones, barcos privados o compartidos y conexiones para embarcar.",
         "lede": "Haz del río parte de la estancia. Elige una ruta con tiempo para explorar y un barco cuyas condiciones de vida a bordo se adapten a tu grupo.",
         "hero": [
-          "amazon-forest-river-channel",
-          "Canal rodeado de bosque amazónico, imagen ilustrativa"
+          "amazon-guided-boat-excursion",
+          "Viajeros en una excursión en embarcación por un río junto al bosque"
         ],
         "features": {
           "1": [
-            "manaus-rio-negro",
-            "Manaus visto desde el Rio Negro"
+            "amazon-riverside-buildings-and-boat",
+            "Edificios junto al río y embarcación amarrada, escena ilustrativa de alojamiento"
           ],
           "5": [
-            "amazon-forest-river-sunset",
-            "Atardecer sobre un río amazónico, imagen ilustrativa"
+            "amazon-canoe-sunset-silhouette",
+            "Silueta de una canoa y sus ocupantes al atardecer"
           ]
         },
         "quick": [

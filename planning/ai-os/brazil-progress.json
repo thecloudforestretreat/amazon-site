@@ -3,7 +3,7 @@
   "date": "2026-10-08",
   "owner_authorized": "Owner requested next two-pair batch; protected staging only",
   "stage": "twelve_pairs_deployed_technical_checks_pass_release_qa_pending",
-  "deployment": "53db7a41",
+  "deployment": "6ad52150",
   "previous_staging_deployment": "f798509e",
   "pairs": [
     {
@@ -96,7 +96,7 @@
     "css_delivery_regression_tests": 3,
     "minimum_paragraph_inlink_pages": 11
   },
-  "image_status": "New documented Manaus/Rio Negro waterfront photo; licensed stock forest and wildlife remain illustrative. Final destination imagery review pending.",
+  "image_status": "Owner-uploaded photos mapped across all 24 pages; subject review complete, exact stock capture locations not verified; visual staging review pending",
   "local_usage_file": "brazil-batch6-local-usage.json",
   "editorial_checkpoint": "brazil-batch6-reviewed.json",
   "production_authorized": false,
@@ -135,5 +135,6 @@
     "brazil-batch6-contextual-links.json",
     "brazil-batch6-staging-protection.json",
     "brazil-batch6-source-review.json"
-  ]
+  ],
+  "image_update_evidence": "planning/ai-os/brazil-image-update.json"
 }

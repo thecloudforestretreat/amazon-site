@@ -2,96 +2,101 @@
   "editorial_status": "reviewed",
   "review_date": "2026-10-08",
   "images": {
-    "amazon-forest-river-aerial": {
-      "width": 1600,
-      "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-aerial.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "25fdbaac484995f9de40d64e3334022af4578b8584ddf44d0eae688523ba3d97",
-      "web_sha256": "3acf7d2822a7a986c4e6466f9551f2ac1ef3594975e7d799297620527c36df75",
-      "original_bytes": 413373,
-      "web_bytes": 268828,
-      "alt": {
-        "en": "A winding river surrounded by tropical forest",
-        "es": "Río sinuoso rodeado de bosque tropical"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "amazon-macaws-in-flight": {
-      "width": 1280,
-      "height": 1600,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-macaws-in-flight.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "82d58f5b49cb5bf966d6dea475a78706f5329dd7c6874a360de3ce2cf848e4e1",
-      "web_sha256": "b4baaf108be2a1643a1d416aef8fbd8cbfa0a731bc166413c9b4ed942f41bea4",
-      "original_bytes": 126325,
-      "web_bytes": 83978,
-      "alt": {
-        "en": "Colorful macaws flying past green foliage",
-        "es": "Guacamayos de colores volando frente a la vegetación"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "amazon-forest-river-channel": {
-      "width": 1600,
-      "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-channel.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "26fc7f3acb97ef3ebb20601be3e1936abd5dacf94d5512733f3821f39b590562",
-      "web_sha256": "86ee2b866c5376b71f445a987aed66705faefd05f2cbd869f0ba201df71b3ba6",
-      "original_bytes": 311342,
-      "web_bytes": 189574,
-      "alt": {
-        "en": "River channel between wooded banks",
-        "es": "Canal fluvial entre orillas arboladas"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "amazon-small-monkeys-pair": {
-      "width": 1280,
-      "height": 1600,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-small-monkeys-pair.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "7498d6ee621cab64d0807d713a35584241994b7a39ae281cced9fc11820db7bd",
-      "web_sha256": "f9e39893d267e654aedd43050ce21d340f436e8b7f5d9504f512ee4226c07cf9",
-      "original_bytes": 164505,
-      "web_bytes": 116268,
-      "alt": {
-        "en": "Two small monkeys together on a branch",
-        "es": "Dos monos pequeños juntos sobre una rama"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "manaus-rio-negro": {
-      "src": "/assets/images/brazil/manaus-rio-negro.jpg",
+    "amazon-forest-island-channels-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-forest-island-channels-aerial.webp",
       "width": 1800,
-      "height": 1321,
-      "source": "https://commons.wikimedia.org/wiki/File:Manaus_-_View_from_River.jpg",
-      "label": "P. Hughes; resized for web",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "location_evidence": "View of the outskirts of Manaus, from Rio Negro, Brazil",
-      "attribution_required": true
-    },
-    "amazon-forest-river-sunset": {
-      "width": 1600,
       "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-sunset.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "1bfd90ab7caece29793539505b2a45970100c256b824da89bb35b4204fcedc5d",
-      "web_sha256": "1207b7ec779a5932e6a719caa8ef65c7f07dd2dae9b7bf01f37f1853059451eb",
-      "original_bytes": 256042,
-      "web_bytes": 141608,
       "alt": {
-        "en": "Sunset reflected in a river beside forest",
-        "es": "Atardecer reflejado en un río junto al bosque"
+        "en": "Forest-covered islands separated by dark river channels",
+        "es": "Islas cubiertas de bosque separadas por canales fluviales oscuros"
       },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "cf89c0af136837a31eb9d92e79db30d4f621405ee7219a863ff612b42396ef63",
+      "web_sha256": "f47b1ea9681739a8bf2bb3c6aca5f2b4c7a337f5eb2d23d4f5594eb0b904c8ce",
+      "original_bytes": 634815,
+      "web_bytes": 524420
+    },
+    "amazon-canoe-floating-vegetation": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-canoe-floating-vegetation.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "A paddler guiding a canoe through floating vegetation",
+        "es": "Persona guiando una canoa entre vegetación flotante"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c07bce58422bec9dfba2bd58c733f908bacd634b6b12e5daaa3c5e808ccd3b0a",
+      "web_sha256": "3c95b2955c2852c4d7bccb22a390eaca6b27af4b4c12f6319cf3e6a9185b8d3a",
+      "original_bytes": 861832,
+      "web_bytes": 705686
+    },
+    "amazon-green-parrots-portrait": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-green-parrots-portrait.webp",
+      "width": 1440,
+      "height": 1800,
+      "alt": {
+        "en": "Green parrots perched among branches",
+        "es": "Loros verdes posados entre ramas"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "8f83b21a40d45a60c60c63d332ab6a6e3efd42af4b5c73be1e0807b184486333",
+      "web_sha256": "b06473949da3ffc80fae6902343c3915790f4943e35750351cd149850ef9c2e0",
+      "original_bytes": 282056,
+      "web_bytes": 216380
+    },
+    "alter-do-chao-sandbar-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/alter-do-chao-sandbar-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "A river sandbar with boats and visitors",
+        "es": "Banco de arena fluvial con embarcaciones y visitantes"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "d1ec97a96bfa76317063b1f82c5ded9ffe1297dcd8130762bf11289be0916fca",
+      "web_sha256": "83dcf5b065c4e3d1672943280f3a6592f7e7504d0a1da84a851f8f97042efaf9",
+      "original_bytes": 227319,
+      "web_bytes": 146550
+    },
+    "alter-do-chao-beach-moored-boats": {
+      "src": "/assets/images/pages/countries/brazil/optimized/alter-do-chao-beach-moored-boats.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Boats beside a sandy beach with hills across the water",
+        "es": "Embarcaciones junto a una playa arenosa con colinas al otro lado del agua"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "3cba3886c7d5d09b2eb0e16f047d19249a73007261cade8bc5948cd6730095c7",
+      "web_sha256": "d332650f34a08726535fe55a0ed6aa198dfb8ee0b0ec4b4c4e6ba37dcaab90b8",
+      "original_bytes": 368268,
+      "web_bytes": 247412
+    },
+    "river-beach-boats-overhead": {
+      "src": "/assets/images/pages/countries/brazil/optimized/river-beach-boats-overhead.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Overhead view of boats along a sandy river beach",
+        "es": "Vista aérea de embarcaciones junto a una playa fluvial arenosa"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "451343a46ca35f95bbb134b671b74c58e3f62833b4b38fdc45ddb76e284ed1c2",
+      "web_sha256": "df437bdd76d93525f5e7dda9870ded3555f4983959fb0c652554d2e039262830",
+      "original_bytes": 358877,
+      "web_bytes": 233020
     }
   },
   "pages": {
@@ -204,17 +209,17 @@
         },
         "scope": "Editorial review: October 7, 2026. Regional setting checked against the official sources below. The comparisons are planning guidance, not confirmed packages. Licensed stock photographs illustrate Amazon forest and wildlife; they do not document a particular park, property or promised sighting. Confirm current routes and visiting arrangements for your dates.",
         "hero": [
-          "amazon-forest-river-aerial",
-          "Illustrative river winding through Amazon forest"
+          "amazon-forest-island-channels-aerial",
+          "Forest-covered islands separated by dark river channels"
         ],
         "features": {
           "2": [
-            "amazon-forest-river-channel",
-            "Illustrative forest-lined Amazon river channel"
+            "amazon-canoe-floating-vegetation",
+            "A paddler guiding a canoe through floating vegetation"
           ],
           "5": [
-            "amazon-macaws-in-flight",
-            "Macaws in flight, illustrative wildlife photograph"
+            "amazon-green-parrots-portrait",
+            "Green parrots perched among branches"
           ]
         },
         "slug": "anavilhanas",
@@ -445,17 +450,17 @@
         },
         "scope": "Revisión editorial: 7 de octubre de 2026. Información regional contrastada con las fuentes oficiales indicadas. Las comparaciones son orientación para planificar, no paquetes confirmados. Las fotografías de archivo autorizadas ilustran paisajes y fauna amazónicos; no acreditan un parque, alojamiento ni avistamiento específico. Confirma las rutas y condiciones de visita para tus fechas.",
         "hero": [
-          "amazon-forest-river-aerial",
-          "Río rodeado de bosque amazónico, imagen ilustrativa"
+          "amazon-forest-island-channels-aerial",
+          "Islas cubiertas de bosque separadas por canales fluviales oscuros"
         ],
         "features": {
           "2": [
-            "amazon-forest-river-channel",
-            "Canal rodeado de bosque amazónico, imagen ilustrativa"
+            "amazon-canoe-floating-vegetation",
+            "Persona guiando una canoa entre vegetación flotante"
           ],
           "5": [
-            "amazon-macaws-in-flight",
-            "Guacamayos en vuelo, imagen ilustrativa"
+            "amazon-green-parrots-portrait",
+            "Loros verdes posados entre ramas"
           ]
         },
         "slug": "anavilhanas",
@@ -676,17 +681,17 @@
         },
         "scope": "Editorial review: October 7, 2026. Regional setting checked against the official sources below. The comparisons are planning guidance, not confirmed packages. Licensed stock photographs illustrate Amazon forest and wildlife; they do not document a particular park, property or promised sighting. Confirm current routes and visiting arrangements for your dates.",
         "hero": [
-          "amazon-forest-river-sunset",
-          "Sunset over an Amazon river, illustrative photograph"
+          "alter-do-chao-sandbar-aerial",
+          "A river sandbar with boats and visitors"
         ],
         "features": {
           "2": [
-            "amazon-forest-river-aerial",
-            "River winding through forest, illustrative photograph"
+            "alter-do-chao-beach-moored-boats",
+            "Boats beside a sandy beach with hills across the water"
           ],
           "6": [
-            "amazon-small-monkeys-pair",
-            "Two small monkeys, illustrative wildlife photograph"
+            "river-beach-boats-overhead",
+            "Overhead view of boats along a sandy river beach"
           ]
         },
         "slug": "alter-do-chao",
@@ -917,17 +922,17 @@
         },
         "scope": "Revisión editorial: 7 de octubre de 2026. Información regional contrastada con las fuentes oficiales indicadas. Las comparaciones son orientación para planificar, no paquetes confirmados. Las fotografías de archivo autorizadas ilustran paisajes y fauna amazónicos; no acreditan un parque, alojamiento ni avistamiento específico. Confirma las rutas y condiciones de visita para tus fechas.",
         "hero": [
-          "amazon-forest-river-sunset",
-          "Atardecer sobre un río amazónico, imagen ilustrativa"
+          "alter-do-chao-sandbar-aerial",
+          "Banco de arena fluvial con embarcaciones y visitantes"
         ],
         "features": {
           "2": [
-            "amazon-forest-river-aerial",
-            "Río rodeado de bosque, imagen ilustrativa"
+            "alter-do-chao-beach-moored-boats",
+            "Embarcaciones junto a una playa arenosa con colinas al otro lado del agua"
           ],
           "6": [
-            "amazon-small-monkeys-pair",
-            "Dos monos pequeños, imagen ilustrativa"
+            "river-beach-boats-overhead",
+            "Vista aérea de embarcaciones junto a una playa fluvial arenosa"
           ]
         },
         "slug": "alter-do-chao",

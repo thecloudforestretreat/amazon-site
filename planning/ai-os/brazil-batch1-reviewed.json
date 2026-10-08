@@ -2,53 +2,101 @@
   "editorial_status": "reviewed",
   "review_date": "2026-10-08",
   "images": {
-    "amazon-forest-river-aerial": {
-      "width": 1600,
+    "amazon-forest-island-channels-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-forest-island-channels-aerial.webp",
+      "width": 1800,
       "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-aerial.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "25fdbaac484995f9de40d64e3334022af4578b8584ddf44d0eae688523ba3d97",
-      "web_sha256": "3acf7d2822a7a986c4e6466f9551f2ac1ef3594975e7d799297620527c36df75",
-      "original_bytes": 413373,
-      "web_bytes": 268828,
       "alt": {
-        "en": "A winding river surrounded by tropical forest",
-        "es": "Río sinuoso rodeado de bosque tropical"
+        "en": "Forest-covered islands separated by dark river channels",
+        "es": "Islas cubiertas de bosque separadas por canales fluviales oscuros"
       },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "cf89c0af136837a31eb9d92e79db30d4f621405ee7219a863ff612b42396ef63",
+      "web_sha256": "f47b1ea9681739a8bf2bb3c6aca5f2b4c7a337f5eb2d23d4f5594eb0b904c8ce",
+      "original_bytes": 634815,
+      "web_bytes": 524420
     },
-    "amazon-macaws-in-flight": {
-      "width": 1280,
-      "height": 1600,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-macaws-in-flight.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "82d58f5b49cb5bf966d6dea475a78706f5329dd7c6874a360de3ce2cf848e4e1",
-      "web_sha256": "b4baaf108be2a1643a1d416aef8fbd8cbfa0a731bc166413c9b4ed942f41bea4",
-      "original_bytes": 126325,
-      "web_bytes": 83978,
-      "alt": {
-        "en": "Colorful macaws flying past green foliage",
-        "es": "Guacamayos de colores volando frente a la vegetación"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "amazon-forest-river-channel": {
-      "width": 1600,
+    "manaus-amazon-theatre-cityscape": {
+      "src": "/assets/images/pages/countries/brazil/optimized/manaus-amazon-theatre-cityscape.webp",
+      "width": 1800,
       "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-channel.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "26fc7f3acb97ef3ebb20601be3e1936abd5dacf94d5512733f3821f39b590562",
-      "web_sha256": "86ee2b866c5376b71f445a987aed66705faefd05f2cbd869f0ba201df71b3ba6",
-      "original_bytes": 311342,
-      "web_bytes": 189574,
       "alt": {
-        "en": "River channel between wooded banks",
-        "es": "Canal fluvial entre orillas arboladas"
+        "en": "Amazon Theatre and surrounding city buildings in Manaus",
+        "es": "Teatro Amazonas y edificios de la ciudad de Manaus"
       },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "486b55e412a2ca1c11c32b5fd31948bf25bc55aac1660506c23066d5bcf08a8f",
+      "web_sha256": "2b79627074d8aa7ec6fc0193221a22c9eba45237fe93b1a03f8da1f86a9c80c3",
+      "original_bytes": 501732,
+      "web_bytes": 350724
+    },
+    "amazon-blue-and-yellow-macaws-portrait": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-blue-and-yellow-macaws-portrait.webp",
+      "width": 1440,
+      "height": 1800,
+      "alt": {
+        "en": "Blue-and-yellow macaws perched in a tree",
+        "es": "Guacamayos azules y amarillos posados en un árbol"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c655d027f0b3800fa46eddf0ff3ecbf3ef59701a4612f7108960a7a2be2006ed",
+      "web_sha256": "546f39d9dc611b043ec623bb6bb9f71ea752cf4da637ddc3a4fa0db19f893100",
+      "original_bytes": 495727,
+      "web_bytes": 476398
+    },
+    "amazon-guided-boat-excursion": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-guided-boat-excursion.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Travelers on a boat excursion along a forest river",
+        "es": "Viajeros en una excursión en embarcación por un río junto al bosque"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "5f74914182bee3a0ac70a5ca5b2eabef4e9c03b9b0bcbc80caeabd175c55a44b",
+      "web_sha256": "0ed71e923f93211af1a0ac5d47a559065c094dc4c832785ddc14618f23665f1f",
+      "original_bytes": 316368,
+      "web_bytes": 202552
+    },
+    "amazon-forest-lodge-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-forest-lodge-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Lodge buildings surrounded by forest, illustrative accommodation photograph",
+        "es": "Edificios de un lodge rodeados de bosque, fotografía ilustrativa de alojamiento"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "d929e2cbeff7fcfe7a04d413df4ec4367ac94e046aa8c4e52e710bbb20e18ee6",
+      "web_sha256": "7c00686e938b5ae661e3bf5c049cd7a25378f674a42e88ad5034eecd7792fcbe",
+      "original_bytes": 643921,
+      "web_bytes": 494062
+    },
+    "amazon-canoe-sunset-silhouette": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-canoe-sunset-silhouette.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Silhouette of a canoe and paddlers at sunset",
+        "es": "Silueta de una canoa y sus ocupantes al atardecer"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "77e424bf7ae95d23bf2aaa7928822e11a47ce3481ed0cf3b0e4f5ce3e20829a7",
+      "web_sha256": "2fbc3be105789df4f84ff5c90bf75abfb8412d86d7a2e6de695500898f1707e6",
+      "original_bytes": 298208,
+      "web_bytes": 177642
     }
   },
   "pages": {
@@ -57,17 +105,17 @@
         "type": "country-hub",
         "pair_id": "brazil_hub_001",
         "hero": [
-          "amazon-forest-river-aerial",
-          "Illustrative river landscape surrounded by tropical forest"
+          "amazon-forest-island-channels-aerial",
+          "Forest-covered islands separated by dark river channels"
         ],
         "features": {
           "1": [
-            "amazon-forest-river-channel",
-            "Illustrative river landscape surrounded by tropical forest"
+            "manaus-amazon-theatre-cityscape",
+            "Amazon Theatre and surrounding city buildings in Manaus"
           ],
           "4": [
-            "amazon-macaws-in-flight",
-            "Illustrative macaws in flight above foliage"
+            "amazon-blue-and-yellow-macaws-portrait",
+            "Blue-and-yellow macaws perched in a tree"
           ]
         },
         "feature_sides": {
@@ -306,17 +354,17 @@
         "type": "country-hub",
         "pair_id": "brazil_hub_001",
         "hero": [
-          "amazon-forest-river-aerial",
-          "Paisaje fluvial amazónico, imagen ilustrativa"
+          "amazon-forest-island-channels-aerial",
+          "Islas cubiertas de bosque separadas por canales fluviales oscuros"
         ],
         "features": {
           "1": [
-            "amazon-forest-river-channel",
-            "Paisaje fluvial amazónico, imagen ilustrativa"
+            "manaus-amazon-theatre-cityscape",
+            "Teatro Amazonas y edificios de la ciudad de Manaus"
           ],
           "4": [
-            "amazon-macaws-in-flight",
-            "Guacamayos en vuelo, imagen ilustrativa"
+            "amazon-blue-and-yellow-macaws-portrait",
+            "Guacamayos azules y amarillos posados en un árbol"
           ]
         },
         "feature_sides": {
@@ -565,17 +613,17 @@
         "type": "planning-guide",
         "pair_id": "brazil_planning_001",
         "hero": [
-          "amazon-forest-river-channel",
-          "Illustrative river landscape surrounded by tropical forest"
+          "amazon-guided-boat-excursion",
+          "Travelers on a boat excursion along a forest river"
         ],
         "features": {
           "1": [
-            "amazon-forest-river-aerial",
-            "Illustrative river landscape surrounded by tropical forest"
+            "amazon-forest-lodge-aerial",
+            "Lodge buildings surrounded by forest, illustrative accommodation photograph"
           ],
           "4": [
-            "amazon-macaws-in-flight",
-            "Illustrative macaws flying near green foliage"
+            "amazon-canoe-sunset-silhouette",
+            "Silhouette of a canoe and paddlers at sunset"
           ]
         },
         "feature_sides": {
@@ -814,17 +862,17 @@
         "type": "planning-guide",
         "pair_id": "brazil_planning_001",
         "hero": [
-          "amazon-forest-river-channel",
-          "Paisaje fluvial amazónico, imagen ilustrativa"
+          "amazon-guided-boat-excursion",
+          "Viajeros en una excursión en embarcación por un río junto al bosque"
         ],
         "features": {
           "1": [
-            "amazon-forest-river-aerial",
-            "Paisaje fluvial amazónico, imagen ilustrativa"
+            "amazon-forest-lodge-aerial",
+            "Edificios de un lodge rodeados de bosque, fotografía ilustrativa de alojamiento"
           ],
           "4": [
-            "amazon-macaws-in-flight",
-            "Guacamayos en vuelo, imagen ilustrativa"
+            "amazon-canoe-sunset-silhouette",
+            "Silueta de una canoa y sus ocupantes al atardecer"
           ]
         },
         "feature_sides": {

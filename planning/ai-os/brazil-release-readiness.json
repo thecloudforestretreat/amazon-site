@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
   "status": "staged_content_complete_not_launch_ready",
-  "deployment": "53db7a41",
+  "deployment": "6ad52150",
   "pairs": 12,
   "pages": 24,
   "technical_checks": {
@@ -26,5 +26,7 @@
     "deployment": "f798509e",
     "source_parent": "71fba5a"
   },
-  "cost_tracking": "Local tokens 8026 this batch; cloud/local percentage and dollars unmeasured"
+  "cost_tracking": "Local tokens 8026 this batch; cloud/local percentage and dollars unmeasured",
+  "image_update_evidence": "planning/ai-os/brazil-image-update.json",
+  "image_status": "Owner-uploaded photos mapped across all 24 pages; subject review complete, exact stock capture locations not verified; visual staging review pending"
 }

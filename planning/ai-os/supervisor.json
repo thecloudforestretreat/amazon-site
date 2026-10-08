@@ -114,7 +114,7 @@
     "Access EN/ES",
     "Packing EN/ES"
   ],
-  "batch_status": "Brazil planned content complete on protected staging 53db7a41; technical QA passes; release QA pending",
+  "batch_status": "Brazil image update deployed 6ad52150; all 24 pages technical QA pass; browser policy blocks visual/authenticated QA",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",

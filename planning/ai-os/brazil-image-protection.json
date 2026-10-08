@@ -1,0 +1,22 @@
+[
+  {
+    "route": "/brazil/",
+    "status": 403,
+    "access_redirect": false
+  },
+  {
+    "route": "/es/brazil/",
+    "status": 403,
+    "access_redirect": false
+  },
+  {
+    "route": "/brazil/wildlife/",
+    "status": 403,
+    "access_redirect": false
+  },
+  {
+    "route": "/es/brazil/fauna/",
+    "status": 403,
+    "access_redirect": false
+  }
+]

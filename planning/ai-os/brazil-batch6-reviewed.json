@@ -2,144 +2,101 @@
   "editorial_status": "reviewed",
   "review_date": "2026-10-08",
   "images": {
-    "amazon-forest-river-aerial": {
-      "width": 1600,
-      "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-aerial.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "25fdbaac484995f9de40d64e3334022af4578b8584ddf44d0eae688523ba3d97",
-      "web_sha256": "3acf7d2822a7a986c4e6466f9551f2ac1ef3594975e7d799297620527c36df75",
-      "original_bytes": 413373,
-      "web_bytes": 268828,
-      "alt": {
-        "en": "A winding river surrounded by tropical forest",
-        "es": "Río sinuoso rodeado de bosque tropical"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "amazon-macaws-in-flight": {
-      "width": 1280,
-      "height": 1600,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-macaws-in-flight.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "82d58f5b49cb5bf966d6dea475a78706f5329dd7c6874a360de3ce2cf848e4e1",
-      "web_sha256": "b4baaf108be2a1643a1d416aef8fbd8cbfa0a731bc166413c9b4ed942f41bea4",
-      "original_bytes": 126325,
-      "web_bytes": 83978,
-      "alt": {
-        "en": "Colorful macaws flying past green foliage",
-        "es": "Guacamayos de colores volando frente a la vegetación"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "amazon-forest-river-channel": {
-      "width": 1600,
-      "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-channel.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "26fc7f3acb97ef3ebb20601be3e1936abd5dacf94d5512733f3821f39b590562",
-      "web_sha256": "86ee2b866c5376b71f445a987aed66705faefd05f2cbd869f0ba201df71b3ba6",
-      "original_bytes": 311342,
-      "web_bytes": 189574,
-      "alt": {
-        "en": "River channel between wooded banks",
-        "es": "Canal fluvial entre orillas arboladas"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "amazon-small-monkeys-pair": {
-      "width": 1280,
-      "height": 1600,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-small-monkeys-pair.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "7498d6ee621cab64d0807d713a35584241994b7a39ae281cced9fc11820db7bd",
-      "web_sha256": "f9e39893d267e654aedd43050ce21d340f436e8b7f5d9504f512ee4226c07cf9",
-      "original_bytes": 164505,
-      "web_bytes": 116268,
-      "alt": {
-        "en": "Two small monkeys together on a branch",
-        "es": "Dos monos pequeños juntos sobre una rama"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "manaus-rio-negro": {
-      "src": "/assets/images/brazil/manaus-rio-negro.jpg",
+    "manaus-waterfront-from-river": {
+      "src": "/assets/images/pages/countries/brazil/optimized/manaus-waterfront-from-river.webp",
       "width": 1800,
-      "height": 1321,
-      "source": "https://commons.wikimedia.org/wiki/File:Manaus_-_View_from_River.jpg",
-      "label": "P. Hughes; resized for web",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "location_evidence": "View of the outskirts of Manaus, from Rio Negro, Brazil",
-      "attribution_required": true
-    },
-    "amazon-forest-river-sunset": {
-      "width": 1600,
       "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-forest-river-sunset.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "1bfd90ab7caece29793539505b2a45970100c256b824da89bb35b4204fcedc5d",
-      "web_sha256": "1207b7ec779a5932e6a719caa8ef65c7f07dd2dae9b7bf01f37f1853059451eb",
-      "original_bytes": 256042,
-      "web_bytes": 141608,
       "alt": {
-        "en": "Sunset reflected in a river beside forest",
-        "es": "Atardecer reflejado en un río junto al bosque"
+        "en": "Manaus waterfront buildings viewed from the river",
+        "es": "Edificios del frente fluvial de Manaus vistos desde el río"
       },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "509f3fd0052eec64d7c6b5f42fe1819bbbb9f777e56506c4de4dcf30bea162fd",
+      "web_sha256": "532de9a739485e697182bc693df9a8a4a90a404cf87a68116400c1a0edeafe70",
+      "original_bytes": 467899,
+      "web_bytes": 323288
     },
-    "amazon-thatched-hammock-shelter": {
-      "width": 1600,
+    "amazon-guided-boat-excursion": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-guided-boat-excursion.webp",
+      "width": 1800,
       "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-thatched-hammock-shelter.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "4952cb2f95f925efa19652fda7803c265e17da71e09e80cc74a3de2fae9471de",
-      "web_sha256": "43f5742b8fe1771f4bafb76454e4ce41cd0d5ac98a61946ec255fc2c0899152e",
-      "original_bytes": 446588,
-      "web_bytes": 301092,
       "alt": {
-        "en": "Hammock beneath a thatched shelter surrounded by greenery",
-        "es": "Hamaca bajo un refugio de techo vegetal rodeado de vegetación"
+        "en": "Travelers on a boat excursion along a forest river",
+        "es": "Viajeros en una excursión en embarcación por un río junto al bosque"
       },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "5f74914182bee3a0ac70a5ca5b2eabef4e9c03b9b0bcbc80caeabd175c55a44b",
+      "web_sha256": "0ed71e923f93211af1a0ac5d47a559065c094dc4c832785ddc14618f23665f1f",
+      "original_bytes": 316368,
+      "web_bytes": 202552
     },
-    "amazon-caiman-water-closeup": {
-      "width": 1280,
-      "height": 1600,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-caiman-water-closeup.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "9b3b96b218d6a345ce9cabca377df846ed576374c3e455d8cd0dbf1ee0228430",
-      "web_sha256": "24e5cc35e2a630125d3d37006be87020955f6d2d46f24fc4c408405d5d32b356",
-      "original_bytes": 229021,
-      "web_bytes": 175894,
-      "alt": {
-        "en": "Close view of a caiman at the water surface",
-        "es": "Primer plano de un caimán en la superficie del agua"
-      },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
-    },
-    "amazon-river-dolphin-surfacing": {
-      "width": 1600,
+    "amazon-riverside-buildings-and-boat": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-riverside-buildings-and-boat.webp",
+      "width": 1800,
       "height": 1200,
-      "src": "/assets/images/pages/countries/bolivia/optimized/amazon-river-dolphin-surfacing.webp",
-      "rights": "Owner supplied under paid Adobe Express plan; owner authorization retained in conversation",
-      "original_sha256": "295c7bda93ea308ebf9a7f7c348bc76c3f54abe44db224151c73d809b7817c43",
-      "web_sha256": "ddd12bbabc551624a055c12ac372aa6700b808e43b0ba2905dd781e98dff3b3f",
-      "original_bytes": 301941,
-      "web_bytes": 182350,
       "alt": {
-        "en": "River dolphin breaking the water surface",
-        "es": "Delfín de río asomando sobre el agua"
+        "en": "Riverside buildings and a moored boat, illustrative accommodation scene",
+        "es": "Edificios junto al río y embarcación amarrada, escena ilustrativa de alojamiento"
       },
-      "location": "Illustrative owner-selected regional stock; no claim of verified exact capture site",
-      "attribution_required": false
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "ced78ebc34115f01a3e39afdeb8abe79187b5b3b2804e53dd03bce4789d68aee",
+      "web_sha256": "6195f53f147fcb04c0bb19fc0dcbb9605313407d607800265962cd7762e2dee5",
+      "original_bytes": 480430,
+      "web_bytes": 343028
+    },
+    "amazon-canoe-floating-vegetation": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-canoe-floating-vegetation.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "A paddler guiding a canoe through floating vegetation",
+        "es": "Persona guiando una canoa entre vegetación flotante"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c07bce58422bec9dfba2bd58c733f908bacd634b6b12e5daaa3c5e808ccd3b0a",
+      "web_sha256": "3c95b2955c2852c4d7bccb22a390eaca6b27af4b4c12f6319cf3e6a9185b8d3a",
+      "original_bytes": 861832,
+      "web_bytes": 705686
+    },
+    "amazon-riverside-thatched-lodge": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-riverside-thatched-lodge.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Thatched buildings beside the water, illustrative lodge scene",
+        "es": "Edificios con techo de paja junto al agua, escena ilustrativa de lodge"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c015f62519415e52b67f5020bef551907a2a16a8bb546c7f2ffaf13e4288347c",
+      "web_sha256": "069a39ef6c2be76a6d0b8265db2ac444d145424508ad12b40557f6e251087c49",
+      "original_bytes": 857912,
+      "web_bytes": 673536
+    },
+    "sloth-in-tree-portrait": {
+      "src": "/assets/images/pages/countries/brazil/optimized/sloth-in-tree-portrait.webp",
+      "width": 1440,
+      "height": 1800,
+      "alt": {
+        "en": "A sloth hanging from a tree branch",
+        "es": "Perezoso colgado de una rama"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c89192a7c86820379f60fa20343fb3b95a3c5b0a47c43648f4fefbb651b4c439",
+      "web_sha256": "40a7313e307d0c280fbf898ddf2a0cb9b02242a1a2a76c586c2204750c9070e0",
+      "original_bytes": 429838,
+      "web_bytes": 409496
     }
   },
   "pages": {
@@ -258,17 +215,17 @@
         "description": "Compare Manaus and Santarém gateways, lodge transfers and boat boarding. Plan arrival buffers, luggage and onward connections for your Brazilian Amazon trip.",
         "lede": "Choose the region first, then connect the airport, overnight stay and final transfer. A clear arrival plan protects the time you came to spend in the Amazon.",
         "hero": [
-          "manaus-rio-negro",
-          "Manaus waterfront viewed from the Rio Negro"
+          "manaus-waterfront-from-river",
+          "Manaus waterfront buildings viewed from the river"
         ],
         "features": {
           "2": [
-            "amazon-forest-river-channel",
-            "Forest-lined river channel, illustrative photograph"
+            "amazon-guided-boat-excursion",
+            "Travelers on a boat excursion along a forest river"
           ],
           "5": [
-            "amazon-thatched-hammock-shelter",
-            "Shaded hammock shelter, illustrative accommodation photograph"
+            "amazon-riverside-buildings-and-boat",
+            "Riverside buildings and a moored boat, illustrative accommodation scene"
           ]
         },
         "quick": [
@@ -487,17 +444,17 @@
         "description": "Compara Manaus y Santarém, traslados a lodges y embarque. Organiza equipaje, horarios de llegada y conexiones para tu viaje a la Amazonía brasileña.",
         "lede": "Elige primero la región y después conecta aeropuerto, alojamiento y traslado final. Un plan claro de llegada protege el tiempo que quieres disfrutar en la Amazonía.",
         "hero": [
-          "manaus-rio-negro",
-          "Manaus visto desde el Rio Negro"
+          "manaus-waterfront-from-river",
+          "Edificios del frente fluvial de Manaus vistos desde el río"
         ],
         "features": {
           "2": [
-            "amazon-forest-river-channel",
-            "Canal fluvial rodeado de bosque, fotografía ilustrativa"
+            "amazon-guided-boat-excursion",
+            "Viajeros en una excursión en embarcación por un río junto al bosque"
           ],
           "5": [
-            "amazon-thatched-hammock-shelter",
-            "Zona de hamacas a la sombra, fotografía ilustrativa"
+            "amazon-riverside-buildings-and-boat",
+            "Edificios junto al río y embarcación amarrada, escena ilustrativa de alojamiento"
           ]
         },
         "quick": [
@@ -718,17 +675,17 @@
         "description": "Pack for Brazilian Amazon lodge and river travel: clothing, footwear, baggage, camera protection and provider questions. Keep your kit practical for the route.",
         "lede": "Pack for the activities and transfers you have booked. A manageable bag and a few well-chosen essentials work better than equipment for every possible expedition.",
         "hero": [
-          "amazon-forest-river-channel",
-          "Forest-lined river, illustrative photograph"
+          "amazon-canoe-floating-vegetation",
+          "A paddler guiding a canoe through floating vegetation"
         ],
         "features": {
           "2": [
-            "amazon-thatched-hammock-shelter",
-            "Shaded hammock area, illustrative accommodation photograph"
+            "amazon-riverside-thatched-lodge",
+            "Thatched buildings beside the water, illustrative lodge scene"
           ],
           "5": [
-            "amazon-small-monkeys-pair",
-            "Two small monkeys, illustrative wildlife photograph"
+            "sloth-in-tree-portrait",
+            "A sloth hanging from a tree branch"
           ]
         },
         "quick": [
@@ -947,17 +904,17 @@
         "description": "Prepara el equipaje para lodges y viajes fluviales en Brasil: ropa, calzado, protección fotográfica y preguntas al proveedor. Un equipo práctico para tu ruta.",
         "lede": "Prepara el equipaje para las actividades y los traslados que has reservado. Una bolsa manejable y algunos elementos bien elegidos ayudan más que equipo para todas las expediciones imaginables.",
         "hero": [
-          "amazon-forest-river-channel",
-          "Canal fluvial rodeado de bosque, fotografía ilustrativa"
+          "amazon-canoe-floating-vegetation",
+          "Persona guiando una canoa entre vegetación flotante"
         ],
         "features": {
           "2": [
-            "amazon-thatched-hammock-shelter",
-            "Zona de hamacas a la sombra, fotografía ilustrativa"
+            "amazon-riverside-thatched-lodge",
+            "Edificios con techo de paja junto al agua, escena ilustrativa de lodge"
           ],
           "5": [
-            "amazon-small-monkeys-pair",
-            "Dos monos pequeños, fotografía ilustrativa"
+            "sloth-in-tree-portrait",
+            "Perezoso colgado de una rama"
           ]
         },
         "quick": [
