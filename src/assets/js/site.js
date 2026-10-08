@@ -168,7 +168,9 @@
           const response = await fetch(config.leads.endpoint, {method:"POST", headers:{"Content-Type":"application/json"},body:JSON.stringify(payload)});
           const result = await response.json();
           if (!response.ok || result.ok !== true || result.status !== "queued") throw new Error("Not accepted");
-          form.reset(); say("Your request has been queued for our team. Thank you.", "Tu solicitud se ha puesto en cola para nuestro equipo. Gracias.");
+          form.reset();
+          if (result.acknowledgment === "queued") say("Your request has been received. A confirmation email is on its way; please check your spam folder too.", "Recibimos tu solicitud. El correo de confirmación está en camino; revisa también la carpeta de spam.");
+          else say("Your request has been received, but we could not send the confirmation email. There is no need to submit again; our team will follow up.", "Recibimos tu solicitud, pero no pudimos enviar el correo de confirmación. No hace falta enviarla otra vez; nuestro equipo se pondrá en contacto contigo.");
           window.etaAnalytics?.track("lead_submit", {form_id:form.id});
         } catch {
           say("Your request was not confirmed. Please retry verification or use email or WhatsApp.", "No se confirmó tu solicitud. Verifica de nuevo o usa correo o WhatsApp.");

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
   "status": "production_live_owner_visual_approved_delivery_pending",
-  "deployment": "b2d0032f",
+  "deployment": "2c3f98fb",
   "pairs": 12,
   "pages": 24,
   "technical_checks": {
@@ -15,7 +15,7 @@
     "four_new_protected_routes": true
   },
   "pending": [
-    "Real Brazil inquiry delivery and inbox confirmation; browser security-policy verification still unavailable"
+    "Guest acknowledgment inbox confirmation after new submission"
   ],
   "production_authorized": true,
   "rollback": {
@@ -41,5 +41,10 @@
     "date": "2026-10-08",
     "evidence": "Owner: visual review is good",
     "scope": "Owner approval; no agent desktop/mobile measurements claimed"
-  }
+  },
+  "admin_inbox_delivery": {
+    "status": "owner_confirmed",
+    "date": "2026-10-08"
+  },
+  "guest_acknowledgment_evidence": "planning/ai-os/guest-acknowledgment-checkpoint.json"
 }

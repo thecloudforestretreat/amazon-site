@@ -3,7 +3,7 @@
   "date": "2026-10-08",
   "owner_authorized": "Owner requested next two-pair batch; protected staging only",
   "stage": "production_live_owner_visual_approved_delivery_pending",
-  "deployment": "b2d0032f",
+  "deployment": "2c3f98fb",
   "previous_staging_deployment": "f798509e",
   "pairs": [
     {
@@ -87,7 +87,7 @@
     ],
     "distinct_images_per_page": 3,
     "handler_tests": 17,
-    "real_brazil_inquiry_delivery": "not tested",
+    "real_brazil_inquiry_delivery": "Admin inbox confirmed by owner October 8; guest acknowledgment deployed, inbox confirmation pending",
     "css_parity": "Brazil aliases only; existing declarations identical",
     "production_scope_containment": "124 pages validated; zero Brazil routes/sitemap entries; artifact not deployed",
     "protection": "4 new route HEAD checks:302 Access redirects",

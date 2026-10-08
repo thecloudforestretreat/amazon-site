@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-08",
+  "staging_deployment": "df5140bf",
+  "production_deployment": "2c3f98fb",
+  "rollback_production": "b2d0032f",
+  "cause": "Previous implementation sent only admin email; no guest acknowledgment existed",
+  "changes": [
+    "Separate guest EN/ES transactional receipt after Turnstile verification and admin acceptance",
+    "Shared existing logo/WhatsApp/Instagram signature",
+    "Brand reply-to; country and dates; no booking promises",
+    "Guest failure does not undo accepted inquiry or encourage duplicate submission"
+  ],
+  "tests_passed": 20,
+  "compiled_pages_validated": 148,
+  "live_ui_endpoint_verified": true,
+  "real_admin_delivery": "Owner confirmed Brazil admin email arrived October 8, 2026",
+  "guest_inbox_delivery": "Pending real submission and owner confirmation; browser admin policy unavailable",
+  "local_worker_tokens": 0
+}
