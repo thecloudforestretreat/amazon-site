@@ -1,0 +1,12 @@
+{
+  "batch": 6,
+  "date": "2026-10-08",
+  "owner_authorized": true,
+  "country": "colombia",
+  "topics": [
+    "How to get there",
+    "Packing"
+  ],
+  "environment": "Protected staging only",
+  "next_step": "Full-country image handoff and release review; no new country authorized"
+}

@@ -1,0 +1,38 @@
+{
+  "runs": [
+    {
+      "topic": "access",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2659,
+      "output_tokens": 3283,
+      "seconds": 145.43,
+      "retries": 0,
+      "done_reason": "stop",
+      "prompt_cached_tokens": 0,
+      "cache_hit": false
+    },
+    {
+      "topic": "packing",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2660,
+      "output_tokens": 3499,
+      "seconds": 148.44,
+      "retries": 0,
+      "done_reason": "stop",
+      "prompt_cached_tokens": 0,
+      "cache_hit": false
+    },
+    {
+      "topic": "packing-footwear-repair",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 221,
+      "output_tokens": 235,
+      "seconds": 10.1,
+      "retries": 1,
+      "prompt_cached_tokens": 0,
+      "cache_hit": false,
+      "done_reason": "stop"
+    }
+  ],
+  "total_local_tokens": 12557
+}

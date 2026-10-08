@@ -1,0 +1,79 @@
+{
+  "batch": 6,
+  "date": "2026-10-08",
+  "country": "colombia",
+  "deployment": "831f0904",
+  "rollback_deployment": "ecf99752",
+  "staging_only": true,
+  "checks": {
+    "compiled_html_pages": 172,
+    "colombia_pages": 24,
+    "country_audit_errors": 0,
+    "shared_css_tests_passed": 4,
+    "shared_css_modified": false,
+    "production_containment_passed": true,
+    "production_compiled_html_pages": 148,
+    "access_redirects": 4,
+    "images_distinct_per_page": 3,
+    "desktop_mobile_visual_review": "Blocked: browser admin policy could not be verified; retry retained, no workaround used",
+    "authenticated_content_readback": "Pending"
+  },
+  "editorial_review": [
+    "Nine substantive sections and four matching visible/schema FAQs on each new guide",
+    "Gateway arrival coordinated with upstream services; no invented fares, schedules or border permissions",
+    "Packing based on actual route, provided equipment and explicit clothing examples",
+    "Dropped footwear translation caught by structural validation; bounded repair and full bilingual review completed",
+    "Spanish landing/transfer terms, address form and lexical gender corrected before deployment",
+    "Ten existing pairs link to the final two guides; shared global and cluster CSS unchanged"
+  ],
+  "usage": {
+    "runs": [
+      {
+        "topic": "access",
+        "model": "qwen3.5:9b",
+        "prompt_tokens": 2659,
+        "output_tokens": 3283,
+        "seconds": 145.43,
+        "retries": 0,
+        "done_reason": "stop",
+        "prompt_cached_tokens": 0,
+        "cache_hit": false
+      },
+      {
+        "topic": "packing",
+        "model": "qwen3.5:9b",
+        "prompt_tokens": 2660,
+        "output_tokens": 3499,
+        "seconds": 148.44,
+        "retries": 0,
+        "done_reason": "stop",
+        "prompt_cached_tokens": 0,
+        "cache_hit": false
+      },
+      {
+        "topic": "packing-footwear-repair",
+        "model": "qwen3.5:9b",
+        "prompt_tokens": 221,
+        "output_tokens": 235,
+        "seconds": 10.1,
+        "retries": 1,
+        "prompt_cached_tokens": 0,
+        "cache_hit": false,
+        "done_reason": "stop"
+      }
+    ],
+    "total_local_tokens": 12557
+  },
+  "compiled_html_sha256": {
+    "/colombia/how-to-get-there/": "fbf516c60e49d4d42a49ac0fa233ecd3e2fed8b29dd7d63e79f171925b6c70ab",
+    "/es/colombia/como-llegar/": "a9a78a5f7475af300776559bbcfaee92e7350ceee762dd1d38782669adafe71f",
+    "/colombia/packing-list/": "7b54a934d77d493591bfa3393c0fc289b77d1a979ced02ee4ea2150c0cb0a3c2",
+    "/es/colombia/que-llevar/": "7f22fd79eec3b13ee6a5e8cd5c39ca7ba2fb45601d570df4abb05ff6cf01fb1f"
+  },
+  "release_holds": [
+    "Destination-specific image verification",
+    "Rendered desktop/mobile review",
+    "Authenticated staging readback",
+    "Full country release QA and owner authorization"
+  ]
+}

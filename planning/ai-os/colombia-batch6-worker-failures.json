@@ -1,0 +1,13 @@
+{
+  "failures": [
+    {
+      "topic": "packing",
+      "condition": "Translation omitted footwear section",
+      "expected_sections": 9,
+      "actual_sections": 8,
+      "action": "Preserve original response; request bounded missing-section repair; review full guide before promotion"
+    }
+  ],
+  "resolved": "Missing footwear section repaired by bounded local request, then rewritten for consistent Spanish address and fully reviewed; nine sections restored before rendering",
+  "retries": 1
+}

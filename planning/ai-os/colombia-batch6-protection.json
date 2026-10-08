@@ -1,0 +1,22 @@
+[
+  {
+    "route": "/colombia/how-to-get-there/",
+    "status": 302,
+    "access_redirect": true
+  },
+  {
+    "route": "/es/colombia/como-llegar/",
+    "status": 302,
+    "access_redirect": true
+  },
+  {
+    "route": "/colombia/packing-list/",
+    "status": 302,
+    "access_redirect": true
+  },
+  {
+    "route": "/es/colombia/que-llevar/",
+    "status": 302,
+    "access_redirect": true
+  }
+]

@@ -66,9 +66,9 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review of Colombia best-time-to-visit and wildlife EN/ES on protected staging",
-    "Next batch upon owner authorization: how to get there and packing",
-    "Retain final destination imagery, rendered desktop/mobile QA and authenticated content readback before Colombia release"
+    "Owner review of final Colombia access and packing EN/ES on protected staging",
+    "Prepare destination-specific Colombia imagery and apply with no repeated scene per page",
+    "Complete rendered desktop/mobile and authenticated readback, full-country release QA, then obtain country release authorization"
   ],
   "future_batches": [
     "Reviews deferred by owner; exclude from Ecuador launch",
@@ -112,10 +112,10 @@
     "contact_delivery": "endpoint absent"
   },
   "active_batch": [
-    "Colombia best time to visit",
-    "Colombia wildlife"
+    "Colombia how to get there",
+    "Colombia packing"
   ],
-  "batch_status": "Colombia batch 5 EN/ES deployed protected staging ecf99752; technical QA passed, rendered review and authenticated readback pending",
+  "batch_status": "All 12 Colombia pairs/24 pages deployed protected staging 831f0904; technical QA passed, imagery, rendered review and authenticated readback remain release holds",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",

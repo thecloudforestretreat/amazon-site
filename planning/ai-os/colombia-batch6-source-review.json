@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-08",
+  "sources": [
+    {
+      "url": "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-amacayacu/",
+      "authority": "Parques Nacionales Naturales de Colombia",
+      "fetch": "Successful via web tool",
+      "reviewed_facts": [
+        "Bogotá–Leticia route identified; current flight services not asserted",
+        "Park routes require receiving-community coordination",
+        "Low-water effects on described access route",
+        "Humid climate; responsible waste practices; advance drone authorization"
+      ],
+      "excluded": [
+        "Carrier frequencies and schedules",
+        "Fixed travel times and fares",
+        "Medical recommendations from park page"
+      ]
+    },
+    {
+      "url": "https://colombia.travel/es/leticia",
+      "authority": "Colombia Travel official tourism board",
+      "fetch": "Successful via web tool",
+      "reviewed_facts": [
+        "Leticia gateway setting with onward river journeys"
+      ],
+      "excluded": [
+        "Universal border-entry permissions",
+        "Guarantees of easy connections"
+      ]
+    }
+  ],
+  "editorial_scope": "Original practical itinerary and packing guidance; confirm actual providers, equipment and connections. No prescribed medical treatment or invented restrictions.",
+  "images": "Licensed owner Adobe Express scenes are illustrative; exact Colombia capture unverified. Three distinct scenes per page. Final destination imagery remains a release hold."
+}

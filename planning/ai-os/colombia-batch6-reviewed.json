@@ -1,0 +1,1024 @@
+{
+  "editorial_status": "reviewed",
+  "review_date": "2026-10-08",
+  "images": {
+    "amazon-river-canoe-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-river-canoe-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "A small canoe on a broad forest-lined river",
+        "es": "Canoa pequeña en un río amplio rodeado de bosque"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "26b33e2ec42e4dc57078b544300135bd21935c8b119d9ced274f345735162ec0",
+      "web_sha256": "2c824e544debf5ec678e62665e06fb969d3bfe0a851dad7fe2c2a2ac38c1b614",
+      "original_bytes": 363258,
+      "web_bytes": 264580
+    },
+    "amazon-guided-boat-excursion": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-guided-boat-excursion.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Travelers on a boat excursion along a forest river",
+        "es": "Viajeros en una excursión en embarcación por un río junto al bosque"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "5f74914182bee3a0ac70a5ca5b2eabef4e9c03b9b0bcbc80caeabd175c55a44b",
+      "web_sha256": "0ed71e923f93211af1a0ac5d47a559065c094dc4c832785ddc14618f23665f1f",
+      "original_bytes": 316368,
+      "web_bytes": 202552
+    },
+    "amazon-river-palm-forest": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-river-palm-forest.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Palms and dense forest along a riverbank",
+        "es": "Palmeras y bosque denso junto a la orilla de un río"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "b1be430192a6e7d2a6f87feb13dd7bc6bdb89b0983d5c48a005356db5807741f",
+      "web_sha256": "ab9feee6239a89246f52c0eb2beba9343c94a8bd572d457d0b639618521db197",
+      "original_bytes": 659469,
+      "web_bytes": 508908
+    },
+    "amazon-forest-island-channels-aerial": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-forest-island-channels-aerial.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Forest-covered islands separated by dark river channels",
+        "es": "Islas cubiertas de bosque separadas por canales fluviales oscuros"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "cf89c0af136837a31eb9d92e79db30d4f621405ee7219a863ff612b42396ef63",
+      "web_sha256": "f47b1ea9681739a8bf2bb3c6aca5f2b4c7a337f5eb2d23d4f5594eb0b904c8ce",
+      "original_bytes": 634815,
+      "web_bytes": 524420
+    },
+    "amazon-riverside-thatched-lodge": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-riverside-thatched-lodge.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "Thatched buildings beside the water, illustrative lodge scene",
+        "es": "Edificios con techo de paja junto al agua, escena ilustrativa de lodge"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c015f62519415e52b67f5020bef551907a2a16a8bb546c7f2ffaf13e4288347c",
+      "web_sha256": "069a39ef6c2be76a6d0b8265db2ac444d145424508ad12b40557f6e251087c49",
+      "original_bytes": 857912,
+      "web_bytes": 673536
+    },
+    "amazon-canoe-floating-vegetation": {
+      "src": "/assets/images/pages/countries/brazil/optimized/amazon-canoe-floating-vegetation.webp",
+      "width": 1800,
+      "height": 1200,
+      "alt": {
+        "en": "A paddler guiding a canoe through floating vegetation",
+        "es": "Persona guiando una canoa entre vegetación flotante"
+      },
+      "attribution_required": false,
+      "rights": "Owner-supplied Adobe Express images; owner paid-plan rights statement retained in conversation",
+      "location": "Visible subject reviewed; exact capture site unverified unless recognizable landmark. No named property or guaranteed sighting claim.",
+      "original_sha256": "c07bce58422bec9dfba2bd58c733f908bacd634b6b12e5daaa3c5e808ccd3b0a",
+      "web_sha256": "3c95b2955c2852c4d7bccb22a390eaca6b27af4b4c12f6319cf3e6a9185b8d3a",
+      "original_bytes": 861832,
+      "web_bytes": 705686
+    }
+  },
+  "pages": {
+    "access": {
+      "en": {
+        "type": "planning-guide",
+        "pair_id": "colombia_access_001",
+        "hero": [
+          "amazon-river-canoe-aerial",
+          "A small canoe on a broad forest-lined river"
+        ],
+        "features": {
+          "1": [
+            "amazon-guided-boat-excursion",
+            "Travelers on a boat excursion along a forest river"
+          ],
+          "4": [
+            "amazon-river-palm-forest",
+            "Palms and dense forest along a riverbank"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Parques Nacionales Naturales: Amacayacu",
+            "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-amacayacu/"
+          ],
+          [
+            "Colombia Travel: Leticia",
+            "https://colombia.travel/es/leticia"
+          ]
+        ],
+        "scope": "Guidance reviewed October 8, 2026. Confirm current services, meeting points and applicable document requirements with the relevant providers and authorities. This guide does not confirm schedules, fares or reservations.",
+        "slug": "how-to-get-there",
+        "h1": "How to reach the Colombian Amazon",
+        "title": "How to Reach Colombia’s Amazon | Experience The Amazon",
+        "description": "Coordinate flights to Leticia, upstream boat transfers, receiving hosts and onward connections for a workable Colombian Amazon journey.",
+        "lede": "Connect arrival in Leticia with the river leg and receiving host. Plan the complete journey, then confirm the services and meeting points for your dates.",
+        "quick": [
+          "How should you plan arrival?",
+          "Coordinate the flight or other arrival into Leticia with town pickup, the onward river leg, accommodation reception and the final return. Check current services and meeting points before booking separate connections."
+        ],
+        "choices_heading": "Coordinate the practical details",
+        "choices": [
+          [
+            "Leticia gateway",
+            "Plan the town arrival and onward connection.",
+            "/colombia/leticia/"
+          ],
+          [
+            "River journeys",
+            "Distinguish transport from guided outing time.",
+            "/colombia/river-journeys/"
+          ],
+          [
+            "Prepare your bag",
+            "Connect packing with the actual transport sequence.",
+            "/colombia/packing-list/"
+          ]
+        ],
+        "links": [
+          [
+            "/colombia/",
+            "Colombia overview"
+          ],
+          [
+            "/colombia/plan-your-amazon-trip/",
+            "Trip planning"
+          ],
+          [
+            "/colombia/leticia/",
+            "Leticia"
+          ],
+          [
+            "/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/contact/",
+            "Share your plans"
+          ],
+          [
+            "/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/colombia/tarapoto-lakes/",
+            "Tarapoto lakes"
+          ],
+          [
+            "/colombia/amazon-accommodation/",
+            "Accommodation"
+          ],
+          [
+            "/colombia/river-journeys/",
+            "River journeys"
+          ],
+          [
+            "/colombia/best-time-to-visit/",
+            "Best time to visit"
+          ],
+          [
+            "/colombia/wildlife/",
+            "Wildlife"
+          ],
+          [
+            "/colombia/how-to-get-there/",
+            "How to get there"
+          ],
+          [
+            "/colombia/packing-list/",
+            "Packing"
+          ]
+        ],
+        "context_links": [
+          [
+            "Colombia overview",
+            "/colombia/"
+          ],
+          [
+            "Colombia trip-planning guide",
+            "/colombia/plan-your-amazon-trip/"
+          ],
+          [
+            "Leticia guide",
+            "/colombia/leticia/"
+          ],
+          [
+            "Puerto Nariño guide",
+            "/colombia/puerto-narino/"
+          ],
+          [
+            "Amacayacu guide",
+            "/colombia/amacayacu/"
+          ],
+          [
+            "Tarapoto lakes guide",
+            "/colombia/tarapoto-lakes/"
+          ],
+          [
+            "Amazon accommodation guide",
+            "/colombia/amazon-accommodation/"
+          ],
+          [
+            "river journeys guide",
+            "/colombia/river-journeys/"
+          ],
+          [
+            "best time to visit guide",
+            "/colombia/best-time-to-visit/"
+          ],
+          [
+            "wildlife guide",
+            "/colombia/wildlife/"
+          ],
+          [
+            "an inquiry",
+            "/contact/"
+          ],
+          [
+            "packing guide",
+            "/colombia/packing-list/"
+          ]
+        ],
+        "cta": [
+          "Coordinate the complete arrival",
+          "Share your travel dates and proposed connections so the gateway, river legs and overnight settings can be considered together."
+        ],
+        "faqs": [
+          [
+            "Can we research flights to Leticia from Bogotá?",
+            "Yes. Official park access guidance identifies that route. Check current airline availability, baggage conditions and connections for your dates."
+          ],
+          [
+            "Does arrival in Leticia include an upstream transfer?",
+            "Not automatically. Confirm the pickup, boat service, receiving point and accommodation arrival as clearly identified services."
+          ],
+          [
+            "Can an old boat timetable confirm our connection?",
+            "No. Use current provider information and review the complete outward and return sequence before booking."
+          ],
+          [
+            "Can a cross-border arrival use the same assumptions as a domestic flight?",
+            "No. Identify the intended countries and entry route and verify applicable document requirements with the relevant authorities."
+          ]
+        ],
+        "sections": [
+          [
+            "Plan the gateway and the onward journey together",
+            "Leticia is the gateway for this southern Colombian Amazon circuit. Begin with the Colombia overview and identify where the first full day of your journey actually starts: in town, at an upstream base or with a receiving host in the forest. Arrival in the gateway is only one part of reaching that experience. Compare the complete sequence, including baggage, pickup and any onward boat leg, before booking its separate parts.",
+            "The Leticia guide helps distinguish time in the gateway from travel beyond it. Give the organizer your arrival and departure details and ask which services can be coordinated around them. A booking should make clear whether the first night is in town or farther upstream. Avoid treating an airport arrival, a river departure and an activity start as the same event; each needs its own meeting point and responsible contact."
+          ],
+          [
+            "Flying to Leticia: confirm the service for your dates",
+            "Amacayacu’s official access guidance identifies a route to Leticia from Bogotá. Use that as a starting point when researching the flight connection, then check current airline availability for your actual travel dates. This guide does not establish a timetable, fare or operating frequency. Compare the complete journey from your starting point rather than assuming that an arrival in another Colombian city automatically connects smoothly with Leticia.",
+            "Before accepting an itinerary, check the arrival airport, baggage conditions and any separate-ticket connection with the relevant provider. If international travel precedes the domestic leg, discuss the practical sequence rather than calculating the connection from flight duration alone. Share the confirmed booking details with the person arranging the Amazon portion. Keep a gateway overnight as an option to assess, not an automatic requirement or a universally safe substitute for checking the actual connection."
+          ],
+          [
+            "From the airport to the departure point",
+            "Clarify whether someone meets you at the airport, which name or contact identifies that person and where the transfer ends. The destination may be a town accommodation, a river departure point or another agreed meeting location. Ask whether baggage handling and assistance are included. These details are especially useful when different providers arrange the flight, town transfer and boat service; each should understand the same intended sequence.",
+            "Keep the pickup instructions and booking references accessible offline. Agree how a delayed arrival is communicated and which provider reviews the onward plan. Do not assume a boat service waits for an unrelated flight or that a hotel automatically arranges every transfer. If the group needs assistance with bags, steps or boarding, state that before the service is confirmed. A clearly described arrival makes the first day easier to assess than a broad promise of a seamless transfer."
+          ],
+          [
+            "Puerto Nariño: connect the town names with meeting points",
+            "For an upstream stay, read the Puerto Nariño guide alongside the river journeys guide. Identify the Leticia boarding point, the receiving point and how the group reaches its accommodation afterward. Ask whether the proposed service is shared or private and what is included at either end. A route between two town names does not explain luggage handling, hotel pickup or the arrangements for travelers who need help boarding.",
+            "Check the return when confirming the outward journey. Use current provider information for departure arrangements, rather than building the itinerary around an old timetable or remembered travel time. Clarify how service changes are communicated and who coordinates the final connection. If the trip includes a lake excursion, keep its activity period distinct from the transport that reaches the upstream base; otherwise a long transfer can consume time originally intended for exploration."
+          ],
+          [
+            "Amacayacu: arrange the receiving host before transport",
+            "The Amacayacu guide explains why access to a park-related visit needs more than a general boat booking. Official park guidance describes routes through different receiving communities and advises advance coordination. Identify the intended host, activity and landing before choosing the transport. Confirm which provider handles the river leg and which receives the group for the visit, particularly when those services are booked separately.",
+            "Ask what happens between arrival at the landing and the start of the agreed activity. A forest walk, hosted visit and overnight stay have different requirements for time and bags. Establish whether onward transport or assistance is needed and how the return is arranged. Do not treat a boat passing near the park as confirmation of entry or a guided visit. Request the actual sequence and services so the group reaches an experience that has been coordinated with its host."
+          ],
+          [
+            "River conditions can change the practical connection",
+            "Use the best time to visit guide to understand the difference between seasonal background and a departure-specific route check. The park’s guidance notes that low water can affect travel time on its described access route. Ask the provider how current conditions affect your particular landing, craft and onward activity. A seasonal label alone cannot confirm that every connection works exactly as shown in a draft itinerary.",
+            "Keep the purpose of the day clear if a route changes. Identify whether the change affects only transport or reduces the time available for the intended visit. Ask about the alternative landing or activity sequence and whether inclusions change. Flexibility is useful when it preserves a meaningful experience, but it should not hide an undefined service. Compare the updated plan with the group’s needs before assuming that the original connection remains appropriate."
+          ],
+          [
+            "Cross-border arrivals need their own planning",
+            "If you want to arrive through Peru or Brazil, describe that route explicitly when asking for an itinerary. Proximity within the border region does not establish the documents or formalities required for your nationality and journey. Check current requirements with the relevant authorities and confirm the intended entry and onward route before buying its separate legs. Keep a cross-border arrival distinct from a domestic flight into Leticia when comparing proposals.",
+            "Ask who handles each transport segment and how the receiving contact is reached if a leg changes. Verify whether the proposed guide or transfer covers the full sequence or only the Colombian portion. Avoid relying on a general claim of easy border movement as a substitute for checking your specific journey. Add the route because it supports your wider trip, with enough time for the Amazon experience after arrival, rather than simply adding another country name."
+          ],
+          [
+            "Returning through Leticia: review the final day",
+            "The Colombia trip-planning guide helps arrange the last river return alongside onward travel. Confirm the landing, any town or airport transfer, the handling of bags and the provider responsible for updates. Ask whether a gateway overnight makes sense for the actual route and departure. There is no single connection margin that fits every craft, provider or itinerary, so have the sequence reviewed before committing to it.",
+            "Read the Amazon accommodation guide when comparing the final night. A well-placed stay may simplify the return, while another remote night can add an attractive setting at the cost of a tighter last day. Decide what that night contributes to the whole journey. If separate providers arrange the boat and onward transport, ensure they are working from the same confirmed details and understand what needs to happen if the connection changes."
+          ],
+          [
+            "What to confirm before booking",
+            "Send an inquiry with your starting point, proposed arrival and departure details, number of travelers and intended overnight bases. Include any boarding or baggage-assistance requirements. Ask for a written sequence covering airport or town pickup, river departures, receiving hosts and the final return. Identify confirmed services, separate bookings and arrangements that still require availability checks so you can compare the complete journey.",
+            "Keep provider contacts and travel details available offline and reconfirm meeting points before departure. Use the packing guide to prepare the bag you need during transport rather than burying essential items in larger luggage. If wildlife is a priority, use the wildlife guide to keep observation time visible within the travel plan. Reaching the Amazon well means arriving with enough useful time and a coordinated route, not simply securing the first available connection."
+          ]
+        ]
+      },
+      "es": {
+        "type": "planning-guide",
+        "pair_id": "colombia_access_001",
+        "hero": [
+          "amazon-river-canoe-aerial",
+          "Canoa pequeña en un río amplio rodeado de bosque"
+        ],
+        "features": {
+          "1": [
+            "amazon-guided-boat-excursion",
+            "Viajeros en una excursión en embarcación por un río junto al bosque"
+          ],
+          "4": [
+            "amazon-river-palm-forest",
+            "Palmeras y bosque denso junto a la orilla de un río"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Parques Nacionales Naturales: Amacayacu",
+            "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-amacayacu/"
+          ],
+          [
+            "Colombia Travel: Leticia",
+            "https://colombia.travel/es/leticia"
+          ]
+        ],
+        "scope": "Orientación revisada el 8 de octubre de 2026. Confirme los servicios actuales, puntos de encuentro y requisitos documentales con proveedores y autoridades. Esta guía no confirma horarios, precios ni reservas.",
+        "slug": "como-llegar",
+        "h1": "Cómo llegar a la Amazonía colombiana",
+        "title": "Amazonía colombiana: cómo llegar | Experience The Amazon",
+        "description": "Coordine la llegada a Leticia, los traslados fluviales, la recepción y las conexiones de regreso para un viaje a la Amazonía colombiana.",
+        "lede": "Conecte la llegada a Leticia con el tramo fluvial y el anfitrión receptor. Planifique el viaje completo y luego confirme los servicios y puntos de encuentro para sus fechas.",
+        "quick": [
+          "¿Cómo debería planificar la llegada?",
+          "Coordine el vuelo u otra forma de llegar a Leticia con la recogida en la ciudad, el tramo fluvial posterior, la recepción en el alojamiento y el regreso final. Verifique los servicios actuales y los puntos de encuentro antes de reservar conexiones separadas."
+        ],
+        "choices_heading": "Coordine los detalles prácticos",
+        "choices": [
+          [
+            "Llegada a Leticia",
+            "Planifique la llegada a la ciudad y la conexión posterior.",
+            "/es/colombia/leticia/"
+          ],
+          [
+            "Travesías fluviales",
+            "Distinga entre el transporte y el tiempo de excursión guiada.",
+            "/es/colombia/viajes-fluviales/"
+          ],
+          [
+            "Prepare su equipaje",
+            "Conecte el preparación del equipaje con la secuencia real del transporte.",
+            "/es/colombia/que-llevar/"
+          ]
+        ],
+        "links": [
+          [
+            "/es/colombia/",
+            "Resumen de Colombia"
+          ],
+          [
+            "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+            "Planificación de viajes"
+          ],
+          [
+            "/es/colombia/leticia/",
+            "Leticia"
+          ],
+          [
+            "/es/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/es/contacto/",
+            "Comparta sus planes"
+          ],
+          [
+            "/es/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/es/colombia/lagos-de-tarapoto/",
+            "Lagos de Tarapoto"
+          ],
+          [
+            "/es/colombia/alojamientos-amazonicos/",
+            "Alojamiento"
+          ],
+          [
+            "/es/colombia/viajes-fluviales/",
+            "Travesías fluviales"
+          ],
+          [
+            "/es/colombia/mejor-epoca-para-visitar/",
+            "Mejor época para visitar"
+          ],
+          [
+            "/es/colombia/fauna/",
+            "Fauna silvestre"
+          ],
+          [
+            "/es/colombia/como-llegar/",
+            "Cómo llegar"
+          ],
+          [
+            "/es/colombia/que-llevar/",
+            "Equipaje"
+          ]
+        ],
+        "context_links": [
+          [
+            "resumen de Colombia",
+            "/es/colombia/"
+          ],
+          [
+            "guía de planificación de viajes a Colombia",
+            "/es/colombia/planifica-tu-viaje-a-la-amazonia/"
+          ],
+          [
+            "guía de Leticia",
+            "/es/colombia/leticia/"
+          ],
+          [
+            "guía de Puerto Nariño",
+            "/es/colombia/puerto-narino/"
+          ],
+          [
+            "guía de Amacayacu",
+            "/es/colombia/amacayacu/"
+          ],
+          [
+            "guía de alojamiento en el Amazonas",
+            "/es/colombia/alojamientos-amazonicos/"
+          ],
+          [
+            "guía de travesías fluviales",
+            "/es/colombia/viajes-fluviales/"
+          ],
+          [
+            "guía de la mejor época para visitar",
+            "/es/colombia/mejor-epoca-para-visitar/"
+          ],
+          [
+            "guía de fauna silvestre",
+            "/es/colombia/fauna/"
+          ],
+          [
+            "una consulta",
+            "/es/contacto/"
+          ],
+          [
+            "guía de equipaje",
+            "/es/colombia/que-llevar/"
+          ]
+        ],
+        "cta": [
+          "Coordine la llegada y las conexiones",
+          "Comparta sus fechas y conexiones previstas para combinar la llegada a Leticia, los tramos fluviales y los alojamientos."
+        ],
+        "faqs": [
+          [
+            "¿Podemos investigar vuelos a Leticia desde Bogotá?",
+            "Sí. La orientación oficial de acceso al parque identifica esa ruta. Verifique la disponibilidad actual de las aerolíneas, las condiciones de equipaje y las conexiones para sus fechas."
+          ],
+          [
+            "¿La llegada a Leticia incluye un traslado aguas arriba?",
+            "No automáticamente. Confirme la recogida, el servicio en bote, el punto de recepción y la llegada al alojamiento como servicios claramente identificados."
+          ],
+          [
+            "¿Puede confirmar nuestra conexión un horario antiguo de botes?",
+            "No. Utilice la información actual del proveedor y revise la secuencia completa de ida y vuelta antes de reservar."
+          ],
+          [
+            "¿Puede una llegada transfronteriza utilizar las mismas suposiciones que un vuelo nacional?",
+            "No. Identifique los países previstos y la ruta de entrada y verifique los requisitos documentales aplicables con las autoridades correspondientes."
+          ]
+        ],
+        "sections": [
+          [
+            "Coordine Leticia con el destino posterior",
+            "Leticia es la puerta de entrada para este circuito del sur de la Amazonía colombiana. Comience con el resumen de Colombia e identifique dónde comienza realmente el primer día completo de su viaje: en la ciudad, en una base aguas arriba o con un anfitrión que recibe al grupo en la selva. La llegada a la puerta de entrada es solo una parte de llegar a esa experiencia. Compare la secuencia completa, incluyendo equipaje, recogida y cualquier tramo fluvial posterior, antes de reservar sus partes por separado.",
+            "La guía de Leticia ayuda a distinguir el tiempo en la puerta de entrada del viaje más allá de ella. Proporcione al organizador sus detalles de llegada y salida y pregunte qué servicios pueden coordinarse alrededor de ellos. Una reserva debe dejar claro si la primera noche es en la ciudad o más aguas arriba. Evite tratar una llegada al aeropuerto, una salida en bote y el inicio de una actividad como el mismo evento; cada uno necesita su propio punto de encuentro y contacto responsable."
+          ],
+          [
+            "Vuelos a Leticia: confirme las opciones para sus fechas",
+            "La orientación oficial de acceso de Amacayacu identifica una ruta a Leticia desde Bogotá. Utilice eso como punto de partida al investigar la conexión del vuelo, luego verifique la disponibilidad actual de las aerolíneas para sus fechas reales de viaje. Esta guía no establece un horario, tarifa ni frecuencia operativa. Compare el viaje completo desde su punto de partida en lugar de asumir que una llegada a otra ciudad colombiana se conecta automáticamente sin problemas con Leticia.",
+            "Antes de aceptar un itinerario, verifique el aeropuerto de llegada, las condiciones de equipaje y cualquier conexión con boleto separado con el proveedor correspondiente. Si viaja internacionalmente antes del tramo nacional, comente la secuencia práctica en lugar de calcular la conexión solo según la duración del vuelo. Comparta los detalles de la reserva confirmada con la persona que organiza la parte amazónica del viaje. Mantenga una noche en Leticia como opción para evaluar, no como un requisito automático ni como sustituto universalmente seguro para verificar la conexión real."
+          ],
+          [
+            "Del aeropuerto al punto de salida",
+            "Aclare si alguien lo recibe en el aeropuerto, qué nombre o contacto identifica a esa persona y dónde termina el traslado. El destino puede ser un alojamiento en la ciudad, un punto de salida en bote u otro lugar de encuentro acordado. Pregunte si se incluye el manejo de equipaje y asistencia. Estos detalles son especialmente útiles cuando diferentes proveedores organizan el vuelo, el traslado en la ciudad y el servicio en bote; cada uno debe entender la misma secuencia prevista.",
+            "Mantenga las instrucciones de recogida y referencias de reserva accesibles sin conexión a internet. Acuerde cómo se comunica una llegada retrasada y qué proveedor revisa el plan posterior. No asuma que un servicio en bote espera por un vuelo no relacionado ni que un hotel organiza automáticamente cada traslado. Si el grupo necesita asistencia con equipaje, escalones o embarque, indíquelo antes de confirmar el servicio. Una llegada claramente descrita hace que el primer día sea más fácil de evaluar que una promesa amplia de un traslado sin interrupciones."
+          ],
+          [
+            "Puerto Nariño: confirme ambos puntos de encuentro",
+            "Para una estancia aguas arriba, lea la guía de Puerto Nariño junto con la guía de travesías fluviales. Identifique el punto de embarque en Leticia, el punto de recepción y cómo el grupo llega a su alojamiento después. Pregunte si el servicio propuesto es compartido o privado y qué se incluye en cada extremo. Una ruta entre dos nombres de ciudades no explica el manejo de equipaje, recogida en hotel ni las disposiciones para viajeros que necesitan ayuda para embarcar.",
+            "Verifique el regreso al confirmar el viaje de ida. Utilice la información actual del proveedor para las disposiciones de salida, en lugar de construir el itinerario alrededor de un horario antiguo o tiempo de viaje recordado. Aclare cómo se comunican los cambios de servicio y quién coordina la conexión final. Si el viaje incluye una excursión a un lago, mantenga su período de actividad distinto del transporte que llega a la base aguas arriba; de lo contrario, un traslado largo puede consumir tiempo originalmente destinado a la exploración."
+          ],
+          [
+            "Amacayacu: acuerde la recepción antes del transporte",
+            "La guía de Amacayacu explica por qué el acceso a una visita relacionada con el parque necesita más que una reserva general de bote. La orientación oficial del parque describe rutas a través de diferentes comunidades receptoras y aconseja la coordinación anticipada. Identifique al anfitrión previsto, la actividad y el punto de desembarque antes de elegir el transporte. Confirme qué proveedor maneja el tramo fluvial y quién recibe al grupo para la visita, particularmente cuando esos servicios se reservan por separado.",
+            "Pregunte qué sucede entre la llegada al punto de desembarque y el inicio de la actividad acordada. Una caminata por la selva, una visita con un anfitrión local y una estancia con pernoctación tienen diferentes requisitos en cuanto a tiempo y equipaje. Establezca si se necesita transporte posterior o asistencia y cómo se organiza el regreso. No trate el paso de un bote cerca del parque como confirmación de entrada ni de una visita guiada. Solicite la secuencia real y los servicios para que el grupo llegue a una experiencia que ha sido coordinada con su anfitrión."
+          ],
+          [
+            "Adapte las conexiones a las condiciones fluviales",
+            "Utilice la guía de la mejor época para visitar para entender la diferencia entre la información estacional general y una comprobación de la ruta para sus fechas. La orientación del parque indica que las aguas bajas pueden afectar el tiempo de viaje en su ruta de acceso descrita. Pregunte al proveedor cómo las condiciones actuales afectan su punto de desembarque particular, embarcación y actividad posterior. Una etiqueta estacional por sí sola no puede confirmar que cada conexión funcione exactamente como se muestra en un borrador de itinerario.",
+            "Mantenga claro el propósito del día si cambia una ruta. Identifique si el cambio afecta solo al transporte o reduce el tiempo disponible para la visita prevista. Pregunte sobre el punto de desembarque alternativo o la secuencia de actividades y si cambian los servicios incluidos. La flexibilidad es útil cuando preserva una experiencia significativa, pero no debe ocultar un servicio indefinido. Compare el plan actualizado con las necesidades del grupo antes de asumir que la conexión original sigue siendo apropiada."
+          ],
+          [
+            "Planifique por separado las llegadas desde otro país",
+            "Si desea llegar a través de Perú o Brasil, describa esa ruta explícitamente al solicitar un itinerario. La proximidad dentro de la región fronteriza no establece los documentos ni formalidades requeridas para su nacionalidad y viaje. Verifique los requisitos actuales con las autoridades correspondientes y confirme la entrada prevista y la ruta posterior antes de comprar sus tramos por separado. Mantenga una llegada transfronteriza distinta de un vuelo nacional a Leticia al comparar propuestas.",
+            "Pregunte quién maneja cada segmento de transporte y cómo se contacta al responsable de recepción si cambia un tramo. Verifique si los servicios de guianza o el traslado propuesto cubren la secuencia completa o solo la parte colombiana. Evite depender de una afirmación general de movimiento fronterizo fácil como sustituto de verificar su viaje específico. Agregue la ruta porque complementa su viaje completo, con suficiente tiempo para la experiencia amazónica después de la llegada, en lugar de simplemente agregar otro nombre de país."
+          ],
+          [
+            "Regreso por Leticia: revise el último día",
+            "La guía de planificación de viajes a Colombia ayuda a organizar el regreso fluvial final junto con el viaje posterior. Confirme el punto de desembarque, cualquier traslado a ciudad o aeropuerto, el manejo de equipaje y el proveedor responsable de las actualizaciones. Pregunte si tiene sentido una noche en Leticia para la ruta y salida reales. No hay un margen de conexión único que se ajuste a cada embarcación, proveedor o itinerario, por lo que revise la secuencia antes de comprometerse con ella.",
+            "Lea la guía de alojamiento en el Amazonas al comparar la última noche. Una estancia bien ubicada puede simplificar el regreso, mientras que otra noche remota puede agregar un entorno atractivo a costa de un último día más ajustado. Decida qué aporta esa noche al viaje completo. Si proveedores separados organizan el bote y el transporte posterior, asegúrese de que trabajen con los mismos detalles confirmados y entiendan lo que debe ocurrir si cambia la conexión."
+          ],
+          [
+            "Qué confirmar antes de reservar",
+            "Envíe una consulta con su punto de partida, detalles propuestos de llegada y salida, número de viajeros y bases de alojamiento previstas. Incluya cualquier requisito de embarque o asistencia con equipaje. Solicite una secuencia escrita que cubra recogida en aeropuerto o ciudad, salidas fluviales, anfitriones receptores y el regreso final. Identifique servicios confirmados, reservas separadas y disposiciones que aún requieren verificación de disponibilidad para poder comparar el viaje completo.",
+            "Mantenga los contactos de proveedores y detalles de viaje disponibles sin conexión a internet y reconfirme los puntos de encuentro antes de la salida. Utilice la guía de equipaje para preparar la maleta que necesita durante el transporte y mantenga los artículos esenciales a mano cuando el equipaje principal se transporte por separado. Si la fauna silvestre es prioridad, utilice la guía de fauna silvestre para mantener el tiempo de observación visible dentro del plan de viaje. Llegar bien al Amazonas significa llegar con suficiente tiempo útil y una ruta coordinada, no simplemente asegurar la primera conexión disponible."
+          ]
+        ]
+      }
+    },
+    "packing": {
+      "en": {
+        "type": "planning-guide",
+        "pair_id": "colombia_packing_001",
+        "hero": [
+          "amazon-forest-island-channels-aerial",
+          "Forest-covered islands separated by dark river channels"
+        ],
+        "features": {
+          "1": [
+            "amazon-riverside-thatched-lodge",
+            "Thatched buildings beside the water, illustrative lodge scene"
+          ],
+          "4": [
+            "amazon-canoe-floating-vegetation",
+            "A paddler guiding a canoe through floating vegetation"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Parques Nacionales Naturales: Amacayacu",
+            "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-amacayacu/"
+          ],
+          [
+            "Colombia Travel: Leticia",
+            "https://colombia.travel/es/leticia"
+          ]
+        ],
+        "scope": "Guidance reviewed October 8, 2026. Match equipment to the actual itinerary and confirm supplied items and transport restrictions with providers. Personal medical needs require individual professional advice.",
+        "slug": "packing-list",
+        "h1": "Colombian Amazon packing guide",
+        "title": "Colombian Amazon Packing List | Experience The Amazon",
+        "description": "Pack for Colombia’s Amazon with practical clothing, footwear, rain protection, transport-ready bags and equipment checks for your route.",
+        "lede": "Build your bag around the journey you have agreed. Keep essentials accessible and confirm what the transport, accommodation and activity providers supply.",
+        "quick": [
+          "What should you pack first?",
+          "Start with accessible documents and personal essentials, manageable clothing and footwear, and protection for belongings during your agreed route. Confirm baggage limits, provided equipment and charging or water arrangements before adding specialist items."
+        ],
+        "choices_heading": "Coordinate the practical details",
+        "choices": [
+          [
+            "Leticia gateway",
+            "Plan the town arrival and onward connection.",
+            "/colombia/leticia/"
+          ],
+          [
+            "River journeys",
+            "Distinguish transport from guided outing time.",
+            "/colombia/river-journeys/"
+          ],
+          [
+            "Plan the arrival",
+            "Connect packing with the actual transport sequence.",
+            "/colombia/how-to-get-there/"
+          ]
+        ],
+        "links": [
+          [
+            "/colombia/",
+            "Colombia overview"
+          ],
+          [
+            "/colombia/plan-your-amazon-trip/",
+            "Trip planning"
+          ],
+          [
+            "/colombia/leticia/",
+            "Leticia"
+          ],
+          [
+            "/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/contact/",
+            "Share your plans"
+          ],
+          [
+            "/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/colombia/tarapoto-lakes/",
+            "Tarapoto lakes"
+          ],
+          [
+            "/colombia/amazon-accommodation/",
+            "Accommodation"
+          ],
+          [
+            "/colombia/river-journeys/",
+            "River journeys"
+          ],
+          [
+            "/colombia/best-time-to-visit/",
+            "Best time to visit"
+          ],
+          [
+            "/colombia/wildlife/",
+            "Wildlife"
+          ],
+          [
+            "/colombia/how-to-get-there/",
+            "How to get there"
+          ],
+          [
+            "/colombia/packing-list/",
+            "Packing"
+          ]
+        ],
+        "context_links": [
+          [
+            "Colombia overview",
+            "/colombia/"
+          ],
+          [
+            "Colombia trip-planning guide",
+            "/colombia/plan-your-amazon-trip/"
+          ],
+          [
+            "Leticia guide",
+            "/colombia/leticia/"
+          ],
+          [
+            "Puerto Nariño guide",
+            "/colombia/puerto-narino/"
+          ],
+          [
+            "Amacayacu guide",
+            "/colombia/amacayacu/"
+          ],
+          [
+            "Tarapoto lakes guide",
+            "/colombia/tarapoto-lakes/"
+          ],
+          [
+            "Amazon accommodation guide",
+            "/colombia/amazon-accommodation/"
+          ],
+          [
+            "river journeys guide",
+            "/colombia/river-journeys/"
+          ],
+          [
+            "best time to visit guide",
+            "/colombia/best-time-to-visit/"
+          ],
+          [
+            "wildlife guide",
+            "/colombia/wildlife/"
+          ],
+          [
+            "an inquiry",
+            "/contact/"
+          ],
+          [
+            "how to get there guide",
+            "/colombia/how-to-get-there/"
+          ]
+        ],
+        "cta": [
+          "Prepare for the journey you want",
+          "Share your dates, activities and practical needs so transport and accommodation can support a manageable packing plan."
+        ],
+        "faqs": [
+          [
+            "Do we need to buy specialist equipment before choosing the route?",
+            "Confirm the actual activities and what providers supply first. Pack around the agreed itinerary rather than equipment intended for a different trip."
+          ],
+          [
+            "Are boots or night-outing items always supplied?",
+            "Do not assume so. Check the equipment and sizes offered for the particular activity and ask what personal items you need to bring."
+          ],
+          [
+            "What belongs in the accessible transport bag?",
+            "Keep travel documents, booking details, personal necessities, equipment protection and a practical change accessible while larger luggage is handled separately."
+          ],
+          [
+            "Can we assume charging and battery carriage rules are the same everywhere?",
+            "No. Confirm the host’s charging arrangements and check current device or battery carriage rules with the relevant airline or transport provider."
+          ]
+        ],
+        "sections": [
+          [
+            "Pack for the actual route",
+            "A Colombian Amazon packing list should follow your itinerary. Begin with the Colombia trip-planning guide and identify the boat legs, forest activities and overnight settings you have agreed. A stay in Leticia, an upstream base and an individually arranged forest visit can involve different practical needs. Ask what the provider supplies before buying specialist equipment or carrying items that will not be used on the proposed route.",
+            "Use the how to get there guide to distinguish what you need during transport from what belongs in the overnight bag. Keep essential documents, pickup details and a small set of personal items accessible when larger bags are being handled separately. Pack in a way you can manage at the landing and between transfers. The best list helps your group move comfortably and enjoy its activities without turning luggage into another complicated part of the itinerary."
+          ],
+          [
+            "Clothing: manageable layers and a spare change",
+            "Choose comfortable clothing for the activities and walking pace planned with the guide. Include a practical change of clothes and ask how wet items are managed at the accommodation. Amacayacu’s park information describes a humid climate; a comparatively drier travel period does not eliminate the possibility of rain. Avoid planning every day around a single outfit drying quickly or assuming that town facilities are available at every overnight stop. As a starting set, consider lightweight tops, comfortable trousers, spare underwear and socks, and a rain layer suited to the agreed activities.",
+            "Discuss any specialist clothing requirement with the provider rather than accepting a universal outfit recommendation for every Amazon activity. Pack items you can comfortably wear while seated on a boat and moving through the agreed setting. Keep the change you may need on arrival accessible. If you will return to a town base between outings, ask whether that changes the amount you need to carry during an excursion instead of transporting the complete overnight bag everywhere."
+          ],
+          [
+            "Footwear: match the planned activity",
+            "Ask which footwear suits the actual walk and whether any activity equipment is supplied in the right size. Confirm where you will be walking, how long you expect to be away and how boarding works at the landings. A generic photograph of a forest trail cannot establish the ground conditions for your visit. Discuss comfort and any mobility needs before accepting the activity, so footwear choices support a route the group can enjoy.",
+            "If borrowed boots or other equipment are offered, confirm the arrangement in advance and ask what personal items are needed with them. Bring a practical alternative for time at the accommodation if it fits your luggage allowance. Avoid testing uncomfortable new footwear for the first time during an important outing. Keep the plan manageable: choosing the right activity and pace matters more than carrying equipment intended to compensate for a route that does not suit the traveler."
+          ],
+          [
+            "Rain protection and boat-access essentials",
+            "For river journeys, ask the provider what it recommends for protecting bags and equipment during the actual service. Organize belongings so essential items can remain accessible while larger luggage is moved separately. A protective bag or cover should be suitable for what it carries; do not assume that a general rain cover makes every device safe under all conditions. Discuss any valuable or sensitive equipment before confirming a journey with limited luggage handling.",
+            "Keep one manageable bag for the items needed during the excursion and decide where the overnight luggage stays. Review the boarding arrangements with the organizer if carrying several bags would be difficult. Include the protection needed for a change of clothes and important documents, not only camera equipment. The aim is a practical system you can use at a landing, on the boat and after arrival rather than a packing list assembled independently of the transport plan."
+          ],
+          [
+            "Personal supplies: confirm what the stay provides",
+            "Use the Amazon accommodation guide to confirm drinking-water arrangements, meals and any essential personal supplies needed at each base. Bring a refillable bottle if it suits the arrangements described by the host, and ask how it can be refilled during outings. Explain dietary needs before booking. Packing a few useful items does not replace confirming that the proposed stay and excursion plan can meet an essential requirement.",
+            "For medicines or individual health needs, seek guidance from your own qualified clinician or pharmacist and plan the supplies you personally require. Tell the organizer about practical assistance needed without assuming the guide can provide clinical care or replace essential medication. This packing guide does not prescribe preventive treatment. Keep personal necessities accessible during transport, and check relevant travel or airline restrictions with the appropriate provider when an item needs special handling."
+          ],
+          [
+            "Camera, binoculars and charging",
+            "Use the wildlife guide to decide how much observation equipment you want to carry. A manageable camera setup or binoculars may fit the trip better than a larger collection that complicates every boarding. Explain photographic priorities to the organizer so observation periods and handling needs fit the activity. Equipment does not create a guaranteed close encounter, and a comfortable way to watch can be valuable even when the desired photograph is not possible.",
+            "Ask the host about charging arrangements and identify any requirement essential to your stay. Keep booking information and provider contacts available offline. If bringing additional batteries or a power bank, check current carriage rules with the airline or transport provider rather than treating a general packing suggestion as permission to carry every device. Protect equipment for the journey you have actually arranged, and ask before bringing specialist items whose use may need authorization."
+          ],
+          [
+            "Night outings and specialist activities",
+            "If a night walk or boat excursion is agreed, confirm which equipment is provided and what you need to bring. Ask about the activity setting, duration and return arrangements before adding items to the bag. A light, footwear requirement or other equipment may differ between outings, so use the organizer’s instructions for the actual service. Do not assume every stay includes a night excursion or that purchasing more equipment makes one available.",
+            "Check any specialist activity separately from the general packing list. Discuss the use of drones or other equipment before traveling; park guidance requires advance authorization for drones in its jurisdiction. Keep permission requirements distinct from transport rules for batteries and devices. Ask for the applicable instructions rather than inferring approval from another traveler’s image or a provider’s photograph. This helps avoid arriving with equipment that cannot be used as expected."
+          ],
+          [
+            "Keep the bag and your footprint manageable",
+            "The Amacayacu guide includes the park’s approach to visiting responsibly. Its guidance asks visitors to manage their waste and reduce disposable items. Consider how you will keep packaging and used personal items contained during an excursion, then dispose of them appropriately through the arrangements described by the host. Pack useful reusable items when they fit the trip instead of carrying unnecessary single-use extras for every day.",
+            "Review the full luggage total against current transport allowances and the group’s ability to handle it at the landings. Ask whether bags can remain at a base during an excursion and where they are kept. Fewer property changes may simplify equipment and clothing management, provided the itinerary still supports your interests. Avoid assuming that someone else will carry a heavy collection of bags when assistance has not been agreed with the provider."
+          ],
+          [
+            "Your final checklist before departure",
+            "Confirm the itinerary, overnight locations, equipment supplied, baggage limits and pickup instructions before closing the bag. Use the best time to visit guide as seasonal background, then check the current arrangements with the provider. Keep documents, booking references, personal necessities, equipment protection and a practical change accessible. Review any essential clothing or footwear requirement against the actual activity rather than a list written for a different route.",
+            "Send an inquiry with your dates, group needs and the activities you want to plan. Ask specific questions about provided equipment and anything essential to comfort or access. The Leticia guide and Puerto Nariño guide help relate the packing system to your bases. A well-prepared bag supports the journey you have chosen; it should leave you free to observe and learn, instead of creating a second itinerary built around moving and managing possessions."
+          ]
+        ]
+      },
+      "es": {
+        "type": "planning-guide",
+        "pair_id": "colombia_packing_001",
+        "hero": [
+          "amazon-forest-island-channels-aerial",
+          "Islas cubiertas de bosque separadas por canales fluviales oscuros"
+        ],
+        "features": {
+          "1": [
+            "amazon-riverside-thatched-lodge",
+            "Edificios con techo de paja junto al agua, escena ilustrativa de lodge"
+          ],
+          "4": [
+            "amazon-canoe-floating-vegetation",
+            "Persona guiando una canoa entre vegetación flotante"
+          ]
+        },
+        "feature_sides": {
+          "1": "left",
+          "4": "right"
+        },
+        "sources": [
+          [
+            "Parques Nacionales Naturales: Amacayacu",
+            "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-amacayacu/"
+          ],
+          [
+            "Colombia Travel: Leticia",
+            "https://colombia.travel/es/leticia"
+          ]
+        ],
+        "scope": "Orientación revisada el 8 de octubre de 2026. Adapte el equipo al itinerario y confirme qué se suministra y las restricciones de transporte. Consulte sus necesidades médicas con un profesional cualificado.",
+        "slug": "que-llevar",
+        "h1": "Qué llevar a la Amazonía colombiana",
+        "title": "Amazonía colombiana: qué llevar | Experience The Amazon",
+        "description": "Prepare el equipaje para la Amazonía colombiana con ropa, calzado, protección contra lluvia y equipo adaptados a su ruta y alojamiento.",
+        "lede": "Prepare el equipaje según el viaje acordado. Mantenga los artículos esenciales a mano y confirme qué suministran los proveedores de transporte, alojamiento y actividades.",
+        "quick": [
+          "¿Por dónde empezar a preparar el equipaje?",
+          "Comience con documentos y artículos personales esenciales a mano, ropa y calzado cómodos y protección para sus pertenencias. Confirme los límites de equipaje, el equipo suministrado y las condiciones de carga de dispositivos y agua potable antes de añadir artículos especializados."
+        ],
+        "choices_heading": "Coordine los detalles prácticos",
+        "choices": [
+          [
+            "Llegada a Leticia",
+            "Planifique la llegada a la ciudad y la conexión posterior.",
+            "/es/colombia/leticia/"
+          ],
+          [
+            "Viajes fluviales",
+            "Distinga entre el transporte y el tiempo de excursión guiada.",
+            "/es/colombia/viajes-fluviales/"
+          ],
+          [
+            "Planifique la llegada",
+            "Conecte el equipaje con la secuencia real de transporte.",
+            "/es/colombia/como-llegar/"
+          ]
+        ],
+        "links": [
+          [
+            "/es/colombia/",
+            "Resumen de Colombia"
+          ],
+          [
+            "/es/colombia/planifica-tu-viaje-a-la-amazonia/",
+            "Planificación del viaje"
+          ],
+          [
+            "/es/colombia/leticia/",
+            "Leticia"
+          ],
+          [
+            "/es/colombia/puerto-narino/",
+            "Puerto Nariño"
+          ],
+          [
+            "/es/contacto/",
+            "Comparta sus planes"
+          ],
+          [
+            "/es/colombia/amacayacu/",
+            "Amacayacu"
+          ],
+          [
+            "/es/colombia/lagos-de-tarapoto/",
+            "Lagos de Tarapoto"
+          ],
+          [
+            "/es/colombia/alojamientos-amazonicos/",
+            "Alojamiento"
+          ],
+          [
+            "/es/colombia/viajes-fluviales/",
+            "Viajes fluviales"
+          ],
+          [
+            "/es/colombia/mejor-epoca-para-visitar/",
+            "Mejor época para visitar"
+          ],
+          [
+            "/es/colombia/fauna/",
+            "Fauna silvestre"
+          ],
+          [
+            "/es/colombia/como-llegar/",
+            "Cómo llegar"
+          ],
+          [
+            "/es/colombia/que-llevar/",
+            "Equipaje"
+          ]
+        ],
+        "context_links": [
+          [
+            "guía de planificación del viaje a Colombia",
+            "/es/colombia/planifica-tu-viaje-a-la-amazonia/"
+          ],
+          [
+            "guía de Amacayacu",
+            "/es/colombia/amacayacu/"
+          ],
+          [
+            "guía de alojamiento en el Amazonas",
+            "/es/colombia/alojamientos-amazonicos/"
+          ],
+          [
+            "guía de la mejor época para visitar",
+            "/es/colombia/mejor-epoca-para-visitar/"
+          ],
+          [
+            "guía de fauna silvestre",
+            "/es/colombia/fauna/"
+          ],
+          [
+            "una consulta",
+            "/es/contacto/"
+          ],
+          [
+            "guía de cómo llegar",
+            "/es/colombia/como-llegar/"
+          ],
+          [
+            "guía de Leticia",
+            "/es/colombia/leticia/"
+          ],
+          [
+            "guía de Puerto Nariño",
+            "/es/colombia/puerto-narino/"
+          ]
+        ],
+        "cta": [
+          "Prepárese para el viaje que desea",
+          "Comparta sus fechas, actividades y necesidades prácticas para coordinar el equipaje con el transporte y el alojamiento."
+        ],
+        "faqs": [
+          [
+            "¿Necesitamos comprar equipo especializado antes de elegir la ruta?",
+            "Confirme primero las actividades reales y lo que suministran los proveedores. Prepare el equipaje en función del itinerario acordado en lugar del equipo destinado a un viaje diferente."
+          ],
+          [
+            "¿Siempre se suministran botas o artículos para salidas nocturnas?",
+            "No asuma que sí. Verifique el equipo y tallas ofrecidos para la actividad particular y pregunte qué artículos personales debe llevar."
+          ],
+          [
+            "¿Qué conviene llevar en la bolsa accesible durante el traslado?",
+            "Mantenga a mano los documentos de viaje, datos de reserva, artículos personales esenciales, protección para el equipo y una muda de ropa, mientras el equipaje principal se maneja por separado."
+          ],
+          [
+            "¿Podemos asumir que las reglas de carga y baterías son iguales en todas partes?",
+            "No. Confirme las opciones para cargar equipos del anfitrión y verifique las reglas actuales de transporte de dispositivos o baterías con la aerolínea o proveedor de transporte correspondiente."
+          ]
+        ],
+        "sections": [
+          [
+            "Prepare el equipaje según la ruta",
+            "Una lista de equipaje para el Amazonas colombiano debe seguir su itinerario. Comience con la guía de planificación del viaje a Colombia e identifique los tramos en bote, actividades en la selva y alojamientos que ha acordado. Una estancia en Leticia, una base aguas arriba y una visita a la selva organizada por separado pueden implicar necesidades prácticas diferentes. Pregunte qué suministra el proveedor antes de comprar equipo especializado o llevar artículos que no se usarán en la ruta propuesta.",
+            "Utilice la guía de cómo llegar para distinguir lo que necesita durante el transporte de lo que pertenece a el equipaje para la estancia. Mantenga documentos esenciales, detalles de recogida y un pequeño conjunto de artículos personales accesibles cuando se manejen las maletas más grandes por separado. Prepare el equipaje de manera que pueda manejarlo en el desembarco y entre traslados. La mejor lista ayuda a su grupo a moverse cómodamente y disfrutar de sus actividades sin convertir el equipaje en otra parte complicada del itinerario."
+          ],
+          [
+            "Ropa cómoda y una muda a mano",
+            "Elija ropa cómoda para las actividades y el ritmo de caminata planificados con el guía. Incluya una muda de ropa y pregunte cómo se manejan los artículos mojados en el alojamiento. La información del parque de Amacayacu describe un clima húmedo; un período de viaje relativamente más seco no elimina la posibilidad de lluvia. Evite planificar cada día alrededor de una única muda que se seque rápidamente o asumir que las instalaciones de la ciudad están disponibles en cada parada nocturna. Como punto de partida, considere camisetas ligeras, pantalones cómodos, ropa interior y calcetines de repuesto, y una prenda contra la lluvia adecuada para las actividades acordadas.",
+            "Comente cualquier requisito de ropa especializada con el proveedor en lugar de aceptar una recomendación de vestimenta universal para cada actividad del Amazonas. Lleve artículos que pueda usar cómodamente sentado en un bote y moviéndose a través del entorno acordado. Mantenga accesible el cambio que pueda necesitar al llegar. Si volverá a una base urbana entre excursiones, pregunte si eso cambia la cantidad que necesita llevar durante una excursión en lugar de transportar todo el equipaje para la estancia en todas partes."
+          ],
+          [
+            "Calzado adecuado para la actividad",
+            "Pregunte qué calzado se adapta a la caminata prevista y si el proveedor ofrece el equipo necesario en la talla correcta. Confirme dónde caminará, cuánto tiempo estará fuera de la base y cómo se embarca en los puntos de salida y llegada. Una fotografía genérica de un sendero no establece las condiciones del terreno para su visita. Comente sus preferencias de comodidad y necesidades de movilidad antes de aceptar la actividad, para que el calzado acompañe una ruta que el grupo pueda disfrutar.",
+            "Si se ofrecen botas u otro equipo prestado, confirme las condiciones con antelación y pregunte qué artículos personales necesita para utilizarlos. Lleve una alternativa práctica para el alojamiento si cabe dentro de su límite de equipaje. Evite estrenar calzado incómodo durante una salida importante. Mantenga el plan manejable: elegir una actividad y un ritmo adecuados es más útil que llevar equipo para compensar una ruta que no se adapta al viajero."
+          ],
+          [
+            "Proteja sus pertenencias durante los traslados",
+            "Para los viajes fluviales, pregunte al proveedor qué recomienda para proteger las maletas y el equipo durante el servicio real. Organice sus pertenencias de modo que los artículos esenciales puedan permanecer accesibles mientras se mueve el equipaje más grande por separado. Una bolsa o cubierta protectora debe ser adecuada para lo que lleva; no asuma que una funda general contra la lluvia protege todos los dispositivos en cualquier circunstancia. Comente cualquier equipo valioso o sensible antes de confirmar un viaje con manejo limitado de equipaje.",
+            "Mantenga una maleta manejable para los artículos necesarios durante la excursión y decida dónde se queda el equipaje para la estancia. Revise los arreglos de embarque con el organizador si llevar varias maletas sería difícil. Incluya la protección necesaria para un cambio de ropa y documentos importantes, no solo el equipo fotográfico. El objetivo es un sistema práctico que pueda usar en un desembarco, en el bote y después de la llegada, en lugar de una lista de equipaje preparada por separado del plan de transporte."
+          ],
+          [
+            "Artículos personales y servicios del alojamiento",
+            "Utilice la guía de alojamiento en el Amazonas para confirmar las condiciones de suministro de agua potable, comidas y cualquier suministro personal esencial necesario en cada base. Lleve una botella reutilizable si se ajusta a las condiciones descritas por el anfitrión y pregunte cómo puede rellenarse durante las excursiones. Explique sus necesidades dietéticas antes de reservar. Llevar algunos artículos útiles no reemplaza confirmar que la estancia propuesta y el plan de excursión pueden satisfacer un requisito esencial.",
+            "Para medicamentos o necesidades de salud individuales, busque orientación de su médico o farmacéutico cualificado y planifique los suministros que requiere personalmente. Dígale al organizador sobre la asistencia práctica necesaria sin asumir que el guía puede proporcionar atención clínica o reemplazar medicamentos esenciales. Esta guía de equipaje no prescribe tratamiento preventivo. Mantenga las necesidades personales accesibles durante el transporte y verifique las restricciones de viaje o aerolíneas que correspondan con el proveedor correspondiente cuando un artículo necesita manejo especial."
+          ],
+          [
+            "Cámara, binoculares y carga de equipos",
+            "Utilice la guía de fauna silvestre para decidir cuánto equipo de observación desea llevar. Un equipo fotográfico manejable o unos binoculares pueden encajar mejor en el viaje que una colección más grande que complica cada embarque. Explique las prioridades fotográficas al organizador para que los períodos de observación y necesidades de manejo se ajusten a la actividad. El equipo no crea un encuentro cercano garantizado, y una forma cómoda de observar puede ser valiosa incluso cuando la fotografía deseada no es posible.",
+            "Pregunte al anfitrión sobre las opciones para cargar equipos e identifique cualquier requisito esencial para su estancia. Mantenga disponible la información de reserva y contactos del proveedor sin conexión. Si trae baterías adicionales o una batería externa, verifique las reglas actuales de transporte con la aerolínea o proveedor de transporte en lugar de tratar una sugerencia general de equipaje como permiso para llevar cada dispositivo. Proteja el equipo para el viaje que ha organizado realmente y pregunte antes de traer artículos especializados cuyo uso puede necesitar autorización."
+          ],
+          [
+            "Equipo para salidas nocturnas y actividades especiales",
+            "Si se acuerda una caminata nocturna o excursión en bote, confirme qué equipo se proporciona y lo que debe llevar. Pregunte sobre el entorno de la actividad, duración y condiciones de regreso antes de agregar artículos a la maleta. Un requisito de iluminación, calzado u otro equipo puede diferir entre excursiones, por lo que use las instrucciones del organizador para el servicio real. No asuma que cada estancia incluye una excursión nocturna o que comprar más equipo hace que una esté disponible.",
+            "Verifique cualquier actividad especializada por separado de la lista general de equipaje. Comente el uso de drones u otro equipo antes de viajar; la guía del parque requiere autorización anticipada para drones en su jurisdicción. Mantenga los requisitos de permiso distintos de las normas de transporte para baterías y dispositivos. Solicite las instrucciones aplicables en lugar de inferir aprobación de la imagen de otro viajero o una fotografía del proveedor. Esto ayuda a evitar llegar con equipo que no se puede usar como se espera."
+          ],
+          [
+            "Equipaje manejable y menos residuos",
+            "La guía de Amacayacu describe las recomendaciones del parque para una visita responsable. Pide a los visitantes gestionar sus residuos y reducir los artículos desechables. Considere cómo mantendrá los envases y los artículos personales usados en una bolsa durante la excursión y deséchelos adecuadamente según las indicaciones del anfitrión. Lleve artículos reutilizables útiles cuando encajen en el viaje, en lugar de añadir productos desechables innecesarios para cada día.",
+            "Revise el total completo del equipaje contra los límites actuales de transporte y la capacidad del grupo para manejarlo en los desembarcos. Pregunte si las maletas pueden permanecer en una base durante una excursión y dónde se guardan. Menos cambios de alojamiento pueden simplificar la gestión del equipo y la ropa, siempre que el itinerario siga respondiendo a sus intereses. Evite asumir que alguien más llevará una colección pesada de maletas cuando no se ha acordado asistencia con el proveedor."
+          ],
+          [
+            "Lista final antes de salir",
+            "Confirme el itinerario, alojamientos, equipo suministrado, límites de equipaje e instrucciones de recogida antes de cerrar la maleta. Utilice la guía de la mejor época para visitar como información estacional general, luego verifique los arreglos actuales con el proveedor. Mantenga documentos, referencias de reserva, necesidades personales, protección para el equipo y una muda de ropa accesibles. Revise cualquier requisito esencial de ropa o calzado contra la actividad real en lugar de una lista escrita para una ruta diferente.",
+            "Envíe una consulta con sus fechas, necesidades del grupo y las actividades que desea planificar. Haga preguntas específicas sobre el equipo proporcionado y cualquier cosa esencial para la comodidad o el acceso. La guía de Leticia y la guía de Puerto Nariño ayudan a relacionar el sistema de equipaje con sus bases. Una maleta bien preparada facilita el viaje que ha elegido; debería dejarlo libre para observar y aprender, en lugar de crear un segundo itinerario construido alrededor de mover y gestionar posesiones."
+          ]
+        ]
+      }
+    }
+  }
+}

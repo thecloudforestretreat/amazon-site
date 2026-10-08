@@ -24,19 +24,19 @@
     "Colombia overview",
     "Trip planning"
   ],
-  "staged_pairs": 10,
-  "status": "ten_pairs_staged_technical_pass_visual_pending",
+  "staged_pairs": 12,
+  "status": "all_twelve_pairs_staged_technical_pass_release_holds",
   "quality_standard": "Same shared CSS, meaningful bilingual content, contextual internal links, reviewed facts and licensed imagery; no repeated scene within a page",
-  "staged_pages": 20,
-  "deployment": "ecf99752",
-  "previous_staging_deployment": "bda4d06c",
+  "staged_pages": 24,
+  "deployment": "831f0904",
+  "previous_staging_deployment": "ecf99752",
   "qa": {
-    "compiled_site_pages": 168,
-    "country_pages": 20,
+    "compiled_site_pages": 172,
+    "country_pages": 24,
     "errors": 0,
     "word_range": [
-      1595,
-      1944
+      1628,
+      1978
     ],
     "shared_css_tests": 4,
     "distinct_images_per_page": 3,
@@ -46,15 +46,12 @@
     "authenticated_readback": "Pending",
     "image_review": "Visible subjects reviewed; destination-specific imagery pending before release",
     "main_content_inlink_range": [
-      9,
-      10
+      11,
+      12
     ]
   },
-  "local_tokens_recorded": 56844,
-  "next_batch": [
-    "How to get there",
-    "Packing"
-  ],
+  "local_tokens_recorded": 69401,
+  "next_batch": [],
   "second_batch": [
     "Leticia",
     "Puerto Nariño"
@@ -71,5 +68,10 @@
   "fifth_batch": [
     "Best time to visit",
     "Wildlife"
-  ]
+  ],
+  "sixth_batch": [
+    "How to get there",
+    "Packing"
+  ],
+  "next_step": "Destination imagery, rendered and authenticated QA, then full-country release review"
 }
