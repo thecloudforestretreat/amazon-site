@@ -5,9 +5,9 @@
   "planned_pairs": 12,
   "planned_pages": 24,
   "batch_size_pairs": 2,
-  "staged_pairs": 4,
-  "staged_pages": 8,
-  "status": "batch2_staged_technical_pass_visual_pending",
+  "staged_pairs": 6,
+  "staged_pages": 12,
+  "status": "batch3_staged_technical_pass_visual_pending",
   "topics": [
     "Overview",
     "Trip planning",
@@ -23,35 +23,39 @@
     "Packing"
   ],
   "next_batch": [
-    "Rupununi",
-    "Community stays"
+    "Rainforest accommodation",
+    "River journeys"
   ],
   "pending": [
-    "Bilingual review",
-    "Technical and protected staging QA",
-    "Destination imagery",
-    "Desktop/mobile review",
+    "Destination imagery confirmation",
+    "Desktop/mobile visual review",
+    "Authenticated staging readback",
+    "Remaining six bilingual pairs",
     "Country release QA",
     "Owner production authorization"
   ],
-  "deployment": "709502bb",
-  "local_tokens_recorded": 19320,
+  "deployment": "765a9c08",
+  "local_tokens_recorded": 29731,
   "qa": {
-    "country_pages": 8,
-    "compiled_pages": 180,
+    "country_pages": 12,
+    "compiled_pages": 184,
     "errors": 0,
     "css_contact_tests": 25,
     "main_words": [
-      1442,
-      1788
+      1472,
+      1832
     ],
     "inlink_range": [
-      3,
-      4
+      5,
+      6
     ],
     "production_containment": "passed",
     "visual_review": "Browser admin-enforced policy unavailable; pending",
     "authenticated_staging_readback": "pending"
   },
-  "previous_staging_deployment": "f9445fa3"
+  "previous_staging_deployment": "709502bb",
+  "active_batch": [
+    "Rupununi",
+    "Community stays"
+  ]
 }

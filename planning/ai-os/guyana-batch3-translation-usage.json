@@ -1,0 +1,25 @@
+{
+  "runs": [
+    {
+      "topic": "rupununi",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2266,
+      "output_tokens": 3155,
+      "seconds": 159.87,
+      "retries": 0,
+      "cache_hits": 0,
+      "done_reason": "stop"
+    },
+    {
+      "topic": "community-stays",
+      "model": "qwen3.5:9b",
+      "prompt_tokens": 2240,
+      "output_tokens": 2750,
+      "seconds": 205.3,
+      "retries": 0,
+      "cache_hits": 0,
+      "done_reason": "stop"
+    }
+  ],
+  "total_local_tokens": 10411
+}

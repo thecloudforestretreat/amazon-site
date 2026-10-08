@@ -1,14 +1,16 @@
 {
-  "pages_audited": 8,
+  "pages_audited": 12,
   "errors": [],
   "pages": [
     {
       "route": "/es/guyana/",
-      "main_words": 1778,
+      "main_words": 1822,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/",
         "/es/guyana/georgetown/",
+        "/es/guyana/rupununi/",
+        "/es/guyana/estancias-comunitarias/",
         "/es/guyana/iwokrama/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/"
       ],
@@ -16,10 +18,46 @@
         "/es/",
         "/es/colombia/",
         "/es/contacto/",
+        "/es/guyana/estancias-comunitarias/",
         "/es/guyana/georgetown/",
         "/es/guyana/iwokrama/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/",
+        "/es/guyana/rupununi/",
         "/es/peru/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/guyana.css?v=20f736e973de"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/es/guyana/estancias-comunitarias/",
+      "main_words": 1687,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/es/guyana/",
+        "/es/guyana/georgetown/",
+        "/es/guyana/rupununi/",
+        "/es/guyana/iwokrama/",
+        "/es/guyana/planifica-tu-viaje-a-la-selva/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/contacto/",
+        "/es/guyana/",
+        "/es/guyana/georgetown/",
+        "/es/guyana/iwokrama/",
+        "/es/guyana/planifica-tu-viaje-a-la-selva/",
+        "/es/guyana/rupununi/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -37,10 +75,12 @@
     },
     {
       "route": "/es/guyana/georgetown/",
-      "main_words": 1752,
+      "main_words": 1796,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/guyana/",
+        "/es/guyana/rupununi/",
+        "/es/guyana/estancias-comunitarias/",
         "/es/guyana/iwokrama/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/"
       ],
@@ -48,8 +88,10 @@
         "/es/",
         "/es/contacto/",
         "/es/guyana/",
+        "/es/guyana/estancias-comunitarias/",
         "/es/guyana/iwokrama/",
-        "/es/guyana/planifica-tu-viaje-a-la-selva/"
+        "/es/guyana/planifica-tu-viaje-a-la-selva/",
+        "/es/guyana/rupununi/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -67,19 +109,23 @@
     },
     {
       "route": "/es/guyana/iwokrama/",
-      "main_words": 1661,
+      "main_words": 1705,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/guyana/",
         "/es/guyana/georgetown/",
+        "/es/guyana/rupununi/",
+        "/es/guyana/estancias-comunitarias/",
         "/es/guyana/planifica-tu-viaje-a-la-selva/"
       ],
       "main_content_outlinks": [
         "/es/",
         "/es/contacto/",
         "/es/guyana/",
+        "/es/guyana/estancias-comunitarias/",
         "/es/guyana/georgetown/",
-        "/es/guyana/planifica-tu-viaje-a-la-selva/"
+        "/es/guyana/planifica-tu-viaje-a-la-selva/",
+        "/es/guyana/rupununi/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -97,11 +143,13 @@
     },
     {
       "route": "/es/guyana/planifica-tu-viaje-a-la-selva/",
-      "main_words": 1788,
+      "main_words": 1832,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/es/guyana/",
         "/es/guyana/georgetown/",
+        "/es/guyana/rupununi/",
+        "/es/guyana/estancias-comunitarias/",
         "/es/guyana/iwokrama/"
       ],
       "main_content_outlinks": [
@@ -109,8 +157,10 @@
         "/es/colombia/",
         "/es/contacto/",
         "/es/guyana/",
+        "/es/guyana/estancias-comunitarias/",
         "/es/guyana/georgetown/",
         "/es/guyana/iwokrama/",
+        "/es/guyana/rupununi/",
         "/es/peru/"
       ],
       "css": [
@@ -128,12 +178,48 @@
       "issues": []
     },
     {
+      "route": "/es/guyana/rupununi/",
+      "main_words": 1714,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/es/guyana/",
+        "/es/guyana/georgetown/",
+        "/es/guyana/estancias-comunitarias/",
+        "/es/guyana/iwokrama/",
+        "/es/guyana/planifica-tu-viaje-a-la-selva/"
+      ],
+      "main_content_outlinks": [
+        "/es/",
+        "/es/contacto/",
+        "/es/guyana/",
+        "/es/guyana/estancias-comunitarias/",
+        "/es/guyana/georgetown/",
+        "/es/guyana/iwokrama/",
+        "/es/guyana/planifica-tu-viaje-a-la-selva/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/guyana.css?v=20f736e973de"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
       "route": "/guyana/",
-      "main_words": 1510,
+      "main_words": 1540,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/",
         "/guyana/georgetown/",
+        "/guyana/rupununi/",
+        "/guyana/community-stays/",
         "/guyana/iwokrama/",
         "/guyana/plan-your-rainforest-trip/"
       ],
@@ -141,10 +227,46 @@
         "/",
         "/colombia/",
         "/contact/",
+        "/guyana/community-stays/",
         "/guyana/georgetown/",
         "/guyana/iwokrama/",
         "/guyana/plan-your-rainforest-trip/",
+        "/guyana/rupununi/",
         "/peru/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/guyana.css?v=20f736e973de"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/guyana/community-stays/",
+      "main_words": 1486,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/guyana/",
+        "/guyana/georgetown/",
+        "/guyana/rupununi/",
+        "/guyana/iwokrama/",
+        "/guyana/plan-your-rainforest-trip/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/contact/",
+        "/guyana/",
+        "/guyana/georgetown/",
+        "/guyana/iwokrama/",
+        "/guyana/plan-your-rainforest-trip/",
+        "/guyana/rupununi/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -162,10 +284,12 @@
     },
     {
       "route": "/guyana/georgetown/",
-      "main_words": 1490,
+      "main_words": 1520,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/guyana/",
+        "/guyana/rupununi/",
+        "/guyana/community-stays/",
         "/guyana/iwokrama/",
         "/guyana/plan-your-rainforest-trip/"
       ],
@@ -173,8 +297,10 @@
         "/",
         "/contact/",
         "/guyana/",
+        "/guyana/community-stays/",
         "/guyana/iwokrama/",
-        "/guyana/plan-your-rainforest-trip/"
+        "/guyana/plan-your-rainforest-trip/",
+        "/guyana/rupununi/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -192,19 +318,23 @@
     },
     {
       "route": "/guyana/iwokrama/",
-      "main_words": 1442,
+      "main_words": 1472,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/guyana/",
         "/guyana/georgetown/",
+        "/guyana/rupununi/",
+        "/guyana/community-stays/",
         "/guyana/plan-your-rainforest-trip/"
       ],
       "main_content_outlinks": [
         "/",
         "/contact/",
         "/guyana/",
+        "/guyana/community-stays/",
         "/guyana/georgetown/",
-        "/guyana/plan-your-rainforest-trip/"
+        "/guyana/plan-your-rainforest-trip/",
+        "/guyana/rupununi/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
@@ -222,11 +352,13 @@
     },
     {
       "route": "/guyana/plan-your-rainforest-trip/",
-      "main_words": 1520,
+      "main_words": 1550,
       "h2_sections": 13,
       "main_content_inlinks": [
         "/guyana/",
         "/guyana/georgetown/",
+        "/guyana/rupununi/",
+        "/guyana/community-stays/",
         "/guyana/iwokrama/"
       ],
       "main_content_outlinks": [
@@ -234,9 +366,45 @@
         "/colombia/",
         "/contact/",
         "/guyana/",
+        "/guyana/community-stays/",
         "/guyana/georgetown/",
         "/guyana/iwokrama/",
+        "/guyana/rupununi/",
         "/peru/"
+      ],
+      "css": [
+        "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",
+        "/assets/css/core.css?v=f235948f527a",
+        "/assets/css/clusters/editorial.css?v=99098e34d0a5",
+        "/assets/css/clusters/guyana.css?v=20f736e973de"
+      ],
+      "unique_images": 3,
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "WebPage"
+      ],
+      "issues": []
+    },
+    {
+      "route": "/guyana/rupununi/",
+      "main_words": 1488,
+      "h2_sections": 13,
+      "main_content_inlinks": [
+        "/guyana/",
+        "/guyana/georgetown/",
+        "/guyana/community-stays/",
+        "/guyana/iwokrama/",
+        "/guyana/plan-your-rainforest-trip/"
+      ],
+      "main_content_outlinks": [
+        "/",
+        "/contact/",
+        "/guyana/",
+        "/guyana/community-stays/",
+        "/guyana/georgetown/",
+        "/guyana/iwokrama/",
+        "/guyana/plan-your-rainforest-trip/"
       ],
       "css": [
         "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;600;700&display=swap",

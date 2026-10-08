@@ -1,0 +1,36 @@
+{
+  "deployment": "765a9c08",
+  "rollback": "709502bb",
+  "date": "2026-10-08",
+  "new_pairs": 2,
+  "new_pages": 4,
+  "country_pairs": 6,
+  "country_pages": 12,
+  "compiled_staging_pages": 184,
+  "technical_errors": 0,
+  "css_contact_tests": 25,
+  "contextual_targets_per_page": [
+    5,
+    6
+  ],
+  "main_word_range": [
+    1472,
+    1832
+  ],
+  "image_reuse_owner_authorized": true,
+  "scene_repeats_per_page": 0,
+  "image_scope": "Illustrative owner-licensed library photos; no exact Guyana capture location claimed",
+  "production_containment": "Passed: 172 pages, Guyana absent from routes and sitemap; Colombia retained",
+  "local_tokens": 10411,
+  "cumulative_guyana_local_tokens": 29731,
+  "retries": 0,
+  "cache_hits": 0,
+  "visual_review": "Pending; existing browser policy verification failure retained, no bypass",
+  "authenticated_readback": "Pending; four unauthenticated Access redirects verified separately",
+  "bilingual_review": "All nine sections and four FAQs retained; Spanish grammar, routes and image descriptions reviewed",
+  "observed_failure": "Missing reused otter attribution metadata corrected; renderer and complete validation rerun successfully",
+  "next_batch": [
+    "Rainforest accommodation",
+    "River journeys"
+  ]
+}

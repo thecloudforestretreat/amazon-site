@@ -1,0 +1,27 @@
+{
+  "deployment": "765a9c08",
+  "method": "curl HEAD",
+  "initial_python_fetch": "403; not treated as successful",
+  "checks": [
+    {
+      "route": "/guyana/rupununi/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/guyana/rupununi/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/guyana/community-stays/",
+      "status": 302,
+      "access_redirect": true
+    },
+    {
+      "route": "/es/guyana/estancias-comunitarias/",
+      "status": 302,
+      "access_redirect": true
+    }
+  ]
+}

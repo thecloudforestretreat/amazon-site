@@ -1,0 +1,50 @@
+{
+  "reuse_authorized": true,
+  "same_page_scene_repeats": 0,
+  "placements": [
+    {
+      "topic": "rupununi",
+      "image": "amazon-meandering-river-aerial-wide",
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-meandering-river-aerial-wide.webp",
+      "sha256": "8b5f13e41822cc1e97ea7476dee2ccaf9be67c9e217b659d6d5add1cf918d375",
+      "capture_location_verified": false
+    },
+    {
+      "topic": "rupununi",
+      "image": "amazon-canoe-group-lake-journey",
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-canoe-group-lake-journey.webp",
+      "sha256": "33cf4a20f888c2e78c24075d1316a242299ed4385fff0c823857ce10a753e10a",
+      "capture_location_verified": false
+    },
+    {
+      "topic": "rupununi",
+      "image": "amazon-otter-wide",
+      "src": "/assets/images/pages/countries/peru/optimized/amazon-otter-wide.webp",
+      "sha256": "cb4138cd095a9829246fe4be58d32e7e6291839df2292ab9d716787eaf64115c",
+      "capture_location_verified": false
+    },
+    {
+      "topic": "community-stays",
+      "image": "amazon-village-raised-wooden-walkway",
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-village-raised-wooden-walkway.webp",
+      "sha256": "7cb40b520f1dd6ab065e30fe718633170b626e007b0568ab45167b955cd116ab",
+      "capture_location_verified": false
+    },
+    {
+      "topic": "community-stays",
+      "image": "amazon-cultural-crafts-display",
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-cultural-crafts-display.webp",
+      "sha256": "e96c3910d63642b6cadd51c5578bbdd4767be7fae0f4e7c10a992daa832e54b6",
+      "capture_location_verified": false
+    },
+    {
+      "topic": "community-stays",
+      "image": "amazon-village-wooden-house-path",
+      "src": "/assets/images/pages/countries/colombia/optimized/amazon-village-wooden-house-path.webp",
+      "sha256": "3ff4df51d981cb69c723fb8d4afa01302e6b48b0c975319daf6ba6ace46df3bc",
+      "capture_location_verified": false
+    }
+  ],
+  "otter_visual_review": "Viewed actual optimized photo; otter on log, generic alt without capture-location claim",
+  "limits": "Stock scenes do not establish exact property or region; destination imagery release review retained"
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-08",
+  "claims": [
+    {
+      "source": "https://visitrupununi.com/discover-rupununi/",
+      "reviewed": [
+        "Regional river, savannah, wetland and forest settings",
+        "Rewa, Surama, Caiman House/Yupukari listed as northern community-tourism examples"
+      ],
+      "limits": "No prices, availability, contractual affiliation or universal lodge facilities claimed"
+    },
+    {
+      "source": "https://visitrupununi.com/about-us/",
+      "reviewed": [
+        "Regional tourism organization remit"
+      ],
+      "limits": "No population, area or revenue statistics published"
+    },
+    {
+      "source": "https://guyanatourism.com/conservation/",
+      "reviewed": [
+        "Community-linked regional conservation"
+      ],
+      "limits": "No guest research or donation percentage claims"
+    },
+    {
+      "source": "https://guyanatourism.com/culture/",
+      "reviewed": [
+        "Community-led culture experiences"
+      ],
+      "limits": "Local hosts control access, participation and photography"
+    },
+    {
+      "source": "https://visitrupununi.com/member/rewa-eco-lodge/",
+      "reviewed": [
+        "Named listing retained as research starting point"
+      ],
+      "limits": "No stock photo represented as actual property"
+    }
+  ],
+  "english_editorial": "Nine substantial sections and four FAQs per page, independently authored practical advice",
+  "image_review": "Existing owner-licensed scenes; otter visibly reviewed, generic landscape/village/crafts subjects; no exact capture location claims. No scene repeated within either page.",
+  "translation": "Local worker running; outputs pending review",
+  "bilingual_review": "Reviewed all nine sections and four FAQs per language; corrected regional terms, grammar, facilities wording, alt text and localized contextual routes."
+}

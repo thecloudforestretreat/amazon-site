@@ -66,9 +66,9 @@
     "promotion": "Human/supervisor-reviewed source only"
   },
   "next_actions": [
-    "Owner review second Guyana batch",
-    "Next two-pair batch Rupununi and community stays",
-    "Keep destination imagery and visual QA as release gates"
+    "Owner review Guyana batch 3",
+    "Next two-pair batch rainforest accommodation and river journeys",
+    "Keep destination imagery, visual QA and authenticated readback as release gates"
   ],
   "future_batches": [
     "Reviews deferred by owner; exclude from Ecuador launch",
@@ -111,8 +111,8 @@
     "measured_performance": "pending",
     "contact_delivery": "endpoint absent"
   },
-  "active_batch": "Guyana Georgetown and Iwokrama",
-  "batch_status": "4 of 12 bilingual pairs staged; technical passed, visual review pending",
+  "active_batch": "Guyana Rupununi and community stays",
+  "batch_status": "6 of 12 bilingual pairs staged; technical passed, visual review pending",
   "batch_browser_checks": {
     "deployment": "3efc8507",
     "date": "2026-10-06",
@@ -450,6 +450,6 @@
     "sitemap_submitted": true,
     "inbox_delivery_confirmed": true
   },
-  "active_country": "colombia",
-  "active_country_state": "planning/ai-os/colombia-progress.json"
+  "active_country": "guyana",
+  "active_country_state": "planning/ai-os/guyana-progress.json"
 }
